@@ -1,0 +1,15 @@
+{
+  "project": "el-imperio-de-dracma",
+  "name": "El Imperio de Dracma",
+  "description": "Colección de cuentos creada íntegramente con inteligencia artificial. Kilo como orquestador principal.",
+  "version": "1.0.0-dev",
+  "language": "es",
+  "rules": "AGENTS.md",
+  "canon": ["cuentos/", "docs/"],
+  "quarry": "protoversiones/",
+  "tools": "herramientas/",
+  "git": {
+    "branch": "master",
+    "remote": "git@github.com:rsc951004/el_imperio_de_dracma.git"
+  }
+}
