@@ -7,7 +7,7 @@ Reino del Imperio de Dragma. Protector de Kalos.
 Veleskaria no existía antes del Jarkil Valgard, el estado que precedió al Imperio de Dragma. Fue fundada casi al término de la Edad de los Mil Reinos bajo el nombre de **Veleskagard**. Junto con los otros siete reinos, luchó contra el Bloque de Hierro y logró derrotar la tiranía de la dinastía Valgard, poniendo fin al Jarkil y fundando el Imperio.
 
 ## Economía
-Reino altamente industrializado, especializado en minería. Las montañas Verilim, ricas en Verilium, atraviesan su territorio.
+Reino altamente industrializado, especializado en minería. Las montañas de Verim, ricas en Verilium, atraviesan su territorio.
 
 ## Gobierno
 Regida por la Casa Real Kestrel.

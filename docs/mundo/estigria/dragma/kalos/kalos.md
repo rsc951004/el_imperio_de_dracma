@@ -4,7 +4,7 @@
 Ciudad libre. Oficialmente: **Protectorado de Kalos**.
 
 ## Ubicación
-Sureste del continente de Dragma, en la costa de Talakia. Ciudad-fortaleza amurallada de forma circular, organizada en anillos concéntricos. Al este se alzan las montañas Verilim, una cordillera que cruza el continente de norte a sur y lo parte en dos: el lado oeste, habitable; el lado este, estrecho, infestado de criaturas peligrosas y prácticamente inhabitable. Deben su nombre a su alto contenido en Verilium, el mineral que repele a los Mobius.
+Sureste de Estigria, en la costa de Talakia. Ciudad-fortaleza amurallada de forma circular, organizada en anillos concéntricos. Al este se alzan las montañas de Verim, un cordón inexpugnable de terreno rugoso y altitud extrema, ricas en Verilium. Solo se abren al norte, en la Fosa de la Calamidad.
 
 ## Historia
 Kalos fue fundada por portadores y disidentes del culto al Dios Negro, formado en Astria siglos atrás. Su misión original era doble: preservar el conocimiento que el culto había declarado herejía y paganismo, y combatir al culto desde el extranjero.
@@ -12,7 +12,9 @@ Kalos fue fundada por portadores y disidentes del culto al Dios Negro, formado e
 Con los siglos, Kalos se transformó en una ciudadela del saber. Pero bajo su fachada de academia neutral, la misión original nunca se extinguió: luchar contra los Mobius.
 
 ## Estatus político
-Kalos no es un reino ni una provincia imperial. Es un protectorado. El Imperio ha jurado proteger Kalos; Kalos ha jurado servir al Imperio. Las condiciones del pacto son tres:
+Kalos es una de las tres Ciudades Libres de la Tiranía, junto con Suntaris y Esteria.
+
+Oficialmente es un protectorado imperial. El Imperio ha jurado proteger Kalos; Kalos ha jurado servir al Imperio. Las condiciones del pacto son tres:
 
 - Kalos no tendrá rey.
 - Kalos no promulgará leyes que contradigan las del Imperio.

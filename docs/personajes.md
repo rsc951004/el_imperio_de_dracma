@@ -22,9 +22,11 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 > Las secciones adicionales se añaden según el personaje lo requiera. La ficha es una herramienta de consulta para escritores: seca, rápida, sin prosa.
 
-## Personajes
+## Personajes actuales
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
-| Sandor Solaris | Cronista | Erudito de Kalos, autor de las *Crónicas de Erebia*. No es portador. Noble de la Casa Solaris. | [Ver ficha](personajes/sandor-solaris.md) |
+| Sandor Solaris | Cronista | Erudito de Kalos, autor de las *Crónicas*. No es portador. Noble de la Casa Solaris. | [Ver ficha](personajes/sandor-solaris.md) |
 | Yanos Gueika | Soldado | Guardia de la Ciudadela de Kalos. Casa común Gueika (Veleskaria). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |
+| Rudgar Valgard | Personaje histórico | Primer Reik. El Martillo Sangriento, el Traidor Rojo. Asesinó a Lux Terin. | [Ver ficha](personajes/rudgar-valgard.md) |
+| Lux Terin | Personaje histórico | Primer Invocador del Sol en Estigria. Esclavo Valgard. Héroe y mártir. Asesinado por Rudgar. | [Ver ficha](personajes/lux-terin.md) |

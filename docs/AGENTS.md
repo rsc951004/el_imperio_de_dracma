@@ -15,6 +15,10 @@ Todo lo que aquí se documenta es lore canónico y vinculante para cualquier cue
 | `mundo/` | Un archivo Markdown independiente por aspecto del mundo | Cualquiera que introduzca o modifique ambientación, lugares, cronología o reglas |
 | `entidades.md` | Índice general de entidades y razas canónicas | Cualquiera que introduzca o modifique una entidad o raza |
 | `entidades/` | Una ficha Markdown independiente por entidad o raza | Cualquiera que introduzca o modifique una entidad o raza |
+| `taburas.md` | Índice general de Táburas | Cualquiera que introduzca o modifique una Tábura |
+| `taburas/` | Una ficha Markdown independiente por Tábura | Cualquiera que introduzca o modifique una Tábura |
+| `organizaciones.md` | Índice general de organizaciones y grupos | Cualquiera que introduzca o modifique una organización |
+| `organizaciones/` | Una ficha Markdown independiente por organización o grupo | Cualquiera que introduzca o modifique una organización |
 | `notas.md` | Registro editorial de cambios y decisiones | Todos, al finalizar cualquier modificación |
 
 ## Reglas para agentes

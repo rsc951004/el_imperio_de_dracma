@@ -8,18 +8,40 @@ Cada aspecto canónico del mundo posee un archivo individual en `mundo/`, organi
 mundo/
 ├── erebia/
 ├── astria/
-└── dragga/
-    ├── kalos/
-    │   └── kalos.md
-    └── veleskaria/
-        └── veleskaria.md
+└── estigria/
+    ├── estigria.md
+    ├── valgard.md
+    └── dragma/
+        ├── kalos/
+        │   └── kalos.md
+        ├── veleskaria/
+        │   └── veleskaria.md
+        └── eldengaria/
 ```
 
-## Lugares
-
-### Dragma
+## Continentes
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Kalos | Ciudad libre | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. Opera como protectorado imperial. | [Ver ficha](mundo/dragma/kalos/kalos.md) |
-| Veleskaria | Reino | Reino minero e industrial. Fundado como Veleskagard al final de la Edad de los Mil Reinos. Protector de Kalos. Regido por la Casa Kestrel. | [Ver ficha](mundo/dragma/veleskaria/veleskaria.md) |
+| Estigria | Continente | Continente del invierno. Verim al este. Valle Central con Eldengaria. Hogar del Imperio de Dragma. | [Ver ficha](mundo/estigria/estigria.md) |
+| Erebia | Continente | Pendiente. | — |
+| Astria | Nación | Pendiente. | — |
+
+## Estigria
+
+### Historia
+
+| Nombre | Tipo | Descripción breve | Ficha |
+|--------|------|-------------------|-------|
+| Val | Pueblo | Pueblo originario de Estigria. Casi asimilado. Su núcleo sobreviviente fundó Valgard. | [Ver ficha](mundo/estigria/dragma/val.md) |
+| Valgard | Estado histórico | Estado pre-imperial. En su fase Reikim, tiranía que dominó Estigria. Derrocado por los ocho reinos. | [Ver ficha](mundo/estigria/valgard.md) |
+
+### Dragma (Imperio)
+
+| Nombre | Tipo | Descripción breve | Ficha |
+|--------|------|-------------------|-------|
+| Kalos | Ciudad libre | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. | [Ver ficha](mundo/estigria/dragma/kalos/kalos.md) |
+| Veleskaria | Reino | Reino minero e industrial. Fundado como Veleskagard. Protector de Kalos. Casa Kestrel. | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
+| Eldengaria | Capital imperial | Capital del Imperio de Dragma. Construida sobre las ruinas de Eldengard. | Pendiente |
+| Suntaris | Ciudad libre | Antiguo Reino del Verano. Hogar de la Casa Solaris. | Pendiente |
+| Esteria | Ciudad libre | Pendiente. | Pendiente |
