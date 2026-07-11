@@ -1,19 +1,7 @@
-# Mundo del Imperio de Dracma
+# Índice del mundo del Imperio de Dracma
 
-## Ambientación
+Cada aspecto canónico del mundo posee un archivo individual en la carpeta `mundo/`.
 
-*En construcción.*
-
-## Lugares
-
-| Nombre | Tipo | Descripción |
-|--------|------|-------------|
-| Imperio de Dracma | Reino/Imperio | *Por definir.* |
-
-## Cronología
-
-*Por definir.*
-
-## Sistema de magia / Reglas del mundo
-
-*Por definir.*
+| Aspecto | Tipo | Descripción breve | Ficha |
+|---------|------|-------------------|-------|
+| Imperio de Dracma | Reino/Imperio | *Por definir.* | *Pendiente* |

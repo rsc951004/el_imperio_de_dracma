@@ -8,10 +8,12 @@
 
 ## Decisiones editoriales
 
-*Por definir.*
+- La documentación canónica se organiza mediante un archivo índice y una carpeta de fichas individuales para cada categoría.
+- Las categorías iniciales son personajes, mundo y entidades o razas.
 
 ## Registro de cambios
 
 | Fecha | Cambio |
 |-------|--------|
+| 2026-07-11 | Separación de personajes y aspectos del mundo en fichas individuales; creación de la categoría de entidades y razas |
 | 2026-07-11 | Inicialización del repositorio |

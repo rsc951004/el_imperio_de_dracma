@@ -1,7 +1,7 @@
-# Personajes
+# Índice de personajes
 
-## Personajes del Imperio de Dracma
+Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
-| Nombre | Rol | Descripción | Cuentos |
-|--------|-----|-------------|---------|
-| -      | -   | -           | -       |
+| Nombre | Rol | Descripción breve | Ficha |
+|--------|-----|-------------------|-------|
+| - | - | - | - |

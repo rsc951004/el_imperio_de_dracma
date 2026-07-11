@@ -5,37 +5,48 @@
 Esta carpeta contiene la **documentación oficial** del universo del Imperio de Dracma.
 Todo lo que aquí se documenta es lore canónico y vinculante para cualquier cuento.
 
-## Archivos y su función
+## Archivos, carpetas y su función
 
-| Archivo | Contenido | Agentes que lo editan |
-|---------|-----------|----------------------|
-| `personajes.md` | Fichas de todos los personajes canónicos | Cualquiera que introduzca un personaje nuevo |
-| `mundo.md` | Ambientación, lugares, cronología, reglas del mundo | Cualquiera que introduzca un lugar o regla nueva |
+| Ruta | Contenido | Agentes que la editan |
+|------|-----------|------------------------|
+| `personajes.md` | Índice general de personajes canónicos | Cualquiera que introduzca o modifique un personaje |
+| `personajes/` | Una ficha Markdown independiente por personaje | Cualquiera que introduzca o modifique un personaje |
+| `mundo.md` | Índice general de los aspectos canónicos del mundo | Cualquiera que introduzca o modifique un aspecto del mundo |
+| `mundo/` | Un archivo Markdown independiente por aspecto del mundo | Cualquiera que introduzca o modifique ambientación, lugares, cronología o reglas |
+| `entidades.md` | Índice general de entidades y razas canónicas | Cualquiera que introduzca o modifique una entidad o raza |
+| `entidades/` | Una ficha Markdown independiente por entidad o raza | Cualquiera que introduzca o modifique una entidad o raza |
 | `notas.md` | Registro editorial de cambios y decisiones | Todos, al finalizar cualquier modificación |
 
 ## Reglas para agentes
 
 1. **Solo español neutro.**
-2. **Un personaje = una fila en la tabla.** Sin duplicados. Si un personaje ya existe, se amplía su entrada.
+2. **Una materia = un archivo.** Cada personaje, aspecto del mundo, entidad o raza tiene una ficha Markdown independiente en su carpeta correspondiente y una sola entrada en el índice general.
 3. **El lore es vinculante.** Una vez documentado aquí, ningún cuento puede contradecirlo.
 4. **Actualizar después de cada cuento.** Si un cuento introduce personajes, lugares o reglas, deben reflejarse aquí **antes de dar el cuento por terminado**.
-5. **No duplicar.** Si un personaje aparece en varios cuentos, se lista una sola vez con referencia a los cuentos donde aparece.
-6. **Referencias cruzadas:** Los personajes deben referenciar los cuentos donde aparecen. Los lugares deben referenciar los cuentos donde se mencionan.
+5. **No duplicar.** Si un elemento aparece en varios cuentos, conserva una sola ficha y una sola entrada en su índice, con referencias a todos los cuentos pertinentes.
+6. **Referencias cruzadas:** Cada entrada del índice debe enlazar su ficha. Las fichas deben referenciar los cuentos donde aparece o se menciona su contenido.
+7. **Nombres de archivo:** Usar minúsculas, palabras separadas por guiones y extensión `.md`.
 
-## Formato de ficha de personaje
+## Formato de los índices
 
 ```markdown
-| Nombre completo | Rol en la historia | Descripción breve | Cuentos |
-|-----------------|-------------------|--------------------|---------|
-| Ejemplo         | Protagonista      | Guerrero del...    | #1, #3  |
+| Nombre | Descripción breve | Ficha |
+|--------|-------------------|-------|
+| Ejemplo | Descripción resumida | [Ver ficha](personajes/ejemplo.md) |
 ```
 
-## Formato de lugar
+## Formato de las fichas
 
 ```markdown
-| Nombre | Tipo | Descripción | Cuentos |
-|--------|------|-------------|---------|
-| Imperio de Dracma | Reino | ...      | #1      |
+# Nombre
+
+## Descripción
+
+## Características
+
+## Historia
+
+## Apariciones o referencias
 ```
 
 ---
