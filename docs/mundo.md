@@ -33,8 +33,8 @@ mundo/
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Val | Pueblo | Pueblo originario de Estigria. Casi asimilado. Su núcleo sobreviviente fundó Valgard. | [Ver ficha](mundo/estigria/dragma/val.md) |
-| Valgard | Estado histórico | Estado pre-imperial. En su fase Reikim, tiranía que dominó Estigria. Derrocado por los ocho reinos. | [Ver ficha](mundo/estigria/valgard.md) |
+| Val | Pueblo | Pueblo originario de Estigria. Casi asimilado. Su núcleo en el Valle Central dio origen a la Casa Valgard. | [Ver ficha](mundo/estigria/dragma/val.md) |
+| Valgard | Estado histórico | Estado pre-imperial. En su fase Raikim, tiranía que dominó Estigria. Derrocado por los ocho reinos. | [Ver ficha](mundo/estigria/valgard.md) |
 
 ### Dragma (Imperio)
 

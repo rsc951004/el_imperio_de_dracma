@@ -14,7 +14,7 @@ Estigria recibió oleadas migratorias continuas durante siglos desde Erebia, Ast
 Hoy la población es multiétnica, pero en la actualidad la diversidad no es algo que preocupe o distinga a los ciudadanos de Dragma, independientemente del reino al que pertenezcan. Existe una lengua oficial unificada. El Imperio de Dragma cubre la práctica totalidad del continente.
 
 ## Ciudades libres
-Durante la resistencia contra el Reikim Valgard, tres ciudades se ganaron el título de Ciudades Libres de la Tiranía: **Kalos**, **Suntaris** y **Esteria**. Veleskaria, como todos los reinos modernos del Imperio, fue fundada y unificada bajo la tiranía.
+Durante la resistencia contra el Raikim Valgard, tres ciudades se ganaron el título de Ciudades Libres de la Tiranía: **Kalos**, **Suntaris** y **Esteria**. Veleskaria, como todos los reinos modernos del Imperio, fue fundada y unificada bajo la tiranía.
 
 ## Referencias
 - `protoversiones/proto_v2/Anexo II.md`
