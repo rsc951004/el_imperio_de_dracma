@@ -41,6 +41,7 @@ depurado y versionado por agentes IA bajo supervisión humana.
 3. El agente genera o modifica contenido **solo en `cuentos/` y `docs/`**.
 4. El agente documenta el cambio en `docs/notas.md`.
 5. El agente **nunca modifica `protoversiones/`**. Si quiere rescatar algo, lo copia/extracta manualmente hacia `cuentos/`.
+6. **No se hace commit sin orden explícita.** El agente solo versiona cambios cuando el humano lo pide. Nunca comitea automáticamente.
 
 ---
 
@@ -52,6 +53,7 @@ depurado y versionado por agentes IA bajo supervisión humana.
 - ❌ Usar `build.sh` sin orden explícita del humano.
 - ❌ Crear archivos fuera de la estructura definida sin preguntar.
 - ❌ Mezclar conceptos de protoversiones con canon sin permiso.
+- ❌ Hacer commit o git push sin orden explícita del humano.
 
 ---
 
