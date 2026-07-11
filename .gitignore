@@ -1,0 +1,17 @@
+# Archivos generados
+*.pdf
+*.epub
+*.docx
+*.odt
+
+# Backups y temporales
+*~
+*.swp
+*.swo
+*.bak
+.bak/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+.desktop
