@@ -3,6 +3,7 @@
 *.epub
 *.docx
 *.odt
+salida/
 
 # Backups y temporales
 *~
@@ -15,3 +16,6 @@
 .DS_Store
 Thumbs.db
 .desktop
+
+# NOTA: protoversiones/ NO está ignorada.
+# Se versionan como cantera histórica, pero NO son canon (ver protoversiones/LEEME.md).

@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
-# build.sh — Compilar los cuentos a un solo archivo
+# build.sh — Compilar los cuentos CANÓNICOS a un solo archivo
 # Uso: ./herramientas/build.sh [pdf|epub|md]
+#
+# Solo compila contenido de cuentos/. Las protoversiones en protoversiones/
+# se ignoran por completo. Ver protoversiones/LEEME.md.
 
 set -euo pipefail
 
