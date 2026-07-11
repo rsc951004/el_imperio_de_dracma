@@ -15,5 +15,6 @@
 
 | Fecha | Cambio |
 |-------|--------|
+| 2026-07-11 | Eliminación de proto_v1. Vetas rescatables (tragedia de Zorana, Sundara, Ushalin) consolidadas en proto_v2 como ideas de mejora |
 | 2026-07-11 | Separación de personajes y aspectos del mundo en fichas individuales; creación de la categoría de entidades y razas |
 | 2026-07-11 | Inicialización del repositorio |
