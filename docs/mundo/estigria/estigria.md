@@ -9,7 +9,7 @@ El cordón montañoso de Verim forma la pared este del continente. Es inexpugnab
 En el Valle Central se alzaba la fortaleza de Eldengard, corazón del antiguo Valgard. Sobre sus ruinas se levanta hoy Eldengaria, la capital del Imperio de Dragma. Los vestigios de Eldengard se conservan en un distrito de la gran capital conocido como la Ciudad de los Reyes, residencia temporal de los monarcas de Dragma cuando visitan la capital imperial.
 
 ## Pueblos
-Estigria recibió oleadas migratorias continuas durante siglos desde Erebia, Astria y otras regiones. Su pueblo originario, los Val, fue gradualmente asimilado, subyugado o mezclado con los inmigrantes. Solo un núcleo —los Valgard— preservó su identidad.
+Estigria recibió oleadas migratorias continuas durante siglos desde Erebia, Astria y otras regiones. Su pueblo originario, los Val, fue gradualmente asimilado, subyugado o mezclado con los inmigrantes. Solo un núcleo —los Val atrincherados en el Valle Central— preservó su identidad.
 
 Hoy la población es multiétnica, pero en la actualidad la diversidad no es algo que preocupe o distinga a los ciudadanos de Dragma, independientemente del reino al que pertenezcan. Existe una lengua oficial unificada. El Imperio de Dragma cubre la práctica totalidad del continente.
 

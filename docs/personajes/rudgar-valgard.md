@@ -1,7 +1,7 @@
 # Rudgar Valgard
 
 ## Identidad
-Primer Reik de Valgard. Héroe de la resistencia contra la Gran Amenaza durante el colapso de la Edad de los Mil Reinos. Posteriormente convertido en tirano. Conocido como **el Martillo Sangriento** y, tras su traición, como **el Traidor Rojo** (por su cabello y larga barba roja).
+Primer Reik de Valgard. Héroe de la resistencia contra la Gran Amenaza durante el colapso de la Edad de los Mil Reinos. Posteriormente convertido en tirano. Conocido como **el Martillo Sangriento** y, tras su traición, como **el Traidor Rojo** (por su cabello y larga barba roja). Pertenece a la **Casa Valgard**, cuyo nombre proviene de la fortaleza de Eldengard (Val + gard: «fortaleza de los Val»).
 
 ## Apariencia
 Cabello y barba larga de color rojo intenso. De físico imponente, forjado en la guerra.
