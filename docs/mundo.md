@@ -11,8 +11,8 @@ mundo/
 └── dragga/
     ├── kalos/
     │   └── kalos.md
-    └── velskaria/
-        └── velskaria.md
+    └── veleskaria/
+        └── veleskaria.md
 ```
 
 ## Lugares
@@ -21,5 +21,5 @@ mundo/
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Kalos | Ciudadela | Ciudadela del conocimiento. Sede de las Tavras. | [Ver ficha](mundo/dragma/kalos/kalos.md) |
-| Velskaria | Reino | Reino cercano a Kalos. Origen de la Casa Gueika. | [Ver ficha](mundo/dragma/velskaria/velskaria.md) |
+| Kalos | Ciudad libre | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. Opera como protectorado imperial. | [Ver ficha](mundo/dragma/kalos/kalos.md) |
+| Veleskaria | Reino | Reino minero e industrial. Fundado como Veleskagard al final de la Edad de los Mil Reinos. Protector de Kalos. Regido por la Casa Kestrel. | [Ver ficha](mundo/dragma/veleskaria/veleskaria.md) |

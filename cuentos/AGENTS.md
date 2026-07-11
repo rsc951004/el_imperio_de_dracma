@@ -12,6 +12,7 @@ Todo lo que aquí se escribe es lore oficial del universo.
 3. **Sin protoversiones aquí.** Las protoversiones viven en `protoversiones/`, nunca en `cuentos/`.
 4. **Leer docs/ antes de escribir.** Antes de crear o modificar un cuento, el agente debe leer:
    - `docs/entidades/` — para no romper la naturaleza de Inits, Mobius, Blesk, Portadores, Invocadores.
+   - `docs/taburas.md` y `docs/organizaciones.md` — para no romper grupos y asociaciones establecidos.
    - `docs/personajes.md` — para no romper personajes establecidos.
    - `docs/mundo.md` — para no romper ambientación ni reglas del mundo.
 5. **Coherencia interna:** Si se introduce un personaje nuevo, se documenta en `docs/personajes.md`. Si se introduce un lugar o regla nueva, se documenta en `docs/mundo.md`.

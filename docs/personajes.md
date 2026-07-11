@@ -27,4 +27,4 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
 | Sandor Solaris | Cronista | Erudito de Kalos, autor de las *Crónicas de Erebia*. No es portador. Noble de la Casa Solaris. | [Ver ficha](personajes/sandor-solaris.md) |
-| Yanos Gueika | Soldado | Guardia de la Ciudadela de Kalos. Casa común Gueika (Velskaria). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |
+| Yanos Gueika | Soldado | Guardia de la Ciudadela de Kalos. Casa común Gueika (Veleskaria). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |

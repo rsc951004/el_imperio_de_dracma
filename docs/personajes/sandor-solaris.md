@@ -1,7 +1,7 @@
 # Sandor Solaris
 
 ## Identidad
-Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tavra (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaris, antigua casa noble de Zefiria.
+Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaris, antigua casa noble de Zefiria.
 
 **No es portador.** Su valor no está en el Blesk, sino en la memoria, la investigación y la palabra.
 
@@ -45,7 +45,7 @@ Obra que compila la historia de Erebia, Astria y Dragma a partir de fuentes frag
 
 ## Relaciones
 - **Yanos Gueika:** Soldado de Kalos. Amistad cercana, ambigua, con una atracción que Sandor no declara abiertamente.
-- **Sish Tavra:** La rama de crónica de Kalos que respalda y publica su obra.
+- **Sish Tábura:** La rama de crónica de Kalos que respalda y publica su obra.
 
 ## Referencias
 - `cuentos/0001-el-surgimiento/cuento.md`
