@@ -33,3 +33,6 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
 | Inits | Entidad primordial | Entidades interdimensionales. Canales vivos entre la voluntad y la realidad. | [Ver ficha](entidades/inits.md) |
+| Mobius | Entidad parásita | Entidades interdimensionales parásitas. Se alimentan de Blesk. Desarrollaron individualidad al quedar atrapados en este plano. | [Ver ficha](entidades/mobius.md) |
+| Portadores | Condición humana | Humanos que heredan un Blesk natural: puente unidireccional a un Init en Irij. | [Ver ficha](entidades/portadores.md) |
+| Invocadores | Condición humana | Humanos que roban y alteran un Blesk ajeno para conectarse a múltiples Inits. | [Ver ficha](entidades/invocadores.md) |

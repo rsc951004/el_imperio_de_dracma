@@ -109,4 +109,7 @@ Definición del autor:
 | 2026-07-11 | Punto 1 del diagnóstico aplicado a la ficha de Inits: eliminadas secciones Tipo y Nombre; anti-descripción marcada como PENDIENTE; listado de elementos movido a pendiente de sistema de magia; referencias a proto_v2 reformateadas como tabla provisional con advertencia explícita |
 | 2026-07-11 | Enriquecimiento conceptual de los Inits: criatura interdimensional que manifiesta deseos; don transferido accidentalmente a los humanos. Añadidas implicaciones y fricciones con la ficha actual |
 | 2026-07-11 | Diagnóstico editorial de la ficha de Inits (sobra, falta, chirría, proteger, tarjeta mínima) |
+| 2026-07-11 | Sandor Solaris: añadidos padres (Dorian Solaris, Vera Pavel). Vera es prima del emperador; perdió derechos hereditarios al unirse a la Casa Solaris. Los ancianos Pavel lo resintieron |
+| 2026-07-11 | **Yanos Gueika** renombrado (antes Ianos Guieska). Añadidos: padre Kenvan Gueika, madre Freya Fenec, abuelo Hugo Gueika, origen Velskaria. Estructura de `mundo/` creada con subcarpetas por región (erebia, astria, dragga) y fichas de Kalos y Velskaria |
+| 2026-07-11 | Canonizado «El Surgimiento» en `cuentos/0001-el-surgimiento/cuento.md`. Adaptado de proto_v2 cap. I con vocabulario canónico (Mobius, Blesk, Irij, Portadores a secas). Sin «Sombra», «Portadores de la Luz», «lumbre» ni arcaísmos. El Init como canal pasivo; el contacto como accidente; los Mobius como parásitos desacoplados |
 | 2026-07-11 | Documentación de los Inits: ficha individual y entrada en el índice de entidades |
