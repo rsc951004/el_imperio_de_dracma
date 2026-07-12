@@ -18,7 +18,7 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 | 8 | Vesperia | Tuomi | Verano | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Elyria) |
 | 9 | Aurelia | Umbra | Verano | Rey/Reina del Oro | ★ Rey Valerius Umbra | Reina Taria Eskola (Vesperia) |
 | 10 | Elyria | Stamatis | Verano | Rey/Reina del Tridente | ★ Reina Alexandra Stamatis | Rey Gideon Azriel (Lumaria) |
-| 11 | Sindria | Goros | Verano | Rey/Reina del Abismo | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
+| 11 | Sindria | Goros | Verano | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
 | 12 | Ylvaria | Gorio | Verano | Rey/Reina del Bosque | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
 
 ★ = gobernante reinante
@@ -58,7 +58,7 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Vesperia | Rey/Reina del Mar | Rey Mar / Reina Mar |
 | Aurelia | Rey/Reina del Oro | Rey Oro / Reina Oro |
 | Elyria | Rey/Reina del Tridente | Rey Tridente / Reina Tridente |
-| Sindria | Rey/Reina del Abismo | Rey Abismo / Reina Abismo |
+| Sindria | Rey/Reina del Foso | Rey Foso / Reina Foso |
 | Ylvaria | Rey/Reina del Bosque | Rey Bosque / Reina Bosque |
 
 ---

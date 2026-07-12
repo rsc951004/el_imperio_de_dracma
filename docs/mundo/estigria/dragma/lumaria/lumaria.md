@@ -4,7 +4,7 @@
 Reino del Imperio de Dragma. Bloque del Verano. Reino Rebelde.
 
 ## Historia
-Lumaria fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión. Fue el centro espiritual del alzamiento contra la tiranía del Raikim.
+Lumaria fue fundada bajo el Raikim Valgard como **Lumariagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión. Fue el centro espiritual del alzamiento contra la tiranía del Raikim.
 
 Lumaria es uno de los tres reinos del Verano que descienden directamente de Suntaris. La Casa Maimon recogió el alma de la ciudad libre tras su destrucción: herederos de la mística de los Solaris, custodian el legado espiritual de la Triple Corona. Juraron que la luz de Suntaris volvería a guiar Dragma.
 

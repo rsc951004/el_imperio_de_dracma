@@ -4,7 +4,7 @@
 Reino del Imperio de Dragma. Bloque del Verano. Reino Rebelde.
 
 ## Historia
-Zefiria fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
+Zefiria fue fundada bajo el Raikim Valgard como **Zefiriagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
 
 Zefiria es uno de los tres reinos del Verano que descienden directamente de Suntaris. Alberga a la Casa Solaris como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Lorian Solaris: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.
 

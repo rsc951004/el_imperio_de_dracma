@@ -36,3 +36,5 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Mobius | Entidad parásita | Entidades interdimensionales parásitas. Se alimentan de Blesk. Desarrollaron individualidad al quedar atrapados en este plano. | [Ver ficha](entidades/mobius.md) |
 | Portadores | Condición humana | Humanos que heredan un Blesk natural: puente unidireccional a un Init en Irij. | [Ver ficha](entidades/portadores.md) |
 | Invocadores | Condición humana | Humanos que roban y alteran un Blesk ajeno para conectarse a múltiples Inits. | [Ver ficha](entidades/invocadores.md) |
+| Hombres de la Bruma | Sub-etnia Val | Rama oriental de los Val. Forjados en batalla contra las bestias del este. Fundadores de Malakia. | [Ver ficha](entidades/hombres-de-la-bruma.md) |
+| Rey Podrido | Entidad híbrida | Fusión entre un joven Portador y el Mobius de Estigria. No es humano. Reside en El Bramo. | [Ver ficha](personajes/rey-podrido.md) |

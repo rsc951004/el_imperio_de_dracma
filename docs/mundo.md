@@ -47,11 +47,24 @@ mundo/
 |--------|------|-------------------|-------|
 | Estigria | Continente | Continente del invierno. Verim al este. Valle Central con Eldengaria. Hogar del Imperio de Dragma. | [Ver ficha](mundo/estigria/estigria.md) |
 | Erebia | Continente | Pendiente. | — |
-| Astria | Nación | Pendiente. | — |
+| Astria | Nación extinta | Cuna original del culto al Dios Negro. Fe fanática y autodestructiva en sus días finales. Destruida por causas desconocidas. | [Ver ficha](mundo/astria/astria.md) |
 
 ## Estigria
 
+### Geografía
+
+| Nombre | Tipo | Descripción breve | Ficha |
+|--------|------|-------------------|-------|
+| Estomur | Cordillera | Columna vertebral de Estigria. Divide el continente en El Gerin (oeste) y El Modrig (este). | [Ver ficha](mundo/estigria/estomur.md) |
+| El Gerin | Región | Mitad occidental de Estigria. Alberga el Imperio de Dragma y la civilización conocida. | [Ver ficha](mundo/estigria/gerin.md) |
+| El Modrig | Región | Mitad oriental. La Costa Negra. Tierra maldita donde se alza El Bramo. | [Ver ficha](mundo/estigria/modrig.md) |
+| El Bramo | Región | Último reducto de Malakia de la Sombra al este del Foso. Residencia de Rey Podrido. | [Ver ficha](mundo/estigria/bramo.md) |
+
 ### Historia
+
+| Nombre | Tipo | Descripción breve | Ficha |
+|--------|------|-------------------|-------|
+| Malakia | Reino histórico | Fundado por los Hombres de la Bruma. Partido en dos por el Foso. Hoy: Reino Podrido al este, Sindria al oeste. | [Ver ficha](mundo/estigria/malakia.md) |
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
@@ -74,7 +87,7 @@ mundo/
 | 8 | Vesperia | Verano | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/vesperia/vesperia.md) |
 | 9 | Aurelia | Verano | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
 | 10 | Elyria | Verano | Stamatis | Rey/Reina del Tridente | Reina Alexandra Stamatis | [Ver ficha](mundo/estigria/dragma/elyria/elyria.md) |
-| 11 | Sindria | Verano | Goros | Rey/Reina del Abismo | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
+| 11 | Sindria | Verano | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
 | 12 | Ylvaria | Verano | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
 
 ★ = gobernante reinante
@@ -85,11 +98,26 @@ mundo/
 
 Tres reinos del Verano descienden directamente de Suntaris: **Lumaria** (el alma — mística Solaris), **Zefiria** (el arte — Casa Solaris y técnica de Lorian), **Elyria** (la sangre — marinos originales de Suntaris).
 
-#### Capital y ciudades libres
+#### Capital imperial
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
 | Eldengaria | Capital imperial | Capital del Imperio de Dragma. Construida sobre las ruinas de Eldengard. | Pendiente |
-| Kalos | Ciudad libre | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. | [Ver ficha](mundo/estigria/dragma/kalos/kalos.md) |
-| Suntaris | Ciudad libre | Antiguo Reino del Verano. Destruida por Grimar Valgard. Hogar de la Casa Solaris. | Pendiente |
-| Esteria | Ciudad libre | Pendiente. | Pendiente |
+
+#### Protectorados del Imperio
+
+| # | Nombre | Tipo | Descripción breve | Ficha |
+|---|--------|------|-------------------|-------|
+| 1 | Kalos | Ciudadela | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. Conocida como la Ciudadela de Kalos. | [Ver ficha](mundo/estigria/dragma/kalos/kalos.md) |
+| 2 | Esteria | Ciudad fortaleza | Ciudad fundada al borde del Foso de la Calamidad para contener la oscuridad del este. Anterior al Raikim. Sindria reclama su territorio. Conocida como Ciudad Esteria. | [Ver ficha](mundo/estigria/dragma/esteria/esteria.md) |
+| 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/estigria/dragma/ishbaal/ishbaal.md) |
+| 4 | Alesya | Isla | Isla al suroeste. Alberga la Fortaleza del Sol, antigua residencia secundaria de los reyes del Verano. Territorio sagrado para los descendientes de Suntaris. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
+| 5 | Kardan | Isla | Isla en el extremo noreste, cerca del Lado Maldito. Casi inaccesible. Conocida como Kardan la Solitaria. | [Ver ficha](mundo/estigria/dragma/kardan/kardan.md) |
+
+> Los protectorados son estados semi-soberanos bajo protección directa del emperador. No tienen rey ni pertenecen a ninguno de los 12 Reinos. Se gobiernan a sí mismos dentro de los límites del pacto imperial.
+
+#### Ruinas históricas
+
+| Nombre | Tipo | Descripción breve | Ficha |
+|--------|------|-------------------|-------|
+| Suntaris | Ciudad destruida | Antiguo Reino del Verano. Destruida por Grimar Valgard. Hogar de la Casa Solaris. | Pendiente |

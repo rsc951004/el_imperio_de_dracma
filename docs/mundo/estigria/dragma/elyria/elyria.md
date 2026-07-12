@@ -4,7 +4,7 @@
 Reino del Imperio de Dragma. Bloque del Verano. Reino Rebelde.
 
 ## Historia
-Elyria fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
+Elyria fue fundada bajo el Raikim Valgard como **Elyriagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
 
 Elyria es uno de los tres reinos del Verano que descienden directamente de Suntaris. Antes de absorber influencia astriana, era la zona de pescadores y marinos de la ciudad libre. Su flota nació en aguas suntarianas: la sangre marinera del sur es herencia directa de aquel puerto perdido. Con los siglos, la elegancia naval astriana se fundió con esa raíz, creando la flota más letal y estética de la Costa del Verano.
 

@@ -1,10 +1,10 @@
 # Kalos
 
 ## Tipo
-Ciudad libre. Oficialmente: **Protectorado de Kalos**.
+Protectorado del Imperio de Dragma. Conocida como la **Ciudadela de Kalos**.
 
 ## Ubicación
-Sureste de Estigria, en la costa de Talakia. Ciudad-fortaleza amurallada de forma circular, organizada en anillos concéntricos. Al este se alzan las montañas de Verim, un cordón inexpugnable de terreno rugoso y altitud extrema, ricas en Verilium. Solo se abren al norte, en la Fosa de la Calamidad.
+Sureste de Estigria, en la costa de Talakia. Ciudad-fortaleza amurallada de forma circular, organizada en anillos concéntricos. Al este se alzan las montañas de Verim, un cordón inexpugnable de terreno rugoso y altitud extrema, ricas en Verilium. Solo se abren al norte, en la Foso de la Calamidad.
 
 ## Historia
 Kalos fue fundada por portadores y disidentes del culto al Dios Negro, formado en Astria siglos atrás. Su misión original era doble: preservar el conocimiento que el culto había declarado herejía y paganismo, y combatir al culto desde el extranjero.
