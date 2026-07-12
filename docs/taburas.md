@@ -14,6 +14,7 @@ Una Tábura es una asociación formal con estructura, jerarquía y propósito de
 |--------|------|-------------------|-------|
 | Sish Tábura | Oficial de Kalos | Crónica, archivos e historia. Preserva la memoria. | [Ver ficha](taburas/sish-tabura.md) |
 | Vex Tábura | Oficial de Kalos | Legislación y jurisprudencia. | [Ver ficha](taburas/vex-tabura.md) |
+| Dex Tábura | Oficial de Kalos | Gestión de cambios de estamento entre Casas y venia de sucesión. | [Ver ficha](taburas/dex-tabura.md) |
 | Mort Tábura | Clandestina | Pertenencia penada con muerte. Naturaleza desconocida. | [Ver ficha](taburas/mort-tabura.md) |
 
 ## Referencias

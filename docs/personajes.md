@@ -68,4 +68,9 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 | Nombre | Rol | Dinastía | Ficha |
 |--------|-----|----------|-------|
-| Harald Mormund | Primer Emperador | Mormund | [Ver ficha](personajes/monarcas/harald-mormund.md) |
+| Harald Mormund | Primer Emperador | Mormund (fundadora) | [Ver ficha](personajes/monarcas/harald-mormund.md) |
+| Roderic Mormund | Segundo Emperador | Mormund | [Ver ficha](personajes/monarcas/roderic-mormund.md) |
+| Godric Mormund | Tercer Emperador | Mormund | [Ver ficha](personajes/monarcas/godric-mormund.md) |
+| Mijail Mormund | Príncipe Heredero caído. Fundador secreto de Casa Tormak | Mormund | [Ver ficha](personajes/monarcas/mijail-mormund.md) |
+| Ilena Mormund | Princesa de Dragma. Asesinada por su hermano Mijail | Mormund | [Ver ficha](personajes/monarcas/ilena-mormund.md) |
+| Vilem Mormund | Príncipe Heredero. Tuerto. Arquitecto de la Concordia. El Padre del Imperio | Mormund | [Ver ficha](personajes/monarcas/vilem-mormund.md) |

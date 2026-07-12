@@ -13,7 +13,7 @@ Sindgard
 ## Título del gobernante
 **Rey del Foso** o **Reina del Foso**. Forma abreviada entre monarcas: Rey Foso o Reina Foso.
 
-El título es una declaración política: el Foso de la Calamidad se encuentra en territorio de Esteria, no de Sindria. Al titularse Reyes del Foso, los soberanos de la Casa Goros mantienen viva la reclamación que los Valgard prometieron honrar y jamás cumplieron. Es una deuda de sangre convertida en corona.
+El título es una declaración política: el Foso de la Calamidad se encuentra en territorio de Esteria, no de Sindria. Al titularse Reyes del Foso, los soberanos de Sindria —sea cual sea la casa que ocupe el trono— mantienen viva una reclamación que pertenece al reino como entidad estatal, no a la casa reinante. Los Valgard prometieron honrar esa deuda y jamás la cumplieron. Es una deuda de sangre convertida en corona.
 
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard, abandonó el sufijo -gard y adoptó el nombre de Sindria.

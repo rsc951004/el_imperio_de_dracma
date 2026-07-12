@@ -75,6 +75,15 @@ mundo/
 
 ### Dragma (Imperio)
 
+#### Documentos generales
+
+| Nombre | Tipo | Descripción breve | Ficha |
+|--------|------|-------------------|-------|
+| Dragma | Imperio | Arquitectura completa del imperio: estructura territorial, dinastías, sistema de gobierno. | [Ver ficha](mundo/estigria/dragma/dragma.md) |
+| La Concordia | Reformas | Cuerpo de reformas de Vilem Mormund que refundaron el pacto social del imperio. | [Ver ficha](mundo/estigria/dragma/concordia.md) |
+| Gran Syndrion | Institución | Asamblea histórica que eligió al primer emperador. Hoy ratifica cambios de dinastía. | [Ver ficha](mundo/estigria/dragma/syndrion.md) |
+| Tierras Intermedias | Territorio | Territorios sin dueño del Gerin. Páramos, costas y tierras entre reinos. Bienes comunes. | Pendiente |
+
 #### Los 12 Reinos
 
 | # | Reino | Bloque | Casa | Título | Gobernante ★ | Ficha |
