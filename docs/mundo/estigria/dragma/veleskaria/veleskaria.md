@@ -12,7 +12,10 @@ El Raikim asignó a Veleskaria el rol de protector de Kalos como estrategia de c
 Protector de Kalos, minero e industrial. Las montañas de Verim, ricas en Verilium, atraviesan su territorio. Cultura rumana.
 
 ## Gobierno
-Regido por la Casa Enescu. La reina reinante es **Ileana Enescu ★**. Su consorte es la reina Yelena Gorski, originaria de Sindria.
+Regido por la Casa Enescu. La reina reinante es **Ileana Enescu ★**, **Reina de la Montaña**. Su consorte es la reina Yelena Gorski, originaria de Sindria.
+
+## Título real
+Los gobernantes de Veleskaria portan el título de **Rey de la Montaña** o **Reina de la Montaña**. Entre los otros monarcas se les llama **Rey Montaña** o **Reina Montaña**. El título evoca las montañas de Verim que atraviesan el reino, ricas en Verilium, y la vocación minera que define su identidad.
 
 ## Economía
 Reino altamente industrializado, especializado en minería. Extracción y procesamiento de Verilium.

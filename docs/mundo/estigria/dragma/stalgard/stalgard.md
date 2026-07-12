@@ -10,7 +10,10 @@ Stalgard pertenece al Bloque del Hierro: fue núcleo leal al Raikim y nunca se r
 Norte militar, acero. Yunque del imperio. Tradición marcial y disciplina férrea. Cultura germánica.
 
 ## Gobierno
-Regido por la Casa Meister. El rey reinante es **Jorgen Meister ★**. Su consorte es la reina Marloes Kuyper, originaria de Skarngard.
+Regido por la Casa Meister. El rey reinante es **Jorgen Meister ★**, **Rey del Acero**. Su consorte es la reina Marloes Kuyper, originaria de Skarngard.
+
+## Título real
+Los gobernantes de Stalgard portan el título de **Rey del Acero** o **Reina del Acero**. Entre los otros monarcas se les llama **Rey Acero** o **Reina Acero**. El título evoca el yunque del imperio y la tradición militar que forja las armas de Dragma.
 
 ## Economía
 Forja de acero y producción armamentística. Exporta equipo militar a todo el imperio.
