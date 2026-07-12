@@ -63,3 +63,9 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Ecaterina Cojocaru | Reina consorte | Sindria ← Veleskaria (Amanecer) | [Ver ficha](personajes/monarcas/ecaterina-cojocaru.md) |
 | Dreide Gorio | Reina gobernante | Ylvaria (Amanecer) | [Ver ficha](personajes/monarcas/dreide-gorio.md) |
 | Titia Corvus | Reina consorte | Ylvaria ← Aurelia (Amanecer) | [Ver ficha](personajes/monarcas/titia-corvus.md) |
+
+## Emperadores de Dragma
+
+| Nombre | Rol | Dinastía | Ficha |
+|--------|-----|----------|-------|
+| Harald Mormund | Primer Emperador | Mormund | [Ver ficha](personajes/monarcas/harald-mormund.md) |
