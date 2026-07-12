@@ -1,7 +1,7 @@
 # Ileana Enescu
 
 ## Identidad
-Reina gobernante de **Veleskaria** (Reino de Verano). Casa Enescu.
+Reina gobernante de **Veleskaria** (Reino del Amanecer). Casa Enescu.
 
 ## Relaciones
 - **Ecaterina Cojocaru:** hermana. Reina consorte de Sindria.

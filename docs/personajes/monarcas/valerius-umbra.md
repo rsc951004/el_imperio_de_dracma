@@ -1,7 +1,7 @@
 # Valerius Umbra
 
 ## Identidad
-Rey gobernante de **Aurelia** (Reino de Verano). Casa Tellus.
+Rey gobernante de **Aurelia** (Reino del Amanecer). Casa Tellus.
 
 ## Relaciones
 - **Titia Corvus:** hermana. Reina consorte de Ylvaria.

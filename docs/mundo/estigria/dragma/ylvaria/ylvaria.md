@@ -1,10 +1,10 @@
 # Ylvaria
 
 ## Tipo
-Reino del Imperio de Dragma. Bloque del Verano. Reino Rebelde.
+Reino del Imperio de Dragma. Bloque del Amanecer. Reino Rebelde.
 
 ## Historia
-Ylvaria fue fundada bajo el Raikim Valgard como **Ylvariagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
+Ylvaria fue fundada bajo el Raikim Valgard como **Ylvagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
 
 ## Concepto
 Bosques, pueblo Ylum. Región forestal habitada por el pueblo Ylum. Cultura gaélica-vasca.

@@ -1,26 +1,26 @@
 # Sindria
 
 ## Tipo
-Reino del Imperio de Dragma. Bloque del Verano. Reino Rebelde.
+Reino del Imperio de Dragma. Bloque del Amanecer. Reino Rebelde.
 
 ## Historia
 
 ### Origen: Malakia Occidental
 Sindria no fue fundada como tal. Su origen se remonta a **Malakia Occidental**, el fragmento del antiguo reino de Malakia de la Bruma que quedó del lado del Gerin tras la apertura del Foso de la Calamidad.
 
-Tras la muerte de Alastor Ormur a manos del Rey Podrido y la partición de Malakia en dos, los nobles supervivientes de la mitad occidental —encabezados por una rama superviviente de la **Casa Ormur**— refundaron su reino. Veinte años después de la fundación de Esteria, Malakia Occidental renació como estado. Diez años más tarde, sus gobernantes decidieron abandonar el nombre de Malakia —ya para siempre asociado al Reino Podrido del este— y adoptaron el nombre de **Sindria**.
+Tras la muerte de Alastor Ormur a manos del Rey Podrido y la partición de Malakia en dos, los nobles supervivientes de la mitad occidental —encabezados por una rama superviviente de la **Casa Ormur**— refundaron su reino. Veinte años después de la fundación de Esteria, **Malakia Occidental** renació como estado independiente. Mantuvo ese nombre hasta la llegada del Raikim.
 
 ### El pacto con los Valgard y la promesa rota
-Cuando Rudgar Valgard fundó el Raikim (año 50 desde Esteria), la Casa Ormur de Sindria decidió voluntariamente unirse a la tiranía. No fueron conquistados: lo aceptaron a cambio de una promesa.
+Cuando Rudgar Valgard fundó el Raikim (cincuenta años después de la fundación de Esteria), la Casa Ormur de Malakia Occidental decidió voluntariamente unirse a la tiranía. No fueron conquistados: lo aceptaron a cambio de una promesa.
 
-El pacto era claro: Sindria adoptaría el sufijo -gard —convirtiéndose en **Sindriagard**— y, a cambio, Esteria sería incorporada a su territorio. Los Ormur querían reunificar las tierras que habían pertenecido a la antigua Malakia de la Bruma.
+El Raikim refundó el territorio con el nombre de **Sindgard**. El pacto era claro: Malakia Occidental aceptaba su nuevo nombre valgard y, a cambio, Esteria sería incorporada a su territorio.
 
 La promesa jamás fue cumplida. Ni Rudgar ni ninguno de los diecisiete Raiks que le sucedieron entregaron Esteria a Sindria. El motivo era estratégico: incluso los Valgard entendían que Esteria era la última línea de defensa contra el Rey Podrido. Cualquier conflicto con la ciudad fortaleza —cualquier debilitamiento de su posición— podía devenir en una invasión desde El Bramo.
 
 Así nació una herida que nunca cicatrizó. El título de **Rey del Foso** que aún portan los Goros es el eco de aquella promesa incumplida: una reclamación territorial que lleva siglos esperando ser honrada.
 
 ### Rebelión
-Sindria fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión, recuperando el nombre de Sindria.
+Sindgard fue parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión y adoptó el nombre de **Sindria**.
 
 ## Concepto
 Noreste, culto al Dios Negro. Región donde el culto tiene arraigo histórico. Cultura rusa. Heredera de la tradición de Malakia Occidental y, antes de ella, de los Hombres de la Bruma.
@@ -47,15 +47,6 @@ Regido por la Casa Goros. El rey reinante es **Uriel Goros ★**, **Rey del Foso
 Los gobernantes de Sindria portan el título de **Rey del Foso** o **Reina del Foso**. Entre los otros monarcas se les llama **Rey Foso** o **Reina Foso**.
 
 El título es una declaración política: el Foso de la Calamidad se encuentra en territorio de Esteria, no de Sindria. Al titularse Reyes del Foso, los soberanos de la Casa Goros mantienen viva la reclamación que los Valgard prometieron honrar y jamás cumplieron. Es una deuda de sangre convertida en corona.
-
-## Cronología
-| Año | Evento |
-|-----|--------|
-| Año 0 | Fundación de Esteria |
-| Año 20 | Fundación de Malakia Occidental |
-| Año 30 | Malakia Occidental renombrada a Sindria |
-| Año 50 | Fundación del Raikim Valgard. La Casa Ormur se une voluntariamente. Sindria adopta el sufijo -gard como **Sindriagard** a cambio de la promesa de recibir Esteria. |
-| Siglos después | La promesa de entregar Esteria nunca es cumplida por ninguno de los diecisiete Raiks. |
 
 ## Economía
 Economía vinculada al culto y sus redes. Zona de influencia religiosa.

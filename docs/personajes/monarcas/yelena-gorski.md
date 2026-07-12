@@ -1,7 +1,7 @@
 # Yelena Gorski
 
 ## Identidad
-Reina consorte de **Veleskaria** (Reino de Verano). Originaria de **Sindria** (Casa Gorski).
+Reina consorte de **Veleskaria** (Reino del Amanecer). Originaria de **Sindria** (Casa Gorski).
 
 ## Relaciones
 - **Uriel Goros:** hermano. Rey gobernante de Sindria.

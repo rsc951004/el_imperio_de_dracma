@@ -49,6 +49,8 @@ mundo/
 | Erebia | Continente | Pendiente. | — |
 | Astria | Nación extinta | Cuna original del culto al Dios Negro. Fe fanática y autodestructiva en sus días finales. Destruida por causas desconocidas. | [Ver ficha](mundo/astria/astria.md) |
 
+> Ver [Cronología del mundo](cronologia.md) para la línea temporal completa.
+
 ## Estigria
 
 ### Geografía
@@ -81,20 +83,20 @@ mundo/
 | 2 | Skarngard | Hierro | Molenaar | Rey/Reina del Martillo | Rey Kies Molen | [Ver ficha](mundo/estigria/dragma/skarngard/skarngard.md) |
 | 3 | Brenngard | Hierro | Grigoryan | Rey/Reina de la Llama | Reina Siran Grigoryan | [Ver ficha](mundo/estigria/dragma/brenngard/brenngard.md) |
 | 4 | Sturmgard | Hierro | Askia | Rey/Reina de la Tormenta | Rey Jan Askia | [Ver ficha](mundo/estigria/dragma/sturmgard/sturmgard.md) |
-| 5 | Lumaria | Verano | Maimon | Rey/Reina del Alba | Reina Ezria Maimon | [Ver ficha](mundo/estigria/dragma/lumaria/lumaria.md) |
-| 6 | Veleskaria | Verano | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
-| 7 | Zefiria | Verano | Aurelian | Rey/Reina del Viento | Reina Celestia Aurelian | [Ver ficha](mundo/estigria/dragma/zefiria/zefiria.md) |
-| 8 | Vesperia | Verano | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/vesperia/vesperia.md) |
-| 9 | Aurelia | Verano | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
-| 10 | Elyria | Verano | Stamatis | Rey/Reina del Tridente | Reina Alexandra Stamatis | [Ver ficha](mundo/estigria/dragma/elyria/elyria.md) |
-| 11 | Sindria | Verano | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
-| 12 | Ylvaria | Verano | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
+| 5 | Lumaria | Amanecer | Maimon | Rey/Reina del Alba | Reina Ezria Maimon | [Ver ficha](mundo/estigria/dragma/lumaria/lumaria.md) |
+| 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
+| 7 | Zefiria | Amanecer | Aurelian | Rey/Reina del Viento | Reina Celestia Aurelian | [Ver ficha](mundo/estigria/dragma/zefiria/zefiria.md) |
+| 8 | Vesperia | Amanecer | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/vesperia/vesperia.md) |
+| 9 | Aurelia | Amanecer | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
+| 10 | Elyria | Amanecer | Stamatis | Rey/Reina del Tridente | Reina Alexandra Stamatis | [Ver ficha](mundo/estigria/dragma/elyria/elyria.md) |
+| 11 | Sindria | Amanecer | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
+| 12 | Ylvaria | Amanecer | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
 
 ★ = gobernante reinante
 
 **Bloque del Hierro** (1-4): núcleo leal al Raikim, nunca se rebelaron. Conservan el sufijo -gard.
 
-**Bloque del Verano** (5-12): Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonaron el sufijo -gard al declarar la rebelión.
+**Bloque del Amanecer** (5-12): Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonaron el sufijo -gard al declarar la rebelión.
 
 Tres reinos del Verano descienden directamente de Suntaris: **Lumaria** (el alma — mística Solaris), **Zefiria** (el arte — Casa Solaris y técnica de Lorian), **Elyria** (la sangre — marinos originales de Suntaris).
 

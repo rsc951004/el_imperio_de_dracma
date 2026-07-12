@@ -1,7 +1,7 @@
 # Veleskaria
 
 ## Tipo
-Reino del Imperio de Dragma. Bloque del Verano. Reino Rebelde. Protector de Kalos.
+Reino del Imperio de Dragma. Bloque del Amanecer. Reino Rebelde. Protector de Kalos.
 
 ## Historia
 Veleskaria fue fundada bajo el Raikim Valgard como **Veleskagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión, pasando a llamarse Veleskaria.

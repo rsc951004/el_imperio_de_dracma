@@ -12,14 +12,14 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 | 2 | Skarngard | Molenaar | Hierro | Rey/Reina del Martillo | ★ Rey Kies Molen | Reina Goikar Sajakan (Brenngard) |
 | 3 | Brenngard | Grigoryan | Hierro | Rey/Reina de la Llama | ★ Reina Siran Grigoryan | Reina Ania Jokull (Sturmgard) |
 | 4 | Sturmgard | Askia | Hierro | Rey/Reina de la Tormenta | ★ Rey Jan Askia | Reina Monika Jäger (Stalgard) |
-| 5 | Lumaria | Maimon | Verano | Rey/Reina del Alba | ★ Reina Ezria Maimon | Rey Gaizka Darerca (Ylvaria) |
-| 6 | Veleskaria | Enescu | Verano | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
-| 7 | Zefiria | Aurelian | Verano | Rey/Reina del Viento | ★ Reina Celestia Aurelian | Rey Octavius Valerios (Zefiria) |
-| 8 | Vesperia | Tuomi | Verano | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Elyria) |
-| 9 | Aurelia | Umbra | Verano | Rey/Reina del Oro | ★ Rey Valerius Umbra | Reina Taria Eskola (Vesperia) |
-| 10 | Elyria | Stamatis | Verano | Rey/Reina del Tridente | ★ Reina Alexandra Stamatis | Rey Gideon Azriel (Lumaria) |
-| 11 | Sindria | Goros | Verano | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
-| 12 | Ylvaria | Gorio | Verano | Rey/Reina del Bosque | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
+| 5 | Lumaria | Maimon | Amanecer | Rey/Reina del Alba | ★ Reina Ezria Maimon | Rey Gaizka Darerca (Ylvaria) |
+| 6 | Veleskaria | Enescu | Amanecer | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
+| 7 | Zefiria | Aurelian | Amanecer | Rey/Reina del Viento | ★ Reina Celestia Aurelian | Rey Octavius Valerios (Zefiria) |
+| 8 | Vesperia | Tuomi | Amanecer | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Elyria) |
+| 9 | Aurelia | Umbra | Amanecer | Rey/Reina del Oro | ★ Rey Valerius Umbra | Reina Taria Eskola (Vesperia) |
+| 10 | Elyria | Stamatis | Amanecer | Rey/Reina del Tridente | ★ Reina Alexandra Stamatis | Rey Gideon Azriel (Lumaria) |
+| 11 | Sindria | Goros | Amanecer | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
+| 12 | Ylvaria | Gorio | Amanecer | Rey/Reina del Bosque | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
 
 ★ = gobernante reinante
 
@@ -38,7 +38,7 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 La distribución actual de consortes responde a afinidades políticas y culturales del momento. No existen prohibiciones formales de mezcla entre bloques; es simplemente la coyuntura presente.
 
 - **Hierro:** circuito cerrado Stalgard → Skarngard → Brenngard → Sturmgard → Stalgard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
-- **Verano:** intercambios internos por parejas o tríadas según conveniencia política. En Zefiria, en esta generación, ambos gobernantes resultaron ser del mismo reino.
+- **Amanecer:** intercambios internos por parejas o tríadas según conveniencia política. En Zefiria, en esta generación, ambos gobernantes resultaron ser del mismo reino.
 
 ---
 

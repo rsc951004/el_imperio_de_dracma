@@ -1,7 +1,7 @@
 # Uriel Goros
 
 ## Identidad
-Rey gobernante de **Sindria** (Reino de Verano). Casa Yuriev.
+Rey gobernante de **Sindria** (Reino del Amanecer). Casa Yuriev.
 
 ## Relaciones
 - **Yelena Gorski:** hermana. Reina consorte de Veleskaria.

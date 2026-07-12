@@ -1,10 +1,10 @@
 # Vesperia
 
 ## Tipo
-Reino del Imperio de Dragma. Bloque del Verano. Reino Rebelde.
+Reino del Imperio de Dragma. Bloque del Amanecer. Reino Rebelde.
 
 ## Historia
-Vesperia fue fundada bajo el Raikim Valgard como **Vesperiagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
+Vesperia fue fundada bajo el Raikim Valgard como **Vespergard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
 
 ## Concepto
 Único puerto accesible de Dragma. Puerta marítima del imperio hacia el exterior. Cultura finesa.

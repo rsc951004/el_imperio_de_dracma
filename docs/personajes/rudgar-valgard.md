@@ -9,7 +9,7 @@ Cabello y barba larga de color rojo intenso. De físico imponente, forjado en la
 ## Historia
 
 ### La resistencia contra Rey Podrido
-Durante los años finales de la Edad de los Mil Reinos, cuando Rey Podrido expandió la sombra desde Malakia sobre El Gerin, Rudgar emergió como líder militar. Junto a Lux Terin, organizó a los reinos dispersos del oeste y lideró la resistencia que logró hacer retroceder a las criaturas y espectros. Bajo su mando, los Portadores abrieron el Foso de la Calamidad y se fundó Esteria (año 0 de la cronología).
+Durante los años finales de la Edad de los Mil Reinos, cuando Rey Podrido expandió la sombra desde Malakia sobre El Gerin, Rudgar emergió como líder militar. Junto a Lux Terin, organizó a los reinos dispersos del oeste y lideró la resistencia que logró hacer retroceder a las criaturas y espectros. Bajo su mando, los Portadores abrieron el Foso de la Calamidad y se fundó Esteria.
 
 Cuando Rudgar tenía catorce años, llegó tarde a una partida de la Casa Valgard que había sido atacada. Entre los supervivientes encontró a un niño esclavo de diez años, sin nombre, que ya era invocador aunque nadie lo sabía. Lo tomó bajo su protección. El niño se convertiría en Lux Terin.
 
@@ -24,15 +24,6 @@ Ese acto marcó el fin de la fachada protectora de Valgard y el inicio de la tir
 
 ### Muerte
 Aproximadamente diez años después del asesinato de Lux Terin, Rudgar murió. El trono pasó a su hijo, **Drakar Valgard**, segundo Raik de la dinastía.
-
-## Cronología estimada
-| Año | Evento |
-|-----|--------|
-| ~-25 | Nacimiento de Rudgar |
-| Año 0 | Fundación de Esteria. Rudgar ~25 años |
-| Año 50 | Fundación del Raikim. Rudgar ~75 años |
-| ~Año 55-65 | Asesinato de Lux Terin. Rudgar ~80-90 años |
-| ~Año 65-75 | Muerte de Rudgar. Su hijo Drakar hereda el trono |
 
 ## Relaciones
 - **Lux Terin**: esclavo, compañero de armas, víctima de su traición.

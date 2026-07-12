@@ -23,16 +23,6 @@ En el extremo norte de la muralla se alzó el Gran Faro. Su luz no es fuego com�
 
 El Faro es el símbolo de Esteria: luz verde contra la sombra, vigilancia eterna sobre el borde del mundo conocido.
 
-### Cronología
-| Año | Evento |
-|-----|--------|
-| Año 0 | Fundación de Esteria |
-| Año 20 | Fundación de Malakia Occidental |
-| Año 30 | Malakia Occidental renombrada a Sindria |
-| Año 50 | Rudgar Valgard funda el Raikim |
-| Décadas después | Rudgar asesina a Lux Terin (ambos ancianos) |
-| +10 años | Rudgar muere; su hijo hereda el trono |
-
 ## Estatus político
 Protectorado imperial. Esteria no tiene rey ni pertenece a ninguno de los 12 Reinos. Se gobierna a sí misma bajo el pacto imperial.
 

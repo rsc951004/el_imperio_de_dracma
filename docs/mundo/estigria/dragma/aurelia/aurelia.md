@@ -1,10 +1,10 @@
 # Aurelia
 
 ## Tipo
-Reino del Imperio de Dragma. Bloque del Verano. Reino Rebelde.
+Reino del Imperio de Dragma. Bloque del Amanecer. Reino Rebelde.
 
 ## Historia
-Aurelia fue fundada bajo el Raikim Valgard como **Aureliagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión. Heredera de la tradición de Erebia en el continente.
+Aurelia fue fundada bajo el Raikim Valgard como **Aurelgard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión. Heredera de la tradición de Erebia en el continente.
 
 ## Concepto
 Centro-sur fértil, herencia Erebia. Tierras agrícolas ricas con legado cultural del continente vecino. Cultura latina.
