@@ -6,20 +6,20 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 
 ## Tabla de los 12 Reinos
 
-| # | Reino | Casa | Origen | Rey/Reina ★ | Consorte |
+| # | Reino | Casa | Bloque | Rey/Reina ★ | Consorte |
 |---|-------|------|--------|-------------|----------|
-| 1 | Stalgard | Meister | Alemán | ★ Rey Jürgen Meister | Reina Monika Jäger |
-| 2 | Skarngard | Molenaar | Neerlandés | ★ Rey Kees Molenaar | Reina Marloes Kuiper |
-| 3 | Brenngard | Grigoryan | Armenio | ★ Reina Siran Grigoryan | Rey Gohar Sahakyan |
-| 4 | Sturmgard | Askja | Islandés | ★ Rey Jón Askja | Reina Anna Jökull |
-| 5 | Lumaria | Yakar | Hebreo | ★ Reina Hadara Yakar | Rey Yosef Halevi |
-| 6 | Veleskaria | Enescu | Rumano | ★ Reina Constanta Enescu | Rey Ecaterina Cojocaru |
-| 7 | Zefiria | Toria | Georgiano | ★ Reina Olga Toria | Rey Tengiz Oniani |
-| 8 | Vesperia | Tuomi | Finés | ★ Rey Eero Tuomi | Reina Tarja Eskola |
-| 9 | Aurelia | Tellus | Latín | ★ Rey Cornelius Tellus | Reina Titia Corvus |
-| 10 | Elyria | Stamatis | Griego | ★ Reina Alexandra Stamatis | Rey Stavros Andreadis |
-| 11 | Sindria | Yuriev | Ruso | ★ Rey Garos Yuriev | Reina Yelena Gorski |
-| 12 | Ylvaria | Goros | Gae./Vasco | ★ Reina Deirdre Goros | Rey Gaizka Darerca |
+| 1 | Stalgard | Meister | Hierro | ★ Rey Jorgen Meister | Reina Marloes Kuyper (Skarngard) |
+| 2 | Skarngard | Molenaar | Hierro | ★ Rey Kies Molen | Reina Goikar Sajakan (Brenngard) |
+| 3 | Brenngard | Grigoryan | Hierro | ★ Reina Siran Grigoryan | Reina Ania Jokull (Sturmgard) |
+| 4 | Sturmgard | Askia | Hierro | ★ Rey Jan Askia | Reina Monika Jäger (Stalgard) |
+| 5 | Lumaria | Maimon | Verano | ★ Reina Ezria Maimon | Rey Gaizka Darerca (Ylvaria) |
+| 6 | Veleskaria | Enescu | Verano | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
+| 7 | Zefiria | Aurelian | Verano | ★ Reina Celestia Aurelian | Rey Octavius Valerios (Zefiria) |
+| 8 | Vesperia | Tuomi | Verano | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Elyria) |
+| 9 | Aurelia | Umbra | Verano | ★ Rey Valerius Umbra | Reina Taria Eskola (Vesperia) |
+| 10 | Elyria | Stamatis | Verano | ★ Reina Alexandra Stamatis | Rey Gideon Azriel (Lumaria) |
+| 11 | Sindria | Goros | Verano | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
+| 12 | Ylvaria | Gorio | Verano | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
 
 ★ = gobernante reinante
 
@@ -33,6 +33,15 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 
 ---
 
+## Alianzas matrimoniales (situación actual)
+
+La distribución actual de consortes responde a afinidades políticas y culturales del momento. No existen prohibiciones formales de mezcla entre bloques; es simplemente la coyuntura presente.
+
+- **Hierro:** circuito cerrado Stalgard → Skarngard → Brenngard → Sturmgard → Stalgard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
+- **Verano:** intercambios internos por parejas o tríadas según conveniencia política. En Zefiria, en esta generación, ambos gobernantes resultaron ser del mismo reino.
+
+---
+
 ## Conceptos por reino
 
 | Reino | Concepto | Notas |
@@ -40,15 +49,15 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 | Stalgard | Norte militar, acero | Yunque del imperio. Casa Meister, alemán. |
 | Skarngard | Montañas, forjas, Veralim | Cuna de Casa Valgard. Casa Molenaar, neerlandés. |
 | Brenngard | Noroeste volcánico, piromancia | Casa Grigoryan, armenio. |
-| Sturmgard | Fiordos, flota del norte | Mares fríos. Casa Askja, islandés. |
-| Lumaria | Suroeste, centro espiritual de la rebelión | Casa Yakar, hebreo. |
+| Sturmgard | Fiordos, flota del norte | Mares fríos. Casa Askia, islandés. |
+| Lumaria | Suroeste, centro espiritual de la rebelión | Casa Maimon, hebreo. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, rumano. |
-| Zefiria | Planicies del sur, vientos | Solaris casa noble. Casa Toria, georgiano. |
+| Zefiria | Planicies del sur, vientos | Solaris casa noble. Casa Aurelian, latín. |
 | Vesperia | Único puerto accesible de Dragma | Casa Tuomi, finés. |
-| Aurelia | Centro-sur fértil, herencia Erebia | Casa Tellus, latín. |
+| Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, latín. |
 | Elyria | Costa del Verano, flota astriana | Casa Stamatis, griego. |
-| Sindria | Noreste, culto al Dios Negro | Casa Yuriev, ruso. |
-| Ylvaria | Bosques, pueblo Ylum | Casa Goros, gaélico/vasco. |
+| Sindria | Noreste, culto al Dios Negro | Casa Goros, ruso. |
+| Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. |
 
 ---
 
