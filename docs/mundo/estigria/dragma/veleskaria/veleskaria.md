@@ -1,21 +1,30 @@
 # Veleskaria
 
 ## Tipo
-Reino del Imperio de Dragma. Bloque del Amanecer. Reino Rebelde. Protector de Kalos.
+Reino del Imperio de Dragma. Protector de Kalos.
 
-## Historia
-Veleskaria fue fundada bajo el Raikim Valgard como **Veleskagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión, pasando a llamarse Veleskaria.
+## Nombre valgard
+Veleskagard
 
-El Raikim asignó a Veleskaria el rol de protector de Kalos como estrategia de control: necesitaban un estado cercano que vigilara la ciudadela. Kalos, como todas las ciudades libres, nunca se subyugó ante ningún Raik Valgard. Con el tiempo, Veleskaria se unió a los reinos que se alzaron contra la tiranía que la había creado.
+## Casa real
+- Fundadora: Pendiente
+- Actual: **Enescu**
 
-## Concepto
-Protector de Kalos, minero e industrial. Las montañas de Verim, ricas en Verilium, atraviesan su territorio. Cultura rumana.
+## Título del gobernante
+**Rey de la Montaña** o **Reina de la Montaña**. Forma abreviada entre monarcas: Rey Montaña o Reina Montaña. El título evoca las montañas de Verim que atraviesan el reino, ricas en Verilium, y la vocación minera que define su identidad.
+
+## Afiliación en la rebelión
+**Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
+
 
 ## Gobierno
-Regido por la Casa Enescu. La reina reinante es **Ileana Enescu ★**, **Reina de la Montaña**. Su consorte es la reina Yelena Gorski, originaria de Sindria.
+Regido por la Casa Enescu. La reina reinante es **Ileana Enescu ★**, Reina de la Montaña. Su consorte es la reina Yelena Gorski, originaria de Sindria.
 
-## Título real
-Los gobernantes de Veleskaria portan el título de **Rey de la Montaña** o **Reina de la Montaña**. Entre los otros monarcas se les llama **Rey Montaña** o **Reina Montaña**. El título evoca las montañas de Verim que atraviesan el reino, ricas en Verilium, y la vocación minera que define su identidad.
+## Historia
+Veleskaria fue fundada por el Raikim Valgard como **Veleskagard**. El Raikim le asignó el rol de protector de Kalos como estrategia de control: necesitaban un estado cercano que vigilara la ciudadela. Kalos, como todas las ciudades libres, nunca se subyugó ante ningún Raik Valgard. Con el tiempo, Veleskaria se unió a los reinos del Bloque del Amanecer que se alzaron contra la tiranía que la había creado.
+
+## Concepto
+Protector de Kalos, minero e industrial. Las montañas de Verim, ricas en Verilium, atraviesan su territorio.
 
 ## Economía
 Reino altamente industrializado, especializado en minería. Extracción y procesamiento de Verilium.
@@ -26,3 +35,8 @@ Oficialmente protector de Kalos. El pacto imperial garantiza la autonomía de la
 ## Referencias
 - `docs/12-reinos.md`
 - `protoversiones/proto_v2/Anexo II.md`
+
+## Guía de nombres
+**Rumana.** Los nombres de personas y lugares de Veleskaria siguen la tradición rumana.
+
+Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).

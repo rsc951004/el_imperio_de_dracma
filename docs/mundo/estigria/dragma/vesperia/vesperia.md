@@ -1,22 +1,38 @@
 # Vesperia
 
 ## Tipo
-Reino del Imperio de Dragma. Bloque del Amanecer. Reino Rebelde.
+Reino del Imperio de Dragma.
 
-## Historia
-Vesperia fue fundada bajo el Raikim Valgard como **Vespergard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
+## Nombre valgard
+Vespergard
 
-## Concepto
-Único puerto accesible de Dragma. Puerta marítima del imperio hacia el exterior. Cultura finesa.
+## Casa real
+- Fundadora: Pendiente
+- Actual: **Tuomi**
+
+## Título del gobernante
+**Rey del Mar** o **Reina del Mar**. Forma abreviada entre monarcas: Rey Mar o Reina Mar. El título evoca el único puerto accesible de Dragma, la puerta marítima del imperio hacia el mundo exterior.
+
+## Afiliación en la rebelión
+**Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
+
 
 ## Gobierno
-Regido por la Casa Tuomi. El rey reinante es **Eero Tuomi ★**, **Rey del Mar**. Su consorte es el rey Tavros Andreidis, originario de Elyria.
+Regido por la Casa Tuomi. El rey reinante es **Eero Tuomi ★**, Rey del Mar. Su consorte es el rey Tavros Andreidis, originario de Elyria.
 
-## Título real
-Los gobernantes de Vesperia portan el título de **Rey del Mar** o **Reina del Mar**. Entre los otros monarcas se les llama **Rey Mar** o **Reina Mar**. El título evoca el único puerto accesible de Dragma, la puerta marítima del imperio hacia el mundo exterior.
+## Historia
+Vesperia fue fundada por el Raikim Valgard como **Vespergard**. Su posición como único puerto accesible de Dragma le otorgó desde el principio un valor estratégico que ningún Raik pudo ignorar. Se unió a la rebelión del Bloque del Amanecer y abandonó el sufijo -gard.
+
+## Concepto
+Único puerto accesible de Dragma. Puerta marítima del imperio hacia el exterior.
 
 ## Economía
 Comercio marítimo internacional. Astilleros. Única salida al mar del imperio.
 
 ## Referencias
 - `docs/12-reinos.md`
+
+## Guía de nombres
+**Finesa.** Los nombres de personas y lugares de Vesperia siguen la tradición finesa.
+
+Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).

@@ -1,7 +1,26 @@
 # Sindria
 
 ## Tipo
-Reino del Imperio de Dragma. Bloque del Amanecer. Reino Rebelde.
+Reino del Imperio de Dragma.
+
+## Nombre valgard
+Sindgard
+
+## Casa real
+- Fundadora: **Ormur** (rama superviviente de la dinastía de Malakia de la Bruma)
+- Actual: **Goros**
+
+## Título del gobernante
+**Rey del Foso** o **Reina del Foso**. Forma abreviada entre monarcas: Rey Foso o Reina Foso.
+
+El título es una declaración política: el Foso de la Calamidad se encuentra en territorio de Esteria, no de Sindria. Al titularse Reyes del Foso, los soberanos de la Casa Goros mantienen viva la reclamación que los Valgard prometieron honrar y jamás cumplieron. Es una deuda de sangre convertida en corona.
+
+## Afiliación en la rebelión
+**Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard, abandonó el sufijo -gard y adoptó el nombre de Sindria.
+
+
+## Gobierno
+Regido por la Casa Goros. El rey reinante es **Uriel Goros ★**, Rey del Foso. Su consorte es la reina Ecaterina Cojocaru, originaria de Veleskaria.
 
 ## Historia
 
@@ -17,13 +36,13 @@ El Raikim refundó el territorio con el nombre de **Sindgard**. El pacto era cla
 
 La promesa jamás fue cumplida. Ni Rudgar ni ninguno de los diecisiete Raiks que le sucedieron entregaron Esteria a Sindria. El motivo era estratégico: incluso los Valgard entendían que Esteria era la última línea de defensa contra el Rey Podrido. Cualquier conflicto con la ciudad fortaleza —cualquier debilitamiento de su posición— podía devenir en una invasión desde El Bramo.
 
-Así nació una herida que nunca cicatrizó. El título de **Rey del Foso** que aún portan los Goros es el eco de aquella promesa incumplida: una reclamación territorial que lleva siglos esperando ser honrada.
+Así nació una herida que nunca cicatrizó. El título de **Rey del Foso** que aún portan los Goros es el eco de aquella promesa incumplida.
 
 ### Rebelión
-Sindgard fue parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión y adoptó el nombre de **Sindria**.
+Sindgard fue parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard y adoptó el nombre de **Sindria**.
 
 ## Concepto
-Noreste, culto al Dios Negro. Región donde el culto tiene arraigo histórico. Cultura rusa. Heredera de la tradición de Malakia Occidental y, antes de ella, de los Hombres de la Bruma.
+Noreste, culto al Dios Negro. Región donde el culto tiene arraigo histórico. Heredera de la tradición de Malakia Occidental y, antes de ella, de los Hombres de la Bruma.
 
 ### El culto sindrio
 El culto al Dios Negro practicado en Sindria es doctrinalmente distinto de la fe original que se daba en Astria —tanto que un astriano de los últimos días lo consideraría herejía.
@@ -36,17 +55,9 @@ En Sindria, en cambio, se busca lo opuesto: el uso y la dominación de los monst
 A pesar de esta diferencia doctrinal, en el resto del Imperio los sindrios son vistos con profundo recelo. Con frecuencia se les culpa de catástrofes naturales, malas cosechas o asesinatos por hechicería. La distinción entre el culto astriano original y el sindrio actual es ignorada o deliberadamente difuminada por quienes desconfían de todo lo relacionado con el Dios Negro.
 
 ### Tensión con Esteria
-Sindria considera el territorio del protectorado de Esteria como parte de su dominio histórico. No es una ambición imperialista: es una deuda. Cuando la Casa Ormur se unió voluntariamente al Raikim, los Valgard prometieron entregar Esteria a Sindria a cambio del sufijo -gard. Diecisiete Raiks pasaron y la promesa nunca se cumplió.
+Sindria considera el territorio del protectorado de Esteria como parte de su dominio histórico. No es una ambición imperialista: es una deuda. Cuando la Casa Ormur se unió voluntariamente al Raikim, los Valgard prometieron entregar Esteria a Sindria. Diecisiete Raiks pasaron y la promesa nunca se cumplió.
 
 Ambas regiones fueron, en la Edad de los Mil Reinos, parte de la antigua Malakia. La reclamación nunca se ha formalizado militarmente —atacar Esteria sería debilitar la defensa contra el Rey Podrido—, pero mantiene una paz vigilada, tensa y cargada de agravios históricos.
-
-## Gobierno
-Regido por la Casa Goros. El rey reinante es **Uriel Goros ★**, **Rey del Foso**. Su consorte es la reina Ecaterina Cojocaru, originaria de Veleskaria.
-
-## Título real
-Los gobernantes de Sindria portan el título de **Rey del Foso** o **Reina del Foso**. Entre los otros monarcas se les llama **Rey Foso** o **Reina Foso**.
-
-El título es una declaración política: el Foso de la Calamidad se encuentra en territorio de Esteria, no de Sindria. Al titularse Reyes del Foso, los soberanos de la Casa Goros mantienen viva la reclamación que los Valgard prometieron honrar y jamás cumplieron. Es una deuda de sangre convertida en corona.
 
 ## Economía
 Economía vinculada al culto y sus redes. Zona de influencia religiosa.
@@ -56,3 +67,8 @@ Economía vinculada al culto y sus redes. Zona de influencia religiosa.
 - `docs/mundo/estigria/malakia.md`
 - `docs/mundo/estigria/dragma/esteria/esteria.md`
 - `docs/entidades/hombres-de-la-bruma.md`
+
+## Guía de nombres
+**Rusa.** Los nombres de personas y lugares de Sindria siguen la tradición rusa.
+
+Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).

@@ -1,22 +1,38 @@
 # Ylvaria
 
 ## Tipo
-Reino del Imperio de Dragma. Bloque del Amanecer. Reino Rebelde.
+Reino del Imperio de Dragma.
 
-## Historia
-Ylvaria fue fundada bajo el Raikim Valgard como **Ylvagard**. Fue parte de los ocho Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard al declarar la rebelión.
+## Nombre valgard
+Ylvagard
 
-## Concepto
-Bosques, pueblo Ylum. Región forestal habitada por el pueblo Ylum. Cultura gaélica-vasca.
+## Casa real
+- Fundadora: Pendiente
+- Actual: **Gorio**
+
+## Título del gobernante
+**Rey del Bosque** o **Reina del Bosque**. Forma abreviada entre monarcas: Rey Bosque o Reina Bosque. El título evoca los densos bosques que cubren el reino y al pueblo Ylum, cuya cultura ancestral pervive entre los árboles.
+
+## Afiliación en la rebelión
+**Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
+
 
 ## Gobierno
-Regido por la Casa Gorio. La reina reinante es **Dreide Gorio ★**, **Reina del Bosque**. Su consorte es la reina Titia Corvus, originaria de Aurelia.
+Regido por la Casa Gorio. La reina reinante es **Dreide Gorio ★**, Reina del Bosque. Su consorte es la reina Titia Corvus, originaria de Aurelia.
 
-## Título real
-Los gobernantes de Ylvaria portan el título de **Rey del Bosque** o **Reina del Bosque**. Entre los otros monarcas se les llama **Rey Bosque** o **Reina Bosque**. El título evoca los densos bosques que cubren el reino y al pueblo Ylum, cuya cultura ancestral pervive entre los árboles.
+## Historia
+Ylvaria fue fundada por el Raikim Valgard como **Ylvagard**. Su identidad está ligada al pueblo Ylum, habitantes ancestrales de los bosques que cubren el reino. Se unió a la rebelión del Bloque del Amanecer y abandonó el sufijo -gard.
+
+## Concepto
+Bosques, pueblo Ylum. Región forestal habitada por el pueblo Ylum.
 
 ## Economía
 Explotación forestal sostenible. Cultura Ylum y tradiciones ancestrales.
 
 ## Referencias
 - `docs/12-reinos.md`
+
+## Guía de nombres
+**Gaélica-vasca.** Los nombres de personas y lugares de Ylvaria siguen la tradición gaélica y vasca.
+
+Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).
