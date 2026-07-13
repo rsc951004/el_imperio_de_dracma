@@ -70,7 +70,7 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Stalgard | Norte militar, acero | Yunque del imperio. Casa Meister, alemán. |
 | Skarngard | Montañas, forjas, Veralim | Cuna de Casa Valgard. Casa Molenaar, neerlandés. |
 | Brenngard | Noroeste volcánico, piromancia | Casa Grigoryan, armenio. |
-| Sturmgard | Fiordos, flota del norte | Mares fríos. Casa Askia, islandés. |
+| Sturmgard | Fiordos helados, tormentas, hombres duros | Frío extremo. Tierra pobre. Casa Askia, islandés. |
 | Lumaria | Suroeste, centro espiritual de la rebelión | Casa Maimon, hebreo. Desciende de Suntaris: el alma. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, rumano. |
 | Zefiria | Planicies del sur, vientos | Solaris casa noble. Casa Aurelian, latín. Desciende de Suntaris: el arte. |

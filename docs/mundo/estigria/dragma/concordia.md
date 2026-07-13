@@ -68,6 +68,26 @@ El Emperador o Rey debe presentar su candidato a heredero ante la **Dex Tábura*
 ### VIII. El Gran Syndrion de Dracma
 El Gran Syndrion fue ampliado para incluir a nobles y comunes, aunque sin la presencia de los reyes. Su función quedó limitada a reunirse cuando sea convocado para un cambio de dinastía, tanto imperial como real.
 
+### VIII bis. Quiebre de dinastía
+
+El cambio de dinastía imperial o real ocurre por **quiebre de dinastía** cuando el monarca no puede proponer un sucesor digno del trono. Tres causas:
+
+1. **Sin hijos:** el monarca no tiene descendencia.
+2. **Hijos no aprobados:** tiene hijos, pero ninguno ha recibido la venia de la Dex Tábura como Príncipe Coronado.
+3. **Herederos abdicados o renuentes:** todos los hijos fueron aprobados como Príncipes Coronados, pero todos han abdicado del título o han rehusado asumirlo.
+
+En cualquiera de estos casos, la Dex Tábura pregunta al monarca si desea postular a un **pariente de sangre** fuera de sus hijos directos. Si el monarca se niega a postular, o si el pariente postulado no es considerado digno por la Dex Tábura, se declara formalmente el **quiebre de la dinastía**.
+
+Declarado el quiebre, queda vacante el «pequeño trono» —el asiento del Príncipe Coronado— y la Dex Tábura convoca al **Gran Syndrion**. El Syndrion se compone de todos los jefes de casas nobles y comunes, supervisados por los revisores de la Dex Tábura. Ni los reyes ni el emperador participan en las deliberaciones ni en la votación.
+
+Cualquier casa del imperio —noble o común, pero no una casa real actualmente reinante— puede ser postulada como nueva casa imperial o real. La votación se resuelve por **mayoría simple**. El Syndrion decide quién será el próximo monarca y cuál será la próxima casa real o imperial.
+
+La casa que cesa en su función imperial o real **vuelve a su estatus anterior** al ascenso.
+
+### IX. Creación de nuevas Casas
+
+La Dex Tábura puede aprobar la creación de nuevas casas —comunes o nobles— a petición del interesado o de un tercero que lo postule. La decisión se basa en los argumentos y hechos presentados. Una vez establecida, la nueva casa queda sujeta a todas las reglas de movilidad de la Concordia y todos sus descendientes pertenecen a ella.
+
 ## Legado
 La Concordia transformó Dragma de una imposición forjada en la guerra a un pacto entre iguales. Por su autoría, Vilem Mormund es recordado como el Padre del Imperio.
 

@@ -63,22 +63,50 @@ Territorios sin dueño dentro del Gerin que no pertenecen a ningún reino ni pro
 
 ## Dinastías imperiales
 
-Dragma ha tenido tres casas imperiales:
+Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes, electas por el Gran Syndrion. Las tres regresaron a su estatus nobiliario previo al dejar la corona.
 
-| # | Dinastía | Estado |
-|---|----------|--------|
-| 1 | Mormund | Fundadora. Electa por el Gran Syndrion en las ruinas de Eldengard. |
-| 2 | — | Pendiente de definición. |
-| 3 | Pavel | Actual. |
+| # | Dinastía | Origen | Emperadores | Estado |
+|---|----------|--------|-------------|--------|
+| 1 | Mormund | Sturmgard (Hierro). Guerreros de las tormentas del norte. | 17 | Extinta como casa imperial. Retornó a casa noble de Sturmgard. |
+| 2 | Amschel | Lumaria (Amanecer). Casa noble hebrea. | 21 | Extinta como casa imperial. Retornó a casa noble de Lumaria. |
+| 3 | Pavel | — | 5 (actual) | Reinante. |
 
-### Emperadores Mormund
+### Primera dinastía: Casa Mormund (Sturmgard)
+
+17 emperadores. Solo cuatro tienen ficha individual detallada.
 
 | Orden | Nombre | Notas |
 |-------|--------|-------|
-| 1.º | Harald Mormund | Fundador del imperio. |
+| 1.º | Harald Mormund | Primer emperador Mormund. Caudillo naval de Sturmgard. |
 | 2.º | Roderic Mormund | Subyugador de dominios rebeldes. |
 | 3.º | Godric Mormund | La tragedia fratricida ocurrió bajo su reinado. |
 | 4.º | Vilem Mormund | El Padre del Imperio. Arquitecto de la Concordia. |
+| … | Trece emperadores posteriores | Compatibles con la Concordia. |
+| 17.º | **Aldric Mormund** | Último. Nunca se casó. Deseó extinguir la línea Mormund. Provocó el quiebre de la dinastía. |
+
+### Segunda dinastía: Casa Amschel (Lumaria)
+
+21 emperadores. Casa noble de Lumaria, de raíz hebrea. Electa por el Gran Syndrion tras el quiebre de la dinastía Mormund.
+
+| Orden | Nombre | Notas |
+|-------|--------|-------|
+| 1.º | **Ezra Amschel** | Primer emperador Amschel. |
+| … | Diecinueve emperadores posteriores | — |
+| 21.º | **Amós Amschel** | Último. Sus hijos rehusaron la corona. Se negó a postular primos o sobrinos. Provocó el quiebre de la dinastía. |
+
+### Tercera dinastía: Casa Pavel
+
+Actualmente en el trono. Cinco emperadores hasta la fecha.
+
+| Orden | Nombre | Notas |
+|-------|--------|-------|
+| 1.º | **Stanis Pavel** | Primer emperador Pavel. |
+| … | Tres emperadores posteriores | — |
+| 5.º | **Pieter Pavel** | Emperador actual. Primo de Vera Pavel. |
+
+### Quiebre de dinastía
+
+El cambio de dinastía imperial o real ocurre por **quiebre de dinastía**: la imposibilidad del monarca de proponer un sucesor digno del trono. El procedimiento completo está documentado en la Concordia de Vilem Mormund (Art. VIII bis).
 
 ## El Raikim y los Dominios
 Durante la tiranía del Raikim Valgard, los actuales reinos no eran reinos soberanos. Eran **Dominios** —propiedad del Raik—, gobernados por un **Senescal** designado que respondía directamente al tirano.
