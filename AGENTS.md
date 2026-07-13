@@ -17,7 +17,7 @@ depurado y versionado por agentes IA bajo supervisión humana.
 3. **No contaminar:** Ningún agente debe mezclar material de `protoversiones/` con el canon sin autorización explícita del humano.
 4. **Versionado:** Todo cambio al canon debe ir documentado en `docs/notas.md`.
 5. **Coherencia interna:** Antes de escribir o modificar cualquier cuento, el agente debe leer `docs/personajes.md` y `docs/mundo.md` para no romper el lore establecido.
-6. **Markdown puro:** Todo el contenido se escribe en Markdown. Nada de formatos binarios (docx, pdf) en el repositorio.
+6. **Markdown puro:** Todo el contenido textual se escribe en Markdown. No se admiten formatos documentales binarios (docx, pdf). La única excepción son imágenes referenciales no canónicas en `protoversiones/referencias-visuales/`, según las reglas de esa carpeta.
 7. **Sin herramientas externas:** No se invocan scripts, compiladores ni herramientas de build durante la escritura. `build.sh` solo se usa bajo orden explícita.
 8. **Respetar la barrera:** `protoversiones/` tiene sus propias reglas. Leer su `AGENTS.md` antes de entrar.
 
@@ -29,7 +29,7 @@ depurado y versionado por agentes IA bajo supervisión humana.
 |---------|-----------|---------|-------------|
 | `cuentos/` | Cuentos terminados, uno por subcarpeta | ✅ Sí | ✅ Sí |
 | `docs/` | Lore, personajes, mundo, notas editoriales | ✅ Sí | ✅ Sí |
-| `protoversiones/` | Borradores antiguos como cantera de rescate | ❌ No | ❌ Solo lectura |
+| `protoversiones/` | Borradores antiguos y referencias visuales como cantera de rescate | ❌ No | Solo imágenes en `referencias-visuales/` |
 | `herramientas/` | Scripts auxiliares (build.sh) | N/A | Solo bajo orden |
 
 ---
@@ -38,9 +38,9 @@ depurado y versionado por agentes IA bajo supervisión humana.
 
 1. El humano da una instrucción.
 2. El agente lee el contexto relevante (`docs/`, `cuentos/`).
-3. El agente genera o modifica contenido **solo en `cuentos/` y `docs/`**.
+3. El agente genera o modifica contenido canónico **solo en `cuentos/` y `docs/`**. Las imágenes tentativas pueden guardarse exclusivamente en `protoversiones/referencias-visuales/` como material no canónico.
 4. El agente documenta el cambio en `docs/notas.md`.
-5. El agente **nunca modifica `protoversiones/`**. Si quiere rescatar algo, lo copia/extracta manualmente hacia `cuentos/`.
+5. El agente **nunca modifica los borradores existentes de `protoversiones/`**. Solo puede añadir imágenes referenciales a `protoversiones/referencias-visuales/`. Si quiere rescatar texto, lo copia o extrae manualmente hacia `cuentos/`.
 6. **No se hace commit sin orden explícita.** El agente solo versiona cambios cuando el humano lo pide. Nunca comitea automáticamente.
 
 ---
@@ -48,7 +48,7 @@ depurado y versionado por agentes IA bajo supervisión humana.
 ## Prohibiciones absolutas
 
 - ❌ Escribir en inglés.
-- ❌ Modificar archivos en `protoversiones/`.
+- ❌ Modificar archivos existentes en `protoversiones/` o añadir contenido fuera de `protoversiones/referencias-visuales/`.
 - ❌ Inventar lore que contradiga `docs/personajes.md` o `docs/mundo.md`.
 - ❌ Usar `build.sh` sin orden explícita del humano.
 - ❌ Crear archivos fuera de la estructura definida sin preguntar.
@@ -57,4 +57,4 @@ depurado y versionado por agentes IA bajo supervisión humana.
 
 ---
 
-_Versión: 1.0.0 | Proyecto 100% IA | Kilo como orquestador principal_
+_Versión: 1.1.0 | Proyecto 100% IA | Kilo como orquestador principal_
