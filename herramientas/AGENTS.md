@@ -16,6 +16,7 @@ No es parte del contenido literario.
 | Archivo | Función | ¿Automático? |
 |---------|---------|---------------|
 | `build.sh` | Compila `cuentos/` a un solo archivo (md/pdf/epub) | ❌ Solo bajo orden |
+| `mapa-estigria/index.html` | Visor del mapa político tentativo de Estigria | ❌ Apertura manual |
 
 ---
 

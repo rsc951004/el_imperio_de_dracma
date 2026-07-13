@@ -103,6 +103,7 @@ Definición del autor:
 
 | Fecha | Cambio |
 |-------|--------|
+| 2026-07-13 | **Mapa político inicial de Estigria.** Creado el visor técnico no canónico `herramientas/mapa-estigria/index.html`, con costas y fronteras orgánicas aproximadas a partir de la referencia visual. No utiliza la cuadrícula rectangular de `estigria.geojson` como geometría. |
 | 2026-07-11 | Eliminación de proto_v1. Vetas rescatables (tragedia de Zorana, Sundara, Ushalin) consolidadas en proto_v2 como ideas de mejora |
 | 2026-07-11 | Separación de personajes y aspectos del mundo en fichas individuales; creación de la categoría de entidades y razas |
 | 2026-07-11 | Inicialización del repositorio |

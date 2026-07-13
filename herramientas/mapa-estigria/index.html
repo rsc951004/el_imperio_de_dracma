@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mapa político inicial de Estigria</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: Inter, system-ui, sans-serif;
+      background: #111820;
+      color: #edf2f4;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: radial-gradient(circle at top, #263746 0, #111820 58%);
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 1rem 1.25rem;
+      border-bottom: 1px solid #ffffff1f;
+      background: #111820e8;
+    }
+
+    h1 {
+      margin: 0;
+      font-family: Georgia, serif;
+      font-size: clamp(1.15rem, 2.5vw, 1.8rem);
+      font-weight: 600;
+    }
+
+    .controles {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .6rem;
+    }
+
+    button {
+      padding: .5rem .8rem;
+      border: 1px solid #ffffff2b;
+      border-radius: .5rem;
+      background: #263746;
+      color: inherit;
+      cursor: pointer;
+    }
+
+    button[aria-pressed="true"] { background: #456b78; }
+
+    main {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 17rem;
+      gap: 1rem;
+      padding: 1rem;
+    }
+
+    .lienzo {
+      position: relative;
+      overflow: hidden;
+      min-height: 32rem;
+      border: 1px solid #ffffff24;
+      border-radius: .8rem;
+      background: #173b50;
+      box-shadow: 0 1.2rem 3rem #0008;
+    }
+
+    svg {
+      display: block;
+      width: 100%;
+      height: 100%;
+      min-height: 32rem;
+    }
+
+    .referencia {
+      opacity: 0;
+      transition: opacity .2s ease;
+      pointer-events: none;
+    }
+
+    .mostrar-referencia .referencia { opacity: .5; }
+
+    .pais,
+    .territorio {
+      stroke: #f5efd9;
+      stroke-width: 4;
+      stroke-linejoin: round;
+      vector-effect: non-scaling-stroke;
+      transition: filter .15s ease, opacity .15s ease;
+      cursor: pointer;
+    }
+
+    .pais:hover,
+    .pais:focus,
+    .territorio:hover,
+    .territorio:focus {
+      filter: brightness(1.22) saturate(1.15);
+      outline: none;
+    }
+
+    .accidente {
+      pointer-events: none;
+      stroke: #3f4650;
+      stroke-width: 3;
+      fill: url(#montanas);
+      opacity: .9;
+    }
+
+    .agua-interior {
+      fill: #245e78;
+      stroke: #d7edf2;
+      stroke-width: 3;
+      vector-effect: non-scaling-stroke;
+    }
+
+    .frontera-foso {
+      fill: none;
+      stroke: #8ce09e;
+      stroke-width: 7;
+      stroke-dasharray: 12 9;
+      vector-effect: non-scaling-stroke;
+    }
+
+    .etiqueta {
+      fill: #fffdf3;
+      stroke: #17202a;
+      stroke-width: 5;
+      paint-order: stroke;
+      font-family: Georgia, serif;
+      font-size: 25px;
+      font-weight: 700;
+      text-anchor: middle;
+      pointer-events: none;
+    }
+
+    .etiqueta.menor { font-size: 19px; }
+    .ocultar-etiquetas .etiquetas { display: none; }
+
+    .capital {
+      fill: #fff8cf;
+      stroke: #1b2026;
+      stroke-width: 4;
+      vector-effect: non-scaling-stroke;
+    }
+
+    aside {
+      padding: 1rem;
+      border: 1px solid #ffffff1f;
+      border-radius: .8rem;
+      background: #18232ddd;
+    }
+
+    aside h2 { margin-top: 0; font-size: 1rem; }
+    aside p { color: #c8d4dc; line-height: 1.45; }
+    #detalle strong { color: #fff8cf; }
+
+    .leyenda {
+      display: grid;
+      gap: .45rem;
+      margin-top: 1.2rem;
+      font-size: .85rem;
+    }
+
+    .leyenda span { display: flex; align-items: center; gap: .55rem; }
+    .muestra { width: 1rem; height: 1rem; border: 1px solid #fff9; border-radius: .2rem; }
+
+    @media (max-width: 850px) {
+      main { grid-template-columns: 1fr; }
+      aside { order: -1; }
+      header { align-items: flex-start; flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Estigria · mapa político inicial</h1>
+    <div class="controles" aria-label="Controles del mapa">
+      <button id="alternar-etiquetas" type="button" aria-pressed="true">Nombres</button>
+      <button id="alternar-referencia" type="button" aria-pressed="false">Referencia ilustrada</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="lienzo" id="lienzo" aria-label="Mapa político aproximado de Estigria">
+      <svg viewBox="0 0 1536 1024" role="img" aria-labelledby="titulo-mapa descripcion-mapa">
+        <title id="titulo-mapa">Mapa político inicial de Estigria</title>
+        <desc id="descripcion-mapa">Trazado plano aproximado basado en el mapa tentativo ilustrado.</desc>
+        <defs>
+          <pattern id="montanas" width="32" height="32" patternUnits="userSpaceOnUse" patternTransform="rotate(18)">
+            <rect width="32" height="32" fill="#69727b"></rect>
+            <path d="M0 28L16 4L32 28" fill="none" stroke="#c6cbd0" stroke-width="4"></path>
+          </pattern>
+        </defs>
+
+        <rect width="1536" height="1024" fill="#1d536b"></rect>
+        <image class="referencia" href="../../protoversiones/referencias-visuales/mapa-tentativo-estigria.png" width="1536" height="1024"></image>
+
+        <g id="paises">
+          <path class="pais" tabindex="0" data-nombre="Flamengard" data-tipo="Reino" fill="#a45a45"
+            d="M92 250 L120 170 L235 110 L420 82 L510 125 L555 185 L520 235 L560 300 L480 350 L335 340 L220 370 L135 315 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Sturmgard" data-tipo="Reino" fill="#557b92"
+            d="M92 250 L135 315 L220 370 L335 340 L360 430 L320 530 L240 570 L130 545 L74 460 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Skarngard" data-tipo="Reino" fill="#8b6f47"
+            d="M335 340 L480 350 L555 410 L520 520 L425 570 L320 530 L360 430 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Waffengard" data-tipo="Reino" fill="#687b4b"
+            d="M480 350 L560 300 L600 305 L750 320 L815 400 L780 510 L650 575 L520 520 L555 410 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Veleskaria" data-tipo="Reino" fill="#8b7259"
+            d="M510 125 L700 90 L835 135 L820 240 L750 320 L600 305 L560 300 L520 235 L555 185 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Sindria" data-tipo="Reino" fill="#7d5d75"
+            d="M600 305 L750 320 L815 400 L830 465 L780 510 L650 575 L620 480 L555 410 Z"></path>
+          <path class="territorio" tabindex="0" data-nombre="Eldengaria" data-tipo="Capital imperial" fill="#b08a3f"
+            d="M425 570 L520 520 L650 575 L780 510 L835 570 L790 650 L700 710 L570 730 L480 680 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Lumyria" data-tipo="Reino" fill="#d4ae55"
+            d="M130 545 L240 570 L320 530 L425 570 L480 680 L430 735 L330 750 L245 720 L150 745 L90 680 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Vesperia" data-tipo="Reino" fill="#4f8290"
+            d="M330 750 L430 735 L480 680 L570 730 L560 830 L480 870 L380 840 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Zefyria" data-tipo="Reino" fill="#d7bd69"
+            d="M90 680 L150 745 L245 720 L330 750 L380 840 L350 930 L230 965 L120 925 L65 820 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Elyria" data-tipo="Reino" fill="#bb8258"
+            d="M380 840 L480 870 L560 830 L700 840 L735 930 L650 975 L520 950 L430 970 L350 930 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Aurelia" data-tipo="Reino" fill="#c69b4a"
+            d="M570 730 L700 710 L790 650 L900 690 L940 780 L880 860 L735 930 L700 840 L560 830 Z"></path>
+          <path class="pais" tabindex="0" data-nombre="Ylvaria" data-tipo="Reino" fill="#416b4a"
+            d="M900 690 L1000 650 L1130 690 L1250 760 L1360 820 L1430 900 L1360 970 L1200 955 L1060 900 L880 860 L940 780 Z"></path>
+          <path class="territorio" tabindex="0" data-nombre="El Modrig" data-tipo="Región oriental" fill="#3f4148"
+            d="M835 135 L1000 90 L1220 75 L1450 130 L1490 260 L1460 430 L1490 570 L1420 700 L1360 820 L1250 760 L1130 690 L1000 650 L900 690 L835 570 L830 465 L815 400 L750 320 L820 240 Z"></path>
+          <path class="territorio" tabindex="0" data-nombre="El Bramo" data-tipo="Reducto del Rey Podrido" fill="#5d4148"
+            d="M1090 170 L1230 145 L1375 190 L1410 285 L1360 380 L1220 405 L1095 345 L1040 250 Z"></path>
+          <path class="territorio" tabindex="0" data-nombre="Kalos" data-tipo="Ciudad libre" fill="#a88b67"
+            d="M1220 835 L1290 800 L1380 820 L1430 875 L1415 940 L1355 975 L1270 955 L1210 905 Z"></path>
+        </g>
+
+        <path class="agua-interior" d="M475 90 L520 105 L545 150 L520 205 L545 250 L520 300 L480 320 L455 285 L470 235 L445 195 L460 145 Z"></path>
+        <path class="accidente" d="M790 135 L850 155 L890 245 L920 330 L900 410 L945 500 L930 585 L980 655 L930 705 L855 610 L820 510 L800 420 L755 330 L780 240 Z"></path>
+        <path class="frontera-foso" d="M835 135 C900 180 945 210 1005 238"></path>
+
+        <g aria-label="Lugares destacados">
+          <circle class="capital" cx="805" cy="210" r="11"></circle>
+          <circle class="capital" cx="790" cy="560" r="12"></circle>
+          <circle class="capital" cx="1325" cy="885" r="11"></circle>
+        </g>
+
+        <g class="etiquetas">
+          <text class="etiqueta" x="300" y="250">Flamengard</text>
+          <text class="etiqueta" x="190" y="445">Sturmgard</text>
+          <text class="etiqueta" x="420" y="455">Skarngard</text>
+          <text class="etiqueta" x="665" y="420">Waffengard</text>
+          <text class="etiqueta menor" x="690" y="210">Veleskaria</text>
+          <text class="etiqueta menor" x="700" y="360">Sindria</text>
+          <text class="etiqueta" x="615" y="635">Eldengaria</text>
+          <text class="etiqueta" x="250" y="660">Lumyria</text>
+          <text class="etiqueta menor" x="455" y="800">Vesperia</text>
+          <text class="etiqueta" x="230" y="865">Zefyria</text>
+          <text class="etiqueta" x="535" y="915">Elyria</text>
+          <text class="etiqueta" x="760" y="790">Aurelia</text>
+          <text class="etiqueta" x="1080" y="820">Ylvaria</text>
+          <text class="etiqueta" x="1210" y="555">El Modrig</text>
+          <text class="etiqueta menor" x="1225" y="280">El Bramo</text>
+          <text class="etiqueta menor" x="1325" y="900">Kalos</text>
+          <text class="etiqueta menor" x="805" y="190">Esteria</text>
+          <text class="etiqueta menor" x="785" y="545">Monte Dracma</text>
+          <text class="etiqueta menor" x="880" y="400" transform="rotate(76 880 400)">Estomur</text>
+        </g>
+      </svg>
+    </section>
+
+    <aside>
+      <h2>Lectura del mapa</h2>
+      <p id="detalle"><strong>Versión inicial.</strong> Selecciona un territorio para identificarlo.</p>
+      <p>Las costas y fronteras son un trazado aproximado de la referencia ilustrada. No proceden de la cuadrícula rectangular del tablero.</p>
+      <div class="leyenda" aria-label="Leyenda">
+        <span><i class="muestra" style="background:#d4ae55"></i> Reinos y territorios políticos</span>
+        <span><i class="muestra" style="background:#69727b"></i> Cordillera Estomur</span>
+        <span><i class="muestra" style="background:#245e78"></i> Agua interior</span>
+        <span><i class="muestra" style="background:#8ce09e"></i> Foso de la Calamidad</span>
+      </div>
+    </aside>
+  </main>
+
+  <script>
+    const lienzo = document.querySelector('#lienzo');
+    const detalle = document.querySelector('#detalle');
+    const botonEtiquetas = document.querySelector('#alternar-etiquetas');
+    const botonReferencia = document.querySelector('#alternar-referencia');
+
+    function alternarEstado(boton, clase, elemento = lienzo) {
+      const activo = boton.getAttribute('aria-pressed') !== 'true';
+      boton.setAttribute('aria-pressed', String(activo));
+      elemento.classList.toggle(clase, activo);
+    }
+
+    botonEtiquetas.addEventListener('click', () => {
+      const visibles = botonEtiquetas.getAttribute('aria-pressed') === 'true';
+      botonEtiquetas.setAttribute('aria-pressed', String(!visibles));
+      lienzo.classList.toggle('ocultar-etiquetas', visibles);
+    });
+
+    botonReferencia.addEventListener('click', () => {
+      alternarEstado(botonReferencia, 'mostrar-referencia');
+    });
+
+    document.querySelectorAll('[data-nombre]').forEach((territorio) => {
+      const mostrar = () => {
+        detalle.innerHTML = `<strong>${territorio.dataset.nombre}</strong><br>${territorio.dataset.tipo}`;
+      };
+      territorio.addEventListener('mouseenter', mostrar);
+      territorio.addEventListener('focus', mostrar);
+      territorio.addEventListener('click', mostrar);
+    });
+  </script>
+</body>
+</html>
