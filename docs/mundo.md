@@ -123,7 +123,7 @@ Tres reinos del Verano descienden directamente de Suntaris: **Lumaria** (el alma
 | 2 | Esteria | Ciudad fortaleza | Ciudad fundada al borde del Foso de la Calamidad para contener la oscuridad del este. Anterior al Raikim. Sindria reclama su territorio. Conocida como Ciudad Esteria. | [Ver ficha](mundo/estigria/dragma/esteria/esteria.md) |
 | 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/estigria/dragma/ishbaal/ishbaal.md) |
 | 4 | Alesya | Isla | Isla al suroeste. Alberga la Fortaleza del Sol, antigua residencia secundaria de los reyes del Verano. Territorio sagrado para los descendientes de Suntaris. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
-| 5 | Kardan | Isla | Isla en el extremo noreste, cerca del Lado Maldito. Casi inaccesible. Conocida como Kardan la Solitaria. | [Ver ficha](mundo/estigria/dragma/kardan/kardan.md) |
+| 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por el navegante elyrio Artemis en la Edad de los Mil Reinos. Conocida como Delfos la Solitaria. | [Ver ficha](mundo/estigria/dragma/delfos/delfos.md) |
 
 > Los protectorados son estados semi-soberanos bajo protección directa del emperador. No tienen rey ni pertenecen a ninguno de los 12 Reinos. Se gobiernan a sí mismos dentro de los límites del pacto imperial.
 
