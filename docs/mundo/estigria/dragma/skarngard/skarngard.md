@@ -16,6 +16,9 @@ Skarngard
 ## Afiliación en la rebelión
 **Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Es la cuna de la Casa Valgard, la dinastía que gobernó el Raikim antes del Imperio. Conserva el sufijo -gard.
 
+## Afiliación geográfica
+**Valle de Hierro.** Región germánica del noroeste del Gerin. Cuna de la Casa Valgard.
+
 
 ## Gobierno
 Regido por la Casa Hammer. El rey reinante es **Yuter Hammer ★**, Rey del Martillo. Su consorte es la reina Freda Brandt, originaria de Flamengard (Casa Brandt).

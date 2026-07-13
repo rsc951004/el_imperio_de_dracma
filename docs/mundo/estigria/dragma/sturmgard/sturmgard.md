@@ -16,6 +16,9 @@ Sturmgard
 ## Afiliación en la rebelión
 **Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard.
 
+## Afiliación geográfica
+**Valle de Hierro.** Región germánica del noroeste del Gerin.
+
 
 ## Gobierno
 Regido por la Casa Reisner. El rey reinante es **Jorin Reisner ★**, Rey de la Tormenta. Su consorte es la reina Sabina Jaeger, originaria de Waffengard (Casa Jaeger).

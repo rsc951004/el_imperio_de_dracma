@@ -13,7 +13,7 @@ Gentes de todo El Gerin —herreros, guerreros, familias enteras— viajaron al 
 
 ## Las 4 zonas de El Gerin
 
-El Gerin se divide en 4 zonas geográfico-culturales distribuidas en un tablero de 4 filas (norte a sur) por 3 columnas (oeste a este):
+El Gerin se divide en 4 regiones geográfico-culturales distribuidas en un tablero de 4 filas (norte a sur) por 3 columnas (oeste a este):
 
 ```
     1               2               3               4               5
@@ -23,12 +23,14 @@ C  Lumyria        Vesperia        Aurelia         Estomur         El Modrig
 D  Zefyria        Elyria          Ylvaria         Estomur         El Modrig
 ```
 
-| Zona | Reinos | Tradición | Posición |
-|------|--------|-----------|----------|
-| **Reinos de Hierro** | Waffengard, Sturmgard, Skarngard, Flamengard | Germánica | A1, A2, B1, B2 (noroeste) |
-| **Reinos del Verano** | Lumyria, Zefyria, Elyria | Grecolatina | C1, D1, D2 (suroeste costero) |
-| **Reinos Orientales** | Sindria, Veleskaria | Eslava | A3, B3 (este) |
-| **xValle** | Vesperia, Aurelia, Ylvaria | Céltico-nórdica | C2, C3, D3 (centro-este/sureste) |
+| Región | Reinos | Tradición | Posición |
+|--------|--------|-----------|----------|
+| **Valle de Hierro** | Flamengard, Skarngard, Sturmgard, Waffengard | Germánica | A1, A2, B1, B2 (noroeste) |
+| **Costas del Verano** | Lumyria, Zefyria, Elyria | Grecolatina | C1, D1, D2 (suroeste costero) |
+| **Paso del Oriente** | Veleskaria, Sindria | Eslava | A3, B3 (este) |
+| **FOO** | Vesperia, Aurelia, Ylvaria | Céltico-nórdica | C2, C3, D3 (centro-este/sureste) |
+
+> FOO = nombre pendiente. En busca de nombre definitivo.
 
 - **Esteria:** ciudad fortaleza al borde del Foso, noreste, fuera de la cuadrícula principal.
 - **Kalos:** ciudadela amurallada al sureste, cerca de Ylvaria y Veleskaria.

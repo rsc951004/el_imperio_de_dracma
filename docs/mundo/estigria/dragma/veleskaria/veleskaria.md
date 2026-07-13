@@ -16,6 +16,9 @@ Veleskagard
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
+## Afiliación geográfica
+**Paso del Oriente.** Región eslava del este del Gerin. Val mezclados con otras culturas desde antiguo.
+
 
 ## Gobierno
 Regido por la Casa Enescu. La reina reinante es **Ileana Enescu ★**, Reina de la Montaña. Su consorte es la reina Yelena Gorski, originaria de Sindria.

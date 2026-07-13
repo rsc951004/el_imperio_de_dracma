@@ -16,6 +16,9 @@ Ylvagard
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
+## Afiliación geográfica
+**FOO** (nombre pendiente). Región céltico-nórdica del sureste del Gerin.
+
 
 ## Gobierno
 Regido por la Casa Gorio. La reina reinante es **Dreide Gorio ★**, Reina del Bosque. Su consorte es la reina Titia Corvus, originaria de Aurelia.

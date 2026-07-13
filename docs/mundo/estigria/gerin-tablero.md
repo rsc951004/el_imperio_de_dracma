@@ -4,16 +4,16 @@
 ┌───────┬──────────────┬──────────────┬──────────────┬──────────────────┬──────────────────┐
 │       │      1       │      2       │      3       │        4         │        5         │
 ├───────┼──────────────┼──────────────┼──────────────┼──────────────────┼──────────────────┤
-│   A   │  Fl  HIERRO  │  Vk  ORIENTE │  Sd  ORIENTE │  Malakia / Bramo │                  │
+│   A   │  Fl  HIERRO  │  Vk  PASO  │  Sd  PASO  │  Malakia / Bramo │                  │
 ├───────┼──────────────┼──────────────┼──────────────┼──────────────────┤                  │
 │   B   │  Sk  HIERRO  │  St  HIERRO  │  Wf  HIERRO  │     Estomur      │                  │
 ├───────┼──────────────┼──────────────┼──────────────┼──────────────────┤    EL MODRIG     │
-│   C   │  Lm  VERANO  │  Vs  X       │  Au  X       │     Estomur      │                  │
+│   C   │  Lm  VERANO  │  Vs  FOO     │  Au  FOO     │     Estomur      │                  │
 ├───────┼──────────────┼──────────────┼──────────────┼──────────────────┤                  │
-│   D   │  Zf  VERANO  │  El  VERANO  │  Yl  X       │     Estomur      │                  │
+│   D   │  Zf  VERANO  │  El  VERANO  │  Yl  FOO     │     Estomur      │                  │
 └───────┴──────────────┴──────────────┴──────────────┴──────────────────┴──────────────────┘
 
-> Estomur = también llamado Las Montañas Azules (nombre popular).
+> HIERRO = Valle de Hierro | VERANO = Costas del Verano | PASO = Bruma del Oriente | FOO = pendiente. Estomur = Las Montañas Azules (popular).
 ```
 ```
 

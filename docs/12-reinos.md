@@ -6,20 +6,20 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 
 ## Tabla de los 12 Reinos
 
-| # | Reino | Casa | Zona | Título | Rey/Reina ★ | Consorte |
-|---|-------|------|------|--------|-------------|----------|
-| 1 | Waffengard | Meister | Hierro | Rey/Reina del Acero | ★ Rey Jorgen Meister | Reina Alessa Meister (Skarngard) |
-| 2 | Skarngard | Hammer | Hierro | Rey/Reina del Martillo | ★ Rey Yuter Hammer | Reina Freda Brandt (Flamengard) |
-| 3 | Flamengard | Wolfen | Hierro | Rey/Reina de la Llama | ★ Rey Kaspar Wolfen | Rey Marlo Falken (Sturmgard) |
-| 4 | Sturmgard | Reisner | Hierro | Rey/Reina de la Tormenta | ★ Rey Jorin Reisner | Reina Sabina Jaeger (Waffengard) |
-| 5 | Lumyria | Corintyos | Verano | Rey/Reina del Alba | ★ Reina Octavia Corintyos | Helio Ventys (Zefyria) |
-| 6 | Veleskaria | Enescu | Oriente | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
-| 7 | Zefyria | Zephyrion | Verano | Rey/Reina del Viento | ★ Rey Cassius Zephyrion | Celestya Drusio (Elyria) |
-| 8 | Vesperia | Tuomi | Valle | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Elyria) |
-| 9 | Aurelia | Umbra | Valle | Rey/Reina del Oro | ★ Rey Valerius Umbra | Reina Taria Eskola (Vesperia) |
-| 10 | Elyria | Valerius | Verano | Rey/Reina del Tridente | ★ Rey Marcus Valerius | Nerysa Undavos (Alesya) |
-| 11 | Sindria | Goros | Oriente | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
-| 12 | Ylvaria | Gorio | Valle | Rey/Reina del Bosque | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
+| # | Reino | Casa | Región | Título | Rey/Reina ★ | Consorte |
+|---|-------|------|--------|--------|-------------|----------|
+| 1 | Waffengard | Meister | Valle de Hierro | Rey/Reina del Acero | ★ Rey Jorgen Meister | Reina Alessa Meister (Skarngard) |
+| 2 | Skarngard | Hammer | Valle de Hierro | Rey/Reina del Martillo | ★ Rey Yuter Hammer | Reina Freda Brandt (Flamengard) |
+| 3 | Flamengard | Wolfen | Valle de Hierro | Rey/Reina de la Llama | ★ Rey Kaspar Wolfen | Rey Marlo Falken (Sturmgard) |
+| 4 | Sturmgard | Reisner | Valle de Hierro | Rey/Reina de la Tormenta | ★ Rey Jorin Reisner | Reina Sabina Jaeger (Waffengard) |
+| 5 | Lumyria | Corintyos | Costas del Verano | Rey/Reina del Alba | ★ Reina Octavia Corintyos | Helio Ventys (Zefyria) |
+| 6 | Veleskaria | Enescu | Paso del Oriente | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
+| 7 | Zefyria | Zephyrion | Costas del Verano | Rey/Reina del Viento | ★ Rey Cassius Zephyrion | Celestya Drusio (Elyria) |
+| 8 | Vesperia | Tuomi | FOO | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Elyria) |
+| 9 | Aurelia | Umbra | FOO | Rey/Reina del Oro | ★ Rey Valerius Umbra | Reina Taria Eskola (Vesperia) |
+| 10 | Elyria | Valerius | Costas del Verano | Rey/Reina del Tridente | ★ Rey Marcus Valerius | Nerysa Undavos (Alesya) |
+| 11 | Sindria | Goros | Paso del Oriente | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
+| 12 | Ylvaria | Gorio | FOO | Rey/Reina del Bosque | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
 
 ★ = gobernante reinante
 
@@ -27,23 +27,23 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 
 ## Estructura
 
-### Reinos de Hierro (conservan -gard)
+### Valle de Hierro (conservan -gard)
 Núcleo leal al Raikim, nunca se rebelaron. Tradición germánica. Circuito matrimonial cerrado.
 Waffengard · Skarngard · Flamengard · Sturmgard
 
-### Reinos del Verano (cambiaron a -ria)
+### Costas del Verano (cambiaron a -ria)
 Descienden de la destruida Suntaris. Tradición grecolatina. Circuito matrimonial cerrado.
 Lumyria · Zefyria · Elyria
 
-### Reinos Orientales (cambiaron a -ria)
-Este del Gerin. Tradición eslava.
+### Paso del Oriente (cambiaron a -ria)
+Este del Gerin. Val mezclados con otras culturas. Forjados contra las bestias del Modrig. Tradición eslava.
 Veleskaria · Sindria
 
-### Reinos del Valle (cambiaron a -ria)
-Centro y norte del Gerin. Tradición céltico-nórdica.
+### FOO (cambiaron a -ria)
+Centro y este del Gerin. Tradición céltico-nórdica. Nombre pendiente.
 Vesperia · Aurelia · Ylvaria
 
-Los 8 reinos que no son Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión.
+Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión.
 
 ---
 
@@ -51,9 +51,9 @@ Los 8 reinos que no son Hierro se alzaron contra Grimar Valgard en la **Rebelió
 
 La distribución actual de consortes responde a afinidades políticas y culturales del momento. No existen prohibiciones formales de mezcla entre bloques; es simplemente la coyuntura presente.
 
-- **Hierro:** circuito cerrado Waffengard ↔ Skarngard ↔ Flamengard ↔ Sturmgard ↔ Waffengard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
-- **Verano:** circuito cerrado Lumyria ↔ Zefyria ↔ Elyria ↔ Lumyria. Los tres reinos del Verano intercambian consortes entre sus casas nobles. Nerysa Undavos, de Elyria, es la excepción: proviene de Alesya, protectorado vinculado culturalmente al Verano.
-- **Oriente y Valle:** intercambios internos y entre sí según conveniencia política.
+- **Valle de Hierro:** circuito cerrado Waffengard ↔ Skarngard ↔ Flamengard ↔ Sturmgard ↔ Waffengard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
+- **Costas del Verano:** circuito cerrado Lumyria ↔ Zefyria ↔ Elyria ↔ Lumyria. Los tres reinos del Verano intercambian consortes entre sus casas nobles. Nerysa Undavos, de Elyria, es la excepción: proviene de Alesya, protectorado vinculado culturalmente al Verano.
+- **Paso del Oriente y FOO:** intercambios internos y entre sí según conveniencia política.
 
 ---
 
@@ -82,18 +82,18 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 
 | Reino | Concepto | Notas |
 |-------|----------|-------|
-| Waffengard | Norte militar, acero | Yunque del imperio. Casa Meister, germánico. |
-| Skarngard | Montañas, forjas, Veralim | Cuna de Casa Valgard. Casa Hammer, germánico. |
-| Flamengard | Noroeste volcánico, piromancia | Casa Wolfen, germánico. |
-| Sturmgard | Fiordos helados, tormentas, hombres duros | Frío extremo. Tierra pobre. Casa Reisner, germánico. |
+| Waffengard | Norte militar, acero | Yunque del imperio. Casa Meister, germánico. Valle de Hierro. |
+| Skarngard | Montañas, forjas, Veralim | Cuna de Casa Valgard. Casa Hammer, germánico. Valle de Hierro. |
+| Flamengard | Noroeste volcánico, piromancia | Casa Wolfen, germánico. Valle de Hierro. |
+| Sturmgard | Fiordos helados, tormentas, hombres duros | Frío extremo. Tierra pobre. Casa Reisner, germánico. Valle de Hierro. |
 | Lumyria | Suroeste, centro espiritual de la rebelión | Casa Corintyos, grecolatino. Desciende de Suntaris: el alma. |
-| Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. |
+| Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
 | Zefyria | Planicies del sur, vientos | Solaris casa noble. Casa Zephyrion, grecolatino. Desciende de Suntaris: el arte. |
-| Vesperia | Único puerto accesible de Dragma | Casa Tuomi, finés. |
-| Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, céltico-nórdico. |
+| Vesperia | Único puerto accesible de Dragma | Casa Tuomi, finés. FOO. |
+| Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, céltico-nórdico. FOO. |
 | Elyria | Costa del Verano, flota astriana | Casa Valerius, grecolatino. Desciende de Suntaris: la sangre marinera. |
-| Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. |
-| Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. |
+| Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
+| Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. FOO. |
 
 ---
 

@@ -18,6 +18,9 @@ El título es una declaración política: el Foso de la Calamidad se encuentra e
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard, abandonó el sufijo -gard y adoptó el nombre de Sindria.
 
+## Afiliación geográfica
+**Paso del Oriente.** Región eslava del noreste del Gerin. Forjada en la lucha contra las bestias que escapaban desde El Modrig a través del Paso del Bramo.
+
 
 ## Gobierno
 Regido por la Casa Goros. El rey reinante es **Uriel Goros ★**, Rey del Foso. Su consorte es la reina Ecaterina Cojocaru, originaria de Veleskaria.

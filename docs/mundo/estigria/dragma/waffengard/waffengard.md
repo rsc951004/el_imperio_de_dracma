@@ -16,6 +16,9 @@ Waffengard
 ## Afiliación en la rebelión
 **Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard por tradición y lealtad a los orígenes del continente.
 
+## Afiliación geográfica
+**Valle de Hierro.** Región germánica del noroeste del Gerin.
+
 
 ## Gobierno
 Regido por la Casa Meister. El rey reinante es **Jorgen Meister ★**, Rey del Acero. Su consorte es la reina Alessa Meister, originaria de Skarngard (Casa Brunnen).

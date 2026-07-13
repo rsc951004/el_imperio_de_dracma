@@ -16,6 +16,9 @@ Vespergard
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
+## Afiliación geográfica
+**FOO** (nombre pendiente). Región céltico-nórdica del centro del Gerin.
+
 
 ## Gobierno
 Regido por la Casa Tuomi. El rey reinante es **Eero Tuomi ★**, Rey del Mar. Su consorte es el rey Tavros Andreidis, originario de Elyria.

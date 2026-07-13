@@ -86,32 +86,32 @@ mundo/
 
 #### Los 12 Reinos
 
-| # | Reino | Zona | Casa | Título | Gobernante ★ | Ficha |
+| # | Reino | Región | Casa | Título | Gobernante ★ | Ficha |
 |---|-------|------|------|-------|-------------|-------|
 | 1 | Waffengard | Hierro | Meister | Rey/Reina del Acero | Rey Jorgen Meister | [Ver ficha](mundo/estigria/dragma/waffengard/waffengard.md) |
 | 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo | Rey Yuter Hammer | [Ver ficha](mundo/estigria/dragma/skarngard/skarngard.md) |
 | 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama | Rey Kaspar Wolfen | [Ver ficha](mundo/estigria/dragma/flamengard/flamengard.md) |
 | 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta | Rey Jorin Reisner | [Ver ficha](mundo/estigria/dragma/sturmgard/sturmgard.md) |
-| 5 | Lumyria | Verano | Corintyos | Rey/Reina del Alba | Reina Octavia Corintyos | [Ver ficha](mundo/estigria/dragma/lumyria/lumyria.md) |
-| 6 | Veleskaria | Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
-| 7 | Zefyria | Verano | Zephyrion | Rey/Reina del Viento | Rey Cassius Zephyrion | [Ver ficha](mundo/estigria/dragma/zefyria/zefyria.md) |
-| 8 | Vesperia | Valle | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/vesperia/vesperia.md) |
-| 9 | Aurelia | Valle | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
-| 10 | Elyria | Verano | Valerius | Rey/Reina del Tridente | Rey Marcus Valerius | [Ver ficha](mundo/estigria/dragma/elyria/elyria.md) |
-| 11 | Sindria | Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
-| 12 | Ylvaria | Valle | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
+| 5 | Lumyria | Costas del Verano | Corintyos | Rey/Reina del Alba | Reina Octavia Corintyos | [Ver ficha](mundo/estigria/dragma/lumyria/lumyria.md) |
+| 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
+| 7 | Zefyria | Costas del Verano | Zephyrion | Rey/Reina del Viento | Rey Cassius Zephyrion | [Ver ficha](mundo/estigria/dragma/zefyria/zefyria.md) |
+| 8 | Vesperia | FOO | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/vesperia/vesperia.md) |
+| 9 | Aurelia | FOO | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
+| 10 | Elyria | Costas del Verano | Valerius | Rey/Reina del Tridente | Rey Marcus Valerius | [Ver ficha](mundo/estigria/dragma/elyria/elyria.md) |
+| 11 | Sindria | Paso del Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
+| 12 | Ylvaria | FOO | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
 
 ★ = gobernante reinante
 
-**Reinos de Hierro** (1-4): germánicos, fríos, marciales. Núcleo leal al Raikim, nunca se rebelaron. Conservan el sufijo -gard.
+**Valle de Hierro** (1-4): germánicos, fríos, marciales. Núcleo leal al Raikim, nunca se rebelaron. Conservan el sufijo -gard.
 
-**Reinos del Verano** (5, 7, 10): grecolatinos, cálidos, costeros. Descienden directamente de Suntaris. Lideraron la rebelión espiritual y artística.
+**Costas del Verano** (5, 7, 10): grecolatinos, cálidos, costeros. Descienden directamente de Suntaris. Lideraron la rebelión espiritual y artística.
 
-**Reinos Orientales** (6, 11): eslavos. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
+**Paso del Oriente** (6, 11): eslavos. Val mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que escapaban desde El Modrig a través del Paso del Bramo. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
 
-**Reinos del Valle** (8, 9, 12): céltico-nórdicos. Único puerto imperial en Vesperia, tierras fértiles en Aurelia, bosques antiguos en Ylvaria.
+**FOO** (8, 9, 12): céltico-nórdicos. Nombre pendiente. Único puerto imperial en Vesperia, tierras fértiles en Aurelia, bosques antiguos en Ylvaria.
 
-En la Rebelión del Amanecer, los Reinos de Hierro formaron el **Bloque de Hierro** (leales a Grimar Valgard). Los Reinos del Verano, Orientales y del Valle formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
+En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y FOO formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
 
 Tres reinos del Verano descienden directamente de Suntaris: **Lumyria** (el alma — mística Solaris y Triple Corona), **Zefyria** (el arte — Casa Solaris sin corona y técnica de Lorian), **Elyria** (la sangre — marinos originales de Suntaris).
 

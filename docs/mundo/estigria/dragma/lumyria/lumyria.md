@@ -17,7 +17,7 @@ Lumagard
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard. Fue el centro espiritual del alzamiento.
 
 ## Afiliación geográfica
-**Costas del Verano.** Uno de los tres reinos del Verano.
+**Costas del Verano.** Región grecolatina del suroeste costero. Desciende de Suntaris.
 
 ## Gobierno
 Regido por la Casa Corintyos. La reina reinante es **Octavia Corintyos ★**, Reina del Alba. Su consorte es Helio Ventys, de casa noble de Zefyria.

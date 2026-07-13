@@ -16,6 +16,9 @@ Aurelgard
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
+## Afiliación geográfica
+**FOO** (nombre pendiente). Región céltico-nórdica del centro-sur del Gerin.
+
 
 ## Gobierno
 Regido por la Casa Umbra. El rey reinante es **Valerius Umbra ★**, Rey del Oro. Su consorte es la reina Taria Eskola, originaria de Vesperia.

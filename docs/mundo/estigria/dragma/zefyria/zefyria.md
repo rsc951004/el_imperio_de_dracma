@@ -17,7 +17,7 @@ Zefigard
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**Costas del Verano.** Uno de los tres reinos del Verano.
+**Costas del Verano.** Región grecolatina del suroeste costero. Desciende de Suntaris.
 
 ## Gobierno
 Regido por la Casa Zephyrion. El rey reinante es **Cassius Zephyrion ★**, Rey del Viento. Su consorte es Celestya Drusio, de casa noble de Elyria.

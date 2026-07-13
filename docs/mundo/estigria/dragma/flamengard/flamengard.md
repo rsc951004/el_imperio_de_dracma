@@ -16,6 +16,9 @@ Flamengard
 ## Afiliación en la rebelión
 **Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard.
 
+## Afiliación geográfica
+**Valle de Hierro.** Región germánica del noroeste del Gerin.
+
 
 ## Gobierno
 Regido por la Casa Wolfen. El rey reinante es **Kaspar Wolfen ★**, Rey de la Llama. Su consorte es el rey Marlo Falken, originario de Sturmgard (Casa Falken).
