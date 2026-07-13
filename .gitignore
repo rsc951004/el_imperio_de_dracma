@@ -19,3 +19,6 @@ Thumbs.db
 
 # NOTA: protoversiones/ NO está ignorada.
 # Se versionan como cantera histórica, pero NO son canon (ver protoversiones/AGENTS.md).
+
+# Software externo (ver software/AGENTS.md)
+software/
