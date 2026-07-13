@@ -123,7 +123,11 @@ Si todos los miembros de la Familia fueron postulados y no hay heredero aprobado
 Si también se agota el resto de la Casa Gobernante (todos rechazados o renuncian), se declara **quiebre de dinastía**.
 
 ### VIII. El Stamengerin
-El Stamengerin fue ampliado para incluir a nobles y comunes, aunque sin la presencia de los reyes. Su función quedó limitada a reunirse cuando sea convocado para un cambio de dinastía, tanto imperial como real.
+El Stamengerin fue ampliado para incluir a nobles y comunes, aunque sin la presencia de los reyes. Puede ser convocado para resolver un cambio de dinastía, tanto imperial como real, o para reformar la estructura territorial e institucional del imperio.
+
+En materia estructural, el Stamengerin puede aprobar la incorporación de territorios, la unión o partición de reinos, los cambios en la organización de las coronas imperial y reales, y la forma de gobierno y autonomía de los protectorados. No interviene en la administración cotidiana.
+
+Desde la fundación de Dragma, esta facultad estructural solo ha sido utilizada para incorporar oficialmente los territorios de ultramar como protectorados y aprobar sus respectivos gobiernos y grados de autonomía. Nunca se ha unido ni partido ninguno de los doce reinos, ni se ha alterado el sistema de **un emperador y doce reyes**.
 
 ### VIII bis. Quiebre de dinastía
 
@@ -185,7 +189,7 @@ La renuncia ante la Dex Tábura es **irreversible**. Quien renuncia pierde el es
 
 #### X.4 Integridad territorial
 
-Los 12 Reinos son entidades territoriales fijas e indivisibles bajo el pacto imperial. Queda prohibida la fusión de reinos por cualquier medio: tratado, matrimonio, herencia o conquista.
+Los 12 Reinos son entidades territoriales íntegras bajo el pacto imperial. No pueden ser unidos, partidos ni alterados por tratado, matrimonio, herencia, conquista o decisión unilateral. Solo el Stamengerin posee autoridad para aprobar una modificación de esa naturaleza; hasta la actualidad, jamás ha ejercido esa facultad sobre ninguno de los doce reinos.
 
 #### X.5 Cambios estructurales
 

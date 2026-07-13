@@ -1,7 +1,7 @@
 # Stamengerin
 
 ## Tipo
-Asamblea histórica de las casas nobles del Gerin. Institución imperial de sucesión dinástica.
+Asamblea histórica de las casas del Gerin. Máxima autoridad extraordinaria para la sucesión dinástica y la reestructuración territorial o institucional del imperio.
 
 ## Nombre
 El nombre «Stamengerin» une una antigua raíz germánica asociada con la estirpe y el linaje con el nombre del Gerin. Su sentido tradicional es «los linajes reunidos del Gerin».
@@ -12,7 +12,7 @@ Se reunió originalmente en la planicie bajo el Monte Dracma, sobre las ruinas h
 ## Historia
 
 ### Fundación
-Tras la derrota de Grimar Valgard, los doce territorios —recién liberados del Raikim— cayeron en el caos. Para evitar una segunda Edad de los Mil Reinos, las casas nobles del Gerin —muchas de ellas descendientes lejanas del pueblo Val— se reunieron en las ruinas de Eldengard y firmaron un tratado fundacional.
+Tras la derrota de Grimar Valgard, los doce territorios —recién liberados del Raikim— cayeron en el caos. Para evitar una segunda Edad de los Mil Reinos, las casas nobles del Gerin —muchas de ellas descendientes lejanas del pueblo Val— se reunieron en las ruinas de Eldengard y firmaron un tratado fundacional. En aquella primera reunión solo participaron casas nobles.
 
 La elección del primer emperador no fue sencilla. Los ocho reinos del Amanecer se habían alzado en rebelión; los cuatro del Hierro habían permanecido leales al Raikim. Elegir a una casa del Amanecer habría sido leído como una revancha. Elegir a una del Hierro habría sido una traición a la rebelión.
 
@@ -21,12 +21,21 @@ La elección del primer emperador no fue sencilla. Los ocho reinos del Amanecer 
 Las casas con sonoridad germánica —como la extinta Casa Valgard o la Casa Mormund— son aquellas cuyo linaje Val es más marcado, aunque ni siquiera ellas se parecen ya a los antiguos nómadas de Estigria.
 
 ### Reforma de la Concordia
-Bajo la Concordia de Vilem Mormund, el Stamengerin fue ampliado para incluir representantes de casas nobles y comunes, aunque se excluyó a los reyes. Su función quedó limitada a un solo propósito: reunirse cuando sea convocado para un cambio de dinastía, tanto imperial como real.
+Bajo la Concordia de Vilem Mormund, el Stamengerin fue ampliado para incluir representantes de casas nobles y comunes, aunque se excluyó a los reyes. Desde entonces puede ser convocado para resolver un quiebre de dinastía o para reformar la estructura territorial e institucional del imperio.
 
 ## Funciones actuales
-- Única función: ratificar cambios de dinastía imperial o real.
+- Resolver cambios de dinastía imperial o real.
+- Aprobar la incorporación, unión, partición o cambio de condición de territorios.
+- Aprobar reformas a la estructura de gobierno del imperio, incluida la organización de las coronas imperial y reales.
+- Establecer la forma de gobierno y el grado de autonomía de los nuevos protectorados.
 - No interviene en la administración cotidiana del imperio.
 - No participan los reyes en sus deliberaciones.
+
+## Límites históricos de su intervención
+
+El Stamengerin posee autoridad para modificar la geografía política y la estructura de gobierno de Dragma. Sin embargo, desde la reunión fundacional hasta la actualidad jamás ha unido ni partido ninguno de los doce reinos, ni ha alterado el sistema de **un emperador y doce reyes**.
+
+Después de la fundación, su facultad de reestructuración solo ha sido ejercida para incorporar oficialmente los territorios de ultramar como protectorados del imperio, y para aprobar la forma de gobierno y el grado de autonomía de cada uno. Esta moderación histórica es una costumbre, no una limitación de sus atribuciones.
 
 ## Procedimiento de quiebre dinástico
 
