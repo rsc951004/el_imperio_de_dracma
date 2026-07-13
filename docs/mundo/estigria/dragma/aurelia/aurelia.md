@@ -21,7 +21,7 @@ Aurelgard
 
 
 ## Gobierno
-Regido por la Casa Umbra. El rey reinante es **Valerius Umbra ★**, Rey del Oro. Su consorte es la reina Taria Eskola, originaria de Vesperia.
+Regido por la Casa Umbra. El rey reinante es **Valerius Umbra ★**, Rey del Oro. Su consorte es la reina Taria Eskola, originaria de Merenia.
 
 ## Historia
 Aurelia fue fundada por el Raikim Valgard como **Aurelgard**. Es heredera de la tradición de Erebia en el continente: cuando los refugiados erebianos llegaron a Estigria, buena parte de su legado cultural arraigó en estas tierras. Se unió a la rebelión del Bloque del Amanecer y abandonó el sufijo -gard.

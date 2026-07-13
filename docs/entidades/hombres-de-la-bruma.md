@@ -12,7 +12,7 @@ Forjados por la guerra y la supervivencia. Más duros, más callados y más desc
 ## Historia
 Los Hombres de la Bruma fundaron Malakia de la Bruma, uno de los pocos reinos estables de la Edad de los Mil Reinos. Su dinastía reinante fue la Casa Ormur, cuyo último rey legítimo fue Alastor Ormur, asesinado por Rey Podrido.
 
-Tras la caída de Malakia y la partición del reino, muchos Hombres de la Bruma cruzaron al oeste del Foso. Su legado pervive en Sindria —heredera de Malakia Occidental— y en las gentes que aún habitan las tierras fronterizas junto al abismo.
+Tras la caída de Malakia y la partición del reino, muchos Hombres de la Bruma cruzaron al oeste del Foso. Su legado pervive en Sindria —heredera de Malakia Occidental— y en las gentes que aún habitan las tierras fronterizas junto al corte continental.
 
 ## Apariciones o referencias
 - `docs/mundo/estigria/malakia.md`

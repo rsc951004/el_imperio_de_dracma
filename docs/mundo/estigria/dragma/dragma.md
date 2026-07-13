@@ -42,9 +42,9 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | 5 | Lumaria | Amanecer | Maimon | Rey/Reina del Alba |
 | 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña |
 | 7 | Zefiria | Amanecer | Aurelian | Rey/Reina del Viento |
-| 8 | Vesperia | Amanecer | Tuomi | Rey/Reina del Mar |
+| 8 | Merenia | Amanecer | Tuomi | Rey/Reina del Mar |
 | 9 | Aurelia | Amanecer | Umbra | Rey/Reina del Oro |
-| 10 | Elarya | Amanecer | Stamatis | Rey/Reina del Tridente |
+| 10 | Vesperya | Amanecer | Stamatis | Rey/Reina del Tridente |
 | 11 | Sindria | Amanecer | Goros | Rey/Reina del Foso |
 | 12 | Ylvaria | Amanecer | Gorio | Rey/Reina del Bosque |
 

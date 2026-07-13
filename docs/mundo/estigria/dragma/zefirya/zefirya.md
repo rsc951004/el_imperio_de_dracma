@@ -20,7 +20,7 @@ Zefigard
 **Costas del Verano.** Región grecolatina del suroeste costero. Desciende de Suntaris.
 
 ## Gobierno
-Regido por la Casa Zephyrion. El rey reinante es **Cassius Zephyrion ★**, Rey del Viento. Su consorte es Celestya Drusio, de casa noble de Elarya.
+Regido por la Casa Zephyrion. El rey reinante es **Cassius Zephyrion ★**, Rey del Viento. Su consorte es Celestya Drusio, de casa noble de Vesperya.
 
 ## Historia
 Zefirya fue fundada por el Raikim Valgard como **Zefigard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Alberga a la Casa Solaris como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Lorian Solaris: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.

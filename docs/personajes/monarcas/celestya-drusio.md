@@ -1,10 +1,10 @@
 # Celestya Drusio
 
 ## Identidad
-Reina consorte de **Zefirya** (Costas del Verano). Originaria de **Elarya** (Casa Drusio).
+Reina consorte de **Zefirya** (Costas del Verano). Originaria de **Vesperya** (Casa Drusio).
 
 - **Reino actual:** Zefirya (reina consorte).
-- **Reino de origen:** Elarya (costa del Verano).
+- **Reino de origen:** Vesperya (costa del Verano).
 - **Cultura:** Grecolatina.
 
 ## Relaciones

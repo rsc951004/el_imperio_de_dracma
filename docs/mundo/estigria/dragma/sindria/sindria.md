@@ -19,7 +19,7 @@ El título es una declaración política: el Foso de la Calamidad se encuentra e
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard, abandonó el sufijo -gard y adoptó el nombre de Sindria.
 
 ## Afiliación geográfica
-**Paso del Oriente.** Región eslava del noreste del Gerin. Forjada en la lucha contra las bestias que escapaban desde El Modrig a través del Paso del Bramo.
+**Paso del Oriente.** Región eslava del noreste del Gerin. Forjada en la lucha contra las bestias que, desde El Modrig, serpenteaban por los fiordos fragmentados hacia El Bramo y amenazaban con alcanzar el Gerin a través del Foso de la Calamidad.
 
 
 ## Gobierno

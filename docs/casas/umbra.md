@@ -23,4 +23,4 @@ Internamente, la rama de Valerius Umbra pertenece a la Casa Tellus, un linaje no
 
 - **Valerius Umbra** ★ — Rey del Oro. Gobernante reinante (Casa Tellus).
 - **Titia Corvus** — Hermana de Valerius. Reina consorte de Ylvaria (Casa Corvus).
-- **Taria Eskola** — Reina consorte. Originaria de Vesperia (Casa Eskola).
+- **Taria Eskola** — Reina consorte. Originaria de Merenia (Casa Eskola).

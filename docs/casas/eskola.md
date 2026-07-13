@@ -6,14 +6,14 @@
 |-------|-------|
 | **Nombre** | Eskola |
 | **Tipo** | Casa noble menor |
-| **Reino** | Vesperia |
+| **Reino** | Merenia |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
 | **Fundador** | Pendiente |
 
 ## Historia y descripción
 
-Casa noble de Vesperia. Tradición finesa. Linaje dentro de la Casa Tuomi. Casa de origen de la reina consorte de Aurelia.
+Casa noble de Merenia. Tradición finesa. Linaje dentro de la Casa Tuomi. Casa de origen de la reina consorte de Aurelia.
 
 ## Miembros relevantes
 

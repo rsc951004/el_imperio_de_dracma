@@ -19,7 +19,7 @@ Las fechas marcadas con `~` son tentativas y serán validadas cuando el lore de 
 | ? | Disidentes del culto al Dios Negro fundan **Kalos**. |
 | ? | Un joven Portador toca al Mobius de Estigria. Nace el **Rey Podrido**. |
 | ? | El Rey Podrido asesina a **Alastor Ormur**. Caída de Malakia. La sombra se expande sobre El Gerin. |
-| ? | Guerra de resistencia. **Lux Terin** y **Rudgar Valgard** lideran la defensa. Poderosos Portadores abren el **Foso de la Calamidad**. |
+| ? | Guerra de resistencia. **Lux Terin** y **Rudgar Valgard** lideran la defensa. Poderosos Portadores abren el **Foso de la Calamidad**: un corte continental que parte Estigria y desconecta El Bramo del resto del mundo civilizado. |
 | ? | Fundación de **Esteria**. Ciudad fortaleza de Verilium. Se alza el Gran Faro. Veinte años después, la rama superviviente de la Casa Ormur funda **Malakia Occidental** como estado independiente. Cincuenta años después de Esteria, Rudgar Valgard funda el **Raikim Valgard**, que organiza los territorios bajo su dominio. La Casa Ormur de Malakia Occidental se une voluntariamente a cambio de la promesa —nunca cumplida— de recibir Esteria. El Raikim renombra el territorio como **Sindgard**. |
 | ? | Rudgar Valgard asesina a **Lux Terin** a traición. Ambos son ancianos. |
 | ? | Muerte de Rudgar. Su hijo **Drakar Valgard** hereda como 2º Raik. |

@@ -7,4 +7,4 @@ Rey gobernante de **Zefirya** (Costas del Verano). Casa Zephyrion.
 - **Cultura:** Grecolatina.
 
 ## Relaciones
-- **Celestya Drusio:** esposa. Reina consorte de Zefirya. Originaria de Elarya (Casa Drusio).
+- **Celestya Drusio:** esposa. Reina consorte de Zefirya. Originaria de Vesperya (Casa Drusio).

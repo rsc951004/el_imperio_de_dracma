@@ -69,10 +69,10 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | Fl | Flamengard | HIERRO | Germánica |
 | Lm | Lumarya | VERANO | Grecolatina |
 | Zf | Zefirya | VERANO | Grecolatina |
-| El | Elarya | VERANO | Grecolatina |
+| El | Vesperya | VERANO | Grecolatina |
 | Sd | Sindria | ORIENTE | Eslava |
 | Vk | Veleskaria | ORIENTE | Eslava |
-| Vs | Vesperia | FOO | Céltico-nórdica |
+| Vs | Merenia | FOO | Céltico-nórdica |
 | Au | Aurelia | FOO | Céltico-nórdica |
 | Yl | Ylvaria | FOO | Céltico-nórdica |
 
@@ -187,7 +187,7 @@ Bloque: filas D1-D3, columnas 1a-1c.
 | D3-1b | S | Zefythea | Bahía sur |
 | D3-1c | SE | Zefycia | Islotes del sureste |
 
-### Elarya [El] — Costas del Verano
+### Vesperya [El] — Costas del Verano
 
 Bloque: filas D1-D3, columnas 2a-2c.
 
@@ -197,7 +197,7 @@ Bloque: filas D1-D3, columnas 2a-2c.
 | D1-2b | N | Elynea | Cabo norte |
 | D1-2c | NE | Elystia | Astillero del noreste |
 | D2-2a | O | Elyoros | Valle occidental |
-| D2-2b | * | Elarya | Capital (ciudad del Tridente) |
+| D2-2b | * | Vesperya | Capital (ciudad del Tridente) |
 | D2-2c | E | Elyorion | Costa oriental |
 | D3-2a | SO | Elyphos | Faro del suroeste |
 | D3-2b | S | Elythea | Puerto sur |
@@ -226,7 +226,7 @@ Bloque alargado: fila A3, columnas 4a-4c (3 celdas, 1×3). Franja estrecha junto
 | A3-4b | * | Sindria | Capital (ciudad del Foso) |
 | A3-4c | E | Sindrivoda | Río oriental (borde del Foso) |
 
-### Vesperia [Vs] — FOO
+### Merenia [Vs] — FOO
 
 Bloque: filas C1-C3, columnas 2a-2c.
 
@@ -236,10 +236,10 @@ Bloque: filas C1-C3, columnas 2a-2c.
 | C1-2b | N | Vespervik | Bahía norte |
 | C1-2c | NE | Vesperdal | Valle del noreste |
 | C2-2a | O | Vesperborg | Castillo occidental |
-| C2-2b | * | Vesperia | Capital (ciudad del Mar) |
+| C2-2b | * | Merenia | Capital (ciudad del Mar) |
 | C2-2c | E | Vesperlund | Arboleda oriental |
 | C3-2a | SO | Vesperfjord | Fiordo del suroeste |
-| C3-2b | S | Vespergard | Fuerte sur |
+| C3-2b | S | Merengard | Fuerte sur |
 | C3-2c | SE | Vesperholm | Islote del sureste |
 
 ### Aurelia [Au] — FOO
@@ -310,7 +310,7 @@ Bloque: filas A1-A3, columnas 5a-5b (parcial). Al otro lado del Foso.
 | A1-4c | Es★ | Esteria | Ciudad fortaleza junto al Foso |
 | D3-3c | Ka★ | Kalos | Ciudadela circular sobre acantilado al sur |
 
-> Esteria y Kalos son Ciudades Libres de la Tiranía y protectorados del Imperio. Ocupan una celda cada una, no un bloque 3×3. Esteria custodia el Foso al norte (linde con Veleskaria); Kalos vigila el Paso del Bramo al sureste (linde con Ylvaria).
+> Esteria y Kalos son Ciudades Libres de la Tiranía y protectorados del Imperio. Ocupan una celda cada una, no un bloque 3×3. Esteria custodia el Foso al norte (linde con Veleskaria); Kalos vigila el Paso del Bramo al sureste (linde con Ylvaria), punto más angosto del Foso donde las bestias podrían intentar el cruce hacia El Gerin.
 
 ### Eldengaria [Eld] — Capital imperial
 

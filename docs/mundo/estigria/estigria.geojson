@@ -93,7 +93,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Vesperia", "code": "Vs", "zone": "FOO", "culture": "Céltico-nórdica", "capital": [4.5, 7.5] },
+      "properties": { "name": "Merenia", "code": "Vs", "zone": "FOO", "culture": "Céltico-nórdica", "capital": [4.5, 7.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[3, 6], [6, 6], [6, 9], [3, 9], [3, 6]]] }
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Elarya", "code": "El", "zone": "Costas del Verano", "culture": "Grecolatina", "capital": [4.5, 10.5] },
+      "properties": { "name": "Vesperya", "code": "El", "zone": "Costas del Verano", "culture": "Grecolatina", "capital": [4.5, 10.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[3, 9], [6, 9], [6, 12], [3, 12], [3, 9]]] }
     },
     {

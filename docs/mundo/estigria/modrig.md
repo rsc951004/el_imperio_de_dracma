@@ -4,12 +4,12 @@
 Región geográfica. Mitad oriental de Estigria. Conocida también como **la Costa Negra**.
 
 ## Ubicación
-Todo el territorio al este de la cordillera Estomur. Linda con el mar oriental. Alberga los restos de Malakia de la Sombra y El Bramo.
+Al sur de El Bramo, conectado a este a través de un laberinto de **fiordos fragmentados**. El Modrig ocupa la mitad suroriental de Estigria. Linda con el mar oriental. Alberga los restos de Malakia de la Bruma y se comunica con El Bramo mediante canales, entradas de mar e islotes que fragmentan la costa entre ambas regiones.
 
 ## Descripción
-Tierra maldita. El Modrig fue siempre una región hostil, forjadora de los Hombres de la Bruma en batalla constante contra las grandes bestias del este. Cuando Rey Podrido tomó Malakia y expandió la sombra, El Modrig entero cayó bajo su dominio.
+Tierra maldita. El Modrig fue siempre una región hostil, forjadora de los Hombres de la Bruma en batalla constante contra las grandes bestias del este. Cuando Rey Podrido tomó Malakia y expandió la sombra, El Modrig entero cayó bajo su dominio y quedó separado de El Bramo por el corte del Foso de la Calamidad.
 
-Hoy, tras siglos de contención, solo el extremo oriental —El Bramo— permanece bajo el control de la sombra y sus criaturas. El resto de El Modrig es una cicatriz: tierras yermas, ruinas de reinos antiguos, huesos de lo que fue la Malakia de la Bruma antes de corromperse.
+Hoy, tras siglos de contención, El Bramo —al norte, casi aislado— permanece bajo el control de la sombra y sus criaturas. El Modrig es una cicatriz: tierras yermas, ruinas de reinos antiguos, huesos de lo que fue la Malakia de la Bruma antes de corromperse. Al norte, los fiordos fragmentados lo conectan con El Bramo: un laberinto de canales e islotes por donde las criaturas del este serpentean para alcanzar el Reino Podrido.
 
 ## Etimología
 

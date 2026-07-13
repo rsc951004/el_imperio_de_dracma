@@ -52,13 +52,13 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Ileana Enescu | Reina gobernante | Veleskaria (Paso del Oriente) | [Ver ficha](personajes/monarcas/ileana-enescu.md) |
 | Yelena Gorski | Reina consorte | Veleskaria ← Sindria (Paso del Oriente) | [Ver ficha](personajes/monarcas/yelena-gorski.md) |
 | Cassius Zephyrion | Rey gobernante | Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/cassius-zephyrion.md) |
-| Celestya Drusio | Reina consorte | Zefirya ← Elarya (Costas del Verano) | [Ver ficha](personajes/monarcas/celestya-drusio.md) |
-| Eero Tuomi | Rey gobernante | Vesperia (FOO) | [Ver ficha](personajes/monarcas/eero-tuomi.md) |
-| Tavros Andreidis | Rey consorte | Vesperia ← Elarya (FOO) | [Ver ficha](personajes/monarcas/stavros-andreidis.md) |
+| Celestya Drusio | Reina consorte | Zefirya ← Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/celestya-drusio.md) |
+| Eero Tuomi | Rey gobernante | Merenia (FOO) | [Ver ficha](personajes/monarcas/eero-tuomi.md) |
+| Tavros Andreidis | Rey consorte | Merenia ← Vesperya (FOO) | [Ver ficha](personajes/monarcas/stavros-andreidis.md) |
 | Valerius Umbra | Rey gobernante | Aurelia (FOO) | [Ver ficha](personajes/monarcas/valerius-umbra.md) |
-| Taria Eskola | Reina consorte | Aurelia ← Vesperia (FOO) | [Ver ficha](personajes/monarcas/taria-eskola.md) |
-| Marcus Valerius | Rey gobernante | Elarya (Costas del Verano) | [Ver ficha](personajes/monarcas/marcus-valerius.md) |
-| Nerysa Undavos | Reina consorte | Elarya ← Alesya (Costas del Verano) | [Ver ficha](personajes/monarcas/nerysa-undavos.md) |
+| Taria Eskola | Reina consorte | Aurelia ← Merenia (FOO) | [Ver ficha](personajes/monarcas/taria-eskola.md) |
+| Marcus Valerius | Rey gobernante | Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/marcus-valerius.md) |
+| Nerysa Undavos | Reina consorte | Vesperya ← Alesya (Costas del Verano) | [Ver ficha](personajes/monarcas/nerysa-undavos.md) |
 | Uriel Goros | Rey gobernante | Sindria (Paso del Oriente) | [Ver ficha](personajes/monarcas/uriel-goros.md) |
 | Ecaterina Cojocaru | Reina consorte | Sindria ← Veleskaria (Paso del Oriente) | [Ver ficha](personajes/monarcas/ecaterina-cojocaru.md) |
 | Dreide Gorio | Reina gobernante | Ylvaria (FOO) | [Ver ficha](personajes/monarcas/dreide-gorio.md) |

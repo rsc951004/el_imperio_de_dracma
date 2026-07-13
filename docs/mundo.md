@@ -28,12 +28,12 @@ mundo/
         │   └── veleskaria.md
         ├── zefirya/
         │   └── zefirya.md
-        ├── vesperia/
-        │   └── vesperia.md
+        ├── merenia/
+        │   └── merenia.md
         ├── aurelia/
         │   └── aurelia.md
-        ├── elarya/
-        │   └── elarya.md
+        ├── vesperya/
+        │   └── vesperya.md
         ├── sindria/
         │   └── sindria.md
         ├── ylvaria/
@@ -59,8 +59,8 @@ mundo/
 |--------|------|-------------------|-------|
 | Estomur | Cordillera | Columna vertebral de Estigria. Divide el continente en El Gerin (oeste) y El Modrig (este). | [Ver ficha](mundo/estigria/estomur.md) |
 | El Gerin | Región | Mitad occidental de Estigria. Alberga el Imperio de Dragma y la civilización conocida. | [Ver ficha](mundo/estigria/gerin.md) |
-| El Modrig | Región | Mitad oriental. La Costa Negra. Tierra maldita donde se alza El Bramo. | [Ver ficha](mundo/estigria/modrig.md) |
-| El Bramo | Región | Último reducto de Malakia de la Sombra al este del Foso. Residencia de Rey Podrido. | [Ver ficha](mundo/estigria/bramo.md) |
+| El Modrig | Región | Mitad suroriental. La Costa Negra. Tierra maldita. Conectada a El Bramo por fiordos fragmentados. | [Ver ficha](mundo/estigria/modrig.md) |
+| El Bramo | Región | Último reducto de Malakia de la Sombra al este del Foso. Masa de tierra casi aislada, unida al continente por el Istmo del Bramo. Residencia de Rey Podrido. | [Ver ficha](mundo/estigria/bramo.md) |
 
 ### Historia
 
@@ -95,9 +95,9 @@ mundo/
 | 5 | Lumarya | Costas del Verano | Corintyos | Rey/Reina del Alba | Reina Octavia Corintyos | [Ver ficha](mundo/estigria/dragma/lumarya/lumarya.md) |
 | 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
 | 7 | Zefirya | Costas del Verano | Zephyrion | Rey/Reina del Viento | Rey Cassius Zephyrion | [Ver ficha](mundo/estigria/dragma/zefirya/zefirya.md) |
-| 8 | Vesperia | FOO | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/vesperia/vesperia.md) |
+| 8 | Merenia | FOO | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/merenia/merenia.md) |
 | 9 | Aurelia | FOO | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
-| 10 | Elarya | Costas del Verano | Valerius | Rey/Reina del Tridente | Rey Marcus Valerius | [Ver ficha](mundo/estigria/dragma/elarya/elarya.md) |
+| 10 | Vesperya | Costas del Verano | Valerius | Rey/Reina del Tridente | Rey Marcus Valerius | [Ver ficha](mundo/estigria/dragma/vesperya/vesperya.md) |
 | 11 | Sindria | Paso del Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
 | 12 | Ylvaria | FOO | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
 
@@ -107,13 +107,13 @@ mundo/
 
 **Costas del Verano** (5, 7, 10): grecolatinos, cálidos, costeros. Descienden directamente de Suntaris. Lideraron la rebelión espiritual y artística.
 
-**Paso del Oriente** (6, 11): eslavos. Val mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que escapaban desde El Modrig a través del Paso del Bramo. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
+**Paso del Oriente** (6, 11): eslavos. Val mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que alcanzaban El Bramo desde El Modrig a través de los fiordos fragmentados y amenazaban cruzar el Foso de la Calamidad hacia El Gerin. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
 
-**FOO** (8, 9, 12): céltico-nórdicos. Nombre pendiente. Único puerto imperial en Vesperia, tierras fértiles en Aurelia, bosques antiguos en Ylvaria.
+**FOO** (8, 9, 12): céltico-nórdicos. Nombre pendiente. Único puerto imperial en Merenia, tierras fértiles en Aurelia, bosques antiguos en Ylvaria.
 
 En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y FOO formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
 
-Tres reinos del Verano descienden directamente de Suntaris: **Lumarya** (el alma — mística Solaris y Triple Corona), **Zefirya** (el arte — Casa Solaris sin corona y técnica de Lorian), **Elarya** (la sangre — marinos originales de Suntaris).
+Tres reinos del Verano descienden directamente de Suntaris: **Lumarya** (el alma — mística Solaris y Triple Corona), **Zefirya** (el arte — Casa Solaris sin corona y técnica de Lorian), **Vesperya** (la sangre — marinos originales de Suntaris).
 
 #### Capital imperial
 

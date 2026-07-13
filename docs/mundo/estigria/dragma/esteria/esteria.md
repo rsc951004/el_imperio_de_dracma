@@ -4,7 +4,7 @@
 Protectorado del Imperio de Dragma. Ciudad fortaleza. Conocida comúnmente como **Ciudad Esteria**.
 
 ## Ubicación
-Norte del continente, en el borde mismo del **Foso de la Calamidad**, sobre el límite oriental de El Gerin. Al norte de la ciudad se alza un gigantesco muro de Verilium coronado por una gran torre: el **Gran Faro de Esteria**, que se yergue justo al filo del abismo.
+Norte del continente, en el borde mismo del **Foso de la Calamidad**, sobre el límite oriental de El Gerin. Al norte de la ciudad se alza un gigantesco muro de Verilium coronado por una gran torre: el **Gran Faro de Esteria**, que se yergue justo a la orilla del corte continental.
 
 ## Historia
 
@@ -13,7 +13,7 @@ Esteria no fue diseñada por el Raikim. Su fundación es anterior: ocurrió dura
 
 Tras la caída de Malakia de la Bruma a manos de Rey Podrido, la sombra se expandió implacablemente sobre El Gerin. Lux Terin y Rudgar Valgard lideraron la resistencia: organizaron a los reinos dispersos del oeste, unieron a herreros, guerreros y Portadores bajo una sola causa.
 
-Grandes y poderosos Portadores abrieron el **Foso de la Calamidad**: una grieta colosal que partió Malakia en dos y cortó el paso a las criaturas y espectros del este. Sobre el borde occidental de esa grieta se fundó Esteria.
+Grandes y poderosos Portadores abrieron el **Foso de la Calamidad**: un corte continental que partió el continente en dos y desconectó El Bramo del resto de Estigria. Las aguas llenaron el desgarro, creando un estrecho que cortó el paso a las criaturas y espectros del este. Sobre el borde occidental de ese corte se fundó Esteria.
 
 ### Construcción
 Esteria fue construida íntegramente con **Verilium**, el mineral extraído de las montañas de Estomur. Herreros y artesanos de todo El Gerin viajaron al este para levantar la muralla. Familias enteras se asentaron junto a la fortaleza, formando una ciudad cuya única razón de ser era la defensa del mundo civilizado contra la oscuridad.

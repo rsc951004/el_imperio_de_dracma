@@ -1,8 +1,8 @@
 # Tavros Andreidis
 
 ## Identidad
-Rey consorte de **Vesperia** (Reino del Amanecer). Originario de **Elarya** (Casa Andreadis).
+Rey consorte de **Merenia** (Reino del Amanecer). Originario de **Vesperya** (Casa Andreadis).
 
 ## Relaciones
-- **Alexandra Stamatis:** hermana. Reina gobernante de Elarya.
-- **Eero Tuomi:** esposo. Rey gobernante de Vesperia.
+- **Alexandra Stamatis:** hermana. Reina gobernante de Vesperya.
+- **Eero Tuomi:** esposo. Rey gobernante de Merenia.
