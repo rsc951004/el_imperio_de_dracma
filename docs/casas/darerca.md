@@ -1,0 +1,20 @@
+# Casa Darerca
+
+## Datos generales
+
+| Campo | Valor |
+|-------|-------|
+| **Nombre** | Darerca |
+| **Tipo** | Casa noble menor |
+| **Reino** | Ylvaria |
+| **Lema** | Pendiente |
+| **Escudo** | Pendiente |
+| **Fundador** | Pendiente |
+
+## Historia y descripción
+
+Casa noble de Ylvaria. Tradición gaélica-vasca. Linaje dentro de la Casa Gorio. Casa de origen del rey consorte de Lumaria.
+
+## Miembros relevantes
+
+- **Gaizka Darerca**. Rey consorte de Lumaria. Hermano de Dreide Gorio.
