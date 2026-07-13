@@ -1,8 +1,8 @@
 # Jorgen Meister
 
 ## Identidad
-Rey gobernante de **Stalgard** (Bloque del Hierro). Casa Meister.
+Rey gobernante de **Waffengard** (Bloque del Hierro). Casa Meister.
 
 ## Relaciones
-- **Monika Jäger:** hermana. Reina consorte de Sturmgard.
-- **Marloes Kuyper:** esposa. Reina consorte de Stalgard. Originaria de Skarngard (Casa Kuyper).
+- **Sabina Jaeger:** hermana. Reina consorte de Sturmgard.
+- **Alessa Meister:** esposa. Reina consorte de Waffengard. Originaria de Skarngard (Casa Brunnen).

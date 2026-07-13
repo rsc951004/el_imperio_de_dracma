@@ -39,14 +39,14 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 | Nombre | Rol | Reino (bloque) | Ficha |
 |--------|-----|----------------|-------|
-| Jorgen Meister | Rey gobernante | Stalgard (Hierro) | [Ver ficha](personajes/monarcas/jorgen-meister.md) |
-| Marloes Kuyper | Reina consorte | Stalgard ← Skarngard (Hierro) | [Ver ficha](personajes/monarcas/marloes-kuyper.md) |
-| Kies Molen | Rey gobernante | Skarngard (Hierro) | [Ver ficha](personajes/monarcas/kies-molen.md) |
-| Goikar Sajakan | Reina consorte | Skarngard ← Brenngard (Hierro) | [Ver ficha](personajes/monarcas/goikar-sajakan.md) |
-| Siran Grigoryan | Reina gobernante | Brenngard (Hierro) | [Ver ficha](personajes/monarcas/siran-grigoryan.md) |
-| Ania Jokull | Reina consorte | Brenngard ← Sturmgard (Hierro) | [Ver ficha](personajes/monarcas/ania-jokull.md) |
-| Jan Askia | Rey gobernante | Sturmgard (Hierro) | [Ver ficha](personajes/monarcas/jan-askia.md) |
-| Monika Jäger | Reina consorte | Sturmgard ← Stalgard (Hierro) | [Ver ficha](personajes/monarcas/monika-jager.md) |
+| Jorgen Meister | Rey gobernante | Waffengard (Hierro) | [Ver ficha](personajes/monarcas/jorgen-meister.md) |
+| Alessa Meister | Reina consorte | Waffengard ← Skarngard (Hierro) | [Ver ficha](personajes/monarcas/alessa-meister.md) |
+| Yuter Hammer | Rey gobernante | Skarngard (Hierro) | [Ver ficha](personajes/monarcas/yuter-hammer.md) |
+| Freda Brandt | Reina consorte | Skarngard ← Flamengard (Hierro) | [Ver ficha](personajes/monarcas/freda-brandt.md) |
+| Kaspar Wolfen | Rey gobernante | Flamengard (Hierro) | [Ver ficha](personajes/monarcas/kaspar-wolfen.md) |
+| Marlo Falken | Rey consorte | Flamengard ← Sturmgard (Hierro) | [Ver ficha](personajes/monarcas/marlo-falken.md) |
+| Jorin Reisner | Rey gobernante | Sturmgard (Hierro) | [Ver ficha](personajes/monarcas/jorin-reisner.md) |
+| Sabina Jaeger | Reina consorte | Sturmgard ← Waffengard (Hierro) | [Ver ficha](personajes/monarcas/sabina-jaeger.md) |
 | Ezria Maimon | Reina gobernante | Lumaria (Amanecer) | [Ver ficha](personajes/monarcas/ezria-maimon.md) |
 | Gaizka Darerca | Rey consorte | Lumaria ← Ylvaria (Amanecer) | [Ver ficha](personajes/monarcas/gaizka-darerca.md) |
 | Ileana Enescu | Reina gobernante | Veleskaria (Amanecer) | [Ver ficha](personajes/monarcas/ileana-enescu.md) |

@@ -88,10 +88,10 @@ mundo/
 
 | # | Reino | Bloque | Casa | Título | Gobernante ★ | Ficha |
 |---|-------|--------|------|-------|-------------|-------|
-| 1 | Stalgard | Hierro | Meister | Rey/Reina del Acero | Rey Jorgen Meister | [Ver ficha](mundo/estigria/dragma/stalgard/stalgard.md) |
-| 2 | Skarngard | Hierro | Molenaar | Rey/Reina del Martillo | Rey Kies Molen | [Ver ficha](mundo/estigria/dragma/skarngard/skarngard.md) |
-| 3 | Brenngard | Hierro | Grigoryan | Rey/Reina de la Llama | Reina Siran Grigoryan | [Ver ficha](mundo/estigria/dragma/brenngard/brenngard.md) |
-| 4 | Sturmgard | Hierro | Askia | Rey/Reina de la Tormenta | Rey Jan Askia | [Ver ficha](mundo/estigria/dragma/sturmgard/sturmgard.md) |
+| 1 | Waffengard | Hierro | Meister | Rey/Reina del Acero | Rey Jorgen Meister | [Ver ficha](mundo/estigria/dragma/waffengard/waffengard.md) |
+| 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo | Rey Yuter Hammer | [Ver ficha](mundo/estigria/dragma/skarngard/skarngard.md) |
+| 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama | Rey Kaspar Wolfen | [Ver ficha](mundo/estigria/dragma/flamengard/flamengard.md) |
+| 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta | Rey Jorin Reisner | [Ver ficha](mundo/estigria/dragma/sturmgard/sturmgard.md) |
 | 5 | Lumaria | Amanecer | Maimon | Rey/Reina del Alba | Reina Ezria Maimon | [Ver ficha](mundo/estigria/dragma/lumaria/lumaria.md) |
 | 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
 | 7 | Zefiria | Amanecer | Aurelian | Rey/Reina del Viento | Reina Celestia Aurelian | [Ver ficha](mundo/estigria/dragma/zefiria/zefiria.md) |

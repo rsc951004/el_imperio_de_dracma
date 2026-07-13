@@ -8,7 +8,7 @@ Skarngard
 
 ## Casa real
 - Fundadora: Pendiente
-- Actual: **Molenaar**
+- Actual: **Hammer**
 
 ## Título del gobernante
 **Rey del Martillo** o **Reina del Martillo**. Forma abreviada entre monarcas: Rey Martillo o Reina Martillo. El título evoca las montañas de Verilim y la cuna de la Casa Valgard, donde el martillo forjó el primer reino de Estigria.
@@ -18,7 +18,7 @@ Skarngard
 
 
 ## Gobierno
-Regido por la Casa Molenaar. El rey reinante es **Kies Molen ★**, Rey del Martillo. Su consorte es la reina Goikar Sajakan, originaria de Brenngard.
+Regido por la Casa Hammer. El rey reinante es **Yuter Hammer ★**, Rey del Martillo. Su consorte es la reina Freda Brandt, originaria de Flamengard (Casa Brandt).
 
 ## Historia
 Skarngard fue uno de los cuatro reinos del Bloque del Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Es la tierra ancestral de los Valgard: desde sus montañas surgió la dinastía que gobernaría Estigria durante diecisiete generaciones.
@@ -33,6 +33,6 @@ Minería de montaña y forja tradicional. Ricas vetas de Verilium en su territor
 - `docs/12-reinos.md`
 
 ## Guía de nombres
-**Neerlandesa.** Los nombres de personas y lugares de Skarngard siguen la tradición neerlandesa.
+**Germánica.** Los nombres de personas y lugares de Skarngard siguen la tradición germánica.
 
 Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).

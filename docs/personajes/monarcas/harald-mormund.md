@@ -6,7 +6,7 @@ Primer Emperador de Dragma. Electo por el Gran Syndrion en las ruinas de Eldenga
 ## Origen
 Harald Mormund era un guerrero de las tormentas del norte. Creció en los fiordos helados de Sturmgard, donde la tierra da poco y el frío forja hombres de genio corto y voluntad de acero. La Casa Mormund era una casa noble sturmgardiana del Bloque del Hierro. Sin embargo, durante la rebelión contra el Raikim, los Mormund **rompieron con su reino** y se unieron al Bloque del Amanecer. Harald dirigió el ataque final sobre la fortaleza de Eldengard.
 
-Su espada colosal fue forjada con acero de Stalgard, el yunque del imperio, y empuñada contra la tiranía que su reino había respaldado.
+Su espada colosal fue forjada con acero de Waffengard, el yunque del imperio, y empuñada contra la tiranía que su reino había respaldado.
 
 ## Elección como emperador
 Harald Mormund fue el candidato de consenso que evitó que el imperio naciera como una revancha del Amanecer contra el Hierro. Tres factores lo hicieron inevitable:

@@ -1,10 +1,10 @@
-# Stalgard
+# Waffengard
 
 ## Tipo
 Reino del Imperio de Dragma.
 
 ## Nombre valgard
-Stalgard
+Waffengard
 
 ## Casa real
 - Fundadora: Pendiente
@@ -18,10 +18,10 @@ Stalgard
 
 
 ## Gobierno
-Regido por la Casa Meister. El rey reinante es **Jorgen Meister ★**, Rey del Acero. Su consorte es la reina Marloes Kuyper, originaria de Skarngard.
+Regido por la Casa Meister. El rey reinante es **Jorgen Meister ★**, Rey del Acero. Su consorte es la reina Alessa Meister, originaria de Skarngard (Casa Brunnen).
 
 ## Historia
-Stalgard fue uno de los cuatro reinos del Bloque del Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada a la forja, la disciplina militar y el acero.
+Waffengard fue uno de los cuatro reinos del Bloque del Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada a la forja, la disciplina militar y el acero.
 
 ## Concepto
 Norte militar, acero. Yunque del imperio. Tradición marcial y disciplina férrea.
@@ -33,6 +33,6 @@ Forja de acero y producción armamentística. Exporta equipo militar a todo el i
 - `docs/12-reinos.md`
 
 ## Guía de nombres
-**Germánica.** Los nombres de personas y lugares de Stalgard siguen la tradición germánica.
+**Germánica.** Los nombres de personas y lugares de Waffengard siguen la tradición germánica.
 
 Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).

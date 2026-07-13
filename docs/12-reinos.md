@@ -8,10 +8,10 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 
 | # | Reino | Casa | Bloque | Título | Rey/Reina ★ | Consorte |
 |---|-------|------|--------|--------|-------------|----------|
-| 1 | Stalgard | Meister | Hierro | Rey/Reina del Acero | ★ Rey Jorgen Meister | Reina Marloes Kuyper (Skarngard) |
-| 2 | Skarngard | Molenaar | Hierro | Rey/Reina del Martillo | ★ Rey Kies Molen | Reina Goikar Sajakan (Brenngard) |
-| 3 | Brenngard | Grigoryan | Hierro | Rey/Reina de la Llama | ★ Reina Siran Grigoryan | Reina Ania Jokull (Sturmgard) |
-| 4 | Sturmgard | Askia | Hierro | Rey/Reina de la Tormenta | ★ Rey Jan Askia | Reina Monika Jäger (Stalgard) |
+| 1 | Waffengard | Meister | Hierro | Rey/Reina del Acero | ★ Rey Jorgen Meister | Reina Alessa Meister (Skarngard) |
+| 2 | Skarngard | Hammer | Hierro | Rey/Reina del Martillo | ★ Rey Yuter Hammer | Reina Freda Brandt (Flamengard) |
+| 3 | Flamengard | Wolfen | Hierro | Rey/Reina de la Llama | ★ Rey Kaspar Wolfen | Rey Marlo Falken (Sturmgard) |
+| 4 | Sturmgard | Reisner | Hierro | Rey/Reina de la Tormenta | ★ Rey Jorin Reisner | Reina Sabina Jaeger (Waffengard) |
 | 5 | Lumaria | Maimon | Amanecer | Rey/Reina del Alba | ★ Reina Ezria Maimon | Rey Gaizka Darerca (Ylvaria) |
 | 6 | Veleskaria | Enescu | Amanecer | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
 | 7 | Zefiria | Aurelian | Amanecer | Rey/Reina del Viento | ★ Reina Celestia Aurelian | Rey Octavius Valerios (Zefiria) |
@@ -27,7 +27,7 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 
 ## Estructura
 
-**Bloque del Hierro (conservan -gard):** fueron el núcleo leal al Raikim, nunca se rebelaron. Stalgard, Skarngard, Brenngard, Sturmgard.
+**Bloque del Hierro (conservan -gard):** fueron el núcleo leal al Raikim, nunca se rebelaron. Waffengard, Skarngard, Flamengard, Sturmgard.
 
 **Reinos Rebeldes (cambiaron a -ria):** se alzaron contra Grimar Valgard. Abandonaron el sufijo -gard al declarar la rebelión. Lumaria, Veleskaria, Zefiria, Vesperia, Aurelia, Elyria, Sindria, Ylvaria.
 
@@ -37,7 +37,7 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 
 La distribución actual de consortes responde a afinidades políticas y culturales del momento. No existen prohibiciones formales de mezcla entre bloques; es simplemente la coyuntura presente.
 
-- **Hierro:** circuito cerrado Stalgard → Skarngard → Brenngard → Sturmgard → Stalgard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
+- **Hierro:** circuito cerrado Waffengard → Skarngard → Flamengard → Sturmgard → Waffengard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
 - **Amanecer:** intercambios internos por parejas o tríadas según conveniencia política. En Zefiria, en esta generación, ambos gobernantes resultaron ser del mismo reino.
 
 ---
@@ -48,9 +48,9 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 
 | Reino | Título formal | Forma entre monarcas |
 |-------|---------------|---------------------|
-| Stalgard | Rey/Reina del Acero | Rey Acero / Reina Acero |
+| Waffengard | Rey/Reina del Acero | Rey Acero / Reina Acero |
 | Skarngard | Rey/Reina del Martillo | Rey Martillo / Reina Martillo |
-| Brenngard | Rey/Reina de la Llama | Rey Llama / Reina Llama |
+| Flamengard | Rey/Reina de la Llama | Rey Llama / Reina Llama |
 | Sturmgard | Rey/Reina de la Tormenta | Rey Tormenta / Reina Tormenta |
 | Lumaria | Rey/Reina del Alba | Rey Alba / Reina Alba |
 | Veleskaria | Rey/Reina de la Montaña | Rey Montaña / Reina Montaña |
@@ -67,10 +67,10 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 
 | Reino | Concepto | Notas |
 |-------|----------|-------|
-| Stalgard | Norte militar, acero | Yunque del imperio. Casa Meister, alemán. |
-| Skarngard | Montañas, forjas, Veralim | Cuna de Casa Valgard. Casa Molenaar, neerlandés. |
-| Brenngard | Noroeste volcánico, piromancia | Casa Grigoryan, armenio. |
-| Sturmgard | Fiordos helados, tormentas, hombres duros | Frío extremo. Tierra pobre. Casa Askia, islandés. |
+| Waffengard | Norte militar, acero | Yunque del imperio. Casa Meister, germánico. |
+| Skarngard | Montañas, forjas, Veralim | Cuna de Casa Valgard. Casa Hammer, germánico. |
+| Flamengard | Noroeste volcánico, piromancia | Casa Wolfen, germánico. |
+| Sturmgard | Fiordos helados, tormentas, hombres duros | Frío extremo. Tierra pobre. Casa Reisner, germánico. |
 | Lumaria | Suroeste, centro espiritual de la rebelión | Casa Maimon, hebreo. Desciende de Suntaris: el alma. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, rumano. |
 | Zefiria | Planicies del sur, vientos | Solaris casa noble. Casa Aurelian, latín. Desciende de Suntaris: el arte. |

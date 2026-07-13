@@ -33,10 +33,10 @@ El imperio se compone de cuatro tipos de entidad territorial:
 
 | # | Reino | Bloque | Casa actual | Título |
 |---|-------|--------|-------------|--------|
-| 1 | Stalgard | Hierro | Meister | Rey/Reina del Acero |
-| 2 | Skarngard | Hierro | Molenaar | Rey/Reina del Martillo |
-| 3 | Brenngard | Hierro | Grigoryan | Rey/Reina de la Llama |
-| 4 | Sturmgard | Hierro | Askia | Rey/Reina de la Tormenta |
+| 1 | Waffengard | Hierro | Meister | Rey/Reina del Acero |
+| 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo |
+| 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama |
+| 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta |
 | 5 | Lumaria | Amanecer | Maimon | Rey/Reina del Alba |
 | 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña |
 | 7 | Zefiria | Amanecer | Aurelian | Rey/Reina del Viento |
