@@ -63,7 +63,7 @@ Territorios sin dueño dentro del Gerin que no pertenecen a ningún reino ni pro
 
 ## Dinastías imperiales
 
-Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes, electas por el Gran Syndrion. Las tres regresaron a su estatus nobiliario previo al dejar la corona.
+Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes, electas por el Stamengerin. Las tres regresaron a su estatus nobiliario previo al dejar la corona.
 
 | # | Dinastía | Origen | Emperadores | Estado |
 |---|----------|--------|-------------|--------|
@@ -86,7 +86,7 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 
 ### Segunda dinastía: Casa Amschel (Lumaria)
 
-21 emperadores. Casa noble de Lumaria, de raíz hebrea. Electa por el Gran Syndrion tras el quiebre de la dinastía Mormund.
+21 emperadores. Casa noble de Lumaria, de raíz hebrea. Electa por el Stamengerin tras el quiebre de la dinastía Mormund.
 
 | Orden | Nombre | Notas |
 |-------|--------|-------|
@@ -122,7 +122,7 @@ Los Goros heredaron el trono y, con él, un reclamo que no negociaron. El títul
 
 ## Referencias
 - Concordia de Vilem Mormund.
-- Gran Syndrion de Dracma.
+- Stamengerin.
 - `docs/mundo/estigria/dragma/sindria/sindria.md`
 - `docs/mundo/estigria/dragma/esteria/esteria.md`
 - `docs/mundo/estigria/valgard.md`

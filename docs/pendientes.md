@@ -14,7 +14,7 @@ Archivo vivo. Se agregan nuevos pendientes al final. Se eliminan al canonizarse.
 | Mormund total | 17 emperadores (4 con ficha: Harald, Roderic, Godric, Vilem). Último: Aldric Mormund (soltero). |
 | Segunda dinastía | Casa Amschel (Lumaria, raíz hebrea). 21 emperadores. Ezra (1.º), Amós (21.º). |
 | Tercera dinastía Pavel | 5 emperadores. Stanis (1.º), Pieter (5.º actual, primo de Vera). |
-| Quiebre de dinastía | Concordia Art. VIII bis: 3 causas, Dex Tábura ofrece pariente sangre, Syndrion elige por mayoría simple, casa saliente retorna estatus previo. |
+| Quiebre de dinastía | Concordia Art. VIII bis: 3 causas, Dex Tábura ofrece pariente sangre, Stamengerin elige por mayoría simple, casa saliente retorna estatus previo. |
 | Sturmgard no naval | Fiordos helados, tormentas, tierra pobre. Sin flota. |
 | Germanización Hierro | Waffengard (ex-Stalgard), Skarngard, Flamengard (ex-Brenngard), Sturmgard. 4 guías germánicas. |
 | Monarcas Hierro | Jorgen+Alessa Meister, Yuter+Freda Hammer, Kaspar+Marlo Wolfen, Jorin+Sabina Reisner. |
@@ -27,8 +27,8 @@ Archivo vivo. Se agregan nuevos pendientes al final. Se eliminan al canonizarse.
 | 2 | **Tierras Intermedias** | Ficha completa en `docs/mundo/estigria/dragma/`. Gobernante (Gran Señor de los Caminos), geografía, relación con reinos colindantes. |
 | 3 | **Casa Tormak (Kardan)** | Ficha de casa/organización. Fundada en secreto por Mijail Mormund. Linaje de regentes ocultos. ¿Cuántas generaciones? ¿Alguien fuera de Kardan sabe su origen? |
 | 4 | **Dos protectorados de ultramar pendientes** | Nombres, ubicación, tipo de gobierno, breve historia. ¿Islas? ¿Enclaves continentales? |
-| 5 | **Ampliación del Syndrion** | ¿Cuántos nobles? ¿Cuántos comunes? ¿Cómo se eligen? ¿Cada cuánto rotan? |
-| 6 | **Lugar de reunión del Syndrion para quiebre** | Quedó como TODO en la Concordia. ¿Eldengaria? ¿Reino del vacante? ¿Dex decide? |
+| 5 | **Ampliación del Stamengerin** | ¿Cuántos nobles? ¿Cuántos comunes? ¿Cómo se eligen? ¿Cada cuánto rotan? |
+| 6 | **Lugar de reunión del Stamengerin para quiebre** | Quedó como TODO en la Concordia. ¿Eldengaria? ¿Reino del vacante? ¿Dex decide? |
 
 ### 🟡 Prioridad media (completan lore existente)
 

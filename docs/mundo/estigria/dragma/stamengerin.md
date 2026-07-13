@@ -1,10 +1,10 @@
-# Gran Syndrion de Dracma
+# Stamengerin
 
 ## Tipo
 Asamblea histórica de las casas nobles del Gerin. Institución imperial de sucesión dinástica.
 
 ## Nombre
-El nombre «Syndrion» proviene de la raíz *synedrion* (asamblea, consejo). Fue españolizado al fundarse la institución.
+El nombre «Stamengerin» une una antigua raíz germánica asociada con la estirpe y el linaje con el nombre del Gerin. Su sentido tradicional es «los linajes reunidos del Gerin».
 
 ## Emplazamiento
 Se reunió originalmente en la planicie bajo el Monte Dracma, sobre las ruinas humeantes de Eldengard. El lugar elegido era simbólico: el imperio nacía exactamente donde la tiranía del Raikim había muerto.
@@ -21,7 +21,7 @@ La elección del primer emperador no fue sencilla. Los ocho reinos del Amanecer 
 Las casas con sonoridad germánica —como la extinta Casa Valgard o la Casa Mormund— son aquellas cuyo linaje Val es más marcado, aunque ni siquiera ellas se parecen ya a los antiguos nómadas de Estigria.
 
 ### Reforma de la Concordia
-Bajo la Concordia de Vilem Mormund, el Gran Syndrion fue ampliado para incluir representantes de casas nobles y comunes, aunque se excluyó a los reyes. Su función quedó limitada a un solo propósito: reunirse cuando sea convocado para un cambio de dinastía, tanto imperial como real.
+Bajo la Concordia de Vilem Mormund, el Stamengerin fue ampliado para incluir representantes de casas nobles y comunes, aunque se excluyó a los reyes. Su función quedó limitada a un solo propósito: reunirse cuando sea convocado para un cambio de dinastía, tanto imperial como real.
 
 ## Funciones actuales
 - Única función: ratificar cambios de dinastía imperial o real.
@@ -35,14 +35,14 @@ El procedimiento completo está codificado en la Concordia de Vilem Mormund (Art
 1. La Dex Tábura detecta la imposibilidad del monarca de proponer un sucesor digno.
 2. Ofrece al monarca la última oportunidad de postular un pariente de sangre.
 3. Si el monarca se niega o el pariente no es aprobado, se declara el **quiebre de la dinastía**.
-4. La Dex Tábura convoca al Gran Syndrion.
-5. El Syndrion —compuesto por todos los jefes de casas nobles y comunes, supervisado por revisores de la Dex Tábura, sin participación de reyes ni emperador— postula, delibera y vota por mayoría simple.
-6. El Syndrion proclama al nuevo monarca y a la nueva casa real o imperial.
+4. La Dex Tábura convoca al Stamengerin.
+5. El Stamengerin —compuesto por todos los jefes de casas nobles y comunes, supervisado por revisores de la Dex Tábura, sin participación de reyes ni emperador— postula, delibera y vota por mayoría simple.
+6. El Stamengerin proclama al nuevo monarca y a la nueva casa real o imperial.
 7. La casa saliente retorna a su estatus previo al ascenso.
 
 ### Historial de quiebres
 
-| Quiebre | Causa | Syndrion eligió |
+| Quiebre | Causa | Stamengerin eligió |
 |---------|-------|-----------------|
 | Mormund (Aldric, 17.º) | Sin hijos. Rechazó postular parientes. | Casa Amschel (Ezra) |
 | Amschel (Amós, 21.º) | Hijos rehusaron la corona. Rechazó postular primos y sobrinos. | Casa Pavel (Stanis) |

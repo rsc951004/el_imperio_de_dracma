@@ -117,21 +117,21 @@ Cada candidato postulado es investigado por los espías e inspectores de la **De
 
 Si todos los miembros de la Familia fueron postulados y no hay heredero aprobado (todos rechazados o renunciaron), el monarca puede:
 
-1. **Declarar quiebre de dinastía:** el trono va al Gran Syndrion (Art. VIII bis).
+1. **Declarar quiebre de dinastía:** el trono va al Stamengerin (Art. VIII bis).
 2. **Postular a un candidato del resto de la Casa Gobernante:** la Dex Tábura evalúa. Si es aprobado, se convierte en Príncipe Coronado. Si es rechazado, se prueba con otro.
 
 Si también se agota el resto de la Casa Gobernante (todos rechazados o renuncian), se declara **quiebre de dinastía**.
 
-### VIII. El Gran Syndrion de Dracma
-El Gran Syndrion fue ampliado para incluir a nobles y comunes, aunque sin la presencia de los reyes. Su función quedó limitada a reunirse cuando sea convocado para un cambio de dinastía, tanto imperial como real.
+### VIII. El Stamengerin
+El Stamengerin fue ampliado para incluir a nobles y comunes, aunque sin la presencia de los reyes. Su función quedó limitada a reunirse cuando sea convocado para un cambio de dinastía, tanto imperial como real.
 
 ### VIII bis. Quiebre de dinastía
 
 El cambio de dinastía imperial o real ocurre por **quiebre de dinastía** cuando se han agotado todos los candidatos viables según el Art. VII.
 
-Declarado el quiebre, queda vacante el «pequeño trono» —el asiento del Príncipe Coronado— y la Dex Tábura convoca al **Gran Syndrion**. El Syndrion se compone de todos los jefes de casas nobles y comunes, supervisados por los revisores de la Dex Tábura. Ni los reyes ni el emperador participan en las deliberaciones ni en la votación.
+Declarado el quiebre, queda vacante el «pequeño trono» —el asiento del Príncipe Coronado— y la Dex Tábura convoca al **Stamengerin**. El Stamengerin se compone de todos los jefes de casas nobles y comunes, supervisados por los revisores de la Dex Tábura. Ni los reyes ni el emperador participan en las deliberaciones ni en la votación.
 
-Cualquier casa del imperio —noble o común, pero no una casa real actualmente reinante— puede ser postulada como nueva casa imperial o real. La votación se resuelve por **mayoría simple**. El Syndrion decide quién será el próximo monarca y cuál será la próxima casa real o imperial.
+Cualquier casa del imperio —noble o común, pero no una casa real actualmente reinante— puede ser postulada como nueva casa imperial o real. La votación se resuelve por **mayoría simple**. El Stamengerin decide quién será el próximo monarca y cuál será la próxima casa real o imperial.
 
 La casa que cesa en su función imperial o real **vuelve a su estatus anterior** al ascenso.
 
@@ -189,7 +189,7 @@ Los 12 Reinos son entidades territoriales fijas e indivisibles bajo el pacto imp
 
 #### X.5 Cambios estructurales
 
-Cualquier intento de modificar la estructura territorial o institucional del imperio —fusiones, particiones, alteración del número de reinos o protectorados— **fuera del Gran Syndrion** se castiga con **pena de muerte** para todos los implicados directos.
+Cualquier intento de modificar la estructura territorial o institucional del imperio —fusiones, particiones, alteración del número de reinos o protectorados— **fuera del Stamengerin** se castiga con **pena de muerte** para todos los implicados directos.
 
 ## Legado
 La Concordia transformó Dragma de una imposición forjada en la guerra a un pacto entre iguales. Por su autoría, Vilem Mormund es recordado como el Padre del Imperio.
@@ -197,5 +197,5 @@ La Concordia transformó Dragma de una imposición forjada en la guerra a un pac
 ## Referencias
 - Vilem Mormund.
 - Dex Tábura.
-- Gran Syndrion de Dracma.
+- Stamengerin.
 - Edicto del Amanecer (Lorian Solaris).
