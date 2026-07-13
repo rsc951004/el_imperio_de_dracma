@@ -2,30 +2,35 @@
 
 ## Cuadrícula general (12 × 15)
 
-Cada reino ocupa bloque 3×3 celdas. Capital marcada con `*`. Columnas: sub-columnas `a, b, c`. Filas: sub-filas `1, 2, 3` dentro de cada zona A-D.
+Cada reino ocupa un bloque de celdas (la mayoría 3×3, algunos expandidos o reducidos por geografía). Capital marcada con `*`. Columnas: sub-columnas `a, b, c`. Filas: sub-filas `1, 2, 3` dentro de cada zona A-D.
 
 ```
-       1a  1b  1c │ 2a  2b  2c │ 3a  3b  3c │  4a   4b   4c  │ 5a  5b  5c
- A1    Fl  Fl  Fl │ Vk  Vk  Vk │ Sd  Sd  Sd │  --   Mal  Mal │ Mod Mod Mod
- A2    Fl  Fl* Fl │ Vk  Vk* Vk │ Sd  Sd* Sd │  --   Bra  --  │ Mod Mod Mod
- A3    Fl  Fl  Fl │ Vk  Vk  Vk │ Sd  Sd  Sd │  --   Mal  Mal │ Mod Mod Mod
- ──────┼──────────┼────────────┼────────────┼─────────────────┼───────────
- B1    Sk  Sk  Sk │ St  St  St │ Wf  Wf  Wf │ Est  Est  Est  │ Mod Mod Mod
- B2    Sk  Sk* Sk │ St  St* St │ Wf  Wf* Wf │ Est  Est  Est  │ Mod Mod Mod
- B3    Sk  Sk  Sk │ St  St  St │ Wf  Wf  Wf │ Est  Est  Est  │ Mod Mod Mod
- ──────┼──────────┼────────────┼────────────┼─────────────────┼───────────
- C1    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Au  Au │ Est  Est  Est  │ Mod Mod Mod
- C2    Lm  Lm* Lm │ Vs  Vs* Vs │ Au  Au* Au │ Est  Est  Est  │ Mod Mod Mod
- C3    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Au  Au │ Est  Est  Est  │ Mod Mod Mod
- ──────┼──────────┼────────────┼────────────┼─────────────────┼───────────
- D1    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Yl │ Est  Est  Est  │ Mod Mod Mod
- D2    Zf  Zf* Zf │ El  El* El │ Yl  Yl* Yl │ Est  Est  Est  │ Mod Mod Mod
- D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Yl │ Est  Est  Est  │ Mod Mod Mod
+       1a  1b  1c │ 2a  2b  2c │ 3a  3b  3c  │  4a   4b   4c  │ 5a  5b  5c
+A1    Fl  Fl  Fl │ Fl  Fl  Fl │ ≈≈  ≈≈  ≈≈  │  Vk   Vk   Es★ │ Mal  Mal  Mod
+A2    Fl  Fl* Fl │ Fl  Fl  Fl │ ≈≈  Pen ≈≈  │  Vk   Vk*  Vk  │ Bra  --   Mod
+A3    Fl  Fl  Fl │ Fl  Fl  Fl │ ≈≈  Pen ≈≈  │  Sd   Sd*  Sd  │ Mal  Mal  Mod
+──────┼──────────┼───────────┼──────────────┼─────┬───────────┼─────────────
+B1    St  St  St │ Sk  Sk  Sk │ Wf  Wf  Wf  │ Est  Est  Est   │ Mod  Mod  Mod
+B2    St  St* St │ Sk  Sk* Sk │ Wf  Wf* Wf  │ Est  Est  Est   │ Mod  Mod  Mod
+B3    St  St  St │ Sk  Sk  Sk │ Wf  Wf  Wf  │ Est  Est  Est   │ Mod  Mod  Mod
+──────┼──────────┼───────────┼──────────────┼─────────────────┼─────────────
+C1    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Au  Au  │ Est  Est  Est   │ Mod  Mod  Mod
+C2    Lm  Lm* Lm │ Vs  Vs* Vs │ Au  Au* Au  │ Est  Est  Est   │ Mod  Mod  Mod
+C3    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Au  Au  │ Est  Est  Est   │ Mod  Mod  Mod
+──────┼──────────┼───────────┼──────────────┼─────────────────┼─────────────
+D1    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Yl  │ Est  Est  Est   │ Mod  Mod  Mod
+D2    Zf  Zf* Zf │ El  El* El │ Yl  Yl* Yl  │ Est  Est  Est   │ Mod  Mod  Mod
+D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  Mod  Mod
 ```
 
 | Símbolo | Significado |
 |---------|-------------|
 | `*` | Capital del reino (celda central del bloque 3×3) |
+| `★` | Protectorado / ciudad libre |
+| `Es` | Esteria (ciudad fortaleza en el Foso) |
+| `Ka` | Kalos (ciudadela circular al sureste) |
+| `≈≈` | Mar interior / fiordo del norte |
+| `Pen` | Península septentrional |
 | `--` | Fuera de cuadrícula / sin asignar |
 | `Est` | Cordillera Estomur |
 | `Mod` | El Modrig (mitad oriental maldita) |
@@ -76,7 +81,7 @@ Cada reino ocupa bloque 3×3 celdas. Capital marcada con `*`. Columnas: sub-colu
 
 ### Flamengard [Fl] — Valle de Hierro
 
-Bloque: filas A1-A3, columnas 1a-1c.
+Bloque expandido: filas A1-A3, columnas 1a-2c (18 celdas, 6×3). Domina el norte del Gerin.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
@@ -89,38 +94,49 @@ Bloque: filas A1-A3, columnas 1a-1c.
 | A3-1a | SO | Flamfurt | Vado del suroeste |
 | A3-1b | S | Flamtal | Valle sur |
 | A3-1c | SE | Flamburg | Bastión del sureste |
+| A1-2a | N2 | Flamhöh | Altiplanicie septentrional |
+| A1-2b | N2 | Flamkamm | Cresta del nordeste |
+| A1-2c | NE2 | Flamtor | Puerto del fiordo |
+| A2-2a | O2 | Flamweide | Praderas centrales |
+| A2-2b | C2 | Flamherd | Bastión interior |
+| A2-2c | E2 | Flamdeich | Dique del fiordo |
+| A3-2a | SO2 | Flammoor | Pantanos del suroeste |
+| A3-2b | S2 | Flamhain | Bosque sagrado sur |
+| A3-2c | SE2 | Flamzinn | Fortín de la península |
+
+> Flamengard es el reino más extenso del Gerin (18 celdas). Su expansión hacia el este llega hasta el fiordo interior que lo separa del Paso del Oriente.
 
 ### Skarngard [Sk] — Valle de Hierro
 
-Bloque: filas B1-B3, columnas 1a-1c.
+Bloque: filas B1-B3, columnas 2a-2c. Interior, sin costa.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
-| B1-1a | NO | Skarnmark | Marca del noroeste |
-| B1-1b | N | Skarnberg | Montaña norte |
-| B1-1c | NE | Skarnwald | Bosque del noreste |
-| B2-1a | O | Skarnstein | Cantera occidental |
-| B2-1b | * | Skarngard | Capital (fortaleza del Martillo) |
-| B2-1c | E | Skarnfeld | Campo oriental |
-| B3-1a | SO | Skarnfurt | Vado del suroeste |
-| B3-1b | S | Skarntal | Valle sur |
-| B3-1c | SE | Skarnburg | Bastión del sureste |
+| B1-2a | NO | Skarnmark | Marca del noroeste |
+| B1-2b | N | Skarnberg | Montaña norte |
+| B1-2c | NE | Skarnwald | Bosque del noreste |
+| B2-2a | O | Skarnstein | Cantera occidental |
+| B2-2b | * | Skarngard | Capital (fortaleza del Martillo) |
+| B2-2c | E | Skarnfeld | Campo oriental |
+| B3-2a | SO | Skarnfurt | Vado del suroeste |
+| B3-2b | S | Skarntal | Valle sur |
+| B3-2c | SE | Skarnburg | Bastión del sureste |
 
 ### Sturmgard [St] — Valle de Hierro
 
-Bloque: filas B1-B3, columnas 2a-2c.
+Bloque: filas B1-B3, columnas 1a-1c. Costa occidental. Fiordos, acantilados, tormentas del Mar Occidental.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
-| B1-2a | NO | Sturmmark | Marca del noroeste |
-| B1-2b | N | Sturmberg | Colina norte |
-| B1-2c | NE | Sturmwald | Bosque del noreste |
-| B2-2a | O | Sturmstein | Atalaya occidental |
-| B2-2b | * | Sturmgard | Capital (fortaleza de la Tormenta) |
-| B2-2c | E | Sturmfeld | Llanura oriental |
-| B3-2a | SO | Sturmfurt | Vado del suroeste |
-| B3-2b | S | Sturmtal | Valle sur |
-| B3-2c | SE | Sturmburg | Bastión del sureste |
+| B1-1a | NO | Sturmmark | Acantilado del noroeste |
+| B1-1b | N | Sturmberg | Fiordo norte |
+| B1-1c | NE | Sturmwald | Bosque del noreste |
+| B2-1a | O | Sturmstein | Rompeolas occidental |
+| B2-1b | * | Sturmgard | Capital (fortaleza de la Tormenta) |
+| B2-1c | E | Sturmfeld | Llanura oriental |
+| B3-1a | SO | Sturmfurt | Ensenada del suroeste |
+| B3-1b | S | Sturmtal | Valle sur |
+| B3-1c | SE | Sturmburg | Bastión del sureste |
 
 ### Waffengard [Wf] — Valle de Hierro
 
@@ -188,35 +204,26 @@ Bloque: filas D1-D3, columnas 2a-2c.
 
 ### Veleskaria [Vk] — Paso del Oriente
 
-Bloque: filas A1-A3, columnas 2a-2c.
+Bloque alargado: filas A1-A2, columnas 4a-4c (6 celdas, 2×3). Entre el fiordo y el Foso.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
-| A1-2a | NO | Veleskov | Aldea del noroeste |
-| A1-2b | N | Veleskin | Paso norte |
-| A1-2c | NE | Veleska | Puesto del noreste |
-| A2-2a | O | Veleskagrad | Fortaleza occidental |
-| A2-2b | * | Veleskaria | Capital (ciudad de la Montaña) |
-| A2-2c | E | Veleskagora | Colina oriental |
-| A3-2a | SO | Veleskavoda | Río del suroeste |
-| A3-2b | S | Veleskales | Bosque sur |
-| A3-2c | SE | Veleskadol | Valle del sureste |
+| A1-4a | NO | Veleskov | Aldea del noroeste |
+| A1-4b | N | Veleskin | Paso norte (hacia el Bramo) |
+| A1-4c | NE | Veleska | Frontera del Foso |
+| A2-4a | O | Veleskagrad | Fortaleza occidental |
+| A2-4b | * | Veleskaria | Capital (ciudad de la Montaña) |
+| A2-4c | E | Veleskagora | Colina oriental |
 
 ### Sindria [Sd] — Paso del Oriente
 
-Bloque: filas A1-A3, columnas 3a-3c.
+Bloque alargado: fila A3, columnas 4a-4c (3 celdas, 1×3). Franja estrecha junto al Foso.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
-| A1-3a | NO | Sindrov | Puesto del noroeste |
-| A1-3b | N | Sindrin | Colina norte |
-| A1-3c | NE | Sindrigrad | Fortaleza del noreste |
-| A2-3a | O | Sindrigora | Montaña occidental |
-| A2-3b | * | Sindria | Capital (ciudad del Foso) |
-| A2-3c | E | Sindrivoda | Río oriental |
-| A3-3a | SO | Sindriles | Bosque del suroeste |
-| A3-3b | S | Sindridol | Valle sur |
-| A3-3c | SE | Sindrikov | Aldea del sureste |
+| A3-4a | O | Sindrigora | Montaña occidental |
+| A3-4b | * | Sindria | Capital (ciudad del Foso) |
+| A3-4c | E | Sindrivoda | Río oriental (borde del Foso) |
 
 ### Vesperia [Vs] — FOO
 
@@ -290,15 +297,24 @@ Bloque: filas B1-D3, columnas 4a-4c (9 celdas, vertical).
 
 ### Malakia / El Bramo
 
-Bloque: filas A1-A3, columnas 4a-4c (parcial).
+Bloque: filas A1-A3, columnas 5a-5b (parcial). Al otro lado del Foso.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
-| A1-4b | N | Malakia Norte | Ruinas del reino antiguo |
-| A2-4b | * | El Bramo | Trono de Rey Podrido |
-| A3-4b | S | Malakia Sur | Tierras sumergidas en bruma |
+| A1-5a | N | Malakia Norte | Ruinas del reino antiguo |
+| A2-5a | * | El Bramo | Trono de Rey Podrido |
+| A3-5a | S | Malakia Sur | Tierras sumergidas en bruma |
 
-> Celdas A1-4a, A1-4c, A2-4a, A2-4c, A3-4a, A3-4c = `--` (fuera de cuadrícula). El Bramo solo ocupa la celda central del bloque.
+> Malakia ocupa la franja 5a-5b en filas A1 y A3. El Bramo solo la celda A2-5a. La columna 5c pertenece a El Modrig.
+
+### Protectorados
+
+| Coord | Cód | Nombre | Tipo |
+|-------|-----|--------|------|
+| A1-4c | Es★ | Esteria | Ciudad fortaleza junto al Foso |
+| D3-3c | Ka★ | Kalos | Ciudadela circular sobre acantilado al sur |
+
+> Esteria y Kalos son Ciudades Libres de la Tiranía y protectorados del Imperio. Ocupan una celda cada una, no un bloque 3×3. Esteria custodia el Foso al norte (linde con Veleskaria); Kalos vigila el Paso del Bramo al sureste (linde con Ylvaria).
 
 ### El Modrig [Mod]
 
