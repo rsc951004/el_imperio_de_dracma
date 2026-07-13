@@ -47,18 +47,18 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Marlo Falken | Rey consorte | Flamengard ← Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/marlo-falken.md) |
 | Jorin Reisner | Rey gobernante | Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/jorin-reisner.md) |
 | Sabina Jaeger | Reina consorte | Sturmgard ← Waffengard (Valle de Hierro) | [Ver ficha](personajes/monarcas/sabina-jaeger.md) |
-| Octavia Corintyos | Reina gobernante | Lumyria (Costas del Verano) | [Ver ficha](personajes/monarcas/octavia-corintyos.md) |
-| Helio Ventys | Rey consorte | Lumyria ← Zefyria (Costas del Verano) | [Ver ficha](personajes/monarcas/helio-ventys.md) |
+| Octavia Corintyos | Reina gobernante | Lumarya (Costas del Verano) | [Ver ficha](personajes/monarcas/octavia-corintyos.md) |
+| Helio Ventys | Rey consorte | Lumarya ← Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/helio-ventys.md) |
 | Ileana Enescu | Reina gobernante | Veleskaria (Paso del Oriente) | [Ver ficha](personajes/monarcas/ileana-enescu.md) |
 | Yelena Gorski | Reina consorte | Veleskaria ← Sindria (Paso del Oriente) | [Ver ficha](personajes/monarcas/yelena-gorski.md) |
-| Cassius Zephyrion | Rey gobernante | Zefyria (Costas del Verano) | [Ver ficha](personajes/monarcas/cassius-zephyrion.md) |
-| Celestya Drusio | Reina consorte | Zefyria ← Elyria (Costas del Verano) | [Ver ficha](personajes/monarcas/celestya-drusio.md) |
+| Cassius Zephyrion | Rey gobernante | Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/cassius-zephyrion.md) |
+| Celestya Drusio | Reina consorte | Zefirya ← Elarya (Costas del Verano) | [Ver ficha](personajes/monarcas/celestya-drusio.md) |
 | Eero Tuomi | Rey gobernante | Vesperia (FOO) | [Ver ficha](personajes/monarcas/eero-tuomi.md) |
-| Tavros Andreidis | Rey consorte | Vesperia ← Elyria (FOO) | [Ver ficha](personajes/monarcas/stavros-andreidis.md) |
+| Tavros Andreidis | Rey consorte | Vesperia ← Elarya (FOO) | [Ver ficha](personajes/monarcas/stavros-andreidis.md) |
 | Valerius Umbra | Rey gobernante | Aurelia (FOO) | [Ver ficha](personajes/monarcas/valerius-umbra.md) |
 | Taria Eskola | Reina consorte | Aurelia ← Vesperia (FOO) | [Ver ficha](personajes/monarcas/taria-eskola.md) |
-| Marcus Valerius | Rey gobernante | Elyria (Costas del Verano) | [Ver ficha](personajes/monarcas/marcus-valerius.md) |
-| Nerysa Undavos | Reina consorte | Elyria ← Alesya (Costas del Verano) | [Ver ficha](personajes/monarcas/nerysa-undavos.md) |
+| Marcus Valerius | Rey gobernante | Elarya (Costas del Verano) | [Ver ficha](personajes/monarcas/marcus-valerius.md) |
+| Nerysa Undavos | Reina consorte | Elarya ← Alesya (Costas del Verano) | [Ver ficha](personajes/monarcas/nerysa-undavos.md) |
 | Uriel Goros | Rey gobernante | Sindria (Paso del Oriente) | [Ver ficha](personajes/monarcas/uriel-goros.md) |
 | Ecaterina Cojocaru | Reina consorte | Sindria ← Veleskaria (Paso del Oriente) | [Ver ficha](personajes/monarcas/ecaterina-cojocaru.md) |
 | Dreide Gorio | Reina gobernante | Ylvaria (FOO) | [Ver ficha](personajes/monarcas/dreide-gorio.md) |

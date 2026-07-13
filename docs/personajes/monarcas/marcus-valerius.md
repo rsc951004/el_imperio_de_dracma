@@ -1,10 +1,10 @@
 # Marcus Valerius
 
 ## Identidad
-Rey gobernante de **Elyria** (Costas del Verano). Casa Valerius.
+Rey gobernante de **Elarya** (Costas del Verano). Casa Valerius.
 
-- **Reino:** Elyria (Costa del Verano, flota astriana).
+- **Reino:** Elarya (Costa del Verano, flota astriana).
 - **Cultura:** Grecolatina.
 
 ## Relaciones
-- **Nerysa Undavos:** esposa. Reina consorte de Elyria. Originaria de Alesya (Casa Undavos).
+- **Nerysa Undavos:** esposa. Reina consorte de Elarya. Originaria de Alesya (Casa Undavos).

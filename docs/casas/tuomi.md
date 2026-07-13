@@ -21,4 +21,4 @@ Casa real de Vesperia. El único puerto accesible de Dragma, la puerta marítima
 
 - **Eero Tuomi** ★ — Rey del Mar. Gobernante reinante.
 - **Taria Eskola** — Hermana de Eero. Reina consorte de Aurelia (Casa Eskola).
-- **Tavros Andreidis** — Rey consorte. Originario de Elyria (Casa Andreadis).
+- **Tavros Andreidis** — Rey consorte. Originario de Elarya (Casa Andreadis).

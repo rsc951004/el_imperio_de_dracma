@@ -1,4 +1,4 @@
-# Elyria
+# Elarya
 
 ## Tipo
 Reino del Imperio de Dragma.
@@ -23,7 +23,7 @@ Elygard
 Regido por la Casa Valerius. El rey reinante es **Marcus Valerius ★**, Rey del Tridente. Su consorte es Nerysa Undavos, originaria de Alesya.
 
 ## Historia
-Elyria fue fundada por el Raikim Valgard como **Elygard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Antes de absorber influencia astriana, era la zona de pescadores y marinos de la ciudad libre. Su flota nació en aguas suntarianas: la sangre marinera del sur es herencia directa de aquel puerto perdido. Con los siglos, la elegancia naval astriana se fundió con esa raíz, creando la flota más letal y estética de la Costa del Verano.
+Elarya fue fundada por el Raikim Valgard como **Elygard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Antes de absorber influencia astriana, era la zona de pescadores y marinos de la ciudad libre. Su flota nació en aguas suntarianas: la sangre marinera del sur es herencia directa de aquel puerto perdido. Con los siglos, la elegancia naval astriana se fundió con esa raíz, creando la flota más letal y estética de la Costa del Verano.
 
 ## Concepto
 Costa del Verano, flota astriana. Poder naval con influencia de Astria.
@@ -35,6 +35,6 @@ Flota mercante y militar de inspiración astriana. Comercio costero del Verano.
 - `docs/12-reinos.md`
 
 ## Guía de nombres
-**Grecolatina.** Los nombres de personas y lugares de Elyria siguen la tradición grecolatina.
+**Grecolatina.** Los nombres de personas y lugares de Elarya siguen la tradición grecolatina.
 
 Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro). Ver la Guía de nombres en `docs/AGENTS.md`.

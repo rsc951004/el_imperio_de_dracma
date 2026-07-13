@@ -4,10 +4,10 @@
 Casa noble
 
 ## Reino
-Zefyria (Costas del Verano)
+Zefirya (Costas del Verano)
 
 ## Historia y descripción
-Casa noble de Zefyria. Su nombre evoca los vientos que recorren las planicies del sur.
+Casa noble de Zefirya. Su nombre evoca los vientos que recorren las planicies del sur.
 
 ## Miembros relevantes
-- Helio Ventys: rey consorte de Lumyria
+- Helio Ventys: rey consorte de Lumarya

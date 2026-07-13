@@ -88,7 +88,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Lumyria", "code": "Lm", "zone": "Costas del Verano", "culture": "Grecolatina", "capital": [1.5, 7.5] },
+      "properties": { "name": "Lumarya", "code": "Lm", "zone": "Costas del Verano", "culture": "Grecolatina", "capital": [1.5, 7.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[0, 6], [3, 6], [3, 9], [0, 9], [0, 6]]] }
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Zefyria", "code": "Zf", "zone": "Costas del Verano", "culture": "Grecolatina", "capital": [1.5, 10.5] },
+      "properties": { "name": "Zefirya", "code": "Zf", "zone": "Costas del Verano", "culture": "Grecolatina", "capital": [1.5, 10.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[0, 9], [3, 9], [3, 12], [0, 12], [0, 9]]] }
     },
     {
       "type": "Feature",
-      "properties": { "name": "Elyria", "code": "El", "zone": "Costas del Verano", "culture": "Grecolatina", "capital": [4.5, 10.5] },
+      "properties": { "name": "Elarya", "code": "El", "zone": "Costas del Verano", "culture": "Grecolatina", "capital": [4.5, 10.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[3, 9], [6, 9], [6, 12], [3, 12], [3, 9]]] }
     },
     {

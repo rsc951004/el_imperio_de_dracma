@@ -67,9 +67,9 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | Sk | Skarngard | HIERRO | Germánica |
 | St | Sturmgard | HIERRO | Germánica |
 | Fl | Flamengard | HIERRO | Germánica |
-| Lm | Lumyria | VERANO | Grecolatina |
-| Zf | Zefyria | VERANO | Grecolatina |
-| El | Elyria | VERANO | Grecolatina |
+| Lm | Lumarya | VERANO | Grecolatina |
+| Zf | Zefirya | VERANO | Grecolatina |
+| El | Elarya | VERANO | Grecolatina |
 | Sd | Sindria | ORIENTE | Eslava |
 | Vk | Veleskaria | ORIENTE | Eslava |
 | Vs | Vesperia | FOO | Céltico-nórdica |
@@ -155,7 +155,7 @@ Bloque: filas B1-B3, columnas 3a-3c (parcial). Cedió B3-3b a Eldengaria y B3-3c
 | B2-3c | E | Waffenfeld | Campo oriental |
 | B3-3a | SO | Waffenfurt | Vado del suroeste (linde con Eldengaria) |
 
-### Lumyria [Lm] — Costas del Verano
+### Lumarya [Lm] — Costas del Verano
 
 Bloque: filas C1-C3, columnas 1a-1c.
 
@@ -165,13 +165,13 @@ Bloque: filas C1-C3, columnas 1a-1c.
 | C1-1b | N | Lumynea | Meseta norte |
 | C1-1c | NE | Lumystia | Puerto del noreste |
 | C2-1a | O | Lumoros | Valle occidental |
-| C2-1b | * | Lumyria | Capital (ciudad del Alba) |
+| C2-1b | * | Lumarya | Capital (ciudad del Alba) |
 | C2-1c | E | Lumorion | Costa oriental |
 | C3-1a | SO | Lumyphos | Faro del suroeste |
 | C3-1b | S | Lumythea | Puerto sur |
 | C3-1c | SE | Lumycia | Península del sureste |
 
-### Zefyria [Zf] — Costas del Verano
+### Zefirya [Zf] — Costas del Verano
 
 Bloque: filas D1-D3, columnas 1a-1c.
 
@@ -181,13 +181,13 @@ Bloque: filas D1-D3, columnas 1a-1c.
 | D1-1b | N | Zefynea | Llanura norte |
 | D1-1c | NE | Zefystia | Puerto del noreste |
 | D2-1a | O | Zeforos | Valle occidental |
-| D2-1b | * | Zefyria | Capital (ciudad del Viento) |
+| D2-1b | * | Zefirya | Capital (ciudad del Viento) |
 | D2-1c | E | Zeforion | Costa oriental |
 | D3-1a | SO | Zefyphos | Faro del suroeste |
 | D3-1b | S | Zefythea | Bahía sur |
 | D3-1c | SE | Zefycia | Islotes del sureste |
 
-### Elyria [El] — Costas del Verano
+### Elarya [El] — Costas del Verano
 
 Bloque: filas D1-D3, columnas 2a-2c.
 
@@ -197,7 +197,7 @@ Bloque: filas D1-D3, columnas 2a-2c.
 | D1-2b | N | Elynea | Cabo norte |
 | D1-2c | NE | Elystia | Astillero del noreste |
 | D2-2a | O | Elyoros | Valle occidental |
-| D2-2b | * | Elyria | Capital (ciudad del Tridente) |
+| D2-2b | * | Elarya | Capital (ciudad del Tridente) |
 | D2-2c | E | Elyorion | Costa oriental |
 | D3-2a | SO | Elyphos | Faro del suroeste |
 | D3-2b | S | Elythea | Puerto sur |

@@ -1,4 +1,4 @@
-# Zefyria
+# Zefirya
 
 ## Tipo
 Reino del Imperio de Dragma.
@@ -20,10 +20,10 @@ Zefigard
 **Costas del Verano.** Región grecolatina del suroeste costero. Desciende de Suntaris.
 
 ## Gobierno
-Regido por la Casa Zephyrion. El rey reinante es **Cassius Zephyrion ★**, Rey del Viento. Su consorte es Celestya Drusio, de casa noble de Elyria.
+Regido por la Casa Zephyrion. El rey reinante es **Cassius Zephyrion ★**, Rey del Viento. Su consorte es Celestya Drusio, de casa noble de Elarya.
 
 ## Historia
-Zefyria fue fundada por el Raikim Valgard como **Zefigard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Alberga a la Casa Solaris como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Lorian Solaris: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.
+Zefirya fue fundada por el Raikim Valgard como **Zefigard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Alberga a la Casa Solaris como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Lorian Solaris: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.
 
 ## Concepto
 Planicies del sur, vientos. Tierras abiertas de agricultura extensiva.
@@ -35,6 +35,6 @@ Agricultura de planicie y ganadería. Tierras fértiles del sur.
 - `docs/12-reinos.md`
 
 ## Guía de nombres
-**Grecolatina.** Los nombres de personas y lugares de Zefyria siguen la tradición grecolatina.
+**Grecolatina.** Los nombres de personas y lugares de Zefirya siguen la tradición grecolatina.
 
 Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro). Ver la Guía de nombres en `docs/AGENTS.md`.

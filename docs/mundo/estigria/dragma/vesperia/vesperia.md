@@ -21,7 +21,7 @@ Vespergard
 
 
 ## Gobierno
-Regido por la Casa Tuomi. El rey reinante es **Eero Tuomi ★**, Rey del Mar. Su consorte es el rey Tavros Andreidis, originario de Elyria.
+Regido por la Casa Tuomi. El rey reinante es **Eero Tuomi ★**, Rey del Mar. Su consorte es el rey Tavros Andreidis, originario de Elarya.
 
 ## Historia
 Vesperia fue fundada por el Raikim Valgard como **Vespergard**. Su posición como único puerto accesible de Dragma le otorgó desde el principio un valor estratégico que ningún Raik pudo ignorar. Se unió a la rebelión del Bloque del Amanecer y abandonó el sufijo -gard.

@@ -12,12 +12,12 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 | 2 | Skarngard | Hammer | Valle de Hierro | Rey/Reina del Martillo | ★ Rey Yuter Hammer | Reina Freda Brandt (Flamengard) |
 | 3 | Flamengard | Wolfen | Valle de Hierro | Rey/Reina de la Llama | ★ Rey Kaspar Wolfen | Rey Marlo Falken (Sturmgard) |
 | 4 | Sturmgard | Reisner | Valle de Hierro | Rey/Reina de la Tormenta | ★ Rey Jorin Reisner | Reina Sabina Jaeger (Waffengard) |
-| 5 | Lumyria | Corintyos | Costas del Verano | Rey/Reina del Alba | ★ Reina Octavia Corintyos | Helio Ventys (Zefyria) |
+| 5 | Lumarya | Corintyos | Costas del Verano | Rey/Reina del Alba | ★ Reina Octavia Corintyos | Helio Ventys (Zefirya) |
 | 6 | Veleskaria | Enescu | Paso del Oriente | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
-| 7 | Zefyria | Zephyrion | Costas del Verano | Rey/Reina del Viento | ★ Rey Cassius Zephyrion | Celestya Drusio (Elyria) |
-| 8 | Vesperia | Tuomi | FOO | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Elyria) |
+| 7 | Zefirya | Zephyrion | Costas del Verano | Rey/Reina del Viento | ★ Rey Cassius Zephyrion | Celestya Drusio (Elarya) |
+| 8 | Vesperia | Tuomi | FOO | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Elarya) |
 | 9 | Aurelia | Umbra | FOO | Rey/Reina del Oro | ★ Rey Valerius Umbra | Reina Taria Eskola (Vesperia) |
-| 10 | Elyria | Valerius | Costas del Verano | Rey/Reina del Tridente | ★ Rey Marcus Valerius | Nerysa Undavos (Alesya) |
+| 10 | Elarya | Valerius | Costas del Verano | Rey/Reina del Tridente | ★ Rey Marcus Valerius | Nerysa Undavos (Alesya) |
 | 11 | Sindria | Goros | Paso del Oriente | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
 | 12 | Ylvaria | Gorio | FOO | Rey/Reina del Bosque | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
 
@@ -33,7 +33,7 @@ Waffengard · Skarngard · Flamengard · Sturmgard
 
 ### Costas del Verano (cambiaron a -ria)
 Descienden de la destruida Suntaris. Tradición grecolatina. Circuito matrimonial cerrado.
-Lumyria · Zefyria · Elyria
+Lumarya · Zefirya · Elarya
 
 ### Paso del Oriente (cambiaron a -ria)
 Este del Gerin. Val mezclados con otras culturas. Forjados contra las bestias del Modrig. Tradición eslava.
@@ -52,7 +52,7 @@ Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en 
 La distribución actual de consortes responde a afinidades políticas y culturales del momento. No existen prohibiciones formales de mezcla entre bloques; es simplemente la coyuntura presente.
 
 - **Valle de Hierro:** circuito cerrado Waffengard ↔ Skarngard ↔ Flamengard ↔ Sturmgard ↔ Waffengard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
-- **Costas del Verano:** circuito cerrado Lumyria ↔ Zefyria ↔ Elyria ↔ Lumyria. Los tres reinos del Verano intercambian consortes entre sus casas nobles. Nerysa Undavos, de Elyria, es la excepción: proviene de Alesya, protectorado vinculado culturalmente al Verano.
+- **Costas del Verano:** circuito cerrado Lumarya ↔ Zefirya ↔ Elarya ↔ Lumarya. Los tres reinos del Verano intercambian consortes entre sus casas nobles. Nerysa Undavos, de Elarya, es la excepción: proviene de Alesya, protectorado vinculado culturalmente al Verano.
 - **Paso del Oriente y FOO:** intercambios internos y entre sí según conveniencia política.
 
 ---
@@ -67,12 +67,12 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Skarngard | Rey/Reina del Martillo | Rey Martillo / Reina Martillo |
 | Flamengard | Rey/Reina de la Llama | Rey Llama / Reina Llama |
 | Sturmgard | Rey/Reina de la Tormenta | Rey Tormenta / Reina Tormenta |
-| Lumyria | Rey/Reina del Alba | Rey Alba / Reina Alba |
+| Lumarya | Rey/Reina del Alba | Rey Alba / Reina Alba |
 | Veleskaria | Rey/Reina de la Montaña | Rey Montaña / Reina Montaña |
-| Zefyria | Rey/Reina del Viento | Rey Viento / Reina Viento |
+| Zefirya | Rey/Reina del Viento | Rey Viento / Reina Viento |
 | Vesperia | Rey/Reina del Mar | Rey Mar / Reina Mar |
 | Aurelia | Rey/Reina del Oro | Rey Oro / Reina Oro |
-| Elyria | Rey/Reina del Tridente | Rey Tridente / Reina Tridente |
+| Elarya | Rey/Reina del Tridente | Rey Tridente / Reina Tridente |
 | Sindria | Rey/Reina del Foso | Rey Foso / Reina Foso |
 | Ylvaria | Rey/Reina del Bosque | Rey Bosque / Reina Bosque |
 
@@ -86,12 +86,12 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Skarngard | Montañas, forjas, Veralim | Cuna de Casa Valgard. Casa Hammer, germánico. Valle de Hierro. |
 | Flamengard | Noroeste volcánico, piromancia | Casa Wolfen, germánico. Valle de Hierro. |
 | Sturmgard | Fiordos helados, tormentas, hombres duros | Frío extremo. Tierra pobre. Casa Reisner, germánico. Valle de Hierro. |
-| Lumyria | Suroeste, centro espiritual de la rebelión | Casa Corintyos, grecolatino. Desciende de Suntaris: el alma. |
+| Lumarya | Suroeste, centro espiritual de la rebelión | Casa Corintyos, grecolatino. Desciende de Suntaris: el alma. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
-| Zefyria | Planicies del sur, vientos | Solaris casa noble. Casa Zephyrion, grecolatino. Desciende de Suntaris: el arte. |
+| Zefirya | Planicies del sur, vientos | Solaris casa noble. Casa Zephyrion, grecolatino. Desciende de Suntaris: el arte. |
 | Vesperia | Único puerto accesible de Dragma | Casa Tuomi, finés. FOO. |
 | Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, céltico-nórdico. FOO. |
-| Elyria | Costa del Verano, flota astriana | Casa Valerius, grecolatino. Desciende de Suntaris: la sangre marinera. |
+| Elarya | Costa del Verano, flota astriana | Casa Valerius, grecolatino. Desciende de Suntaris: la sangre marinera. |
 | Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
 | Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. FOO. |
 
@@ -103,9 +103,9 @@ Tres reinos del Verano descienden directamente de la destruida ciudad libre de S
 
 | Reino | Herencia | Título |
 |-------|----------|--------|
-| Lumyria | El alma: mística Solaris, custodia de la Triple Corona | Alba |
-| Zefyria | El arte: Casa Solaris sin corona, técnica del viento de Lorian | Viento |
-| Elyria | La sangre: pescadores y marinos originales de Suntaris | Tridente |
+| Lumarya | El alma: mística Solaris, custodia de la Triple Corona | Alba |
+| Zefirya | El arte: Casa Solaris sin corona, técnica del viento de Lorian | Viento |
+| Elarya | La sangre: pescadores y marinos originales de Suntaris | Tridente |
 
 ---
 
@@ -115,7 +115,7 @@ Tres reinos del Verano descienden directamente de la destruida ciudad libre de S
 - **Triple Corona de Suntaris:** detonante de la rebelión.
 - 45 años después de la destrucción de Suntaris estalló la rebelión de los 8 reinos contra Grimar.
 - **Edicto del Amanecer:** escrito por Lorian Solaris, respuesta al Raikim. Fundamento del Imperio de Dragma.
-- Solaris hoy es casa noble en Zefyria, sin corona.
+- Solaris hoy es casa noble en Zefirya, sin corona.
 - 17 Raiks gobernaron Valgard: primero Rudgar, último Grimar (Grimar de Piedra).
 
 ---

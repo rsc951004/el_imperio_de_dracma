@@ -1,11 +1,11 @@
 # Helio Ventys
 
 ## Identidad
-Rey consorte de **Lumyria**. Originario de **Zefyria** (Casa Ventys).
+Rey consorte de **Lumarya**. Originario de **Zefirya** (Casa Ventys).
 
-- **Reino actual:** Lumyria (rey consorte).
-- **Reino de origen:** Zefyria (planicies del sur).
+- **Reino actual:** Lumarya (rey consorte).
+- **Reino de origen:** Zefirya (planicies del sur).
 - **Cultura:** Grecolatina.
 
 ## Relaciones
-- **Octavia Corintyos:** esposa. Reina gobernante de Lumyria.
+- **Octavia Corintyos:** esposa. Reina gobernante de Lumarya.
