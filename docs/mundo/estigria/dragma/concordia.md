@@ -31,6 +31,25 @@ Todo habitante del imperio pertenece a una Casa, por nacimiento o por adhesión 
 
 Los títulos de estamento son transitorios pero no volátiles: una Casa Común puede ascender a Noble y una Noble puede caer a Común, pero el cambio no es inmediato ni arbitrario. Requiere tiempo, mérito acumulado o desgracia probada. La gestión de estos cambios corresponde a la **Dex Tábura** en Kalos.
 
+#### III bis. Casa Gobernante y Familia Gobernante
+
+Dentro de toda Casa Gobernante —imperial o real— la Concordia distingue dos niveles:
+
+**Casa Gobernante:** todos los miembros de la Casa nombrada como imperial o real. Sin importar dónde vivan, qué cargo tengan o qué hagan. La membresía de Casa es estructural, no situacional.
+
+**Familia Gobernante:** un subconjunto restringido dentro de la Casa. Solo pertenecen a la Familia:
+
+- El monarca (Emperador o Rey/Reina).
+- Sus padres.
+- Sus hermanos y hermanas.
+- Su cónyuge (título de Consorte).
+- Sus hijos.
+- Sus nietos.
+
+**Límite: los nietos.** Ni bisnietos, ni tíos, ni primos del monarca son Familia Gobernante, aunque sigan siendo miembros de la Casa.
+
+Esta distinción tiene efectos directos sobre la sucesión (Art. VII).
+
 ### IV. Cambios de Casa
 
 **Cambios donde la Casa de destino no puede negarse:**
@@ -63,20 +82,52 @@ Todos los ciudadanos tienen libre tránsito entre los 12 Reinos. Las ciudades li
 Los cargos de Rey o Reina son hereditarios y accesibles tanto para hombres como para mujeres.
 
 ### VII. Sucesión imperial y real
-El Emperador o Rey debe presentar su candidato a heredero ante la **Dex Tábura**, cuyos espías e inspectores investigan al candidato y emiten su venia. Una vez aprobado, asciende a Príncipe Imperial Coronado (heredero al trono imperial) o Príncipe Coronado (heredero a un trono real), distinguiéndose así de sus hermanos, que también son príncipes pero no herederos.
+
+#### VII.1 Principios generales
+
+La sucesión imperial y real no distingue entre hombres y mujeres. Hombres y mujeres heredan por igual.
+
+El trono pertenece **exclusivamente al descendiente aprobado** por la Dex Tábura. No es compartido ni extendido en plenitud a nadie más. El cónyuge del monarca recibe el título de **Consorte** (Emperador Consorte, Emperatriz Consorte, Rey Consorte, Reina Consorte): un título ceremonial que no gobierna, no hereda y no sucede. Si el monarca muere sin heredero aprobado, el Consorte no asume el trono.
+
+#### VII.2 Orden de postulación
+
+El monarca postula candidatos a heredero en el siguiente orden, dentro de su **Familia Gobernante** (Art. III bis):
+
+1. **Descendiente mayor** (primogénito). No es obligatorio, pero es **lo preferente**. El monarca puede saltarlo con causa justificada.
+2. **Siguientes descendientes** en orden de edad (hijos, luego nietos).
+3. **Hermanos y hermanas** del monarca.
+
+**Excluidos del pool de candidatos** dentro de la Familia:
+
+| Miembro | Razón |
+|---------|-------|
+| Cónyuge | Pertenece a la Familia como Consorte, pero no es parte de la dinastía por nacimiento. |
+| Padre/Madre monarca anterior | Está muerto/a o ya renunció al trono. Si no, seguiría siendo el gobernante. |
+| Padre/Madre Consorte | No nació en la dinastía, o nació en ella pero conserva título de Consorte. |
+
+#### VII.3 Evaluación
+
+Cada candidato postulado es investigado por los espías e inspectores de la **Dex Tábura**. Los resultados posibles:
+
+- **Aprobado:** recibe el título de **Príncipe Imperial Coronado** (heredero al trono imperial) o **Príncipe Coronado** (heredero a un trono real), distinguiéndose así de sus hermanos, que también son príncipes pero no herederos.
+- **Rechazado:** se pasa al siguiente candidato.
+- **Renuncia:** el candidato declina formalmente. Se pasa al siguiente.
+
+#### VII.4 Agotada la Familia Gobernante
+
+Si todos los miembros de la Familia fueron postulados y no hay heredero aprobado (todos rechazados o renunciaron), el monarca puede:
+
+1. **Declarar quiebre de dinastía:** el trono va al Gran Syndrion (Art. VIII bis).
+2. **Postular a un candidato del resto de la Casa Gobernante:** la Dex Tábura evalúa. Si es aprobado, se convierte en Príncipe Coronado. Si es rechazado, se prueba con otro.
+
+Si también se agota el resto de la Casa Gobernante (todos rechazados o renuncian), se declara **quiebre de dinastía**.
 
 ### VIII. El Gran Syndrion de Dracma
 El Gran Syndrion fue ampliado para incluir a nobles y comunes, aunque sin la presencia de los reyes. Su función quedó limitada a reunirse cuando sea convocado para un cambio de dinastía, tanto imperial como real.
 
 ### VIII bis. Quiebre de dinastía
 
-El cambio de dinastía imperial o real ocurre por **quiebre de dinastía** cuando el monarca no puede proponer un sucesor digno del trono. Tres causas:
-
-1. **Sin hijos:** el monarca no tiene descendencia.
-2. **Hijos no aprobados:** tiene hijos, pero ninguno ha recibido la venia de la Dex Tábura como Príncipe Coronado.
-3. **Herederos abdicados o renuentes:** todos los hijos fueron aprobados como Príncipes Coronados, pero todos han abdicado del título o han rehusado asumirlo.
-
-En cualquiera de estos casos, la Dex Tábura pregunta al monarca si desea postular a un **pariente de sangre** fuera de sus hijos directos. Si el monarca se niega a postular, o si el pariente postulado no es considerado digno por la Dex Tábura, se declara formalmente el **quiebre de la dinastía**.
+El cambio de dinastía imperial o real ocurre por **quiebre de dinastía** cuando se han agotado todos los candidatos viables según el Art. VII.
 
 Declarado el quiebre, queda vacante el «pequeño trono» —el asiento del Príncipe Coronado— y la Dex Tábura convoca al **Gran Syndrion**. El Syndrion se compone de todos los jefes de casas nobles y comunes, supervisados por los revisores de la Dex Tábura. Ni los reyes ni el emperador participan en las deliberaciones ni en la votación.
 
@@ -84,9 +135,61 @@ Cualquier casa del imperio —noble o común, pero no una casa real actualmente 
 
 La casa que cesa en su función imperial o real **vuelve a su estatus anterior** al ascenso.
 
-### IX. Creación de nuevas Casas
+### IX. Creación de nuevas Casas y jefaturas
+
+#### IX.1 Creación de Casas
 
 La Dex Tábura puede aprobar la creación de nuevas casas —comunes o nobles— a petición del interesado o de un tercero que lo postule. La decisión se basa en los argumentos y hechos presentados. Una vez establecida, la nueva casa queda sujeta a todas las reglas de movilidad de la Concordia y todos sus descendientes pertenecen a ella.
+
+#### IX.2 Jefaturas de Casas Nobles y Comunes
+
+El **jefe de casa** es una sola persona. Su cónyuge es Consorte del título de la casa, sin autoridad de gobierno interno.
+
+Cada Casa —noble o común— debe tener registrado ante la Dex Tábura, de forma **explícita y detallada**, su método de sucesión para la jefatura. El reglamento queda archivado como parte del acta fundacional de la Casa. El método de sucesión lo define cada casa según sus propias reglas:
+
+- **Consejo interno:** los miembros de la casa eligen al sucesor.
+- **Herencia sanguínea:** pasa de padres a hijos según las normas internas de la casa.
+
+La Dex Tábura **no aprueba ni rechaza** al nuevo jefe de una Casa noble o común. No otorga venia. La sucesión se resuelve internamente.
+
+Sin embargo, la Dex Tábura **sí interviene si el reglamento registrado no se respeta**. Cualquier persona de la Casa puede presentar una reclamación. Si la Dex Tábura determina que hubo violación del reglamento, **invalida la sucesión** y ordena repetirla conforme a lo registrado.
+
+### X. Separación institucional y prohibición de uniones
+
+#### X.1 Separación de coronas
+
+La institución imperial y las instituciones reales son **separadas por ley**. Ninguna persona puede ostentar simultáneamente:
+
+- La corona imperial y una corona real.
+- Dos o más coronas reales.
+
+Si un Emperador hereda o reclama un trono real, debe abdicar uno de los dos. Si un Rey hereda o reclama otro trono real, debe abdicar uno de los dos. No hay excepción por matrimonio, herencia ni conquista.
+
+#### X.2 Matrimonios prohibidos a nivel monarca
+
+Quedan prohibidas las uniones matrimoniales entre:
+
+- El Emperador y cualquier Rey o Reina en ejercicio.
+- Un Rey o Reina y otro Rey o Reina de distinto reino en ejercicio.
+
+#### X.3 Matrimonios restringidos a nivel Familia Gobernante
+
+Ningún miembro de la **Familia Imperial** puede contraer matrimonio con un miembro de otra **Familia Imperial o Real** sin:
+
+1. **Renunciar explícitamente** ante la Dex Tábura a su posición en la línea sucesoria y a cualquier derecho derivado de ella.
+2. **Solicitar y obtener el permiso** de la Dex Tábura.
+
+La misma restricción aplica entre **Familias Reales** de distintos reinos.
+
+La renuncia ante la Dex Tábura es **irreversible**. Quien renuncia pierde el estatus de Familia Gobernante y pasa automáticamente al resto de la Casa. Deja de ser candidato a heredero por el Art. VII. Por esta razón, estas uniones son **altamente desaconsejadas** y en la práctica extremadamente raras.
+
+#### X.4 Integridad territorial
+
+Los 12 Reinos son entidades territoriales fijas e indivisibles bajo el pacto imperial. Queda prohibida la fusión de reinos por cualquier medio: tratado, matrimonio, herencia o conquista.
+
+#### X.5 Cambios estructurales
+
+Cualquier intento de modificar la estructura territorial o institucional del imperio —fusiones, particiones, alteración del número de reinos o protectorados— **fuera del Gran Syndrion** se castiga con **pena de muerte** para todos los implicados directos.
 
 ## Legado
 La Concordia transformó Dragma de una imposición forjada en la guerra a un pacto entre iguales. Por su autoría, Vilem Mormund es recordado como el Padre del Imperio.
