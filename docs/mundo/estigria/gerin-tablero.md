@@ -12,10 +12,10 @@ A3    Fl  Fl  Fl │ Fl  Fl  Fl │ ≈≈  Pen ≈≈  │  Sd   Sd*  Sd  │ M
 ──────┼──────────┼───────────┼──────────────┼─────┬───────────┼─────────────
 B1    St  St  St │ Sk  Sk  Sk │ Wf  Wf  Wf  │ Est  Est  Est   │ Mod  Mod  Mod
 B2    St  St* St │ Sk  Sk* Sk │ Wf  Wf* Wf  │ Est  Est  Est   │ Mod  Mod  Mod
-B3    St  St  St │ Sk  Sk  Sk │ Wf  Wf  Wf  │ Est  Est  Est   │ Mod  Mod  Mod
+B3    St  St  St │ Sk  Sk  Sk │ Wf  Eld  Dr▲ │ Est  Est  Est   │ Mod  Mod  Mod
 ──────┼──────────┼───────────┼──────────────┼─────────────────┼─────────────
-C1    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Au  Au  │ Est  Est  Est   │ Mod  Mod  Mod
-C2    Lm  Lm* Lm │ Vs  Vs* Vs │ Au  Au* Au  │ Est  Est  Est   │ Mod  Mod  Mod
+C1    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Eld  Eld │ Est  Est  Est   │ Mod  Mod  Mod
+C2    Lm  Lm* Lm │ Vs  Vs* Vs │ Eld▼ Eld Eld │ Est  Est  Est   │ Mod  Mod  Mod
 C3    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Au  Au  │ Est  Est  Est   │ Mod  Mod  Mod
 ──────┼──────────┼───────────┼──────────────┼─────────────────┼─────────────
 D1    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Yl  │ Est  Est  Est   │ Mod  Mod  Mod
@@ -29,6 +29,9 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | `★` | Protectorado / ciudad libre |
 | `Es` | Esteria (ciudad fortaleza en el Foso) |
 | `Ka` | Kalos (ciudadela circular al sureste) |
+| `Dr▲` | Monte Dracma / Palacio Imperial (tallado en la roca de Estomur) |
+| `Eld` | Eldengaria (capital imperial, distrito urbano) |
+| `Eld▼` | Eldengard original — Ciudad de los Reyes (ruinas Val, hoy barrio histórico) |
 | `≈≈` | Mar interior / fiordo del norte |
 | `Pen` | Península septentrional |
 | `--` | Fuera de cuadrícula / sin asignar |
@@ -140,7 +143,7 @@ Bloque: filas B1-B3, columnas 1a-1c. Costa occidental. Fiordos, acantilados, tor
 
 ### Waffengard [Wf] — Valle de Hierro
 
-Bloque: filas B1-B3, columnas 3a-3c.
+Bloque: filas B1-B3, columnas 3a-3c (parcial). Cedió B3-3b a Eldengaria y B3-3c al Monte Dracma.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
@@ -150,9 +153,7 @@ Bloque: filas B1-B3, columnas 3a-3c.
 | B2-3a | O | Waffenstein | Fortín occidental |
 | B2-3b | * | Waffengard | Capital (fortaleza del Acero) |
 | B2-3c | E | Waffenfeld | Campo oriental |
-| B3-3a | SO | Waffenfurt | Vado del suroeste |
-| B3-3b | S | Waffental | Valle sur |
-| B3-3c | SE | Waffenburg | Bastión del sureste |
+| B3-3a | SO | Waffenfurt | Vado del suroeste (linde con Eldengaria) |
 
 ### Lumyria [Lm] — Costas del Verano
 
@@ -243,18 +244,13 @@ Bloque: filas C1-C3, columnas 2a-2c.
 
 ### Aurelia [Au] — FOO
 
-Bloque: filas C1-C3, columnas 3a-3c.
+Bloque reducido: cedió 5 celdas a Eldengaria. Capital desplazada al sur.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
-| C1-3a | NO | Aurelheim | Aldea del noroeste |
-| C1-3b | N | Aurelvik | Cala norte |
-| C1-3c | NE | Aureldal | Valle del noreste |
-| C2-3a | O | Aurelborg | Castillo occidental |
-| C2-3b | * | Aurelia | Capital (ciudad del Oro) |
-| C2-3c | E | Aurellund | Bosque oriental |
+| C1-3a | N | Aurelheim | Aldea norte (linde con Eldengaria) |
 | C3-3a | SO | Aurelfjord | Fiordo del suroeste |
-| C3-3b | S | Aurelgard | Fuerte sur |
+| C3-3b | * | Aurelia | Capital (ciudad del Oro) |
 | C3-3c | SE | Aurelholm | Islote del sureste |
 
 ### Ylvaria [Yl] — FOO
@@ -315,6 +311,24 @@ Bloque: filas A1-A3, columnas 5a-5b (parcial). Al otro lado del Foso.
 | D3-3c | Ka★ | Kalos | Ciudadela circular sobre acantilado al sur |
 
 > Esteria y Kalos son Ciudades Libres de la Tiranía y protectorados del Imperio. Ocupan una celda cada una, no un bloque 3×3. Esteria custodia el Foso al norte (linde con Veleskaria); Kalos vigila el Paso del Bramo al sureste (linde con Ylvaria).
+
+### Eldengaria [Eld] — Capital imperial
+
+Bloque: celdas dispersas entre Waffengard, Aurelia y Estomur.
+
+| Coord | Pos | Nombre | Tipo |
+|-------|-----|--------|------|
+| B3-3c | Dr▲ | Monte Dracma / Palacio Imperial | Promontorio sagrado de Estomur. Palacio tallado en la cara expuesta de la roca. Residencia de la dinastía imperial |
+| B3-3b | N | Eldengaria Norte | Distrito alto. Barrios nobles, cuarteles |
+| C1-3b | O | Eldengaria Central | Corazón administrativo. Táburas, gremios, mercados mayores |
+| C1-3c | E | Ladera de Dracma | Ciudad en cascada. Callejuelas, escalinatas, templos excavados |
+| C2-3b | SO | Eldengaria Baja | Barrios populares, talleres, puerto fluvial |
+| C2-3c | SE | Pies del Dracma | Fundiciones, canteras, muralla baja |
+| C2-3a | Eld▼ | Eldengard original | Ciudad de los Reyes. Ruinas de la fortaleza Val primigenia. Residencia temporal de los monarcas de Dragma cuando visitan la capital |
+
+> **Monte Dracma.** Sagrado para los antiguos Val por razones aún no reveladas. A sus pies se emplazó el primer Stamengerin. Harald Mormund fue electo emperador bajo su sombra y nombró al imperio en su honor. El Palacio Imperial está excavado en su cara oeste: interior tallado en la montaña, fachada monumental expuesta. La creencia popular dice que desde su terraza más alta se ve todo El Gerin. Físicamente imposible por curvatura, pero en boca del pueblo es verdad.
+
+> **Eldengaria original (Eld▼).** Los vestigios de la antigua Eldengard —corazón del Valgard pre-imperial— se conservan como barrio histórico envuelto por la expansión de la capital moderna. Los reyes de los 12 Reinos residen aquí cuando visitan la ciudad.
 
 ### El Modrig [Mod]
 

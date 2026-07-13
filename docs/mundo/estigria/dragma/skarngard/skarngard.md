@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Skarngard
 
+## Etimología
+El nombre deriva de **Skarn**, la serpiente alada de la diosa Gera. Es una alusión a la leyenda, no una referencia geográfica: Skarngard está en el noroeste del Gerin, lejos del Estomur. El Raikim nombró sus dominios combinando raíces mitológicas Val con el sufijo *-gard* como marca de dominio. La raíz *Skarn-* fue elegida por su peso simbólico como montura de la diosa.
+
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Hammer**
@@ -34,6 +37,8 @@ Minería de montaña y forja tradicional. Ricas vetas de Verilium en su territor
 
 ## Referencias
 - `docs/12-reinos.md`
+- `docs/entidades/gera.md`
+- `docs/mundo/estigria/estomur.md`
 
 ## Guía de nombres
 **Germánica.** Los nombres de personas y lugares de Skarngard siguen la tradición germánica.

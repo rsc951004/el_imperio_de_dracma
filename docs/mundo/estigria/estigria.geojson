@@ -173,10 +173,13 @@
       "type": "Feature",
       "properties": {
         "name": "Estomur",
-        "code": "Est",
+        "code": "Etm",
         "zone": "Cordillera",
         "culture": "—",
-        "capital": [10.5, 7.5]
+        "myth": "Cuerpo petrificado de la diosa Gera y su serpiente alada Skarn",
+        "verilium": "Fragmentos cristalizados del fuego divino de Gera",
+        "prophecy": "Espera al Gerin del Modrig",
+        "center": [10.5, 7.5]
       },
       "geometry": {
         "type": "Polygon",

@@ -35,7 +35,12 @@ D  Zefyria        Elyria          Ylvaria         Estomur         El Modrig
 - **Esteria:** ciudad fortaleza al borde del Foso, noreste, fuera de la cuadrícula principal.
 - **Kalos:** ciudadela amurallada al sureste, cerca de Ylvaria y Veleskaria.
 
+## Etimología
+
+El nombre «Gerin» deriva de **Gera**, la diosa primigenia del pueblo Val. Según su mito fundacional, esta mitad del continente es la tierra bendecida por el sacrificio de la diosa: el lado donde la civilización pudo florecer tras la purga de las bestias. Los eruditos imperiales aceptan mayoritariamente esta etimología, aunque discrepan sobre si Gera existió realmente o si el mito se construyó después para explicar el nombre.
+
 ## Referencias
+- `docs/entidades/gera.md`
 - `docs/mundo/estigria/estomur.md`
 - `docs/mundo/estigria/modrig.md`
 - `docs/mundo/estigria/dragma/esteria/esteria.md`
