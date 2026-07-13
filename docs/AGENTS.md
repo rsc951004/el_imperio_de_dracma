@@ -55,4 +55,23 @@ Todo lo que aquí se documenta es lore canónico y vinculante para cualquier cue
 
 ---
 
+## Guía de nombres
+
+Cada reino o bloque cultural toma **una cultura real como fuente de inspiración** para sus nombres de personas y casas. La regla es:
+
+- La cultura real da la **sonoridad y la raíz etimológica** (germánica, grecolatina, eslava, céltico-nórdica).
+- Se alteran letras, sílabas o grafías para que los nombres **no coincidan con nombres reales de personas del mundo real**.
+- Son ecos, no copias.
+
+Ejemplos:
+
+| Inspiración | Nombre real | Nombre del mundo |
+|------------|-------------|-----------------|
+| Latín | Celestia / Celeste | **Celestya** |
+| Latín | Julio / Julius | **Yulio** |
+| Germánico | Peter | **Pyeter** |
+| Hebreo | Jonás / Jonas | **Yonas** |
+
+---
+
 _Versión: 1.0.0 | La verdad del universo está aquí_

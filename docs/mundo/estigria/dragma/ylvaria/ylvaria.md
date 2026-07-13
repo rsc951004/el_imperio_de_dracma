@@ -35,4 +35,4 @@ Explotación forestal sostenible. Cultura Ylum y tradiciones ancestrales.
 ## Guía de nombres
 **Gaélica-vasca.** Los nombres de personas y lugares de Ylvaria siguen la tradición gaélica y vasca.
 
-Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).
+Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro). Ver la Guía de nombres en `docs/AGENTS.md`.

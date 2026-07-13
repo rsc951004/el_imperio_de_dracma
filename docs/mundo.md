@@ -14,20 +14,20 @@ mundo/
     └── dragma/
         ├── kalos/
         │   └── kalos.md
-        ├── stalgard/
-        │   └── stalgard.md
+        ├── waffengard/
+        │   └── waffengard.md
         ├── skarngard/
         │   └── skarngard.md
-        ├── brenngard/
-        │   └── brenngard.md
+        ├── flamengard/
+        │   └── flamengard.md
         ├── sturmgard/
         │   └── sturmgard.md
-        ├── lumaria/
-        │   └── lumaria.md
+        ├── lumyria/
+        │   └── lumyria.md
         ├── veleskaria/
         │   └── veleskaria.md
-        ├── zefiria/
-        │   └── zefiria.md
+        ├── zefyria/
+        │   └── zefyria.md
         ├── vesperia/
         │   └── vesperia.md
         ├── aurelia/
@@ -86,28 +86,34 @@ mundo/
 
 #### Los 12 Reinos
 
-| # | Reino | Bloque | Casa | Título | Gobernante ★ | Ficha |
-|---|-------|--------|------|-------|-------------|-------|
+| # | Reino | Zona | Casa | Título | Gobernante ★ | Ficha |
+|---|-------|------|------|-------|-------------|-------|
 | 1 | Waffengard | Hierro | Meister | Rey/Reina del Acero | Rey Jorgen Meister | [Ver ficha](mundo/estigria/dragma/waffengard/waffengard.md) |
 | 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo | Rey Yuter Hammer | [Ver ficha](mundo/estigria/dragma/skarngard/skarngard.md) |
 | 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama | Rey Kaspar Wolfen | [Ver ficha](mundo/estigria/dragma/flamengard/flamengard.md) |
 | 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta | Rey Jorin Reisner | [Ver ficha](mundo/estigria/dragma/sturmgard/sturmgard.md) |
-| 5 | Lumaria | Amanecer | Maimon | Rey/Reina del Alba | Reina Ezria Maimon | [Ver ficha](mundo/estigria/dragma/lumaria/lumaria.md) |
-| 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
-| 7 | Zefiria | Amanecer | Aurelian | Rey/Reina del Viento | Reina Celestia Aurelian | [Ver ficha](mundo/estigria/dragma/zefiria/zefiria.md) |
-| 8 | Vesperia | Amanecer | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/vesperia/vesperia.md) |
-| 9 | Aurelia | Amanecer | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
-| 10 | Elyria | Amanecer | Stamatis | Rey/Reina del Tridente | Reina Alexandra Stamatis | [Ver ficha](mundo/estigria/dragma/elyria/elyria.md) |
-| 11 | Sindria | Amanecer | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
-| 12 | Ylvaria | Amanecer | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
+| 5 | Lumyria | Verano | Corintyos | Rey/Reina del Alba | Reina Octavia Corintyos | [Ver ficha](mundo/estigria/dragma/lumyria/lumyria.md) |
+| 6 | Veleskaria | Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
+| 7 | Zefyria | Verano | Zephyrion | Rey/Reina del Viento | Rey Cassius Zephyrion | [Ver ficha](mundo/estigria/dragma/zefyria/zefyria.md) |
+| 8 | Vesperia | Valle | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/vesperia/vesperia.md) |
+| 9 | Aurelia | Valle | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
+| 10 | Elyria | Verano | Valerius | Rey/Reina del Tridente | Rey Marcus Valerius | [Ver ficha](mundo/estigria/dragma/elyria/elyria.md) |
+| 11 | Sindria | Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
+| 12 | Ylvaria | Valle | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
 
 ★ = gobernante reinante
 
-**Bloque del Hierro** (1-4): núcleo leal al Raikim, nunca se rebelaron. Conservan el sufijo -gard.
+**Reinos de Hierro** (1-4): germánicos, fríos, marciales. Núcleo leal al Raikim, nunca se rebelaron. Conservan el sufijo -gard.
 
-**Bloque del Amanecer** (5-12): Reinos Rebeldes que se alzaron contra Grimar Valgard. Abandonaron el sufijo -gard al declarar la rebelión.
+**Reinos del Verano** (5, 7, 10): grecolatinos, cálidos, costeros. Descienden directamente de Suntaris. Lideraron la rebelión espiritual y artística.
 
-Tres reinos del Verano descienden directamente de Suntaris: **Lumaria** (el alma — mística Solaris), **Zefiria** (el arte — Casa Solaris y técnica de Lorian), **Elyria** (la sangre — marinos originales de Suntaris).
+**Reinos Orientales** (6, 11): eslavos. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
+
+**Reinos del Valle** (8, 9, 12): céltico-nórdicos. Único puerto imperial en Vesperia, tierras fértiles en Aurelia, bosques antiguos en Ylvaria.
+
+En la Rebelión del Amanecer, los Reinos de Hierro formaron el **Bloque de Hierro** (leales a Grimar Valgard). Los Reinos del Verano, Orientales y del Valle formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
+
+Tres reinos del Verano descienden directamente de Suntaris: **Lumyria** (el alma — mística Solaris y Triple Corona), **Zefyria** (el arte — Casa Solaris sin corona y técnica de Lorian), **Elyria** (la sangre — marinos originales de Suntaris).
 
 #### Capital imperial
 
@@ -122,7 +128,7 @@ Tres reinos del Verano descienden directamente de Suntaris: **Lumaria** (el alma
 | 1 | Kalos | Ciudadela | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. Conocida como la Ciudadela de Kalos. | [Ver ficha](mundo/estigria/dragma/kalos/kalos.md) |
 | 2 | Esteria | Ciudad fortaleza | Ciudad fundada al borde del Foso de la Calamidad para contener la oscuridad del este. Anterior al Raikim. Sindria reclama su territorio. Conocida como Ciudad Esteria. | [Ver ficha](mundo/estigria/dragma/esteria/esteria.md) |
 | 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/estigria/dragma/ishbaal/ishbaal.md) |
-| 4 | Alesya | Isla | Isla al suroeste. Alberga la Fortaleza del Sol, antigua residencia secundaria de los reyes del Verano. Territorio sagrado para los descendientes de Suntaris. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
+| 4 | Alesya | Isla | Isla al suroeste. Alberga la Fortaleza del Sol, antigua residencia secundaria de los reyes del Verano. Territorio sagrado para los descendientes de Suntaris. Llamada el cuarto reino del Verano, aunque no es un reino ni está en las costas continentales. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
 | 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por el navegante elyrio Artemis en la Edad de los Mil Reinos. Conocida como Delfos la Solitaria. | [Ver ficha](mundo/estigria/dragma/delfos/delfos.md) |
 
 > Los protectorados son estados semi-soberanos bajo protección directa del emperador. No tienen rey ni pertenecen a ninguno de los 12 Reinos. Se gobiernan a sí mismos dentro de los límites del pacto imperial.

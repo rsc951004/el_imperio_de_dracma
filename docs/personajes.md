@@ -37,7 +37,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 ## Monarcas de los 12 Reinos
 
-| Nombre | Rol | Reino (bloque) | Ficha |
+| Nombre | Rol | Reino (zona) | Ficha |
 |--------|-----|----------------|-------|
 | Jorgen Meister | Rey gobernante | Waffengard (Hierro) | [Ver ficha](personajes/monarcas/jorgen-meister.md) |
 | Alessa Meister | Reina consorte | Waffengard ← Skarngard (Hierro) | [Ver ficha](personajes/monarcas/alessa-meister.md) |
@@ -47,22 +47,22 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Marlo Falken | Rey consorte | Flamengard ← Sturmgard (Hierro) | [Ver ficha](personajes/monarcas/marlo-falken.md) |
 | Jorin Reisner | Rey gobernante | Sturmgard (Hierro) | [Ver ficha](personajes/monarcas/jorin-reisner.md) |
 | Sabina Jaeger | Reina consorte | Sturmgard ← Waffengard (Hierro) | [Ver ficha](personajes/monarcas/sabina-jaeger.md) |
-| Ezria Maimon | Reina gobernante | Lumaria (Amanecer) | [Ver ficha](personajes/monarcas/ezria-maimon.md) |
-| Gaizka Darerca | Rey consorte | Lumaria ← Ylvaria (Amanecer) | [Ver ficha](personajes/monarcas/gaizka-darerca.md) |
-| Ileana Enescu | Reina gobernante | Veleskaria (Amanecer) | [Ver ficha](personajes/monarcas/ileana-enescu.md) |
-| Yelena Gorski | Reina consorte | Veleskaria ← Sindria (Amanecer) | [Ver ficha](personajes/monarcas/yelena-gorski.md) |
-| Celestia Aurelian | Reina gobernante | Zefiria (Amanecer) | [Ver ficha](personajes/monarcas/celestia-aurelian.md) |
-| Octavius Valerios | Rey consorte | Zefiria (Verano, mismo reino) | [Ver ficha](personajes/monarcas/octavius-valerios.md) |
-| Eero Tuomi | Rey gobernante | Vesperia (Amanecer) | [Ver ficha](personajes/monarcas/eero-tuomi.md) |
-| Tavros Andreidis | Rey consorte | Vesperia ← Elyria (Amanecer) | [Ver ficha](personajes/monarcas/stavros-andreidis.md) |
-| Valerius Umbra | Rey gobernante | Aurelia (Amanecer) | [Ver ficha](personajes/monarcas/valerius-umbra.md) |
-| Taria Eskola | Reina consorte | Aurelia ← Vesperia (Amanecer) | [Ver ficha](personajes/monarcas/taria-eskola.md) |
-| Alexandra Stamatis | Reina gobernante | Elyria (Amanecer) | [Ver ficha](personajes/monarcas/alexandra-stamatis.md) |
-| Gideon Azriel | Rey consorte | Elyria ← Lumaria (Amanecer) | [Ver ficha](personajes/monarcas/gideon-azriel.md) |
-| Uriel Goros | Rey gobernante | Sindria (Amanecer) | [Ver ficha](personajes/monarcas/uriel-goros.md) |
-| Ecaterina Cojocaru | Reina consorte | Sindria ← Veleskaria (Amanecer) | [Ver ficha](personajes/monarcas/ecaterina-cojocaru.md) |
-| Dreide Gorio | Reina gobernante | Ylvaria (Amanecer) | [Ver ficha](personajes/monarcas/dreide-gorio.md) |
-| Titia Corvus | Reina consorte | Ylvaria ← Aurelia (Amanecer) | [Ver ficha](personajes/monarcas/titia-corvus.md) |
+| Octavia Corintyos | Reina gobernante | Lumyria (Verano) | [Ver ficha](personajes/monarcas/octavia-corintyos.md) |
+| Helio Ventys | Rey consorte | Lumyria ← Zefyria (Verano) | [Ver ficha](personajes/monarcas/helio-ventys.md) |
+| Ileana Enescu | Reina gobernante | Veleskaria (Oriente) | [Ver ficha](personajes/monarcas/ileana-enescu.md) |
+| Yelena Gorski | Reina consorte | Veleskaria ← Sindria (Oriente) | [Ver ficha](personajes/monarcas/yelena-gorski.md) |
+| Cassius Zephyrion | Rey gobernante | Zefyria (Verano) | [Ver ficha](personajes/monarcas/cassius-zephyrion.md) |
+| Celestya Drusio | Reina consorte | Zefyria ← Elyria (Verano) | [Ver ficha](personajes/monarcas/celestya-drusio.md) |
+| Eero Tuomi | Rey gobernante | Vesperia (Valle) | [Ver ficha](personajes/monarcas/eero-tuomi.md) |
+| Tavros Andreidis | Rey consorte | Vesperia ← Elyria (Valle) | [Ver ficha](personajes/monarcas/stavros-andreidis.md) |
+| Valerius Umbra | Rey gobernante | Aurelia (Valle) | [Ver ficha](personajes/monarcas/valerius-umbra.md) |
+| Taria Eskola | Reina consorte | Aurelia ← Vesperia (Valle) | [Ver ficha](personajes/monarcas/taria-eskola.md) |
+| Marcus Valerius | Rey gobernante | Elyria (Verano) | [Ver ficha](personajes/monarcas/marcus-valerius.md) |
+| Nerysa Undavos | Reina consorte | Elyria ← Alesya (Verano) | [Ver ficha](personajes/monarcas/nerysa-undavos.md) |
+| Uriel Goros | Rey gobernante | Sindria (Oriente) | [Ver ficha](personajes/monarcas/uriel-goros.md) |
+| Ecaterina Cojocaru | Reina consorte | Sindria ← Veleskaria (Oriente) | [Ver ficha](personajes/monarcas/ecaterina-cojocaru.md) |
+| Dreide Gorio | Reina gobernante | Ylvaria (Valle) | [Ver ficha](personajes/monarcas/dreide-gorio.md) |
+| Titia Corvus | Reina consorte | Ylvaria ← Aurelia (Valle) | [Ver ficha](personajes/monarcas/titia-corvus.md) |
 
 ## Emperadores de Dragma
 
