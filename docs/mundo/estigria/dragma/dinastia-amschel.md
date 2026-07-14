@@ -4,7 +4,7 @@
 Dinastía imperial. Segunda casa en ocupar el trono de Dragma.
 
 ## Origen
-Casa noble de **Lumaria**, reino del Alba, centro espiritual de la rebelión del Edicto del Amanecer y heredero del alma de Suntaris. La Casa Amschel era una casa noble de Lumaria, distinta de la casa real Maimon que hoy gobierna Lumaria. Preexistía desde la Edad de los Mil Reinos.
+Casa noble de **Lumarya**, reino del Alba, centro espiritual de la rebelión del Edicto del Amanecer y heredero del alma de Suntaris. La Casa Amschel era una casa noble de Lumarya, distinta de la casa real Maimon que hoy gobierna Lumarya. Preexistía desde la Edad de los Mil Reinos.
 
 ## Ascenso al trono
 Electa por el Stamengerin tras el **quiebre de la dinastía Mormund**. Aldric Mormund, 17.º y último emperador de su casa, nunca se casó. Cuando la Dex Tábura le preguntó si deseaba postular a un pariente de sangre para heredar el trono, se negó. Quiso que su casa y su linaje dejaran de estar a cargo de la corona imperial.
