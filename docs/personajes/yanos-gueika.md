@@ -1,7 +1,7 @@
 # Yanos Gueika
 
 ## Identidad
-Soldado y guardia de la Ciudadela de Kalos. Pertenece a la Casa Gueika, una casa común originaria del reino de **Bjorn**, en la Tierra del Oriente. Su padre era brumense, su madre sturmgardiana: una mezcla inusual en Dragma, donde los matrimonios entre la Gente de la Bruma y el Valle de Hierro son extremadamente raros. **No es portador**, ni él ni su familia.
+Soldado y guardia de la Ciudadela de Kalos. Pertenece a la Casa Gueika, una casa común originaria del reino de **Bjorn**, en la Tierra de la Bruma. Su padre era brumense, su madre sturmgardiana: una mezcla inusual en Dragma, donde los matrimonios entre la Gente de la Bruma y el Valle de Hierro son extremadamente raros. **No es portador**, ni él ni su familia.
 
 Al alcanzar la mayoría de edad, eligió pertenecer a la casa de su padre en lugar de la de su madre. En Dragma, un ciudadano puede elegir a cuál casa adscribirse si sus padres pertenecen a casas distintas.
 
@@ -16,7 +16,7 @@ Joven, contemporáneo de Sandor. De presencia sobria y práctica, sin la belleza
 - **Leal.** A su familia, a su deber, a las personas que le importan.
 
 ## Familia
-- **Kenvan Gueika** (padre): natural de Bjorn, Tierra del Oriente. Fallecido. Era guardia, igual que Yanos. Murió por enfermedad repentina un año antes de que Yanos entrara como cadete. Despreciaba profundamente a su propio padre, Hugo Gueika.
+- **Kenvan Gueika** (padre): natural de Bjorn, Tierra de la Bruma. Fallecido. Era guardia, igual que Yanos. Murió por enfermedad repentina un año antes de que Yanos entrara como cadete. Despreciaba profundamente a su propio padre, Hugo Gueika.
 - **Freya Fenec** (madre): sturmgardiana del Valle de Hierro. Viuda, mujer común, madre de ocho hijos. Su matrimonio con un brumense fue inusual —las uniones entre el Hierro y la Bruma son rarísimas—, pero Freya nunca se arrepintió. Quedó impresionada por Sandor desde la primera visita. Se ilusiona en secreto con que Sandor y su hijo formalicen algo. Sandor le dijo que no planea casarse; ella no ha dejado de preguntar por él.
 - **Siete hermanos.** Familia numerosa, cálida, ruidosa, humilde y unida.
 - **Hugo Gueika** (abuelo paterno): Yanos nunca lo conoció. Su padre lo despreciaba profundamente. El motivo no está documentado.

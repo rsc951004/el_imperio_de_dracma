@@ -13,11 +13,11 @@
 | 5 | Lysarya | Corinthyos | Costas del Verano | Rey/Reina de la Roca | ★ Reina Octavya Corinthyos | Helyo Venthyss (Zephyrya) |
 | 6 | Veleskaria | Enescu | Paso del Oriente | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
 | 7 | Zephyrya | Zephyryon | Costas del Verano | Rey/Reina del Ocaso | ★ Rey Cassyus Zephyryon | Celesthya Drussyo (Vesperya) |
-| 8 | Kyst | Fjord | Tierra del Oriente | Rey/Reina de la Costa Gris | ★ Rey Skaer Fjord | Pendiente |
-| 9 | Lyng | Korn | Tierra del Oriente | Rey/Reina del Valle | ★ Rey Ravn Korn | Pendiente |
+| 8 | Kyst | Fjord | Tierra de la Bruma | Rey/Reina de la Costa Gris | ★ Rey Skaer Fjord | Pendiente |
+| 9 | Lyng | Korn | Tierra de la Bruma | Rey/Reina del Valle | ★ Rey Ravn Korn | Pendiente |
 | 10 | Vesperya | Valeryus | Costas del Verano | Rey/Reina del Tridente | ★ Rey Marcus Valeryus | Neryssa Undavos (Alessya) |
 | 11 | Sindria | Goros | Paso del Oriente | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
-| 12 | Bjorn | Borg | Tierra del Oriente | Rey/Reina del Bosque | ★ Rey Skov Borg | Pendiente |
+| 12 | Bjorn | Borg | Tierra de la Bruma | Rey/Reina del Bosque | ★ Rey Skov Borg | Pendiente |
 
 ★ = gobernante reinante
 
@@ -37,7 +37,7 @@ Lysarya · Zephyrya · Vesperya
 Este del Gerin. Val mezclados con otras culturas. Forjados contra las bestias del Modrig. Nombres de sonoridad eslava.
 Veleskaria · Sindria
 
-### Tierra del Oriente (conservan el nombre original)
+### Tierra de la Bruma (conservan el nombre original)
 Los tres reinos del sur del Gerin. Descendientes de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** (la Costa Negra, el Modrig actual). Expulsados por el despertar del Rey Podrido, huyeron al sur por mar y cruzaron el Estomur a pie. Rechazados por los Val del centro, se asentaron en el sur, donde fundaron sus tres reinos. Los veranos los llamaron «los del oriente» por estar al este del Estrecho de la Tríada. Su inspiración cultural es nórdica (danesa).
 Kyst · Lyng · Bjorn
 
@@ -53,7 +53,7 @@ La distribución actual de consortes responde a afinidades políticas y cultural
 
 - **Valle de Hierro:** circuito cerrado Waffengard ↔ Skarngard ↔ Flamengard ↔ Sturmgard ↔ Waffengard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
 - **Costas del Verano:** circuito cerrado Lysarya ↔ Zephyrya ↔ Vesperya ↔ Lysarya. Los tres reinos del Verano intercambian consortes entre sus casas nobles. **Neryssa Undavos** es la nota singular: hija del Príncipe Guardián de Alessya, casada con Marcus Valeryus de Vesperya.
-- **Paso del Oriente y Tierra del Oriente:** intercambios internos y entre sí según conveniencia política. Kyst, Lyng y Bjorn tienen circuito matrimonial cerrado por tradición.
+- **Paso del Oriente y Tierra de la Bruma:** intercambios internos y entre sí según conveniencia política. Kyst, Lyng y Bjorn tienen circuito matrimonial cerrado por tradición.
 
 ---
 
@@ -89,9 +89,9 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Lysarya | Norte del Verano, pastoreo, puente con el Hierro | Casa Corinthyos, grecolatino. El hermano sencillo: piedad y trabajo duro. Costa de acantilados. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
 | Zephyrya | Planicies del suroeste, turismo curativo, flor del Verano | Casa Zephyryon, grecolatino. Playas hermosas y atardeceres violetas. Filosofía simple y libre. |
-| Kyst | Puerto Gris, costa pesquera, niebla perpetua | Casa Fjord, nórdico. Tierra del Oriente. Pescadería que alimenta la región. Clima gris y nublado. |
-| Lyng | Valle fértil, brezales, granero del imperio | Casa Korn, nórdico. Tierra del Oriente. Agricultura masiva. Proveedor de Eldengaria. |
-| Bjorn | Centro comercial del sur, último bosque sagrado | Casa Borg, nórdico. Tierra del Oriente. Paso obligado a Kalos. Memoria del bosque arrasado por los Val. |
+| Kyst | Puerto Gris, costa pesquera, niebla perpetua | Casa Fjord, nórdico. Tierra de la Bruma. Pescadería que alimenta la región. Clima gris y nublado. |
+| Lyng | Valle fértil, brezales, granero del imperio | Casa Korn, nórdico. Tierra de la Bruma. Agricultura masiva. Proveedor de Eldengaria. |
+| Bjorn | Centro comercial del sur, último bosque sagrado | Casa Borg, nórdico. Tierra de la Bruma. Paso obligado a Kalos. Memoria del bosque arrasado por los Val. |
 | Vesperya | Sureste del Verano, guardián del Estrecho de la Tríada | Casa Valeryus, grecolatino. Reino del desafío: hedonismo, libertad. La Tríada: tres arcos de piedra. |
 | Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
 
@@ -99,7 +99,7 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 
 ## Los tres reinos de los Gente de la Bruma
 
-Los tres reinos de la Tierra del Oriente descienden de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este del Estomur.
+Los tres reinos de la Tierra de la Bruma descienden de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este del Estomur.
 
 Nacieron en un paisaje hostil de bruma perpetua, bestias y oscuridad. Pero no lo rechazaron: lo adaptaron. Cuando despertó el **Rey Podrido** —un ser dominado por un Mobius, que mata para extinguir, no para comer—, ese equilibrio se rompió. Huyeron al sur por mar. Las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Modrig y cruzaron el Estomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gerin, pero los Val del centro los rechazaron. Se replegaron al sur y fundaron Kyst, Lyng y Bjorn.
 
@@ -144,7 +144,7 @@ Los tres reinos del Verano descienden de **Suntarys**, la gran ciudadela que los
 
 ### Lore por desarrollar
 - ✅ Reimaginación profunda de los tres reinos del Verano completada (Lysarya, Zephyrya, Vesperya)
-- ✅ Reimaginación profunda de la Tierra del Oriente completada (Kyst, Lyng, Bjorn) — Gente de la Bruma
+- ✅ Reimaginación profunda de la Tierra de la Bruma completada (Kyst, Lyng, Bjorn) — Gente de la Bruma
 - ✅ Guerra de los Hermanos canonizada (personajes, detonante, consecuencias)
 - Casas reales, monarcas y títulos de Kyst, Lyng y Bjorn
 - Nombres de capitales de Kyst, Lyng y Bjorn

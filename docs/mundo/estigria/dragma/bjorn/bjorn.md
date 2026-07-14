@@ -25,7 +25,7 @@ El título es memoria y promesa. Memoria del bosque inmenso que cubría Bjorn an
 **Bloque del Amanecer.** Reino Rebelde. A diferencia de los reinos del Verano —creados por el Raikim—, Bjorn ya existía siglos antes. Fue conquistado por el Raikim, que le impuso el sufijo -gard como marca de dominio. Con la rebelión se lo arrancó y recuperó su nombre original.
 
 ## Afiliación geográfica
-**Tierra del Oriente.** El más oriental y el más grande en extensión de los tres reinos de los Caminantes de la Bruma, al sur del Gerin. Comparte frontera terrestre con Kyst al oeste y con la cordillera Estomur al este. Kalos ocupa una península en su extremo sureste. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
+**Tierra de la Bruma.** El más oriental y el más grande en extensión de los tres reinos de los Caminantes de la Bruma, al sur del Gerin. Comparte frontera terrestre con Kyst al oeste y con la cordillera Estomur al este. Kalos ocupa una península en su extremo sureste. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
 
 ## Origen
 Bjorn es uno de los tres reinos fundados por la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este de la cordillera Estomur.
@@ -39,7 +39,7 @@ Navegaron al sur por mar hasta que las corrientes del **Cayo Negro** los bloquea
 Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos a las costas del Gerin, no pudieron entrar por el Verano, entonces conocido como la **Costa Desolada**. Siguieron al este y encontraron en los Kystvaer refugio. Los Caminantes de la Bruma ya habían luchado contra un ser dominado por un Mobius y conocían el peligro del culto. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**.
 
 ## Geografía
-Bjorn ocupa el flanco oriental de la Tierra del Oriente. Es el más extenso de los tres reinos de la Bruma. Su territorio es una franja que conecta el puerto de Kyst al oeste con los valles agrícolas de Lyng al norte, y que se estrecha hacia el sureste en una península irregular donde se asienta Kalos. Es paso obligado para todo viajero que quiera llegar a la ciudadela.
+Bjorn ocupa el flanco oriental de la Tierra de la Bruma. Es el más extenso de los tres reinos de la Bruma. Su territorio es una franja que conecta el puerto de Kyst al oeste con los valles agrícolas de Lyng al norte, y que se estrecha hacia el sureste en una península irregular donde se asienta Kalos. Es paso obligado para todo viajero que quiera llegar a la ciudadela.
 
 El bosque que dio nombre al reino —el gran bosque que la Gente de la Bruma encontró al llegar del Mørkkyst— casi no existe ya. Los Val occidentales lo talaron durante el Raikim, árbol por árbol, para construir barcos, fortalezas y máquinas de guerra. Para los brumenses fue un estupor: ellos jamás habían visto un árbol antes de pisar el Gerin. En la Costa Negra no crecía nada más alto que un arbusto raquítico. Aquellos robles y abetos eran para ellos la expresión viva de una tierra generosa, pacífica, todo lo que nunca tuvieron. Cuando los Val los cortaron, no solo destruyeron madera: destruyeron una prueba de que el mundo podía ser bueno.
 
@@ -59,7 +59,7 @@ Los bjorneses son comerciantes, no guerreros. Pero debajo del mercader que regat
 ## Gobierno
 Regido por la Casa Borg. El rey reinante es **Skov Borg ★**. Consorte pendiente.
 
-Los tres monarcas —Skaer Fjord (Kyst), Ravn Korn (Lyng) y Skov Borg (Bjorn)— son primos entre sí. El circuito matrimonial cerrado de la Tierra del Oriente mantiene los lazos de sangre entre las tres casas reinantes.
+Los tres monarcas —Skaer Fjord (Kyst), Ravn Korn (Lyng) y Skov Borg (Bjorn)— son primos entre sí. El circuito matrimonial cerrado de la Tierra de la Bruma mantiene los lazos de sangre entre las tres casas reinantes.
 
 ## Relación con Kalos
 Kalos está en territorio que históricamente perteneció a los Kystvaer. Fue cedido voluntariamente a los astrianos disidentes cuando estos llegaron perseguidos. Los bjorneses lo recuerdan con orgullo: la península no fue conquistada, fue **regalada**. Y jamás cayó.

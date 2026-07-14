@@ -95,11 +95,11 @@ mundo/
 | 5 | Lysarya | Costas del Verano | Corinthyos | Rey/Reina de la Roca | Reina Octavya Corinthyos | [Ver ficha](mundo/estigria/dragma/ylumarya/ylumarya.md) |
 | 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
 | 7 | Zephyrya | Costas del Verano | Zephyryon | Rey/Reina del Ocaso | Rey Cassyus Zephyryon | [Ver ficha](mundo/estigria/dragma/zefirya/zefirya.md) |
-| 8 | Kyst | Tierra del Oriente | Fjord | Rey/Reina de la Costa Gris | Rey Skaer Fjord | [Ver ficha](mundo/estigria/dragma/kyst/kyst.md) |
-| 9 | Lyng | Tierra del Oriente | Korn | Rey/Reina del Valle | Rey Ravn Korn | [Ver ficha](mundo/estigria/dragma/lyng/lyng.md) |
+| 8 | Kyst | Tierra de la Bruma | Fjord | Rey/Reina de la Costa Gris | Rey Skaer Fjord | [Ver ficha](mundo/estigria/dragma/kyst/kyst.md) |
+| 9 | Lyng | Tierra de la Bruma | Korn | Rey/Reina del Valle | Rey Ravn Korn | [Ver ficha](mundo/estigria/dragma/lyng/lyng.md) |
 | 10 | Vesperya | Costas del Verano | Valeryus | Rey/Reina del Tridente | Rey Marcus Valeryus | [Ver ficha](mundo/estigria/dragma/vesperya/vesperya.md) |
 | 11 | Sindria | Paso del Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
-| 12 | Bjorn | Tierra del Oriente | Borg | Rey/Reina del Bosque | Rey Skov Borg | [Ver ficha](mundo/estigria/dragma/bjorn/bjorn.md) |
+| 12 | Bjorn | Tierra de la Bruma | Borg | Rey/Reina del Bosque | Rey Skov Borg | [Ver ficha](mundo/estigria/dragma/bjorn/bjorn.md) |
 
 ★ = gobernante reinante
 
@@ -109,12 +109,12 @@ mundo/
 
 **Paso del Oriente** (6, 11): eslavos. Val mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que alcanzaban El Bramo desde El Modrig a través de los fiordos fragmentados y amenazaban cruzar el Foso de la Calamidad hacia El Gerin. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
 
-**Tierra del Oriente** (8, 9, 12): Descendientes de la **Gente de la Bruma** (Kystvaer), el pueblo que habitó la Mørkkyst (Costa Negra / Modrig) durante milenios. Expulsados por el despertar del Rey Podrido, cruzaron el Estomur a pie y fundaron Kyst, Lyng y Bjorn en el sur del Gerin. Su inspiración cultural es nórdica (danesa). Kyst es el puerto pesquero de acantilados, Lyng el valle fértil del brezo, Bjorn la fortaleza del bosque y la frontera este contra el Estomur. Los tres reinos existían antes del Raikim: fueron conquistados, no creados. Recuperaron sus nombres originales en la rebelión. Cedieron la península donde se alzó Kalos a los astrianos disidentes.
+**Tierra de la Bruma** (8, 9, 12): Descendientes de la **Gente de la Bruma** (Kystvaer), el pueblo que habitó la Mørkkyst (Costa Negra / Modrig) durante milenios. Expulsados por el despertar del Rey Podrido, cruzaron el Estomur a pie y fundaron Kyst, Lyng y Bjorn en el sur del Gerin. Su inspiración cultural es nórdica (danesa). Kyst es el puerto pesquero de acantilados, Lyng el valle fértil del brezo, Bjorn la fortaleza del bosque y la frontera este contra el Estomur. Los tres reinos existían antes del Raikim: fueron conquistados, no creados. Recuperaron sus nombres originales en la rebelión. Cedieron la península donde se alzó Kalos a los astrianos disidentes.
 
-En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y Tierra del Oriente formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión —salvo Kyst, Lyng y Bjorn, que restauraron sus nombres originales previos a la conquista.
+En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y Tierra de la Bruma formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión —salvo Kyst, Lyng y Bjorn, que restauraron sus nombres originales previos a la conquista.
 
 Tres reinos del Verano descienden directamente de Suntarys: **Lysarya** (el más septentrional, pastoreo y puente con el Hierro), **Zephyrya** (planicies del suroeste, flor del Verano, Casa Solaryss sin corona y técnica de Loryan), **Vesperya** (el más oriental y más pequeño, guardián del Estrecho de la Tríada y la Bahía de los Reyes). Los tres comparten un mismo origen en los Hijos del Sol. La división fue impuesta por el Raikim para impedir que se unieran como nación.
-Tres reinos de la Tierra del Oriente descienden directamente de la Mørkkyst: **Kyst** (el más costero, puerto pesquero de acantilados al oeste y mar al este), **Lyng** (el corazón agrícola, brezales y viñedos), **Bjorn** (el guardián del bosque, frontera contra el Estomur). Los tres comparten un mismo origen en la Gente de la Bruma. Fueron conquistados por el Raikim, no creados por él.
+Tres reinos de la Tierra de la Bruma descienden directamente de la Mørkkyst: **Kyst** (el más costero, puerto pesquero de acantilados al oeste y mar al este), **Lyng** (el corazón agrícola, brezales y viñedos), **Bjorn** (el guardián del bosque, frontera contra el Estomur). Los tres comparten un mismo origen en la Gente de la Bruma. Fueron conquistados por el Raikim, no creados por él.
 
 #### Capital imperial
 

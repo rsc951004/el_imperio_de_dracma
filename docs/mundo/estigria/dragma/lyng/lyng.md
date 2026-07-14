@@ -25,7 +25,7 @@ El título tiene origen en la posición central de Lyng: el reino más cercano a
 **Bloque del Amanecer.** Reino Rebelde. A diferencia de los reinos del Verano —creados por el Raikim—, Lyng ya existía siglos antes. Fue conquistado por el Raikim, que le impuso el sufijo -gard como marca de dominio. Con la rebelión se lo arrancó y recuperó su nombre original.
 
 ## Afiliación geográfica
-**Tierra del Oriente.** El corazón agrícola de los Caminantes de la Bruma, al sur del Gerin. Al norte de Kyst y Bjorn, limitando al norte con el Gran Valle y Eldengaria. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
+**Tierra de la Bruma.** El corazón agrícola de los Caminantes de la Bruma, al sur del Gerin. Al norte de Kyst y Bjorn, limitando al norte con el Gran Valle y Eldengaria. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
 
 ## Origen
 Lyng es uno de los tres reinos fundados por la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este de la cordillera Estomur.
@@ -39,7 +39,7 @@ Navegaron al sur por mar hasta que las corrientes del **Cayo Negro** los bloquea
 Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos a las costas del Gerin, no pudieron entrar por el Verano, entonces conocido como la **Costa Desolada**. Siguieron al este y encontraron en los Kystvaer refugio. Los Caminantes de la Bruma ya habían luchado contra un ser dominado por un Mobius y conocían el peligro del culto. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**.
 
 ## Geografía
-Lyng ocupa la franja central y más septentrional de la Tierra del Oriente, al norte de Kyst y Bjorn. Es una **llanura fértil** salpicada de brezales: el *lyng* que le da nombre tiñe los campos de un violeta apagado en primavera. No es el violeta brillante de Zephyrya: es un color sobrio, resistente, de tierra trabajada.
+Lyng ocupa la franja central y más septentrional de la Tierra de la Bruma, al norte de Kyst y Bjorn. Es una **llanura fértil** salpicada de brezales: el *lyng* que le da nombre tiñe los campos de un violeta apagado en primavera. No es el violeta brillante de Zephyrya: es un color sobrio, resistente, de tierra trabajada.
 
 El valle recibe los vientos del norte que bajan del Gran Valle, templados y regulares. No hay acantilados como en Kyst ni bosques cerrados como en Bjorn: Lyng es **abierto, luminoso, agrario**. Viñedos, campos de trigo y pastizales para el ganado conforman su paisaje.
 
@@ -58,7 +58,7 @@ Los tres monarcas actuales —Skaer Fjord, Ravn Korn y Skov Borg— son primos. 
 ## Gobierno
 Regido por la Casa Korn. El rey reinante es **Ravn Korn ★**. Consorte pendiente.
 
-Los tres monarcas —Skaer Fjord (Kyst), Ravn Korn (Lyng) y Skov Borg (Bjorn)— son primos entre sí. El circuito matrimonial cerrado de la Tierra del Oriente mantiene los lazos de sangre entre las tres casas reinantes.
+Los tres monarcas —Skaer Fjord (Kyst), Ravn Korn (Lyng) y Skov Borg (Bjorn)— son primos entre sí. El circuito matrimonial cerrado de la Tierra de la Bruma mantiene los lazos de sangre entre las tres casas reinantes.
 
 ## Historia
 Lyng fue fundado por los Kystvaer tras cruzar el Estomur y ser rechazados por los Val del centro. Es uno de los tres asentamientos originales de la Gente de la Bruma en el Gerin.

@@ -23,7 +23,7 @@ Pendiente
 **Bloque del Amanecer.** Reino Rebelde. A diferencia de los reinos del Verano —creados por el Raikim—, Kyst ya existía siglos antes. Fue conquistado por el Raikim, que le impuso el sufijo -gard como marca de dominio. Con la rebelión se lo arrancó y recuperó su nombre original.
 
 ## Afiliación geográfica
-**Tierra del Oriente.** El más costero de los tres reinos de la Gente de la Bruma, al sur del Gerin. Acantilados al oeste que dan al Estrecho de la Tríada; su costa real y sus puertos se abren al este, lindando con Bjorn. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
+**Tierra de la Bruma.** El más costero de los tres reinos de la Gente de la Bruma, al sur del Gerin. Acantilados al oeste que dan al Estrecho de la Tríada; su costa real y sus puertos se abren al este, lindando con Bjorn. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
 
 ## Origen
 Kyst es uno de los tres reinos fundados por la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este de la cordillera Estomur.
@@ -39,7 +39,7 @@ Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negr
 Durante siglos, Kalos fue sitiada pero jamás tomada. Ni por el Raikim ni por fuerza alguna.
 
 ## Geografía
-Kyst ocupa la franja costera más occidental de la Tierra del Oriente, al sur del Gerin. Su geografía es una paradoja: tiene mar pero no lo mira. Hacia el oeste, donde debería abrirse al estrecho, solo hay **acantilados verticales** que caen al agua sin tregua. No hay playas, no hay puertos, no hay fondeaderos en esa cara.
+Kyst ocupa la franja costera más occidental de la Tierra de la Bruma, al sur del Gerin. Su geografía es una paradoja: tiene mar pero no lo mira. Hacia el oeste, donde debería abrirse al estrecho, solo hay **acantilados verticales** que caen al agua sin tregua. No hay playas, no hay puertos, no hay fondeaderos en esa cara.
 
 La costa útil de Kyst da al este, en la frontera con Bjorn. Allí el terreno desciende hasta el nivel del mar y se abre el **Puerto Gris**: el principal fondeadero pesquero de la Tierra de la Bruma. De sus muelles sale la mayor parte de la carne que consume la región. No es un puerto comercial como Vesperya ni turístico como Zephyrya: es un puerto de trabajo, de redes, de manos agrietadas por la sal. Es un reino pesquero, no comercial. No compite con las rutas del estrecho. Sus barcos son de pesca, no de guerra ni mercancía.
 
@@ -53,7 +53,7 @@ No son expansionistas ni ambiciosos. Su orgullo es la supervivencia sin estriden
 ## Gobierno
 Regido por la Casa Fjord. El rey reinante es **Skaer Fjord ★**. Consorte pendiente.
 
-Los tres monarcas —Skaer Fjord (Kyst), Ravn Korn (Lyng) y Skov Borg (Bjorn)— son primos entre sí. El circuito matrimonial cerrado de la Tierra del Oriente mantiene los lazos de sangre entre las tres casas reinantes.
+Los tres monarcas —Skaer Fjord (Kyst), Ravn Korn (Lyng) y Skov Borg (Bjorn)— son primos entre sí. El circuito matrimonial cerrado de la Tierra de la Bruma mantiene los lazos de sangre entre las tres casas reinantes.
 
 ## Historia
 Kyst fue fundado por los Kystvaer tras cruzar el Estomur y ser rechazados por los Val del centro. Es uno de los tres asentamientos originales de los Caminantes de la Bruma en el Gerin.

@@ -2,9 +2,9 @@
 
 ## Revisiones editoriales
 
-### Reimaginación profunda de la Tierra del Oriente: los Caminantes de la Bruma (2026-07-14)
+### Reimaginación profunda de la Tierra de la Bruma: los Caminantes de la Bruma (2026-07-14)
 
-Las antiguas Tierras Antiguas (Merenia, Aurelia, Ylvaria) han sido completamente reformuladas como la **Tierra del Oriente**, un bloque unificado con identidad propia.
+Las antiguas Tierras Antiguas (Merenia, Aurelia, Ylvaria) han sido completamente reformuladas como la **Tierra de la Bruma**, un bloque unificado con identidad propia.
 
 **Cambios estructurales:**
 

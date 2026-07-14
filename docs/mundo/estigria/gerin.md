@@ -28,7 +28,7 @@ D  Zephyrya        Vesperya       Bjorn           Estomur         El Modrig
 | **Valle de Hierro** | Flamengard, Skarngard, Sturmgard, Waffengard | Germánica | A1, A2, B1, B2 (noroeste) |
 | **Costas del Verano** | Lysarya, Zephyrya, Vesperya | Grecolatina | C1, D1, D2 (suroeste costero) |
 | **Paso del Oriente** | Veleskaria, Sindria | Eslava | A3, B3 (este) |
-| **Tierra del Oriente** | Kyst, Lyng, Bjorn | Nórdica (danesa) | C2, C3, D3 (centro-este/sureste) |
+| **Tierra de la Bruma** | Kyst, Lyng, Bjorn | Nórdica (danesa) | C2, C3, D3 (centro-este/sureste) |
 
 > La columna «Nombres» indica la sonoridad de referencia para crear nombres de personas y lugares. Es una convención de escritura, no una cultura del mundo. No existen pueblos germánicos, grecolatinos, eslavos ni nórdicos en Estigria.
 
