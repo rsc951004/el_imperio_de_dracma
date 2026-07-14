@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Ylvagard
 
+
+## Capital
+Iratzar
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Gorio**
@@ -17,7 +20,7 @@ Ylvagard
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**FOO** (nombre pendiente). Región céltico-nórdica del sureste del Gerin.
+**FOO** (nombre pendiente). Sureste del Gerin. Nombres de sonoridad gaélica-vasca (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Zefigard
 
+
+## Capital
+Anemora
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Zephyrion**
@@ -17,7 +20,7 @@ Zefigard
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**Costas del Verano.** Región grecolatina del suroeste costero. Desciende de Suntaris.
+**Costas del Verano.** Suroeste costero del Gerin. Desciende de Suntaris. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Gobierno
 Regido por la Casa Zephyrion. El rey reinante es **Cassius Zephyrion ★**, Rey del Viento. Su consorte es Celestya Drusio, de casa noble de Vesperya.

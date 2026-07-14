@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Aurelgard
 
+
+## Capital
+Doracia
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Umbra**
@@ -17,7 +20,7 @@ Aurelgard
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**FOO** (nombre pendiente). Región céltico-nórdica del centro-sur del Gerin.
+**FOO** (nombre pendiente). Centro-sur del Gerin. Nombres de sonoridad latina (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

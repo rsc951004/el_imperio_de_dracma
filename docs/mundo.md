@@ -109,7 +109,7 @@ mundo/
 
 **Paso del Oriente** (6, 11): eslavos. Val mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que alcanzaban El Bramo desde El Modrig a través de los fiordos fragmentados y amenazaban cruzar el Foso de la Calamidad hacia El Gerin. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
 
-**FOO** (8, 9, 12): céltico-nórdicos. Nombre pendiente. Único puerto imperial en Merenia, tierras fértiles en Aurelia, bosques antiguos en Ylvaria.
+**FOO** (8, 9, 12): Nombre pendiente. Único puerto imperial en Merenia, tierras fértiles en Aurelia, bosques antiguos en Ylvaria. Nombres de sonoridad finesa, latina y gaélica-vasca.
 
 En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y FOO formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
 

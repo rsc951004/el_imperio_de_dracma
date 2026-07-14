@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Casa noble skarngardiana. Tradición germánica. Casa de origen de la reina consorte de Waffengard.
+Casa noble skarngardiana. Nombres de sonoridad germánica. Casa de origen de la reina consorte de Waffengard.
 
 ## Miembros relevantes
 

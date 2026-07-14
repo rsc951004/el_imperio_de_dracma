@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Casa noble de Veleskaria. Tradición rumana. Linaje dentro de la Casa Enescu. Casa de origen de la reina consorte de Sindria.
+Casa noble de Veleskaria. Nombres de sonoridad rumana. Linaje dentro de la Casa Enescu. Casa de origen de la reina consorte de Sindria.
 
 ## Miembros relevantes
 

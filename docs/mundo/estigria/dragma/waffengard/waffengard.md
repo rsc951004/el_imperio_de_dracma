@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Waffengard
 
+
+## Capital
+Stalheim
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Meister**
@@ -17,7 +20,7 @@ Waffengard
 **Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard por tradición y lealtad a los orígenes del continente.
 
 ## Afiliación geográfica
-**Valle de Hierro.** Región germánica del noroeste del Gerin.
+**Valle de Hierro.** Noroeste del Gerin. Nombres de sonoridad germánica (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

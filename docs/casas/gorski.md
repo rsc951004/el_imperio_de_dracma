@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Casa noble de Sindria. Tradición rusa. Linaje dentro de la Casa Goros. Casa de origen de la reina consorte de Veleskaria.
+Casa noble de Sindria. Nombres de sonoridad rusa. Linaje dentro de la Casa Goros. Casa de origen de la reina consorte de Veleskaria.
 
 ## Miembros relevantes
 

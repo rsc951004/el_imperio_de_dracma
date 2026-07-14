@@ -2,6 +2,25 @@
 
 ## Revisiones editoriales
 
+### Aclaración sobre culturas del mapa (2026-07-13)
+
+Las «culturas» configuradas en Azgaar's Fantasy Map Generator (Germanic, Hellenic, Slavic, etc.) son exclusivamente una **ayuda memoria visual** para que los reinos del mismo bloque se parezcan entre sí en el mapa (colores, estética de íconos). No representan lore canónico. No existen «pueblos germánicos», «pueblos eslavos» ni «pueblos grecolatinos» en Estigria. Las culturas del mundo real solo inspiran la **sonoridad de los nombres** de personas y lugares, nada más. Ningún cuento, ficha de personaje o documento canónico debe referenciar estas culturas como si fueran reales dentro del universo.
+
+### Limpieza masiva de referencias culturales (2026-07-13)
+
+Se eliminaron todas las referencias a culturas del mundo real como si existieran en el universo. Cambios:
+
+- **12 fichas de reinos:** «Región germánica/grecolatina/eslava/céltico-nórdica» → descripción puramente geográfica + nota «Nombres de sonoridad X (convención de escritura)».
+- **gerin.md + gerin-tablero.md:** columna «Tradición» → «Nombres».
+- **12-reinos.md:** «Tradición X» → «Nombres de sonoridad X».
+- **mundo.md:** «céltico-nórdicos» → descripción con sonoridades individuales por reino.
+- **6 fichas de monarcas (personajes/monarcas/):** eliminada línea «Cultura: Grecolatina».
+- **19 fichas de casas (docs/casas/):** «Tradición cultural X» → «Nombres de sonoridad X». Mormund ya usaba «sonoridad», se dejó intacto.
+- **dragma.md:** «Casa noble hebrea» / «de raíz hebrea» → «Casa noble de Lumarya».
+- **dinastia-amschel.md:** «de raíz hebrea» eliminado.
+- **AGENTS.md:** actualizada la Guía de nombres con advertencia explícita: las culturas reales son convención de escritura, no existen en el universo.
+- **stamengerin.md:** intacto (ya usa «sonoridad», no «cultura»).
+
 ### Diagnóstico de la ficha de Inits (2026-07-11)
 
 #### 1. ¿Qué sobra?

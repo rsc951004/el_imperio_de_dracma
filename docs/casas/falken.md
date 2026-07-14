@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Casa noble de Sturmgard. Tradición germánica. Casa de origen del rey consorte de Flamengard.
+Casa noble de Sturmgard. Nombres de sonoridad germánica. Casa de origen del rey consorte de Flamengard.
 
 ## Miembros relevantes
 

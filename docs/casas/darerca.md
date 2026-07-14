@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Casa noble de Ylvaria. Tradición gaélica-vasca. Linaje dentro de la Casa Gorio. Casa de origen del rey consorte de Lumaria.
+Casa noble de Ylvaria. Nombres de sonoridad gaélica-vasca. Linaje dentro de la Casa Gorio. Casa de origen del rey consorte de Lumaria.
 
 ## Miembros relevantes
 

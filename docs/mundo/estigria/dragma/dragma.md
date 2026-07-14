@@ -39,7 +39,7 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo |
 | 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama |
 | 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta |
-| 5 | Lumaria | Amanecer | Maimon | Rey/Reina del Alba |
+| 5 | Lumarya | Amanecer | Maimon | Rey/Reina del Alba |
 | 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña |
 | 7 | Zefiria | Amanecer | Aurelian | Rey/Reina del Viento |
 | 8 | Merenia | Amanecer | Tuomi | Rey/Reina del Mar |
@@ -70,7 +70,7 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 | # | Dinastía | Origen | Emperadores | Estado |
 |---|----------|--------|-------------|--------|
 | 1 | Mormund | Sturmgard (Hierro). Guerreros de las tormentas del norte. | 17 | Extinta como casa imperial. Retornó a casa noble de Sturmgard. |
-| 2 | Amschel | Lumaria (Amanecer). Casa noble hebrea. | 21 | Extinta como casa imperial. Retornó a casa noble de Lumaria. |
+| 2 | Amschel | Lumarya (Amanecer). Casa noble de Lumarya. | 21 | Extinta como casa imperial. Retornó a casa noble de Lumarya. |
 | 3 | Pavel | — | 5 (actual) | Reinante. |
 
 ### Primera dinastía: Casa Mormund (Sturmgard)
@@ -86,9 +86,9 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 | … | Trece emperadores posteriores | Compatibles con la Concordia. |
 | 17.º | **Aldric Mormund** | Último. Nunca se casó. Deseó extinguir la línea Mormund. Provocó el quiebre de la dinastía. |
 
-### Segunda dinastía: Casa Amschel (Lumaria)
+### Segunda dinastía: Casa Amschel (Lumarya)
 
-21 emperadores. Casa noble de Lumaria, de raíz hebrea. Electa por el Stamengerin tras el quiebre de la dinastía Mormund.
+21 emperadores. Casa noble de Lumarya. Electa por el Stamengerin tras el quiebre de la dinastía Mormund.
 
 | Orden | Nombre | Notas |
 |-------|--------|-------|

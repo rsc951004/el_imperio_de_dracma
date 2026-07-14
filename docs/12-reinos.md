@@ -28,19 +28,19 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 ## Estructura
 
 ### Valle de Hierro (conservan -gard)
-Núcleo leal al Raikim, nunca se rebelaron. Tradición germánica. Circuito matrimonial cerrado.
+Núcleo leal al Raikim, nunca se rebelaron. Circuito matrimonial cerrado. Nombres de sonoridad germánica.
 Waffengard · Skarngard · Flamengard · Sturmgard
 
 ### Costas del Verano (cambiaron a -ria)
-Descienden de la destruida Suntaris. Tradición grecolatina. Circuito matrimonial cerrado.
+Descienden de la destruida Suntaris. Circuito matrimonial cerrado. Nombres de sonoridad grecolatina.
 Lumarya · Zefirya · Vesperya
 
 ### Paso del Oriente (cambiaron a -ria)
-Este del Gerin. Val mezclados con otras culturas. Forjados contra las bestias del Modrig. Tradición eslava.
+Este del Gerin. Val mezclados con otras culturas. Forjados contra las bestias del Modrig. Nombres de sonoridad eslava.
 Veleskaria · Sindria
 
 ### FOO (cambiaron a -ria)
-Centro y este del Gerin. Tradición céltico-nórdica. Nombre pendiente.
+Centro y este del Gerin. Nombres de sonoridad finesa, latina y gaélica-vasca. Nombre pendiente.
 Merenia · Aurelia · Ylvaria
 
 Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión.
@@ -90,7 +90,7 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
 | Zefirya | Planicies del sur, vientos | Solaris casa noble. Casa Zephyrion, grecolatino. Desciende de Suntaris: el arte. |
 | Merenia | Único puerto accesible de Dragma | Casa Tuomi, finés. FOO. |
-| Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, céltico-nórdico. FOO. |
+| Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, FOO. |
 | Vesperya | Costa del Verano, flota astriana | Casa Valerius, grecolatino. Desciende de Suntaris: la sangre marinera. |
 | Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
 | Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. FOO. |

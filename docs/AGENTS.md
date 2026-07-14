@@ -57,11 +57,13 @@ Todo lo que aquí se documenta es lore canónico y vinculante para cualquier cue
 
 ## Guía de nombres
 
-Cada reino o bloque cultural toma **una cultura real como fuente de inspiración** para sus nombres de personas y casas. La regla es:
+Cada reino o bloque toma **una cultura real como fuente de inspiración** para la sonoridad de sus nombres de personas y casas. La regla es:
 
-- La cultura real da la **sonoridad y la raíz etimológica** (germánica, grecolatina, eslava, céltico-nórdica).
+- La cultura real da la **sonoridad y la raíz etimológica** (germánica, grecolatina, eslava, finesa, latina, gaélica-vasca).
 - Se alteran letras, sílabas o grafías para que los nombres **no coincidan con nombres reales de personas del mundo real**.
 - Son ecos, no copias.
+
+> ⚠️ **Importante:** Estas culturas reales son una convención de escritura para la creación de nombres. No existen «pueblos germánicos», «pueblos grecolatinos» ni «pueblos eslavos» en Estigria. Ningún cuento, ficha de personaje o documento canónico debe referenciar estas culturas como si fueran reales dentro del universo. La palabra «cultura» en el canon se reserva para aspectos internos del mundo (ritos, costumbres, organización social), nunca como etiqueta de inspiración externa.
 
 Ejemplos:
 

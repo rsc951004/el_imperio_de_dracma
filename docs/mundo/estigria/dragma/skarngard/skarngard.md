@@ -9,6 +9,9 @@ Skarngard
 ## Etimología
 El nombre deriva de **Skarn**, la serpiente alada de la diosa Gera. Es una alusión a la leyenda, no una referencia geográfica: Skarngard está en el noroeste del Gerin, lejos del Estomur. El Raikim nombró sus dominios combinando raíces mitológicas Val con el sufijo *-gard* como marca de dominio. La raíz *Skarn-* fue elegida por su peso simbólico como montura de la diosa.
 
+
+## Capital
+Kragholm
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Hammer**
@@ -20,7 +23,7 @@ El nombre deriva de **Skarn**, la serpiente alada de la diosa Gera. Es una alusi
 **Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Es la cuna de la Casa Valgard, la dinastía que gobernó el Raikim antes del Imperio. Conserva el sufijo -gard.
 
 ## Afiliación geográfica
-**Valle de Hierro.** Región germánica del noroeste del Gerin. Cuna de la Casa Valgard.
+**Valle de Hierro.** Noroeste del Gerin. Cuna de la Casa Valgard. Nombres de sonoridad germánica (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

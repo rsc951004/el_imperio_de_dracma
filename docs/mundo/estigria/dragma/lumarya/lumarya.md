@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Lumagard
 
+
+## Capital
+Aurolis
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Corintyos**
@@ -17,7 +20,7 @@ Lumagard
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard. Fue el centro espiritual del alzamiento.
 
 ## Afiliación geográfica
-**Costas del Verano.** Región grecolatina del suroeste costero. Desciende de Suntaris.
+**Costas del Verano.** Suroeste costero del Gerin. Desciende de Suntaris. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Gobierno
 Regido por la Casa Corintyos. La reina reinante es **Octavia Corintyos ★**, Reina del Alba. Su consorte es Helio Ventys, de casa noble de Zefirya.

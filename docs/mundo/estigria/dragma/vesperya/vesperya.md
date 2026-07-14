@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Elygard
 
+
+## Capital
+Talasya
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Valerius**
@@ -17,7 +20,7 @@ Elygard
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**Costas del Verano.** Región grecolatina del suroeste costero. Desciende de Suntaris.
+**Costas del Verano.** Suroeste costero del Gerin. Desciende de Suntaris. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Gobierno
 Regido por la Casa Valerius. El rey reinante es **Marcus Valerius ★**, Rey del Tridente. Su consorte es Nerysa Undavos, originaria de Alesya.

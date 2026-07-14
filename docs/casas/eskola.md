@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Casa noble de Merenia. Tradición finesa. Linaje dentro de la Casa Tuomi. Casa de origen de la reina consorte de Aurelia.
+Casa noble de Merenia. Nombres de sonoridad finesa. Linaje dentro de la Casa Tuomi. Casa de origen de la reina consorte de Aurelia.
 
 ## Miembros relevantes
 

@@ -15,7 +15,7 @@
 
 ## Historia y descripción
 
-Casa real de Ylvaria. Los densos bosques que cubren el reino, hogar del pueblo Ylum, cuyas raíces ancestrales perviven entre los árboles. Fundada por el Raikim como Ylvagard, se unió a la rebelión del Bloque del Amanecer. Economía de explotación forestal sostenible y tradiciones culturales Ylum. Tradición cultural gaélica-vasca.
+Casa real de Ylvaria. Los densos bosques que cubren el reino, hogar del pueblo Ylum, cuyas raíces ancestrales perviven entre los árboles. Fundada por el Raikim como Ylvagard, se unió a la rebelión del Bloque del Amanecer. Economía de explotación forestal sostenible y tradiciones culturales Ylum. Nombres de sonoridad gaélica-vasca.
 
 ## Miembros relevantes
 

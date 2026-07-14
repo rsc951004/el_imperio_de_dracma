@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Sindgard
 
+
+## Capital
+Bezdansk
 ## Casa real
 - Fundadora: **Ormur** (rama superviviente de la dinastía de Malakia de la Bruma)
 - Actual: **Goros**
@@ -19,7 +22,7 @@ El título es una declaración política: el Foso de la Calamidad se encuentra e
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard, abandonó el sufijo -gard y adoptó el nombre de Sindria.
 
 ## Afiliación geográfica
-**Paso del Oriente.** Región eslava del noreste del Gerin. Forjada en la lucha contra las bestias que, desde El Modrig, serpenteaban por los fiordos fragmentados hacia El Bramo y amenazaban con alcanzar el Gerin a través del Foso de la Calamidad.
+**Paso del Oriente.** Noreste del Gerin. Forjada en la lucha contra las bestias que, desde El Modrig, serpenteaban por los fiordos fragmentados hacia El Bramo y amenazaban con alcanzar el Gerin a través del Foso de la Calamidad. Nombres de sonoridad eslava (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

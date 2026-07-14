@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Casa noble de Aurelia. Tradición latina. Linaje dentro de la Casa Umbra. Casa de origen de la reina consorte de Ylvaria.
+Casa noble de Aurelia. Nombres de sonoridad latina. Linaje dentro de la Casa Umbra. Casa de origen de la reina consorte de Ylvaria.
 
 ## Miembros relevantes
 

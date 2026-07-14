@@ -6,6 +6,9 @@ Reino del Imperio de Dragma. Protector de Kalos.
 ## Nombre valgard
 Veleskagard
 
+
+## Capital
+Stancra
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Enescu**
@@ -17,7 +20,7 @@ Veleskagard
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**Paso del Oriente.** Región eslava del este del Gerin. Val mezclados con otras culturas desde antiguo.
+**Paso del Oriente.** Este del Gerin. Val mezclados con otras culturas desde antiguo. Nombres de sonoridad eslava (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

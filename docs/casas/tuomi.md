@@ -15,7 +15,7 @@
 
 ## Historia y descripción
 
-Casa real de Merenia. El único puerto accesible de Dragma, la puerta marítima del imperio hacia el mundo exterior. Fundada por el Raikim como Merengard, se unió a la rebelión del Bloque del Amanecer. Economía basada en comercio marítimo internacional y astilleros. Única salida al mar del imperio. Tradición cultural finesa.
+Casa real de Merenia. El único puerto accesible de Dragma, la puerta marítima del imperio hacia el mundo exterior. Fundada por el Raikim como Merengard, se unió a la rebelión del Bloque del Amanecer. Economía basada en comercio marítimo internacional y astilleros. Única salida al mar del imperio. Nombres de sonoridad finesa.
 
 ## Miembros relevantes
 

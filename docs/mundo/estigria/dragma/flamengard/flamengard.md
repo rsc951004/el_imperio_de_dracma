@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Flamengard
 
+
+## Capital
+Askenburg
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Wolfen**
@@ -17,7 +20,7 @@ Flamengard
 **Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard.
 
 ## Afiliación geográfica
-**Valle de Hierro.** Región germánica del noroeste del Gerin.
+**Valle de Hierro.** Noroeste del Gerin. Nombres de sonoridad germánica (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

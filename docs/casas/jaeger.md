@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Casa noble de Waffengard. Tradición germánica. Casa de origen de la reina consorte de Sturmgard. Vinculada por sangre a la Casa Meister (Sabina Jaeger es hermana de Jorgen Meister).
+Casa noble de Waffengard. Nombres de sonoridad germánica. Casa de origen de la reina consorte de Sturmgard. Vinculada por sangre a la Casa Meister (Sabina Jaeger es hermana de Jorgen Meister).
 
 ## Miembros relevantes
 

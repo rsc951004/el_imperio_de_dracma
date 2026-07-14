@@ -6,6 +6,9 @@ Reino del Imperio de Dragma.
 ## Nombre valgard
 Merengard
 
+
+## Capital
+Aaltola
 ## Casa real
 - Fundadora: Pendiente
 - Actual: **Tuomi**
@@ -17,7 +20,7 @@ Merengard
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**FOO** (nombre pendiente). Región céltico-nórdica del centro del Gerin.
+**FOO** (nombre pendiente). Centro del Gerin. Nombres de sonoridad finesa (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

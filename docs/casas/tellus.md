@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Linaje noble dentro de la Casa Umbra. Tradición latina.
+Linaje noble dentro de la Casa Umbra. Nombres de sonoridad latina.
 
 ## Miembros relevantes
 

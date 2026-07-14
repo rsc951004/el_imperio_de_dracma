@@ -63,18 +63,18 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 
 | Cód. | Reino | Zona | Cultura |
 |------|-------|------|---------|
-| Wf | Waffengard | HIERRO | Germánica |
-| Sk | Skarngard | HIERRO | Germánica |
-| St | Sturmgard | HIERRO | Germánica |
-| Fl | Flamengard | HIERRO | Germánica |
-| Lm | Lumarya | VERANO | Grecolatina |
-| Zf | Zefirya | VERANO | Grecolatina |
-| El | Vesperya | VERANO | Grecolatina |
-| Sd | Sindria | ORIENTE | Eslava |
-| Vk | Veleskaria | ORIENTE | Eslava |
-| Vs | Merenia | FOO | Céltico-nórdica |
-| Au | Aurelia | FOO | Céltico-nórdica |
-| Yl | Ylvaria | FOO | Céltico-nórdica |
+| Wf | Waffengard | HIERRO | Germánica (nombres) |
+| Sk | Skarngard | HIERRO | Germánica (nombres) |
+| St | Sturmgard | HIERRO | Germánica (nombres) |
+| Fl | Flamengard | HIERRO | Germánica (nombres) |
+| Lm | Lumarya | VERANO | Grecolatina (nombres) |
+| Zf | Zefirya | VERANO | Grecolatina (nombres) |
+| El | Vesperya | VERANO | Grecolatina (nombres) |
+| Sd | Sindria | ORIENTE | Eslava (nombres) |
+| Vk | Veleskaria | ORIENTE | Eslava (nombres) |
+| Vs | Merenia | FOO | Finesa (nombres) |
+| Au | Aurelia | FOO | Latina (nombres) |
+| Yl | Ylvaria | FOO | Gaélica-vasca (nombres) |
 
 > FOO = grupo pendiente de nombre definitivo. Ver `docs/mundo/estigria/gerin.md`.
 

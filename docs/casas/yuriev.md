@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Linaje noble dentro de la Casa Goros. Tradición rusa.
+Linaje noble dentro de la Casa Goros. Nombres de sonoridad rusa.
 
 ## Miembros relevantes
 
