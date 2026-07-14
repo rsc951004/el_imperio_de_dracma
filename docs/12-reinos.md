@@ -54,7 +54,7 @@ Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en 
 La distribución actual de consortes responde a afinidades políticas y culturales del momento. No existen prohibiciones formales de mezcla entre bloques; es simplemente la coyuntura presente.
 
 - **Valle de Hierro:** circuito cerrado Waffengard ↔ Skarngard ↔ Flamengard ↔ Sturmgard ↔ Waffengard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
-- **Costas del Verano:** circuito cerrado Ylumarya ↔ Zefirya ↔ Vesperya ↔ Ylumarya. Los tres reinos del Verano intercambian consortes entre sus casas nobles. **Neryssa Undavos** es la nota singular: hija del Gran Senescal de Alesya, una pescadora de las ruinas de Suntaris casada con Marcus Valeryus de Vesperya.
+- **Costas del Verano:** circuito cerrado Ylumarya ↔ Zefirya ↔ Vesperya ↔ Ylumarya. Los tres reinos del Verano intercambian consortes entre sus casas nobles. **Neryssa Undavos** es la nota singular: hija del Príncipe Guardián de Alesya, casada con Marcus Valeryus de Vesperya.
 - **Paso del Oriente y Tierras Antiguas:** intercambios internos y entre sí según conveniencia política.
 
 ---
@@ -88,12 +88,12 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Skarngard | Montañas, forjas, Verilium | Cuna de Casa Valgard. Casa Hammer, germánico. Valle de Hierro. |
 | Flamengard | Noroeste volcánico, piromancia | Casa Wolfen, germánico. Valle de Hierro. |
 | Sturmgard | Fiordos helados, tormentas, hombres duros | Frío extremo. Tierra pobre. Casa Reisner, germánico. Valle de Hierro. |
-| Ylumarya | Norte del Verano, pastoreo, puente con el Hierro | Casa Corinthyos, grecolatino. El hermano sencillo: piedad y trabajo duro. Costa de acantilados. |
+| Ylumarya | Norte del Verano, pastoreo, puente con el Hierro | Casa Corintyos, grecolatino. El hermano sencillo: piedad y trabajo duro. Costa de acantilados. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
-| Zefirya | Planicies del suroeste, turismo curativo, flor del Verano | Casa Zephyryon, grecolatino. Playas hermosas y atardeceres violetas. Filosofía simple y libre. |
+| Zefirya | Planicies del suroeste, turismo curativo, flor del Verano | Casa Zephyrion, grecolatino. Playas hermosas y atardeceres violetas. Filosofía simple y libre. |
 | Merenia | Puerto marítimo | Casa Tuomi, finés. Tierras Antiguas. |
 | Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, Tierras Antiguas. |
-| Vesperya | Sureste del Verano, guardián del Estrecho de Vespa | Casa Valeryus, grecolatino. Flota suntariana. Escudo naval de Eldengaria. |
+| Vesperya | Sureste del Verano, guardián del Estrecho de la Tríada | Casa Valeryus, grecolatino. Reino del desafío: hedonismo, libertad. La Tríada: tres arcos de piedra. |
 | Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
 | Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. Tierras Antiguas. |
 
@@ -107,7 +107,7 @@ Los tres reinos del Verano descienden de **Suntaris**, la gran ciudadela que los
 |-------|----------|-----------|--------|
 | Ylumarya | Norte | Hermano sencillo: pastoril, puente entre Verano y Hierro. Legado Hijos del Sol diluido pero presente | Alba |
 | Zefirya | Suroeste | Flor del Verano: belleza y serenidad. Playas curativas. Filosofía libre y sin estrés | Viento |
-| Vesperya | Sureste | Desafío y aventura. Guardián del Estrecho de Vespa, flota suntariana | Tridente |
+| Vesperya | Sureste | Reino del desafío: hedonismo, libertad, goce. Guardián de la Tríada. Morder la manzana zefiryana | Tridente |
 
 ---
 
@@ -126,13 +126,11 @@ Los tres reinos del Verano descienden de **Suntaris**, la gran ciudadela que los
 ✅ Los 12 reinos tienen gobernante definido.
 
 ### Lore por desarrollar
-- Reimaginación profunda de Ylumarya (capital, casa, título, concepto)
-- Reimaginación profunda de Zefirya (capital, casa, título, concepto)
-- Reimaginación profunda de Vesperya (capital, casa, título, concepto)
+- ✅ Reimaginación profunda de los tres reinos del Verano completada (Ylumarya, Zefirya, Vesperya)
+- ✅ Guerra de los Hermanos canonizada (personajes, detonante, consecuencias)
 - Loryan Solaryss: ubicación temporal
 - Triple Corona de Suntaris: nombres
 - Detonante concreto de la rebelión en el Verano (caja negra)
-- La Guerra de los Hermanos (conflicto entre los tres reinos del Verano durante la dinastía Mormund)
 
 ---
 

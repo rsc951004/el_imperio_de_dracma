@@ -60,7 +60,7 @@ La noche anterior al compromiso, Thalyssa tomó un bote y huyó. Eryk la esperab
 
 Alessya y Zefirya acusaron a Ylumarya de secuestro. Ylumarya acusó a Zefirya de asesinato. Estalló la **Guerra de los Hermanos**: zefiryos y alessyanos contra ylumarios. **Hijos del Sol contra Hijos del Sol.**
 
-Ylumarya logró invadir Zefirya. Miles murieron. La guerra amenazó con expandirse cuando Sturmgard anunció su apoyo a Ylumarya, pero el emperador Edrik Mormund la contuvo: declaró que Vesperya —guardián del Estrecho de Vespa y la entrada a Eldengaria— tenía prohibido combatir.
+Ylumarya logró invadir Zefirya. Miles murieron. La guerra amenazó con expandirse cuando Sturmgard anunció su apoyo a Ylumarya, pero el emperador Edrik Mormund la contuvo: declaró que Vesperya —guardián del Estrecho de la Tríada y la entrada a Eldengaria— tenía prohibido combatir.
 
 Al final, Edrik ejecutó a ambos reyes —**Kyros Albyon** y **Kleóndras Aetheryon**— y proscribió a ambas casas —Albyon y Aetheryon— del **Dex Códice**, el gran registro de la Dex Tábura. Sus nombres jamás podrán ser usados en el imperio. La casa Coralyss también fue proscrita.
 

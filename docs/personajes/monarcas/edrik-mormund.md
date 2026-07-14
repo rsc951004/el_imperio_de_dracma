@@ -15,7 +15,7 @@ El hecho definitorio de su gobierno fue la **Guerra de los Hermanos** entre Zefi
 
 Cuando Zefirya y Alessya acusaron a Ylumarya de secuestro, y Ylumarya acusó a Zefirya de asesinato, la guerra estalló. Edrik se mantuvo neutral al principio, pero intervino decisivamente cuando **Sturmgard** amenazó con entrar en la guerra a favor de Ylumarya.
 
-Declaró que **Vesperya** —por su deber de guardián del Estrecho de Vespa y la entrada a Eldengaria— tenía **prohibido combatir**. Contuvo la guerra en dos bandos.
+Declaró que **Vesperya** —por su deber de guardián del Estrecho de la Tríada y la entrada a Eldengaria— tenía **prohibido combatir**. Contuvo la guerra en dos bandos.
 
 Cuando Ylumarya invadió Zefirya y los muertos se contaron por miles, Edrik actuó con mano dura: **ejecutó a ambos reyes** —Kleóndras Aetheryon y Kyros Albyon— y **proscribió a sus casas del Dex Códice**, el gran registro de la Dex Tábura. La casa Coralyss también fue proscrita. Ninguno de esos nombres puede volver a usarse en el imperio.
 

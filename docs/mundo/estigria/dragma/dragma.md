@@ -82,7 +82,7 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 | 1.º | Harald Mormund | Primer emperador Mormund. Caudillo naval de Sturmgard. |
 | 2.º | Roderic Mormund | Subyugador de dominios rebeldes. |
 | 3.º | Godric Mormund | La tragedia fratricida ocurrió bajo su reinado. |
-| 5.º | **Edrik Mormund** | Bajo su reinado estalló la Guerra de los Hermanos (Ylumarya vs Vesperya). |
+| 5.º | **Edrik Mormund** | Bajo su reinado estalló la Guerra de los Hermanos (Zefirya vs Ylumarya). |
 | 4.º | Vilem Mormund | El Padre del Imperio. Arquitecto de la Concordia. |
 | … | Trece emperadores posteriores | Compatibles con la Concordia. |
 | 17.º | **Aldric Mormund** | Último. Nunca se casó. Deseó extinguir la línea Mormund. Provocó el quiebre de la dinastía. |

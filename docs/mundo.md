@@ -113,7 +113,7 @@ mundo/
 
 En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y Tierras Antiguas formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
 
-Tres reinos del Verano descienden directamente de Suntaris: **Ylumarya** (el más septentrional, heredero de la mística Solaryss y la Triple Corona), **Zefirya** (planicies del suroeste, Casa Solaryss sin corona y técnica de Loryan), **Vesperya** (el más oriental, guardián del Estrecho de Vespa y la Bahía de los Reyes). Los tres comparten un mismo origen en los Hijos del Sol. La división fue impuesta por el Raikim para impedir que se unieran como nación.
+Tres reinos del Verano descienden directamente de Suntaris: **Ylumarya** (el más septentrional, pastoreo y puente con el Hierro), **Zefirya** (planicies del suroeste, flor del Verano, Casa Solaryss sin corona y técnica de Loryan), **Vesperya** (el más oriental y más pequeño, guardián del Estrecho de la Tríada y la Bahía de los Reyes). Los tres comparten un mismo origen en los Hijos del Sol. La división fue impuesta por el Raikim para impedir que se unieran como nación.
 
 #### Capital imperial
 
