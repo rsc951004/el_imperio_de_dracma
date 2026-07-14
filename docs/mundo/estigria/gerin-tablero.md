@@ -1,5 +1,7 @@
 # Tablero de El Gerin (referencia rápida)
 
+> ⚠️ **DESACTUALIZADO.** Merenia, Aurelia y Ylvaria fueron reemplazados por Kyst, Lyng y Bjorn (Tierra de la Bruma). Tierras Antiguas ya no existe. TODO: rehacer el tablero completo con los nuevos nombres y la región Tierra de la Bruma.
+
 ## Cuadrícula general (12 × 15)
 
 Cada reino ocupa un bloque de celdas (la mayoría 3×3, algunos expandidos o reducidos por geografía). Capital marcada con `*`. Columnas: sub-columnas `a, b, c`. Filas: sub-filas `1, 2, 3` dentro de cada zona A-D.
