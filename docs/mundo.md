@@ -92,7 +92,7 @@ mundo/
 | 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo | Rey Yuter Hammer | [Ver ficha](mundo/estigria/dragma/skarngard/skarngard.md) |
 | 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama | Rey Kaspar Wolfen | [Ver ficha](mundo/estigria/dragma/flamengard/flamengard.md) |
 | 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta | Rey Jorin Reisner | [Ver ficha](mundo/estigria/dragma/sturmgard/sturmgard.md) |
-| 5 | Lumarya | Costas del Verano | Corintyos | Rey/Reina del Alba | Reina Octavia Corintyos | [Ver ficha](mundo/estigria/dragma/lumarya/lumarya.md) |
+| 5 | Ylumarya | Costas del Verano | Corintyos | Rey/Reina del Alba | Reina Octavia Corintyos | [Ver ficha](mundo/estigria/dragma/ylumarya/ylumarya.md) |
 | 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
 | 7 | Zefirya | Costas del Verano | Zephyrion | Rey/Reina del Viento | Rey Cassius Zephyrion | [Ver ficha](mundo/estigria/dragma/zefirya/zefirya.md) |
 | 8 | Merenia | Tierras Antiguas | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/merenia/merenia.md) |
@@ -105,7 +105,7 @@ mundo/
 
 **Valle de Hierro** (1-4): germánicos, fríos, marciales. Núcleo leal al Raikim, nunca se rebelaron. Conservan el sufijo -gard.
 
-**Costas del Verano** (5, 7, 10): grecolatinos, cálidos, costeros. Descienden directamente de Suntaris. Lideraron la rebelión espiritual y artística.
+**Costas del Verano** (5, 7, 10): Descendientes de los Hijos del Sol, esclavos escapados de tres islas de Astria que se fundieron en un solo pueblo en Suntaris (Alesya). Los tres reinos comparten origen, sangre y lengua. Lideraron la rebelión desde la costa suroeste del Gerin.
 
 **Paso del Oriente** (6, 11): eslavos. Val mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que alcanzaban El Bramo desde El Modrig a través de los fiordos fragmentados y amenazaban cruzar el Foso de la Calamidad hacia El Gerin. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
 
@@ -113,7 +113,7 @@ mundo/
 
 En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y Tierras Antiguas formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
 
-Tres reinos del Verano descienden directamente de Suntaris: **Lumarya** (el alma — mística Solaris y Triple Corona), **Zefirya** (el arte — Casa Solaris sin corona y técnica de Lorian), **Vesperya** (la sangre — marinos originales de Suntaris).
+Tres reinos del Verano descienden directamente de Suntaris: **Ylumarya** (el más septentrional, heredero de la mística Solaris y la Triple Corona), **Zefirya** (planicies del suroeste, Casa Solaris sin corona y técnica de Lorian), **Vesperya** (el más oriental, guardián del Estrecho de Vespa y la Bahía de los Reyes). Los tres comparten un mismo origen en los Hijos del Sol. La división fue impuesta por el Raikim para impedir que se unieran como nación.
 
 #### Capital imperial
 
@@ -128,7 +128,7 @@ Tres reinos del Verano descienden directamente de Suntaris: **Lumarya** (el alma
 | 1 | Kalos | Ciudadela | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. Conocida como la Ciudadela de Kalos. | [Ver ficha](mundo/estigria/dragma/kalos/kalos.md) |
 | 2 | Esteria | Ciudad fortaleza | Ciudad fundada al borde del Foso de la Calamidad para contener la oscuridad del este. Anterior al Raikim. Sindria reclama su territorio. Conocida como Ciudad Esteria. | [Ver ficha](mundo/estigria/dragma/esteria/esteria.md) |
 | 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/estigria/dragma/ishbaal/ishbaal.md) |
-| 4 | Alesya | Isla | Isla al suroeste. Alberga la Fortaleza del Sol, antigua residencia secundaria de los reyes del Verano. Territorio sagrado para los descendientes de Suntaris. Llamada el cuarto reino del Verano, aunque no es un reino ni está en las costas continentales. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
+| 4 | Alesya | Isla | Isla al suroeste. Cuna de los Hijos del Sol. Alberga las ruinas de Suntaris, la gran ciudadela que fue escudo de Kalos contra las peregrinaciones negras astrianas. Gobernada por un Gran Senescal, pescador y jefe de la pequeña comunidad que habita entre las ruinas. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
 | 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por el navegante elyrio Artemis en la Edad de los Mil Reinos. Conocida como Delfos la Solitaria. | [Ver ficha](mundo/estigria/dragma/delfos/delfos.md) |
 | 6 | Lorka | Isla | Territorio de ultramar al norte de Ishbaal. Aguas frías, costas rocosas. | [Ver ficha](mundo/estigria/dragma/lorka/lorka.md) |
 | 7 | Paicel | Isla | Territorio de ultramar al sureste de Delfos. Aguas templadas, vegetación densa. | [Ver ficha](mundo/estigria/dragma/paicel/paicel.md) |
@@ -139,4 +139,4 @@ Tres reinos del Verano descienden directamente de Suntaris: **Lumarya** (el alma
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Suntaris | Ciudad destruida | Antiguo Reino del Verano. Destruida por Grimar Valgard. Hogar de la Casa Solaris. | Pendiente |
+| Suntaris | Ciudadela destruida | Antigua ciudadela de los Hijos del Sol en la isla de Alesya. Destruida por los Valgard en un ataque anunciado; la población ya había evacuado al continente. Los tres reinos del Verano descienden de sus fundadores. | Pendiente |

@@ -47,8 +47,8 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Marlo Falken | Rey consorte | Flamengard ← Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/marlo-falken.md) |
 | Jorin Reisner | Rey gobernante | Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/jorin-reisner.md) |
 | Sabina Jaeger | Reina consorte | Sturmgard ← Waffengard (Valle de Hierro) | [Ver ficha](personajes/monarcas/sabina-jaeger.md) |
-| Octavia Corintyos | Reina gobernante | Lumarya (Costas del Verano) | [Ver ficha](personajes/monarcas/octavia-corintyos.md) |
-| Helio Ventys | Rey consorte | Lumarya ← Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/helio-ventys.md) |
+| Octavia Corintyos | Reina gobernante | Ylumarya (Costas del Verano) | [Ver ficha](personajes/monarcas/octavia-corintyos.md) |
+| Helio Ventys | Rey consorte | Ylumarya ← Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/helio-ventys.md) |
 | Ileana Enescu | Reina gobernante | Veleskaria (Paso del Oriente) | [Ver ficha](personajes/monarcas/ileana-enescu.md) |
 | Yelena Gorski | Reina consorte | Veleskaria ← Sindria (Paso del Oriente) | [Ver ficha](personajes/monarcas/yelena-gorski.md) |
 | Cassius Zephyrion | Rey gobernante | Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/cassius-zephyrion.md) |

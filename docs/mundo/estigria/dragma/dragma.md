@@ -39,12 +39,12 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo |
 | 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama |
 | 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta |
-| 5 | Lumarya | Amanecer | Maimon | Rey/Reina del Alba |
+| 5 | Ylumarya | Amanecer | Corintyos | Rey/Reina del Alba |
 | 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña |
-| 7 | Zefirya | Amanecer | Aurelian | Rey/Reina del Viento |
+| 7 | Zefirya | Amanecer | Zephyrion | Rey/Reina del Viento |
 | 8 | Merenia | Amanecer | Tuomi | Rey/Reina del Mar |
 | 9 | Aurelia | Amanecer | Umbra | Rey/Reina del Oro |
-| 10 | Vesperya | Amanecer | Stamatis | Rey/Reina del Tridente |
+| 10 | Vesperya | Amanecer | Valerius | Rey/Reina del Tridente |
 | 11 | Sindria | Amanecer | Goros | Rey/Reina del Foso |
 | 12 | Ylvaria | Amanecer | Gorio | Rey/Reina del Bosque |
 
@@ -55,7 +55,7 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | 1 | Kalos | Ciudadela libre | Gran Consejo | Fundada por portadores disidentes del culto al Dios Negro. |
 | 2 | Esteria | Ciudad fortaleza | Señor del Faro | Al borde del Foso de la Calamidad. Primera línea contra Rey Podrido. Sindria reclama su territorio. |
 | 3 | Ishbaal | Territorio de ultramar | Príncipe Regente | Isla al noroeste. |
-| 4 | Alesya | Territorio de ultramar | Príncipe Regente | Isla al suroeste. Alberga la Fortaleza del Sol. |
+| 4 | Alesya | Territorio de ultramar | Gran Senescal | Isla al suroeste. Cuna de los Hijos del Sol. Ruinas de Suntaris. Aldea de pescadores. |
 | 5 | Delfos | Territorio de ultramar | Regente (Casa Artema) | Isla tropical frente al Modrig. Gobernada por la Casa Artema. Los Artema portan en secreto sangre Mormund desde el exilio de Mijail. |
 | 6 | Lorka | Territorio de ultramar | Príncipe Regente | Isla al norte de Ishbaal. |
 | 7 | Paicel | Territorio de ultramar | Príncipe Regente | Isla al sureste de Delfos. |
@@ -70,7 +70,7 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 | # | Dinastía | Origen | Emperadores | Estado |
 |---|----------|--------|-------------|--------|
 | 1 | Mormund | Sturmgard (Hierro). Guerreros de las tormentas del norte. | 17 | Extinta como casa imperial. Retornó a casa noble de Sturmgard. |
-| 2 | Amschel | Lumarya (Amanecer). Casa noble de Lumarya. | 21 | Extinta como casa imperial. Retornó a casa noble de Lumarya. |
+| 2 | Amschel | Ylumarya (Amanecer). Casa noble de Ylumarya. | 21 | Extinta como casa imperial. Retornó a casa noble de Ylumarya. |
 | 3 | Pavel | — | 5 (actual) | Reinante. |
 
 ### Primera dinastía: Casa Mormund (Sturmgard)
@@ -86,9 +86,9 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 | … | Trece emperadores posteriores | Compatibles con la Concordia. |
 | 17.º | **Aldric Mormund** | Último. Nunca se casó. Deseó extinguir la línea Mormund. Provocó el quiebre de la dinastía. |
 
-### Segunda dinastía: Casa Amschel (Lumarya)
+### Segunda dinastía: Casa Amschel (Ylumarya)
 
-21 emperadores. Casa noble de Lumarya. Electa por el Stamengerin tras el quiebre de la dinastía Mormund.
+21 emperadores. Casa noble de Ylumarya. Electa por el Stamengerin tras el quiebre de la dinastía Mormund.
 
 | Orden | Nombre | Notas |
 |-------|--------|-------|

@@ -12,7 +12,7 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 | 2 | Skarngard | Hammer | Valle de Hierro | Rey/Reina del Martillo | ★ Rey Yuter Hammer | Reina Freda Brandt (Flamengard) |
 | 3 | Flamengard | Wolfen | Valle de Hierro | Rey/Reina de la Llama | ★ Rey Kaspar Wolfen | Rey Marlo Falken (Sturmgard) |
 | 4 | Sturmgard | Reisner | Valle de Hierro | Rey/Reina de la Tormenta | ★ Rey Jorin Reisner | Reina Sabina Jaeger (Waffengard) |
-| 5 | Lumarya | Corintyos | Costas del Verano | Rey/Reina del Alba | ★ Reina Octavia Corintyos | Helio Ventys (Zefirya) |
+| 5 | Ylumarya | Corintyos | Costas del Verano | Rey/Reina del Alba | ★ Reina Octavia Corintyos | Helio Ventys (Zefirya) |
 | 6 | Veleskaria | Enescu | Paso del Oriente | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
 | 7 | Zefirya | Zephyrion | Costas del Verano | Rey/Reina del Viento | ★ Rey Cassius Zephyrion | Celestya Drusio (Vesperya) |
 | 8 | Merenia | Tuomi | Tierras Antiguas | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Vesperya) |
@@ -31,9 +31,9 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 Núcleo leal al Raikim, nunca se rebelaron. Circuito matrimonial cerrado. Nombres de sonoridad germánica.
 Waffengard · Skarngard · Flamengard · Sturmgard
 
-### Costas del Verano (cambiaron a -ria)
-Descienden de la destruida Suntaris. Circuito matrimonial cerrado. Nombres de sonoridad grecolatina.
-Lumarya · Zefirya · Vesperya
+### Costas del Verano (cambiaron sufijo al rebelarse)
+Descendientes de los Hijos del Sol, los esclavos escapados de tres islas de Astria que se fundieron en un solo pueblo en Suntaris. Los tres reinos comparten origen, sangre y lengua. Nombres de sonoridad grecolatina. El cambio de sufijo no fue uniforme con el resto del Amanecer: la raíz y el sufijo mutaron juntos (Yliumgard→Ylumarya, Zephyrgard→Zefirya, Vesphyrgard→Vesperya).
+Ylumarya · Zefirya · Vesperya
 
 ### Paso del Oriente (cambiaron a -ria)
 Este del Gerin. Val mezclados con otras culturas. Forjados contra las bestias del Modrig. Nombres de sonoridad eslava.
@@ -43,7 +43,9 @@ Veleskaria · Sindria
 Centro y este del Gerin. Nombres de sonoridad finesa, latina y gaélica-vasca.
 Merenia · Aurelia · Ylvaria
 
-Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión.
+Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión. El cambio no fue uniforme: cada grupo de reinos tuvo su propia transformación del sufijo.
+
+> ⚠️ **El detonante concreto de la Rebelión del Amanecer en los reinos del Verano queda como caja negra del lore.** Suntaris fue destruida mucho antes y no puede ser el detonante, aunque sí es un antecedente histórico.
 
 ---
 
@@ -52,7 +54,7 @@ Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en 
 La distribución actual de consortes responde a afinidades políticas y culturales del momento. No existen prohibiciones formales de mezcla entre bloques; es simplemente la coyuntura presente.
 
 - **Valle de Hierro:** circuito cerrado Waffengard ↔ Skarngard ↔ Flamengard ↔ Sturmgard ↔ Waffengard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
-- **Costas del Verano:** circuito cerrado Lumarya ↔ Zefirya ↔ Vesperya ↔ Lumarya. Los tres reinos del Verano intercambian consortes entre sus casas nobles. Nerysa Undavos, de Vesperya, es la excepción: proviene de Alesya, protectorado vinculado culturalmente al Verano.
+- **Costas del Verano:** circuito cerrado Ylumarya ↔ Zefirya ↔ Vesperya ↔ Ylumarya. Los tres reinos del Verano intercambian consortes entre sus casas nobles. **Nerysa Undavos** es la nota singular: hija del Gran Senescal de Alesya, una pescadora de las ruinas de Suntaris casada con Marcus Valerius de Vesperya.
 - **Paso del Oriente y Tierras Antiguas:** intercambios internos y entre sí según conveniencia política.
 
 ---
@@ -67,7 +69,7 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Skarngard | Rey/Reina del Martillo | Rey Martillo / Reina Martillo |
 | Flamengard | Rey/Reina de la Llama | Rey Llama / Reina Llama |
 | Sturmgard | Rey/Reina de la Tormenta | Rey Tormenta / Reina Tormenta |
-| Lumarya | Rey/Reina del Alba | Rey Alba / Reina Alba |
+| Ylumarya | Rey/Reina del Alba | Rey Alba / Reina Alba |
 | Veleskaria | Rey/Reina de la Montaña | Rey Montaña / Reina Montaña |
 | Zefirya | Rey/Reina del Viento | Rey Viento / Reina Viento |
 | Merenia | Rey/Reina del Mar | Rey Mar / Reina Mar |
@@ -83,15 +85,15 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Reino | Concepto | Notas |
 |-------|----------|-------|
 | Waffengard | Norte militar, acero | Yunque del imperio. Casa Meister, germánico. Valle de Hierro. |
-| Skarngard | Montañas, forjas, Veralim | Cuna de Casa Valgard. Casa Hammer, germánico. Valle de Hierro. |
+| Skarngard | Montañas, forjas, Verilium | Cuna de Casa Valgard. Casa Hammer, germánico. Valle de Hierro. |
 | Flamengard | Noroeste volcánico, piromancia | Casa Wolfen, germánico. Valle de Hierro. |
 | Sturmgard | Fiordos helados, tormentas, hombres duros | Frío extremo. Tierra pobre. Casa Reisner, germánico. Valle de Hierro. |
-| Lumarya | Suroeste, centro espiritual de la rebelión | Casa Corintyos, grecolatino. Desciende de Suntaris: el alma. |
+| Ylumarya | Norte del Verano, centro espiritual de la rebelión | Casa Corintyos, grecolatino. Herederos de la mística Solaris y la Triple Corona. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
-| Zefirya | Planicies del sur, vientos | Solaris casa noble. Casa Zephyrion, grecolatino. Desciende de Suntaris: el arte. |
-| Merenia | Único puerto accesible de Dragma | Casa Tuomi, finés. Tierras Antiguas. |
+| Zefirya | Planicies del suroeste, vientos | Solaris casa noble. Casa Zephyrion, grecolatino. Técnica del viento de Lorian. |
+| Merenia | Puerto marítimo | Casa Tuomi, finés. Tierras Antiguas. |
 | Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, Tierras Antiguas. |
-| Vesperya | Costa del Verano, flota astriana | Casa Valerius, grecolatino. Desciende de Suntaris: la sangre marinera. |
+| Vesperya | Sureste del Verano, guardián del Estrecho de Vespa | Casa Valerius, grecolatino. Flota suntariana. Escudo naval de Eldengaria. |
 | Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
 | Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. Tierras Antiguas. |
 
@@ -99,21 +101,19 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 
 ## Los tres reinos de Suntaris
 
-Tres reinos del Verano descienden directamente de la destruida ciudad libre de Suntaris:
+Los tres reinos del Verano descienden de **Suntaris**, la gran ciudadela que los **Hijos del Sol** —esclavos escapados de tres islas de Astria— erigieron en la isla de Alesya. Allí, los tres pueblos se fundieron en uno solo. La división en tres reinos fue impuesta por el Raikim para impedir que se unieran como nación.
 
-| Reino | Herencia | Título |
-|-------|----------|--------|
-| Lumarya | El alma: mística Solaris, custodia de la Triple Corona | Alba |
-| Zefirya | El arte: Casa Solaris sin corona, técnica del viento de Lorian | Viento |
-| Vesperya | La sangre: pescadores y marinos originales de Suntaris | Tridente |
+| Reino | Posición | Identidad | Título |
+|-------|----------|-----------|--------|
+| Ylumarya | Norte | Heredera de la mística Solaris y la Triple Corona | Alba |
+| Zefirya | Suroeste | Casa Solaris sin corona, planicies del viento | Viento |
+| Vesperya | Sureste | Guardián del Estrecho de Vespa, flota suntariana | Tridente |
 
 ---
 
 ## Clave histórica
 
-- **Suntaris** era ciudad libre, casa real Solaris. Destruida por Grimar Valgard y sus aliados.
-- **Triple Corona de Suntaris:** detonante de la rebelión.
-- 45 años después de la destrucción de Suntaris estalló la rebelión de los 8 reinos contra Grimar.
+- **Suntaris** fue la ciudadela de los Hijos del Sol en la isla de **Alesya** (la Isla Hermosa). Escudo de Kalos contra las peregrinaciones negras astrianas. Destruida por los Valgard en un ataque anunciado; la población ya había evacuado al continente. Los tres reinos del Verano descienden de sus fundadores.
 - **Edicto del Amanecer:** escrito por Lorian Solaris, respuesta al Raikim. Fundamento del Imperio de Dragma.
 - Solaris hoy es casa noble en Zefirya, sin corona.
 - 17 Raiks gobernaron Valgard: primero Rudgar, último Grimar (Grimar de Piedra).
@@ -126,10 +126,13 @@ Tres reinos del Verano descienden directamente de la destruida ciudad libre de S
 ✅ Los 12 reinos tienen gobernante definido.
 
 ### Lore por desarrollar
+- Reimaginación profunda de Ylumarya (capital, casa, título, concepto)
+- Reimaginación profunda de Zefirya (capital, casa, título, concepto)
+- Reimaginación profunda de Vesperya (capital, casa, título, concepto)
 - Lorian Solaris: ubicación temporal
 - Triple Corona de Suntaris: nombres
-- Casa Umbra y el culto al Dios Negro
-- Destrucción de Suntaris
+- Detonante concreto de la rebelión en el Verano (caja negra)
+- La Guerra de los Hermanos (conflicto entre los tres reinos del Verano durante la dinastía Mormund)
 
 ---
 

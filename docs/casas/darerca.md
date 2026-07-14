@@ -13,8 +13,8 @@
 
 ## Historia y descripción
 
-Casa noble de Ylvaria. Nombres de sonoridad gaélica-vasca. Linaje dentro de la Casa Gorio. Casa de origen del rey consorte de Lumarya.
+Casa noble de Ylvaria. Nombres de sonoridad gaélica-vasca. Linaje dentro de la Casa Gorio. Casa de origen del rey consorte de Ylumarya.
 
 ## Miembros relevantes
 
-- **Gaizka Darerca**. Rey consorte de Lumarya. Hermano de Dreide Gorio.
+- **Gaizka Darerca**. Rey consorte de Ylumarya. Hermano de Dreide Gorio.

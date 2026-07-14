@@ -67,7 +67,7 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | Sk | Skarngard | HIERRO | Germánica (nombres) |
 | St | Sturmgard | HIERRO | Germánica (nombres) |
 | Fl | Flamengard | HIERRO | Germánica (nombres) |
-| Lm | Lumarya | VERANO | Grecolatina (nombres) |
+| Lm | Ylumarya | VERANO | Grecolatina (nombres) |
 | Zf | Zefirya | VERANO | Grecolatina (nombres) |
 | El | Vesperya | VERANO | Grecolatina (nombres) |
 | Sd | Sindria | ORIENTE | Eslava (nombres) |
@@ -155,7 +155,7 @@ Bloque: filas B1-B3, columnas 3a-3c (parcial). Cedió B3-3b a Eldengaria y B3-3c
 | B2-3c | E | Waffenfeld | Campo oriental |
 | B3-3a | SO | Waffenfurt | Vado del suroeste (linde con Eldengaria) |
 
-### Lumarya [Lm] — Costas del Verano
+### Ylumarya [Lm] — Costas del Verano
 
 Bloque: filas C1-C3, columnas 1a-1c.
 
@@ -165,7 +165,7 @@ Bloque: filas C1-C3, columnas 1a-1c.
 | C1-1b | N | Lumynea | Meseta norte |
 | C1-1c | NE | Lumystia | Puerto del noreste |
 | C2-1a | O | Lumoros | Valle occidental |
-| C2-1b | * | Lumarya | Capital (ciudad del Alba) |
+| C2-1b | * | Ylumarya | Capital (ciudad del Alba) |
 | C2-1c | E | Lumorion | Costa oriental |
 | C3-1a | SO | Lumyphos | Faro del suroeste |
 | C3-1b | S | Lumythea | Puerto sur |

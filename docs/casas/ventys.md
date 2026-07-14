@@ -10,4 +10,4 @@ Zefirya (Costas del Verano)
 Casa noble de Zefirya. Su nombre evoca los vientos que recorren las planicies del sur.
 
 ## Miembros relevantes
-- Helio Ventys: rey consorte de Lumarya
+- Helio Ventys: rey consorte de Ylumarya

@@ -1,9 +1,13 @@
 # Octavia Corintyos
 
 ## Identidad
-Reina gobernante de **Lumarya** (Costas del Verano). Casa Corintyos.
+Reina gobernante de **Ylumarya** (Costas del Verano). Casa Corintyos.
 
-- **Reino:** Lumarya (suroeste, centro espiritual de la rebelión).
+- **Reino:** Ylumarya (norte del Verano, centro espiritual de la rebelión).
+- **Título:** Reina del Alba.
+
+## Personalidad
+Pendiente.
 
 ## Relaciones
-- **Helio Ventys:** esposo. Rey consorte de Lumarya. Originario de Zefirya (Casa Ventys).
+- **Helio Ventys:** esposo. Rey consorte de Ylumarya. Originario de Zefirya (Casa Ventys).

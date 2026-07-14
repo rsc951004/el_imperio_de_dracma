@@ -19,14 +19,14 @@ El Gerin se divide en 4 regiones geográfico-culturales distribuidas en un table
     1               2               3               4               5
 A  Flamengard     Veleskaria      Sindria         Malakia/Bramo   El Modrig
 B  Skarngard      Sturmgard       Waffengard      Estomur         El Modrig
-C  Lumarya        Merenia        Aurelia         Estomur         El Modrig
+C  Ylumarya        Merenia        Aurelia         Estomur         El Modrig
 D  Zefirya        Vesperya          Ylvaria         Estomur         El Modrig
 ```
 
 | Región | Reinos | Nombres | Posición |
 |--------|--------|-----------|----------|
 | **Valle de Hierro** | Flamengard, Skarngard, Sturmgard, Waffengard | Germánica | A1, A2, B1, B2 (noroeste) |
-| **Costas del Verano** | Lumarya, Zefirya, Vesperya | Grecolatina | C1, D1, D2 (suroeste costero) |
+| **Costas del Verano** | Ylumarya, Zefirya, Vesperya | Grecolatina | C1, D1, D2 (suroeste costero) |
 | **Paso del Oriente** | Veleskaria, Sindria | Eslava | A3, B3 (este) |
 | **Tierras Antiguas** | Merenia, Aurelia, Ylvaria | Finesa, latina, gaélica-vasca | C2, C3, D3 (centro-este/sureste) |
 
