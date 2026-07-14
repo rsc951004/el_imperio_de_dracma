@@ -7,7 +7,7 @@ Casa real
 Ylumarya (Costas del Verano)
 
 ## Historia y descripción
-Casa reinante de Ylumarya. Heredera del alma de Suntaris: custodia de la mística Solaryss y de la Triple Corona. La casa juró que la luz de Suntaris volvería a guiar Dragma.
+Casa reinante de Ylumarya. Heredera del alma de Suntarys: custodia de la mística Solaryss y de la Triple Corona. La casa juró que la luz de Suntarys volvería a guiar Dragma.
 
 ## Título
 Rey/Reina del Alba

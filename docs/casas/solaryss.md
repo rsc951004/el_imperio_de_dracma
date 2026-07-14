@@ -5,8 +5,8 @@
 | Campo | Valor |
 |-------|-------|
 | **Nombre** | Solaryss |
-| **Tipo** | Casa noble. Antigua casa real de Suntaris. |
-| **Reino** | Zefirya (casa noble sin corona). Origen en Suntaris (Reino del Verano). |
+| **Tipo** | Casa noble. Antigua casa real de Suntarys. |
+| **Reino** | Zefirya (casa noble sin corona). Origen en Suntarys (Reino del Verano). |
 | **Lema** | *Hijos del Amanecer, Herederos del Sol.* |
 | **Colores** | Azul cielo (principal), rojo y dorado. |
 | **Escudo** | Campo azul, sol dorado naciente sobre ondas de plata, tres coronas doradas, ave dorada en jefe, bordura roja. |
@@ -15,7 +15,7 @@
 
 ## Historia y descripción
 
-Casa real del antiguo Reino del Verano (Suntaris) durante casi cuatrocientos años. Suntaris fue una ciudad libre destruida por Grimar Valgard y sus aliados. Hoy, los Solaryss son una casa noble en Zefirya, sin corona. De su linaje surgió Loryan Solaryss, autor del Edicto del Amanecer —el documento fundacional del Imperio— y creador de la técnica del viento que permite deslizarse sobre las corrientes de aire. Son herederos del alma, el arte y la sangre de Suntaris.
+Casa real del antiguo Reino del Verano (Suntarys) durante casi cuatrocientos años. Suntarys fue una ciudad libre destruida por Grimar Valgard y sus aliados. Hoy, los Solaryss son una casa noble en Zefirya, sin corona. De su linaje surgió Loryan Solaryss, autor del Edicto del Amanecer —el documento fundacional del Imperio— y creador de la técnica del viento que permite deslizarse sobre las corrientes de aire. Son herederos del alma, el arte y la sangre de Suntarys.
 
 Raíces raciales: Taryim (belleza, salud, armonía), Royrim (simbolismo solar, majestad), Ylum (elegancia, porte, distinción). Los Solaryss portan una belleza delicada, refinada y luminosa. En los hombres es notable sin ser afeminada.
 
