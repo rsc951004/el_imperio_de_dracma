@@ -58,7 +58,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Valerius Umbra | Rey gobernante | Aurelia (Tierras Antiguas) | [Ver ficha](personajes/monarcas/valerius-umbra.md) |
 | Taria Eskola | Reina consorte | Aurelia ← Merenia (Tierras Antiguas) | [Ver ficha](personajes/monarcas/taria-eskola.md) |
 | Marcus Valeryus | Rey gobernante | Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/marcus-valeryus.md) |
-| Neryssa Undavos | Reina consorte | Vesperya ← Alesya (Costas del Verano) | [Ver ficha](personajes/monarcas/neryssa-undavos.md) |
+| Neryssa Undavos | Reina consorte | Vesperya ← Alessya (Costas del Verano) | [Ver ficha](personajes/monarcas/neryssa-undavos.md) |
 | Uriel Goros | Rey gobernante | Sindria (Paso del Oriente) | [Ver ficha](personajes/monarcas/uriel-goros.md) |
 | Ecaterina Cojocaru | Reina consorte | Sindria ← Veleskaria (Paso del Oriente) | [Ver ficha](personajes/monarcas/ecaterina-cojocaru.md) |
 | Dreide Gorio | Reina gobernante | Ylvaria (Tierras Antiguas) | [Ver ficha](personajes/monarcas/dreide-gorio.md) |

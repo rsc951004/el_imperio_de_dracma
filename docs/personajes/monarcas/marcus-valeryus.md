@@ -10,4 +10,4 @@ Rey gobernante de **Vesperya** (Costas del Verano). Casa Valeryus. Guardián mar
 Pendiente.
 
 ## Relaciones
-- **Neryssa Undavos:** esposa. Reina consorte de Vesperya. Hija del Príncipe Guardián de Alesya.
+- **Neryssa Undavos:** esposa. Reina consorte de Vesperya. Hija del Príncipe Guardián de Alessya.

@@ -19,7 +19,7 @@ Declaró que **Vesperya** —por su deber de guardián del Estrecho de la Tríad
 
 Cuando Ylumarya invadió Zefirya y los muertos se contaron por miles, Edrik actuó con mano dura: **ejecutó a ambos reyes** —Kleóndras Aetheryon y Kyros Albyon— y **proscribió a sus casas del Dex Códice**, el gran registro de la Dex Tábura. La casa Coralyss también fue proscrita. Ninguno de esos nombres puede volver a usarse en el imperio.
 
-Convocó el **Stamengerin**, que nombró nuevas casas reales para Ylumarya (Corinthyos) y Zefirya (Zephyryon), y convirtió Alessya en el **Principado de Alesya**, un protectorado imperial gobernado por un Príncipe Guardián.
+Convocó el **Stamengerin**, que nombró nuevas casas reales para Ylumarya (Corinthyos) y Zefirya (Zephyryon), y convirtió Alessya en el **Principado de Alessya**, un protectorado imperial gobernado por un Príncipe Guardián.
 
 El legado de Edrik es controvertido. Para unos, fue un emperador implacable que decapitó a dos reinos hermanos. Para otros, fue el único que evitó que la Guerra de los Hermanos se convirtiera en una guerra civil del imperio.
 
