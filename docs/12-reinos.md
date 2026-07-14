@@ -17,7 +17,7 @@
 | 9 | Lyng | Korn | Tierra del Oriente | Rey/Reina del Valle | ★ Rey Ravn Korn | Pendiente |
 | 10 | Vesperya | Valeryus | Costas del Verano | Rey/Reina del Tridente | ★ Rey Marcus Valeryus | Neryssa Undavos (Alessya) |
 | 11 | Sindria | Goros | Paso del Oriente | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
-| 12 | Bjorn | Borg | Tierra del Oriente | Pendiente | ★ Rey Skov Borg | Pendiente |
+| 12 | Bjorn | Borg | Tierra del Oriente | Rey/Reina del Bosque | ★ Rey Skov Borg | Pendiente |
 
 ★ = gobernante reinante
 
@@ -72,7 +72,7 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Zephyrya | Rey/Reina del Ocaso | Rey Ocaso / Reina Ocaso |
 | Kyst | Rey/Reina de la Costa Gris | Rey Gris / Reina Gris |
 | Lyng | Rey/Reina del Valle | Rey Valle / Reina Valle |
-| Bjorn | Pendiente | Pendiente |
+| Bjorn | Rey/Reina del Bosque | Rey Bosque / Reina Bosque |
 | Vesperya | Rey/Reina del Tridente | Rey Tridente / Reina Tridente |
 | Sindria | Rey/Reina del Foso | Rey Foso / Reina Foso |
 
@@ -89,9 +89,9 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Lysarya | Norte del Verano, pastoreo, puente con el Hierro | Casa Corinthyos, grecolatino. El hermano sencillo: piedad y trabajo duro. Costa de acantilados. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
 | Zephyrya | Planicies del suroeste, turismo curativo, flor del Verano | Casa Zephyryon, grecolatino. Playas hermosas y atardeceres violetas. Filosofía simple y libre. |
-| Kyst | Costa pesquera, acantilados | Casa pendiente, nórdico. Tierra del Oriente. Puerto al este, acantilados al oeste. |
-| Lyng | Valle fértil, brezales | Casa pendiente, nórdico. Tierra del Oriente. El corazón agrícola de los Gente de la Bruma. |
-| Bjorn | Bosque profundo, fortaleza fronteriza | Casa pendiente, nórdico. Tierra del Oriente. Guardián del este contra el Estomur. |
+| Kyst | Puerto Gris, costa pesquera, niebla perpetua | Casa Fjord, nórdico. Tierra del Oriente. Pescadería que alimenta la región. Clima gris y nublado. |
+| Lyng | Valle fértil, brezales, granero del imperio | Casa Korn, nórdico. Tierra del Oriente. Agricultura masiva. Proveedor de Eldengaria. |
+| Bjorn | Centro comercial del sur, último bosque sagrado | Casa Borg, nórdico. Tierra del Oriente. Paso obligado a Kalos. Memoria del bosque arrasado por los Val. |
 | Vesperya | Sureste del Verano, guardián del Estrecho de la Tríada | Casa Valeryus, grecolatino. Reino del desafío: hedonismo, libertad. La Tríada: tres arcos de piedra. |
 | Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
 
@@ -109,9 +109,9 @@ A diferencia de los reinos del Verano —creados por el Raikim—, Kyst, Lyng y 
 
 | Reino | Posición | Identidad | Título |
 |-------|----------|-----------|--------|
-| Kyst | Oeste | El hermano del mar: pesca, astilleros, niebla. Costa al este, acantilados al oeste. | Pendiente |
-| Lyng | Centro-norte | El corazón agrícola: brezo, viñedos, trigo. El más próspero y hospitalario. | Pendiente |
-| Bjorn | Este | El guardián del bosque: frontera contra el Estomur, fortalezas de piedra. El oso no busca pelea, pero quien entra en su bosque la encuentra. | Pendiente |
+| Kyst | Oeste | El hermano del mar: Puerto Gris, pesca, niebla perpetua. Costa al este, acantilados al oeste. | Costa Gris |
+| Lyng | Centro-norte | El corazón fértil: brezo, viñedos, trigo. Proveedor de Eldengaria y de la Bruma. El reino que da al valle. | Valle |
+| Bjorn | Este | El centro del sur: paso obligado a Kalos, mercados, comercio. Guardián del último bosque sagrado. Memoria de lo arrasado. | Bosque |
 
 ---
 

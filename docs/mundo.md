@@ -99,7 +99,7 @@ mundo/
 | 9 | Lyng | Tierra del Oriente | Korn | Rey/Reina del Valle | Rey Ravn Korn | [Ver ficha](mundo/estigria/dragma/lyng/lyng.md) |
 | 10 | Vesperya | Costas del Verano | Valeryus | Rey/Reina del Tridente | Rey Marcus Valeryus | [Ver ficha](mundo/estigria/dragma/vesperya/vesperya.md) |
 | 11 | Sindria | Paso del Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
-| 12 | Bjorn | Tierra del Oriente | Borg | Pendiente | Rey Skov Borg | [Ver ficha](mundo/estigria/dragma/bjorn/bjorn.md) |
+| 12 | Bjorn | Tierra del Oriente | Borg | Rey/Reina del Bosque | Rey Skov Borg | [Ver ficha](mundo/estigria/dragma/bjorn/bjorn.md) |
 
 ★ = gobernante reinante
 

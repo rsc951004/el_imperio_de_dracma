@@ -17,7 +17,9 @@ Pendiente
 - Actual: **Borg**
 
 ## Título del gobernante
-Pendiente — en discusión.
+**Rey del Bosque** o **Reina del Bosque**. Forma abreviada entre monarcas: Rey Bosque o Reina Bosque.
+
+El título es memoria y promesa. Memoria del bosque inmenso que cubría Bjorn antes del Raikim, cuando la Gente de la Bruma —que jamás había visto un árbol hasta llegar al Gerin— encontró en estas tierras la prueba de que el mundo podía ser generoso y pacífico. Promesa de proteger lo poco que queda: el último bosque de Bjorn, sagrado e intocable, lo único que los Val occidentales no alcanzaron a talar.
 
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. A diferencia de los reinos del Verano —creados por el Raikim—, Bjorn ya existía siglos antes. Fue conquistado por el Raikim, que le impuso el sufijo -gard como marca de dominio. Con la rebelión se lo arrancó y recuperó su nombre original.
@@ -37,20 +39,22 @@ Navegaron al sur por mar hasta que las corrientes del **Cayo Negro** los bloquea
 Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos a las costas del Gerin, no pudieron entrar por el Verano, entonces conocido como la **Costa Desolada**. Siguieron al este y encontraron en los Kystvaer refugio. Los Caminantes de la Bruma ya habían luchado contra un ser dominado por un Mobius y conocían el peligro del culto. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**.
 
 ## Geografía
-Bjorn ocupa el flanco oriental de la Tierra del Oriente. Es el más extenso de los tres reinos de la Bruma y el más agreste. Su territorio está dominado por un **bosque profundo y antiguo**, denso como la memoria de la Mørkkyst. Robles, abetos, pinos negros. Arroyos de agua helada. Claros donde la niebla se estanca por la mañana y no se levanta hasta el mediodía.
+Bjorn ocupa el flanco oriental de la Tierra del Oriente. Es el más extenso de los tres reinos de la Bruma. Su territorio es una franja que conecta el puerto de Kyst al oeste con los valles agrícolas de Lyng al norte, y que se estrecha hacia el sureste en una península irregular donde se asienta Kalos. Es paso obligado para todo viajero que quiera llegar a la ciudadela.
 
-Al este, el bosque muere contra las estribaciones del **Estomur**. Las laderas son escarpadas, cubiertas de piedra suelta y vegetación raquítica. Ahí se alzan las **fortalezas de piedra** de los Bjorneses: torres bajas y macizas, construidas con la misma roca de la montaña, como si el Estomur mismo se hubiera levantado para vigilar la frontera.
+El bosque que dio nombre al reino —el gran bosque que la Gente de la Bruma encontró al llegar del Mørkkyst— casi no existe ya. Los Val occidentales lo talaron durante el Raikim, árbol por árbol, para construir barcos, fortalezas y máquinas de guerra. Para los brumenses fue un estupor: ellos jamás habían visto un árbol antes de pisar el Gerin. En la Costa Negra no crecía nada más alto que un arbusto raquítico. Aquellos robles y abetos eran para ellos la expresión viva de una tierra generosa, pacífica, todo lo que nunca tuvieron. Cuando los Val los cortaron, no solo destruyeron madera: destruyeron una prueba de que el mundo podía ser bueno.
 
-Al sur, la costa se fragmenta en una **península irregular** donde se asienta Kalos. El terreno es quebrado, los acantilados caen al mar sin aviso. Es tierra de niebla y salitre.
+Hoy solo queda **el último bosque de Bjorn**, en la franja oriental cerca del Estomur. Es sagrado e intocable. Rodeado de murallas bajas de piedra, vigilado por guardianes que no portan armas sino semillas. Nadie entra sin permiso del rey.
 
-El clima es el más frío de los tres reinos de la Bruma. La nieve no es rara en invierno. El oso —el *bjorn* que da nombre al reino— todavía merodea los bosques altos.
+El resto del territorio es un paisaje de colinas suaves, arroyos y tierras de pastoreo. El clima es el más templado de los tres reinos de la Bruma. La nieve es rara. El oso —el *bjorn* que da nombre al reino— todavía merodea el bosque sagrado.
 
 ## Concepto
-El guardián de la Gente de la Bruma. Mientras Kyst pesca y Lyng cultiva, Bjorn **vigila**. Su bosque no es un refugio: es una muralla viva entre el Gerin y el Estomur, entre la civilización y lo que queda al otro lado de la montaña.
+La capital del sur. Bjorn es el reino más rico de la Gente de la Bruma. Mientras Kyst pesca y Lyng cultiva, Bjorn **conecta**. Su posición como paso obligado hacia Kalos lo ha convertido en el centro comercial de la región: la pesca de Kyst y el trigo de Lyng pasan por sus mercados antes de seguir viaje. Es el más próspero, el más bullicioso, el más cosmopolita de los tres.
 
-Los bjorneses son los más reservados de los tres hermanos. Hablan poco, observan mucho. Son los que mejor conservan las tradiciones del Mørkkyst: los ritos de niebla, la lectura de las huellas, el canto grave a una sola voz. No son hoscos —un bjornés jamás negará hospitalidad—, pero su cordialidad es parca, medida, sin los ademanes cálidos de un lyngardés.
+Pero debajo del comercio late una herida antigua. La Gente de la Bruma llegó al Gerin desde un mundo sin árboles, y lo que encontraron aquí —robles, abetos, un horizonte verde que no terminaba— fue la prueba de que esta tierra era distinta. Viva. Generosa. Los Val occidentales, durante el Raikim, talaron casi todo. Hoy los bjorneses cargan con la memoria de lo arrasado y la responsabilidad de lo poco que queda.
 
-**El oso no busca pelea, pero quien entra en su bosque la encuentra.** Es el dicho que los define. Bjorn no ataca. Bjorn está. Y con eso basta.
+El bosque sagrado de Bjorn no es un recurso: es un santuario. Los guardianes que lo protegen no portan armas sino semillas. Se dice que el último árbol que caiga en Bjorn será cortado por un Val occidental. Y esta vez no habrá Raikim que lo permita.
+
+Los bjorneses son comerciantes, no guerreros. Pero debajo del mercader que regatea hay un guardián que recuerda. Y el oso no olvida.
 
 ## Gobierno
 Regido por la Casa Borg. El rey reinante es **Skov Borg ★**. Consorte pendiente.
@@ -63,14 +67,18 @@ Kalos está en territorio que históricamente perteneció a los Kystvaer. Fue ce
 Kalos fue sitiada por el Raikim durante siglos. Nunca tomada. Los bjorneses ayudaron a defenderla desde fuera, hostigando las líneas de asedio, negando provisiones al enemigo. La relación entre Bjorn y Kalos es fraternal, no de dependencia.
 
 ## Historia
-Bjorn fue fundado por los Kystvaer tras cruzar el Estomur y ser rechazados por los Val del centro. Es uno de los tres asentamientos originales de los Caminantes de la Bruma en el Gerin. Por su posición junto a la cordillera, fue desde el principio el reino de la frontera, el que vigilaba el este mientras sus hermanos pescaban y cultivaban.
+Bjorn fue fundado por los Kystvaer tras cruzar el Estomur y ser rechazados por los Val del centro. Es uno de los tres asentamientos originales de la Gente de la Bruma en el Gerin. Su posición estratégica —paso obligado hacia la península de Kalos— lo convirtió desde el principio en el centro comercial de la región.
 
-El Raikim Valgard conquistó el reino siglos después y le impuso el nombre de **Bjorngard**. A diferencia de los Dominios del Verano —creados desde cero por el Raikim—, Bjorn ya existía. El -gard fue una imposición, no una fundación.
+La Gente de la Bruma llegó a estas tierras sin haber visto jamás un árbol. En la Mørkkyst no crecía nada más alto que arbustos raquíticos. El bosque inmenso que cubría Bjorn fue para ellos una revelación: la prueba de que el mundo podía ser distinto. Veneraron los árboles como expresiones de una tierra viva y generosa.
+
+Durante el Raikim, los Val occidentales talaron casi todo el bosque para construir barcos, fortalezas y máquinas de guerra. Para los brumenses fue un estupor que aún hoy resuena. Solo un último bosque, en la franja oriental cerca del Estomur, sobrevivió. Es sagrado e intocable.
+
+El Raikim Valgard conquistó el reino y le impuso el nombre de **Bjorngard**. A diferencia de los Dominios del Verano —creados desde cero por el Raikim—, Bjorn ya existía. El -gard fue una imposición, no una fundación.
 
 En la Rebelión del Amanecer, Bjorn se alzó con los otros siete reinos y recuperó su nombre original.
 
 ## Economía
-Explotación forestal. Cantería de piedra para fortificaciones. Caza y peletería. Defensa de la frontera oriental.
+Comercio regional. Mercados que conectan la pesca de Kyst con la agricultura de Lyng. Paso obligado de viajeros hacia Kalos. Peaje y hospedaje. Pastoreo en las colinas despejadas tras la tala. El bosque sagrado no se explota.
 
 ## Referencias
 - `docs/12-reinos.md`
