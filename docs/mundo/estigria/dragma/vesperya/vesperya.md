@@ -37,7 +37,7 @@ Vesperya tiene el clima más cálido de los tres reinos del Verano. Su costa es 
 ### La Tríada
 En el punto más angosto del estrecho, donde Vesperya casi toca Merenia, se alzan **tres arcos de piedra colosales** construidos en la Edad de los Mil Reinos. Uno sigue en pie; los otros dos están medio derrumbados. Nadie cruza por arriba —peligro de derrumbe—, pero los barcos pasan **por debajo**: la entrada al estrecho está bajo los arcos.
 
-En la cara inferior de las bóvedas hay **grabados de bestias y batallas** que los navegantes admiran al pasar. Es el umbral entre el mar abierto y el corazón del imperio. Las tres puntas del tridente de los Valerius son estos tres arcos.
+En la cara inferior de las bóvedas hay **grabados de bestias y batallas** que los navegantes admiran al pasar. Es el umbral entre el mar abierto y el corazón del imperio. Las tres puntas del tridente de los Valeryus son estos tres arcos.
 
 ### El Estrecho de la Tríada
 El estrecho se ensancha tierra adentro hasta desembocar en la **Bahía de los Reyes**, donde está el puerto de Eldengaria. Vesperya controla el acceso desde el mar. **Ningún barco entra al imperio sin autorización vesperiana.** Del otro lado del estrecho, las Tierras Antiguas están protegidas por un cordón montañoso. La capital solo es vulnerable por agua. Y en el agua está Vesperya.
@@ -65,7 +65,7 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Vesperya:** verde — el mar profundo, la aventura, el estrecho.
 
 ## Gobierno
-Regido por la Casa Valerius. El rey reinante es **Marcus Valeryus ★**, Rey del Tridente. Su consorte es **Neryssa Undavos**, hija del Príncipe Guardián de Alesya.
+Regido por la Casa Valeryus. El rey reinante es **Marcus Valeryus ★**, Rey del Tridente. Su consorte es **Neryssa Undavos**, hija del Príncipe Guardián de Alesya.
 
 ## Historia
 Vesperya fue fundada por el Raikim Valgard como **Vesphyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Su posición geográfica la convirtió desde el principio en la potencia naval de los Hijos del Sol.
@@ -89,7 +89,7 @@ Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; *
 ## Relaciones exteriores
 - **Zefirya:** hermano del oeste. Adoración y deseo. Los vesperianos veneran a los zefiryanos pero no pueden evitar querer morder la manzana. Relación intensa y complicada.
 - **Ylumarya:** hermano del norte. Aburridos y estirados. Demasiado parecidos al Hierro. Cordialidad sin entusiasmo.
-- **Alesya:** cuna sagrada. Nerysa Undavos, la reina consorte, es hija del Príncipe Guardián.
+- **Alesya:** cuna sagrada. Neryssa Undavos, la reina consorte, es hija del Príncipe Guardián.
 - **Eldengaria:** la capital que protegen. Relación de dependencia mutua.
 - **Merenia:** al otro lado del estrecho. Vecinos silenciosos. Se observan desde orillas opuestas.
 

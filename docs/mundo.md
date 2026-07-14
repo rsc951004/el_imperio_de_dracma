@@ -105,7 +105,7 @@ mundo/
 
 **Valle de Hierro** (1-4): germánicos, fríos, marciales. Núcleo leal al Raikim, nunca se rebelaron. Conservan el sufijo -gard.
 
-**Costas del Verano** (5, 7, 10): Descendientes de los Hijos del Sol, esclavos escapados de tres islas de Astria que se fundieron en un solo pueblo en Suntaris (Alesya). Los tres reinos comparten origen, sangre y lengua. Lideraron la rebelión desde la costa suroeste del Gerin.
+**Costas del Verano** (5, 7, 10): Descendientes de los Hijos del Sol, esclavos escapados de tres islas de Astria que se fundieron en un solo pueblo en Suntarys (Alessya). Los tres reinos comparten origen, sangre y lengua. Lideraron la rebelión desde la costa suroeste del Gerin.
 
 **Paso del Oriente** (6, 11): eslavos. Val mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que alcanzaban El Bramo desde El Modrig a través de los fiordos fragmentados y amenazaban cruzar el Foso de la Calamidad hacia El Gerin. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
 
@@ -113,7 +113,7 @@ mundo/
 
 En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y Tierras Antiguas formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
 
-Tres reinos del Verano descienden directamente de Suntaris: **Ylumarya** (el más septentrional, pastoreo y puente con el Hierro), **Zefirya** (planicies del suroeste, flor del Verano, Casa Solaryss sin corona y técnica de Loryan), **Vesperya** (el más oriental y más pequeño, guardián del Estrecho de la Tríada y la Bahía de los Reyes). Los tres comparten un mismo origen en los Hijos del Sol. La división fue impuesta por el Raikim para impedir que se unieran como nación.
+Tres reinos del Verano descienden directamente de Suntarys: **Ylumarya** (el más septentrional, pastoreo y puente con el Hierro), **Zefirya** (planicies del suroeste, flor del Verano, Casa Solaryss sin corona y técnica de Loryan), **Vesperya** (el más oriental y más pequeño, guardián del Estrecho de la Tríada y la Bahía de los Reyes). Los tres comparten un mismo origen en los Hijos del Sol. La división fue impuesta por el Raikim para impedir que se unieran como nación.
 
 #### Capital imperial
 
@@ -128,7 +128,7 @@ Tres reinos del Verano descienden directamente de Suntaris: **Ylumarya** (el má
 | 1 | Kalos | Ciudadela | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. Conocida como la Ciudadela de Kalos. | [Ver ficha](mundo/estigria/dragma/kalos/kalos.md) |
 | 2 | Esteria | Ciudad fortaleza | Ciudad fundada al borde del Foso de la Calamidad para contener la oscuridad del este. Anterior al Raikim. Sindria reclama su territorio. Conocida como Ciudad Esteria. | [Ver ficha](mundo/estigria/dragma/esteria/esteria.md) |
 | 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/estigria/dragma/ishbaal/ishbaal.md) |
-| 4 | Alesya | Isla | Isla al suroeste. Cuna de los Hijos del Sol. Alberga las ruinas de Suntaris, la gran ciudadela que fue escudo de Kalos contra las peregrinaciones negras astrianas. Protectorado rico gobernado por un Príncipe Guardián. Inalienable por ley de la Concordia. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
+| 4 | Alessya | Isla | Isla al suroeste. Cuna de los Hijos del Sol. Alberga las ruinas de Suntarys, la gran ciudadela que fue escudo de Kalos contra las peregrinaciones negras astrianas. Protectorado rico gobernado por un Príncipe Guardián. Inalienable por ley de la Concordia. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
 | 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por el navegante elyrio Artemis en la Edad de los Mil Reinos. Conocida como Delfos la Solitaria. | [Ver ficha](mundo/estigria/dragma/delfos/delfos.md) |
 | 6 | Lorka | Isla | Territorio de ultramar al norte de Ishbaal. Aguas frías, costas rocosas. | [Ver ficha](mundo/estigria/dragma/lorka/lorka.md) |
 | 7 | Paicel | Isla | Territorio de ultramar al sureste de Delfos. Aguas templadas, vegetación densa. | [Ver ficha](mundo/estigria/dragma/paicel/paicel.md) |
@@ -139,4 +139,4 @@ Tres reinos del Verano descienden directamente de Suntaris: **Ylumarya** (el má
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Suntaris | Ciudadela destruida | Antigua ciudadela de los Hijos del Sol en la isla de Alesya. Destruida por los Valgard en un ataque anunciado; la población ya había evacuado al continente. Los tres reinos del Verano descienden de sus fundadores. | Pendiente |
+| Suntarys | Ciudadela destruida | Antigua ciudadela de los Hijos del Sol en la isla de Alessya. Destruida por los Valgard en un ataque anunciado; la población ya había evacuado al continente. Los tres reinos del Verano descienden de sus fundadores. | Pendiente |
