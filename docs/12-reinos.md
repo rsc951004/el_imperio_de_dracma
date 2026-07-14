@@ -113,6 +113,8 @@ A diferencia de los reinos del Verano —creados por el Raikim—, Kyst, Lyng y 
 | Lyng | Centro-norte | El corazón fértil: brezo, viñedos, trigo. Proveedor de Eldengaria y de la Bruma. El reino que da al valle. | Valle |
 | Bjorn | Este | El centro del sur: paso obligado a Kalos, mercados, comercio. Guardián del último bosque sagrado. Memoria de lo arrasado. | Bosque |
 
+Los Hijos del Sol guardan con la Gente de la Bruma una deuda que la tradición veranesa prohíbe olvidar: sin ellos no existiría Kalos, y sin Kalos no hay esclavos liberados, no hay Suntarys, no hay nada. Un Hijo del Sol jamás dejará de tenderle la mano a un brumano, por mucho que los gentilicios vuelen en ambas direcciones.
+
 ---
 
 Los tres reinos del Verano descienden de **Suntarys**, la gran ciudadela que los **Hijos del Sol** —esclavos escapados de tres islas de Astria— erigieron en la isla de Alessya. Allí, los tres pueblos se fundieron en uno solo. La división en tres reinos fue impuesta por el Raikim para impedir que se unieran como nación.

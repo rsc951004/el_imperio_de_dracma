@@ -47,6 +47,8 @@ Hoy solo queda **el último bosque de Bjorn**, en la franja oriental cerca del E
 
 El resto del territorio es un paisaje de colinas suaves, arroyos y tierras de pastoreo. El clima es el más templado de los tres reinos de la Bruma. La nieve es rara. El oso —el *bjorn* que da nombre al reino— todavía merodea el bosque sagrado.
 
+Las edificaciones son de **madera salvaje**, como en toda la Bruma. Ni los mercados ni las posadas ni las casas de los comerciantes más prósperos usan piedra. Es la misma madera del Estomur, tratada con los mismos aceites de las costas sureñas, heredada de las artesanías de la Mørkkyst.
+
 ## Concepto
 La capital del sur. Bjorn es el reino más rico de la Gente de la Bruma. Mientras Kyst pesca y Lyng cultiva, Bjorn **conecta**. Su posición como paso obligado hacia Kalos lo ha convertido en el centro comercial de la región: la pesca de Kyst y el trigo de Lyng pasan por sus mercados antes de seguir viaje. Es el más próspero, el más bullicioso, el más cosmopolita de los tres.
 
@@ -54,7 +56,10 @@ Pero debajo del comercio late una herida antigua. La Gente de la Bruma llegó al
 
 El bosque sagrado de Bjorn no es un recurso: es un santuario. Los guardianes que lo protegen no portan armas sino semillas. Se dice que el último árbol que caiga en Bjorn será cortado por un Val occidental. Y esta vez no habrá Raikim que lo permita.
 
-Los bjorneses son comerciantes, no guerreros. Pero debajo del mercader que regatea hay un guardián que recuerda. Y el oso no olvida.
+### Carácter
+Los bjorneses son los más habladores y abiertos de la Bruma. Están hechos para el comercio: negociantes astutos, persuasivos, con un talento natural para las tasaciones y la mediación de valor. Saben cuánto vale cada cosa —y cada persona— antes de que termines la primera frase.
+
+No son cínicos. Simplemente entienden que todo tiene un precio justo, y que encontrarlo es un arte. Un bjornés preferirá cerrar un trato a ganar una discusión. Pero si le rompes un acuerdo, recordará tu nombre. Y el oso no olvida.
 
 ## Gobierno
 Regido por la Casa Borg. El rey reinante es **Skov Borg ★**. Consorte pendiente.

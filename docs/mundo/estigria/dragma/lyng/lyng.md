@@ -45,12 +45,21 @@ El valle recibe los vientos del norte que bajan del Gran Valle, templados y regu
 
 Es el más próspero de los tres reinos de la Bruma. No por comercio ni por conquista, sino por tierra buena y siglos de trabajo.
 
+Las edificaciones son de **madera salvaje**, como en toda la Bruma. Jamás verás una construcción de piedra en Lyng. Los silos, las casas, los templos del brezo: todo es madera endurecida con los aceites de las costas sureñas.
+
 ## Concepto
-El corazón de la Gente de la Bruma. Mientras Kyst pesca y Bjorn vigila la frontera, Lyng **alimenta**. Es el reino del brezo y del trigo, de los viñedos que maduran en otoño. Su gente es hospitalaria y orgullosa de su linaje: ser de Lyng es ser de la tierra que sostiene a los otros dos.
+El corazón de la Gente de la Bruma. Mientras Kyst pesca y Bjorn comercia, Lyng **alimenta**. Es el reino del brezo y del trigo, de los viñedos que maduran en otoño. Su gente es hospitalaria y orgullosa de su linaje: ser de Lyng es ser de la tierra que sostiene a los otros dos.
 
 Los lyngardeses son los que mejor asimilaron la lección de los Hijos del Sol —que la vida es más que sobrevivir—. Su prosperidad agrícola no es solo economía: es una declaración cultural. Cultivar es afirmar que el mundo merece ser habitado.
 
+### Carácter
+Los lyngardeses siempre hablarás de lo orgullosos que están de su tierra. «No hay lugar mejor que el Valle» es una frase que escucharás antes de cruzar la frontera. Viven pendientes del clima y de la cosecha, y son gente afable y hospitalaria.
+
+Pero que no te engañe la sonrisa. Son guerreros feroces si tocas sus cultivos. Un lyngardés al que le saboteen la cosecha podría perseguir a un sturmgardiano hasta los mismísimos fiordos rompealmas del Hierro si lo pilla en un día malo. Bajo la tierra fértil hay una raíz de acero.
+
 ### Sangre y parentesco
+La familia es el pilar fundamental de la sociedad brumense. Crecer el número de integrantes —por sangre, matrimonio o adopción— es una aspiración noble. Las uniones efímeras, basadas solo en el placer o el sexo sin propósito de acrecentar la familia, carecen de valor y no son respetadas. Esto los pone en las antípodas culturales de Vesperya.
+
 La Gente de la Bruma tiene fama en el imperio de ser «mañosa con el parentesco». Nunca entre hermanos —eso es tabú absoluto—, pero los matrimonios entre primos lejanos o segundos son comunes, especialmente entre la nobleza. Entre primos cercanos es raro pero no prohibido; en el pueblo llano ocurre con menos frecuencia pero sin escándalo.
 
 Los tres monarcas actuales —Skaer Fjord, Ravn Korn y Skov Borg— son primos. El circuito cerrado de las tres casas reinantes mantiene los lazos de sangre sin necesidad de recurrir a uniones incómodas. Para un brumense noble, casarse fuera de la Gente de la Bruma es casi una excentricidad; casarse con un hermano es una abominación. Todo lo demás es cuestión de grados.

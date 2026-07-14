@@ -35,18 +35,18 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 
 | # | Reino | Bloque | Casa actual | Título |
 |---|-------|--------|-------------|--------|
-| 1 | Waffengard | Hierro | Meister | Rey/Reina del Acero |
-| 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo |
-| 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama |
-| 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta |
-| 5 | Lysarya | Amanecer | Corinthyos | Rey/Reina de la Roca |
-| 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña |
-| 7 | Zephyrya | Amanecer | Zephyryon | Rey/Reina del Ocaso |
-| 8 | Merenia | Amanecer | Tuomi | Rey/Reina del Mar |
-| 9 | Aurelia | Amanecer | Umbra | Rey/Reina del Oro |
-| 10 | Vesperya | Amanecer | Valeryus | Rey/Reina del Tridente |
-| 11 | Sindria | Amanecer | Goros | Rey/Reina del Foso |
-| 12 | Ylvaria | Amanecer | Gorio | Rey/Reina del Bosque |
+| 1 | Waffengard | Valle de Hierro | Meister | Rey/Reina del Acero |
+| 2 | Skarngard | Valle de Hierro | Hammer | Rey/Reina del Martillo |
+| 3 | Flamengard | Valle de Hierro | Wolfen | Rey/Reina de la Llama |
+| 4 | Sturmgard | Valle de Hierro | Reisner | Rey/Reina de la Tormenta |
+| 5 | Lysarya | Costas del Verano | Corinthyos | Rey/Reina de la Roca |
+| 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña |
+| 7 | Zephyrya | Costas del Verano | Zephyryon | Rey/Reina del Ocaso |
+| 8 | Kyst | Tierra de la Bruma | Fjord | Rey/Reina de la Costa Gris |
+| 9 | Lyng | Tierra de la Bruma | Korn | Rey/Reina del Valle |
+| 10 | Vesperya | Costas del Verano | Valeryus | Rey/Reina del Tridente |
+| 11 | Sindria | Paso del Oriente | Goros | Rey/Reina del Foso |
+| 12 | Bjorn | Tierra de la Bruma | Borg | Rey/Reina del Bosque |
 
 ## Los 7 Protectorados
 
@@ -69,11 +69,11 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 
 | # | Dinastía | Origen | Emperadores | Estado |
 |---|----------|--------|-------------|--------|
-| 1 | Mormund | Sturmgard (Hierro). Guerreros de las tormentas del norte. | 17 | Extinta como casa imperial. Retornó a casa noble de Sturmgard. |
-| 2 | Amschel | Lysarya (Amanecer). Casa noble de Lysarya. | 21 | Extinta como casa imperial. Retornó a casa noble de Lysarya. |
+| 1 | Mormund | Sturmgard (Valle de Hierro). Guerreros de las tormentas del norte. | 17 | Extinta como casa imperial. Retornó a casa noble de Sturmgard. |
+| 2 | Amschel | Lysarya (Costas del Verano). Casa noble de Lysarya. | 21 | Extinta como casa imperial. Retornó a casa noble de Lysarya. |
 | 3 | Pavel | — | 5 (actual) | Reinante. |
 
-### Primera dinastía: Casa Mormund (Sturmgard)
+### Primera dinastía: Casa Mormund (Sturmgard, Valle de Hierro)
 
 17 emperadores. Solo cuatro tienen ficha individual detallada.
 
