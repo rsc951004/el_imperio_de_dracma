@@ -6,7 +6,7 @@ Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de
 **No es portador.** Su valor no está en el Blesk, sino en la memoria, la investigación y la palabra.
 
 ## Casa
-**Casa Solaryss.** Casa real del antiguo Reino del Verano (Suntaris) durante casi cuatrocientos años. Hoy es una casa noble dentro del Imperio de Dragma.
+**Casa Solaryss.** Casa real del antiguo Reino del Verano (Suntarys) durante casi cuatrocientos años. Hoy es una casa noble dentro del Imperio de Dragma.
 
 - **Lema:** *Hijos del Amanecer, Herederos del Sol.*
 - **Colores:** azul cielo (principal), rojo y dorado.

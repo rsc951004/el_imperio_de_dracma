@@ -44,9 +44,9 @@ Archivo vivo. Se agregan nuevos pendientes al final. Se eliminan al canonizarse.
 |---|------|-----------|
 | 10 | **Casas fundadoras de los 12 Reinos** | Solo Sindria tiene (Ormur). Las otras 11 dicen «Pendiente». |
 | 11 | **Loryan Solaryss: ubicación temporal** | Mencionado en 12-reinos.md como pendiente. |
-| 12 | **Triple Corona de Suntaris: nombres** | Mencionada en 12-reinos.md como pendiente. |
+| 12 | **Triple Corona de Suntarys: nombres** | Mencionada en 12-reinos.md como pendiente. |
 | 13 | **Casa Umbra y el culto al Dios Negro** | Pendiente de desarrollo. |
-| 14 | **Destrucción de Suntaris** | Mencionada en 12-reinos.md como pendiente. |
+| 14 | **Destrucción de Suntarys** | Mencionada en 12-reinos.md como pendiente. |
 | 15 | **Consortes del Hierro: fichas de casas nobles** | Brunnen, Brandt, Falken, Jaeger. Solo existen como menciones en las fichas de monarcas. |
 | 16 | **Sturmgard: Casa Askia previa** | Antes de Reisner gobernó Askia. ¿Son la misma casa renombrada o una casa distinta que fue reemplazada? |
 | 17 | **Brenngard previo: Siran Grigoryan** | Antes de Wolfen gobernó Grigoryan. ¿Extinguida? ¿Depuesta? ¿Cambio de nombre? |

@@ -12,7 +12,7 @@ Isla tropical. Selvas densas, acantilados de roca oscura, grutas minerales, play
 ## Historia
 
 ### Descubrimiento
-Delfos fue descubierta durante la **Edad de los Mil Reinos** por **Artemis**, un navegante elyrio —heredero de la tradición marinera de Suntaris— que se perdió en el mar oriental. La isla ya tenía nombre propio: los delfines que rodeaban sus costas le dieron el que conserva hasta hoy.
+Delfos fue descubierta durante la **Edad de los Mil Reinos** por **Artemis**, un navegante elyrio —heredero de la tradición marinera de Suntarys— que se perdió en el mar oriental. La isla ya tenía nombre propio: los delfines que rodeaban sus costas le dieron el que conserva hasta hoy.
 
 Al regresar al Gerin, Artemis fue reconocido como su descubridor. Según la costumbre de aquella era, su nombre se convirtió en el de la casa que gobernaría la isla: la **Casa Artema**.
 

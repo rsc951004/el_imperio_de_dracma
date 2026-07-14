@@ -12,7 +12,7 @@ Kalos fue fundada por portadores y disidentes del culto al Dios Negro, formado e
 Con los siglos, Kalos se transformó en una ciudadela del saber. Pero bajo su fachada de academia neutral, la misión original nunca se extinguió: luchar contra los Mobius.
 
 ## Estatus político
-Kalos es una de las tres Ciudades Libres de la Tiranía, junto con Suntaris y Esteria.
+Kalos es una de las tres Ciudades Libres de la Tiranía, junto con Suntarys y Esteria.
 
 Oficialmente es un protectorado imperial. El Imperio ha jurado proteger Kalos; Kalos ha jurado servir al Imperio. Las condiciones del pacto son tres:
 
