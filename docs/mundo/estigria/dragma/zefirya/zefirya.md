@@ -54,21 +54,27 @@ Regido por la Casa Zephyrion. El rey reinante es **Cassius Zephyrion ★**, Rey 
 ## Historia
 Zefirya fue fundada por el Raikim Valgard como **Zephyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Alberga a la **Casa Solaris** como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Lorian Solaris: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.
 
-### La conspiración de Kleóndras
-Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), Zefirya estaba gobernada por **Kleóndras Aetheryon**. Cuando el noble **Daryón Coralys** de Alessya inició en secreto un reclamo de **derecho de dominio** sobre la isla sagrada, Kleóndras vio una oportunidad estratégica y ofreció su apoyo clandestino.
+### La Guerra de los Hermanos
+Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), Zefirya estaba gobernada por **Kleóndras Aetheryon**. Kleóndras pactó en secreto con el noble **Daryón Coralys** de Alessya el matrimonio entre su hijo, el príncipe **Astryón Aetheryon**, y **Thalysa Coralys**, hija de Daryón. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zefirya por herencia y unión matrimonial. Era la gran jugada del reinado de Kleóndras: unir la isla sagrada de los Hijos del Sol a la flor del Verano.
 
-El fin secreto del pacto era **unificar Alessya con Vesperya**, fortaleciendo así la posición geopolítica del Verano frente al Valle de Hierro y la corona imperial. Zefirya no ganaba territorio: ganaba influencia. Fue un movimiento de poder frío y calculado.
+Lo que Kleóndras no sabía era que Thalysa ya era amante en secreto de **Eryk Albyon**, príncipe de Ylumarya. Y estaba embarazada.
 
-Cuando el pacto salió a la luz, **Ylumarya** lo interpretó como una traición. Estalló la **Guerra de los Hermanos** entre Ylumarya y Vesperya. Kleóndras mantuvo a Zefirya **fuera del combate abierto**, pero el papel de titiritero en la sombra quedó grabado. Durante generaciones, los ylumarianos miraron a Zefirya con la sospecha de quien sabe que la mano que acaricia también apuñala.
+La noche anterior al compromiso, Thalysa huyó con Eryk hacia Kalos. **Nunca llegaron.** Su desaparición es un misterio hasta hoy —el cuento de los **Príncipes Perdidos**—.
 
-La cicatriz de aquella conspiración perdura. Zefirya mantiene relaciones cordiales con ambos reinos hermanos —intercambia consortes, comercia, recibe turistas—, pero bajo la superficie de la flor del Verano corre una corriente de culpa silenciosa.
+Alessya y Zefirya acusaron a Ylumarya de secuestro. Ylumarya acusó a Zefirya de asesinato. Estalló la **Guerra de los Hermanos**: zefiryos y alessyanos contra ylumarios. Ylumarya logró invadir Zefirya.
+
+Cuando Sturmgard amenazó con intervenir, el emperador Edrik contuvo la escalada. Al final, ejecutó a ambos reyes —Kleóndras y Kyros Albyon— y proscribió a sus casas del **Dex Códice**. La casa Aetheryon fue borrada de la historia.
+
+El **Stamengerin** nombró a la **Casa Zephyrion** como nueva casa real de Zefirya.
+
+La guerra dejó una cicatriz permanente. Zefirya perdió a su rey y a su casa reinante. Hoy mantiene relaciones cordiales con Ylumarya —intercambia consortes, comercia, recibe turistas—, pero bajo la superficie de la flor del Verano corre una corriente de dolor que nunca ha sanado del todo.
 
 ## Economía
 Turismo de todo el imperio. Agricultura de planicie y ganadería. Comercio de pigmentos y textiles teñidos de violeta. Propiedades curativas de sus playas como atractivo para visitantes acaudalados.
 
 ## Relaciones exteriores
-- **Ylumarya:** hermano del norte. Relación cordial tras la Guerra de los Hermanos.
-- **Vesperya:** hermano del sureste. Relación cordial. Sana competencia turística y naval.
+- **Ylumarya:** hermano del norte. Relación cordial pero cargada tras la Guerra de los Hermanos. Los zefiryos acusaron a los ylumarios de secuestro; los ylumarios invadieron Zefirya. La reconciliación ha sido lenta.
+- **Vesperya:** hermano del sureste. Relación cordial. Fue el único de los tres que no combatió en la Guerra de los Hermanos.
 - **Resto del imperio:** destino turístico por excelencia. Gentes de los doce reinos y protectorados visitan sus playas.
 
 ## Referencias

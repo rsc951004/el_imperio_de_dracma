@@ -80,5 +80,9 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
-| Daryón Coralys | Noble histórico | Noble de Alessya. Inició el reclamo de derecho de dominio sobre la isla que desencadenó la Guerra de los Hermanos | [Ver ficha](personajes/historicos/daryon-coralys.md) |
-| Kleóndras Aetheryon | Gobernante histórico | Casa reinante de Zefirya durante Edrik Mormund. Arquitecto secreto del pacto Coralys-Vesperya | [Ver ficha](personajes/historicos/kleondras-aetheryon.md) |
+| Daryón Coralys | Noble histórico | Noble de Alessya. Pactó la unión de la isla con Zefirya y el matrimonio de su hija. Traicionado por ella. Su casa fue proscrita | [Ver ficha](personajes/historicos/daryon-coralys.md) |
+| Kleóndras Aetheryon | Rey histórico | Rey de Zefirya. Pactó con Daryón. Ejecutado tras la Guerra de los Hermanos. Casa proscrita | [Ver ficha](personajes/historicos/kleondras-aetheryon.md) |
+| Kyros Albyon | Rey histórico | Rey de Ylumarya. Su hijo Eryk era amante de Thalysa. Ejecutado tras la guerra. Casa proscrita | [Ver ficha](personajes/historicos/kyros-albyon.md) |
+| Eryk Albyon | Príncipe histórico | Príncipe de Ylumarya. Amante de Thalysa. Desaparecido. Uno de los Príncipes Perdidos | [Ver ficha](personajes/historicos/eryk-albyon.md) |
+| Thalysa Coralys | Princesa histórica | Hija de Daryón. Prometida a Zefirya, amante de Eryk. Huyó embarazada. Desaparecida. Una de los Príncipes Perdidos | [Ver ficha](personajes/historicos/thalysa-coralys.md) |
+| Astryón Aetheryon | Príncipe histórico | Príncipe de Zefirya. Prometido de Thalysa. Abandonado la noche del compromiso | [Ver ficha](personajes/historicos/astryon-aetheryon.md) |

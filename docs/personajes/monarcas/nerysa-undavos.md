@@ -1,10 +1,10 @@
 # Nerysa Undavos
 
 ## Identidad
-Reina consorte de **Vesperya**. Hija del **Gran Senescal de Alesya**, el pescador que gobierna la pequeña comunidad que habita entre las ruinas de Suntaris. Una pescadora de la Isla Hermosa sentada en el trono del Tridente.
+Reina consorte de **Vesperya**. Hija del **Príncipe Guardián de Alesya**, la máxima autoridad del principado que custodia las ruinas de Suntaris.
 
 - **Reino actual:** Vesperya (reina consorte).
-- **Origen:** Alesya, hija del Gran Senescal.
+- **Origen:** Alesya, hija del Príncipe Guardián.
 
 ## Personalidad
 Pendiente.

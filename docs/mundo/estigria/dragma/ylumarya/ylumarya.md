@@ -52,21 +52,29 @@ Regido por la Casa Corintyos. La reina reinante es **Octavia Corintyos ★**, Re
 Ylumarya fue fundada por el Raikim Valgard como **Yliumgard**. Fue parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar Valgard.
 
 ### La Guerra de los Hermanos
-Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía, tercer cuarto de la primera dinastía imperial), el noble **Daryón Coralys** de Alessya presentó en secreto un reclamo de **derecho de dominio** sobre la isla sagrada ante la corte imperial. Contaba con el apoyo clandestino de **Kleóndras Aetheryon**, la casa reinante de Zefirya.
+Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el noble **Daryón Coralys** de Alessya pactó en secreto con **Kleóndras Aetheryon**, rey de Zefirya, el matrimonio entre su hija **Thalysa Coralys** y el príncipe **Astryón Aetheryon**. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zefirya.
 
-El fin secreto del pacto era **unificar Alessya con Vesperya** bajo una misma corona, fortaleciendo al Verano frente al Hierro y la corona imperial. Cuando el pacto salió a la luz, Ylumarya lo interpretó como una traición imperdonable: la isla sagrada de los Hijos del Sol, cuna de Suntaris, iba a ser entregada a Vesperya con la complicidad de Zefirya.
+Lo que Daryón no sabía era que Thalysa ya era amante en secreto de **Eryk Albyon**, príncipe de Ylumarya e hijo del rey **Kyros Albyon**. Y estaba embarazada.
 
-Estalló la **Guerra de los Hermanos** entre Ylumarya y Vesperya. Zefirya nunca entró en combate abierto, pero su papel como titiritero en la sombra quedó grabado en la memoria de los tres reinos. El reclamo de Daryón no prosperó en los términos originales: Alessya no fue anexada a Vesperya ni quedó bajo la Casa Coralys.
+La noche anterior al compromiso, Thalysa tomó un bote y huyó. Eryk la esperaba en la costa de Merenia. Juntos partieron hacia **Kalos** —ciudad libre, refugio imposible de allanar—. **Nunca llegaron.** Su desaparición es un misterio hasta hoy: el cuento popular de los **Príncipes Perdidos**.
 
-La guerra dejó una **cicatriz permanente**: Ylumarya y Vesperya nunca volvieron a confiar plenamente el uno en el otro, y los ylumarianos aprendieron que la mano zefiryana que acaricia también apuñala.
+Alessya y Zefirya acusaron a Ylumarya de secuestro. Ylumarya acusó a Zefirya de asesinato. Estalló la **Guerra de los Hermanos**: zefiryos y alessyanos contra ylumarios. **Hijos del Sol contra Hijos del Sol.**
+
+Ylumarya logró invadir Zefirya. Miles murieron. La guerra amenazó con expandirse cuando Sturmgard anunció su apoyo a Ylumarya, pero el emperador Edrik Mormund la contuvo: declaró que Vesperya —guardián del Estrecho de Vespa y la entrada a Eldengaria— tenía prohibido combatir.
+
+Al final, Edrik ejecutó a ambos reyes —**Kyros Albyon** y **Kleóndras Aetheryon**— y proscribió a ambas casas —Albyon y Aetheryon— del **Dex Códice**, el gran registro de la Dex Tábura. Sus nombres jamás podrán ser usados en el imperio. La casa Coralys también fue proscrita.
+
+El **Stamengerin** nombró a la **Casa Corintyos** como nueva casa real de Ylumarya.
+
+La guerra dejó una **cicatriz permanente** en los tres reinos del Verano. Bajo la superficie de las relaciones cordiales actuales corre una corriente de desconfianza que nunca se ha cerrado del todo.
 
 ## Economía
 Pastoreo y agricultura templada. Comercio de ganado y productos agrícolas con los reinos del Hierro, especialmente Sturmgard. Sin puertos ni acceso marítimo comercial.
 
 ## Relaciones exteriores
 - **Sturmgard (Hierro):** vecino del norte. Relación comercial estrecha. Afinidad cultural sorprendente para reinos de bloques distintos.
-- **Zefirya:** hermano del sur. Relación cordial pero distante tras la Guerra de los Hermanos.
-- **Vesperya:** hermano del sureste. Cicatriz de la Guerra de los Hermanos. Cordialidad formal, desconfianza latente.
+- **Zefirya:** hermano del sur. Relación cordial pero cargada tras la Guerra de los Hermanos. Los ylumarianos recuerdan a los zefiryos como los acusadores que los culparon de secuestro.
+- **Vesperya:** hermano del sureste. Relación cordial. Fue el único de los tres que no combatió en la Guerra de los Hermanos.
 
 ## Referencias
 - `docs/12-reinos.md`

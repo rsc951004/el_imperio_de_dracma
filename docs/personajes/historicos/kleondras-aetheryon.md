@@ -1,31 +1,33 @@
 # Kleóndras Aetheryon
 
 ## Identidad
-Casa reinante de **Zefirya** durante el tercer cuarto de la primera dinastía Mormund. Arquitecto secreto de la alianza entre la nobleza de Alessya y el reino de Vesperya que desencadenó la **Guerra de los Hermanos**.
+Rey de **Zefirya** durante el reinado del emperador Edrik Mormund (5.º de la dinastía Mormund). Pactó el matrimonio de su hijo con la hija de Daryón Coralys para unir Alessya a Zefirya. Fue traicionado por Thalysa Coralys. Ejecutado tras la Guerra de los Hermanos. Su casa, Aetheryon, fue proscrita del Dex Códice.
 
 - **Origen:** Zefirya (Costas del Verano).
-- **Casa:** Aetheryon (casa histórica de Zefirya, anterior a la actual Casa Zephyrion).
+- **Casa:** Aetheryon (proscrita, borrada de la historia).
 - **Época:** Reinado del emperador Edrik Mormund.
+- **Destino:** Ejecutado por orden imperial.
 
 ## Personalidad
 Pendiente.
 
-## La conspiración
-Kleóndras Aetheryon gobernaba Zefirya cuando el noble **Daryón Coralys** de Alessya inició su reclamo de **derecho de dominio** sobre la isla sagrada. Kleóndras vio en ese reclamo una oportunidad estratégica y ofreció su apoyo en secreto.
+## El pacto y la traición
+Kleóndras gobernaba Zefirya cuando el noble **Daryón Coralys** de Alessya inició su reclamo de **derecho de dominio** sobre la isla sagrada. Pactaron en secreto el matrimonio entre **Astryón Aetheryon**, príncipe coronado de Zefirya, y **Thalysa Coralys**, hija de Daryón. Si el reclamo prosperaba, Alessya pasaría a Zefirya por herencia y unión matrimonial. Era la gran jugada del reinado de Kleóndras: unir la isla sagrada de los Hijos del Sol a la flor del Verano. Quería para su hijo y sus nietos castillos de mármol blanco, no fortalezas de piedra.
 
-**Su motivación fue puramente geopolítica.** Una Alessya unida a Vesperya fortalecía la posición de todo el Verano frente al Valle de Hierro al norte y frente a la propia corona imperial en Eldengaria. Zefirya no ganaba territorio; ganaba influencia. Era un movimiento de poder frío, calculado, sin sentimentalismos.
+Lo que Kleóndras no sabía era que Thalysa ya era amante en secreto de **Eryk Albyon**, príncipe de Ylumarya. Y estaba embarazada.
 
-El pacto se mantuvo oculto a las casas nobles de la Costa del Verano. Cuando salió a la luz, Ylumarya —el hermano norteño, ya desconfiado de sus vecinos del sur— lo interpretó como una traición imperdonable. La Guerra de los Hermanos estalló entre Ylumarya y Vesperya.
+La noche anterior al compromiso, Thalysa huyó con Eryk hacia Kalos. Nunca llegaron. Kleóndras, humillado, acusó a Ylumarya de secuestro. Estalló la **Guerra de los Hermanos**.
 
-Zefirya **nunca entró en combate abierto**. Kleóndras mantuvo a su reino fuera del conflicto directo. Pero el papel de Zefirya como titiritero en la sombra quedó grabado en la memoria de los tres reinos. La cicatriz de la guerra alcanzó también a Zefirya: durante generaciones, los ylumarianos miraron a sus primos zefiryanos con la sospecha de quien sabe que la mano que acaricia también apuñala.
+Tras la guerra, el emperador Edrik Mormund ejecutó a Kleóndras y proscribió a la casa Aetheryon del **Dex Códice**. Su nombre jamás puede ser usado en el imperio. El Stamengerin nombró a la Casa Zephyrion como nueva casa real de Zefirya.
 
 ## Relaciones
-- **Daryón Coralys:** aliado secreto. Noble de Alessya.
-- **Edrik Mormund:** emperador reinante.
+- **Astryón Aetheryon:** hijo. Príncipe coronado. Prometido de Thalysa.
+- **Daryón Coralys:** aliado. Noble de Alessya. Ambos fueron traicionados por Thalysa.
+- **Edrik Mormund:** emperador que lo ejecutó.
+- **Kyros Albyon:** enemigo en la guerra. Rey de Ylumarya. También ejecutado.
 
 ## Referencias
 - `docs/mundo/estigria/dragma/zefirya/zefirya.md`
-- `docs/mundo/estigria/dragma/alesya/alesya.md`
 - `docs/mundo/estigria/dragma/ylumarya/ylumarya.md`
 - `docs/personajes/historicos/daryon-coralys.md`
-- `docs/personajes/monarcas/edrik-mormund.md`
+- `docs/personajes/historicos/thalysa-coralys.md`
