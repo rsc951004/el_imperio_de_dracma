@@ -20,5 +20,5 @@ Casa real de Ylvaria. Los densos bosques que cubren el reino, hogar del pueblo Y
 ## Miembros relevantes
 
 - **Dreide Gorio** ★ — Reina del Bosque. Gobernante reinante.
-- **Gaizka Darerca** — Hermano de Dreide. Rey consorte de Lumaria (Casa Darerca).
+- **Gaizka Darerca** — Hermano de Dreide. Rey consorte de Lumarya (Casa Darerca).
 - **Titia Corvus** — Reina consorte. Originaria de Aurelia (Casa Corvus).

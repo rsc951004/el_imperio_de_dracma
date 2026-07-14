@@ -21,6 +21,16 @@ Se eliminaron todas las referencias a culturas del mundo real como si existieran
 - **AGENTS.md:** actualizada la Guía de nombres con advertencia explícita: las culturas reales son convención de escritura, no existen en el universo.
 - **stamengerin.md:** intacto (ya usa «sonoridad», no «cultura»).
 
+### Auditoría de consistencia de nombres (2026-07-14)
+
+Corregidos nombres viejos que persistían en docs/:
+
+- **Lumaria → Lumarya** (12 ocurrencias): dreide-gorio.md, gorio.md, darerca.md, amschel.md, dinastia-amschel.md, alesya.md. Solo queda «Lumaria» en `pendientes.md` (registro de tareas, contexto histórico como `notas.md`).
+- **Zefiria → Zefirya** (9 ocurrencias): dragma.md, sandor-solaris.md, solaris.md, alesya.md. Erradicado por completo fuera de `notas.md`.
+- **dreide-gorio.md:** también eliminada línea «Cultura: Gaélico/Vasco».
+
+Capitales verificadas: las 12 correctas en sus fichas, sin contaminación cruzada, sin placeholders antiguos.
+
 ### Diagnóstico de la ficha de Inits (2026-07-11)
 
 #### 1. ¿Qué sobra?

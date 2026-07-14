@@ -5,8 +5,8 @@
 | Campo | Valor |
 |-------|-------|
 | **Nombre** | Amschel |
-| **Tipo** | Casa imperial (segunda dinastía). Actualmente casa noble de Lumaria. |
-| **Reino de origen** | Lumaria |
+| **Tipo** | Casa imperial (segunda dinastía). Actualmente casa noble de Lumarya. |
+| **Reino de origen** | Lumarya |
 | **Bloque** | Amanecer |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |

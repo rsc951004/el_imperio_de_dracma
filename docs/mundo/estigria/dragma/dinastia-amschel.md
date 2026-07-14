@@ -16,14 +16,14 @@ El Stamengerin, compuesto por todos los jefes de casas nobles y comunes y superv
 
 | Orden | Nombre | Notas |
 |-------|--------|-------|
-| 1.º | **Ezra Amschel** | Primer emperador Amschel. Casa noble de Lumaria electa por el Stamengerin. |
+| 1.º | **Ezra Amschel** | Primer emperador Amschel. Casa noble de Lumarya electa por el Stamengerin. |
 | … | Diecinueve emperadores | Reinados bajo la Concordia. |
 | 21.º | **Amós Amschel** | Último emperador Amschel. |
 
 ## Caída
 Amós Amschel, 21.º y último emperador de la dinastía, tuvo hijos. Ninguno de ellos quiso asumir la responsabilidad del imperio. Cuando la Dex Tábura le preguntó si deseaba postular a algún primo o sobrino como heredero, se negó.
 
-Declarado el quiebre de la dinastía Amschel, el Stamengerin eligió a **Stanis Pavel** como nuevo emperador. La Casa Amschel regresó a su estatus previo como casa noble de Lumaria.
+Declarado el quiebre de la dinastía Amschel, el Stamengerin eligió a **Stanis Pavel** como nuevo emperador. La Casa Amschel regresó a su estatus previo como casa noble de Lumarya.
 
 ## Legado
 Segunda dinastía en gobernar el imperio. Consolidó la Concordia como tradición viva, no solo como la voluntad de un hombre (Vilem Mormund). Bajo los Amschel, el imperio normalizó la idea de que la corona no pertenece a ningún linaje por sangre y que el Stamengerin es el verdadero guardián de la sucesión.

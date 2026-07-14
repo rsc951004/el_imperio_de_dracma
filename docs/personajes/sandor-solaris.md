@@ -1,7 +1,7 @@
 # Sandor Solaris
 
 ## Identidad
-Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaris, antigua casa noble de Zefiria.
+Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaris, antigua casa noble de Zefirya.
 
 **No es portador.** Su valor no está en el Blesk, sino en la memoria, la investigación y la palabra.
 
@@ -25,7 +25,7 @@ Joven. Conoció a Yanos a los dieciséis años. En la época de las cartas ya es
 - **Admira profundamente a Sylas Solaris**, su tatarabuelo explorador. Lo siente más cercano que a sus propios padres.
 
 ## Relaciones familiares
-- **Dorian Solaris** (padre): noble muy reconocido en Zefiria y en todo el Imperio de Dragma.
+- **Dorian Solaris** (padre): noble muy reconocido en Zefirya y en todo el Imperio de Dragma.
 - **Vera Pavel** (madre, de soltera Pavel): prima del actual emperador. Al casarse con Dorian, eligió pasar a formar parte de la Casa Solaris, perdiendo con ello cualquier derecho hereditario en la casa imperial. Que una prima del emperador eligiera ser Solaris por encima de Pavel fue un golpe de prestigio para la casa.
 - **Sucesión:** El antiguo cabeza de familia decretó antes de morir que Dorian Solaris fuera el sucesor. Dorian, a su vez, ha decretado que Leondras será el próximo cabeza. Sandor queda fuera de la línea de sucesión.
 - **Leondras Solaris** (hermano mayor): Portador con dominio del viento. Relación de cariño real entre ambos, pero desgastada por quienes usan a Leondras para señalar que Sandor no es portador. Sandor no resiente a su hermano; resiente a quienes los comparan.
