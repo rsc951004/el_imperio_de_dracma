@@ -130,6 +130,8 @@ Tres reinos del Verano descienden directamente de Suntaris: **Lumarya** (el alma
 | 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/estigria/dragma/ishbaal/ishbaal.md) |
 | 4 | Alesya | Isla | Isla al suroeste. Alberga la Fortaleza del Sol, antigua residencia secundaria de los reyes del Verano. Territorio sagrado para los descendientes de Suntaris. Llamada el cuarto reino del Verano, aunque no es un reino ni está en las costas continentales. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
 | 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por el navegante elyrio Artemis en la Edad de los Mil Reinos. Conocida como Delfos la Solitaria. | [Ver ficha](mundo/estigria/dragma/delfos/delfos.md) |
+| 6 | Lorka | Isla | Territorio de ultramar al norte de Ishbaal. Aguas frías, costas rocosas. | [Ver ficha](mundo/estigria/dragma/lorka/lorka.md) |
+| 7 | Paicel | Isla | Territorio de ultramar al sureste de Delfos. Aguas templadas, vegetación densa. | [Ver ficha](mundo/estigria/dragma/paicel/paicel.md) |
 
 > Los protectorados son estados semi-soberanos bajo protección directa del emperador. No tienen rey ni pertenecen a ninguno de los 12 Reinos. Se gobiernan a sí mismos dentro de los límites del pacto imperial.
 

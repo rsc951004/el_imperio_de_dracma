@@ -26,7 +26,7 @@ Archivo vivo. Se agregan nuevos pendientes al final. Se eliminan al canonizarse.
 | 1 | **Ceremonia de mayoría de edad (16 años)** | Nombre canónico. La Concordia la menciona como obligatoria. Nombre temporal: «incisión de momento». |
 | 2 | **Tierras Intermedias** | Ficha completa en `docs/mundo/estigria/dragma/`. Gobernante (Gran Señor de los Caminos), geografía, relación con reinos colindantes. |
 | 3 | **Casa Artema (Delfos)** | Ficha de casa/organización. Linaje de regentes con sangre Mormund (Mijail desposó a una hija Artema). ¿Cuántas generaciones de Artema? |
-| 4 | **Dos protectorados de ultramar pendientes** | Nombres, ubicación, tipo de gobierno, breve historia. ¿Islas? ¿Enclaves continentales? |
+| 4 | ~~Dos protectorados de ultramar pendientes~~ | ✅ **Canonizado.** Lorka (isla al norte de Ishbaal) y Paicel (isla al sureste de Delfos). |
 | 5 | **Ampliación del Stamengerin** | ¿Cuántos nobles? ¿Cuántos comunes? ¿Cómo se eligen? ¿Cada cuánto rotan? |
 | 6 | **Lugar de reunión del Stamengerin para quiebre** | Quedó como TODO en la Concordia. ¿Eldengaria? ¿Reino del vacante? ¿Dex decide? |
 

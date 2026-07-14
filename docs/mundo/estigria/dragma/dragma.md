@@ -57,8 +57,8 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | 3 | Ishbaal | Territorio de ultramar | Príncipe Regente | Isla al noroeste. |
 | 4 | Alesya | Territorio de ultramar | Príncipe Regente | Isla al suroeste. Alberga la Fortaleza del Sol. |
 | 5 | Delfos | Territorio de ultramar | Regente (Casa Artema) | Isla tropical frente al Modrig. Gobernada por la Casa Artema. Los Artema portan en secreto sangre Mormund desde el exilio de Mijail. |
-| 6 | — | Pendiente | — | — |
-| 7 | — | Pendiente | — |
+| 6 | Lorka | Territorio de ultramar | Príncipe Regente | Isla al norte de Ishbaal. |
+| 7 | Paicel | Territorio de ultramar | Príncipe Regente | Isla al sureste de Delfos. |
 
 ## Las Tierras Intermedias
 Territorios sin dueño dentro del Gerin que no pertenecen a ningún reino ni protectorado. Páramos, costas y franjas de tierra entre fronteras. Son considerados bienes comunes del imperio, administrados por el **Gran Señor de los Caminos** con autonomía propia.
