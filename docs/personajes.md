@@ -71,6 +71,14 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Harald Mormund | Primer Emperador | Mormund (fundadora) | [Ver ficha](personajes/monarcas/harald-mormund.md) |
 | Roderic Mormund | Segundo Emperador | Mormund | [Ver ficha](personajes/monarcas/roderic-mormund.md) |
 | Godric Mormund | Tercer Emperador | Mormund | [Ver ficha](personajes/monarcas/godric-mormund.md) |
+| Edrik Mormund | Quinto Emperador. Gobernó durante la Guerra de los Hermanos (Verano) | Mormund | [Ver ficha](personajes/monarcas/edrik-mormund.md) |
 | Mijail Mormund | Príncipe Heredero caído. Sangre Mormund fusionada en secreto con la Casa Artema de Delfos | Mormund | [Ver ficha](personajes/monarcas/mijail-mormund.md) |
 | Ilena Mormund | Princesa de Dragma. Asesinada por su hermano Mijail | Mormund | [Ver ficha](personajes/monarcas/ilena-mormund.md) |
 | Vilem Mormund | Príncipe Heredero. Tuerto. Arquitecto de la Concordia. El Padre del Imperio | Mormund | [Ver ficha](personajes/monarcas/vilem-mormund.md) |
+
+## Personajes históricos
+
+| Nombre | Rol | Descripción breve | Ficha |
+|--------|-----|-------------------|-------|
+| Daryón Coralys | Noble histórico | Noble de Alessya. Inició el reclamo de derecho de dominio sobre la isla que desencadenó la Guerra de los Hermanos | [Ver ficha](personajes/historicos/daryon-coralys.md) |
+| Kleóndras Aetheryon | Gobernante histórico | Casa reinante de Zefirya durante Edrik Mormund. Arquitecto secreto del pacto Coralys-Vesperya | [Ver ficha](personajes/historicos/kleondras-aetheryon.md) |

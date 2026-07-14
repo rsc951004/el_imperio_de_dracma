@@ -35,9 +35,15 @@ Ylumarya es el más extenso de los tres reinos del Verano. Le sigue Zefirya en t
 El terreno **asciende progresivamente** desde el límite sur hacia el norte. A medida que se acerca a la frontera con Sturmgard, el paisaje se vuelve cada vez más quebrado y elevado. El clima es más frío que el de Zefirya o Vesperya —el sol del Verano llega atenuado—, pero considerablemente más benigno que las ventiscas de Sturmgard. Es una tierra de **pastos y cultivos templados**, buena para el ganado y la agricultura de subsistencia.
 
 ## Concepto
-El hermano sencillo del Verano. Mientras Zefirya cultiva la belleza y el estudio, y Vesperya se lanza al desafío y la aventura, Ylumarya valora la **sencillez, la piedad y el trabajo duro**. Su gente son pastores, no marinos ni artistas. El espíritu de los Hijos del Sol sigue vivo en ellos —bondad, audacia, devoción—, pero expresado en una forma menos helénica, más cercana a la sobriedad de sus vecinos del Hierro.
+El hermano sencillo del Verano. Mientras Zefirya cultiva la belleza y la serenidad, y Vesperya se lanza al desafío y la aventura, Ylumarya valora la **sencillez, la piedad y el trabajo duro**. Su gente son pastores, no marinos ni artistas. El espíritu de los Hijos del Sol sigue vivo en ellos —bondad, audacia, devoción—, pero expresado en una forma menos helénica, más cercana a la sobriedad de sus vecinos del Hierro.
 
 Muchos ylumarianos se sienten más afines a los reinos del norte que a sus propios hermanos del sur. Son el **puente entre el Verano y el Hierro**: entienden ambas lenguas, comercian con ambas gentes. Pero en el fondo siguen siendo Hijos del Sol. Solo que a su manera.
+
+### Los colores del Verano
+Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
+- **Ylumarya:** amarillo y blanco hueso — la tierra, los pastos, el hueso del ganado.
+- **Zefirya:** violeta — los atardeceres de la costa, la flor del Verano.
+- **Vesperya:** verde — el mar profundo, la aventura, el estrecho.
 
 ## Gobierno
 Regido por la Casa Corintyos. La reina reinante es **Octavia Corintyos ★**, Reina del Alba. Su consorte es Helio Ventys, de casa noble de Zefirya.
@@ -46,9 +52,13 @@ Regido por la Casa Corintyos. La reina reinante es **Octavia Corintyos ★**, Re
 Ylumarya fue fundada por el Raikim Valgard como **Yliumgard**. Fue parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar Valgard.
 
 ### La Guerra de los Hermanos
-Durante la dinastía Mormund, aproximadamente a la mitad de su reinado, estalló la **Guerra de los Hermanos** entre Ylumarya y Vesperya. El conflicto tuvo origen en una **disputa matrimonial** que escaló hasta convertirse en guerra abierta entre los dos reinos del Verano.
+Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía, tercer cuarto de la primera dinastía imperial), el noble **Daryón Coralys** de Alessya presentó en secreto un reclamo de **derecho de dominio** sobre la isla sagrada ante la corte imperial. Contaba con el apoyo clandestino de **Kleóndras Aetheryon**, la casa reinante de Zefirya.
 
-Zefirya quedó atrapada en el medio. La guerra dejó una **cicatriz duradera** entre los tres reinos: décadas de desconfianza y resentimiento que tardaron generaciones en sanar. Hoy los tres reinos mantienen relaciones cordiales —intercambian consortes, comercian—, pero la memoria de aquella fractura pervive bajo la superficie. Los ylumarianos y los vesperianos, en particular, nunca han vuelto a mirarse del todo igual.
+El fin secreto del pacto era **unificar Alessya con Vesperya** bajo una misma corona, fortaleciendo al Verano frente al Hierro y la corona imperial. Cuando el pacto salió a la luz, Ylumarya lo interpretó como una traición imperdonable: la isla sagrada de los Hijos del Sol, cuna de Suntaris, iba a ser entregada a Vesperya con la complicidad de Zefirya.
+
+Estalló la **Guerra de los Hermanos** entre Ylumarya y Vesperya. Zefirya nunca entró en combate abierto, pero su papel como titiritero en la sombra quedó grabado en la memoria de los tres reinos. El reclamo de Daryón no prosperó en los términos originales: Alessya no fue anexada a Vesperya ni quedó bajo la Casa Coralys.
+
+La guerra dejó una **cicatriz permanente**: Ylumarya y Vesperya nunca volvieron a confiar plenamente el uno en el otro, y los ylumarianos aprendieron que la mano zefiryana que acaricia también apuñala.
 
 ## Economía
 Pastoreo y agricultura templada. Comercio de ganado y productos agrícolas con los reinos del Hierro, especialmente Sturmgard. Sin puertos ni acceso marítimo comercial.
