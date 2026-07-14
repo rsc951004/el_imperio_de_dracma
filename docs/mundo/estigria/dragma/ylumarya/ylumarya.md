@@ -11,7 +11,7 @@ Aurolis
 
 ## Casa real
 - Fundadora: Pendiente
-- Actual: **Corintyos**
+- Actual: **Corinthyos**
 
 ## Título del gobernante
 **Rey del Alba** o **Reina del Alba**. Forma abreviada entre monarcas: Rey Alba o Reina Alba.
@@ -46,25 +46,25 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Vesperya:** verde — el mar profundo, la aventura, el estrecho.
 
 ## Gobierno
-Regido por la Casa Corintyos. La reina reinante es **Octavia Corintyos ★**, Reina del Alba. Su consorte es Helio Ventys, de casa noble de Zefirya.
+Regido por la Casa Corinthyos. La reina reinante es **Octavya Corinthyos ★**, Reina del Alba. Su consorte es Helyo Venthyss, de casa noble de Zefirya.
 
 ## Historia
 Ylumarya fue fundada por el Raikim Valgard como **Yliumgard**. Fue parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar Valgard.
 
 ### La Guerra de los Hermanos
-Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el noble **Daryón Coralys** de Alessya pactó en secreto con **Kleóndras Aetheryon**, rey de Zefirya, el matrimonio entre su hija **Thalysa Coralys** y el príncipe **Astryón Aetheryon**. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zefirya.
+Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el noble **Daryón Coralyss** de Alessya pactó en secreto con **Kleóndras Aetheryon**, rey de Zefirya, el matrimonio entre su hija **Thalyssa Coralyss** y el príncipe **Astryón Aetheryon**. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zefirya.
 
-Lo que Daryón no sabía era que Thalysa ya era amante en secreto de **Eryk Albyon**, príncipe de Ylumarya e hijo del rey **Kyros Albyon**. Y estaba embarazada.
+Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Ylumarya e hijo del rey **Kyros Albyon**. Y estaba embarazada.
 
-La noche anterior al compromiso, Thalysa tomó un bote y huyó. Eryk la esperaba en la costa de Merenia. Juntos partieron hacia **Kalos** —ciudad libre, refugio imposible de allanar—. **Nunca llegaron.** Su desaparición es un misterio hasta hoy: el cuento popular de los **Príncipes Perdidos**.
+La noche anterior al compromiso, Thalyssa tomó un bote y huyó. Eryk la esperaba en la costa de Merenia. Juntos partieron hacia **Kalos** —ciudad libre, refugio imposible de allanar—. **Nunca llegaron.** Su desaparición es un misterio hasta hoy: el cuento popular de los **Príncipes Perdidos**.
 
 Alessya y Zefirya acusaron a Ylumarya de secuestro. Ylumarya acusó a Zefirya de asesinato. Estalló la **Guerra de los Hermanos**: zefiryos y alessyanos contra ylumarios. **Hijos del Sol contra Hijos del Sol.**
 
 Ylumarya logró invadir Zefirya. Miles murieron. La guerra amenazó con expandirse cuando Sturmgard anunció su apoyo a Ylumarya, pero el emperador Edrik Mormund la contuvo: declaró que Vesperya —guardián del Estrecho de Vespa y la entrada a Eldengaria— tenía prohibido combatir.
 
-Al final, Edrik ejecutó a ambos reyes —**Kyros Albyon** y **Kleóndras Aetheryon**— y proscribió a ambas casas —Albyon y Aetheryon— del **Dex Códice**, el gran registro de la Dex Tábura. Sus nombres jamás podrán ser usados en el imperio. La casa Coralys también fue proscrita.
+Al final, Edrik ejecutó a ambos reyes —**Kyros Albyon** y **Kleóndras Aetheryon**— y proscribió a ambas casas —Albyon y Aetheryon— del **Dex Códice**, el gran registro de la Dex Tábura. Sus nombres jamás podrán ser usados en el imperio. La casa Coralyss también fue proscrita.
 
-El **Stamengerin** nombró a la **Casa Corintyos** como nueva casa real de Ylumarya.
+El **Stamengerin** nombró a la **Casa Corinthyos** como nueva casa real de Ylumarya.
 
 La guerra dejó una **cicatriz permanente** en los tres reinos del Verano. Bajo la superficie de las relaciones cordiales actuales corre una corriente de desconfianza que nunca se ha cerrado del todo.
 
@@ -81,6 +81,14 @@ Pastoreo y agricultura templada. Comercio de ganado y productos agrícolas con l
 - `docs/mundo/estigria/dragma/alesya/alesya.md`
 
 ## Guía de nombres
-**Grecolatina.** Los nombres de personas y lugares de Ylumarya siguen la tradición grecolatina.
+**Grecolatina.** Los nombres de personas y casas de Ylumarya siguen la tradición grecolatina con las reglas fonéticas y semánticas de las Costas del Verano.
 
-Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro). Ver la Guía de nombres en `docs/AGENTS.md`.
+Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).
+
+**Reglas fonéticas del Verano:** y griega (i→y), doble ese (s+y→ssy, y+s→yss), te con hache (t+y→thy), efe con hache (f+y→phy).
+
+**Temas:** amor, luz, sol, primavera, flores, alegría, belleza. Ylumarya añade: calma, paz, nobleza. El hermano sencillo: nombres sobrios y pastoriles. Sufijos típicos: -ón, -yk, -os.
+
+**Comunes:** nombres más simples y con menos adornos que los nobles. Está mal visto aparentar nobleza mediante el nombre.
+
+Ver la Guía de nombres completa en `docs/AGENTS.md`.

@@ -19,7 +19,7 @@ Bajo el primer Raik de la nueva era, **Rudgar Valgard**, el estado protector se 
 El asesinato de Lux Terin a manos de Rudgar marcó el fin de toda fachada protectora y el inicio de la tiranía sin tapujos.
 
 ### Caída
-Ocho reinos, entre ellos Veleskagard, se alzaron contra el Raikim. La guerra culminó con el **Edicto del Amanecer** de Lorian Solaris y la derrota de la dinastía Valgard. Sobre sus ruinas se fundó el Imperio de Dragma.
+Ocho reinos, entre ellos Veleskagard, se alzaron contra el Raikim. La guerra culminó con el **Edicto del Amanecer** de Loryan Solaryss y la derrota de la dinastía Valgard. Sobre sus ruinas se fundó el Imperio de Dragma.
 
 ## Gobernantes
 Diecisiete Raiks gobernaron Valgard hasta la caída del Raikim. El primero fue Rudgar Valgard, el Martillo Sangriento. El último fue **Grimar Valgard**, conocido como Grimar de Piedra: fue convertido en piedra antes de morir.

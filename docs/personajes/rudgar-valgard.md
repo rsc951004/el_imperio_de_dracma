@@ -31,7 +31,7 @@ Aproximadamente diez años después del asesinato de Lux Terin, Rudgar murió. E
 - **Grimar Valgard**: descendiente lejano, decimoséptimo y último Raik.
 
 ## Legado
-El nombre Valgard quedó asociado para siempre a la opresión. La rebelión de los ocho reinos, liderada por el Edicto del Amanecer de Lorian Solaris, derrocó a la dinastía y fundó el Imperio de Dragma sobre sus ruinas.
+El nombre Valgard quedó asociado para siempre a la opresión. La rebelión de los ocho reinos, liderada por el Edicto del Amanecer de Loryan Solaryss, derrocó a la dinastía y fundó el Imperio de Dragma sobre sus ruinas.
 
 ## Referencias
 - `docs/personajes/lux-terin.md`

@@ -36,14 +36,14 @@ Archivo vivo. Se agregan nuevos pendientes al final. Se eliminan al canonizarse.
 |---|------|-----------|
 | 7 | **Rey Podrido en dragma.md** | Sección «Amenazas externas» que explique cómo condiciona la geopolítica interior. |
 | 8 | **Ficha de Eldengaria** | Marcada «Pendiente» en mundo.md. Capital imperial, ciudadela sobre Eldengard. |
-| 9 | **Edicto del Amanecer (texto completo)** | La Concordia lo codifica como ley. ¿Fue discurso de Lorian Solaris? ¿Decreto? ¿Juramento de los 8 reinos rebeldes? |
+| 9 | **Edicto del Amanecer (texto completo)** | La Concordia lo codifica como ley. ¿Fue discurso de Loryan Solaryss? ¿Decreto? ¿Juramento de los 8 reinos rebeldes? |
 
 ### 🟢 Prioridad baja (detalle)
 
 | # | Tema | Qué falta |
 |---|------|-----------|
 | 10 | **Casas fundadoras de los 12 Reinos** | Solo Sindria tiene (Ormur). Las otras 11 dicen «Pendiente». |
-| 11 | **Lorian Solaris: ubicación temporal** | Mencionado en 12-reinos.md como pendiente. |
+| 11 | **Loryan Solaryss: ubicación temporal** | Mencionado en 12-reinos.md como pendiente. |
 | 12 | **Triple Corona de Suntaris: nombres** | Mencionada en 12-reinos.md como pendiente. |
 | 13 | **Casa Umbra y el culto al Dios Negro** | Pendiente de desarrollo. |
 | 14 | **Destrucción de Suntaris** | Mencionada en 12-reinos.md como pendiente. |

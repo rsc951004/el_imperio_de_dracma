@@ -1,18 +1,18 @@
-# Sandor Solaris
+# Sandor Solaryss
 
 ## Identidad
-Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaris, antigua casa noble de Zefirya.
+Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaryss, antigua casa noble de Zefirya.
 
 **No es portador.** Su valor no está en el Blesk, sino en la memoria, la investigación y la palabra.
 
 ## Casa
-**Casa Solaris.** Casa real del antiguo Reino del Verano (Suntaris) durante casi cuatrocientos años. Hoy es una casa noble dentro del Imperio de Dragma.
+**Casa Solaryss.** Casa real del antiguo Reino del Verano (Suntaris) durante casi cuatrocientos años. Hoy es una casa noble dentro del Imperio de Dragma.
 
 - **Lema:** *Hijos del Amanecer, Herederos del Sol.*
 - **Colores:** azul cielo (principal), rojo y dorado.
 - **Escudo:** campo azul, sol dorado naciente sobre ondas de plata, tres coronas doradas, ave dorada en jefe, bordura roja.
 - **Raíces:** Taryim (belleza, salud, armonía), Royrim (simbolismo solar, majestad), Ylum (elegancia, porte, distinción).
-- **Rasgo físico:** los Solaris portan una belleza delicada, refinada y luminosa. En los hombres es notable sin ser afeminada.
+- **Rasgo físico:** los Solaryss portan una belleza delicada, refinada y luminosa. En los hombres es notable sin ser afeminada.
 
 ## Apariencia y edad
 Joven. Conoció a Yanos a los dieciséis años. En la época de las cartas ya es un erudito reconocido. Posee la belleza característica de su casa: fina, serena, de rasgos armoniosos. Yanos lo confundió con una muchacha al verlo por primera vez.
@@ -22,14 +22,14 @@ Joven. Conoció a Yanos a los dieciséis años. En la época de las cartas ya es
 - **Incómodo en la alta sociedad.** Desprecia la pomposidad de Eldegaria y las casas que usan el apellido como arma.
 - **Torpe para lo emocional.** Su afecto se expresa con frases que intentan no decir demasiado y terminan diciéndolo todo.
 - **Refugiado en los libros.** Podría haber vivido de la fortuna de su familia sin mover un dedo. Eligió ser erudito. Prefiere archivos y crónicas a salones y ascensos. Ahí encuentra sentido.
-- **Admira profundamente a Sylas Solaris**, su tatarabuelo explorador. Lo siente más cercano que a sus propios padres.
+- **Admira profundamente a Sylas Solaryss**, su tatarabuelo explorador. Lo siente más cercano que a sus propios padres.
 
 ## Relaciones familiares
-- **Dorian Solaris** (padre): noble muy reconocido en Zefirya y en todo el Imperio de Dragma.
-- **Vera Pavel** (madre, de soltera Pavel): prima del actual emperador. Al casarse con Dorian, eligió pasar a formar parte de la Casa Solaris, perdiendo con ello cualquier derecho hereditario en la casa imperial. Que una prima del emperador eligiera ser Solaris por encima de Pavel fue un golpe de prestigio para la casa.
-- **Sucesión:** El antiguo cabeza de familia decretó antes de morir que Dorian Solaris fuera el sucesor. Dorian, a su vez, ha decretado que Leondras será el próximo cabeza. Sandor queda fuera de la línea de sucesión.
-- **Leondras Solaris** (hermano mayor): Portador con dominio del viento. Relación de cariño real entre ambos, pero desgastada por quienes usan a Leondras para señalar que Sandor no es portador. Sandor no resiente a su hermano; resiente a quienes los comparan.
-- **Sylas Solaris** (tatarabuelo): explorador, historiador. Visitó Erebia. Su diario permitió a Sandor descubrir la cámara oculta en Kalos y escribir las *Crónicas*.
+- **Doryan Solaryss** (padre): noble muy reconocido en Zefirya y en todo el Imperio de Dragma.
+- **Vera Pavel** (madre, de soltera Pavel): prima del actual emperador. Al casarse con Doryan, eligió pasar a formar parte de la Casa Solaryss, perdiendo con ello cualquier derecho hereditario en la casa imperial. Que una prima del emperador eligiera ser Solaryss por encima de Pavel fue un golpe de prestigio para la casa.
+- **Sucesión:** El antiguo cabeza de familia decretó antes de morir que Doryan Solaryss fuera el sucesor. Doryan, a su vez, ha decretado que Leondras será el próximo cabeza. Sandor queda fuera de la línea de sucesión.
+- **Leondras Solaryss** (hermano mayor): Portador con dominio del viento. Relación de cariño real entre ambos, pero desgastada por quienes usan a Leondras para señalar que Sandor no es portador. Sandor no resiente a su hermano; resiente a quienes los comparan.
+- **Sylas Solaryss** (tatarabuelo): explorador, historiador. Visitó Erebia. Su diario permitió a Sandor descubrir la cámara oculta en Kalos y escribir las *Crónicas*.
 
 ## Conflicto interno
 Siente atracción por los hombres. En Dragma no es ilegal ni una mancha social, y su propia casa tiene el precedente del Reinado de la Triple Corona. Su conflicto no es vergüenza: es el peso del deber familiar. Sabe que probablemente no tendrá descendencia y que su línea directa puede extinguirse con él. Esto lo persigue como una sombra privada.
@@ -41,7 +41,7 @@ Obra que compila la historia de Erebia, Astria y Dragma a partir de fuentes frag
 - **Clara, sobria, sin arcaísmos.** Elegancia sin solemnidad forzada.
 - **Empatía con los perdedores.** Sus crónicas dan espacio a quienes la historia oficial olvidó.
 - **Humor seco** cuando escribe en privado (cartas). En las crónicas es mesurado pero no ausente.
-- **Cree en el Edicto del Amanecer** de Lorian Solaris: todos los hombres nacen libres e iguales en dignidad. Esa convicción atraviesa su forma de mirar el mundo.
+- **Cree en el Edicto del Amanecer** de Loryan Solaryss: todos los hombres nacen libres e iguales en dignidad. Esa convicción atraviesa su forma de mirar el mundo.
 
 ## Relaciones
 - **Yanos Gueika:** Soldado de Kalos. Amistad cercana, ambigua, con una atracción que Sandor no declara abiertamente.
@@ -49,6 +49,6 @@ Obra que compila la historia de Erebia, Astria y Dragma a partir de fuentes frag
 
 ## Referencias
 - `cuentos/0001-el-surgimiento/cuento.md`
-- `protoversiones/proto_v2/10 - Carta de Sandor Solaris a Ianos Guieska.md`
+- `protoversiones/proto_v2/10 - Carta de Sandor Solaryss a Ianos Guieska.md`
 - `protoversiones/proto_v2/Anexo I.md`
 - `protoversiones/proto_v2/Anexo II.md`

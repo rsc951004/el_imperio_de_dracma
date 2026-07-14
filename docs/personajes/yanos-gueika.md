@@ -28,18 +28,18 @@ Guardia de la Ciudadela de Kalos. Antes de la muerte de su padre, consideró ent
 
 Su vida como guardia no es falta de capacidad: es el resultado de una pérdida y una decisión asumida por deber.
 
-## Relación con Sandor Solaris
-Se conocieron cuando Sandor era adolescente. Yanos lo rescató de un asalto en un barrio apartado de Kalos. Al principio lo confundió con una muchacha —la belleza Solaris lo engañó— y lo dijo en voz alta. Sandor se ofendió muchísimo. Yanos se disculpó diciendo que nunca había visto a un chico tan hermoso. Eso desarmó a Sandor.
+## Relación con Sandor Solaryss
+Se conocieron cuando Sandor era adolescente. Yanos lo rescató de un asalto en un barrio apartado de Kalos. Al principio lo confundió con una muchacha —la belleza Solaryss lo engañó— y lo dijo en voz alta. Sandor se ofendió muchísimo. Yanos se disculpó diciendo que nunca había visto a un chico tan hermoso. Eso desarmó a Sandor.
 
 Desde entonces construyeron una amistad cercana, ambigua, llena de cosas no dichas. Yanos no rechaza a Sandor, pero tampoco declara nada. Su tono es lo bastante cálido para que Sandor se pregunte si hay algo más, y lo bastante contenido para que nunca tenga certeza.
 
 Yanos invitó a Sandor a su casa. Sandor encontró allí lo que le faltaba en la suya.
 
 ## Relaciones
-- **Sandor Solaris:** Amistad cercana, ambigua, con una atracción mutua no declarada.
+- **Sandor Solaryss:** Amistad cercana, ambigua, con una atracción mutua no declarada.
 - **Lander Kamus:** Amigo de infancia. Piromante. Representa la vida común y la espontaneidad que Sandor no posee.
 - **Freya Fenec:** Su madre. Pregunta constantemente por Sandor.
 
 ## Referencias
-- `protoversiones/proto_v2/11 - Respuesta de Ianos Guieska a Sandor Solaris.md`
+- `protoversiones/proto_v2/11 - Respuesta de Ianos Guieska a Sandor Solaryss.md`
 - `protoversiones/proto_v2/Anexo II.md`

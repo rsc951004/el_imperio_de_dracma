@@ -13,7 +13,7 @@
 
 ## Historia y descripción
 
-Casa común originaria de Veleskaria. Sin estatus nobiliario. Residencia humilde comparada con las casas nobles, pero descrita como cálida y llena de vida. Sandor Solaris encontró allí un calor de hogar que nunca había sentido en su propia casa.
+Casa común originaria de Veleskaria. Sin estatus nobiliario. Residencia humilde comparada con las casas nobles, pero descrita como cálida y llena de vida. Sandor Solaryss encontró allí un calor de hogar que nunca había sentido en su propia casa.
 
 ## Miembros relevantes
 

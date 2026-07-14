@@ -13,7 +13,7 @@ Talasya
 
 ## Casa real
 - Fundadora: Pendiente
-- Actual: **Valerius** (en revisión)
+- Actual: **Valeryus** (en revisión)
 
 ## Título del gobernante
 **Rey del Tridente** o **Reina del Tridente**. Forma abreviada entre monarcas: Rey Tridente o Reina Tridente. El título evoca el dominio naval sobre el **Estrecho de Vespa**: la mano que cierra la única vía marítima hacia Eldengaria. El tridente guarda la puerta de la capital.
@@ -32,7 +32,7 @@ Suntaris fue durante generaciones el **escudo de Kalos** contra las peregrinacio
 Cuando el Raikim Valgard destruyó la ciudadela de Suntaris —ataque anunciado, con la población ya evacuada a los asentamientos costeros del continente—, organizó esos asentamientos en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
 
 ## Gobierno
-Regido por la Casa Valerius (en revisión). El rey reinante es **Marcus Valerius ★**, Rey del Tridente. Su consorte es **Nerysa Undavos**, hija del Gran Senescal de Alesya.
+Regido por la Casa Valeryus (en revisión). El rey reinante es **Marcus Valeryus ★**, Rey del Tridente. Su consorte es **Neryssa Undavos**, hija del Gran Senescal de Alesya.
 
 ## Historia
 Vesperya fue fundada por el Raikim Valgard como **Vesphyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Su posición geográfica —flanqueada por mar abierto al sur y el Estrecho de Vespa al este— la convirtió desde el principio en la potencia naval de los Hijos del Sol.
@@ -53,6 +53,14 @@ Flota mercante y militar. Control del Estrecho de Vespa. Astilleros. Comercio co
 - `docs/mundo/estigria/dragma/alesya/alesya.md`
 
 ## Guía de nombres
-**Grecolatina.** Los nombres de personas y lugares de Vesperya siguen la tradición grecolatina.
+**Grecolatina.** Los nombres de personas y casas de Vesperya siguen la tradición grecolatina con las reglas fonéticas y semánticas de las Costas del Verano.
 
-Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro). Ver la Guía de nombres en `docs/AGENTS.md`.
+Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).
+
+**Reglas fonéticas del Verano:** y griega (i→y), doble ese (s+y→ssy, y+s→yss), te con hache (t+y→thy), efe con hache (f+y→phy).
+
+**Temas:** amor, luz, sol, primavera, flores, alegría, belleza. Vesperya añade: valentía, gallardía. El guardián del estrecho: nombres marciales, desafiantes. Sufijos típicos: -yus, -yss, -yos.
+
+**Comunes:** nombres más simples y con menos adornos que los nobles. Está mal visto aparentar nobleza mediante el nombre.
+
+Ver la Guía de nombres completa en `docs/AGENTS.md`.

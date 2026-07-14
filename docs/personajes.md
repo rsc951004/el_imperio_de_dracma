@@ -26,7 +26,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
-| Sandor Solaris | Cronista | Erudito de Kalos, autor de las *Crónicas*. No es portador. Noble de la Casa Solaris. | [Ver ficha](personajes/sandor-solaris.md) |
+| Sandor Solaryss | Cronista | Erudito de Kalos, autor de las *Crónicas*. No es portador. Noble de la Casa Solaryss. | [Ver ficha](personajes/sandor-solaryss.md) |
 | Yanos Gueika | Soldado | Guardia de la Ciudadela de Kalos. Casa común Gueika (Veleskaria). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |
 | Rudgar Valgard | Personaje histórico | Primer Raik. El Martillo Sangriento, el Traidor Rojo. Asesinó a Lux Terin. | [Ver ficha](personajes/rudgar-valgard.md) |
 | Drakar Valgard | Personaje histórico | Segundo Raik. Hijo de Rudgar. Heredó el trono tras la muerte de su padre. | [Ver ficha](personajes/drakar-valgard.md) |
@@ -47,18 +47,18 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Marlo Falken | Rey consorte | Flamengard ← Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/marlo-falken.md) |
 | Jorin Reisner | Rey gobernante | Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/jorin-reisner.md) |
 | Sabina Jaeger | Reina consorte | Sturmgard ← Waffengard (Valle de Hierro) | [Ver ficha](personajes/monarcas/sabina-jaeger.md) |
-| Octavia Corintyos | Reina gobernante | Ylumarya (Costas del Verano) | [Ver ficha](personajes/monarcas/octavia-corintyos.md) |
-| Helio Ventys | Rey consorte | Ylumarya ← Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/helio-ventys.md) |
+| Octavya Corinthyos | Reina gobernante | Ylumarya (Costas del Verano) | [Ver ficha](personajes/monarcas/octavya-corinthyos.md) |
+| Helyo Venthyss | Rey consorte | Ylumarya ← Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/helyo-venthyss.md) |
 | Ileana Enescu | Reina gobernante | Veleskaria (Paso del Oriente) | [Ver ficha](personajes/monarcas/ileana-enescu.md) |
 | Yelena Gorski | Reina consorte | Veleskaria ← Sindria (Paso del Oriente) | [Ver ficha](personajes/monarcas/yelena-gorski.md) |
-| Cassius Zephyrion | Rey gobernante | Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/cassius-zephyrion.md) |
-| Celestya Drusio | Reina consorte | Zefirya ← Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/celestya-drusio.md) |
+| Cassyus Zephyryon | Rey gobernante | Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/cassyus-zephyryon.md) |
+| Celesthya Drussyo | Reina consorte | Zefirya ← Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/celesthya-drussyo.md) |
 | Eero Tuomi | Rey gobernante | Merenia (Tierras Antiguas) | [Ver ficha](personajes/monarcas/eero-tuomi.md) |
 | Tavros Andreidis | Rey consorte | Merenia ← Vesperya (Tierras Antiguas) | [Ver ficha](personajes/monarcas/stavros-andreidis.md) |
 | Valerius Umbra | Rey gobernante | Aurelia (Tierras Antiguas) | [Ver ficha](personajes/monarcas/valerius-umbra.md) |
 | Taria Eskola | Reina consorte | Aurelia ← Merenia (Tierras Antiguas) | [Ver ficha](personajes/monarcas/taria-eskola.md) |
-| Marcus Valerius | Rey gobernante | Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/marcus-valerius.md) |
-| Nerysa Undavos | Reina consorte | Vesperya ← Alesya (Costas del Verano) | [Ver ficha](personajes/monarcas/nerysa-undavos.md) |
+| Marcus Valeryus | Rey gobernante | Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/marcus-valeryus.md) |
+| Neryssa Undavos | Reina consorte | Vesperya ← Alesya (Costas del Verano) | [Ver ficha](personajes/monarcas/neryssa-undavos.md) |
 | Uriel Goros | Rey gobernante | Sindria (Paso del Oriente) | [Ver ficha](personajes/monarcas/uriel-goros.md) |
 | Ecaterina Cojocaru | Reina consorte | Sindria ← Veleskaria (Paso del Oriente) | [Ver ficha](personajes/monarcas/ecaterina-cojocaru.md) |
 | Dreide Gorio | Reina gobernante | Ylvaria (Tierras Antiguas) | [Ver ficha](personajes/monarcas/dreide-gorio.md) |
@@ -80,9 +80,9 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
-| Daryón Coralys | Noble histórico | Noble de Alessya. Pactó la unión de la isla con Zefirya y el matrimonio de su hija. Traicionado por ella. Su casa fue proscrita | [Ver ficha](personajes/historicos/daryon-coralys.md) |
+| Daryón Coralyss | Noble histórico | Noble de Alessya. Pactó la unión de la isla con Zefirya y el matrimonio de su hija. Traicionado por ella. Su casa fue proscrita | [Ver ficha](personajes/historicos/daryon-coralyss.md) |
 | Kleóndras Aetheryon | Rey histórico | Rey de Zefirya. Pactó con Daryón. Ejecutado tras la Guerra de los Hermanos. Casa proscrita | [Ver ficha](personajes/historicos/kleondras-aetheryon.md) |
-| Kyros Albyon | Rey histórico | Rey de Ylumarya. Su hijo Eryk era amante de Thalysa. Ejecutado tras la guerra. Casa proscrita | [Ver ficha](personajes/historicos/kyros-albyon.md) |
-| Eryk Albyon | Príncipe histórico | Príncipe de Ylumarya. Amante de Thalysa. Desaparecido. Uno de los Príncipes Perdidos | [Ver ficha](personajes/historicos/eryk-albyon.md) |
-| Thalysa Coralys | Princesa histórica | Hija de Daryón. Prometida a Zefirya, amante de Eryk. Huyó embarazada. Desaparecida. Una de los Príncipes Perdidos | [Ver ficha](personajes/historicos/thalysa-coralys.md) |
-| Astryón Aetheryon | Príncipe histórico | Príncipe de Zefirya. Prometido de Thalysa. Abandonado la noche del compromiso | [Ver ficha](personajes/historicos/astryon-aetheryon.md) |
+| Kyros Albyon | Rey histórico | Rey de Ylumarya. Su hijo Eryk era amante de Thalyssa. Ejecutado tras la guerra. Casa proscrita | [Ver ficha](personajes/historicos/kyros-albyon.md) |
+| Eryk Albyon | Príncipe histórico | Príncipe de Ylumarya. Amante de Thalyssa. Desaparecido. Uno de los Príncipes Perdidos | [Ver ficha](personajes/historicos/eryk-albyon.md) |
+| Thalyssa Coralyss | Princesa histórica | Hija de Daryón. Prometida a Zefirya, amante de Eryk. Huyó embarazada. Desaparecida. Una de los Príncipes Perdidos | [Ver ficha](personajes/historicos/thalyssa-coralyss.md) |
+| Astryón Aetheryon | Príncipe histórico | Príncipe de Zefirya. Prometido de Thalyssa. Abandonado la noche del compromiso | [Ver ficha](personajes/historicos/astryon-aetheryon.md) |

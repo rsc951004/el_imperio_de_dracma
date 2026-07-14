@@ -24,9 +24,9 @@ Las fechas marcadas con `~` son tentativas y serán validadas cuando el lore de 
 | ? | Rudgar Valgard asesina a **Lux Terin** a traición. Ambos son ancianos. |
 | ? | Muerte de Rudgar. Su hijo **Drakar Valgard** hereda como 2º Raik. |
 | ? | Diecisiete Raiks gobiernan durante siglos. La promesa de entregar Esteria a Sindria jamás se cumple. |
-| ? | Rebelión de los ocho reinos. **Edicto del Amanecer** de Lorian Solaris. Caída de **Grimar Valgard** (17º y último Raik). |
+| ? | Rebelión de los ocho reinos. **Edicto del Amanecer** de Loryan Solaryss. Caída de **Grimar Valgard** (17º y último Raik). |
 | ? | Fundación del **Imperio de Dragma**. Los 12 Reinos. Los 5 Protectorados. |
-| ? | **Presente.** Uriel Goros, Rey del Foso. Jorgen Meister, Rey del Acero. Sandor Solaris escribe las Crónicas en Kalos. |
+| ? | **Presente.** Uriel Goros, Rey del Foso. Jorgen Meister, Rey del Acero. Sandor Solaryss escribe las Crónicas en Kalos. |
 
 ---
 

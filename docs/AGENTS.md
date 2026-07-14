@@ -69,11 +69,52 @@ Ejemplos:
 
 | Inspiración | Nombre real | Nombre del mundo |
 |------------|-------------|-----------------|
-| Latín | Celestia / Celeste | **Celestya** |
+| Latín | Celestia / Celeste | **Celesthya** |
 | Latín | Julio / Julius | **Yulio** |
 | Germánico | Peter | **Pyeter** |
 | Hebreo | Jonás / Jonas | **Yonas** |
 
+### Reglas de las Costas del Verano
+
+Los tres reinos del Verano —**Ylumarya**, **Zefirya** y **Vesperya**— comparten origen suntariano, sangre y lengua. Sus nombres siguen reglas propias, más estrictas que las del resto del imperio.
+
+#### Reglas fonéticas (aplican a todos los nombres del Verano)
+
+| # | Regla | Transformación | Ejemplo |
+|---|-------|---------------|---------|
+| 1 | **y griega** | Toda `i` → `y`. Si el nombre tiene dos íes, la primera se queda latina, la segunda pasa a griega. | Solaryss → Solaryss, Cassyus → Cassyus |
+| 2 | **doble ese** | Toda `s` que antecede a `y` se duplica: `s+y` → `ssy`. También aplica si `y` antecede a `s`: `y+s` → `yss`. | Drussyo → Drussyo, Solarys → Solaryss |
+| 3 | **te con hache** | Toda `t` que antecede a `y` añade `h`: `t+y` → `thy`. | Celesthya → Celesthya, Venthyss → Venthyss |
+| 4 | **efe con hache** | Toda `f` que antecede a `y` se escribe `phy`. | (sin ejemplos canónicos actuales) |
+
+> Las reglas se aplican en orden: primero y griega, luego doble ese, luego te con hache, luego efe con hache.
+
+#### Temas semánticos (significado de los nombres)
+
+Todos los nombres del Verano deben evocar:
+
+- **El amor, la luz, el sol, la primavera, las flores, la alegría, la belleza.**
+
+Cada reino tiene su variante:
+
+| Reino | Añade |
+|-------|-------|
+| **Ylumarya** | Calma, paz, nobleza |
+| **Zefirya** | (rasgos base sin añadidos) |
+| **Vesperya** | Valentía, gallardía |
+
+#### Sufijos por reino
+
+| Reino | Sufijos típicos | Razón |
+|-------|-----------------|-------|
+| **Ylumarya** | -ón, -yk, -os | Sobriedad pastoral, puente con el Hierro |
+| **Zefirya** | -yon, -yss, -yas | Elegancia, belleza, la flor del Verano |
+| **Vesperya** | -yus, -yss, -yos | Marcialidad, desafío, guardián del estrecho |
+
+#### Nombres comunes
+
+Los **comunes** (no nobles) del Verano llevan nombres **más simples y con menos adornos** que los nobles. En las Costas del Verano está mal visto tratar de aparentar ser noble mediante el nombre sin serlo.
+
 ---
 
-_Versión: 1.0.0 | La verdad del universo está aquí_
+_Versión: 1.1.0 | La verdad del universo está aquí_

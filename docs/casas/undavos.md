@@ -10,4 +10,4 @@ Alesya (protectorado del Verano)
 Casa noble de Alesya, isla al suroeste llamada el cuarto reino del Verano. El nombre evoca las olas (lat. *unda*) que rodean el protectorado insular. Culturalmente vinculada a los Reinos del Verano.
 
 ## Miembros relevantes
-- Nerysa Undavos: reina consorte de Vesperya
+- Neryssa Undavos: reina consorte de Vesperya

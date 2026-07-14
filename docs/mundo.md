@@ -92,12 +92,12 @@ mundo/
 | 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo | Rey Yuter Hammer | [Ver ficha](mundo/estigria/dragma/skarngard/skarngard.md) |
 | 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama | Rey Kaspar Wolfen | [Ver ficha](mundo/estigria/dragma/flamengard/flamengard.md) |
 | 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta | Rey Jorin Reisner | [Ver ficha](mundo/estigria/dragma/sturmgard/sturmgard.md) |
-| 5 | Ylumarya | Costas del Verano | Corintyos | Rey/Reina del Alba | Reina Octavia Corintyos | [Ver ficha](mundo/estigria/dragma/ylumarya/ylumarya.md) |
+| 5 | Ylumarya | Costas del Verano | Corinthyos | Rey/Reina del Alba | Reina Octavya Corinthyos | [Ver ficha](mundo/estigria/dragma/ylumarya/ylumarya.md) |
 | 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
-| 7 | Zefirya | Costas del Verano | Zephyrion | Rey/Reina del Viento | Rey Cassius Zephyrion | [Ver ficha](mundo/estigria/dragma/zefirya/zefirya.md) |
+| 7 | Zefirya | Costas del Verano | Zephyryon | Rey/Reina del Viento | Rey Cassyus Zephyryon | [Ver ficha](mundo/estigria/dragma/zefirya/zefirya.md) |
 | 8 | Merenia | Tierras Antiguas | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/merenia/merenia.md) |
 | 9 | Aurelia | Tierras Antiguas | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
-| 10 | Vesperya | Costas del Verano | Valerius | Rey/Reina del Tridente | Rey Marcus Valerius | [Ver ficha](mundo/estigria/dragma/vesperya/vesperya.md) |
+| 10 | Vesperya | Costas del Verano | Valeryus | Rey/Reina del Tridente | Rey Marcus Valeryus | [Ver ficha](mundo/estigria/dragma/vesperya/vesperya.md) |
 | 11 | Sindria | Paso del Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
 | 12 | Ylvaria | Tierras Antiguas | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
 
@@ -113,7 +113,7 @@ mundo/
 
 En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y Tierras Antiguas formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
 
-Tres reinos del Verano descienden directamente de Suntaris: **Ylumarya** (el más septentrional, heredero de la mística Solaris y la Triple Corona), **Zefirya** (planicies del suroeste, Casa Solaris sin corona y técnica de Lorian), **Vesperya** (el más oriental, guardián del Estrecho de Vespa y la Bahía de los Reyes). Los tres comparten un mismo origen en los Hijos del Sol. La división fue impuesta por el Raikim para impedir que se unieran como nación.
+Tres reinos del Verano descienden directamente de Suntaris: **Ylumarya** (el más septentrional, heredero de la mística Solaryss y la Triple Corona), **Zefirya** (planicies del suroeste, Casa Solaryss sin corona y técnica de Loryan), **Vesperya** (el más oriental, guardián del Estrecho de Vespa y la Bahía de los Reyes). Los tres comparten un mismo origen en los Hijos del Sol. La división fue impuesta por el Raikim para impedir que se unieran como nación.
 
 #### Capital imperial
 

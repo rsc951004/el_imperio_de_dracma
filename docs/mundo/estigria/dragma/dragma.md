@@ -39,12 +39,12 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo |
 | 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama |
 | 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta |
-| 5 | Ylumarya | Amanecer | Corintyos | Rey/Reina del Alba |
+| 5 | Ylumarya | Amanecer | Corinthyos | Rey/Reina del Alba |
 | 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña |
-| 7 | Zefirya | Amanecer | Zephyrion | Rey/Reina del Viento |
+| 7 | Zefirya | Amanecer | Zephyryon | Rey/Reina del Viento |
 | 8 | Merenia | Amanecer | Tuomi | Rey/Reina del Mar |
 | 9 | Aurelia | Amanecer | Umbra | Rey/Reina del Oro |
-| 10 | Vesperya | Amanecer | Valerius | Rey/Reina del Tridente |
+| 10 | Vesperya | Amanecer | Valeryus | Rey/Reina del Tridente |
 | 11 | Sindria | Amanecer | Goros | Rey/Reina del Foso |
 | 12 | Ylvaria | Amanecer | Gorio | Rey/Reina del Bosque |
 

@@ -11,7 +11,7 @@ Anemora
 
 ## Casa real
 - Fundadora: Pendiente
-- Actual: **Zephyrion**
+- Actual: **Zephyryon**
 
 ## Título del gobernante
 **Rey del Viento** o **Reina del Viento**. Forma abreviada entre monarcas: Rey Viento o Reina Viento.
@@ -49,23 +49,23 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Vesperya:** verde — el mar profundo, la aventura, el estrecho.
 
 ## Gobierno
-Regido por la Casa Zephyrion. El rey reinante es **Cassius Zephyrion ★**, Rey del Viento. Su consorte es Celestya Drusio, de casa noble de Vesperya.
+Regido por la Casa Zephyryon. El rey reinante es **Cassyus Zephyryon ★**, Rey del Viento. Su consorte es Celesthya Drussyo, de casa noble de Vesperya.
 
 ## Historia
-Zefirya fue fundada por el Raikim Valgard como **Zephyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Alberga a la **Casa Solaris** como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Lorian Solaris: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.
+Zefirya fue fundada por el Raikim Valgard como **Zephyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Alberga a la **Casa Solaryss** como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Loryan Solaryss: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.
 
 ### La Guerra de los Hermanos
-Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), Zefirya estaba gobernada por **Kleóndras Aetheryon**. Kleóndras pactó en secreto con el noble **Daryón Coralys** de Alessya el matrimonio entre su hijo, el príncipe **Astryón Aetheryon**, y **Thalysa Coralys**, hija de Daryón. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zefirya por herencia y unión matrimonial. Era la gran jugada del reinado de Kleóndras: unir la isla sagrada de los Hijos del Sol a la flor del Verano.
+Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), Zefirya estaba gobernada por **Kleóndras Aetheryon**. Kleóndras pactó en secreto con el noble **Daryón Coralyss** de Alessya el matrimonio entre su hijo, el príncipe **Astryón Aetheryon**, y **Thalyssa Coralyss**, hija de Daryón. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zefirya por herencia y unión matrimonial. Era la gran jugada del reinado de Kleóndras: unir la isla sagrada de los Hijos del Sol a la flor del Verano.
 
-Lo que Kleóndras no sabía era que Thalysa ya era amante en secreto de **Eryk Albyon**, príncipe de Ylumarya. Y estaba embarazada.
+Lo que Kleóndras no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Ylumarya. Y estaba embarazada.
 
-La noche anterior al compromiso, Thalysa huyó con Eryk hacia Kalos. **Nunca llegaron.** Su desaparición es un misterio hasta hoy —el cuento de los **Príncipes Perdidos**—.
+La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Kalos. **Nunca llegaron.** Su desaparición es un misterio hasta hoy —el cuento de los **Príncipes Perdidos**—.
 
 Alessya y Zefirya acusaron a Ylumarya de secuestro. Ylumarya acusó a Zefirya de asesinato. Estalló la **Guerra de los Hermanos**: zefiryos y alessyanos contra ylumarios. Ylumarya logró invadir Zefirya.
 
 Cuando Sturmgard amenazó con intervenir, el emperador Edrik contuvo la escalada. Al final, ejecutó a ambos reyes —Kleóndras y Kyros Albyon— y proscribió a sus casas del **Dex Códice**. La casa Aetheryon fue borrada de la historia.
 
-El **Stamengerin** nombró a la **Casa Zephyrion** como nueva casa real de Zefirya.
+El **Stamengerin** nombró a la **Casa Zephyryon** como nueva casa real de Zefirya.
 
 La guerra dejó una cicatriz permanente. Zefirya perdió a su rey y a su casa reinante. Hoy mantiene relaciones cordiales con Ylumarya —intercambia consortes, comercia, recibe turistas—, pero bajo la superficie de la flor del Verano corre una corriente de dolor que nunca ha sanado del todo.
 
@@ -82,6 +82,14 @@ Turismo de todo el imperio. Agricultura de planicie y ganadería. Comercio de pi
 - `docs/mundo/estigria/dragma/alesya/alesya.md`
 
 ## Guía de nombres
-**Grecolatina.** Los nombres de personas y lugares de Zefirya siguen la tradición grecolatina.
+**Grecolatina.** Los nombres de personas y casas de Zefirya siguen la tradición grecolatina con las reglas fonéticas y semánticas de las Costas del Verano.
 
-Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro). Ver la Guía de nombres en `docs/AGENTS.md`.
+Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).
+
+**Reglas fonéticas del Verano:** y griega (i→y), doble ese (s+y→ssy, y+s→yss), te con hache (t+y→thy), efe con hache (f+y→phy).
+
+**Temas:** amor, luz, sol, primavera, flores, alegría, belleza. Zefirya es la flor del Verano: nombres elegantes, bellos, floridos. Sufijos típicos: -yon, -yss, -yas.
+
+**Comunes:** nombres más simples y con menos adornos que los nobles. Está mal visto aparentar nobleza mediante el nombre.
+
+Ver la Guía de nombres completa en `docs/AGENTS.md`.

@@ -16,7 +16,7 @@
 
 Dinastía que gobernó el Raikim Valgard, la tiranía que dominó Estigria antes de la fundación del Imperio de Dragma. El nombre proviene de la fortaleza de Eldengard (Val + gard: «fortaleza de los Val»). La Casa Valgard surgió del núcleo de los Val en el Valle Central.
 
-Durante la fase protectora, Valgard se expandió desde Eldengard como fuerza defensora contra las criaturas del este. Bajo Rudgar Valgard, primer Raik, el estado protector se transformó en una tiranía: todas las tierras y sus habitantes eran propiedad del Raik. La esclavitud era institución legal. La Casa Valgard creía en la esclavitud como orden natural. Su caída fue provocada por la rebelión de los ocho reinos del Bloque del Amanecer, liderados por el Edicto del Amanecer de Lorian Solaris. Grimar Valgard, decimoséptimo y último Raik —conocido como Grimar de Piedra—, fue convertido en piedra antes de morir. Sobre las ruinas del Raikim se fundó el Imperio de Dragma.
+Durante la fase protectora, Valgard se expandió desde Eldengard como fuerza defensora contra las criaturas del este. Bajo Rudgar Valgard, primer Raik, el estado protector se transformó en una tiranía: todas las tierras y sus habitantes eran propiedad del Raik. La esclavitud era institución legal. La Casa Valgard creía en la esclavitud como orden natural. Su caída fue provocada por la rebelión de los ocho reinos del Bloque del Amanecer, liderados por el Edicto del Amanecer de Loryan Solaryss. Grimar Valgard, decimoséptimo y último Raik —conocido como Grimar de Piedra—, fue convertido en piedra antes de morir. Sobre las ruinas del Raikim se fundó el Imperio de Dragma.
 
 ## Miembros relevantes
 

@@ -1,4 +1,4 @@
-# Casa Drusio
+# Casa Drussyo
 
 ## Tipo
 Casa noble
@@ -10,4 +10,4 @@ Vesperya (Costas del Verano)
 Casa noble de Vesperya. De raigambre marinera en la Costa del Verano.
 
 ## Miembros relevantes
-- Celestya Drusio: reina consorte de Zefirya
+- Celesthya Drussyo: reina consorte de Zefirya

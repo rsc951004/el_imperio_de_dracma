@@ -1,4 +1,4 @@
-# Nerysa Undavos
+# Neryssa Undavos
 
 ## Identidad
 Reina consorte de **Vesperya**. Hija del **Príncipe Guardián de Alesya**, la máxima autoridad del principado que custodia las ruinas de Suntaris.
@@ -10,4 +10,4 @@ Reina consorte de **Vesperya**. Hija del **Príncipe Guardián de Alesya**, la m
 Pendiente.
 
 ## Relaciones
-- **Marcus Valerius:** esposo. Rey gobernante de Vesperya.
+- **Marcus Valeryus:** esposo. Rey gobernante de Vesperya.

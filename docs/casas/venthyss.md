@@ -1,4 +1,4 @@
-# Casa Ventys
+# Casa Venthyss
 
 ## Tipo
 Casa noble
@@ -10,4 +10,4 @@ Zefirya (Costas del Verano)
 Casa noble de Zefirya. Su nombre evoca los vientos que recorren las planicies del sur.
 
 ## Miembros relevantes
-- Helio Ventys: rey consorte de Ylumarya
+- Helyo Venthyss: rey consorte de Ylumarya
