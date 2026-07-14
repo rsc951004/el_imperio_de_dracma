@@ -39,9 +39,9 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo |
 | 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama |
 | 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta |
-| 5 | Ylumarya | Amanecer | Corinthyos | Rey/Reina del Alba |
+| 5 | Lysarya | Amanecer | Corinthyos | Rey/Reina de la Roca |
 | 6 | Veleskaria | Amanecer | Enescu | Rey/Reina de la Montaña |
-| 7 | Zefirya | Amanecer | Zephyryon | Rey/Reina del Viento |
+| 7 | Zephyrya | Amanecer | Zephyryon | Rey/Reina del Ocaso |
 | 8 | Merenia | Amanecer | Tuomi | Rey/Reina del Mar |
 | 9 | Aurelia | Amanecer | Umbra | Rey/Reina del Oro |
 | 10 | Vesperya | Amanecer | Valeryus | Rey/Reina del Tridente |
@@ -70,7 +70,7 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 | # | Dinastía | Origen | Emperadores | Estado |
 |---|----------|--------|-------------|--------|
 | 1 | Mormund | Sturmgard (Hierro). Guerreros de las tormentas del norte. | 17 | Extinta como casa imperial. Retornó a casa noble de Sturmgard. |
-| 2 | Amschel | Ylumarya (Amanecer). Casa noble de Ylumarya. | 21 | Extinta como casa imperial. Retornó a casa noble de Ylumarya. |
+| 2 | Amschel | Lysarya (Amanecer). Casa noble de Lysarya. | 21 | Extinta como casa imperial. Retornó a casa noble de Lysarya. |
 | 3 | Pavel | — | 5 (actual) | Reinante. |
 
 ### Primera dinastía: Casa Mormund (Sturmgard)
@@ -82,14 +82,14 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 | 1.º | Harald Mormund | Primer emperador Mormund. Caudillo naval de Sturmgard. |
 | 2.º | Roderic Mormund | Subyugador de dominios rebeldes. |
 | 3.º | Godric Mormund | La tragedia fratricida ocurrió bajo su reinado. |
-| 5.º | **Edrik Mormund** | Bajo su reinado estalló la Guerra de los Hermanos (Zefirya vs Ylumarya). |
+| 5.º | **Edrik Mormund** | Bajo su reinado estalló la Guerra de los Hermanos (Zephyrya vs Lysarya). |
 | 4.º | Vilem Mormund | El Padre del Imperio. Arquitecto de la Concordia. |
 | … | Trece emperadores posteriores | Compatibles con la Concordia. |
 | 17.º | **Aldric Mormund** | Último. Nunca se casó. Deseó extinguir la línea Mormund. Provocó el quiebre de la dinastía. |
 
-### Segunda dinastía: Casa Amschel (Ylumarya)
+### Segunda dinastía: Casa Amschel (Lysarya)
 
-21 emperadores. Casa noble de Ylumarya. Electa por el Stamengerin tras el quiebre de la dinastía Mormund.
+21 emperadores. Casa noble de Lysarya. Electa por el Stamengerin tras el quiebre de la dinastía Mormund.
 
 | Orden | Nombre | Notas |
 |-------|--------|-------|

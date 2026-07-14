@@ -67,8 +67,8 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | Sk | Skarngard | HIERRO | Germánica (nombres) |
 | St | Sturmgard | HIERRO | Germánica (nombres) |
 | Fl | Flamengard | HIERRO | Germánica (nombres) |
-| Lm | Ylumarya | VERANO | Grecolatina (nombres) |
-| Zf | Zefirya | VERANO | Grecolatina (nombres) |
+| Lm | Lysarya | VERANO | Grecolatina (nombres) |
+| Zf | Zephyrya | VERANO | Grecolatina (nombres) |
 | El | Vesperya | VERANO | Grecolatina (nombres) |
 | Sd | Sindria | ORIENTE | Eslava (nombres) |
 | Vk | Veleskaria | ORIENTE | Eslava (nombres) |
@@ -155,7 +155,7 @@ Bloque: filas B1-B3, columnas 3a-3c (parcial). Cedió B3-3b a Eldengaria y B3-3c
 | B2-3c | E | Waffenfeld | Campo oriental |
 | B3-3a | SO | Waffenfurt | Vado del suroeste (linde con Eldengaria) |
 
-### Ylumarya [Lm] — Costas del Verano
+### Lysarya [Lm] — Costas del Verano
 
 Bloque: filas C1-C3, columnas 1a-1c.
 
@@ -165,13 +165,13 @@ Bloque: filas C1-C3, columnas 1a-1c.
 | C1-1b | N | Lumynea | Meseta norte |
 | C1-1c | NE | Lumystia | Puerto del noreste |
 | C2-1a | O | Lumoros | Valle occidental |
-| C2-1b | * | Ylumarya | Capital (ciudad del Alba) |
+| C2-1b | * | Lysarya | Capital (ciudad del Alba) |
 | C2-1c | E | Lumorion | Costa oriental |
 | C3-1a | SO | Lumyphos | Faro del suroeste |
 | C3-1b | S | Lumythea | Puerto sur |
 | C3-1c | SE | Lumycia | Península del sureste |
 
-### Zefirya [Zf] — Costas del Verano
+### Zephyrya [Zf] — Costas del Verano
 
 Bloque: filas D1-D3, columnas 1a-1c.
 
@@ -181,7 +181,7 @@ Bloque: filas D1-D3, columnas 1a-1c.
 | D1-1b | N | Zefynea | Llanura norte |
 | D1-1c | NE | Zefystia | Puerto del noreste |
 | D2-1a | O | Zeforos | Valle occidental |
-| D2-1b | * | Zefirya | Capital (ciudad del Viento) |
+| D2-1b | * | Zephyrya | Capital (ciudad del Viento) |
 | D2-1c | E | Zeforion | Costa oriental |
 | D3-1a | SO | Zefyphos | Faro del suroeste |
 | D3-1b | S | Zefythea | Bahía sur |

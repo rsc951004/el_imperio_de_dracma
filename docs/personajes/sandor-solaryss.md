@@ -1,7 +1,7 @@
 # Sandor Solaryss
 
 ## Identidad
-Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaryss, antigua casa noble de Zefirya.
+Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaryss, antigua casa noble de Zephyrya.
 
 **No es portador.** Su valor no está en el Blesk, sino en la memoria, la investigación y la palabra.
 
@@ -25,7 +25,7 @@ Joven. Conoció a Yanos a los dieciséis años. En la época de las cartas ya es
 - **Admira profundamente a Sylas Solaryss**, su tatarabuelo explorador. Lo siente más cercano que a sus propios padres.
 
 ## Relaciones familiares
-- **Doryan Solaryss** (padre): noble muy reconocido en Zefirya y en todo el Imperio de Dragma.
+- **Doryan Solaryss** (padre): noble muy reconocido en Zephyrya y en todo el Imperio de Dragma.
 - **Vera Pavel** (madre, de soltera Pavel): prima del actual emperador. Al casarse con Doryan, eligió pasar a formar parte de la Casa Solaryss, perdiendo con ello cualquier derecho hereditario en la casa imperial. Que una prima del emperador eligiera ser Solaryss por encima de Pavel fue un golpe de prestigio para la casa.
 - **Sucesión:** El antiguo cabeza de familia decretó antes de morir que Doryan Solaryss fuera el sucesor. Doryan, a su vez, ha decretado que Leondras será el próximo cabeza. Sandor queda fuera de la línea de sucesión.
 - **Leondras Solaryss** (hermano mayor): Portador con dominio del viento. Relación de cariño real entre ambos, pero desgastada por quienes usan a Leondras para señalar que Sandor no es portador. Sandor no resiente a su hermano; resiente a quienes los comparan.

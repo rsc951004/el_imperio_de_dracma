@@ -4,7 +4,7 @@
 Dinastía imperial. Segunda casa en ocupar el trono de Dragma.
 
 ## Origen
-Casa noble de **Ylumarya**, reino del Alba, centro espiritual de la rebelión del Edicto del Amanecer y heredero del alma de Suntarys. La Casa Amschel era una casa noble de Ylumarya, distinta de la casa real Corinthyos que hoy gobierna Ylumarya. Preexistía desde la Edad de los Mil Reinos.
+Casa noble de **Lysarya**, reino del Alba, centro espiritual de la rebelión del Edicto del Amanecer y heredero del alma de Suntarys. La Casa Amschel era una casa noble de Lysarya, distinta de la casa real Corinthyos que hoy gobierna Lysarya. Preexistía desde la Edad de los Mil Reinos.
 
 ## Ascenso al trono
 Electa por el Stamengerin tras el **quiebre de la dinastía Mormund**. Aldric Mormund, 17.º y último emperador de su casa, nunca se casó. Cuando la Dex Tábura le preguntó si deseaba postular a un pariente de sangre para heredar el trono, se negó. Quiso que su casa y su linaje dejaran de estar a cargo de la corona imperial.
@@ -16,14 +16,14 @@ El Stamengerin, compuesto por todos los jefes de casas nobles y comunes y superv
 
 | Orden | Nombre | Notas |
 |-------|--------|-------|
-| 1.º | **Ezra Amschel** | Primer emperador Amschel. Casa noble de Ylumarya electa por el Stamengerin. |
+| 1.º | **Ezra Amschel** | Primer emperador Amschel. Casa noble de Lysarya electa por el Stamengerin. |
 | … | Diecinueve emperadores | Reinados bajo la Concordia. |
 | 21.º | **Amós Amschel** | Último emperador Amschel. |
 
 ## Caída
 Amós Amschel, 21.º y último emperador de la dinastía, tuvo hijos. Ninguno de ellos quiso asumir la responsabilidad del imperio. Cuando la Dex Tábura le preguntó si deseaba postular a algún primo o sobrino como heredero, se negó.
 
-Declarado el quiebre de la dinastía Amschel, el Stamengerin eligió a **Stanis Pavel** como nuevo emperador. La Casa Amschel regresó a su estatus previo como casa noble de Ylumarya.
+Declarado el quiebre de la dinastía Amschel, el Stamengerin eligió a **Stanis Pavel** como nuevo emperador. La Casa Amschel regresó a su estatus previo como casa noble de Lysarya.
 
 ## Legado
 Segunda dinastía en gobernar el imperio. Consolidó la Concordia como tradición viva, no solo como la voluntad de un hombre (Vilem Mormund). Bajo los Amschel, el imperio normalizó la idea de que la corona no pertenece a ningún linaje por sangre y que el Stamengerin es el verdadero guardián de la sucesión.

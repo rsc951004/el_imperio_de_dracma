@@ -4,13 +4,13 @@
 Casa real
 
 ## Reino
-Ylumarya (Costas del Verano)
+Lysarya (Costas del Verano)
 
 ## Historia y descripción
-Casa reinante de Ylumarya. Heredera del alma de Suntarys: custodia de la mística Solaryss y de la Triple Corona. La casa juró que la luz de Suntarys volvería a guiar Dragma.
+Casa reinante de Lysarya. Heredera del alma de Suntarys: custodia de la mística Solaryss y de la Triple Corona. La casa juró que la luz de Suntarys volvería a guiar Dragma.
 
 ## Título
-Rey/Reina del Alba
+Rey/Reina de la Roca
 
 ## Miembros relevantes
-- Octavya Corinthyos: reina reinante de Ylumarya
+- Octavya Corinthyos: reina reinante de Lysarya

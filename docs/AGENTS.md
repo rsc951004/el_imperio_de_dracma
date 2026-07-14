@@ -76,7 +76,7 @@ Ejemplos:
 
 ### Reglas de las Costas del Verano
 
-Los tres reinos del Verano —**Ylumarya**, **Zefirya** y **Vesperya**— comparten origen suntariano, sangre y lengua. Sus nombres siguen reglas propias, más estrictas que las del resto del imperio.
+Los tres reinos del Verano —**Lysarya**, **Zephyrya** y **Vesperya**— comparten origen suntariano, sangre y lengua. Sus nombres siguen reglas propias, más estrictas que las del resto del imperio.
 
 #### Reglas fonéticas (aplican a todos los nombres del Verano)
 
@@ -99,16 +99,16 @@ Cada reino tiene su variante:
 
 | Reino | Añade |
 |-------|-------|
-| **Ylumarya** | Calma, paz, nobleza |
-| **Zefirya** | (rasgos base sin añadidos) |
+| **Lysarya** | Calma, paz, nobleza |
+| **Zephyrya** | (rasgos base sin añadidos) |
 | **Vesperya** | Valentía, gallardía |
 
 #### Sufijos por reino
 
 | Reino | Sufijos típicos | Razón |
 |-------|-----------------|-------|
-| **Ylumarya** | -ón, -yk, -os | Sobriedad pastoral, puente con el Hierro |
-| **Zefirya** | -yon, -yss, -yas | Elegancia, belleza, la flor del Verano |
+| **Lysarya** | -ón, -yk, -os | Sobriedad pastoral, puente con el Hierro |
+| **Zephyrya** | -yon, -yss, -yas | Elegancia, belleza, la flor del Verano |
 | **Vesperya** | -yus, -yss, -yos | Marcialidad, desafío, guardián del estrecho |
 
 #### Nombres comunes

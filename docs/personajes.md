@@ -47,12 +47,12 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Marlo Falken | Rey consorte | Flamengard ← Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/marlo-falken.md) |
 | Jorin Reisner | Rey gobernante | Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/jorin-reisner.md) |
 | Sabina Jaeger | Reina consorte | Sturmgard ← Waffengard (Valle de Hierro) | [Ver ficha](personajes/monarcas/sabina-jaeger.md) |
-| Octavya Corinthyos | Reina gobernante | Ylumarya (Costas del Verano) | [Ver ficha](personajes/monarcas/octavya-corinthyos.md) |
-| Helyo Venthyss | Rey consorte | Ylumarya ← Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/helyo-venthyss.md) |
+| Octavya Corinthyos | Reina gobernante | Lysarya (Costas del Verano) | [Ver ficha](personajes/monarcas/octavya-corinthyos.md) |
+| Helyo Venthyss | Rey consorte | Lysarya ← Zephyrya (Costas del Verano) | [Ver ficha](personajes/monarcas/helyo-venthyss.md) |
 | Ileana Enescu | Reina gobernante | Veleskaria (Paso del Oriente) | [Ver ficha](personajes/monarcas/ileana-enescu.md) |
 | Yelena Gorski | Reina consorte | Veleskaria ← Sindria (Paso del Oriente) | [Ver ficha](personajes/monarcas/yelena-gorski.md) |
-| Cassyus Zephyryon | Rey gobernante | Zefirya (Costas del Verano) | [Ver ficha](personajes/monarcas/cassyus-zephyryon.md) |
-| Celesthya Drussyo | Reina consorte | Zefirya ← Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/celesthya-drussyo.md) |
+| Cassyus Zephyryon | Rey gobernante | Zephyrya (Costas del Verano) | [Ver ficha](personajes/monarcas/cassyus-zephyryon.md) |
+| Celesthya Drussyo | Reina consorte | Zephyrya ← Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/celesthya-drussyo.md) |
 | Eero Tuomi | Rey gobernante | Merenia (Tierras Antiguas) | [Ver ficha](personajes/monarcas/eero-tuomi.md) |
 | Tavros Andreidis | Rey consorte | Merenia ← Vesperya (Tierras Antiguas) | [Ver ficha](personajes/monarcas/stavros-andreidis.md) |
 | Valerius Umbra | Rey gobernante | Aurelia (Tierras Antiguas) | [Ver ficha](personajes/monarcas/valerius-umbra.md) |
@@ -80,9 +80,9 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
-| Daryón Coralyss | Noble histórico | Noble de Alessya. Pactó la unión de la isla con Zefirya y el matrimonio de su hija. Traicionado por ella. Su casa fue proscrita | [Ver ficha](personajes/historicos/daryon-coralyss.md) |
-| Kleóndras Aetheryon | Rey histórico | Rey de Zefirya. Pactó con Daryón. Ejecutado tras la Guerra de los Hermanos. Casa proscrita | [Ver ficha](personajes/historicos/kleondras-aetheryon.md) |
-| Kyros Albyon | Rey histórico | Rey de Ylumarya. Su hijo Eryk era amante de Thalyssa. Ejecutado tras la guerra. Casa proscrita | [Ver ficha](personajes/historicos/kyros-albyon.md) |
-| Eryk Albyon | Príncipe histórico | Príncipe de Ylumarya. Amante de Thalyssa. Desaparecido. Uno de los Príncipes Perdidos | [Ver ficha](personajes/historicos/eryk-albyon.md) |
-| Thalyssa Coralyss | Princesa histórica | Hija de Daryón. Prometida a Zefirya, amante de Eryk. Huyó embarazada. Desaparecida. Una de los Príncipes Perdidos | [Ver ficha](personajes/historicos/thalyssa-coralyss.md) |
-| Astryón Aetheryon | Príncipe histórico | Príncipe de Zefirya. Prometido de Thalyssa. Abandonado la noche del compromiso | [Ver ficha](personajes/historicos/astryon-aetheryon.md) |
+| Daryón Coralyss | Noble histórico | Noble de Alessya. Pactó la unión de la isla con Zephyrya y el matrimonio de su hija. Traicionado por ella. Su casa fue proscrita | [Ver ficha](personajes/historicos/daryon-coralyss.md) |
+| Kleóndras Aetheryon | Rey histórico | Rey de Zephyrya. Pactó con Daryón. Ejecutado tras la Guerra de los Hermanos. Casa proscrita | [Ver ficha](personajes/historicos/kleondras-aetheryon.md) |
+| Kyros Albyon | Rey histórico | Rey de Lysarya. Su hijo Eryk era amante de Thalyssa. Ejecutado tras la guerra. Casa proscrita | [Ver ficha](personajes/historicos/kyros-albyon.md) |
+| Eryk Albyon | Príncipe histórico | Príncipe de Lysarya. Amante de Thalyssa. Desaparecido. Uno de los Príncipes Perdidos | [Ver ficha](personajes/historicos/eryk-albyon.md) |
+| Thalyssa Coralyss | Princesa histórica | Hija de Daryón. Prometida a Zephyrya, amante de Eryk. Huyó embarazada. Desaparecida. Una de los Príncipes Perdidos | [Ver ficha](personajes/historicos/thalyssa-coralyss.md) |
+| Astryón Aetheryon | Príncipe histórico | Príncipe de Zephyrya. Prometido de Thalyssa. Abandonado la noche del compromiso | [Ver ficha](personajes/historicos/astryon-aetheryon.md) |

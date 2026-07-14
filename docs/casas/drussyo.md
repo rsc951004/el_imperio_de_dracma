@@ -10,4 +10,4 @@ Vesperya (Costas del Verano)
 Casa noble de Vesperya. De raigambre marinera en la Costa del Verano.
 
 ## Miembros relevantes
-- Celesthya Drussyo: reina consorte de Zefirya
+- Celesthya Drussyo: reina consorte de Zephyrya
