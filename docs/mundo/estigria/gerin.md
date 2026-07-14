@@ -28,11 +28,10 @@ D  Zefirya        Vesperya          Ylvaria         Estomur         El Modrig
 | **Valle de Hierro** | Flamengard, Skarngard, Sturmgard, Waffengard | Germánica | A1, A2, B1, B2 (noroeste) |
 | **Costas del Verano** | Lumarya, Zefirya, Vesperya | Grecolatina | C1, D1, D2 (suroeste costero) |
 | **Paso del Oriente** | Veleskaria, Sindria | Eslava | A3, B3 (este) |
-| **FOO** | Merenia, Aurelia, Ylvaria | Finesa, latina, gaélica-vasca | C2, C3, D3 (centro-este/sureste) |
+| **Tierras Antiguas** | Merenia, Aurelia, Ylvaria | Finesa, latina, gaélica-vasca | C2, C3, D3 (centro-este/sureste) |
 
 > La columna «Nombres» indica la sonoridad de referencia para crear nombres de personas y lugares. Es una convención de escritura, no una cultura del mundo. No existen pueblos germánicos, grecolatinos, eslavos ni céltico-nórdicos en Estigria.
 
-> FOO = nombre pendiente. En busca de nombre definitivo.
 
 - **Esteria:** ciudad fortaleza al borde del Foso, noreste, fuera de la cuadrícula principal.
 - **Kalos:** ciudadela amurallada al sureste, cerca de Ylvaria y Veleskaria.

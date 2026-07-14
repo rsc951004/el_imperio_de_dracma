@@ -95,11 +95,11 @@ mundo/
 | 5 | Lumarya | Costas del Verano | Corintyos | Rey/Reina del Alba | Reina Octavia Corintyos | [Ver ficha](mundo/estigria/dragma/lumarya/lumarya.md) |
 | 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
 | 7 | Zefirya | Costas del Verano | Zephyrion | Rey/Reina del Viento | Rey Cassius Zephyrion | [Ver ficha](mundo/estigria/dragma/zefirya/zefirya.md) |
-| 8 | Merenia | FOO | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/merenia/merenia.md) |
-| 9 | Aurelia | FOO | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
+| 8 | Merenia | Tierras Antiguas | Tuomi | Rey/Reina del Mar | Rey Eero Tuomi | [Ver ficha](mundo/estigria/dragma/merenia/merenia.md) |
+| 9 | Aurelia | Tierras Antiguas | Umbra | Rey/Reina del Oro | Rey Valerius Umbra | [Ver ficha](mundo/estigria/dragma/aurelia/aurelia.md) |
 | 10 | Vesperya | Costas del Verano | Valerius | Rey/Reina del Tridente | Rey Marcus Valerius | [Ver ficha](mundo/estigria/dragma/vesperya/vesperya.md) |
 | 11 | Sindria | Paso del Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
-| 12 | Ylvaria | FOO | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
+| 12 | Ylvaria | Tierras Antiguas | Gorio | Rey/Reina del Bosque | Reina Dreide Gorio | [Ver ficha](mundo/estigria/dragma/ylvaria/ylvaria.md) |
 
 ★ = gobernante reinante
 
@@ -109,9 +109,9 @@ mundo/
 
 **Paso del Oriente** (6, 11): eslavos. Val mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que alcanzaban El Bramo desde El Modrig a través de los fiordos fragmentados y amenazaban cruzar el Foso de la Calamidad hacia El Gerin. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
 
-**FOO** (8, 9, 12): Nombre pendiente. Único puerto imperial en Merenia, tierras fértiles en Aurelia, bosques antiguos en Ylvaria. Nombres de sonoridad finesa, latina y gaélica-vasca.
+**Tierras Antiguas** (8, 9, 12): Único puerto imperial en Merenia, tierras fértiles en Aurelia, bosques antiguos en Ylvaria. Nombres de sonoridad finesa, latina y gaélica-vasca.
 
-En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y FOO formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
+En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y Tierras Antiguas formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión.
 
 Tres reinos del Verano descienden directamente de Suntaris: **Lumarya** (el alma — mística Solaris y Triple Corona), **Zefirya** (el arte — Casa Solaris sin corona y técnica de Lorian), **Vesperya** (la sangre — marinos originales de Suntaris).
 

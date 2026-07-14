@@ -15,11 +15,11 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 | 5 | Lumarya | Corintyos | Costas del Verano | Rey/Reina del Alba | ★ Reina Octavia Corintyos | Helio Ventys (Zefirya) |
 | 6 | Veleskaria | Enescu | Paso del Oriente | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
 | 7 | Zefirya | Zephyrion | Costas del Verano | Rey/Reina del Viento | ★ Rey Cassius Zephyrion | Celestya Drusio (Vesperya) |
-| 8 | Merenia | Tuomi | FOO | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Vesperya) |
-| 9 | Aurelia | Umbra | FOO | Rey/Reina del Oro | ★ Rey Valerius Umbra | Reina Taria Eskola (Merenia) |
+| 8 | Merenia | Tuomi | Tierras Antiguas | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Vesperya) |
+| 9 | Aurelia | Umbra | Tierras Antiguas | Rey/Reina del Oro | ★ Rey Valerius Umbra | Reina Taria Eskola (Merenia) |
 | 10 | Vesperya | Valerius | Costas del Verano | Rey/Reina del Tridente | ★ Rey Marcus Valerius | Nerysa Undavos (Alesya) |
 | 11 | Sindria | Goros | Paso del Oriente | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
-| 12 | Ylvaria | Gorio | FOO | Rey/Reina del Bosque | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
+| 12 | Ylvaria | Gorio | Tierras Antiguas | Rey/Reina del Bosque | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
 
 ★ = gobernante reinante
 
@@ -39,8 +39,8 @@ Lumarya · Zefirya · Vesperya
 Este del Gerin. Val mezclados con otras culturas. Forjados contra las bestias del Modrig. Nombres de sonoridad eslava.
 Veleskaria · Sindria
 
-### FOO (cambiaron a -ria)
-Centro y este del Gerin. Nombres de sonoridad finesa, latina y gaélica-vasca. Nombre pendiente.
+### Tierras Antiguas (cambiaron a -ria)
+Centro y este del Gerin. Nombres de sonoridad finesa, latina y gaélica-vasca.
 Merenia · Aurelia · Ylvaria
 
 Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión.
@@ -53,7 +53,7 @@ La distribución actual de consortes responde a afinidades políticas y cultural
 
 - **Valle de Hierro:** circuito cerrado Waffengard ↔ Skarngard ↔ Flamengard ↔ Sturmgard ↔ Waffengard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
 - **Costas del Verano:** circuito cerrado Lumarya ↔ Zefirya ↔ Vesperya ↔ Lumarya. Los tres reinos del Verano intercambian consortes entre sus casas nobles. Nerysa Undavos, de Vesperya, es la excepción: proviene de Alesya, protectorado vinculado culturalmente al Verano.
-- **Paso del Oriente y FOO:** intercambios internos y entre sí según conveniencia política.
+- **Paso del Oriente y Tierras Antiguas:** intercambios internos y entre sí según conveniencia política.
 
 ---
 
@@ -89,11 +89,11 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Lumarya | Suroeste, centro espiritual de la rebelión | Casa Corintyos, grecolatino. Desciende de Suntaris: el alma. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
 | Zefirya | Planicies del sur, vientos | Solaris casa noble. Casa Zephyrion, grecolatino. Desciende de Suntaris: el arte. |
-| Merenia | Único puerto accesible de Dragma | Casa Tuomi, finés. FOO. |
-| Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, FOO. |
+| Merenia | Único puerto accesible de Dragma | Casa Tuomi, finés. Tierras Antiguas. |
+| Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, Tierras Antiguas. |
 | Vesperya | Costa del Verano, flota astriana | Casa Valerius, grecolatino. Desciende de Suntaris: la sangre marinera. |
 | Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
-| Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. FOO. |
+| Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. Tierras Antiguas. |
 
 ---
 

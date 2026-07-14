@@ -133,7 +133,7 @@ Definición del autor:
 | Fecha | Cambio |
 |-------|--------|
 | 2026-07-13 | **Mapa político inicial de Estigria.** Creado el visor técnico no canónico `herramientas/mapa-estigria/index.html`, con costas y fronteras orgánicas aproximadas a partir de la referencia visual. No utiliza la cuadrícula rectangular de `estigria.geojson` como geometría. |
-| 2026-07-11 | Eliminación de proto_v1. Vetas rescatables (tragedia de Zorana, Sundara, Ushalin) consolidadas en proto_v2 como ideas de mejora |
+| 2026-07-14 | **FOO renombrado a Tierras Antiguas.** La cuarta región del Gerin deja de ser placeholder. Merenia, Aurelia y Ylvaria conforman los reinos Antiguos —los tres territorios del sureste con identidad pre-Valgard más marcada (puerto ancestral de Merenia, herencia erebia en Aurelia, pueblo Ylum en Ylvaria). Reemplazo en 8 archivos: 12-reinos.md, mundo.md, personajes.md, gerin.md, gerin-tablero.md, merenia.md, aurelia.md, ylvaria.md. |
 | 2026-07-11 | Separación de personajes y aspectos del mundo en fichas individuales; creación de la categoría de entidades y razas |
 | 2026-07-11 | Inicialización del repositorio |
 | 2026-07-11 | Punto 1 del diagnóstico aplicado a la ficha de Inits: eliminadas secciones Tipo y Nombre; anti-descripción marcada como PENDIENTE; listado de elementos movido a pendiente de sistema de magia; referencias a proto_v2 reformateadas como tabla provisional con advertencia explícita |

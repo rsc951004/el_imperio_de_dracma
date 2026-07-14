@@ -72,11 +72,11 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | El | Vesperya | VERANO | Grecolatina (nombres) |
 | Sd | Sindria | ORIENTE | Eslava (nombres) |
 | Vk | Veleskaria | ORIENTE | Eslava (nombres) |
-| Vs | Merenia | FOO | Finesa (nombres) |
-| Au | Aurelia | FOO | Latina (nombres) |
-| Yl | Ylvaria | FOO | Gaélica-vasca (nombres) |
+| Vs | Merenia | Tierras Antiguas | Finesa (nombres) |
+| Au | Aurelia | Tierras Antiguas | Latina (nombres) |
+| Yl | Ylvaria | Tierras Antiguas | Gaélica-vasca (nombres) |
 
-> FOO = grupo pendiente de nombre definitivo. Ver `docs/mundo/estigria/gerin.md`.
+> Tierras Antiguas = región de 3 reinos sureste del Gerin: Merenia, Aurelia, Ylvaria.
 
 ---
 
@@ -226,7 +226,7 @@ Bloque alargado: fila A3, columnas 4a-4c (3 celdas, 1×3). Franja estrecha junto
 | A3-4b | * | Sindria | Capital (ciudad del Foso) |
 | A3-4c | E | Sindrivoda | Río oriental (borde del Foso) |
 
-### Merenia [Vs] — FOO
+### Merenia [Vs] — Tierras Antiguas
 
 Bloque: filas C1-C3, columnas 2a-2c.
 
@@ -242,7 +242,7 @@ Bloque: filas C1-C3, columnas 2a-2c.
 | C3-2b | S | Merengard | Fuerte sur |
 | C3-2c | SE | Vesperholm | Islote del sureste |
 
-### Aurelia [Au] — FOO
+### Aurelia [Au] — Tierras Antiguas
 
 Bloque reducido: cedió 5 celdas a Eldengaria. Capital desplazada al sur.
 
@@ -253,7 +253,7 @@ Bloque reducido: cedió 5 celdas a Eldengaria. Capital desplazada al sur.
 | C3-3b | * | Aurelia | Capital (ciudad del Oro) |
 | C3-3c | SE | Aurelholm | Islote del sureste |
 
-### Ylvaria [Yl] — FOO
+### Ylvaria [Yl] — Tierras Antiguas
 
 Bloque: filas D1-D3, columnas 3a-3c.
 
