@@ -23,11 +23,11 @@ Aurolis
 **Costas del Verano.** El más septentrional de los tres reinos del Verano, al norte de Zefirya. Limita con Sturmgard (Valle de Hierro) por el norte. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Ylumarya es uno de los tres reinos fundados por los **Hijos del Sol**: descendientes de los esclavos que escaparon de las islas de Astria antes del cataclismo que hundió aquella nación. Los tres pueblos esclavos —cada uno de una isla distinta— se fundieron en **Suntaris**, la gran ciudadela que erigieron en la isla de Alesya (la Isla Hermosa), y allí se convirtieron en un solo pueblo.
+Ylumarya es uno de los tres reinos fundados por los **Hijos del Sol**: descendientes de los esclavos que escaparon de las islas de Astria antes del cataclismo que hundió aquella nación. Los tres pueblos esclavos —cada uno de una isla distinta— se fundieron en **Suntarys**, la gran ciudadela que erigieron en la isla de Alessya (la Isla Hermosa), y allí se convirtieron en un solo pueblo.
 
-Suntaris fue durante generaciones el **escudo de Kalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
+Suntarys fue durante generaciones el **escudo de Kalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
 
-Cuando el Raikim Valgard destruyó la ciudadela de Suntaris —ataque anunciado, con la población ya evacuada a los asentamientos costeros del continente—, organizó esos asentamientos en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
+Cuando el Raikim Valgard destruyó la ciudadela de Suntarys —ataque anunciado, con la población ya evacuada a los asentamientos costeros del continente—, organizó esos asentamientos en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
 
 ## Geografía
 Ylumarya es el más extenso de los tres reinos del Verano. Le sigue Zefirya en tamaño, y Vesperya es el más pequeño en extensión territorial. Su costa es una muralla de **acantilados y despeñaderos**: no hay playas, no hay puertos, no hay fondeaderos. El mar golpea contra paredes de roca sin ofrecer tregua. La costa es tan irregular que ningún asentamiento portuario ha prosperado jamás.

@@ -23,11 +23,11 @@ Talasya
 **Costas del Verano.** El más oriental y el más pequeño en extensión de los tres reinos del Verano, al este de Zefirya. Su costa sur da a mar abierto; su flanco este bordea el **Estrecho de la Tríada**, que separa Vesperya de Merenia (Tierras Antiguas). El estrecho conduce al norte hacia la **Bahía de los Reyes**, donde se encuentra el puerto de Eldengaria. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Vesperya es uno de los tres reinos fundados por los **Hijos del Sol**: descendientes de los esclavos que escaparon de las islas de Astria antes del cataclismo que hundió aquella nación. Los tres pueblos esclavos —cada uno de una isla distinta— se fundieron en **Suntaris**, la gran ciudadela que erigieron en la isla de Alesya (la Isla Hermosa), y allí se convirtieron en un solo pueblo.
+Vesperya es uno de los tres reinos fundados por los **Hijos del Sol**: descendientes de los esclavos que escaparon de las islas de Astria antes del cataclismo que hundió aquella nación. Los tres pueblos esclavos —cada uno de una isla distinta— se fundieron en **Suntarys**, la gran ciudadela que erigieron en la isla de Alessya (la Isla Hermosa), y allí se convirtieron en un solo pueblo.
 
-Suntaris fue durante generaciones el **escudo de Kalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
+Suntarys fue durante generaciones el **escudo de Kalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
 
-Cuando el Raikim Valgard destruyó la ciudadela de Suntaris —ataque anunciado, con la población ya evacuada a los asentamientos costeros del continente—, organizó esos asentamientos en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
+Cuando el Raikim Valgard destruyó la ciudadela de Suntarys —ataque anunciado, con la población ya evacuada a los asentamientos costeros del continente—, organizó esos asentamientos en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
 
 ## Geografía
 
@@ -65,10 +65,10 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Vesperya:** verde — el mar profundo, la aventura, el estrecho.
 
 ## Gobierno
-Regido por la Casa Valeryus. El rey reinante es **Marcus Valeryus ★**, Rey del Tridente. Su consorte es **Neryssa Undavos**, hija del Príncipe Guardián de Alesya.
+Regido por la Casa Valeryus. El rey reinante es **Marcus Valeryus ★**, Rey del Tridente. Su consorte es **Neryssa Undavos**, hija del Príncipe Guardián de Alessya.
 
 ## Historia
-Vesperya fue fundada por el Raikim Valgard como **Vesphyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Su posición geográfica la convirtió desde el principio en la potencia naval de los Hijos del Sol.
+Vesperya fue fundada por el Raikim Valgard como **Vesphyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntarys. Su posición geográfica la convirtió desde el principio en la potencia naval de los Hijos del Sol.
 
 A diferencia del viejo canon que le atribuía una absurda «inspiración astriana», la flota de Vesperya es **puramente suntariana**: nació para hundir barcos astrianos, no para imitarlos. Astria es «la ramera de la sombra».
 
@@ -89,7 +89,7 @@ Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; *
 ## Relaciones exteriores
 - **Zefirya:** hermano del oeste. Adoración y deseo. Los vesperianos veneran a los zefiryanos pero no pueden evitar querer morder la manzana. Relación intensa y complicada.
 - **Ylumarya:** hermano del norte. Aburridos y estirados. Demasiado parecidos al Hierro. Cordialidad sin entusiasmo.
-- **Alesya:** cuna sagrada. Neryssa Undavos, la reina consorte, es hija del Príncipe Guardián.
+- **Alessya:** cuna sagrada. Neryssa Undavos, la reina consorte, es hija del Príncipe Guardián.
 - **Eldengaria:** la capital que protegen. Relación de dependencia mutua.
 - **Merenia:** al otro lado del estrecho. Vecinos silenciosos. Se observan desde orillas opuestas.
 

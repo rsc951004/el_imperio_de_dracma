@@ -23,11 +23,11 @@ Anemora
 **Costas del Verano.** Ocupa la esquina suroeste del continente, debajo de Ylumarya y al oeste de Vesperya. Es el segundo en extensión de los tres reinos del Verano. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Zefirya es uno de los tres reinos fundados por los **Hijos del Sol**: descendientes de los esclavos que escaparon de las islas de Astria antes del cataclismo que hundió aquella nación. Los tres pueblos esclavos se fundieron en **Suntaris**, la gran ciudadela que erigieron en la isla de Alesya (la Isla Hermosa), y allí se convirtieron en un solo pueblo.
+Zefirya es uno de los tres reinos fundados por los **Hijos del Sol**: descendientes de los esclavos que escaparon de las islas de Astria antes del cataclismo que hundió aquella nación. Los tres pueblos esclavos se fundieron en **Suntarys**, la gran ciudadela que erigieron en la isla de Alessya (la Isla Hermosa), y allí se convirtieron en un solo pueblo.
 
-Suntaris fue durante generaciones el **escudo de Kalos** contra las peregrinaciones negras astrianas. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
+Suntarys fue durante generaciones el **escudo de Kalos** contra las peregrinaciones negras astrianas. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
 
-Cuando el Raikim Valgard destruyó la ciudadela de Suntaris, organizó los asentamientos costeros continentales en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
+Cuando el Raikim Valgard destruyó la ciudadela de Suntarys, organizó los asentamientos costeros continentales en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
 
 ## Geografía
 Zefirya ocupa la esquina suroeste del continente. Su costa es una sucesión de **playas hermosas y atardeceres violetas** —tan característicos que el violeta se ha convertido en el color identitario del reino. Muchos zefiryanos tiñen sus ropas con pigmentos extraídos de la flora costera para emular esos tonos.
@@ -52,7 +52,7 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 Regido por la Casa Zephyryon. El rey reinante es **Cassyus Zephyryon ★**, Rey del Viento. Su consorte es Celesthya Drussyo, de casa noble de Vesperya.
 
 ## Historia
-Zefirya fue fundada por el Raikim Valgard como **Zephyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntaris. Alberga a la **Casa Solaryss** como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Loryan Solaryss: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.
+Zefirya fue fundada por el Raikim Valgard como **Zephyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntarys. Alberga a la **Casa Solaryss** como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Loryan Solaryss: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.
 
 ### La Guerra de los Hermanos
 Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), Zefirya estaba gobernada por **Kleóndras Aetheryon**. Kleóndras pactó en secreto con el noble **Daryón Coralyss** de Alessya el matrimonio entre su hijo, el príncipe **Astryón Aetheryon**, y **Thalyssa Coralyss**, hija de Daryón. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zefirya por herencia y unión matrimonial. Era la gran jugada del reinado de Kleóndras: unir la isla sagrada de los Hijos del Sol a la flor del Verano.

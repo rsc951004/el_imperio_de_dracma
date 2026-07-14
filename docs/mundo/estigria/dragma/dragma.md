@@ -55,7 +55,7 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | 1 | Kalos | Ciudadela libre | Gran Consejo | Fundada por portadores disidentes del culto al Dios Negro. |
 | 2 | Esteria | Ciudad fortaleza | Señor del Faro | Al borde del Foso de la Calamidad. Primera línea contra Rey Podrido. Sindria reclama su territorio. |
 | 3 | Ishbaal | Territorio de ultramar | Príncipe Regente | Isla al noroeste. |
-| 4 | Alesya | Protectorado insular | Príncipe Guardián | Isla al suroeste. Cuna de los Hijos del Sol. Ruinas de Suntaris. Principado rico e inalienable. |
+| 4 | Alessya | Protectorado insular | Príncipe Guardián | Isla al suroeste. Cuna de los Hijos del Sol. Ruinas de Suntarys. Principado rico e inalienable. |
 | 5 | Delfos | Territorio de ultramar | Regente (Casa Artema) | Isla tropical frente al Modrig. Gobernada por la Casa Artema. Los Artema portan en secreto sangre Mormund desde el exilio de Mijail. |
 | 6 | Lorka | Territorio de ultramar | Príncipe Regente | Isla al norte de Ishbaal. |
 | 7 | Paicel | Territorio de ultramar | Príncipe Regente | Isla al sureste de Delfos. |
