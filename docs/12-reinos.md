@@ -88,7 +88,7 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Skarngard | Montañas, forjas, Verilium | Cuna de Casa Valgard. Casa Hammer, germánico. Valle de Hierro. |
 | Flamengard | Noroeste volcánico, piromancia | Casa Wolfen, germánico. Valle de Hierro. |
 | Sturmgard | Fiordos helados, tormentas, hombres duros | Frío extremo. Tierra pobre. Casa Reisner, germánico. Valle de Hierro. |
-| Ylumarya | Norte del Verano, centro espiritual de la rebelión | Casa Corintyos, grecolatino. Herederos de la mística Solaris y la Triple Corona. |
+| Ylumarya | Norte del Verano, pastoreo, puente con el Hierro | Casa Corintyos, grecolatino. El hermano sencillo: piedad y trabajo duro. Costa de acantilados. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
 | Zefirya | Planicies del suroeste, vientos | Solaris casa noble. Casa Zephyrion, grecolatino. Técnica del viento de Lorian. |
 | Merenia | Puerto marítimo | Casa Tuomi, finés. Tierras Antiguas. |
@@ -105,9 +105,9 @@ Los tres reinos del Verano descienden de **Suntaris**, la gran ciudadela que los
 
 | Reino | Posición | Identidad | Título |
 |-------|----------|-----------|--------|
-| Ylumarya | Norte | Heredera de la mística Solaris y la Triple Corona | Alba |
-| Zefirya | Suroeste | Casa Solaris sin corona, planicies del viento | Viento |
-| Vesperya | Sureste | Guardián del Estrecho de Vespa, flota suntariana | Tridente |
+| Ylumarya | Norte | Hermano sencillo: pastoril, puente entre Verano y Hierro. Legado Hijos del Sol diluido pero presente | Alba |
+| Zefirya | Suroeste | Belleza y estudio. Casa Solaris sin corona, planicies del viento | Viento |
+| Vesperya | Sureste | Desafío y aventura. Guardián del Estrecho de Vespa, flota suntariana | Tridente |
 
 ---
 
