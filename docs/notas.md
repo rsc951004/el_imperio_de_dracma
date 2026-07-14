@@ -2,6 +2,34 @@
 
 ## Revisiones editoriales
 
+### Reimaginación profunda de la Tierra del Oriente: los Caminantes de la Bruma (2026-07-14)
+
+Las antiguas Tierras Antiguas (Merenia, Aurelia, Ylvaria) han sido completamente reformuladas como la **Tierra del Oriente**, un bloque unificado con identidad propia.
+
+**Cambios estructurales:**
+
+- **Renombramiento de los tres reinos:** Merenia → **Kyst**, Aurelia → **Lyng**, Ylvaria → **Bjorn**. Nombres cortos, nórdicos (daneses), pre-Raikim.
+- **Inspiración cultural unificada:** Nórdica oriental (danesa), no germánica continental como el Valle de Hierro. Parientes lejanos: misma raíz Val, pero separados por siglos y geografía.
+- **Origen común:** Los tres reinos descienden de los **Caminantes de la Bruma** (Kystvaer), el pueblo que habitó la **Mørkkyst** (Costa Negra / Modrig) durante milenios. Adaptaron la bruma, las bestias y la oscuridad como parte de su identidad, no como trauma. Solo huyeron cuando el despertar del Rey Podrido (un Mobius encarnado) hizo imposible seguir adaptándose.
+- **Migración:** Huyeron al sur por mar → bloqueados en Cayo Negro → desembarcaron en la punta sur del Modrig → cruzaron el Estomur a pie («Caminantes») → rechazados por los Val del centro → se asentaron en el sur del Gerin → Fundaron Kyst, Lyng y Bjorn.
+- **Kalos:** Cedieron la península del sureste a los astrianos disidentes, a quienes ayudaron a levantar la ciudadela porque ellos ya sabían qué era un Mobius. Kalos fue sitiada por el Raikim durante siglos pero jamás cayó.
+- **Relación con el Raikim:** A diferencia de los reinos del Verano —creados por el Raikim—, Kyst, Lyng y Bjorn ya existían antes de la tiranía. El Raikim los conquistó y les impuso el -gard como marca de dominio. En la Rebelión del Amanecer recuperaron sus nombres originales.
+- **Carácter del pueblo:** Valentía serena, trato cordial, no áspero ni marcial. De los Hijos del Sol aprendieron que la vida es más que sobrevivir, y lo asimilaron. No buscan pelea, no la rehúyen. No necesitan probar su valía.
+
+**Archivos creados:**
+- `docs/mundo/estigria/dragma/kyst/kyst.md`
+- `docs/mundo/estigria/dragma/lyng/lyng.md`
+- `docs/mundo/estigria/dragma/bjorn/bjorn.md`
+
+**Archivos modificados:**
+- `docs/12-reinos.md` — Tabla, estructura, conceptos, clave histórica, sección «Los tres reinos de los Caminantes de la Bruma».
+- `docs/mundo.md` — Tabla de reinos, descripciones regionales.
+- `docs/mundo/estigria/gerin.md` — Cuadrícula, tabla de regiones, referencia a Kalos.
+
+**Pendiente (próximo hilo):** Casas reales, monarcas, títulos de los tres reinos. Capitales. Idiosincrasia detallada de cada reino.
+
+**Archivos obsoletos:** Las fichas `merenia/merenia.md`, `aurelia/aurelia.md` e `ylvaria/ylvaria.md` quedan como referencia histórica del lore antiguo. Las fichas de casas `tuomi.md`, `umbra.md`, `gorio.md` y afines serán reemplazadas en el próximo hilo. `gerin-tablero.md` requiere actualización completa (desactualizado por el nuevo bloque).
+
 ### Aclaración sobre culturas del mapa (2026-07-13)
 
 Las «culturas» configuradas en Azgaar's Fantasy Map Generator (Germanic, Hellenic, Slavic, etc.) son exclusivamente una **ayuda memoria visual** para que los reinos del mismo bloque se parezcan entre sí en el mapa (colores, estética de íconos). No representan lore canónico. No existen «pueblos germánicos», «pueblos eslavos» ni «pueblos grecolatinos» en Estigria. Las culturas del mundo real solo inspiran la **sonoridad de los nombres** de personas y lugares, nada más. Ningún cuento, ficha de personaje o documento canónico debe referenciar estas culturas como si fueran reales dentro del universo.

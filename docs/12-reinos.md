@@ -1,7 +1,5 @@
 # Los 12 Reinos de Dragma
 
-Documento de revisión. Una vez confirmado, se canonizará cada reino con su ficha individual.
-
 ---
 
 ## Tabla de los 12 Reinos
@@ -15,11 +13,11 @@ Documento de revisión. Una vez confirmado, se canonizará cada reino con su fic
 | 5 | Lysarya | Corinthyos | Costas del Verano | Rey/Reina de la Roca | ★ Reina Octavya Corinthyos | Helyo Venthyss (Zephyrya) |
 | 6 | Veleskaria | Enescu | Paso del Oriente | Rey/Reina de la Montaña | ★ Reina Ileana Enescu | Reina Yelena Gorski (Sindria) |
 | 7 | Zephyrya | Zephyryon | Costas del Verano | Rey/Reina del Ocaso | ★ Rey Cassyus Zephyryon | Celesthya Drussyo (Vesperya) |
-| 8 | Merenia | Tuomi | Tierras Antiguas | Rey/Reina del Mar | ★ Rey Eero Tuomi | Rey Tavros Andreidis (Vesperya) |
-| 9 | Aurelia | Umbra | Tierras Antiguas | Rey/Reina del Oro | ★ Rey Valerius Umbra | Reina Taria Eskola (Merenia) |
+| 8 | Kyst | Fjord | Tierra del Oriente | Rey/Reina de la Costa Gris | ★ Rey Skaer Fjord | Pendiente |
+| 9 | Lyng | Korn | Tierra del Oriente | Rey/Reina del Valle | ★ Rey Ravn Korn | Pendiente |
 | 10 | Vesperya | Valeryus | Costas del Verano | Rey/Reina del Tridente | ★ Rey Marcus Valeryus | Neryssa Undavos (Alessya) |
 | 11 | Sindria | Goros | Paso del Oriente | Rey/Reina del Foso | ★ Rey Uriel Goros | Reina Ecaterina Cojocaru (Veleskaria) |
-| 12 | Ylvaria | Gorio | Tierras Antiguas | Rey/Reina del Bosque | ★ Reina Dreide Gorio | Reina Titia Corvus (Aurelia) |
+| 12 | Bjorn | Borg | Tierra del Oriente | Pendiente | ★ Rey Skov Borg | Pendiente |
 
 ★ = gobernante reinante
 
@@ -39,11 +37,11 @@ Lysarya · Zephyrya · Vesperya
 Este del Gerin. Val mezclados con otras culturas. Forjados contra las bestias del Modrig. Nombres de sonoridad eslava.
 Veleskaria · Sindria
 
-### Tierras Antiguas (cambiaron a -ria)
-Centro y este del Gerin. Nombres de sonoridad finesa, latina y gaélica-vasca.
-Merenia · Aurelia · Ylvaria
+### Tierra del Oriente (conservan el nombre original)
+Los tres reinos del sur del Gerin. Descendientes de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** (la Costa Negra, el Modrig actual). Expulsados por el despertar del Rey Podrido, huyeron al sur por mar y cruzaron el Estomur a pie. Rechazados por los Val del centro, se asentaron en el sur, donde fundaron sus tres reinos. Los veranos los llamaron «los del oriente» por estar al este del Estrecho de la Tríada. Su inspiración cultural es nórdica (danesa).
+Kyst · Lyng · Bjorn
 
-Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión. El cambio no fue uniforme: cada grupo de reinos tuvo su propia transformación del sufijo.
+Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión —salvo Kyst, Lyng y Bjorn, cuyos nombres originales fueron restaurados tras siglos de conquista—. El cambio no fue uniforme: cada grupo de reinos tuvo su propia transformación del sufijo.
 
 > ⚠️ **El detonante concreto de la Rebelión del Amanecer en los reinos del Verano queda como caja negra del lore.** Suntarys fue destruida mucho antes y no puede ser el detonante, aunque sí es un antecedente histórico.
 
@@ -55,7 +53,7 @@ La distribución actual de consortes responde a afinidades políticas y cultural
 
 - **Valle de Hierro:** circuito cerrado Waffengard ↔ Skarngard ↔ Flamengard ↔ Sturmgard ↔ Waffengard. Los cuatro reinos del Hierro intercambian consortes entre sí por tradición y afinidad cultural.
 - **Costas del Verano:** circuito cerrado Lysarya ↔ Zephyrya ↔ Vesperya ↔ Lysarya. Los tres reinos del Verano intercambian consortes entre sus casas nobles. **Neryssa Undavos** es la nota singular: hija del Príncipe Guardián de Alessya, casada con Marcus Valeryus de Vesperya.
-- **Paso del Oriente y Tierras Antiguas:** intercambios internos y entre sí según conveniencia política.
+- **Paso del Oriente y Tierra del Oriente:** intercambios internos y entre sí según conveniencia política. Kyst, Lyng y Bjorn tienen circuito matrimonial cerrado por tradición.
 
 ---
 
@@ -72,11 +70,11 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Lysarya | Rey/Reina de la Roca | Rey Alba / Reina Alba |
 | Veleskaria | Rey/Reina de la Montaña | Rey Montaña / Reina Montaña |
 | Zephyrya | Rey/Reina del Ocaso | Rey Ocaso / Reina Ocaso |
-| Merenia | Rey/Reina del Mar | Rey Mar / Reina Mar |
-| Aurelia | Rey/Reina del Oro | Rey Oro / Reina Oro |
+| Kyst | Rey/Reina de la Costa Gris | Rey Gris / Reina Gris |
+| Lyng | Rey/Reina del Valle | Rey Valle / Reina Valle |
+| Bjorn | Pendiente | Pendiente |
 | Vesperya | Rey/Reina del Tridente | Rey Tridente / Reina Tridente |
 | Sindria | Rey/Reina del Foso | Rey Foso / Reina Foso |
-| Ylvaria | Rey/Reina del Bosque | Rey Bosque / Reina Bosque |
 
 ---
 
@@ -91,15 +89,31 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Lysarya | Norte del Verano, pastoreo, puente con el Hierro | Casa Corinthyos, grecolatino. El hermano sencillo: piedad y trabajo duro. Costa de acantilados. |
 | Veleskaria | Protector de Kalos, minero e industrial | Casa Enescu, eslavo. Paso del Oriente. |
 | Zephyrya | Planicies del suroeste, turismo curativo, flor del Verano | Casa Zephyryon, grecolatino. Playas hermosas y atardeceres violetas. Filosofía simple y libre. |
-| Merenia | Puerto marítimo | Casa Tuomi, finés. Tierras Antiguas. |
-| Aurelia | Centro-sur fértil, herencia Erebia | Casa Umbra, Tierras Antiguas. |
+| Kyst | Costa pesquera, acantilados | Casa pendiente, nórdico. Tierra del Oriente. Puerto al este, acantilados al oeste. |
+| Lyng | Valle fértil, brezales | Casa pendiente, nórdico. Tierra del Oriente. El corazón agrícola de los Gente de la Bruma. |
+| Bjorn | Bosque profundo, fortaleza fronteriza | Casa pendiente, nórdico. Tierra del Oriente. Guardián del este contra el Estomur. |
 | Vesperya | Sureste del Verano, guardián del Estrecho de la Tríada | Casa Valeryus, grecolatino. Reino del desafío: hedonismo, libertad. La Tríada: tres arcos de piedra. |
 | Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
-| Ylvaria | Bosques, pueblo Ylum | Casa Gorio, gaélico/vasco. Tierras Antiguas. |
 
 ---
 
-## Los tres reinos de Suntarys
+## Los tres reinos de los Gente de la Bruma
+
+Los tres reinos de la Tierra del Oriente descienden de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este del Estomur.
+
+Nacieron en un paisaje hostil de bruma perpetua, bestias y oscuridad. Pero no lo rechazaron: lo adaptaron. Cuando despertó el **Rey Podrido** —un ser dominado por un Mobius, que mata para extinguir, no para comer—, ese equilibrio se rompió. Huyeron al sur por mar. Las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Modrig y cruzaron el Estomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gerin, pero los Val del centro los rechazaron. Se replegaron al sur y fundaron Kyst, Lyng y Bjorn.
+
+Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos, los Gente de la Bruma los acogieron. Ya sabían lo que era un Mobius. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**. La ciudadela fue sitiada por el Raikim durante siglos. Jamás cayó.
+
+A diferencia de los reinos del Verano —creados por el Raikim—, Kyst, Lyng y Bjorn ya existían antes de la tiranía. El Raikim los conquistó y les impuso el -gard como marca de dominio (Kystgard, Lynggard, Bjorngard). En la Rebelión del Amanecer se arrancaron el sufijo y recuperaron sus nombres originales.
+
+| Reino | Posición | Identidad | Título |
+|-------|----------|-----------|--------|
+| Kyst | Oeste | El hermano del mar: pesca, astilleros, niebla. Costa al este, acantilados al oeste. | Pendiente |
+| Lyng | Centro-norte | El corazón agrícola: brezo, viñedos, trigo. El más próspero y hospitalario. | Pendiente |
+| Bjorn | Este | El guardián del bosque: frontera contra el Estomur, fortalezas de piedra. El oso no busca pelea, pero quien entra en su bosque la encuentra. | Pendiente |
+
+---
 
 Los tres reinos del Verano descienden de **Suntarys**, la gran ciudadela que los **Hijos del Sol** —esclavos escapados de tres islas de Astria— erigieron en la isla de Alessya. Allí, los tres pueblos se fundieron en uno solo. La división en tres reinos fue impuesta por el Raikim para impedir que se unieran como nación.
 
@@ -114,24 +128,27 @@ Los tres reinos del Verano descienden de **Suntarys**, la gran ciudadela que los
 ## Clave histórica
 
 - **Suntarys** fue la ciudadela de los Hijos del Sol en la isla de **Alessya** (la Isla Hermosa). Escudo de Kalos contra las peregrinaciones negras astrianas. Destruida por los Valgard en un ataque anunciado; la población ya había evacuado al continente. Los tres reinos del Verano descienden de sus fundadores.
+- **Mørkkyst** es el nombre que los Gente de la Bruma dan al Modrig: la Costa Negra, su hogar ancestral. Allí vivieron en equilibrio con la bruma y las bestias hasta que el despertar del Rey Podrido los forzó a huir.
 - **Edicto del Amanecer:** escrito por Loryan Solaryss, respuesta al Raikim. Fundamento del Imperio de Dragma.
 - Solaryss hoy es casa noble en Zephyrya, sin corona.
 - 17 Raiks gobernaron Valgard: primero Rudgar, último Grimar (Grimar de Piedra).
+- **Kalos** fue fundada por astrianos disidentes en territorio cedido por los Gente de la Bruma. Sitiada por el Raikim durante siglos, jamás fue tomada.
 
 ---
 
 ## Pendientes
 
 ### Gobernantes
-✅ Los 12 reinos tienen gobernante definido.
+✅ 9 de 12 reinos tienen gobernante definido.
+⏳ Kyst, Lyng y Bjorn: en discusión — casas reales, monarcas y títulos.
 
 ### Lore por desarrollar
 - ✅ Reimaginación profunda de los tres reinos del Verano completada (Lysarya, Zephyrya, Vesperya)
+- ✅ Reimaginación profunda de la Tierra del Oriente completada (Kyst, Lyng, Bjorn) — Gente de la Bruma
 - ✅ Guerra de los Hermanos canonizada (personajes, detonante, consecuencias)
+- Casas reales, monarcas y títulos de Kyst, Lyng y Bjorn
+- Nombres de capitales de Kyst, Lyng y Bjorn
 - Loryan Solaryss: ubicación temporal
 - Triple Corona de Suntarys: nombres
 - Detonante concreto de la rebelión en el Verano (caja negra)
 
----
-
-_Este documento es borrador de revisión. No es canónico hasta que se ratifique y se creen las fichas individuales en `docs/mundo/estigria/dragma/`._

@@ -19,8 +19,8 @@ El Gerin se divide en 4 regiones geográfico-culturales distribuidas en un table
     1               2               3               4               5
 A  Flamengard     Veleskaria      Sindria         Malakia/Bramo   El Modrig
 B  Skarngard      Sturmgard       Waffengard      Estomur         El Modrig
-C  Lysarya        Merenia        Aurelia         Estomur         El Modrig
-D  Zephyrya        Vesperya          Ylvaria         Estomur         El Modrig
+C  Lysarya        Kyst           Lyng           Estomur         El Modrig
+D  Zephyrya        Vesperya       Bjorn           Estomur         El Modrig
 ```
 
 | Región | Reinos | Nombres | Posición |
@@ -28,13 +28,13 @@ D  Zephyrya        Vesperya          Ylvaria         Estomur         El Modrig
 | **Valle de Hierro** | Flamengard, Skarngard, Sturmgard, Waffengard | Germánica | A1, A2, B1, B2 (noroeste) |
 | **Costas del Verano** | Lysarya, Zephyrya, Vesperya | Grecolatina | C1, D1, D2 (suroeste costero) |
 | **Paso del Oriente** | Veleskaria, Sindria | Eslava | A3, B3 (este) |
-| **Tierras Antiguas** | Merenia, Aurelia, Ylvaria | Finesa, latina, gaélica-vasca | C2, C3, D3 (centro-este/sureste) |
+| **Tierra del Oriente** | Kyst, Lyng, Bjorn | Nórdica (danesa) | C2, C3, D3 (centro-este/sureste) |
 
-> La columna «Nombres» indica la sonoridad de referencia para crear nombres de personas y lugares. Es una convención de escritura, no una cultura del mundo. No existen pueblos germánicos, grecolatinos, eslavos ni céltico-nórdicos en Estigria.
+> La columna «Nombres» indica la sonoridad de referencia para crear nombres de personas y lugares. Es una convención de escritura, no una cultura del mundo. No existen pueblos germánicos, grecolatinos, eslavos ni nórdicos en Estigria.
 
 
 - **Esteria:** ciudad fortaleza al borde del Foso, noreste, fuera de la cuadrícula principal.
-- **Kalos:** ciudadela amurallada al sureste, cerca de Ylvaria y Veleskaria.
+- **Kalos:** ciudadela amurallada al sureste, en península al sur de Bjorn. Cedida por la Gente de la Bruma a los astrianos disidentes.
 
 ## Etimología
 
