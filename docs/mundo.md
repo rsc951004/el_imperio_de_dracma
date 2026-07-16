@@ -58,7 +58,7 @@ mundo/
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
 | Estomur | Cordillera | Columna vertebral de Stigria. Divide el continente en El Gerin (oeste) y El Modrig (este). | [Ver ficha](mundo/stigria/estomur.md) |
-| El Gerin | Región | Mitad occidental de Stigria. Alberga el Imperio de Dragma y la civilización conocida. | [Ver ficha](mundo/stigria/gerin.md) |
+| El Gerin | Región | Mitad occidental de Stigria. Su división territorial tradicional Val comprende el Paso del Oriente y tres grandes franjas centrales definidas por el relieve y las aguas. | [Ver ficha](mundo/stigria/gerin.md) |
 | El Modrig | Región | Mitad suroriental. La Costa Negra. Tierra maldita. Conectada a El Bramo por fiordos fragmentados. | [Ver ficha](mundo/stigria/modrig.md) |
 | El Bramo | Región | Último reducto de Malakia de la Sombra al este del Foso. Masa de tierra casi aislada, unida al continente por el Istmo del Bramo. Residencia de Rey Podrido. | [Ver ficha](mundo/stigria/bramo.md) |
 

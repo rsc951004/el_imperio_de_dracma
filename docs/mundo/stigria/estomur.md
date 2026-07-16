@@ -4,10 +4,12 @@
 Cordillera. Columna vertebral de Stigria.
 
 ## Ubicación
-Atraviesa el continente de norte a sur, dividiendo Stigria en dos mitades: **El Gerin** al oeste y **El Modrig** al este. En su tramo norte, las cumbres rodean una vasta planicie de donde brota una bruma densa y perpetua.
+Atraviesa el centro y el sur del continente, dividiendo Stigria en dos mitades: **El Gerin** al oeste y **El Modrig** al este. En el norte pierde su continuidad dentro del Paso del Oriente, entre Kaltgrund y Seelental.
 
 ## Descripción
 Montañas escarpadas, ricas en Verilium. Antiguas, erosionadas por milenios de viento y nieve. Las laderas occidentales descienden suavemente hacia El Gerin; las orientales caen en picado hacia El Modrig y la Costa Negra.
+
+En el Paso del Oriente, la cordillera está desgarrada. Sus montañas aparecen partidas, reducidas y machacadas, como si un martillo gigantesco hubiera aplastado el macizo. Esta franja baja pero accidentada permite cruzar entre El Gerin y Seelental, ya dentro de El Modrig.
 
 En las fauces de estas montañas, en su parte más oriental, permaneció prisionero durante años el Mobius de Stigria, hasta que un joven Portador lo tocó y nació Rey Podrido.
 
