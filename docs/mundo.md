@@ -53,16 +53,19 @@ mundo/
 
 ## Stigria
 
-### Geografía
+### Geografía anterior al Rey Podrido
+
+Esta reconstrucción representa regiones físicas históricas. No contiene reinos ni fronteras políticas.
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Estomur | Cordillera | Columna vertebral de Stigria. Divide el continente en El Gerin (oeste) y El Modrig (este). | [Ver ficha](mundo/stigria/estomur.md) |
-| El Gerin | Región | Mitad occidental de Stigria. Su división territorial tradicional Val comprende el Paso del Oriente y tres grandes franjas centrales definidas por el relieve y las aguas. | [Ver ficha](mundo/stigria/gerin.md) |
-| El Modrig | Región | Mitad suroriental. La Costa Negra. Tierra maldita. Conectada a El Bramo por fiordos fragmentados. | [Ver ficha](mundo/stigria/modrig.md) |
-| El Bramo | Región | Último reducto de Malakia de la Sombra al este del Foso. Masa de tierra casi aislada, unida al continente por el Istmo del Bramo. Residencia de Rey Podrido. | [Ver ficha](mundo/stigria/bramo.md) |
+| Stomur | Cordillera | Gran barrera entre El Gerin y El Grimm. Continua en el centro y el sur; quebrada en el norte. | [Ver Stigria](mundo/stigria/stigria.md) |
+| El Gerin | Macrorregión occidental | División Val compuesta por el Paso del Oriente y las franjas de Sturm, Eldenheim, Durr y Undland. | [Ver ficha](mundo/stigria/gerin.md) |
+| El Grimm | Macrorregión oriental | Mitad oriental de Stigria. Comprende Rauven al noreste y Mahren al este del Stomur. | [Ver Stigria](mundo/stigria/stigria.md) |
 
 ### Historia
+
+Las entidades políticas documentadas desde esta sección pertenecen a periodos posteriores y no aparecen en la reconstrucción geográfica anterior al Rey Podrido.
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|

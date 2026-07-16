@@ -17,7 +17,7 @@ Esta carpeta conserva mapas, bocetos y otras imágenes de trabajo vigentes utili
 ```text
 referencias-visuales/
 └── stigria/
-    └── boceto-geografico-stigria-v1.png
+    └── boceto-stigria.png
 ```
 
 ---
