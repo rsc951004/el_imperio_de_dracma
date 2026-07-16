@@ -37,5 +37,5 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Portadores | Condición humana | Humanos que heredan un Blesk natural: puente unidireccional a un Init en Irij. | [Ver ficha](entidades/portadores.md) |
 | Invocadores | Condición humana | Humanos que roban y alteran un Blesk ajeno para conectarse a múltiples Inits. | [Ver ficha](entidades/invocadores.md) |
 | Hombres de la Bruma | Sub-etnia Val | Rama oriental de los Val. Forjados en batalla contra las bestias del este. Fundadores de Malakia. | [Ver ficha](entidades/hombres-de-la-bruma.md) |
-| Rey Podrido | Entidad híbrida | Fusión entre un joven Portador y el Mobius de Estigria. No es humano. Reside en El Bramo. | [Ver ficha](personajes/rey-podrido.md) |
-| Gera | Deidad (mito Val) | Diosa primigenia de los Val. Purgó las bestias de Estigria con fuego divino y se convirtió en piedra viva para formar el Estomur. Madre del Gerin. | [Ver ficha](entidades/gera.md) |
+| Rey Podrido | Entidad híbrida | Fusión entre un joven Portador y el Mobius de Stigria. No es humano. Reside en El Bramo. | [Ver ficha](personajes/rey-podrido.md) |
+| Gera | Deidad (mito Val) | Diosa primigenia de los Val. Purgó las bestias de Stigria con fuego divino y se convirtió en piedra viva para formar el Estomur. Madre del Gerin. | [Ver ficha](entidades/gera.md) |

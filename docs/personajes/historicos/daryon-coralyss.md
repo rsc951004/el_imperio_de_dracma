@@ -27,6 +27,6 @@ Tras la guerra, la casa Coralyss fue proscrita del **Dex Códice** por orden del
 - **Edrik Mormund:** emperador reinante.
 
 ## Referencias
-- `docs/mundo/estigria/dragma/alesya/alesya.md`
+- `docs/mundo/stigria/dragma/alesya/alesya.md`
 - `docs/personajes/historicos/kleondras-aetheryon.md`
 - `docs/personajes/historicos/thalyssa-coralyss.md`

@@ -9,10 +9,10 @@ Astria fue el lugar de origen del culto al Dios Negro. En sus últimos días, la
 Astria fue destruida. Los motivos exactos de su caída se desconocen, pero la naturaleza autodestructiva de su fe en su fase terminal sugiere que su final pudo haber sido, en parte, obra de sus propios fieles.
 
 ## Legado
-El culto al Dios Negro sobrevivió a la destrucción de Astria a través de los refugiados y exiliados que llegaron a Estigria. Sin embargo, la versión del culto que arraigó en Sindria es radicalmente distinta de la fe astriana original: donde los astrianos buscaban la autodestrucción, los sindrios buscan el uso y la dominación de los monstruos para el engrandecimiento humano.
+El culto al Dios Negro sobrevivió a la destrucción de Astria a través de los refugiados y exiliados que llegaron a Stigria. Sin embargo, la versión del culto que arraigó en Sindria es radicalmente distinta de la fe astriana original: donde los astrianos buscaban la autodestrucción, los sindrios buscan el uso y la dominación de los monstruos para el engrandecimiento humano.
 
 Para un astriano de la época final, el culto sindrio actual sería considerado herejía.
 
 ## Referencias
-- `docs/mundo/estigria/dragma/sindria/sindria.md`
-- `docs/mundo/estigria/dragma/kalos/kalos.md`
+- `docs/mundo/stigria/dragma/sindria/sindria.md`
+- `docs/mundo/stigria/dragma/kalos/kalos.md`

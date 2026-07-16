@@ -63,7 +63,7 @@ Cada reino o bloque toma **una cultura real como fuente de inspiración** para l
 - Se alteran letras, sílabas o grafías para que los nombres **no coincidan con nombres reales de personas del mundo real**.
 - Son ecos, no copias.
 
-> ⚠️ **Importante:** Estas culturas reales son una convención de escritura para la creación de nombres. No existen «pueblos germánicos», «pueblos grecolatinos» ni «pueblos eslavos» en Estigria. Ningún cuento, ficha de personaje o documento canónico debe referenciar estas culturas como si fueran reales dentro del universo. La palabra «cultura» en el canon se reserva para aspectos internos del mundo (ritos, costumbres, organización social), nunca como etiqueta de inspiración externa.
+> ⚠️ **Importante:** Estas culturas reales son una convención de escritura para la creación de nombres. No existen «pueblos germánicos», «pueblos grecolatinos» ni «pueblos eslavos» en Stigria. Ningún cuento, ficha de personaje o documento canónico debe referenciar estas culturas como si fueran reales dentro del universo. La palabra «cultura» en el canon se reserva para aspectos internos del mundo (ritos, costumbres, organización social), nunca como etiqueta de inspiración externa.
 
 Ejemplos:
 

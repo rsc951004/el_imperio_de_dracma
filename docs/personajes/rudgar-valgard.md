@@ -14,7 +14,7 @@ Durante los años finales de la Edad de los Mil Reinos, cuando Rey Podrido expan
 Cuando Rudgar tenía catorce años, llegó tarde a una partida de la Casa Valgard que había sido atacada. Entre los supervivientes encontró a un niño esclavo de diez años, sin nombre, que ya era invocador aunque nadie lo sabía. Lo tomó bajo su protección. El niño se convertiría en Lux Terin.
 
 ### El Raikim
-Cincuenta años después de la fundación de Esteria, Rudgar fundó el Raikim Valgard. Para entonces ya era un anciano. Durante años fue visto como el salvador de Estigria. Lideró la expansión de Valgard desde Eldengard. Los reinos le debían la supervivencia.
+Cincuenta años después de la fundación de Esteria, Rudgar fundó el Raikim Valgard. Para entonces ya era un anciano. Durante años fue visto como el salvador de Stigria. Lideró la expansión de Valgard desde Eldengard. Los reinos le debían la supervivencia.
 
 En público, él y Lux eran amigos y compañeros de armas. En privado, Lux nunca dejó de ser su esclavo.
 
@@ -36,5 +36,5 @@ El nombre Valgard quedó asociado para siempre a la opresión. La rebelión de l
 ## Referencias
 - `docs/personajes/lux-terin.md`
 - `docs/personajes/rey-podrido.md`
-- `docs/mundo/estigria/dragma/esteria/esteria.md`
-- `docs/mundo/estigria/malakia.md`
+- `docs/mundo/stigria/dragma/esteria/esteria.md`
+- `docs/mundo/stigria/malakia.md`

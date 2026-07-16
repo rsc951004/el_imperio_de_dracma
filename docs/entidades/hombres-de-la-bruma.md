@@ -1,7 +1,7 @@
 # Hombres de la Bruma
 
 ## Naturaleza
-Sub-etnia de los Val. Rama oriental del pueblo originario de Estigria.
+Sub-etnia de los Val. Rama oriental del pueblo originario de Stigria.
 
 ## Origen
 Mientras los Val de El Gerin se asentaron en el Valle Central y construyeron ciudades, los Hombres de la Bruma permanecieron en El Modrig, al este de la cordillera Estomur. Allí fueron forjados en batalla constante contra las grandes bestias que surgían de las tierras orientales.
@@ -15,5 +15,5 @@ Los Hombres de la Bruma fundaron Malakia de la Bruma, uno de los pocos reinos es
 Tras la caída de Malakia y la partición del reino, muchos Hombres de la Bruma cruzaron al oeste del Foso. Su legado pervive en Sindria —heredera de Malakia Occidental— y en las gentes que aún habitan las tierras fronterizas junto al corte continental.
 
 ## Apariciones o referencias
-- `docs/mundo/estigria/malakia.md`
-- `docs/mundo/estigria/dragma/sindria/sindria.md`
+- `docs/mundo/stigria/malakia.md`
+- `docs/mundo/stigria/dragma/sindria/sindria.md`

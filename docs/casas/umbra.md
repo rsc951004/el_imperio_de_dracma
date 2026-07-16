@@ -15,7 +15,7 @@
 
 ## Historia y descripción
 
-Casa real de Aurelia. Las tierras fértiles del centro-sur, herederas de la tradición de Erebia. Cuando los refugiados erebianos llegaron a Estigria, buena parte de su legado cultural arraigó en estas tierras. Fundada por el Raikim como Aurelgard, se unió a la rebelión del Bloque del Amanecer. Economía agrícola fértil y comercio de granos. Nexo cultural con Erebia. Nombres de sonoridad latina.
+Casa real de Aurelia. Las tierras fértiles del centro-sur, herederas de la tradición de Erebia. Cuando los refugiados erebianos llegaron a Stigria, buena parte de su legado cultural arraigó en estas tierras. Fundada por el Raikim como Aurelgard, se unió a la rebelión del Bloque del Amanecer. Economía agrícola fértil y comercio de granos. Nexo cultural con Erebia. Nombres de sonoridad latina.
 
 Internamente, la rama de Valerius Umbra pertenece a la Casa Tellus, un linaje noble dentro de los Umbra.
 

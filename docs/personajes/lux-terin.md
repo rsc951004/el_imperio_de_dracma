@@ -1,7 +1,7 @@
 # Lux Terin
 
 ## Identidad
-Invocador. Héroe legendario de la resistencia contra el Raikim Valgard. Posible descendiente de Terin, el primer Rey Sol, aunque su linaje nunca fue confirmado. Se le conoce como **el primer Invocador del Sol documentado en el continente de Estigria**.
+Invocador. Héroe legendario de la resistencia contra el Raikim Valgard. Posible descendiente de Terin, el primer Rey Sol, aunque su linaje nunca fue confirmado. Se le conoce como **el primer Invocador del Sol documentado en el continente de Stigria**.
 
 ## Origen
 Nació esclavo de los Val de Eldengard, sin nombre. Su etnia era marcadamente Royrim, lo que sugiere ascendencia de la isla Roy. Se desconoce cómo se convirtió en invocador o si fue convertido mediante un rito.

@@ -24,7 +24,7 @@ El destino de Eryk y Thalyssa es uno de los grandes misterios del imperio. Hoy s
 - **Astryón Aetheryon:** prometido legítimo de Thalyssa. Príncipe de Zephyrya.
 
 ## Referencias
-- `docs/mundo/estigria/dragma/ylumarya/ylumarya.md`
-- `docs/mundo/estigria/dragma/alesya/alesya.md`
+- `docs/mundo/stigria/dragma/ylumarya/ylumarya.md`
+- `docs/mundo/stigria/dragma/alesya/alesya.md`
 - `docs/personajes/historicos/thalyssa-coralyss.md`
 - `docs/personajes/historicos/kyros-albyon.md`

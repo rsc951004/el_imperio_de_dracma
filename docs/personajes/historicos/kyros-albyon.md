@@ -26,6 +26,6 @@ Cuando Sturmgard anunció su apoyo a Lysarya, el emperador Edrik Mormund intervi
 - **Edrik Mormund:** emperador que lo ejecutó.
 
 ## Referencias
-- `docs/mundo/estigria/dragma/ylumarya/ylumarya.md`
+- `docs/mundo/stigria/dragma/ylumarya/ylumarya.md`
 - `docs/personajes/historicos/eryk-albyon.md`
 - `docs/personajes/historicos/thalyssa-coralyss.md`

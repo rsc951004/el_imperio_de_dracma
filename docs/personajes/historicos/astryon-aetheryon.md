@@ -25,6 +25,6 @@ Tras la guerra, el emperador Edrik Mormund ejecutó a Kleóndras y proscribió a
 - **Eryk Albyon:** rival. Príncipe de Lysarya. Desaparecido con Thalyssa.
 
 ## Referencias
-- `docs/mundo/estigria/dragma/zefirya/zefirya.md`
+- `docs/mundo/stigria/dragma/zefirya/zefirya.md`
 - `docs/personajes/historicos/kleondras-aetheryon.md`
 - `docs/personajes/historicos/thalyssa-coralyss.md`

@@ -8,8 +8,8 @@ Cada aspecto canónico del mundo posee un archivo individual en `mundo/`, organi
 mundo/
 ├── erebia/
 ├── astria/
-└── estigria/
-    ├── estigria.md
+└── stigria/
+    ├── stigria.md
     ├── valgard.md
     └── dragma/
         ├── kalos/
@@ -45,33 +45,33 @@ mundo/
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Estigria | Continente | Continente del invierno. Verim al este. Valle Central con Eldengaria. Hogar del Imperio de Dragma. | [Ver ficha](mundo/estigria/estigria.md) |
+| Stigria | Continente | Continente del invierno. Verim al este. Valle Central con Eldengaria. Hogar del Imperio de Dragma. | [Ver ficha](mundo/stigria/stigria.md) |
 | Erebia | Continente | Pendiente. | — |
 | Astria | Nación extinta | Cuna original del culto al Dios Negro. Fe fanática y autodestructiva en sus días finales. Destruida por causas desconocidas. | [Ver ficha](mundo/astria/astria.md) |
 
 > Ver [Cronología del mundo](cronologia.md) para la línea temporal completa.
 
-## Estigria
+## Stigria
 
 ### Geografía
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Estomur | Cordillera | Columna vertebral de Estigria. Divide el continente en El Gerin (oeste) y El Modrig (este). | [Ver ficha](mundo/estigria/estomur.md) |
-| El Gerin | Región | Mitad occidental de Estigria. Alberga el Imperio de Dragma y la civilización conocida. | [Ver ficha](mundo/estigria/gerin.md) |
-| El Modrig | Región | Mitad suroriental. La Costa Negra. Tierra maldita. Conectada a El Bramo por fiordos fragmentados. | [Ver ficha](mundo/estigria/modrig.md) |
-| El Bramo | Región | Último reducto de Malakia de la Sombra al este del Foso. Masa de tierra casi aislada, unida al continente por el Istmo del Bramo. Residencia de Rey Podrido. | [Ver ficha](mundo/estigria/bramo.md) |
+| Estomur | Cordillera | Columna vertebral de Stigria. Divide el continente en El Gerin (oeste) y El Modrig (este). | [Ver ficha](mundo/stigria/estomur.md) |
+| El Gerin | Región | Mitad occidental de Stigria. Alberga el Imperio de Dragma y la civilización conocida. | [Ver ficha](mundo/stigria/gerin.md) |
+| El Modrig | Región | Mitad suroriental. La Costa Negra. Tierra maldita. Conectada a El Bramo por fiordos fragmentados. | [Ver ficha](mundo/stigria/modrig.md) |
+| El Bramo | Región | Último reducto de Malakia de la Sombra al este del Foso. Masa de tierra casi aislada, unida al continente por el Istmo del Bramo. Residencia de Rey Podrido. | [Ver ficha](mundo/stigria/bramo.md) |
 
 ### Historia
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Malakia | Reino histórico | Fundado por los Hombres de la Bruma. Partido en dos por el Foso. Hoy: Reino Podrido al este, Sindria al oeste. | [Ver ficha](mundo/estigria/malakia.md) |
+| Malakia | Reino histórico | Fundado por los Hombres de la Bruma. Partido en dos por el Foso. Hoy: Reino Podrido al este, Sindria al oeste. | [Ver ficha](mundo/stigria/malakia.md) |
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Val | Pueblo | Pueblo originario de Estigria. Casi asimilado. Su núcleo en el Valle Central dio origen a la Casa Valgard. | [Ver ficha](mundo/estigria/dragma/val.md) |
-| Valgard | Estado histórico | Estado pre-imperial. En su fase Raikim, tiranía que dominó Estigria. Derrocado por los ocho reinos. | [Ver ficha](mundo/estigria/valgard.md) |
+| Val | Pueblo | Pueblo originario de Stigria. Casi asimilado. Su núcleo en el Valle Central dio origen a la Casa Valgard. | [Ver ficha](mundo/stigria/dragma/val.md) |
+| Valgard | Estado histórico | Estado pre-imperial. En su fase Raikim, tiranía que dominó Stigria. Derrocado por los ocho reinos. | [Ver ficha](mundo/stigria/valgard.md) |
 
 ### Dragma (Imperio)
 
@@ -79,27 +79,27 @@ mundo/
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Dragma | Imperio | Arquitectura completa del imperio: estructura territorial, dinastías, sistema de gobierno. | [Ver ficha](mundo/estigria/dragma/dragma.md) |
-| La Concordia | Reformas | Cuerpo de reformas de Vilem Mormund que refundaron el pacto social del imperio. | [Ver ficha](mundo/estigria/dragma/concordia.md) |
-| Stamengerin | Institución | Asamblea extraordinaria que resuelve cambios dinásticos y puede reformar la estructura territorial o política del imperio. | [Ver ficha](mundo/estigria/dragma/stamengerin.md) |
+| Dragma | Imperio | Arquitectura completa del imperio: estructura territorial, dinastías, sistema de gobierno. | [Ver ficha](mundo/stigria/dragma/dragma.md) |
+| La Concordia | Reformas | Cuerpo de reformas de Vilem Mormund que refundaron el pacto social del imperio. | [Ver ficha](mundo/stigria/dragma/concordia.md) |
+| Stamengerin | Institución | Asamblea extraordinaria que resuelve cambios dinásticos y puede reformar la estructura territorial o política del imperio. | [Ver ficha](mundo/stigria/dragma/stamengerin.md) |
 | Tierras Intermedias | Territorio | Territorios sin dueño del Gerin. Páramos, costas y tierras entre reinos. Bienes comunes. | Pendiente |
 
 #### Los 12 Reinos
 
 | # | Reino | Región | Casa | Título | Gobernante ★ | Ficha |
 |---|-------|------|------|-------|-------------|-------|
-| 1 | Waffengard | Hierro | Meister | Rey/Reina del Acero | Rey Jorgen Meister | [Ver ficha](mundo/estigria/dragma/waffengard/waffengard.md) |
-| 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo | Rey Yuter Hammer | [Ver ficha](mundo/estigria/dragma/skarngard/skarngard.md) |
-| 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama | Rey Kaspar Wolfen | [Ver ficha](mundo/estigria/dragma/flamengard/flamengard.md) |
-| 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta | Rey Jorin Reisner | [Ver ficha](mundo/estigria/dragma/sturmgard/sturmgard.md) |
-| 5 | Lysarya | Costas del Verano | Corinthyos | Rey/Reina de la Roca | Reina Octavya Corinthyos | [Ver ficha](mundo/estigria/dragma/ylumarya/ylumarya.md) |
-| 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/estigria/dragma/veleskaria/veleskaria.md) |
-| 7 | Zephyrya | Costas del Verano | Zephyryon | Rey/Reina del Ocaso | Rey Cassyus Zephyryon | [Ver ficha](mundo/estigria/dragma/zefirya/zefirya.md) |
-| 8 | Kyst | Tierra de la Bruma | Fjord | Rey/Reina de la Costa Gris | Rey Skaer Fjord | [Ver ficha](mundo/estigria/dragma/kyst/kyst.md) |
-| 9 | Lyng | Tierra de la Bruma | Korn | Rey/Reina del Valle | Rey Ravn Korn | [Ver ficha](mundo/estigria/dragma/lyng/lyng.md) |
-| 10 | Vesperya | Costas del Verano | Valeryus | Rey/Reina del Tridente | Rey Marcus Valeryus | [Ver ficha](mundo/estigria/dragma/vesperya/vesperya.md) |
-| 11 | Sindria | Paso del Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/estigria/dragma/sindria/sindria.md) |
-| 12 | Bjorn | Tierra de la Bruma | Borg | Rey/Reina del Bosque | Rey Skov Borg | [Ver ficha](mundo/estigria/dragma/bjorn/bjorn.md) |
+| 1 | Waffengard | Hierro | Meister | Rey/Reina del Acero | Rey Jorgen Meister | [Ver ficha](mundo/stigria/dragma/waffengard/waffengard.md) |
+| 2 | Skarngard | Hierro | Hammer | Rey/Reina del Martillo | Rey Yuter Hammer | [Ver ficha](mundo/stigria/dragma/skarngard/skarngard.md) |
+| 3 | Flamengard | Hierro | Wolfen | Rey/Reina de la Llama | Rey Kaspar Wolfen | [Ver ficha](mundo/stigria/dragma/flamengard/flamengard.md) |
+| 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta | Rey Jorin Reisner | [Ver ficha](mundo/stigria/dragma/sturmgard/sturmgard.md) |
+| 5 | Lysarya | Costas del Verano | Corinthyos | Rey/Reina de la Roca | Reina Octavya Corinthyos | [Ver ficha](mundo/stigria/dragma/ylumarya/ylumarya.md) |
+| 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
+| 7 | Zephyrya | Costas del Verano | Zephyryon | Rey/Reina del Ocaso | Rey Cassyus Zephyryon | [Ver ficha](mundo/stigria/dragma/zefirya/zefirya.md) |
+| 8 | Kyst | Tierra de la Bruma | Fjord | Rey/Reina de la Costa Gris | Rey Skaer Fjord | [Ver ficha](mundo/stigria/dragma/kyst/kyst.md) |
+| 9 | Lyng | Tierra de la Bruma | Korn | Rey/Reina del Valle | Rey Ravn Korn | [Ver ficha](mundo/stigria/dragma/lyng/lyng.md) |
+| 10 | Vesperya | Costas del Verano | Valeryus | Rey/Reina del Tridente | Rey Marcus Valeryus | [Ver ficha](mundo/stigria/dragma/vesperya/vesperya.md) |
+| 11 | Sindria | Paso del Oriente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
+| 12 | Bjorn | Tierra de la Bruma | Borg | Rey/Reina del Bosque | Rey Skov Borg | [Ver ficha](mundo/stigria/dragma/bjorn/bjorn.md) |
 
 ★ = gobernante reinante
 
@@ -126,13 +126,13 @@ Tres reinos de la Tierra de la Bruma descienden directamente de la Mørkkyst: **
 
 | # | Nombre | Tipo | Descripción breve | Ficha |
 |---|--------|------|-------------------|-------|
-| 1 | Kalos | Ciudadela | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. Conocida como la Ciudadela de Kalos. | [Ver ficha](mundo/estigria/dragma/kalos/kalos.md) |
-| 2 | Esteria | Ciudad fortaleza | Ciudad fundada al borde del Foso de la Calamidad para contener la oscuridad del este. Anterior al Raikim. Sindria reclama su territorio. Conocida como Ciudad Esteria. | [Ver ficha](mundo/estigria/dragma/esteria/esteria.md) |
-| 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/estigria/dragma/ishbaal/ishbaal.md) |
-| 4 | Alessya | Isla | Isla al suroeste. Cuna de los Hijos del Sol. Alberga las ruinas de Suntarys, la gran ciudadela que fue escudo de Kalos contra las peregrinaciones negras astrianas. Protectorado rico gobernado por un Príncipe Guardián. Inalienable por ley de la Concordia. | [Ver ficha](mundo/estigria/dragma/alesya/alesya.md) |
-| 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por el navegante elyrio Artemis en la Edad de los Mil Reinos. Conocida como Delfos la Solitaria. | [Ver ficha](mundo/estigria/dragma/delfos/delfos.md) |
-| 6 | Lorka | Isla | Territorio de ultramar al norte de Ishbaal. Aguas frías, costas rocosas. | [Ver ficha](mundo/estigria/dragma/lorka/lorka.md) |
-| 7 | Paicel | Isla | Territorio de ultramar al sureste de Delfos. Aguas templadas, vegetación densa. | [Ver ficha](mundo/estigria/dragma/paicel/paicel.md) |
+| 1 | Kalos | Ciudadela | Ciudadela amurallada circular. Fundada por portadores disidentes del culto al Dios Negro. Conocida como la Ciudadela de Kalos. | [Ver ficha](mundo/stigria/dragma/kalos/kalos.md) |
+| 2 | Esteria | Ciudad fortaleza | Ciudad fundada al borde del Foso de la Calamidad para contener la oscuridad del este. Anterior al Raikim. Sindria reclama su territorio. Conocida como Ciudad Esteria. | [Ver ficha](mundo/stigria/dragma/esteria/esteria.md) |
+| 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/stigria/dragma/ishbaal/ishbaal.md) |
+| 4 | Alessya | Isla | Isla al suroeste. Cuna de los Hijos del Sol. Alberga las ruinas de Suntarys, la gran ciudadela que fue escudo de Kalos contra las peregrinaciones negras astrianas. Protectorado rico gobernado por un Príncipe Guardián. Inalienable por ley de la Concordia. | [Ver ficha](mundo/stigria/dragma/alesya/alesya.md) |
+| 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por el navegante elyrio Artemis en la Edad de los Mil Reinos. Conocida como Delfos la Solitaria. | [Ver ficha](mundo/stigria/dragma/delfos/delfos.md) |
+| 6 | Lorka | Isla | Territorio de ultramar al norte de Ishbaal. Aguas frías, costas rocosas. | [Ver ficha](mundo/stigria/dragma/lorka/lorka.md) |
+| 7 | Paicel | Isla | Territorio de ultramar al sureste de Delfos. Aguas templadas, vegetación densa. | [Ver ficha](mundo/stigria/dragma/paicel/paicel.md) |
 
 > Los protectorados son estados semi-soberanos bajo protección directa del emperador. No tienen rey ni pertenecen a ninguno de los 12 Reinos. Se gobiernan a sí mismos dentro de los límites del pacto imperial.
 

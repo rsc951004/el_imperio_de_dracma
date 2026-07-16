@@ -26,8 +26,8 @@ Hoy Thalyssa y Eryk viven en el cuento popular de los **Príncipes Perdidos**. L
 - **Astryón Aetheryon:** prometido legítimo. Príncipe de Zephyrya. Abandonado la noche del compromiso.
 
 ## Referencias
-- `docs/mundo/estigria/dragma/alesya/alesya.md`
-- `docs/mundo/estigria/dragma/ylumarya/ylumarya.md`
+- `docs/mundo/stigria/dragma/alesya/alesya.md`
+- `docs/mundo/stigria/dragma/ylumarya/ylumarya.md`
 - `docs/personajes/historicos/eryk-albyon.md`
 - `docs/personajes/historicos/kyros-albyon.md`
 - `docs/personajes/historicos/daryon-coralyss.md`

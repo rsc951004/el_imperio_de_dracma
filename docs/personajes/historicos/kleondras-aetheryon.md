@@ -27,7 +27,7 @@ Tras la guerra, el emperador Edrik Mormund ejecutó a Kleóndras y proscribió a
 - **Kyros Albyon:** enemigo en la guerra. Rey de Lysarya. También ejecutado.
 
 ## Referencias
-- `docs/mundo/estigria/dragma/zefirya/zefirya.md`
-- `docs/mundo/estigria/dragma/ylumarya/ylumarya.md`
+- `docs/mundo/stigria/dragma/zefirya/zefirya.md`
+- `docs/mundo/stigria/dragma/ylumarya/ylumarya.md`
 - `docs/personajes/historicos/daryon-coralyss.md`
 - `docs/personajes/historicos/thalyssa-coralyss.md`
