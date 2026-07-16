@@ -6,7 +6,7 @@ Reino histórico. Hoy: región maldita.
 ## Historia
 
 ### Malakia (Edad de los Mil Reinos)
-Malakia fue uno de los pocos reinos estables de la Edad de los Mil Reinos. Durante siglos prosperó en El Modrig bajo el gobierno de la dinastía Ormur.
+Malakia fue uno de los pocos reinos estables de la Edad de los Mil Reinos. Durante siglos prosperó en el Grimm bajo el gobierno de la dinastía Ormur.
 
 ### La caída
 En la parte más oriental de Malakia, casi rozando la Costa Negra, un joven Portador tocó al Mobius de Stigria —una entidad que llevaba años prisionera en las fauces de la montaña—. Por acción u omisión, por voluntad o accidente, el joven y el Mobius se fundieron. Nació **Rey Podrido**.
@@ -19,11 +19,11 @@ Tras años de guerra, la resistencia liderada por Lux Terin y Rudgar Valgard log
 - **Malakia Oriental** (más allá del Foso): reducto de la sombra, conocida desde entonces como **Malakia de la Sombra** o el **Reino Podrido**. Su núcleo actual es El Bramo, una masa de tierra casi aislada al este del Foso.
 - **Malakia Occidental** (del lado del Gerin): refundada por sus nobles, con el tiempo cambiaría su nombre a **Sindria**.
 
-Al sur de El Bramo, la costa se deshace en un sinfín de **fiordos fragmentados**: entradas de mar, canales e islotes que forman un laberinto entre El Bramo y El Modrig. Esa costa rota es la vía por la que las criaturas del este serpentean para alcanzar El Bramo, y desde allí amenazar El Gerin por el istmo o el Foso.
+Al sur de El Bramo, la costa se deshace en un sinfín de **fiordos fragmentados**: entradas de mar, canales e islotes que forman un laberinto entre El Bramo y el Grimm. Esa costa rota es la vía por la que las criaturas del este serpentean para alcanzar El Bramo, y desde allí amenazar El Gerin por el istmo o el Foso.
 
 ## Referencias
 - `docs/mundo/stigria/stomur.md`
-- `docs/mundo/stigria/modrig.md`
+- `docs/mundo/stigria/grimm.md`
 - `docs/mundo/stigria/bramo.md`
 - `docs/mundo/stigria/dragma/sindria/sindria.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`

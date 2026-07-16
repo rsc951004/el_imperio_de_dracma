@@ -128,22 +128,22 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Malakia Norte", "code": "Mal", "zone": "El Modrig", "culture": "Gheran / Sombra", "capital": [13, 0.5] },
+      "properties": { "name": "Malakia Norte", "code": "Mal", "zone": "El Grimm", "culture": "Gheran / Sombra", "capital": [13, 0.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[12, 0], [14, 0], [14, 1], [12, 1], [12, 0]]] }
     },
     {
       "type": "Feature",
-      "properties": { "name": "El Bramo", "code": "Bra", "zone": "El Modrig", "culture": "Sombra", "capital": [12.5, 1.5] },
+      "properties": { "name": "El Bramo", "code": "Bra", "zone": "El Grimm", "culture": "Sombra", "capital": [12.5, 1.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[12, 1], [13, 1], [13, 2], [12, 2], [12, 1]]] }
     },
     {
       "type": "Feature",
-      "properties": { "name": "Malakia Sur", "code": "Mal", "zone": "El Modrig", "culture": "Gheran / Sombra", "capital": [13, 2.5] },
+      "properties": { "name": "Malakia Sur", "code": "Mal", "zone": "El Grimm", "culture": "Gheran / Sombra", "capital": [13, 2.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[12, 2], [14, 2], [14, 3], [12, 3], [12, 2]]] }
     },
     {
       "type": "Feature",
-      "properties": { "name": "El Modrig", "code": "Mod", "zone": "Costa Negra", "culture": "Sombra / Yermo", "capital": [13.5, 7.5] },
+      "properties": { "name": "El Grimm", "code": "Gri", "zone": "Costa Negra", "culture": "Sombra / Yermo", "capital": [13.5, 7.5] },
       "geometry": { "type": "MultiPolygon", "coordinates": [ [[[14, 0], [15, 0], [15, 3], [14, 3], [14, 0]]], [[[12, 3], [15, 3], [15, 12], [12, 12], [12, 3]]] ] }
     },
     {

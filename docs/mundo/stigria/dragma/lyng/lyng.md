@@ -28,13 +28,13 @@ El título tiene origen en la posición central de Lyng: el reino más cercano a
 **Tierra de la Bruma.** El corazón agrícola de los Caminantes de la Bruma, al sur del Gherin. Al norte de Kyst y Bjorn, limitando al norte con el Gran Valle y Eldengaria. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
 
 ## Origen
-Lyng es uno de los tres reinos fundados por la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este de la cordillera Stomur.
+Lyng es uno de los tres reinos fundados por la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llamal Grimm—, al este de la cordillera Stomur.
 
 Los Kystvaer nacieron en un paisaje hostil: bruma perpetua, bestias, oscuridad. Pero no lo rechazaron. Lo adaptaron. Aprendieron a vivir donde todo quería matarlos. Generaciones enteras forjaron ritos, armas, casas y costumbres en equilibrio con aquella tierra.
 
 Cuando despertó **Rey Podrido** —algo más que una bestia, una criatura poseída por un Mobius, que no mata para comer sino para extinguir—, ese equilibrio se rompió. Ya no se podía adaptar. Huyeron.
 
-Navegaron al sur por mar hasta que las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Modrig y cruzaron Stomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gherin, pero los pobladores del centro los rechazaron. Se replegaron al sur y allí fundaron Kyst, Lyng y Bjorn.
+Navegaron al sur por mar hasta que las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Grimm y cruzaron Stomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gherin, pero los pobladores del centro los rechazaron. Se replegaron al sur y allí fundaron Kyst, Lyng y Bjorn.
 
 Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos a las costas del Gherin, no pudieron entrar por el Verano, entonces conocido como la **Costa Desolada**. Siguieron al este y encontraron en los Kystvaer refugio. Los Caminantes de la Bruma ya habían luchado contra un ser dominado por un Mobius y conocían el peligro del culto. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**.
 

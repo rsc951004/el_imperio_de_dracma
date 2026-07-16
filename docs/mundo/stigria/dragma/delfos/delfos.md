@@ -4,10 +4,10 @@
 Protectorado del Imperio de Dragma. Isla. Conocida como **Delfos la Solitaria**.
 
 ## Ubicación
-Isla en el mar oriental, al este de El Modrig. Alejada lo suficiente de la Costa Negra para ser segura, lo bastante próxima para que sus habitantes crucen a cazar al continente maldito.
+Isla en el mar oriental, al este del Grimm. Alejada lo suficiente de la Costa Negra para ser segura, lo bastante próxima para que sus habitantes crucen a cazar al continente maldito.
 
 ## Geografía y clima
-Isla tropical. Selvas densas, acantilados de roca oscura, grutas minerales, playas de arena negra. El clima cálido y húmedo contrasta con las tierras frías del norte de Stigria y con la aridez muerta de El Modrig.
+Isla tropical. Selvas densas, acantilados de roca oscura, grutas minerales, playas de arena negra. El clima cálido y húmedo contrasta con las tierras frías del norte de Stigria y con la aridez muerta del Grimm.
 
 ## Historia
 
@@ -43,8 +43,8 @@ Delfos es un refugio. A lo largo de los siglos, la isla ha recibido a quienes hu
 ### Minerales extraños
 Las grutas de Delfos albergan **tierras extrañas** —minerales con propiedades ofensivas contra la Sombra, los espectros y las criaturas del Rey Podrido. A diferencia del **Verilium** de las montañas de Stomur (defensivo, repele Mobius), los minerales de Delfos potencian armas, pociones y ungüentos capaces de dañar activamente a las criaturas del este. Su naturaleza exacta y su procesamiento son secretos celosamente guardados por los Artema.
 
-### Caza en El Modrig
-Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **El Modrig** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stomur.
+### Caza en el Grimm
+Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **el Grimm** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stomur.
 
 ### El ave del Faro
 Delfos es el único lugar del mundo donde habita y se cultiva una especie de ave cuya excreta, procesada mediante un método secreto, produce el material combustible que alimenta la **llama verde del Gran Faro de Esteria**. La luz que quema espectros, poseídos y criaturas controladas por Rey Podrido depende de esta isla remota.

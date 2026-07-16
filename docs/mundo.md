@@ -61,7 +61,7 @@ Esta reconstrucción representa regiones físicas históricas. No contiene reino
 |--------|------|-------------------|-------|
 | Stomur | Cordillera | Gran barrera entre el Gherin y el Grimm. Continua en el centro y el sur; quebrada en el norte. | [Ver ficha](mundo/stigria/stomur.md) |
 | El Gherin | Macrorregión occidental | División gheran compuesta por el Paso del Oriente y las franjas de Sturm, Eldenheim, Durr y Undland. | [Ver ficha](mundo/stigria/gherin.md) |
-| El Grimm | Macrorregión oriental | Mitad oriental de Stigria. Comprende Rauven al noreste y Mahren al este de Stomur. | [Ver Stigria](mundo/stigria/stigria.md) |
+| El Grimm | Macrorregión oriental | Mitad oriental de Stigria. Comprende Rauven al noreste y Mahren al este de Stomur. | [Ver ficha](mundo/stigria/grimm.md) |
 
 ### Historia
 
@@ -109,9 +109,9 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 
 **Costas del Verano** (5, 7, 10): Descendientes de los Hijos del Sol, esclavos escapados de tres islas de Astria que se fundieron en un solo pueblo en Suntarys (Alessya). Los tres reinos comparten origen, sangre y lengua. Lideraron la rebelión desde la costa suroeste del Gherin.
 
-**Paso del Oriente** (6, 11): linajes gheran mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que alcanzaban El Bramo desde El Modrig a través de los fiordos fragmentados y amenazaban cruzar el Foso de la Calamidad hacia el Gherin. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
+**Paso del Oriente** (6, 11): linajes gheran mezclados con otras culturas desde antiguo. Forjados en la lucha contra las bestias que alcanzaban El Bramo desde el Grimm a través de los fiordos fragmentados y amenazaban cruzar el Foso de la Calamidad hacia el Gherin. Montaña e industria en Veleskaria, misticismo y fortaleza en Sindria.
 
-**Tierra de la Bruma** (8, 9, 12): Descendientes de la **Gente de la Bruma** (Kystvaer), el pueblo que habitó la Mørkkyst (Costa Negra / Modrig) durante milenios. Expulsados por el despertar del Rey Podrido, cruzaron el Stomur a pie y fundaron Kyst, Lyng y Bjorn en el sur del Gherin. Su inspiración cultural es nórdica (danesa). Kyst es el puerto pesquero de acantilados, Lyng el valle fértil del brezo, Bjorn la fortaleza del bosque y la frontera este contra el Stomur. Los tres reinos existían antes del Raikim: fueron conquistados, no creados. Recuperaron sus nombres originales en la rebelión. Cedieron la península donde se alzó Kalos a los astrianos disidentes.
+**Tierra de la Bruma** (8, 9, 12): Descendientes de la **Gente de la Bruma** (Kystvaer), el pueblo que habitó la Mørkkyst (Costa Negra / Grimm) durante milenios. Expulsados por el despertar del Rey Podrido, cruzaron el Stomur a pie y fundaron Kyst, Lyng y Bjorn en el sur del Gherin. Su inspiración cultural es nórdica (danesa). Kyst es el puerto pesquero de acantilados, Lyng el valle fértil del brezo, Bjorn la fortaleza del bosque y la frontera este contra el Stomur. Los tres reinos existían antes del Raikim: fueron conquistados, no creados. Recuperaron sus nombres originales en la rebelión. Cedieron la península donde se alzó Kalos a los astrianos disidentes.
 
 En la Rebelión del Amanecer, el Valle de Hierro formó el **Bloque de Hierro** (leales a Grimar Valgard). Las Costas del Verano, Paso del Oriente y Tierra de la Bruma formaron el **Bloque del Amanecer** (rebeldes). Todos los reinos del Amanecer abandonaron el sufijo -gard al declarar la rebelión —salvo Kyst, Lyng y Bjorn, que restauraron sus nombres originales previos a la conquista.
 

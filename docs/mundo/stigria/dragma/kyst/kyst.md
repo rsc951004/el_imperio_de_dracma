@@ -26,13 +26,13 @@ Pendiente
 **Tierra de la Bruma.** El más costero de los tres reinos de la Gente de la Bruma, al sur del Gherin. Acantilados al oeste que dan al Estrecho de la Tríada; su costa real y sus puertos se abren al este, lindando con Bjorn. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
 
 ## Origen
-Kyst es uno de los tres reinos fundados por la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este de la cordillera Stomur.
+Kyst es uno de los tres reinos fundados por la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llamal Grimm—, al este de la cordillera Stomur.
 
 Los Kystvaer nacieron en un paisaje hostil: bruma perpetua, bestias, oscuridad. Pero no lo rechazaron. Lo adaptaron. Aprendieron a vivir donde todo quería matarlos. Generaciones enteras forjaron ritos, armas, casas y costumbres en equilibrio con aquella tierra.
 
 Cuando despertó **Rey Podrido** —algo más que una bestia, una criatura poseída por un Mobius, que no mata para comer sino para extinguir—, ese equilibrio se rompió. Ya no se podía adaptar. Huyeron.
 
-Navegaron al sur por mar hasta que las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Modrig y cruzaron Stomur **a pie** —caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gherin, pero los pobladores del centro los rechazaron. Se replegaron al sur y allí fundaron Kyst, Lyng y Bjorn.
+Navegaron al sur por mar hasta que las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Grimm y cruzaron Stomur **a pie** —caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gherin, pero los pobladores del centro los rechazaron. Se replegaron al sur y allí fundaron Kyst, Lyng y Bjorn.
 
 Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos a las costas del Gherin, no pudieron entrar por el Verano, entonces conocido como la **Costa Desolada**. Siguieron al este y encontraron en los Kystvaer refugio. La Gente de la Bruma ya había luchado contra un ser dominado por un Mobius y conocía el peligro del culto. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**.
 

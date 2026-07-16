@@ -27,5 +27,6 @@ Durante la resistencia contra el Raikim Valgard, tres ciudades se ganaron el tí
 - `docs/mundo/stigria/historia-antigua.md`
 - `docs/mundo/stigria/gherin.md`
 - `docs/mundo/stigria/stomur.md`
+- `docs/mundo/stigria/grimm.md`
 - `docs/mundo/stigria/gheran.md`
 - `referencias-visuales/stigria/boceto-stigria-v2.png`

@@ -40,5 +40,5 @@ Guarnición militar permanente. Vigilancia del Foso. Operación y custodia del G
 - `docs/mundo/stigria/dragma/kalos/kalos.md`
 - `docs/mundo/stigria/malakia.md`
 - `docs/mundo/stigria/gherin.md`
-- `docs/mundo/stigria/modrig.md`
+- `docs/mundo/stigria/grimm.md`
 - `docs/personajes/rey-podrido.md`

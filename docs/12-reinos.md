@@ -34,11 +34,11 @@ Descendientes de los Hijos del Sol, los esclavos escapados de tres islas de Astr
 Lysarya · Zephyrya · Vesperya
 
 ### Paso del Oriente (cambiaron a -ria)
-Este del Gherin. Linajes gheran mezclados con otras culturas. Forjados contra las bestias del Modrig. Nombres de sonoridad eslava.
+Este del Gherin. Linajes gheran mezclados con otras culturas. Forjados contra las bestias del Grimm. Nombres de sonoridad eslava.
 Veleskaria · Sindria
 
 ### Tierra de la Bruma (conservan el nombre original)
-Los tres reinos del sur del Gherin. Descendientes de la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** (la Costa Negra, el Modrig actual). Expulsados por el despertar del Rey Podrido, huyeron al sur por mar y cruzaron Stomur a pie. Rechazados por los pobladores del centro, se asentaron en el sur, donde fundaron sus tres reinos. Los veranos los llamaron «los del oriente» por estar al este del Estrecho de la Tríada. Su inspiración cultural es nórdica (danesa).
+Los tres reinos del sur del Gherin. Descendientes de la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** (la Costa Negra, el Grimm actual). Expulsados por el despertar del Rey Podrido, huyeron al sur por mar y cruzaron Stomur a pie. Rechazados por los pobladores del centro, se asentaron en el sur, donde fundaron sus tres reinos. Los veranos los llamaron «los del oriente» por estar al este del Estrecho de la Tríada. Su inspiración cultural es nórdica (danesa).
 Kyst · Lyng · Bjorn
 
 Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión —salvo Kyst, Lyng y Bjorn, cuyos nombres originales fueron restaurados tras siglos de conquista—. El cambio no fue uniforme: cada grupo de reinos tuvo su propia transformación del sufijo.
@@ -99,9 +99,9 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 
 ## Los tres reinos de los Gente de la Bruma
 
-Los tres reinos de la Tierra de la Bruma descienden de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este del Stomur.
+Los tres reinos de la Tierra de la Bruma descienden de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llamal Grimm—, al este del Stomur.
 
-Nacieron en un paisaje hostil de bruma perpetua, bestias y oscuridad. Pero no lo rechazaron: lo adaptaron. Cuando despertó el **Rey Podrido** —un ser dominado por un Mobius, que mata para extinguir, no para comer—, ese equilibrio se rompió. Huyeron al sur por mar. Las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Modrig y cruzaron Stomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gherin, pero los pobladores del centro los rechazaron. Se replegaron al sur y fundaron Kyst, Lyng y Bjorn.
+Nacieron en un paisaje hostil de bruma perpetua, bestias y oscuridad. Pero no lo rechazaron: lo adaptaron. Cuando despertó el **Rey Podrido** —un ser dominado por un Mobius, que mata para extinguir, no para comer—, ese equilibrio se rompió. Huyeron al sur por mar. Las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Grimm y cruzaron Stomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gherin, pero los pobladores del centro los rechazaron. Se replegaron al sur y fundaron Kyst, Lyng y Bjorn.
 
 Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos, los Gente de la Bruma los acogieron. Ya sabían lo que era un Mobius. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**. La ciudadela fue sitiada por el Raikim durante siglos. Jamás cayó.
 
@@ -130,7 +130,7 @@ Los tres reinos del Verano descienden de **Suntarys**, la gran ciudadela que los
 ## Clave histórica
 
 - **Suntarys** fue la ciudadela de los Hijos del Sol en la isla de **Alessya** (la Isla Hermosa). Escudo de Kalos contra las peregrinaciones negras astrianas. Destruida por los Valgard en un ataque anunciado; la población ya había evacuado al continente. Los tres reinos del Verano descienden de sus fundadores.
-- **Mørkkyst** es el nombre que los Gente de la Bruma dan al Modrig: la Costa Negra, su hogar ancestral. Allí vivieron en equilibrio con la bruma y las bestias hasta que el despertar del Rey Podrido los forzó a huir.
+- **Mørkkyst** es el nombre que los Gente de la Bruma dan al Grimm: la Costa Negra, su hogar ancestral. Allí vivieron en equilibrio con la bruma y las bestias hasta que el despertar del Rey Podrido los forzó a huir.
 - **Edicto del Amanecer:** escrito por Loryan Solaryss, respuesta al Raikim. Fundamento del Imperio de Dragma.
 - Solaryss hoy es casa noble en Zephyrya, sin corona.
 - 17 Raiks gobernaron Valgard: primero Rudgar, último Grimar (Grimar de Piedra).

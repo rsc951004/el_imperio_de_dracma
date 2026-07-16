@@ -8,21 +8,21 @@ Cada reino ocupa un bloque de celdas (la mayoría 3×3, algunos expandidos o red
 
 ```
        1a  1b  1c │ 2a  2b  2c │ 3a  3b  3c  │  4a   4b   4c  │ 5a  5b  5c
-A1    Fl  Fl  Fl │ Fl  Fl  Fl │ ≈≈  ≈≈  ≈≈  │  Vk   Vk   Es★ │ Mal  Mal  Mod
-A2    Fl  Fl* Fl │ Fl  Fl  Fl │ ≈≈  Pen ≈≈  │  Vk   Vk*  Vk  │ Bra  --   Mod
-A3    Fl  Fl  Fl │ Fl  Fl  Fl │ ≈≈  Pen ≈≈  │  Sd   Sd*  Sd  │ Mal  Mal  Mod
+A1    Fl  Fl  Fl │ Fl  Fl  Fl │ ≈≈  ≈≈  ≈≈  │  Vk   Vk   Es★ │ Mal  Mal  Gri
+A2    Fl  Fl* Fl │ Fl  Fl  Fl │ ≈≈  Pen ≈≈  │  Vk   Vk*  Vk  │ Bra  --   Gri
+A3    Fl  Fl  Fl │ Fl  Fl  Fl │ ≈≈  Pen ≈≈  │  Sd   Sd*  Sd  │ Mal  Mal  Gri
 ──────┼──────────┼───────────┼──────────────┼─────┬───────────┼─────────────
-B1    St  St  St │ Sk  Sk  Sk │ Wf  Wf  Wf  │ Est  Est  Est   │ Mod  Mod  Mod
-B2    St  St* St │ Sk  Sk* Sk │ Wf  Wf* Wf  │ Est  Est  Est   │ Mod  Mod  Mod
-B3    St  St  St │ Sk  Sk  Sk │ Wf  Eld  Dr▲ │ Est  Est  Est   │ Mod  Mod  Mod
+B1    St  St  St │ Sk  Sk  Sk │ Wf  Wf  Wf  │ Est  Est  Est   │ Gri  Gri  Gri
+B2    St  St* St │ Sk  Sk* Sk │ Wf  Wf* Wf  │ Est  Est  Est   │ Gri  Gri  Gri
+B3    St  St  St │ Sk  Sk  Sk │ Wf  Eld  Dr▲ │ Est  Est  Est   │ Gri  Gri  Gri
 ──────┼──────────┼───────────┼──────────────┼─────────────────┼─────────────
-C1    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Eld  Eld │ Est  Est  Est   │ Mod  Mod  Mod
-C2    Lm  Lm* Lm │ Vs  Vs* Vs │ Eld▼ Eld Eld │ Est  Est  Est   │ Mod  Mod  Mod
-C3    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Au  Au  │ Est  Est  Est   │ Mod  Mod  Mod
+C1    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Eld  Eld │ Est  Est  Est   │ Gri  Gri  Gri
+C2    Lm  Lm* Lm │ Vs  Vs* Vs │ Eld▼ Eld Eld │ Est  Est  Est   │ Gri  Gri  Gri
+C3    Lm  Lm  Lm │ Vs  Vs  Vs │ Au  Au  Au  │ Est  Est  Est   │ Gri  Gri  Gri
 ──────┼──────────┼───────────┼──────────────┼─────────────────┼─────────────
-D1    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Yl  │ Est  Est  Est   │ Mod  Mod  Mod
-D2    Zf  Zf* Zf │ El  El* El │ Yl  Yl* Yl  │ Est  Est  Est   │ Mod  Mod  Mod
-D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  Mod  Mod
+D1    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Yl  │ Est  Est  Est   │ Gri  Gri  Gri
+D2    Zf  Zf* Zf │ El  El* El │ Yl  Yl* Yl  │ Est  Est  Est   │ Gri  Gri  Gri
+D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Gri  Gri  Gri
 ```
 
 | Símbolo | Significado |
@@ -38,7 +38,7 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | `Pen` | Península septentrional |
 | `--` | Fuera de cuadrícula / sin asignar |
 | `Est` | Cordillera Stomur |
-| `Mod` | El Modrig (mitad oriental maldita) |
+| `Gri` | El Grimm (mitad oriental maldita) |
 | `Bra` | El Bramo (reducto de Rey Podrido) |
 | `Mal` | Malakia (reino histórico partido) |
 
@@ -286,7 +286,7 @@ Bloque: filas B1-D3, columnas 4a-4c (9 celdas, vertical).
 | B1-4c | NE | Grieta del Este | Abismo oriental |
 | B2-4a | O | Laderas de Hierro | Falda occidental (lado Waffengard) |
 | B2-4b | * | Corazón de Stomur | Núcleo de la cordillera |
-| B2-4c | E | Laderas Umbrías | Falda oriental (lado Modrig) |
+| B2-4c | E | Laderas Umbrías | Falda oriental (lado Grimm) |
 | C1-4a | O | Paso de los Mercaderes | Ruta comercial oeste-este |
 | C3-4b | S | Stomur Bajo | Estribaciones meridionales |
 | D3-4c | SE | Raíz Partida | Extremo sureste de la cordillera |
@@ -303,7 +303,7 @@ Bloque: filas A1-A3, columnas 5a-5b (parcial). Al otro lado del Foso.
 | A2-5a | * | El Bramo | Trono de Rey Podrido |
 | A3-5a | S | Malakia Sur | Tierras anegadas |
 
-> Malakia ocupa la franja 5a-5b en filas A1 y A3. El Bramo solo la celda A2-5a. La columna 5c pertenece a El Modrig.
+> Malakia ocupa la franja 5a-5b en filas A1 y A3. El Bramo solo la celda A2-5a. La columna 5c pertenece al Grimm.
 
 ### Protectorados
 
@@ -332,11 +332,11 @@ Bloque: celdas dispersas entre Waffengard, Aurelia y Stomur.
 
 > **Eldengaria original (Eld▼).** Los vestigios de la antigua Eldengard —corazón del Valgard pre-imperial— se conservan como barrio histórico envuelto por la expansión de la capital moderna. Los reyes de los 12 Reinos residen aquí cuando visitan la ciudad.
 
-### El Modrig [Mod]
+### El Grimm [Gri]
 
 Bloque: filas A1-D3, columnas 5a-5c (12 celdas, vertical). Tierra maldita al este de Stomur. Sin detallar en este tablero.
 
-> Ver `docs/mundo/stigria/modrig.md`.
+> Ver `docs/mundo/stigria/grimm.md`.
 
 ---
 
