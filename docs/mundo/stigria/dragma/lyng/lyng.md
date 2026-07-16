@@ -19,24 +19,24 @@ Pendiente
 ## Título del gobernante
 **Rey del Valle** o **Reina del Valle**. Forma abreviada entre monarcas: Rey Valle o Reina Valle.
 
-El título tiene origen en la posición central de Lyng: el reino más cercano al Gran Valle que conduce a Eldengaria. Durante siglos, Lyng fue el proveedor agrícola de los Val occidentales asentados al norte. Cuando aquellos Val se replegaron hacia el noreste, el título permaneció en Lyng. Lo que empezó como una designación geográfica —«el reino que da al valle»— se convirtió con el tiempo en una afirmación de identidad. Los reyes del Valle no gobiernan el Gran Valle, pero sin ellos el Gran Valle no come.
+El título tiene origen en la posición central de Lyng: el reino más cercano al Gran Valle que conduce a Eldengaria. Durante siglos, Lyng fue el proveedor agrícola de los pobladores occidentales asentados al norte. Cuando aquellos pobladores se replegaron hacia el noreste, el título permaneció en Lyng. Lo que empezó como una designación geográfica —«el reino que da al valle»— se convirtió con el tiempo en una afirmación de identidad. Los reyes del Valle no gobiernan el Gran Valle, pero sin ellos el Gran Valle no come.
 
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. A diferencia de los reinos del Verano —creados por el Raikim—, Lyng ya existía siglos antes. Fue conquistado por el Raikim, que le impuso el sufijo -gard como marca de dominio. Con la rebelión se lo arrancó y recuperó su nombre original.
 
 ## Afiliación geográfica
-**Tierra de la Bruma.** El corazón agrícola de los Caminantes de la Bruma, al sur del Gerin. Al norte de Kyst y Bjorn, limitando al norte con el Gran Valle y Eldengaria. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
+**Tierra de la Bruma.** El corazón agrícola de los Caminantes de la Bruma, al sur del Gherin. Al norte de Kyst y Bjorn, limitando al norte con el Gran Valle y Eldengaria. Nombres de sonoridad nórdica (convención de escritura, no cultura del mundo).
 
 ## Origen
-Lyng es uno de los tres reinos fundados por la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este de la cordillera Estomur.
+Lyng es uno de los tres reinos fundados por la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este de la cordillera Stomur.
 
 Los Kystvaer nacieron en un paisaje hostil: bruma perpetua, bestias, oscuridad. Pero no lo rechazaron. Lo adaptaron. Aprendieron a vivir donde todo quería matarlos. Generaciones enteras forjaron ritos, armas, casas y costumbres en equilibrio con aquella tierra.
 
 Cuando despertó **Rey Podrido** —algo más que una bestia, una criatura poseída por un Mobius, que no mata para comer sino para extinguir—, ese equilibrio se rompió. Ya no se podía adaptar. Huyeron.
 
-Navegaron al sur por mar hasta que las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Modrig y cruzaron el Estomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gerin, pero los Val del centro los rechazaron. Se replegaron al sur y allí fundaron Kyst, Lyng y Bjorn.
+Navegaron al sur por mar hasta que las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Modrig y cruzaron Stomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gherin, pero los pobladores del centro los rechazaron. Se replegaron al sur y allí fundaron Kyst, Lyng y Bjorn.
 
-Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos a las costas del Gerin, no pudieron entrar por el Verano, entonces conocido como la **Costa Desolada**. Siguieron al este y encontraron en los Kystvaer refugio. Los Caminantes de la Bruma ya habían luchado contra un ser dominado por un Mobius y conocían el peligro del culto. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**.
+Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos a las costas del Gherin, no pudieron entrar por el Verano, entonces conocido como la **Costa Desolada**. Siguieron al este y encontraron en los Kystvaer refugio. Los Caminantes de la Bruma ya habían luchado contra un ser dominado por un Mobius y conocían el peligro del culto. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**.
 
 ## Geografía
 Lyng ocupa la franja central y más septentrional de la Tierra de la Bruma, al norte de Kyst y Bjorn. Es una **llanura fértil** salpicada de brezales: el *lyng* que le da nombre tiñe los campos de un violeta apagado en primavera. No es el violeta brillante de Zephyrya: es un color sobrio, resistente, de tierra trabajada.
@@ -70,11 +70,11 @@ Regido por la Casa Korn. El rey reinante es **Ravn Korn ★**. Consorte pendient
 Los tres monarcas —Skaer Fjord (Kyst), Ravn Korn (Lyng) y Skov Borg (Bjorn)— son primos entre sí. El circuito matrimonial cerrado de la Tierra de la Bruma mantiene los lazos de sangre entre las tres casas reinantes.
 
 ## Historia
-Lyng fue fundado por los Kystvaer tras cruzar el Estomur y ser rechazados por los Val del centro. Es uno de los tres asentamientos originales de la Gente de la Bruma en el Gerin.
+Lyng fue fundado por los Kystvaer tras cruzar Stomur y ser rechazados por los pobladores del centro. Es uno de los tres asentamientos originales de la Gente de la Bruma en el Gherin.
 
-Los Val occidentales que atravesaban la región en su paso del Valle Central hacia el noroeste jamás plantaron nada en estas tierras. Las consideraban estériles. El problema no era el suelo: era que los Val occidentales solo sabían pelear y forjar. No tenían oficio para la tierra.
+Los pobladores occidentales que atravesaban la región en su paso del Valle Central hacia el noroeste jamás plantaron nada en estas tierras. Las consideraban estériles. El problema no era el suelo: era que los pobladores occidentales solo sabían pelear y forjar. No tenían oficio para la tierra.
 
-La Gente de la Bruma, en cambio, venía de algo peor que un clima áspero. Acostumbrados a sembrar en las laderas pedregosas del Mørkkyst y a extraer cosecha de suelos que nadie más habría mirado dos veces, se extendieron por el centro y el sur del valle y lo cultivaron todo. Con éxito. Hoy Lyng abastece a Kyst, a Bjorn y a buena parte de Eldengaria. Lo que los Val del oeste descartaron como yermo, los brumenses lo convirtieron en el granero del imperio.
+La Gente de la Bruma, en cambio, venía de algo peor que un clima áspero. Acostumbrados a sembrar en las laderas pedregosas del Mørkkyst y a extraer cosecha de suelos que nadie más habría mirado dos veces, se extendieron por el centro y el sur del valle y lo cultivaron todo. Con éxito. Hoy Lyng abastece a Kyst, a Bjorn y a buena parte de Eldengaria. Lo que los pobladores del oeste descartaron como yermo, los brumenses lo convirtieron en el granero del imperio.
 
 El Raikim Valgard conquistó el reino siglos después y le impuso el nombre de **Lynggard**. A diferencia de los Dominios del Verano —creados desde cero por el Raikim—, Lyng ya existía. El -gard fue una imposición, no una fundación.
 

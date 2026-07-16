@@ -7,7 +7,7 @@ Tercer Emperador de Dragma. Nieto de Harald Mormund, hijo de Roderic Mormund. Ca
 Aborreció la severidad de su padre Roderic y de su abuelo Harald. Quiso que sus hijos fueran queridos y se sintieran queridos, pero como él mismo nunca supo lo que eso significaba, se pasó al extremo: los mimó sin medida.
 
 ## Matrimonio
-Contrajo matrimonio con una mujer que no era de linaje puramente Val ni provenía de Sindria. De este matrimonio mixto nacieron sus tres hijos: Mijail, Ilena y Vilem.
+Contrajo matrimonio con una mujer que no pertenecía a los linajes de Sangre de Hierro ni provenía de Sindria. De este matrimonio mixto nacieron sus tres hijos: Mijail, Ilena y Vilem.
 
 ## Historia
 La laxitud de Godric tuvo consecuencias que él no supo ver a tiempo. Cuando Mijail desarrolló su obsesión por la caída Casa Valgard, su desprecio por el Stamengerin y sus delirios de poder absoluto, Godric miró para otro lado. Amargamente pensaba que su hijo simplemente no sabía nada de la vida o de la guerra porque nunca había vivido una.

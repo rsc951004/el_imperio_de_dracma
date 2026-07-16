@@ -1,7 +1,7 @@
 # Dragma
 
 ## Tipo
-Imperio compuesto. Estado soberano que abarca la práctica totalidad de El Gerin, en el continente de Stigria.
+Imperio compuesto. Estado soberano que abarca la práctica totalidad de El Gherin, en el continente de Stigria.
 
 ## Naturaleza
 Dragma **no es un estado unitario**. Es un imperio formado por entidades políticas con distintos grados de soberanía y sus propios sistemas de gobierno. La unidad la provee la corona imperial, pero cada componente conserva autonomía en sus asuntos internos.
@@ -15,7 +15,7 @@ El imperio se compone de cuatro tipos de entidad territorial:
 | 1 | Capital imperial | 1 | Eldengaria. Ciudadela construida sobre las ruinas de Eldengard. Sede del Emperador. |
 | 2 | Reinos | 12 | Soberanos en sus asuntos internos. Cada uno con casa real, título, ejército y reclamos territoriales propios. |
 | 3 | Protectorados | 7 | Semi-soberanos. Bajo protección directa del Emperador. Sin rey y sin pertenencia a ninguno de los 12 Reinos. |
-| 4 | Tierras intermedias | Varias | Territorios sin dueño dentro del Gerin: páramos, costas, tierras entre reinos. Bienes comunes con administración propia autónoma. |
+| 4 | Tierras intermedias | Varias | Territorios sin dueño dentro del Gherin: páramos, costas, tierras entre reinos. Bienes comunes con administración propia autónoma. |
 
 El Stamengerin es la única institución con autoridad para modificar esta estructura, incorporar territorios, unir o partir reinos y reformar la organización de las coronas. Pese a esta facultad, nunca ha alterado los doce reinos ni el sistema de un emperador y doce reyes. Después de la fundación del imperio, solo la ha ejercido para incorporar oficialmente los territorios de ultramar como protectorados y aprobar sus formas de gobierno y autonomía.
 
@@ -61,7 +61,7 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | 7 | Paicel | Territorio de ultramar | Príncipe Regente | Isla al sureste de Delfos. |
 
 ## Las Tierras Intermedias
-Territorios sin dueño dentro del Gerin que no pertenecen a ningún reino ni protectorado. Páramos, costas y franjas de tierra entre fronteras. Son considerados bienes comunes del imperio, administrados por el **Gran Señor de los Caminos** con autonomía propia.
+Territorios sin dueño dentro del Gherin que no pertenecen a ningún reino ni protectorado. Páramos, costas y franjas de tierra entre fronteras. Son considerados bienes comunes del imperio, administrados por el **Gran Señor de los Caminos** con autonomía propia.
 
 ## Dinastías imperiales
 

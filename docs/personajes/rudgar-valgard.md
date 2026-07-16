@@ -1,7 +1,7 @@
 # Rudgar Valgard
 
 ## Identidad
-Primer Raik de Valgard. Héroe de la resistencia contra Rey Podrido durante el colapso de la Edad de los Mil Reinos. Posteriormente convertido en tirano. Conocido como **el Martillo Sangriento** y, tras su traición, como **el Traidor Rojo** (por su cabello y larga barba roja). Pertenece a la **Casa Valgard**, cuyo nombre proviene de la fortaleza de Eldengard (Val + gard: «fortaleza de los Val»).
+Primer Raik de Valgard. Héroe de la resistencia contra Rey Podrido durante el colapso de la Edad de los Mil Reinos. Posteriormente convertido en tirano. Conocido como **el Martillo Sangriento** y, tras su traición, como **el Traidor Rojo** (por su cabello y larga barba roja). Pertenece a la **Casa Valgard**, descendiente del antiguo clan de Val el Terrible.
 
 ## Apariencia
 Cabello y barba larga de color rojo intenso. De físico imponente, forjado en la guerra.
@@ -9,7 +9,7 @@ Cabello y barba larga de color rojo intenso. De físico imponente, forjado en la
 ## Historia
 
 ### La resistencia contra Rey Podrido
-Durante los años finales de la Edad de los Mil Reinos, cuando Rey Podrido expandió la sombra desde Malakia sobre El Gerin, Rudgar emergió como líder militar. Junto a Lux Terin, organizó a los reinos dispersos del oeste y lideró la resistencia que logró hacer retroceder a las criaturas y espectros. Bajo su mando, los Portadores abrieron el Foso de la Calamidad y se fundó Esteria.
+Durante los años finales de la Edad de los Mil Reinos, cuando Rey Podrido expandió la sombra desde Malakia sobre El Gherin, Rudgar emergió como líder militar. Junto a Lux Terin, organizó a los reinos dispersos del oeste y lideró la resistencia que logró hacer retroceder a las criaturas y espectros. Bajo su mando, los Portadores abrieron el Foso de la Calamidad y se fundó Esteria.
 
 Cuando Rudgar tenía catorce años, llegó tarde a una partida de la Casa Valgard que había sido atacada. Entre los supervivientes encontró a un niño esclavo de diez años, sin nombre, que ya era invocador aunque nadie lo sabía. Lo tomó bajo su protección. El niño se convertiría en Lux Terin.
 

@@ -20,7 +20,7 @@ Stalheim
 **Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard por tradición y lealtad a los orígenes del continente.
 
 ## Afiliación geográfica
-**Valle de Hierro.** Noroeste del Gerin. Nombres de sonoridad germánica (convención de escritura, no cultura del mundo).
+**Valle de Hierro.** Noroeste del Gherin. Nombres de sonoridad germánica (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

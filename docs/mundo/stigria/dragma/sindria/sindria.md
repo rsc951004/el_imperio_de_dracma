@@ -22,7 +22,7 @@ El título es una declaración política: el Foso de la Calamidad se encuentra e
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard, abandonó el sufijo -gard y adoptó el nombre de Sindria.
 
 ## Afiliación geográfica
-**Paso del Oriente.** Noreste del Gerin. Forjada en la lucha contra las bestias que, desde El Modrig, serpenteaban por los fiordos fragmentados hacia El Bramo y amenazaban con alcanzar el Gerin a través del Foso de la Calamidad. Nombres de sonoridad eslava (convención de escritura, no cultura del mundo).
+**Paso del Oriente.** Noreste del Gherin. Forjada en la lucha contra las bestias que, desde El Modrig, serpenteaban por los fiordos fragmentados hacia El Bramo y amenazaban con alcanzar el Gherin a través del Foso de la Calamidad. Nombres de sonoridad eslava (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno
@@ -31,7 +31,7 @@ Regido por la Casa Goros. El rey reinante es **Uriel Goros ★**, Rey del Foso. 
 ## Historia
 
 ### Origen: Malakia Occidental
-Sindria no fue fundada como tal. Su origen se remonta a **Malakia Occidental**, el fragmento del antiguo reino de Malakia que quedó del lado del Gerin tras la apertura del Foso de la Calamidad.
+Sindria no fue fundada como tal. Su origen se remonta a **Malakia Occidental**, el fragmento del antiguo reino de Malakia que quedó del lado del Gherin tras la apertura del Foso de la Calamidad.
 
 Tras la muerte de Alastor Ormur a manos del Rey Podrido y la partición de Malakia en dos, los nobles supervivientes de la mitad occidental —encabezados por una rama superviviente de la **Casa Ormur**— refundaron su reino. Veinte años después de la fundación de Esteria, **Malakia Occidental** renació como estado independiente. Mantuvo ese nombre hasta la llegada del Raikim.
 

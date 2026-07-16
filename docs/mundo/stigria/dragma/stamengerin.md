@@ -1,10 +1,10 @@
 # Stamengerin
 
 ## Tipo
-Asamblea histórica de las casas del Gerin. Máxima autoridad extraordinaria para la sucesión dinástica y la reestructuración territorial o institucional del imperio.
+Asamblea histórica de las casas del Gherin. Máxima autoridad extraordinaria para la sucesión dinástica y la reestructuración territorial o institucional del imperio.
 
 ## Nombre
-El nombre «Stamengerin» une una antigua raíz germánica asociada con la estirpe y el linaje con el nombre del Gerin. Su sentido tradicional es «los linajes reunidos del Gerin».
+El nombre «Stamengerin» une una antigua raíz germánica asociada con la estirpe y el linaje con el nombre del Gherin. Su sentido tradicional es «los linajes reunidos del Gherin».
 
 ## Emplazamiento
 Se reunió originalmente en la planicie bajo el Monte Dracma, sobre las ruinas humeantes de Eldengard. El lugar elegido era simbólico: el imperio nacía exactamente donde la tiranía del Raikim había muerto.
@@ -12,13 +12,13 @@ Se reunió originalmente en la planicie bajo el Monte Dracma, sobre las ruinas h
 ## Historia
 
 ### Fundación
-Tras la derrota de Grimar Valgard, los doce territorios —recién liberados del Raikim— cayeron en el caos. Para evitar una segunda Edad de los Mil Reinos, las casas nobles del Gerin —muchas de ellas descendientes lejanas del pueblo Val— se reunieron en las ruinas de Eldengard y firmaron un tratado fundacional. En aquella primera reunión solo participaron casas nobles.
+Tras la derrota de Grimar Valgard, los doce territorios —recién liberados del Raikim— cayeron en el caos. Para evitar una segunda Edad de los Mil Reinos, las casas nobles del Gherin —muchas de ellas descendientes lejanas de los antiguos clanes gheran— se reunieron en las ruinas de Eldengard y firmaron un tratado fundacional. En aquella primera reunión solo participaron casas nobles.
 
 La elección del primer emperador no fue sencilla. Los ocho reinos del Amanecer se habían alzado en rebelión; los cuatro del Hierro habían permanecido leales al Raikim. Elegir a una casa del Amanecer habría sido leído como una revancha. Elegir a una del Hierro habría sido una traición a la rebelión.
 
 **Harald Mormund** fue la solución. Su casa era noble de Sturmgard —Hierro de origen—, pero los Mormund habían roto con su reino y se habían unido al Bloque del Amanecer durante la guerra. Harald dirigió el ataque final sobre Eldengard. Era un guerrero del Amanecer con raíces en el Hierro: el candidato que impedía que Dragma naciera como vencedores contra vencidos.
 
-Las casas con sonoridad germánica —como la extinta Casa Valgard o la Casa Mormund— son aquellas cuyo linaje Val es más marcado, aunque ni siquiera ellas se parecen ya a los antiguos nómadas de Stigria.
+Las casas con sonoridad germánica —como la extinta Casa Valgard o la Casa Mormund— son aquellas con una herencia más marcada de los Sangre de Hierro.
 
 ### Reforma de la Concordia
 Bajo la Concordia de Vilem Mormund, el Stamengerin fue ampliado para incluir representantes de casas nobles y comunes, aunque se excluyó a los reyes. Desde entonces puede ser convocado para resolver un quiebre de dinastía o para reformar la estructura territorial e institucional del imperio.

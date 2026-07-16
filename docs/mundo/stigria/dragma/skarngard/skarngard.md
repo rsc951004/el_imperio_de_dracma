@@ -7,7 +7,7 @@ Reino del Imperio de Dragma.
 Skarngard
 
 ## Etimología
-El nombre deriva de **Skarn**, la serpiente alada de la diosa Gera. Es una alusión a la leyenda, no una referencia geográfica: Skarngard está en el noroeste del Gerin, lejos del Estomur. El Raikim nombró sus dominios combinando raíces mitológicas Val con el sufijo *-gard* como marca de dominio. La raíz *Skarn-* fue elegida por su peso simbólico como montura de la diosa.
+El origen de la raíz *Skarn-* permanece pendiente de establecer. El sufijo *-gard* corresponde al nombre impuesto durante el Raikim.
 
 
 ## Capital
@@ -23,7 +23,7 @@ Kragholm
 **Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Es la cuna de la Casa Valgard, la dinastía que gobernó el Raikim antes del Imperio. Conserva el sufijo -gard.
 
 ## Afiliación geográfica
-**Valle de Hierro.** Noroeste del Gerin. Cuna de la Casa Valgard. Nombres de sonoridad germánica (convención de escritura, no cultura del mundo).
+**Valle de Hierro.** Noroeste del Gherin. Cuna de la Casa Valgard. Nombres de sonoridad germánica (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno
@@ -40,8 +40,7 @@ Minería de montaña y forja tradicional. Ricas vetas de Verilium en su territor
 
 ## Referencias
 - `docs/12-reinos.md`
-- `docs/entidades/gera.md`
-- `docs/mundo/stigria/estomur.md`
+- `docs/mundo/stigria/gherin.md`
 
 ## Guía de nombres
 **Germánica.** Los nombres de personas y lugares de Skarngard siguen la tradición germánica.

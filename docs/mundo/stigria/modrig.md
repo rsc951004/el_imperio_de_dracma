@@ -13,11 +13,10 @@ Hoy, tras siglos de contención, El Bramo —al norte, casi aislado— permanece
 
 ## Etimología
 
-El nombre «Modrig» es de origen Val. La tradición oral lo vincula con la palabra que designa la mitad oriental —la tierra que quedó del otro lado del cuerpo petrificado de Gera—, aunque la raíz exacta se ha perdido. Para los Val, el Modrig era la tierra que la diosa no bendijo directamente: el lado oscuro, donde las criaturas que sobrevivieron a la purga se refugiaron y donde la Sombra encontraría siglos después su dominio natural.
+**Modrig** es una denominación posterior para las tierras orientales que los antiguos Gheran llamaban **el Grimm**. El origen exacto del nombre Modrig permanece sin establecer.
 
 ## Referencias
-- `docs/entidades/gera.md`
-- `docs/mundo/stigria/estomur.md`
-- `docs/mundo/stigria/gerin.md`
+- `docs/mundo/stigria/stomur.md`
+- `docs/mundo/stigria/gherin.md`
 - `docs/mundo/stigria/malakia.md`
 - `docs/mundo/stigria/bramo.md`

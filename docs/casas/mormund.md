@@ -21,7 +21,7 @@ El Stamengerin eligió a Harald como primer emperador en un gesto de reconciliac
 
 Diecisiete emperadores Mormund gobernaron Dragma. La dinastía terminó con Aldric Mormund (17.º), quien nunca se casó y rechazó postular parientes, provocando el quiebre de la dinastía. La Casa Mormund retornó a su estatus previo como casa noble de Sturmgard.
 
-Linaje con sonoridad germánica (linaje Val marcado).
+Linaje con sonoridad germánica y marcada herencia de los Sangre de Hierro.
 
 ## Miembros relevantes
 

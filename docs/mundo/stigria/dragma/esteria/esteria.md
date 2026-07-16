@@ -4,19 +4,19 @@
 Protectorado del Imperio de Dragma. Ciudad fortaleza. Conocida comúnmente como **Ciudad Esteria**.
 
 ## Ubicación
-Norte del continente, en el borde mismo del **Foso de la Calamidad**, sobre el límite oriental de El Gerin. Al norte de la ciudad se alza un gigantesco muro de Verilium coronado por una gran torre: el **Gran Faro de Esteria**, que se yergue justo a la orilla del corte continental.
+Norte del continente, en el borde mismo del **Foso de la Calamidad**, sobre el límite oriental de El Gherin. Al norte de la ciudad se alza un gigantesco muro de Verilium coronado por una gran torre: el **Gran Faro de Esteria**, que se yergue justo a la orilla del corte continental.
 
 ## Historia
 
 ### Origen
 Esteria no fue diseñada por el Raikim. Su fundación es anterior: ocurrió durante la guerra de resistencia contra Rey Podrido y sus espectros, en los años finales de la Edad de los Mil Reinos.
 
-Tras la caída de Malakia a manos de Rey Podrido, la sombra se expandió implacablemente sobre El Gerin. Lux Terin y Rudgar Valgard lideraron la resistencia: organizaron a los reinos dispersos del oeste, unieron a herreros, guerreros y Portadores bajo una sola causa.
+Tras la caída de Malakia a manos de Rey Podrido, la sombra se expandió implacablemente sobre El Gherin. Lux Terin y Rudgar Valgard lideraron la resistencia: organizaron a los reinos dispersos del oeste, unieron a herreros, guerreros y Portadores bajo una sola causa.
 
 Grandes y poderosos Portadores abrieron el **Foso de la Calamidad**: un corte continental que partió el continente en dos y desconectó El Bramo del resto de Stigria. Las aguas llenaron el desgarro, creando un estrecho que cortó el paso a las criaturas y espectros del este. Sobre el borde occidental de ese corte se fundó Esteria.
 
 ### Construcción
-Esteria fue construida íntegramente con **Verilium**, el mineral extraído de las montañas de Estomur. Herreros y artesanos de todo El Gerin viajaron al este para levantar la muralla. Familias enteras se asentaron junto a la fortaleza, formando una ciudad cuya única razón de ser era la defensa del mundo civilizado contra la oscuridad.
+Esteria fue construida íntegramente con **Verilium**, el mineral extraído de las montañas de Stomur. Herreros y artesanos de todo El Gherin viajaron al este para levantar la muralla. Familias enteras se asentaron junto a la fortaleza, formando una ciudad cuya única razón de ser era la defensa del mundo civilizado contra la oscuridad.
 
 ### El Gran Faro
 En el extremo norte de la muralla se alzó el Gran Faro. Su luz no es fuego común: es una **luz verde** que, encendida cada noche, barre el horizonte oriental y quema a los espectros, poseídos y criaturas controladas por Rey Podrido. La naturaleza exacta de esta luz es un secreto custodiado por los guardianes del Faro desde la fundación de la ciudad.
@@ -39,6 +39,6 @@ Guarnición militar permanente. Vigilancia del Foso. Operación y custodia del G
 - `docs/mundo/stigria/dragma/sindria/sindria.md`
 - `docs/mundo/stigria/dragma/kalos/kalos.md`
 - `docs/mundo/stigria/malakia.md`
-- `docs/mundo/stigria/gerin.md`
+- `docs/mundo/stigria/gherin.md`
 - `docs/mundo/stigria/modrig.md`
 - `docs/personajes/rey-podrido.md`

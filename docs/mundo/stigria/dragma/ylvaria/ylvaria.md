@@ -20,7 +20,7 @@ Iratzar
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**Tierras Antiguas**. Sureste del Gerin. Nombres de sonoridad gaélica-vasca (convención de escritura, no cultura del mundo).
+**Tierras Antiguas**. Sureste del Gherin. Nombres de sonoridad gaélica-vasca (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

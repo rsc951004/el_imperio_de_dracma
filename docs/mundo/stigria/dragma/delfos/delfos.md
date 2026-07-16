@@ -14,10 +14,10 @@ Isla tropical. Selvas densas, acantilados de roca oscura, grutas minerales, play
 ### Descubrimiento
 Delfos fue descubierta durante la **Edad de los Mil Reinos** por **Artemis**, un navegante elyrio —heredero de la tradición marinera de Suntarys— que se perdió en el mar oriental. La isla ya tenía nombre propio: los delfines que rodeaban sus costas le dieron el que conserva hasta hoy.
 
-Al regresar al Gerin, Artemis fue reconocido como su descubridor. Según la costumbre de aquella era, su nombre se convirtió en el de la casa que gobernaría la isla: la **Casa Artema**.
+Al regresar al Gherin, Artemis fue reconocido como su descubridor. Según la costumbre de aquella era, su nombre se convirtió en el de la casa que gobernaría la isla: la **Casa Artema**.
 
 ### Bajo el Raikim
-Durante siglos, Delfos existió al margen de las estructuras políticas del Gerin. El **Raikim Valgard** —tiranía terrestre sin interés naval— jamás reclamó formalmente la isla ni intentó gobernarla. Delfos permaneció como un punto remoto en mapas antiguos, frecuentado solo por pescadores, exiliados y quienes preferían no ser encontrados.
+Durante siglos, Delfos existió al margen de las estructuras políticas del Gherin. El **Raikim Valgard** —tiranía terrestre sin interés naval— jamás reclamó formalmente la isla ni intentó gobernarla. Delfos permaneció como un punto remoto en mapas antiguos, frecuentado solo por pescadores, exiliados y quienes preferían no ser encontrados.
 
 ### Incorporación al Imperio
 Fue durante la **dinastía Amschel** (segunda dinastía imperial) cuando un **Stamengerin** votó la incorporación de Delfos como protectorado del Imperio de Dragma. Para entonces, los Artema llevaban siglos gobernando la isla. El Stamengerin no impuso un nuevo gobernante: reconoció a los regentes existentes y formalizó su estatus dentro del imperio.
@@ -41,10 +41,10 @@ Delfos es un refugio. A lo largo de los siglos, la isla ha recibido a quienes hu
 ## Economía
 
 ### Minerales extraños
-Las grutas de Delfos albergan **tierras extrañas** —minerales con propiedades ofensivas contra la Sombra, los espectros y las criaturas del Rey Podrido. A diferencia del **Verilium** de las montañas de Estomur (defensivo, repele Mobius), los minerales de Delfos potencian armas, pociones y ungüentos capaces de dañar activamente a las criaturas del este. Su naturaleza exacta y su procesamiento son secretos celosamente guardados por los Artema.
+Las grutas de Delfos albergan **tierras extrañas** —minerales con propiedades ofensivas contra la Sombra, los espectros y las criaturas del Rey Podrido. A diferencia del **Verilium** de las montañas de Stomur (defensivo, repele Mobius), los minerales de Delfos potencian armas, pociones y ungüentos capaces de dañar activamente a las criaturas del este. Su naturaleza exacta y su procesamiento son secretos celosamente guardados por los Artema.
 
 ### Caza en El Modrig
-Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **El Modrig** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Estomur.
+Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **El Modrig** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stomur.
 
 ### El ave del Faro
 Delfos es el único lugar del mundo donde habita y se cultiva una especie de ave cuya excreta, procesada mediante un método secreto, produce el material combustible que alimenta la **llama verde del Gran Faro de Esteria**. La luz que quema espectros, poseídos y criaturas controladas por Rey Podrido depende de esta isla remota.

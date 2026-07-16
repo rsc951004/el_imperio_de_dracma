@@ -52,3 +52,16 @@ Archivo vivo. Se agregan nuevos pendientes al final. Se eliminan al canonizarse.
 | 17 | **Brenngard previo: Siran Grigoryan** | Antes de Wolfen gobernó Grigoryan. ¿Extinguida? ¿Depuesta? ¿Cambio de nombre? |
 | 18 | **12-reinos.md: quitar banner de borrador** | Sigue diciendo «Documento de revisión. No es canónico hasta que se ratifique». Ya es canónico de facto. |
 | 19 | **Fechas dS para eventos del Raikim** | En cronologia.md: fundación de Esteria, Malakia Occidental, Raikim, etc. sin año concreto. |
+
+---
+
+## Sesión 2026-07-16 — Historia antigua de Stigria
+
+| Tema | Qué falta |
+|------|-----------|
+| **Primera invasión** | Identidad, procedencia y objetivos de los invasores que pusieron fin a la Edad del Bronce. |
+| **Era posterior al Bronce** | Nombre, límites y acontecimientos de la era comprendida entre la primera invasión y la historia política posterior. |
+| **Clanes y casas** | Proceso por el que los clanes gheran supervivientes se transformaron en las casas conocidas posteriormente. |
+| **Valgard y Eldengard** | Momento y circunstancias en que el antiguo clan Valgard quedó vinculado con la fortaleza gheran de Eldengard. |
+| **Skarngard** | Etimología de la raíz *Skarn-* tras retirarse su asociación con la serpiente de Ghera. |
+| **Malakia** | Su historia será repensada en una fase posterior; no se modificó durante la canonización de la historia antigua. |

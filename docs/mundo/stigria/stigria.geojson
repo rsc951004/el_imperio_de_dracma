@@ -53,7 +53,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Monte Dracma / Palacio Imperial", "code": "Dr", "zone": "Capital imperial", "culture": "Sagrado Val", "capital": [8.5, 5.5] },
+      "properties": { "name": "Monte Dracma / Palacio Imperial", "code": "Dr", "zone": "Capital imperial", "culture": "Sagrado gheran", "capital": [8.5, 5.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[8, 5], [9, 5], [9, 6], [8, 6], [8, 5]]] }
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Eldengard original (Ciudad de los Reyes)", "code": "Eld▼", "zone": "Capital imperial", "culture": "Ruinas Val", "capital": [] },
+      "properties": { "name": "Eldengard original (Ciudad de los Reyes)", "code": "Eld▼", "zone": "Capital imperial", "culture": "Ruinas gheran", "capital": [] },
       "geometry": { "type": "Polygon", "coordinates": [[[6, 7], [7, 7], [7, 8], [6, 8], [6, 7]]] }
     },
     {
@@ -123,12 +123,12 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Estomur", "code": "Est", "zone": "Cordillera", "culture": "—", "capital": [10.5, 7.5] },
+      "properties": { "name": "Stomur", "code": "Est", "zone": "Cordillera", "culture": "—", "capital": [10.5, 7.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[9, 3], [12, 3], [12, 12], [9, 12], [9, 3]]] }
     },
     {
       "type": "Feature",
-      "properties": { "name": "Malakia Norte", "code": "Mal", "zone": "El Modrig", "culture": "Val / Sombra", "capital": [13, 0.5] },
+      "properties": { "name": "Malakia Norte", "code": "Mal", "zone": "El Modrig", "culture": "Gheran / Sombra", "capital": [13, 0.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[12, 0], [14, 0], [14, 1], [12, 1], [12, 0]]] }
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Malakia Sur", "code": "Mal", "zone": "El Modrig", "culture": "Val / Sombra", "capital": [13, 2.5] },
+      "properties": { "name": "Malakia Sur", "code": "Mal", "zone": "El Modrig", "culture": "Gheran / Sombra", "capital": [13, 2.5] },
       "geometry": { "type": "Polygon", "coordinates": [[[12, 2], [14, 2], [14, 3], [12, 3], [12, 2]]] }
     },
     {

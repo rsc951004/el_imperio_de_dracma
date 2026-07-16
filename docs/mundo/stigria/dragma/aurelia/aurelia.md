@@ -20,7 +20,7 @@ Doracia
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**Tierras Antiguas**. Centro-sur del Gerin. Nombres de sonoridad latina (convención de escritura, no cultura del mundo).
+**Tierras Antiguas**. Centro-sur del Gherin. Nombres de sonoridad latina (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

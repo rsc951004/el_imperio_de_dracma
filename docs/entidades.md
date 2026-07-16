@@ -37,4 +37,6 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Portadores | Condición humana | Humanos que heredan un Blesk natural: puente unidireccional a un Init en Irij. | [Ver ficha](entidades/portadores.md) |
 | Invocadores | Condición humana | Humanos que roban y alteran un Blesk ajeno para conectarse a múltiples Inits. | [Ver ficha](entidades/invocadores.md) |
 | Rey Podrido | Entidad híbrida | Fusión entre un joven Portador y el Mobius de Stigria. No es humano. Reside en El Bramo. | [Ver ficha](personajes/rey-podrido.md) |
-| Gera | Deidad (mito Val) | Diosa primigenia de los Val. Purgó las bestias de Stigria con fuego divino y se convirtió en piedra viva para formar el Estomur. Madre del Gerin. | [Ver ficha](entidades/gera.md) |
+| Ghera | Deidad (tradición gheran) | Diosa que habría expulsado a los Grimmen y formado Stomur junto con Smürr. | [Ver ficha](entidades/ghera.md) |
+| Smürr | Criatura mítica | Serpiente Plateada y montura de Ghera en la tradición gheran. | [Ver ficha](entidades/smurr.md) |
+| Grimmen | Criaturas terrestres | Depredadores prehistóricos de Stigria, distintos de los Mobius. | [Ver ficha](entidades/grimmen.md) |

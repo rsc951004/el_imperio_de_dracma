@@ -22,7 +22,7 @@ Tras años de guerra, la resistencia liderada por Lux Terin y Rudgar Valgard log
 Al sur de El Bramo, la costa se deshace en un sinfín de **fiordos fragmentados**: entradas de mar, canales e islotes que forman un laberinto entre El Bramo y El Modrig. Esa costa rota es la vía por la que las criaturas del este serpentean para alcanzar El Bramo, y desde allí amenazar El Gerin por el istmo o el Foso.
 
 ## Referencias
-- `docs/mundo/stigria/estomur.md`
+- `docs/mundo/stigria/stomur.md`
 - `docs/mundo/stigria/modrig.md`
 - `docs/mundo/stigria/bramo.md`
 - `docs/mundo/stigria/dragma/sindria/sindria.md`

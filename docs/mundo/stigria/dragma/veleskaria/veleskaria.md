@@ -20,7 +20,7 @@ Stancra
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**Paso del Oriente.** Este del Gerin. Val mezclados con otras culturas desde antiguo. Nombres de sonoridad eslava (convención de escritura, no cultura del mundo).
+**Paso del Oriente.** Este del Gherin. Linajes gheran mezclados con otras culturas desde antiguo. Nombres de sonoridad eslava (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno

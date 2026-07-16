@@ -34,11 +34,11 @@ Descendientes de los Hijos del Sol, los esclavos escapados de tres islas de Astr
 Lysarya · Zephyrya · Vesperya
 
 ### Paso del Oriente (cambiaron a -ria)
-Este del Gerin. Val mezclados con otras culturas. Forjados contra las bestias del Modrig. Nombres de sonoridad eslava.
+Este del Gherin. Linajes gheran mezclados con otras culturas. Forjados contra las bestias del Modrig. Nombres de sonoridad eslava.
 Veleskaria · Sindria
 
 ### Tierra de la Bruma (conservan el nombre original)
-Los tres reinos del sur del Gerin. Descendientes de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** (la Costa Negra, el Modrig actual). Expulsados por el despertar del Rey Podrido, huyeron al sur por mar y cruzaron el Estomur a pie. Rechazados por los Val del centro, se asentaron en el sur, donde fundaron sus tres reinos. Los veranos los llamaron «los del oriente» por estar al este del Estrecho de la Tríada. Su inspiración cultural es nórdica (danesa).
+Los tres reinos del sur del Gherin. Descendientes de la **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** (la Costa Negra, el Modrig actual). Expulsados por el despertar del Rey Podrido, huyeron al sur por mar y cruzaron Stomur a pie. Rechazados por los pobladores del centro, se asentaron en el sur, donde fundaron sus tres reinos. Los veranos los llamaron «los del oriente» por estar al este del Estrecho de la Tríada. Su inspiración cultural es nórdica (danesa).
 Kyst · Lyng · Bjorn
 
 Los 8 reinos que no son del Valle de Hierro se alzaron contra Grimar Valgard en la **Rebelión del Amanecer** y formaron el **Bloque del Amanecer** durante la guerra. Abandonaron el sufijo -gard al declarar la rebelión —salvo Kyst, Lyng y Bjorn, cuyos nombres originales fueron restaurados tras siglos de conquista—. El cambio no fue uniforme: cada grupo de reinos tuvo su propia transformación del sufijo.
@@ -91,7 +91,7 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 | Zephyrya | Planicies del suroeste, turismo curativo, flor del Verano | Casa Zephyryon, grecolatino. Playas hermosas y atardeceres violetas. Filosofía simple y libre. |
 | Kyst | Puerto Gris, costa pesquera, niebla perpetua | Casa Fjord, nórdico. Tierra de la Bruma. Pescadería que alimenta la región. Clima gris y nublado. |
 | Lyng | Valle fértil, brezales, granero del imperio | Casa Korn, nórdico. Tierra de la Bruma. Agricultura masiva. Proveedor de Eldengaria. |
-| Bjorn | Centro comercial del sur, último bosque sagrado | Casa Borg, nórdico. Tierra de la Bruma. Paso obligado a Kalos. Memoria del bosque arrasado por los Val. |
+| Bjorn | Centro comercial del sur, último bosque sagrado | Casa Borg, nórdico. Tierra de la Bruma. Paso obligado a Kalos. Memoria del bosque arrasado por las fuerzas de Valgard. |
 | Vesperya | Sureste del Verano, guardián del Estrecho de la Tríada | Casa Valeryus, grecolatino. Reino del desafío: hedonismo, libertad. La Tríada: tres arcos de piedra. |
 | Sindria | Noreste, culto al Dios Negro | Casa Goros, eslavo. Paso del Oriente. |
 
@@ -99,9 +99,9 @@ Cada gobernante porta un título ceremonial vinculado al concepto de su reino. E
 
 ## Los tres reinos de los Gente de la Bruma
 
-Los tres reinos de la Tierra de la Bruma descienden de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este del Estomur.
+Los tres reinos de la Tierra de la Bruma descienden de los **Gente de la Bruma** (Kystvaer), el pueblo que durante milenios habitó la **Mørkkyst** —la Costa Negra, lo que hoy el imperio llama El Modrig—, al este del Stomur.
 
-Nacieron en un paisaje hostil de bruma perpetua, bestias y oscuridad. Pero no lo rechazaron: lo adaptaron. Cuando despertó el **Rey Podrido** —un ser dominado por un Mobius, que mata para extinguir, no para comer—, ese equilibrio se rompió. Huyeron al sur por mar. Las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Modrig y cruzaron el Estomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gerin, pero los Val del centro los rechazaron. Se replegaron al sur y fundaron Kyst, Lyng y Bjorn.
+Nacieron en un paisaje hostil de bruma perpetua, bestias y oscuridad. Pero no lo rechazaron: lo adaptaron. Cuando despertó el **Rey Podrido** —un ser dominado por un Mobius, que mata para extinguir, no para comer—, ese equilibrio se rompió. Huyeron al sur por mar. Las corrientes del **Cayo Negro** los bloquearon. Desembarcaron en la punta sur del Modrig y cruzaron Stomur **a pie** —de ahí su título: los que caminaron la bruma a través de la montaña—. Llegaron al Valle Central del Gherin, pero los pobladores del centro los rechazaron. Se replegaron al sur y fundaron Kyst, Lyng y Bjorn.
 
 Cuando los primeros astrianos disidentes —que rechazaban el culto al Dios Negro— llegaron perseguidos, los Gente de la Bruma los acogieron. Ya sabían lo que era un Mobius. Repelieron el ataque y cedieron a los astrianos la península del sureste, donde los ayudaron a levantar **Kalos**. La ciudadela fue sitiada por el Raikim durante siglos. Jamás cayó.
 
@@ -153,4 +153,3 @@ Los tres reinos del Verano descienden de **Suntarys**, la gran ciudadela que los
 - Loryan Solaryss: ubicación temporal
 - Triple Corona de Suntarys: nombres
 - Detonante concreto de la rebelión en el Verano (caja negra)
-

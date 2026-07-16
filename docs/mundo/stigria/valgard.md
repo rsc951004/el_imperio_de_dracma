@@ -4,12 +4,14 @@
 Estado histórico. Gobernó la práctica totalidad del continente de Stigria antes de la fundación del Imperio de Dragma.
 
 ## Nombre
-Valgard significa «la fortaleza de los Val» y originalmente designaba la fortaleza de Eldengard, en el Valle Central. Con el tiempo, el nombre pasó a la casa de su líder —la **Casa Valgard**— y, más tarde, al estado que esa casa construyó.
+Valgard toma su nombre de **Val el Terrible**, caudillo gheran de la primera invasión. Sus seguidores dieron origen a los Sangre de Hierro y su clan, Valgard, se convirtió en el predominante entre ellos. Mucho después, el nombre pasó a la **Casa Valgard** y al estado construido por esa casa.
+
+La transformación del clan antiguo en casa y el momento en que Valgard quedó vinculado con Eldengard no están documentados.
 
 ## Etapas
 
 ### Valgard (fase protectora)
-Organización nacida de los Val atrincherados en la fortaleza de Eldengard, en el Valle Central, durante el colapso final de la Edad de los Mil Reinos. Una amenaza conjunta —Mobius y criaturas del lado este de Verim— estuvo a punto de arrasar el continente. La fortaleza de Eldengard resistió. Los reinos supervivientes pidieron ayuda. Valgard se expandió desde el centro del continente, inicialmente como fuerza protectora. Muchos se sumaron de forma voluntaria.
+Organización nacida alrededor de la Casa Valgard, atrincherada en la antigua fortaleza gheran de Eldengard durante el colapso final de la Edad de los Mil Reinos. Una amenaza conjunta —Mobius y criaturas del lado este de Verim— estuvo a punto de arrasar el continente. La fortaleza resistió. Los reinos supervivientes pidieron ayuda. Valgard se expandió desde el centro del continente, inicialmente como fuerza protectora. Muchos se sumaron de forma voluntaria.
 
 ### Raikim Valgard (fase tiránica)
 El Raikim no fue una invención de Rudgar. A lo largo de la historia de Stigria existieron otros Raiks y Raikim, formas de gobierno absoluto cuyo recuerdo se ha desvanecido casi por completo. Rudgar se inspiró en esos precedentes antiguos para establecer el suyo.

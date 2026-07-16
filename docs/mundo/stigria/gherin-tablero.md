@@ -1,4 +1,4 @@
-# Tablero de El Gerin (referencia rápida)
+# Tablero de El Gherin (referencia rápida)
 
 > ⚠️ **DESACTUALIZADO.** Merenia, Aurelia y Ylvaria fueron reemplazados por Kyst, Lyng y Bjorn (Tierra de la Bruma). Tierras Antiguas ya no existe. TODO: rehacer el tablero completo con los nuevos nombres y la región Tierra de la Bruma.
 
@@ -31,13 +31,13 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | `★` | Protectorado / ciudad libre |
 | `Es` | Esteria (ciudad fortaleza en el Foso) |
 | `Ka` | Kalos (ciudadela circular al sureste) |
-| `Dr▲` | Monte Dracma / Palacio Imperial (tallado en la roca de Estomur) |
+| `Dr▲` | Monte Dracma / Palacio Imperial (tallado en la roca de Stomur) |
 | `Eld` | Eldengaria (capital imperial, distrito urbano) |
-| `Eld▼` | Eldengard original — Ciudad de los Reyes (ruinas Val, hoy barrio histórico) |
+| `Eld▼` | Eldengard original — Ciudad de los Reyes (ruinas gheran, hoy barrio histórico) |
 | `≈≈` | Mar interior / fiordo del norte |
 | `Pen` | Península septentrional |
 | `--` | Fuera de cuadrícula / sin asignar |
-| `Est` | Cordillera Estomur |
+| `Est` | Cordillera Stomur |
 | `Mod` | El Modrig (mitad oriental maldita) |
 | `Bra` | El Bramo (reducto de Rey Podrido) |
 | `Mal` | Malakia (reino histórico partido) |
@@ -78,7 +78,7 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | Au | Aurelia | Tierras Antiguas | Latina (nombres) |
 | Yl | Ylvaria | Tierras Antiguas | Gaélica-vasca (nombres) |
 
-> Tierras Antiguas = región de 3 reinos sureste del Gerin: Merenia, Aurelia, Ylvaria.
+> Tierras Antiguas = región de 3 reinos sureste del Gherin: Merenia, Aurelia, Ylvaria.
 
 ---
 
@@ -86,7 +86,7 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 
 ### Flamengard [Fl] — Valle de Hierro
 
-Bloque expandido: filas A1-A3, columnas 1a-2c (18 celdas, 6×3). Domina el norte del Gerin.
+Bloque expandido: filas A1-A3, columnas 1a-2c (18 celdas, 6×3). Domina el norte del Gherin.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
@@ -109,7 +109,7 @@ Bloque expandido: filas A1-A3, columnas 1a-2c (18 celdas, 6×3). Domina el norte
 | A3-2b | S2 | Flamhain | Bosque sagrado sur |
 | A3-2c | SE2 | Flamzinn | Fortín de la península |
 
-> Flamengard es el reino más extenso del Gerin (18 celdas). Su expansión hacia el este llega hasta el fiordo interior que lo separa del Paso del Oriente.
+> Flamengard es el reino más extenso del Gherin (18 celdas). Su expansión hacia el este llega hasta el fiordo interior que lo separa del Paso del Oriente.
 
 ### Skarngard [Sk] — Valle de Hierro
 
@@ -275,20 +275,20 @@ Bloque: filas D1-D3, columnas 3a-3c.
 
 ## Zonas sin reino
 
-### Estomur [Est] — Cordillera central
+### Stomur [Est] — Cordillera central
 
 Bloque: filas B1-D3, columnas 4a-4c (9 celdas, vertical).
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
 | B1-4a | NO | Pico Quebrado | Paso septentrional |
-| B1-4b | N | Alta Estomur | Cumbres eternas |
+| B1-4b | N | Alta Stomur | Cumbres eternas |
 | B1-4c | NE | Grieta del Este | Abismo oriental |
 | B2-4a | O | Laderas de Hierro | Falda occidental (lado Waffengard) |
-| B2-4b | * | Corazón de Estomur | Núcleo de la cordillera |
+| B2-4b | * | Corazón de Stomur | Núcleo de la cordillera |
 | B2-4c | E | Laderas Umbrías | Falda oriental (lado Modrig) |
 | C1-4a | O | Paso de los Mercaderes | Ruta comercial oeste-este |
-| C3-4b | S | Estomur Bajo | Estribaciones meridionales |
+| C3-4b | S | Stomur Bajo | Estribaciones meridionales |
 | D3-4c | SE | Raíz Partida | Extremo sureste de la cordillera |
 
 > Las celdas B3-4a, B3-4c, C1-4b, C1-4c, C2-4a, C2-4b, C2-4c, C3-4a, C3-4c, D1-4a, D1-4b, D1-4c, D2-4a, D2-4b, D2-4c, D3-4a, D3-4b quedan pendientes de nombrar.
@@ -312,29 +312,29 @@ Bloque: filas A1-A3, columnas 5a-5b (parcial). Al otro lado del Foso.
 | A1-4c | Es★ | Esteria | Ciudad fortaleza junto al Foso |
 | D3-3c | Ka★ | Kalos | Ciudadela circular sobre acantilado al sur |
 
-> Esteria y Kalos son Ciudades Libres de la Tiranía y protectorados del Imperio. Ocupan una celda cada una, no un bloque 3×3. Esteria custodia el Foso al norte (linde con Veleskaria); Kalos vigila el Paso del Bramo al sureste (linde con Ylvaria), punto más angosto del Foso donde las bestias podrían intentar el cruce hacia El Gerin.
+> Esteria y Kalos son Ciudades Libres de la Tiranía y protectorados del Imperio. Ocupan una celda cada una, no un bloque 3×3. Esteria custodia el Foso al norte (linde con Veleskaria); Kalos vigila el Paso del Bramo al sureste (linde con Ylvaria), punto más angosto del Foso donde las bestias podrían intentar el cruce hacia El Gherin.
 
 ### Eldengaria [Eld] — Capital imperial
 
-Bloque: celdas dispersas entre Waffengard, Aurelia y Estomur.
+Bloque: celdas dispersas entre Waffengard, Aurelia y Stomur.
 
 | Coord | Pos | Nombre | Tipo |
 |-------|-----|--------|------|
-| B3-3c | Dr▲ | Monte Dracma / Palacio Imperial | Promontorio sagrado de Estomur. Palacio tallado en la cara expuesta de la roca. Residencia de la dinastía imperial |
+| B3-3c | Dr▲ | Monte Dracma / Palacio Imperial | Promontorio sagrado de Stomur. Palacio tallado en la cara expuesta de la roca. Residencia de la dinastía imperial |
 | B3-3b | N | Eldengaria Norte | Distrito alto. Barrios nobles, cuarteles |
 | C1-3b | O | Eldengaria Central | Corazón administrativo. Táburas, gremios, mercados mayores |
 | C1-3c | E | Ladera de Dracma | Ciudad en cascada. Callejuelas, escalinatas, templos excavados |
 | C2-3b | SO | Eldengaria Baja | Barrios populares, talleres, puerto fluvial |
 | C2-3c | SE | Pies del Dracma | Fundiciones, canteras, muralla baja |
-| C2-3a | Eld▼ | Eldengard original | Ciudad de los Reyes. Ruinas de la fortaleza Val primigenia. Residencia temporal de los monarcas de Dragma cuando visitan la capital |
+| C2-3a | Eld▼ | Eldengard original | Ciudad de los Reyes. Ruinas de la fortaleza gheran. Residencia temporal de los monarcas de Dragma cuando visitan la capital |
 
-> **Monte Dracma.** Sagrado para los antiguos Val por razones aún no reveladas. A sus pies se emplazó el primer Stamengerin. Harald Mormund fue electo emperador bajo su sombra y nombró al imperio en su honor. El Palacio Imperial está excavado en su cara oeste: interior tallado en la montaña, fachada monumental expuesta. La creencia popular dice que desde su terraza más alta se ve todo El Gerin. Físicamente imposible por curvatura, pero en boca del pueblo es verdad.
+> **Monte Dracma.** Sagrado para los antiguos Gheran por razones aún no reveladas. A sus pies se emplazó el primer Stamengerin. Harald Mormund fue electo emperador bajo su sombra y nombró al imperio en su honor. El Palacio Imperial está excavado en su cara oeste: interior tallado en la montaña, fachada monumental expuesta. La creencia popular dice que desde su terraza más alta se ve todo El Gherin. Físicamente imposible por curvatura, pero en boca del pueblo es verdad.
 
 > **Eldengaria original (Eld▼).** Los vestigios de la antigua Eldengard —corazón del Valgard pre-imperial— se conservan como barrio histórico envuelto por la expansión de la capital moderna. Los reyes de los 12 Reinos residen aquí cuando visitan la ciudad.
 
 ### El Modrig [Mod]
 
-Bloque: filas A1-D3, columnas 5a-5c (12 celdas, vertical). Tierra maldita al este de Estomur. Sin detallar en este tablero.
+Bloque: filas A1-D3, columnas 5a-5c (12 celdas, vertical). Tierra maldita al este de Stomur. Sin detallar en este tablero.
 
 > Ver `docs/mundo/stigria/modrig.md`.
 

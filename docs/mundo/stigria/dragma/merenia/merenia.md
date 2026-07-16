@@ -20,7 +20,7 @@ Aaltola
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**Tierras Antiguas**. Centro del Gerin. Nombres de sonoridad finesa (convención de escritura, no cultura del mundo).
+**Tierras Antiguas**. Centro del Gherin. Nombres de sonoridad finesa (convención de escritura, no cultura del mundo).
 
 
 ## Gobierno
