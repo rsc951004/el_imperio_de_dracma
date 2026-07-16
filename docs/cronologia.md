@@ -15,7 +15,7 @@ Las fechas marcadas con `~` son tentativas y serán validadas cuando el lore de 
 | **0** | **El Surgimiento.** Los Inits caen en Erebia, Stigria y Astria. Los Val viven en cavernas. El continente está infestado de monstruos. La población humana es escasa. |
 | **~2500** | **Llegada de los erebianos.** Primeros refugiados de Erebia alcanzan Stigria. Traen consigo el conocimiento de los Inits, el vínculo y la sangre de los Portadores. |
 | **~3500** | **Llegada de los astrianos.** Refugiados de Astria llegan a Stigria. Traen consigo el culto al Dios Negro. |
-| **~5000** | **Fundación de Malakia de la Bruma.** Primer reino con rey, corona y casa real en Stigria. Fundado por los Hombres de la Bruma bajo la dinastía Ormur. Comienza la Edad de los Mil Reinos. |
+| **~5000** | **Fundación de Malakia.** Primer reino con rey, corona y casa real en Stigria. Gobernado por la dinastía Ormur. Comienza la Edad de los Mil Reinos. |
 | ? | Disidentes del culto al Dios Negro fundan **Kalos**. |
 | ? | Un joven Portador toca al Mobius de Stigria. Nace el **Rey Podrido**. |
 | ? | El Rey Podrido asesina a **Alastor Ormur**. Caída de Malakia. La sombra se expande sobre El Gerin. |

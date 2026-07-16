@@ -10,7 +10,7 @@ Sindgard
 ## Capital
 Bezdansk
 ## Casa real
-- Fundadora: **Ormur** (rama superviviente de la dinastía de Malakia de la Bruma)
+- Fundadora: **Ormur** (rama superviviente de la dinastía de Malakia)
 - Actual: **Goros**
 
 ## Título del gobernante
@@ -31,7 +31,7 @@ Regido por la Casa Goros. El rey reinante es **Uriel Goros ★**, Rey del Foso. 
 ## Historia
 
 ### Origen: Malakia Occidental
-Sindria no fue fundada como tal. Su origen se remonta a **Malakia Occidental**, el fragmento del antiguo reino de Malakia de la Bruma que quedó del lado del Gerin tras la apertura del Foso de la Calamidad.
+Sindria no fue fundada como tal. Su origen se remonta a **Malakia Occidental**, el fragmento del antiguo reino de Malakia que quedó del lado del Gerin tras la apertura del Foso de la Calamidad.
 
 Tras la muerte de Alastor Ormur a manos del Rey Podrido y la partición de Malakia en dos, los nobles supervivientes de la mitad occidental —encabezados por una rama superviviente de la **Casa Ormur**— refundaron su reino. Veinte años después de la fundación de Esteria, **Malakia Occidental** renació como estado independiente. Mantuvo ese nombre hasta la llegada del Raikim.
 
@@ -48,7 +48,7 @@ Así nació una herida que nunca cicatrizó. El título de **Rey del Foso** que 
 Sindgard fue parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar Valgard. Abandonó el sufijo -gard y adoptó el nombre de **Sindria**.
 
 ## Concepto
-Noreste, culto al Dios Negro. Región donde el culto tiene arraigo histórico. Heredera de la tradición de Malakia Occidental y, antes de ella, de los Hombres de la Bruma.
+Noreste, culto al Dios Negro. Región donde el culto tiene arraigo histórico. Heredera de la tradición de Malakia Occidental.
 
 ### El culto sindrio
 El culto al Dios Negro practicado en Sindria es doctrinalmente distinto de la fe original que se daba en Astria —tanto que un astriano de los últimos días lo consideraría herejía.
@@ -72,7 +72,6 @@ Economía vinculada al culto y sus redes. Zona de influencia religiosa.
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/malakia.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
-- `docs/entidades/hombres-de-la-bruma.md`
 
 ## Guía de nombres
 **Rusa.** Los nombres de personas y lugares de Sindria siguen la tradición rusa.

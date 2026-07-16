@@ -66,7 +66,7 @@ mundo/
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Malakia | Reino histórico | Fundado por los Hombres de la Bruma. Partido en dos por el Foso. Hoy: Reino Podrido al este, Sindria al oeste. | [Ver ficha](mundo/stigria/malakia.md) |
+| Malakia | Reino histórico | Gobernado por la Casa Ormur. Partido en dos por el Foso. Hoy: Reino Podrido al este, Sindria al oeste. | [Ver ficha](mundo/stigria/malakia.md) |
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|

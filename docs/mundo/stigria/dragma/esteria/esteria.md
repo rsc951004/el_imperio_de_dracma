@@ -11,7 +11,7 @@ Norte del continente, en el borde mismo del **Foso de la Calamidad**, sobre el l
 ### Origen
 Esteria no fue diseñada por el Raikim. Su fundación es anterior: ocurrió durante la guerra de resistencia contra Rey Podrido y sus espectros, en los años finales de la Edad de los Mil Reinos.
 
-Tras la caída de Malakia de la Bruma a manos de Rey Podrido, la sombra se expandió implacablemente sobre El Gerin. Lux Terin y Rudgar Valgard lideraron la resistencia: organizaron a los reinos dispersos del oeste, unieron a herreros, guerreros y Portadores bajo una sola causa.
+Tras la caída de Malakia a manos de Rey Podrido, la sombra se expandió implacablemente sobre El Gerin. Lux Terin y Rudgar Valgard lideraron la resistencia: organizaron a los reinos dispersos del oeste, unieron a herreros, guerreros y Portadores bajo una sola causa.
 
 Grandes y poderosos Portadores abrieron el **Foso de la Calamidad**: un corte continental que partió el continente en dos y desconectó El Bramo del resto de Stigria. Las aguas llenaron el desgarro, creando un estrecho que cortó el paso a las criaturas y espectros del este. Sobre el borde occidental de ese corte se fundó Esteria.
 

@@ -40,7 +40,7 @@ D3    Zf  Zf  Zf │ El  El  El │ Yl  Yl  Ka★ │ Est  Est  Est   │ Mod  M
 | `Est` | Cordillera Estomur |
 | `Mod` | El Modrig (mitad oriental maldita) |
 | `Bra` | El Bramo (reducto de Rey Podrido) |
-| `Mal` | Malakia de la Bruma (reino histórico partido) |
+| `Mal` | Malakia (reino histórico partido) |
 
 ### Estructura de un bloque 3×3
 
@@ -301,7 +301,7 @@ Bloque: filas A1-A3, columnas 5a-5b (parcial). Al otro lado del Foso.
 |-------|-----|--------|------|
 | A1-5a | N | Malakia Norte | Ruinas del reino antiguo |
 | A2-5a | * | El Bramo | Trono de Rey Podrido |
-| A3-5a | S | Malakia Sur | Tierras sumergidas en bruma |
+| A3-5a | S | Malakia Sur | Tierras anegadas |
 
 > Malakia ocupa la franja 5a-5b en filas A1 y A3. El Bramo solo la celda A2-5a. La columna 5c pertenece a El Modrig.
 

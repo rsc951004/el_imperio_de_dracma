@@ -32,7 +32,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Drakar Valgard | Personaje histórico | Segundo Raik. Hijo de Rudgar. Heredó el trono tras la muerte de su padre. | [Ver ficha](personajes/drakar-valgard.md) |
 | Grimar Valgard | Personaje histórico | Decimoséptimo y último Raik. Grimar de Piedra. Convertido en piedra antes de morir. | [Ver ficha](personajes/grimar-valgard.md) |
 | Lux Terin | Personaje histórico | Primer Invocador del Sol en Stigria. Esclavo de los Val de Eldengard. Héroe y mártir. Asesinado por Rudgar. | [Ver ficha](personajes/lux-terin.md) |
-| Alastor Ormur | Personaje histórico | Último rey legítimo de Malakia de la Bruma. Asesinado por Rey Podrido. | [Ver ficha](personajes/alastor-ormur.md) |
+| Alastor Ormur | Personaje histórico | Último rey legítimo de Malakia. Asesinado por Rey Podrido. | [Ver ficha](personajes/alastor-ormur.md) |
 | Rey Podrido | Entidad híbrida | Fusión entre un Portador y el Mobius de Stigria. Usurpador de Malakia. Reside en El Bramo. | [Ver ficha](personajes/rey-podrido.md) |
 
 ## Monarcas de los 12 Reinos

@@ -5,10 +5,8 @@ Reino histórico. Hoy: región maldita.
 
 ## Historia
 
-### Malakia de la Bruma (Edad de los Mil Reinos)
-Fundada por los **Hombres de la Bruma** —una sub-etnia de los Val forjada en batalla contra las grandes bestias del este—, Malakia fue uno de los pocos reinos estables de la Edad de los Mil Reinos. Su nombre completo era **Malakia de la Bruma**, por la densa niebla que brotaba de la planicie norte de la cordillera Estomur y envolvía la región.
-
-Durante siglos, Malakia prosperó en El Modrig bajo el gobierno de la dinastía Ormur.
+### Malakia (Edad de los Mil Reinos)
+Malakia fue uno de los pocos reinos estables de la Edad de los Mil Reinos. Durante siglos prosperó en El Modrig bajo el gobierno de la dinastía Ormur.
 
 ### La caída
 En la parte más oriental de Malakia, casi rozando la Costa Negra, un joven Portador tocó al Mobius de Stigria —una entidad que llevaba años prisionera en las fauces de la montaña—. Por acción u omisión, por voluntad o accidente, el joven y el Mobius se fundieron. Nació **Rey Podrido**.
@@ -31,4 +29,3 @@ Al sur de El Bramo, la costa se deshace en un sinfín de **fiordos fragmentados*
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
 - `docs/personajes/rey-podrido.md`
 - `docs/personajes/alastor-ormur.md`
-- `docs/entidades/hombres-de-la-bruma.md`
