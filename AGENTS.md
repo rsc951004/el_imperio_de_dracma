@@ -20,6 +20,37 @@ depurado y versionado por agentes IA bajo supervisión humana.
 6. **Markdown puro:** Todo el contenido textual se escribe en Markdown. No se admiten formatos documentales binarios (docx, pdf). Las únicas excepciones son las imágenes de trabajo en `referencias-visuales/` y las referencias históricas de `protoversiones/referencias-visuales/`, según las reglas de cada carpeta.
 7. **Sin herramientas externas:** No se invocan scripts, compiladores ni herramientas de build durante la escritura. `build.sh` solo se usa bajo orden explícita.
 8. **Respetar la barrera:** `protoversiones/` tiene sus propias reglas. Leer su `AGENTS.md` antes de entrar.
+9. **Anti-fantasmeo:** Cuando el humano corrija, elimine o sustituya una afirmación, la versión descartada deja de formar parte del contexto válido. El agente debe reemplazarla junto con todas sus consecuencias y trabajar únicamente desde el canon vigente, según la regla detallada más adelante.
+
+---
+
+## Regla anti-fantasmeo
+
+Fantasmear es mantener en un texto rastros de una suposición errónea después de que fue corregida. El error reaparece como negación, contraste, explicación causal o referencia indirecta. La corrección debe reemplazar la premisa anterior y todas sus consecuencias, no agregarse como una aclaración.
+
+Esta regla es obligatoria al crear o editar canon nuevo. También puede utilizarse para revisar el canon ya escrito y detectar rastros de premisas descartadas; cualquier corrección resultante sigue el flujo normal de cambios canónicos y debe documentarse en `docs/notas.md`.
+
+Cuando el humano corrija, elimine o sustituya una afirmación:
+
+1. Tratar la corrección como un reemplazo del canon anterior, no como información adicional.
+2. Eliminar la afirmación descartada y todas las conclusiones derivadas de ella.
+3. Reconstruir el fragmento afectado utilizando únicamente el canon vigente.
+4. No mencionar la versión descartada, ni siquiera para negarla, contrastarla o explicar que nunca ocurrió.
+5. Evitar expresiones como «aunque no», «todavía no», «en realidad», «a diferencia de lo dicho» o equivalentes cuando solo existan para corregir una invención previa.
+6. No convertir la corrección del humano en una aclaración dentro de la obra.
+7. Conservar una negación únicamente si forma parte del canon por derecho propio y es narrativamente necesaria.
+8. Antes de responder o cerrar una edición, realizar una auditoría:
+   a. Identificar las premisas descartadas.
+   b. Buscar referencias directas o indirectas a ellas.
+   c. Eliminar sus rastros y reescribir desde el canon vigente.
+9. Si el humano solicita un historial de cambios, separar ese historial del texto narrativo o documental canónico.
+10. La versión final debe poder leerse como si el error nunca hubiera ocurrido.
+
+Prueba principal antes de cerrar una edición:
+
+> ¿Este detalle aparecería en el texto si la suposición equivocada nunca se hubiera formulado?
+
+Si la respuesta es no, probablemente es fantasmeo y el fragmento debe reconstruirse desde el canon vigente.
 
 ---
 
@@ -58,4 +89,4 @@ depurado y versionado por agentes IA bajo supervisión humana.
 
 ---
 
-_Versión: 1.2.0 | Proyecto 100% IA | Kilo como orquestador principal_
+_Versión: 1.3.0 | Proyecto 100% IA | Kilo como orquestador principal_
