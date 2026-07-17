@@ -21,6 +21,7 @@ depurado y versionado por agentes IA bajo supervisión humana.
 7. **Sin herramientas externas:** No se invocan scripts, compiladores ni herramientas de build durante la escritura. `build.sh` solo se usa bajo orden explícita.
 8. **Respetar la barrera:** `protoversiones/` tiene sus propias reglas. Leer su `AGENTS.md` antes de entrar.
 9. **Anti-fantasmeo:** Cuando el humano corrija, elimine o sustituya una afirmación, la versión descartada deja de formar parte del contexto válido. El agente debe reemplazarla junto con todas sus consecuencias y trabajar únicamente desde el canon vigente, según la regla detallada más adelante.
+10. **Mesa de trabajo:** `mesa-de-trabajo/` contiene ayudas memoria, bocetos, diagnósticos y estructuras pendientes de revisión. Nada de lo escrito allí es canon, prioridad, objetivo ni autorización para modificar el proyecto. Antes de utilizar una entrada, el agente debe contrastarla con `docs/` y `cuentos/`, y solo puede actuar sobre ella por instrucción concreta del humano.
 
 ---
 
@@ -102,6 +103,7 @@ La revisión retroactiva no autoriza a etiquetar posibilidades como hechos. Si e
 |---------|-----------|---------|-------------|
 | `cuentos/` | Cuentos terminados, uno por subcarpeta | ✅ Sí | ✅ Sí |
 | `docs/` | Lore, personajes, mundo, notas editoriales | ✅ Sí | ✅ Sí |
+| `mesa-de-trabajo/` | Ayudas memoria, bocetos y asuntos opcionales pendientes de revisión | ❌ No | Solo bajo instrucción |
 | `referencias-visuales/` | Mapas y bocetos visuales vigentes que apoyan el desarrollo del canon escrito | ❌ No por sí solos | ✅ Sí |
 | `protoversiones/` | Borradores antiguos y referencias visuales como cantera de rescate | ❌ No | Solo imágenes en `referencias-visuales/` |
 | `herramientas/` | Scripts auxiliares (build.sh) | N/A | Solo bajo orden |
@@ -131,4 +133,4 @@ La revisión retroactiva no autoriza a etiquetar posibilidades como hechos. Si e
 
 ---
 
-_Versión: 1.4.0 | Proyecto 100% IA | Kilo como orquestador principal_
+_Versión: 1.5.0 | Proyecto 100% IA | Kilo como orquestador principal_
