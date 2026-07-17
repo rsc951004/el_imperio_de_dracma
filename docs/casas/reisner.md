@@ -15,7 +15,7 @@
 
 ## Historia y descripción
 
-Casa real de Sturmgard. Los fiordos helados del norte. Reino de tormentas, acantilados y ventiscas. Hombres forjados en el frío extremo. Tierra pobre, gente dura. Permanecieron leales al Raikim durante la rebelión. La Casa Mormund, primera dinastía imperial de Dragma, tuvo su origen en Sturmgard, pero rompió con el Bloque del Hierro para unirse al Amanecer. Economía de pesca de subsistencia, ganadería de altura y forja de armas blancas. Nombres de sonoridad germánica.
+Casa real de Sturmgard. Los fiordos helados del norte forman un reino de tormentas, acantilados y ventiscas. Tierra pobre y de población endurecida por el frío. Permaneció leal al Raikim durante la rebelión. Su economía combina pesca de subsistencia, ganadería de altura y forja de armas blancas. Sus nombres toman sonoridad germánica.
 
 ## Miembros relevantes
 

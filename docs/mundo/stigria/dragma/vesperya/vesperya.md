@@ -35,14 +35,14 @@ Cuando el Raikim Valgard destruyó la ciudadela de Suntarys —ataque anunciado,
 Vesperya tiene el clima más cálido de los tres reinos del Verano. Su costa es rocosa, salpicada de puertos naturales, con el sol batiendo contra los muelles de piedra. No tiene las playas violetas de Zephyrya ni los acantilados inaccesibles de Lysarya: tiene **muelles, astilleros y caletas**. Cada ensenada es un fondeadero. Cada roca, un embarcadero improvisado.
 
 ### La Tríada
-En el punto más angosto del estrecho, donde Vesperya casi toca Merenia, se alzan **tres arcos de piedra colosales** construidos en la Edad de los Mil Reinos. Uno sigue en pie; los otros dos están medio derrumbados. Nadie cruza por arriba —peligro de derrumbe—, pero los barcos pasan **por debajo**: la entrada al estrecho está bajo los arcos.
+En el punto más angosto del estrecho, donde Vesperya casi toca Merenia, se alzan **tres arcos de piedra colosales** construidos por los habitantes de Undland durante la Edad de la Podredumbre. Uno sigue en pie; los otros dos están medio derrumbados. Nadie cruza por arriba —peligro de derrumbe—, pero los barcos pasan **por debajo**: la entrada al estrecho está bajo los arcos.
 
 En la cara inferior de las bóvedas hay **grabados de bestias y batallas** que los navegantes admiran al pasar. Es el umbral entre el mar abierto y el corazón del imperio. Las tres puntas del tridente de los Valeryus son estos tres arcos.
 
 ### El Estrecho de la Tríada
 El estrecho se ensancha tierra adentro hasta desembocar en la **Bahía de los Reyes**, donde está el puerto de Eldengaria. Vesperya controla el acceso desde el mar. **Ningún barco entra al imperio sin autorización vesperiana.** Del otro lado del estrecho, las Tierras Antiguas están protegidas por un cordón montañoso. La capital solo es vulnerable por agua. Y en el agua está Vesperya.
 
-Río arriba de la Bahía de los Reyes, el estrecho continúa en diagonal hacia Lysarya, Skarngard, Flamengard y Veleskaria, pero esa parte es **poco profunda y está llena de rocas**. No es navegable. Solo importa el tramo marítimo.
+Río arriba de la Bahía de los Reyes, el estrecho continúa en diagonal hacia Lysarya, Skarngard, Flemmengard y Veleskaria, pero esa parte es **poco profunda y está llena de rocas**. No es navegable. Solo importa el tramo marítimo.
 
 ## Concepto
 **El reino del desafío.** Vesperya es el polo opuesto de Lysarya y el extremo de Zephyrya. Donde Lysarya reza y trabaja, Vesperya goza. Donde Zephyrya contempla y se deja admirar, Vesperya actúa, toma, se ríe. Son el corazón hedonista del Verano.

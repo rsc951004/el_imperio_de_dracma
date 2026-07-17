@@ -10,7 +10,7 @@ Aborreció la severidad de su padre Roderic y de su abuelo Harald. Quiso que sus
 Contrajo matrimonio con una mujer que no pertenecía a los linajes de Sangre de Hierro ni provenía de Sindria. De este matrimonio mixto nacieron sus tres hijos: Mijail, Ilena y Vilem.
 
 ## Historia
-La laxitud de Godric tuvo consecuencias que él no supo ver a tiempo. Cuando Mijail desarrolló su obsesión por la caída Casa Valgard, su desprecio por el Stamengerin y sus delirios de poder absoluto, Godric miró para otro lado. Amargamente pensaba que su hijo simplemente no sabía nada de la vida o de la guerra porque nunca había vivido una.
+La laxitud de Godric tuvo consecuencias que él no supo ver a tiempo. Cuando Mijail desarrolló su obsesión por la caída Casa Valgard, su desprecio por el Stamengherin y sus delirios de poder absoluto, Godric miró para otro lado. Amargamente pensaba que su hijo simplemente no sabía nada de la vida o de la guerra porque nunca había vivido una.
 
 La noche del fratricidio, Godric entró en la habitación donde yacía su hija degollada. Solo pudo sostener su cabeza y derrumbarse, abrazándola.
 

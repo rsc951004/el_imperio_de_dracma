@@ -5,19 +5,17 @@
 | Campo | Valor |
 |-------|-------|
 | **Nombre** | Ormur |
-| **Tipo** | Casa histórica. Extinta en su rama principal. Rama superviviente refundó Malakia Occidental. |
-| **Territorio** | Malakia (original). Malakia Occidental / Sindgard (rama superviviente). |
+| **Tipo** | Casa histórica |
+| **Territorio** | Pendiente |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
 | **Fundador** | Pendiente |
-| **Título** | Rey de Malakia. Señor del Foso (bajo el Raikim). |
+| **Título** | Pendiente |
 
-## Historia y descripción
+## Historia
 
-Casa reinante de Malakia durante la Edad de los Mil Reinos. Gobernó uno de los pocos reinos estables de aquella era.
-
-El último rey legítimo fue Alastor Ormur, asesinado por el Rey Podrido durante la caída de Malakia. Con su muerte terminó el linaje principal. Sin embargo, una rama superviviente de la Casa Ormur lideró a los nobles de Malakia Occidental tras la partición del reino por el Foso de la Calamidad, refundando el territorio como estado independiente. Esta rama negoció la incorporación voluntaria al Raikim Valgard a cambio de la promesa —nunca cumplida— de recibir Esteria. Durante el Raikim, el Senescal de Sindgard era de la Casa Ormur y portaba el título de Señor del Foso. La actual reclamación de Sindria sobre Esteria y el título de Rey del Foso que porta la Casa Goros son herencia directa de aquella deuda.
+La Casa Ormur existió en la historia de Stigria. Su ubicación, poder político, relación con otros estados y destino permanecen pendientes de reconstrucción.
 
 ## Miembros relevantes
 
-- **Alastor Ormur** — Último rey legítimo de Malakia. Asesinado por Rey Podrido.
+- **Alastor Ormur:** figura histórica cuya vida y posición están pendientes.

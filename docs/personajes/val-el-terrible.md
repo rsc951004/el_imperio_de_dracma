@@ -1,20 +1,23 @@
 # Val el Terrible
 
-## Tipo
+## Identidad
 
-Caudillo gheran de la primera invasión de Stigria.
+Caudillo y herrero gheran de Eisen durante la Guerra del Valle Dorado.
+
+## Características
+
+Val fue uno de los primeros Gheran que dominó la forja del hierro. Combatía con un martillo enorme y era conocido por su ferocidad, su falta de misericordia y su historial de duelos invicto.
 
 ## Historia
 
-Val organizó a los Gheran para combatir a los primeros invasores del continente. Quienes lo siguieron fueron conocidos como los **Sangre de Hierro**, una identidad sociocultural nacida en Eisen.
+En el Stamengherin de Eldengard defendió la guerra contra Shahrezad. Wolfram el Bardo propuso negociar y ambos se enfrentaron. Wolfram parecía imponerse cuando la noticia de la invasión de Gülden interrumpió el duelo.
 
-El clan Valgard fue el más importante entre sus seguidores. El estado posterior de Valgard y la Casa Valgard conservaron el nombre del antiguo clan.
+Durante la guerra, combatientes de distintos clanes se reunieron alrededor de Val. De esos vínculos de sangre y camaradería nació el **clan Valgard**, cuyo nombre significa «Fortaleza de Val».
 
-No se han establecido las fechas de su vida, la identidad de los invasores ni los detalles de sus campañas.
+Valgard alcanzó el predominio entre los Sangre de Hierro durante la Edad de la Podredumbre. Su transformación posterior de clan en casa no está documentada.
 
 ## Referencias
 
+- `docs/mundo/stigria/guerra-del-valle-dorado.md`
 - `docs/mundo/stigria/sangre-de-hierro.md`
-- `docs/mundo/stigria/historia-antigua.md`
-- `docs/mundo/stigria/valgard.md`
-- `docs/casas/valgard.md`
+- `docs/personajes/wolfram-el-bardo.md`

@@ -6,14 +6,14 @@
 |-------|-------|
 | **Nombre** | Brandt |
 | **Tipo** | Casa noble menor |
-| **Reino** | Flamengard |
+| **Reino** | Flemmengard |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
 | **Fundador** | Pendiente |
 
 ## Historia y descripción
 
-Casa noble de Flamengard. Nombres de sonoridad germánica. Casa de origen de la reina consorte de Skarngard.
+Casa noble de Flemmengard. Nombres de sonoridad germánica. Casa de origen de la reina consorte de Skarngard.
 
 ## Miembros relevantes
 

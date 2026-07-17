@@ -1,29 +1,38 @@
 # Rey Podrido
 
 ## Identidad
-Entidad nacida de la fusión entre un joven Portador y el Mobius de Stigria. Se le conoce como **Rey Podrido**. No debe confundirse con el **Rey Sombra**, otro personaje sin relación alguna con Malakia.
 
-## Origen
-En la parte más oriental de la antigua Malakia, casi rozando la Costa Negra, un joven nacido como Portador encontró al Mobius de Stigria —una entidad parásita que llevaba años prisionera en las fauces de la montaña, en la cordillera Stomur—. Por acción u omisión, por voluntad o accidente, Portador y Mobius se fundieron.
+Entidad nacida de la unión entre **Amir**, un Portador Sombrío sheijad, y **Ajriman**, un Grimmen incorpóreo de Rauven.
 
-Lo que emergió no era ya humano. Era el Rey Podrido.
+Amir y Ajriman dejaron de existir como individuos. El ser resultante fue una identidad nueva.
 
-## Hechos
-- Asesinó al rey Alastor Ormur y usurpó el trono de Malakia.
-- Expandió sus fuerzas usando criaturas del este poseídas por la sombra.
-- Invadió decenas de reinos de El Gherin durante la Edad de los Mil Reinos.
-- Fue contenido —pero no destruido— por la resistencia liderada por Lux Terin y Rudgar Valgard.
-- Retrocedió más allá del Foso de la Calamidad cuando los Portadores partieron Malakia en dos.
-- Hoy reside en El Bramo, último reducto de Malakia de la Sombra.
+## Origen secreto
 
-## Relaciones
-- **Mobius de Stigria**: fusionado con él. Ya no son dos entidades separadas.
-- **Alastor Ormur**: asesinado por el Rey Podrido.
-- **Lux Terin y Rudgar Valgard**: responsables de su contención.
-- **Rey Sombra**: personaje distinto, sin relación con Malakia. No confundir.
+Amir llamó a Ajriman pidiendo ayuda después del ataque de la Banda de la Piedra Mohosa contra su familia. La causa de la fusión permanece desconocida.
+
+Este origen es un hecho objetivo del canon, pero los habitantes y cronistas de Stigria no lo conocen.
+
+## Capacidades
+
+El Rey Podrido puede poseer criaturas vivas y someterlas a su voluntad. El alma de la víctima permanece dentro del cuerpo y se pudre gradualmente hasta convertirla en una marioneta.
+
+También heredó la capacidad de Ajriman para utilizar cadáveres. No puede poseer a los Grimmen, aunque sí puede subyugarlos.
+
+Su presencia pudre de manera pasiva el territorio que ocupa.
+
+## Reino imaginado
+
+Al recibir de los Gheran el nombre de Rey Podrido, desarrolló una concepción de sí mismo como soberano. Desea un reino, un trono, una corte de marionetas, una corona y el dominio de todo el continente. La relación profunda entre el acto de nombrar y esta voluntad no está establecida.
+
+## Historia
+
+Tomó la Fortaleza Negra de Rostam y poseyó a sus habitantes. Después recorrió Mahren, reunió seres vivos poseídos y Grimmen subyugados, cruzó el Riegel y destruyó Shahrezad Occidental.
+
+Su victoria inició la Edad de la Podredumbre. Rudgar Valgard y Lux Terin lo derrotaron posteriormente y recuperaron Dresk y Weissen. El Rey Podrido sobrevivió y permanece confinado en Rauven.
 
 ## Referencias
-- `docs/mundo/stigria/malakia.md`
-- `docs/mundo/stigria/bramo.md`
-- `docs/mundo/stigria/dragma/esteria/esteria.md`
-- `docs/personajes/alastor-ormur.md`
+
+- `docs/personajes/amir.md`
+- `docs/personajes/ajriman.md`
+- `docs/mundo/stigria/edad-del-hierro.md`
+- `docs/mundo/stigria/edad-de-la-podredumbre.md`

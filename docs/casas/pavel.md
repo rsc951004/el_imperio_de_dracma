@@ -14,7 +14,7 @@
 
 ## Historia y descripción
 
-Tercera y actual dinastía imperial de Dragma. Electa por el Stamengerin tras el quiebre de la dinastía Amschel. Stanis Pavel fue el primer emperador de la casa. Cinco emperadores Pavel han gobernado hasta la fecha, siendo Pieter Pavel el emperador actual. La Casa Pavel es la dinastía reinante en el presente narrativo.
+Tercera y actual dinastía imperial de Dragma. Electa por el Stamengherin tras el quiebre de la dinastía Amschel. Stanis Pavel fue el primer emperador de la casa. Cinco emperadores Pavel han gobernado hasta la fecha, siendo Pieter Pavel el emperador actual. La Casa Pavel es la dinastía reinante en el presente narrativo.
 
 ## Miembros relevantes
 

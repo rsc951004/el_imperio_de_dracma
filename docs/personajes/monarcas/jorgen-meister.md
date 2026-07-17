@@ -1,7 +1,7 @@
 # Jorgen Meister
 
 ## Identidad
-Rey gobernante de **Waffengard** (Bloque del Hierro). Casa Meister.
+Rey gobernante de **Waffengard** (Bloque de Hierro). Casa Meister.
 
 ## Relaciones
 - **Sabina Jaeger:** hermana. Reina consorte de Sturmgard.

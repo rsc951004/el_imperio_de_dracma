@@ -13,8 +13,8 @@
 
 ## Historia y descripción
 
-Casa noble de Sturmgard. Nombres de sonoridad germánica. Casa de origen del rey consorte de Flamengard.
+Casa noble de Sturmgard. Nombres de sonoridad germánica. Casa de origen del rey consorte de Flemmengard.
 
 ## Miembros relevantes
 
-- **Marlo Falken**. Rey consorte de Flamengard.
+- **Marlo Falken**. Rey consorte de Flemmengard.

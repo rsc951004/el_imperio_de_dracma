@@ -1,44 +1,31 @@
 # Esteria
 
 ## Tipo
-Protectorado del Imperio de Dragma. Ciudad fortaleza. Conocida comúnmente como **Ciudad Esteria**.
+
+Protectorado del Imperio de Dragma. Ciudad fortaleza conocida como **Ciudad Esteria**.
 
 ## Ubicación
-Norte del continente, en el borde mismo del **Foso de la Calamidad**, sobre el límite oriental de El Gherin. Al norte de la ciudad se alza un gigantesco muro de Verilium coronado por una gran torre: el **Gran Faro de Esteria**, que se yergue justo a la orilla del corte continental.
 
-## Historia
+Esteria se encuentra junto al **Foso de la Calamidad**. Un gran muro de Verilium y el **Gran Faro de Esteria** dominan su límite oriental.
 
-### Origen
-Esteria no fue diseñada por el Raikim. Su fundación es anterior: ocurrió durante la guerra de resistencia contra Rey Podrido y sus espectros, en los años finales de la Edad de los Mil Reinos.
+## Estructura defensiva
 
-Tras la caída de Malakia a manos de Rey Podrido, la sombra se expandió implacablemente sobre El Gherin. Lux Terin y Rudgar Valgard lideraron la resistencia: organizaron a los reinos dispersos del oeste, unieron a herreros, guerreros y Portadores bajo una sola causa.
+La ciudad está construida con Verilium. Su guarnición mantiene una vigilancia permanente del Foso.
 
-Grandes y poderosos Portadores abrieron el **Foso de la Calamidad**: un corte continental que partió el continente en dos y desconectó El Bramo del resto de Stigria. Las aguas llenaron el desgarro, creando un estrecho que cortó el paso a las criaturas y espectros del este. Sobre el borde occidental de ese corte se fundó Esteria.
+El Gran Faro emite cada noche una luz verde capaz de dañar espectros, poseídos y criaturas sometidas por el Rey Podrido. La naturaleza exacta de la luz y su abastecimiento son secretos compartidos por los guardianes del Faro y la Casa Artema de Delfos.
 
-### Construcción
-Esteria fue construida íntegramente con **Verilium**, el mineral extraído de las montañas de Stomur. Herreros y artesanos de todo El Gherin viajaron al este para levantar la muralla. Familias enteras se asentaron junto a la fortaleza, formando una ciudad cuya única razón de ser era la defensa del mundo civilizado contra la oscuridad.
+## Gobierno
 
-### El Gran Faro
-En el extremo norte de la muralla se alzó el Gran Faro. Su luz no es fuego común: es una **luz verde** que, encendida cada noche, barre el horizonte oriental y quema a los espectros, poseídos y criaturas controladas por Rey Podrido. La naturaleza exacta de esta luz es un secreto custodiado por los guardianes del Faro desde la fundación de la ciudad.
+Esteria se gobierna como protectorado imperial. No posee rey ni pertenece a ninguno de los doce reinos.
 
-El Faro es el símbolo de Esteria: luz verde contra la sombra, vigilancia eterna sobre el borde del mundo conocido.
+Sindria reclama su territorio y expresa esa reclamación mediante el título **Rey del Foso** o **Reina del Foso**. El origen de la disputa no está documentado.
 
-## Estatus político
-Protectorado imperial. Esteria no tiene rey ni pertenece a ninguno de los 12 Reinos. Se gobierna a sí misma bajo el pacto imperial.
+## Historia pendiente
 
-**Sindria** —heredera de Malakia Occidental— considera a Esteria parte de su territorio histórico. Esta reclamación nunca se ha formalizado ni resuelto militarmente, pero genera una paz vigilada y tensa entre el protectorado y el reino vecino. El título de los reyes sindrios, **Rey del Foso**, es una afirmación directa de esta reclamación: reclaman soberanía sobre el Foso y, por tanto, sobre Esteria.
-
-## Concepto
-Ciudad fortaleza de Verilium fundada para contener la oscuridad del este. Último bastión antes del Foso de la Calamidad y de El Bramo. Más antigua que el Raikim, más antigua que los 12 Reinos.
-
-## Economía
-Guarnición militar permanente. Vigilancia del Foso. Operación y custodia del Gran Faro. Escaso comercio por la proximidad al peligro.
+Esteria, el Foso y el Gran Faro existían antes de la fundación del Imperio. Las circunstancias de su origen permanecen pendientes.
 
 ## Referencias
+
 - `docs/mundo.md`
 - `docs/mundo/stigria/dragma/sindria/sindria.md`
-- `docs/mundo/stigria/dragma/kalos/kalos.md`
-- `docs/mundo/stigria/malakia.md`
-- `docs/mundo/stigria/gherin.md`
-- `docs/mundo/stigria/grimm.md`
-- `docs/personajes/rey-podrido.md`
+- `docs/mundo/stigria/dragma/delfos/delfos.md`

@@ -10,7 +10,7 @@ Isla en el mar del sur, al sureste de Delfos. Aguas templadas, vegetación densa
 Protectorado imperial. Gobernado por un **Príncipe Regente** designado por el emperador. Paicel mantiene autonomía interna bajo la protección del Imperio.
 
 ## Historia
-Incorporada al Imperio de Dragma como protectorado de ultramar vía Stamengerin. Pendiente de desarrollo.
+Incorporada al Imperio de Dragma como protectorado de ultramar vía Stamengherin. Pendiente de desarrollo.
 
 ## Concepto
 Pendiente.

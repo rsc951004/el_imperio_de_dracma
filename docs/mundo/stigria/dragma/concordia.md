@@ -117,15 +117,15 @@ Cada candidato postulado es investigado por los espías e inspectores de la **De
 
 Si todos los miembros de la Familia fueron postulados y no hay heredero aprobado (todos rechazados o renunciaron), el monarca puede:
 
-1. **Declarar quiebre de dinastía:** el trono va al Stamengerin (Art. VIII bis).
+1. **Declarar quiebre de dinastía:** el trono va al Stamengherin (Art. VIII bis).
 2. **Postular a un candidato del resto de la Casa Gobernante:** la Dex Tábura evalúa. Si es aprobado, se convierte en Príncipe Coronado. Si es rechazado, se prueba con otro.
 
 Si también se agota el resto de la Casa Gobernante (todos rechazados o renuncian), se declara **quiebre de dinastía**.
 
-### VIII. El Stamengerin
-El Stamengerin fue ampliado para incluir a nobles y comunes, aunque sin la presencia de los reyes. Puede ser convocado para resolver un cambio de dinastía, tanto imperial como real, o para reformar la estructura territorial e institucional del imperio.
+### VIII. El Stamengherin
+El Stamengherin fue ampliado para incluir a nobles y comunes, aunque sin la presencia de los reyes. Puede ser convocado para resolver un cambio de dinastía, tanto imperial como real, o para reformar la estructura territorial e institucional del imperio.
 
-En materia estructural, el Stamengerin puede aprobar la incorporación de territorios, la unión o partición de reinos, los cambios en la organización de las coronas imperial y reales, y la forma de gobierno y autonomía de los protectorados. No interviene en la administración cotidiana.
+En materia estructural, el Stamengherin puede aprobar la incorporación de territorios, la unión o partición de reinos, los cambios en la organización de las coronas imperial y reales, y la forma de gobierno y autonomía de los protectorados. No interviene en la administración cotidiana.
 
 Desde la fundación de Dragma, esta facultad estructural solo ha sido utilizada para incorporar oficialmente los territorios de ultramar como protectorados y aprobar sus respectivos gobiernos y grados de autonomía. Nunca se ha unido ni partido ninguno de los doce reinos, ni se ha alterado el sistema de **un emperador y doce reyes**.
 
@@ -133,9 +133,9 @@ Desde la fundación de Dragma, esta facultad estructural solo ha sido utilizada 
 
 El cambio de dinastía imperial o real ocurre por **quiebre de dinastía** cuando se han agotado todos los candidatos viables según el Art. VII.
 
-Declarado el quiebre, queda vacante el «pequeño trono» —el asiento del Príncipe Coronado— y la Dex Tábura convoca al **Stamengerin**. El Stamengerin se compone de todos los jefes de casas nobles y comunes, supervisados por los revisores de la Dex Tábura. Ni los reyes ni el emperador participan en las deliberaciones ni en la votación.
+Declarado el quiebre, queda vacante el «pequeño trono» —el asiento del Príncipe Coronado— y la Dex Tábura convoca al **Stamengherin**. El Stamengherin se compone de todos los jefes de casas nobles y comunes, supervisados por los revisores de la Dex Tábura. Ni los reyes ni el emperador participan en las deliberaciones ni en la votación.
 
-Cualquier casa del imperio —noble o común, pero no una casa real actualmente reinante— puede ser postulada como nueva casa imperial o real. La votación se resuelve por **mayoría simple**. El Stamengerin decide quién será el próximo monarca y cuál será la próxima casa real o imperial.
+Cualquier casa del imperio —noble o común, pero no una casa real actualmente reinante— puede ser postulada como nueva casa imperial o real. La votación se resuelve por **mayoría simple**. El Stamengherin decide quién será el próximo monarca y cuál será la próxima casa real o imperial.
 
 La casa que cesa en su función imperial o real **vuelve a su estatus anterior** al ascenso.
 
@@ -189,11 +189,11 @@ La renuncia ante la Dex Tábura es **irreversible**. Quien renuncia pierde el es
 
 #### X.4 Integridad territorial
 
-Los 12 Reinos son entidades territoriales íntegras bajo el pacto imperial. No pueden ser unidos, partidos ni alterados por tratado, matrimonio, herencia, conquista o decisión unilateral. Solo el Stamengerin posee autoridad para aprobar una modificación de esa naturaleza; hasta la actualidad, jamás ha ejercido esa facultad sobre ninguno de los doce reinos.
+Los 12 Reinos son entidades territoriales íntegras bajo el pacto imperial. No pueden ser unidos, partidos ni alterados por tratado, matrimonio, herencia, conquista o decisión unilateral. Solo el Stamengherin posee autoridad para aprobar una modificación de esa naturaleza; hasta la actualidad, jamás ha ejercido esa facultad sobre ninguno de los doce reinos.
 
 #### X.5 Cambios estructurales
 
-Cualquier intento de modificar la estructura territorial o institucional del imperio —fusiones, particiones, alteración del número de reinos o protectorados— **fuera del Stamengerin** se castiga con **pena de muerte** para todos los implicados directos.
+Cualquier intento de modificar la estructura territorial o institucional del imperio —fusiones, particiones, alteración del número de reinos o protectorados— **fuera del Stamengherin** se castiga con **pena de muerte** para todos los implicados directos.
 
 ## Legado
 La Concordia transformó Dragma de una imposición forjada en la guerra a un pacto entre iguales. Por su autoría, Vilem Mormund es recordado como el Padre del Imperio.
@@ -201,5 +201,5 @@ La Concordia transformó Dragma de una imposición forjada en la guerra a un pac
 ## Referencias
 - Vilem Mormund.
 - Dex Tábura.
-- Stamengerin.
+- Stamengherin.
 - Edicto del Amanecer (Loryan Solaryss).

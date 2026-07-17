@@ -17,7 +17,7 @@ El imperio se compone de cuatro tipos de entidad territorial:
 | 3 | Protectorados | 7 | Semi-soberanos. Bajo protección directa del Emperador. Sin rey y sin pertenencia a ninguno de los 12 Reinos. |
 | 4 | Tierras intermedias | Varias | Territorios sin dueño dentro del Gherin: páramos, costas, tierras entre reinos. Bienes comunes con administración propia autónoma. |
 
-El Stamengerin es la única institución con autoridad para modificar esta estructura, incorporar territorios, unir o partir reinos y reformar la organización de las coronas. Pese a esta facultad, nunca ha alterado los doce reinos ni el sistema de un emperador y doce reyes. Después de la fundación del imperio, solo la ha ejercido para incorporar oficialmente los territorios de ultramar como protectorados y aprobar sus formas de gobierno y autonomía.
+El Stamengherin es la única institución con autoridad para modificar esta estructura, incorporar territorios, unir o partir reinos y reformar la organización de las coronas. Pese a esta facultad, nunca ha alterado los doce reinos ni el sistema de un emperador y doce reyes. Después de la fundación del imperio, solo la ha ejercido para incorporar oficialmente los territorios de ultramar como protectorados y aprobar sus formas de gobierno y autonomía.
 
 ## Gobernantes por tipo de entidad
 
@@ -28,7 +28,7 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 | Protectorados con consejo | **Gran Consejo** | Ejemplo: Kalos. |
 | Protectorado de Esteria | **Señor del Faro** | Custodio del Gran Faro y de la frontera oriental. |
 | Territorios de ultramar | **Príncipe Regente** | Salvo Delfos. |
-| Delfos | **Regente** (Casa Artema) | Isla al este, frente al Grimm. Gobernada por la Casa Artema desde la Edad de los Mil Reinos. |
+| Delfos | **Regente** (Casa Artema) | Isla al este, frente al Grimm. Gobernada por la Casa Artema desde la Edad de la Podredumbre. |
 | Tierras intermedias | **Gran Señor de los Caminos** | Administra todo lo que sobra donde se pueda pisar. |
 
 ## Los 12 Reinos
@@ -37,7 +37,7 @@ El Stamengerin es la única institución con autoridad para modificar esta estru
 |---|-------|--------|-------------|--------|
 | 1 | Waffengard | Valle de Hierro | Meister | Rey/Reina del Acero |
 | 2 | Skarngard | Valle de Hierro | Hammer | Rey/Reina del Martillo |
-| 3 | Flamengard | Valle de Hierro | Wolfen | Rey/Reina de la Llama |
+| 3 | Flemmengard | Valle de Hierro | Wolfen | Rey/Reina de la Llama |
 | 4 | Sturmgard | Valle de Hierro | Reisner | Rey/Reina de la Tormenta |
 | 5 | Lysarya | Costas del Verano | Corinthyos | Rey/Reina de la Roca |
 | 6 | Veleskaria | Paso del Oriente | Enescu | Rey/Reina de la Montaña |
@@ -65,21 +65,21 @@ Territorios sin dueño dentro del Gherin que no pertenecen a ningún reino ni pr
 
 ## Dinastías imperiales
 
-Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes, electas por el Stamengerin. Las tres regresaron a su estatus nobiliario previo al dejar la corona.
+Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes, electas por el Stamengherin. Las tres regresaron a su estatus nobiliario previo al dejar la corona.
 
 | # | Dinastía | Origen | Emperadores | Estado |
 |---|----------|--------|-------------|--------|
-| 1 | Mormund | Sturmgard (Valle de Hierro). Guerreros de las tormentas del norte. | 17 | Extinta como casa imperial. Retornó a casa noble de Sturmgard. |
+| 1 | Mormund | Clan antiguo de Eldenheim. Actualmente casa noble de Zephyrya. | 17 | Extinta como casa imperial. Conserva estatus nobiliario en Zephyrya. |
 | 2 | Amschel | Lysarya (Costas del Verano). Casa noble de Lysarya. | 21 | Extinta como casa imperial. Retornó a casa noble de Lysarya. |
 | 3 | Pavel | — | 5 (actual) | Reinante. |
 
-### Primera dinastía: Casa Mormund (Sturmgard, Valle de Hierro)
+### Primera dinastía: Casa Mormund
 
 17 emperadores. Solo cuatro tienen ficha individual detallada.
 
 | Orden | Nombre | Notas |
 |-------|--------|-------|
-| 1.º | Harald Mormund | Primer emperador Mormund. Caudillo naval de Sturmgard. |
+| 1.º | Harald Mormund | Primer emperador Mormund. Dirigió el ataque final contra el Raikim. |
 | 2.º | Roderic Mormund | Subyugador de dominios rebeldes. |
 | 3.º | Godric Mormund | La tragedia fratricida ocurrió bajo su reinado. |
 | 5.º | **Edrik Mormund** | Bajo su reinado estalló la Guerra de los Hermanos (Zephyrya vs Lysarya). |
@@ -89,7 +89,7 @@ Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes
 
 ### Segunda dinastía: Casa Amschel (Lysarya)
 
-21 emperadores. Casa noble de Lysarya. Electa por el Stamengerin tras el quiebre de la dinastía Mormund.
+21 emperadores. Casa noble de Lysarya. Electa por el Stamengherin tras el quiebre de la dinastía Mormund.
 
 | Orden | Nombre | Notas |
 |-------|--------|-------|
@@ -114,18 +114,16 @@ El cambio de dinastía imperial o real ocurre por **quiebre de dinastía**: la i
 ## El Raikim y los Dominios
 Durante la tiranía del Raikim Valgard, los actuales reinos no eran reinos soberanos. Eran **Dominios** —propiedad del Raik—, gobernados por un **Senescal** designado que respondía directamente al tirano.
 
-Ejemplo: Sindgard era el Dominio del este. Su Senescal era de la Casa Ormur y portaba el título de **Señor del Foso**.
+Sindgard era uno de esos dominios. La historia de su gobierno durante el Raikim permanece pendiente.
 
 Tras la caída del Raikim, los Dominios no se convirtieron inmediatamente en Reinos. La transición ocurrió gradualmente durante las primeras generaciones del imperio, culminando con las reformas de la Concordia.
 
 ## La reclamación sobre Esteria
-El título de **Rey del Foso** que porta el soberano de Sindria es una declaración política. El Foso de la Calamidad se encuentra en territorio de Esteria, no de Sindria. La reclamación no pertenece a la Casa Goros, sino al **Reino de Sindria como entidad estatal**. Es la misma reclamación que la Casa Ormur negoció con los Valgard cuando Malakia Occidental se unió voluntariamente al Raikim a cambio de recibir Esteria — promesa que jamás fue cumplida.
-
-Los Goros heredaron el trono y, con él, un reclamo que no negociaron. El título de Rey del Foso lo porta quien gobierna Sindria, sea cual sea la casa reinante.
+El título de **Rey del Foso** que porta el soberano de Sindria es una declaración política. El Foso de la Calamidad se encuentra en territorio de Esteria, no de Sindria. La reclamación pertenece al **Reino de Sindria como entidad estatal**, sin importar qué casa ocupe el trono. Su origen permanece pendiente.
 
 ## Referencias
 - Concordia de Vilem Mormund.
-- Stamengerin.
+- Stamengherin.
 - `docs/mundo/stigria/dragma/sindria/sindria.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
 - `docs/mundo/stigria/valgard.md`

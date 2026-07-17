@@ -18,7 +18,7 @@ La noche anterior al compromiso, Thalyssa huyó. Eryk la esperaba en la costa de
 
 Cuando Alessya y Zephyrya acusaron a Lysarya de secuestro, Kyros respondió acusándolos a ellos de asesinato. Estalló la **Guerra de los Hermanos**. Kyros lideró a Lysarya en una invasión exitosa de Zephyrya —los pastores del norte penetrando en la flor del Verano—. Miles murieron.
 
-Cuando Sturmgard anunció su apoyo a Lysarya, el emperador Edrik Mormund intervino. Ejecutó a Kyros y proscribió a la casa Albyon del **Dex Códice**. Su nombre jamás puede ser usado en el imperio. El Stamengerin nombró a la Casa Corinthyos como nueva casa real de Lysarya.
+Cuando Sturmgard anunció su apoyo a Lysarya, el emperador Edrik Mormund intervino. Ejecutó a Kyros y proscribió a la casa Albyon del **Dex Códice**. Su nombre jamás puede ser usado en el imperio. El Stamengherin nombró a la Casa Corinthyos como nueva casa real de Lysarya.
 
 ## Relaciones
 - **Eryk Albyon:** hijo. Príncipe de Lysarya. Amante de Thalyssa. Desaparecido.

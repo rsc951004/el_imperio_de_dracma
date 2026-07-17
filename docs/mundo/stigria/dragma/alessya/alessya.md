@@ -35,7 +35,7 @@ Lysarya logró invadir Zephyrya. Miles murieron. Al final, el emperador ejecutó
 La casa Coralyss también fue proscrita.
 
 ### El Principado de Alessya
-Tras la guerra, el **Stamengerin** fue convocado. Nombró nuevas casas reales para Lysarya (Corinthyos) y Zephyrya (Zephyryon). Y convirtió Alessya en un **protectorado imperial**: el **Principado de Alessya**, gobernado por un **Príncipe Guardián**. La isla dejó de ser ruinas. Nobles Hijos del Sol —descendientes de los antiguos suntarianos— se asentaron en ella, la reconstruyeron y la convirtieron en un protectorado próspero.
+Tras la guerra, el **Stamengherin** fue convocado. Nombró nuevas casas reales para Lysarya (Corinthyos) y Zephyrya (Zephyryon). Y convirtió Alessya en un **protectorado imperial**: el **Principado de Alessya**, gobernado por un **Príncipe Guardián**. La isla dejó de ser ruinas. Nobles Hijos del Sol —descendientes de los antiguos suntarianos— se asentaron en ella, la reconstruyeron y la convirtieron en un protectorado próspero.
 
 Hoy Alessya es un principado rico, con una nueva casa noble gobernante y plena autonomía. Como protectorado, es inalienable por ley de la Concordia: ningún reino puede anexarla.
 

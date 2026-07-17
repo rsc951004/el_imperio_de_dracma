@@ -11,7 +11,7 @@ Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de
 - **Lema:** *Hijos del Amanecer, Herederos del Sol.*
 - **Colores:** azul cielo (principal), rojo y dorado.
 - **Escudo:** campo azul, sol dorado naciente sobre ondas de plata, tres coronas doradas, ave dorada en jefe, bordura roja.
-- **Raíces:** Taryim (belleza, salud, armonía), Royrim (simbolismo solar, majestad), Ylum (elegancia, porte, distinción).
+- **Raíces:** Taryim (belleza, salud, armonía) y Ylum (elegancia, porte, distinción).
 - **Rasgo físico:** los Solaryss portan una belleza delicada, refinada y luminosa. En los hombres es notable sin ser afeminada.
 
 ## Apariencia y edad
@@ -45,6 +45,7 @@ Obra que compila la historia de Erebia, Astria y Dragma a partir de fuentes frag
 
 ## Relaciones
 - **Yanos Gueika:** Soldado de Kalos. Amistad cercana, ambigua, con una atracción que Sandor no declara abiertamente.
+- **Armin Mormund:** Maestro de espada y mejor amigo de Leondras. Cuando Sandor tenía catorce años, le confesó sus sentimientos. Armin, de dieciocho, lo rechazó con claridad porque lo amaba como a un hermano menor y lo conocía desde niño. El episodio alimentó el temor de Sandor a confesar lo que siente por Yanos.
 - **Sish Tábura:** La rama de crónica de Kalos que respalda y publica su obra.
 
 ## Referencias

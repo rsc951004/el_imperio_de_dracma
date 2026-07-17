@@ -65,7 +65,7 @@ Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de
 
 Cuando Sturmgard amenazó con intervenir, el emperador Edrik contuvo la escalada. Al final, ejecutó a ambos reyes —Kleóndras y Kyros Albyon— y proscribió a sus casas del **Dex Códice**. La casa Aetheryon fue borrada de la historia.
 
-El **Stamengerin** nombró a la **Casa Zephyryon** como nueva casa real de Zephyrya.
+El **Stamengherin** nombró a la **Casa Zephyryon** como nueva casa real de Zephyrya.
 
 La guerra dejó una cicatriz permanente. Zephyrya perdió a su rey y a su casa reinante. Hoy mantiene relaciones cordiales con Lysarya —intercambia consortes, comercia, recibe turistas—, pero bajo la superficie de la flor del Verano corre una corriente de dolor que nunca ha sanado del todo.
 

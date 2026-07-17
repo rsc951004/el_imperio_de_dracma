@@ -35,6 +35,8 @@ Desde entonces construyeron una amistad cercana, ambigua, llena de cosas no dich
 
 Yanos invitó a Sandor a su casa. Sandor encontró allí lo que le faltaba en la suya.
 
+Yanos desconoce que Sandor se declaró años antes a Armin Mormund y fue rechazado. Esa experiencia contribuye al silencio de Sandor, aunque la atracción entre Sandor y Yanos es mutua.
+
 ## Relaciones
 - **Sandor Solaryss:** Amistad cercana, ambigua, con una atracción mutua no declarada.
 - **Lander Kamus:** Amigo de infancia. Piromante. Representa la vida común y la espontaneidad que Sandor no posee.

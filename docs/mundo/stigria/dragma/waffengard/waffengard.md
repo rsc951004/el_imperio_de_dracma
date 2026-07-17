@@ -17,7 +17,7 @@ Stalheim
 **Rey del Acero** o **Reina del Acero**. Forma abreviada entre monarcas: Rey Acero o Reina Acero. El título evoca el yunque del imperio y la tradición militar que forja las armas de Dragma.
 
 ## Afiliación en la rebelión
-**Bloque del Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard por tradición y lealtad a los orígenes del continente.
+**Bloque de Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard por tradición y lealtad a los orígenes del continente.
 
 ## Afiliación geográfica
 **Valle de Hierro.** Noroeste del Gherin. Nombres de sonoridad germánica (convención de escritura, no cultura del mundo).
@@ -27,7 +27,7 @@ Stalheim
 Regido por la Casa Meister. El rey reinante es **Jorgen Meister ★**, Rey del Acero. Su consorte es la reina Alessa Meister, originaria de Skarngard (Casa Brunnen).
 
 ## Historia
-Waffengard fue uno de los cuatro reinos del Bloque del Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada a la forja, la disciplina militar y el acero.
+Waffengard fue uno de los cuatro reinos del Bloque de Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada a la forja, la disciplina militar y el acero.
 
 ## Concepto
 Norte militar, acero. Yunque del imperio. Tradición marcial y disciplina férrea.

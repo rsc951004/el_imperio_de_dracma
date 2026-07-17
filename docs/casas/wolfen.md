@@ -6,7 +6,7 @@
 |-------|-------|
 | **Nombre** | Wolfen |
 | **Tipo** | Casa real |
-| **Reino** | Flamengard |
+| **Reino** | Flemmengard |
 | **Bloque** | Hierro |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
@@ -15,7 +15,7 @@
 
 ## Historia y descripción
 
-Casa real de Flamengard. El noroeste volcánico del imperio. Su identidad está ligada al fuego, la actividad geotérmica y la piromancia. Permanecieron leales al Raikim durante la rebelión del Edicto del Amanecer. Economía basada en energía geotérmica y minería volcánica. Centro de estudios pirománticos. Nombres de sonoridad germánica.
+Casa real de Flemmengard. El noroeste volcánico del imperio. Su identidad está ligada al fuego, la actividad geotérmica y la piromancia. Permanecieron leales al Raikim durante la rebelión del Edicto del Amanecer. Economía basada en energía geotérmica y minería volcánica. Centro de estudios pirománticos. Nombres de sonoridad germánica.
 
 ## Miembros relevantes
 

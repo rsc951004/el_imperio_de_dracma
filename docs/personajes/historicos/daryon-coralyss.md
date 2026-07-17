@@ -19,7 +19,7 @@ Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Alb
 
 La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Kalos. Nunca llegaron. Daryón, furioso y humillado, acusó a Lysarya de secuestro. Estalló la **Guerra de los Hermanos**.
 
-Tras la guerra, la casa Coralyss fue proscrita del **Dex Códice** por orden del emperador. Su nombre jamás puede ser usado en el imperio. La isla de Alessya no quedó bajo ninguna casa noble: el Stamengerin la convirtió en protectorado imperial, el **Principado de Alessya**, gobernado por un Príncipe Guardián.
+Tras la guerra, la casa Coralyss fue proscrita del **Dex Códice** por orden del emperador. Su nombre jamás puede ser usado en el imperio. La isla de Alessya no quedó bajo ninguna casa noble: el Stamengherin la convirtió en protectorado imperial, el **Principado de Alessya**, gobernado por un Príncipe Guardián.
 
 ## Relaciones
 - **Thalyssa Coralyss:** hija. Lo traicionó al huir con Eryk Albyon.

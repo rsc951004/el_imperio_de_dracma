@@ -18,7 +18,7 @@ Lo que Kleóndras no sabía era que Thalyssa ya era amante en secreto de **Eryk 
 
 La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Kalos. Nunca llegaron. Kleóndras, humillado, acusó a Lysarya de secuestro. Estalló la **Guerra de los Hermanos**.
 
-Tras la guerra, el emperador Edrik Mormund ejecutó a Kleóndras y proscribió a la casa Aetheryon del **Dex Códice**. Su nombre jamás puede ser usado en el imperio. El Stamengerin nombró a la Casa Zephyryon como nueva casa real de Zephyrya.
+Tras la guerra, el emperador Edrik Mormund ejecutó a Kleóndras y proscribió a la casa Aetheryon del **Dex Códice**. Su nombre jamás puede ser usado en el imperio. El Stamengherin nombró a la Casa Zephyryon como nueva casa real de Zephyrya.
 
 ## Relaciones
 - **Astryón Aetheryon:** hijo. Príncipe coronado. Prometido de Thalyssa.

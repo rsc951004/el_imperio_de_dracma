@@ -28,6 +28,10 @@ Usar el Blesk consume al portador. El agotamiento es proporcional a la magnitud 
 - **Mobius:** Se alimentan del Blesk activo. Su presencia cercana puede corromper el puente.
 - **Invocador:** A diferencia del invocador, el portador no necesita ritos. Su Blesk es interno y heredado, no robado ni alterado.
 
+## Portadores Sombríos
+
+Los **Portadores Sombríos** son una manifestación rara de los Portadores. Amir es el único caso antiguo documentado en Stigria. Su naturaleza, herencia y capacidades permanecen pendientes.
+
 ## Referencias
 - `cuentos/0001-el-surgimiento/cuento.md`
 - `protoversiones/proto_v2/6 - Los Errantes del Yermo.md`

@@ -2,27 +2,24 @@
 
 ## Tipo
 
-Pueblo antiguo de Stigria.
+Pueblo antiguo del Gherin.
 
 ## Origen
 
-El pueblo Gheran nació durante la Edad del Bronce, cuando los clanes stigrios supervivientes de la Gran Devoración unificaron progresivamente su lengua, sus costumbres y sus formas de vida. También era conocido como **el pueblo de Ghera**.
+Los Gheran surgieron durante la Edad del Bronce de la unión progresiva de los clanes stigrios supervivientes de la Gran Devoración. También fueron llamados **el pueblo de Ghera**.
 
-## Cultura
+## Organización y cultura
 
-Las campañas contra los Grimmen que permanecían en el Gherin dieron forma a una cultura guerrera. Los Gheran se organizaron en familias y clanes, ocuparon gran parte del occidente y reconocieron nueve regiones geográficas: Flammen, Weissen, Dresk, Eisen, Gülden, Sturm, Durr, Undland y Eldenheim.
+Se organizaban en familias y clanes. Sus guerras contra los Grimmen dieron forma a una cultura guerrera, pero sus nueve regiones geográficas no constituían divisiones políticas profundas.
 
-Su población se concentró principalmente en Eldenheim, donde levantaron la fortaleza de Eldengard antes del nacimiento del clan Valgard.
+Durante la mayor parte de la Edad del Hierro no existió una autoridad común. El Stamengherin reunía a los clanes cuando una amenaza o una decisión afectaba al conjunto del Gherin.
 
-## Sangre de Hierro
+## Metalurgia
 
-Durante la primera invasión, Val el Terrible organizó a los Gheran para combatir a los invasores. Sus seguidores fueron conocidos como los **Sangre de Hierro**, una identidad sociocultural nacida en Eisen y no una etnia separada.
-
-El clan Valgard se convirtió en el clan predominante entre los Sangre de Hierro. La transformación posterior de los clanes gheran en casas y la vinculación del clan Valgard con Eldengard no están documentadas.
+Al comenzar la Edad del Hierro, los Gheran utilizaban principalmente bronce. Val el Terrible fue uno de los primeros herreros gheran capaces de trabajar el hierro con eficacia.
 
 ## Referencias
 
 - `docs/mundo/stigria/historia-antigua.md`
-- `docs/mundo/stigria/gherin.md`
-- `docs/mundo/stigria/sangre-de-hierro.md`
-- `docs/mundo/stigria/valgard.md`
+- `docs/mundo/stigria/guerra-del-valle-dorado.md`
+- `docs/personajes/val-el-terrible.md`

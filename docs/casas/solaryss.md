@@ -17,7 +17,7 @@
 
 Casa real del antiguo Reino del Verano (Suntarys) durante casi cuatrocientos años. Suntarys fue una ciudad libre destruida por Grimar Valgard y sus aliados. Hoy, los Solaryss son una casa noble en Zephyrya, sin corona. De su linaje surgió Loryan Solaryss, autor del Edicto del Amanecer —el documento fundacional del Imperio— y creador de la técnica del viento que permite deslizarse sobre las corrientes de aire. Son herederos del alma, el arte y la sangre de Suntarys.
 
-Raíces raciales: Taryim (belleza, salud, armonía), Royrim (simbolismo solar, majestad), Ylum (elegancia, porte, distinción). Los Solaryss portan una belleza delicada, refinada y luminosa. En los hombres es notable sin ser afeminada.
+Raíces históricas: Taryim (belleza, salud, armonía) y Ylum (elegancia, porte, distinción). Los Solaryss portan una belleza delicada, refinada y luminosa. En los hombres es notable sin ser afeminada.
 
 ## Miembros relevantes
 

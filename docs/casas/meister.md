@@ -15,7 +15,7 @@
 
 ## Historia y descripción
 
-Casa real de Waffengard. El norte militar del imperio, el yunque que forja las armas de Dragma. Su identidad está ligada a la forja, la disciplina marcial y el acero. Waffengard fue uno de los cuatro reinos del Bloque del Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Economía basada en la producción armamentística y exportación de equipo militar. Nombres de sonoridad germánica.
+Casa real de Waffengard. El norte militar del imperio, el yunque que forja las armas de Dragma. Su identidad está ligada a la forja, la disciplina marcial y el acero. Waffengard fue uno de los cuatro reinos del Bloque de Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Economía basada en la producción armamentística y exportación de equipo militar. Nombres de sonoridad germánica.
 
 ## Miembros relevantes
 

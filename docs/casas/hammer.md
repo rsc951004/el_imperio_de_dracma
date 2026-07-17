@@ -15,9 +15,9 @@
 
 ## Historia y descripción
 
-Casa real de Skarngard. Tierra ancestral de los Valgard: desde sus montañas surgió la dinastía que gobernaría Stigria durante diecisiete generaciones. Reino de montañas, forjas y Verilim. Los Hammer permanecieron leales al Raikim durante la rebelión. Economía basada en minería de montaña y forja tradicional, con ricas vetas de Verilium. Nombres de sonoridad germánica.
+Casa real de Skarngard. Reino de montañas, forjas y Verilium. Los Hammer permanecieron leales al Raikim durante la rebelión. Su economía se basa en la minería de montaña y la forja tradicional. Sus nombres toman sonoridad germánica.
 
 ## Miembros relevantes
 
 - **Yuter Hammer** ★ — Rey del Martillo. Gobernante reinante.
-- **Freda Brandt** — Reina consorte. Originaria de Flamengard (Casa Brandt).
+- **Freda Brandt** — Reina consorte. Originaria de Flemmengard (Casa Brandt).

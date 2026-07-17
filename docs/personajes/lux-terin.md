@@ -1,20 +1,29 @@
 # Lux Terin
 
 ## Identidad
-Invocador. Héroe legendario de la resistencia contra el Raikim Valgard. Posible descendiente de Terin, el primer Rey Sol, aunque su linaje nunca fue confirmado. Se le conoce como **el primer Invocador del Sol documentado en el continente de Stigria**.
+
+Portador del Sol de ascendencia sheijad. Héroe de la guerra contra el Rey Podrido y mártir de la oposición al Raikim.
 
 ## Origen
-Nació esclavo de la Casa Valgard en Eldengard, sin nombre. Su etnia era marcadamente Royrim, lo que sugiere ascendencia de la isla Roy. Se desconoce cómo se convirtió en invocador o si fue convertido mediante un rito.
 
-Cuando tenía diez años, sobrevivió a un ataque contra una partida de la Casa Valgard. Rudgar, con catorce años, llegó demasiado tarde al rescate y lo encontró entre los supervivientes. Lux ya era invocador, pero nadie lo sabía.
+Lux descendía de Sheijad esclavizados después de la caída de Shahrezad. Nació esclavo de la Casa Valgard y no recibió un nombre propio al nacer.
 
-## Relación con Rudgar
-Rudgar lo tomó bajo su protección. En público, eran amigos y compañeros de armas. En privado, Lux era su esclavo. La Casa Valgard mantenía la esclavitud como institución, y Rudgar nunca lo liberó.
+Cuando tenía diez años sobrevivió a un ataque contra una partida de la casa. Rudgar Valgard, de catorce años, lo encontró y lo tomó bajo su protección. Rudgar nunca lo liberó.
 
-Con el tiempo, Lux se convirtió en el héroe más querido de la época. Al ver la deriva tiránica del Raikim, se enfrentó a Rudgar en batalla. Cuando la derrota de Rudgar parecía inminente, este fingió rendirse y lo asesinó a traición.
+Sus seguidores le dieron el nombre **Terin** como reconocimiento simbólico de su poder solar. El nombre no representa un vínculo de sangre conocido.
 
-## Muerte y legado
-Su asesinato marcó el fin de la fachada protectora de Valgard y el inicio de la tiranía abierta. Se convirtió en mártir de la resistencia. Su nombre sobrevivió como símbolo de la lucha contra el Raikim.
+## Historia
 
-## Linaje
-No está confirmado si Lux era verdaderamente descendiente del primer Terin. La conexión pudo ser real, simbólica o un título honorífico impuesto por sus seguidores.
+Lux combatió junto a Rudgar contra el Rey Podrido. Ambos participaron en la victoria que recuperó Dresk y Weissen y puso fin a la Edad de la Podredumbre.
+
+Durante la Edad de Plata, Lux se opuso a la tiranía del Raikim. Cuando estaba a punto de derrotar a Rudgar, el Raik fingió rendirse y lo asesinó a traición.
+
+## Legado
+
+Lux fue recordado como héroe y mártir de la libertad.
+
+## Referencias
+
+- `docs/personajes/rudgar-valgard.md`
+- `docs/personajes/rey-podrido.md`
+- `docs/entidades/portadores.md`

@@ -64,7 +64,7 @@ Lysarya logró invadir Zephyrya. Miles murieron. La guerra amenazó con expandir
 
 Al final, Edrik ejecutó a ambos reyes —**Kyros Albyon** y **Kleóndras Aetheryon**— y proscribió a ambas casas —Albyon y Aetheryon— del **Dex Códice**, el gran registro de la Dex Tábura. Sus nombres jamás podrán ser usados en el imperio. La casa Coralyss también fue proscrita.
 
-El **Stamengerin** nombró a la **Casa Corinthyos** como nueva casa real de Lysarya.
+El **Stamengherin** nombró a la **Casa Corinthyos** como nueva casa real de Lysarya.
 
 La guerra dejó una **cicatriz permanente** en los tres reinos del Verano. Bajo la superficie de las relaciones cordiales actuales corre una corriente de desconfianza que nunca se ha cerrado del todo.
 
