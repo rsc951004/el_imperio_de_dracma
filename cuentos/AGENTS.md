@@ -18,6 +18,7 @@ Todo lo que aquí se escribe es lore oficial del universo.
 5. **Coherencia interna:** Si se introduce un personaje nuevo, se documenta en `docs/personajes.md`. Si se introduce un lugar o regla nueva, se documenta en `docs/mundo.md`.
 6. **Documentar cambios:** Todo cambio debe registrarse en `docs/notas.md`.
 7. **Markdown puro.** Sin formatos binarios.
+8. **Canon velado:** Antes de escribir o revisar una escena, buscar las marcas `CANON-VELADO` relacionadas en `docs/` y `cuentos/`. Ningún personaje puede actuar desde una verdad incluida en su campo `desconocido-por` hasta que el relato muestre cómo la descubre. Las marcas se escriben con la sintaxis definida en el `AGENTS.md` raíz y permanecen invisibles para el lector en la presentación normal del Markdown.
 
 ## Estilo narrativo
 
@@ -84,4 +85,4 @@ cuentos/
 
 ---
 
-_Versión: 2.0.0 | Solo contenido canónico. Prosa moderna, fantasía oscura._
+_Versión: 2.1.0 | Solo contenido canónico. Prosa moderna, fantasía oscura._

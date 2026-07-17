@@ -30,6 +30,7 @@ Todo lo que aquí se documenta es lore canónico y vinculante para cualquier cue
 5. **No duplicar.** Si un elemento aparece en varios cuentos, conserva una sola ficha y una sola entrada en su índice, con referencias a todos los cuentos pertinentes.
 6. **Referencias cruzadas:** Cada entrada del índice debe enlazar su ficha. Las fichas deben referenciar los cuentos donde aparece o se menciona su contenido.
 7. **Nombres de archivo:** Usar minúsculas, palabras separadas por guiones y extensión `.md`.
+8. **Canon velado:** Toda verdad confirmada que el lector conozca pero permanezca desconocida para personajes o grupos debe poder delimitarse con la marca `CANON-VELADO` definida en el `AGENTS.md` raíz. Antes de modificar una ficha, revisar las marcas relacionadas y respetar su campo `desconocido-por`.
 
 ## Formato de los índices
 
@@ -117,4 +118,4 @@ Los **comunes** (no nobles) del Verano llevan nombres **más simples y con menos
 
 ---
 
-_Versión: 1.1.0 | La verdad del universo está aquí_
+_Versión: 1.2.0 | La verdad del universo está aquí_

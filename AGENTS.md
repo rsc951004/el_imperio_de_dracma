@@ -54,6 +54,48 @@ Si la respuesta es no, probablemente es fantasmeo y el fragmento debe reconstrui
 
 ---
 
+## Marca de canon velado
+
+El **canon velado** es una verdad confirmada del lore que el lector conoce, pero que permanece desconocida para los protagonistas, para un grupo determinado o para el mundo en general.
+
+No equivale a una idea pendiente, una posibilidad, un rumor ni un misterio cuya respuesta todavía no haya sido definida. Tampoco basta con que algo sea secreto: la verdad debe estar confirmada dentro del canon y expuesta al lector.
+
+### Sintaxis obligatoria
+
+La marca se escribe como un comentario editorial alrededor del fragmento exacto al que afecta:
+
+```markdown
+<!-- CANON-VELADO: INICIO | desconocido-por: protagonistas -->
+Texto que expresa la verdad canónica conocida por el lector.
+<!-- CANON-VELADO: FIN -->
+```
+
+El valor de `desconocido-por` debe identificar el alcance real de la ignorancia. Puede nombrar, por ejemplo, a `los protagonistas`, `el mundo en general`, `la Casa Pavel` o `todos excepto la Dex Tábura`. No se usarán valores vagos como `algunos` si el canon permite mayor precisión.
+
+### Reglas de uso
+
+1. Puede envolver una oración, un párrafo o una sección completa de cualquier archivo canónico de `docs/` o `cuentos/`.
+2. Nunca se usa en `protoversiones/`, incluido `protoversiones/proto_v2/`, porque ese material no es canónico.
+3. La marca es editorial: no forma parte de la voz narrativa ni existe dentro del mundo.
+4. El texto marcado sigue siendo canon vinculante. La ignorancia de los personajes no vuelve incierta la verdad descrita.
+5. Un personaje no puede actuar a partir de ese conocimiento mientras permanezca incluido en `desconocido-por`, salvo que el texto muestre cómo lo descubre.
+6. Cuando una revelación cambie quién conoce la verdad, se debe actualizar el alcance de la marca. Si deja de estar velada para el grupo definido, la marca se elimina o se restringe a quienes todavía la ignoran.
+7. Los rumores, hipótesis y versiones contradictorias no reciben esta marca, aunque una de ellas pueda resultar cierta más adelante.
+8. Para localizar todas las marcas vigentes, usar una búsqueda textual de `CANON-VELADO` limitada a `docs/` y `cuentos/`.
+
+### Uso como herramienta de revisión
+
+Antes de redactar o revisar una escena, el agente debe comprobar las marcas relacionadas con los personajes, lugares y hechos involucrados. La revisión debe detectar:
+
+- personajes que conocen, afirman o deducen sin justificación una verdad velada;
+- diálogos, decisiones o narración focalizada que revelan conocimiento indebido;
+- revelaciones ya ocurridas que obligan a reducir o retirar una marca;
+- verdades confirmadas que convendría marcar retroactivamente para evitar contradicciones futuras.
+
+La revisión retroactiva no autoriza a etiquetar posibilidades como hechos. Si el canon no confirma una verdad o no define quién la desconoce, debe señalarse para decisión humana antes de añadir la marca.
+
+---
+
 ## Estructura y propósito de cada carpeta
 
 | Carpeta | Propósito | ¿Canon? | ¿Se edita? |
@@ -89,4 +131,4 @@ Si la respuesta es no, probablemente es fantasmeo y el fragmento debe reconstrui
 
 ---
 
-_Versión: 1.3.0 | Proyecto 100% IA | Kilo como orquestador principal_
+_Versión: 1.4.0 | Proyecto 100% IA | Kilo como orquestador principal_
