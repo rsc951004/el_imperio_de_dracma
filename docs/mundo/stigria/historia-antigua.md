@@ -10,7 +10,7 @@ Los **Grimmen**, criaturas surgidas de la tierra, comenzaron a perseguir y devor
 
 Según la tradición oral dominante, la diosa **Ghera** descendió del cielo montada sobre **Smürr**, la Serpiente Plateada. Ambas abrasaron a los Grimmen y los obligaron a retirarse hacia el oriente.
 
-Ghera y Smürr se fundieron después con la tierra. De ellas habría surgido **Stomur**, que dividió el continente entre el Gherin y el Grimm. Esta intervención divina es una tradición religiosa, no un hecho demostrado.
+Ghera y Smürr se fundieron después con la tierra. De ellas habría surgido **Stömur**, que dividió el continente entre el Gherin y el Grimm. Esta intervención divina es una tradición religiosa, no un hecho demostrado.
 
 ## Edad del Bronce
 
@@ -18,11 +18,11 @@ Los supervivientes se reunieron en familias y clanes para combatir a los Grimmen
 
 Con el paso de las generaciones, los clanes unificaron su lengua, costumbres y formas de vida. De esta unión nació el pueblo **Gheran**, o pueblo de Ghera.
 
-Los Gheran reconocieron nueve regiones: **Flemmen, Weissen, Dresk, Eisen, Gülden, Sturm, Durr, Undland y Eldenheim**. Su mayor concentración habitaba Eldenheim, donde levantaron la fortaleza de Eldengard.
+Los Gheran reconocieron nueve regiones: **Flemmen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim**. Su mayor concentración habitaba Eldenheim, donde levantaron la fortaleza de Eldengard.
 
 ## El Surgimiento
 
-Durante el Surgimiento, la sección septentrional de Stomur se fracturó y formó el Riegel. También se abrió bajo la cordillera el conducto inundado por el que el Rost desagua desde el Gherin hacia Rauven.
+Durante el Surgimiento, la sección septentrional de Stömur se fracturó y formó el Riegel. También se abrió bajo la cordillera el conducto inundado por el que el Rost desagua desde el Gherin hacia Rauven.
 
 ## Fin de la Edad del Bronce
 

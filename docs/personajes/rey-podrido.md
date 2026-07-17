@@ -24,7 +24,7 @@ Su poder se extiende bajo la superficie como una red invisible y le permite perc
 
 El Rey Podrido, los Grimmen y sus poseídos están ligados a Stigria y no pueden abandonar el continente. Se desconoce qué ocurriría si intentaran cruzar ese límite.
 
-La piedra de Stomur impide que el Rey entre físicamente en construcciones como Eldengard y Khalos. Esta protección no evita los asedios, el hambre ni la rendición voluntaria de sus habitantes.
+La piedra de Stömur impide que el Rey entre físicamente en construcciones como Eldengard y Khalos. Esta protección no evita los asedios, el hambre ni la rendición voluntaria de sus habitantes.
 
 ## Gobierno de la Podredumbre
 

@@ -23,7 +23,7 @@ Talasya
 **Costas del Verano.** El más oriental y el más pequeño en extensión de los tres reinos del Verano, al este de Zephyrya. Su costa sur da a mar abierto; su flanco este bordea el **Estrecho de la Tríada**, que separa Vesperya de Merenia (Tierras Antiguas). El estrecho conduce al norte hacia la **Bahía de los Reyes**, donde se encuentra el puerto de Eldengaria. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Vesperya es uno de los tres reinos de los **Hijos del Sol**, descendientes de los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron el litoral de Durr y fundaron la **Costa del Verano**. Cuando la expansión del Rey Podrido los obligó a evacuarla, cruzaron hasta Alessya y fundaron **Suntarys**, donde terminaron por formar un solo pueblo.
+Vesperya es uno de los tres reinos de los **Hijos del Sol**, descendientes de los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron el litoral de Dürr y fundaron la **Costa del Verano**. Cuando la expansión del Rey Podrido los obligó a evacuarla, cruzaron hasta Alessya y fundaron **Suntarys**, donde terminaron por formar un solo pueblo.
 
 Suntarys fue durante generaciones el **escudo de Khalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
 
@@ -35,7 +35,7 @@ Cuando el Raikim Valgard destruyó la ciudadela de Suntarys —ataque anunciado,
 Vesperya tiene el clima más cálido de los tres reinos del Verano. Su costa es rocosa, salpicada de puertos naturales, con el sol batiendo contra los muelles de piedra. No tiene las playas violetas de Zephyrya ni los acantilados inaccesibles de Lysarya: tiene **muelles, astilleros y caletas**. Cada ensenada es un fondeadero. Cada roca, un embarcadero improvisado.
 
 ### La Tríada
-En el punto más angosto del estrecho, donde Vesperya casi toca Merenia, se alzan **tres arcos de piedra colosales** construidos por los habitantes de Undland durante la Edad de la Podredumbre. Uno sigue en pie; los otros dos están medio derrumbados. Nadie cruza por arriba —peligro de derrumbe—, pero los barcos pasan **por debajo**: la entrada al estrecho está bajo los arcos.
+En el punto más angosto del estrecho, donde Vesperya casi toca Merenia, se alzan **tres arcos de piedra colosales** construidos por los habitantes de Unland durante la Edad de la Podredumbre. Uno sigue en pie; los otros dos están medio derrumbados. Nadie cruza por arriba —peligro de derrumbe—, pero los barcos pasan **por debajo**: la entrada al estrecho está bajo los arcos.
 
 En la cara inferior de las bóvedas hay **grabados de bestias y batallas** que los navegantes admiran al pasar. Es el umbral entre el mar abierto y el corazón del imperio. Las tres puntas del tridente de los Valeryus son estos tres arcos.
 

@@ -23,7 +23,7 @@ Anemora
 **Costas del Verano.** Ocupa la esquina suroeste del continente, debajo de Lysarya y al oeste de Vesperya. Es el segundo en extensión de los tres reinos del Verano. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Zephyrya es uno de los tres reinos de los **Hijos del Sol**, descendientes de los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron el litoral de Durr y fundaron la **Costa del Verano**. Cuando la expansión del Rey Podrido los obligó a evacuarla, cruzaron hasta Alessya y fundaron **Suntarys**, donde terminaron por formar un solo pueblo.
+Zephyrya es uno de los tres reinos de los **Hijos del Sol**, descendientes de los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron el litoral de Dürr y fundaron la **Costa del Verano**. Cuando la expansión del Rey Podrido los obligó a evacuarla, cruzaron hasta Alessya y fundaron **Suntarys**, donde terminaron por formar un solo pueblo.
 
 Suntarys fue durante generaciones el **escudo de Khalos** contra las peregrinaciones negras astrianas. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
 

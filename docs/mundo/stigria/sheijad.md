@@ -26,6 +26,25 @@ Los Sangre de Hierro asociaron a los Portadores con las campañas del Dominio Ca
 
 Roshan Terin nació dentro de esta población esclavizada y ocultó su condición de Portador del Sol.
 
+## Resolución del Raikim
+
+Antes de la Edad de Plata, Rudgar prometió en secreto a Roshan liberar al pueblo
+sheijad y concederle un perdón oficial por las acciones del Dominio Carmesí.
+
+Durante el segundo Stamengherin documentado, Rudgar otorgó un perdón general a
+los descendientes de aquel estado. Ningún Sheijad vivo había pertenecido al
+Dominio Carmesí ni nacido durante su existencia, por lo que no respondería por
+sus actos.
+
+La asamblea los reconoció como habitantes del Gherin, pero determinó que la
+generación viva conservaría la identidad sheijad hasta su muerte. Los hijos
+nacidos de la unión entre un Sheijad y un Sangre de Hierro serían reconocidos
+como Sangre de Hierro.
+
+La liberación colectiva quedó aplazada hasta que el Raikim estableciera su
+dominio sobre la totalidad del Gherin. La evolución posterior de este acuerdo y
+del régimen esclavista permanece pendiente.
+
 ## Convención de nombres
 
 La sonoridad de los nombres sheijad toma inspiración persa como convención externa de escritura. Esa cultura real no existe dentro del mundo.
@@ -37,3 +56,4 @@ La sonoridad de los nombres sheijad toma inspiración persa como convención ext
 - `docs/personajes/amir.md`
 - `docs/personajes/ajriman.md`
 - `docs/personajes/roshan-terin.md`
+- `docs/mundo/stigria/edad-de-plata.md`

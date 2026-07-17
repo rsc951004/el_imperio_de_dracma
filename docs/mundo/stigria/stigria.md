@@ -6,11 +6,16 @@ Continente conocido por los astrianos como la tierra del invierno.
 
 ## Geografía
 
-Stigria está dividida en dos grandes mitades: **el Gherin**, al oeste, y **el Grimm**, al este. Entre ambas se alza **Stomur**, continua en el centro y el sur y fracturada en el norte.
+Stigria está dividida en dos grandes mitades: **el Gherin**, al oeste, y **el Grimm**, al este. Entre ambas se alza **Stömur**, continua en el centro y el sur y fracturada en el norte.
 
-La reconstrucción geográfica antigua registra regiones físicas, no reinos ni fronteras políticas. Los Gheran reconocían nueve regiones en el Gherin: Flemmen, Weissen, Dresk, Eisen, Gülden, Sturm, Durr, Undland y Eldenheim.
+La reconstrucción geográfica antigua registra regiones físicas, no reinos ni fronteras políticas. Los Gheran reconocían nueve regiones en el Gherin: Flemmen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim.
 
-Durante la antigüedad, el lago Rost desaguaba hacia el este mediante un conducto inundado bajo Stomur. El cauce emergía en Rauven y continuaba hasta el mar oriental. Al final de la Edad de la Podredumbre, los Portadores derrumbaron por completo esa conexión; el destino hidrológico posterior del Rost permanece pendiente. El Riss, distinto del Rost, atraviesa el centro-sur y desemboca en el mar meridional.
+Durante la antigüedad, el lago Rost desaguaba hacia el este mediante un
+conducto inundado bajo Stömur. El cauce separaba Rauven de Grimheim antes de
+continuar hasta el mar oriental. Al final de la Edad de la Podredumbre, los
+Portadores derrumbaron por completo esa conexión. El río se secó y ambos
+territorios orientales quedaron unidos. El Riss, distinto del Rost, atraviesa el
+centro-sur y desemboca en el mar meridional.
 
 En el Riegel se abre el **Foso de la Calamidad**, una grieta seca creada durante el confinamiento del Rey Podrido. Junto con el derrumbe del conducto del Rost, el Foso aisló Rauven del Gherin sin separarlo de Grimheim.
 
@@ -22,9 +27,13 @@ Los habitantes prehistóricos reciben el nombre colectivo de **stigrios**. De su
 
 Durante la Edad del Hierro llegaron los **Sheijad**, fundadores de Shahrezad. La Guerra del Valle Dorado dio origen al Bloque de Hierro y consolidó la identidad de los Sangre de Hierro.
 
-La caída de Shahrezad ante el Rey Podrido inició la Edad de la Podredumbre. Durante esta era, la Gente de la Bruma se asentó en Undland, los refugiados astrianos fundaron Khalos y los esclavos liberados de Astria formaron la Costa del Verano y, posteriormente, Suntarys.
+La caída de Shahrezad ante el Rey Podrido inició la Edad de la Podredumbre. Durante esta era, la Gente de la Bruma se asentó en Unland, los refugiados astrianos fundaron Khalos y los esclavos liberados de Astria formaron la Costa del Verano y, posteriormente, Suntarys.
 
-La campaña de Rudgar Valgard y Roshan Terin recuperó el Gherin y confinó al Rey Podrido en Rauven. Este acontecimiento abrió la Edad de Plata, correspondiente al Raikim. La fundación del Imperio de Dragma marcó el comienzo de la Edad de Oro.
+La campaña de Rudgar Valgard y Roshan Terin liberó el Gherin y confinó al Rey
+Podrido en Rauven. Después de un periodo de transición, el segundo
+Stamengherin documentado proclamó a Rudgar primer Raik, fundó el Raikim y abrió
+la Edad de Plata. La fundación del Imperio de Dragma marcó el comienzo de la
+Edad de Oro.
 
 ## Eldengard
 
@@ -42,3 +51,4 @@ Durante la Edad del Bronce, los Gheran levantaron Eldengard en Eldenheim. La for
 - `docs/mundo/stigria/historia-antigua.md`
 - `docs/mundo/stigria/edad-del-hierro.md`
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`
+- `docs/mundo/stigria/edad-de-plata.md`

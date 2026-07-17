@@ -10,7 +10,7 @@ Fue la primera Tábura fundada fuera de Astria y la primera creada en siglos des
 
 ## Misión
 
-La Kys Tábura regresó repetidamente a Astria para liberar esclavos y trasladarlos a Stigria. Los liberados se establecieron primero en Durr, donde fundaron la Costa del Verano, y posteriormente en Suntarys.
+La Kys Tábura regresó repetidamente a Astria para liberar esclavos y trasladarlos a Stigria. Los liberados se establecieron primero en Dürr, donde fundaron la Costa del Verano, y posteriormente en Suntarys.
 
 ## Desaparición
 

@@ -20,7 +20,7 @@ Reino del Imperio de Dragma.
 
 Bjorn es el reino oriental y más extenso de la Tierra de la Bruma. Conecta Kyst, Lyng y la ruta hacia Khalos.
 
-El Raikim taló casi todo el gran bosque del reino. El último bosque de Bjorn, próximo a Stomur, es sagrado e intocable. Guardianes sin armas custodian sus semillas.
+El Raikim taló casi todo el gran bosque del reino. El último bosque de Bjorn, próximo a Stömur, es sagrado e intocable. Guardianes sin armas custodian sus semillas.
 
 ## Cultura
 

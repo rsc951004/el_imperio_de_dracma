@@ -12,17 +12,32 @@ Entre ellos se encontraban seguidores de Val el Terrible y el clan Mormund de Wo
 
 ## Transformación
 
-Con el paso de las generaciones, Sangre de Hierro dejó de describir solo una función militar y se convirtió en una identidad hereditaria.
+Con el paso de las generaciones, Sangre de Hierro dejó de describir solo una
+función militar y comenzó a convertirse en una identidad hereditaria.
 
-Después de la paz con la Gente de la Bruma, casi todos los habitantes del Gherin ajenos a ese pueblo terminaron considerándose Sangre de Hierro. Los antiguos clanes perdieron importancia frente a las grandes casas.
+Durante el segundo Stamengherin documentado, todos los supervivientes gheran
+fueron reconocidos como Sangre de Hierro. La resolución convirtió el nombre en
+la identidad común del nuevo pueblo. El término gheran permaneció en los
+registros históricos, pero perdió gradualmente su uso como identidad vigente.
 
-El clan Valgard alcanzó predominio entre los Sangre de Hierro durante la Edad de la Podredumbre.
+Para entonces, los antiguos clanes habían perdido importancia frente a las
+grandes casas en todas las regiones salvo Sturm, donde sobrevivían cinco
+clanes. La transición histórica concreta entre ambas formas de organización
+permanece pendiente.
+
+El clan Valgard alcanzó predominio entre los Sangre de Hierro durante la Edad
+de la Podredumbre. Rudgar fue proclamado primer Raik en el mismo Stamengherin.
 
 ## Esclavitud y Portadores
 
 Los Sangre de Hierro esclavizaron a numerosos supervivientes sheijad después de la caída de Shahrezad. La asociación entre los Portadores y las campañas del Dominio Carmesí produjo una persecución prolongada: los Portadores descubiertos entre los esclavos sheijad y sus descendientes eran ejecutados.
 
 Roshan Terin nació dentro de esta población esclavizada y ocultó su condición de Portador del Sol.
+
+El Stamengherin de fundación del Raikim reconoció a los Sheijad como habitantes
+del Gherin, pero negó a la generación viva la identidad Sangre de Hierro. Todo
+hijo nacido de la unión entre un Sheijad y un Sangre de Hierro sería reconocido
+plenamente como parte del nuevo pueblo.
 
 ## Legado moderno
 
@@ -38,3 +53,4 @@ La relación histórica de Flemmen con Flemmengard y de Sturm con Sturmgard est�
 - `docs/personajes/wolfram-el-bardo.md`
 - `docs/personajes/roshan-terin.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
+- `docs/mundo/stigria/edad-de-plata.md`

@@ -12,7 +12,7 @@ Isla al suroeste del continente de Stigria, frente a la costa del Verano. Conoci
 ## Origen e historia
 
 ### Suntarys, la ciudadela de los Hijos del Sol
-Los **Hijos del Sol** descendían de los esclavos liberados de Astria por la Kys Tábura. Sus Portadores transformaron el litoral de Durr y fundaron la **Costa del Verano**, pero la expansión del Rey Podrido los obligó a evacuarla. Los supervivientes cruzaron hasta Alessya y fundaron allí **Suntarys**, su gran ciudadela.
+Los **Hijos del Sol** descendían de los esclavos liberados de Astria por la Kys Tábura. Sus Portadores transformaron el litoral de Dürr y fundaron la **Costa del Verano**, pero la expansión del Rey Podrido los obligó a evacuarla. Los supervivientes cruzaron hasta Alessya y fundaron allí **Suntarys**, su gran ciudadela.
 
 Suntarys operó durante generaciones como el **escudo de Khalos** contra las peregrinaciones negras astrianas. Sus naves patrullaban las aguas entre la isla y el continente, hundiendo barcos misioneros del culto al Dios Negro y liberando esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**.
 

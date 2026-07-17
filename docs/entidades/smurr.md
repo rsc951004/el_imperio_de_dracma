@@ -14,12 +14,12 @@ Gran serpiente alada de color plateado.
 
 ## Función
 
-Sirvió como montura de Ghera durante la persecución de los Grimmen. Según la tradición, ambas se fundieron con la tierra y dieron origen a Stomur.
+Sirvió como montura de Ghera durante la persecución de los Grimmen. Según la tradición, ambas se fundieron con la tierra y dieron origen a Stömur.
 
 ## Relaciones
 
 - **Ghera:** diosa a la que transportaba.
-- **Stomur:** cuerpo petrificado de Ghera y Smürr según la tradición.
+- **Stömur:** cuerpo petrificado de Ghera y Smürr según la tradición.
 
 ## Referencias
 

@@ -27,7 +27,12 @@ Stancra
 Regido por la Casa Enescu. La reina reinante es **Ileana Enescu ★**, Reina de la Montaña. Su consorte es la reina Yelena Gorski, originaria de Sindria.
 
 ## Historia
-Veleskaria fue fundada por el Raikim Valgard como **Veleskagard**. El Raikim le asignó el rol de protector de Khalos como estrategia de control: necesitaban un estado cercano que vigilara la ciudadela. Khalos, como todas las ciudades libres, nunca se subyugó ante ningún Raik Valgard. Con el tiempo, Veleskaria se unió a los reinos del Bloque del Amanecer que se alzaron contra la tiranía que la había creado.
+Veleskaria fue fundada por el Raikim Valgard como **Veleskagard**. El Raikim le
+asignó el rol de protector de Khalos como estrategia de control: necesitaba un
+estado cercano que vigilara la ciudadela después de que la pretensión de
+soberanía formulada por el segundo Stamengherin nunca se convirtiera en una
+subyugación efectiva. Con el tiempo, Veleskaria se unió a los reinos del Bloque
+del Amanecer que se alzaron contra la tiranía que la había creado.
 
 ## Concepto
 Protector de Khalos, minero e industrial. Las montañas de Verim, ricas en Verilium, atraviesan su territorio.

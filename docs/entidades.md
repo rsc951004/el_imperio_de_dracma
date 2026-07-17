@@ -37,7 +37,7 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Portadores | Condición humana | Humanos que heredan un Blesk natural: puente unidireccional a un Init en Irij. | [Ver ficha](entidades/portadores.md) |
 | Invocadores | Condición humana | Humanos que roban y alteran un Blesk ajeno para conectarse a múltiples Inits. | [Ver ficha](entidades/invocadores.md) |
 | Rey Podrido | Entidad soberana | Gobernante del Reino Podrido, confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |
-| Ghera | Deidad (tradición gheran) | Diosa que habría expulsado a los Grimmen y formado Stomur junto con Smürr. | [Ver ficha](entidades/ghera.md) |
+| Ghera | Deidad (tradición gheran) | Diosa que habría expulsado a los Grimmen y formado Stömur junto con Smürr. | [Ver ficha](entidades/ghera.md) |
 | Smürr | Criatura mítica | Serpiente Plateada y montura de Ghera en la tradición gheran. | [Ver ficha](entidades/smurr.md) |
 | Grimmen | Criaturas terrestres | Seres de formas y capacidades diversas surgidos de la tierra de Stigria. | [Ver ficha](entidades/grimmen.md) |
 | Talmos | Deidad o figura religiosa | Dios Negro adorado por los Peregrinos Negros de Astria. Naturaleza desconocida. | [Ver ficha](entidades/talmos.md) |

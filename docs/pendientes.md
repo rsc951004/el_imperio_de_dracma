@@ -6,7 +6,10 @@ Archivo vivo de vacíos deliberados. Una entrada permanece aquí hasta que el lo
 
 | Tema | Qué falta |
 |------|-----------|
-| **Valgard y el Raikim** | Transición del clan y la casa Valgard al estado gobernado por el primer Raik. |
+| **Campañas del Raikim** | Desarrollo de la reunificación del Gherin y formación de los Dominios posteriores a Flemmen y Sturm. |
+| **Rudgar y Roshan** | Ruptura política entre ambos, oposición de Roshan al régimen y acontecimientos anteriores a su asesinato. |
+| **Esclavitud sheijad** | Evolución del régimen después del perdón y de la promesa de emancipación aprobados por el segundo Stamengherin documentado. |
+| **Diecisiete Raiks** | Cronología relativa de la dinastía entre Rudgar y Grimar Valgard. |
 | **Clanes y casas** | Mecanismos y linajes concretos de la transformación de los clanes gheranos en las casas posteriores. |
 | **Valgard y Eldengard** | Momento y causa de la vinculación inicial de Valgard con la fortaleza, anterior a Rudgar. |
 | **Banda de la Piedra Mohosa** | Destino de sus integrantes y explicación de su supervivencia en el conducto del Rost. |
@@ -16,7 +19,6 @@ Archivo vivo de vacíos deliberados. Una entrada permanece aquí hasta que el lo
 | **Entrega al Rey Podrido** | Consecuencias metafísicas de la posesión sobre la voluntad o el alma. |
 | **Límite de Stigria** | Efecto de intentar que el Rey Podrido, un Grimmen o un poseído abandone el continente. |
 | **Voces del Rey Podrido** | Naturaleza de las miles de voces perceptibles en su grito. |
-| **Rost** | Destino hidrológico del lago y de sus aguas después del derrumbe de su conducto subterráneo. |
 | **Astrid** | Destino de Astrid y de su hijo no nacido tras la caída de la fortaleza de Sturm. |
 | **Fortaleza de Sturm** | Nombre de la fortaleza donde desapareció Astrid y Rudgar encontró a Roshan. |
 | **Roshan Terin** | Procedencia del apellido Terin y detalles de su reconciliación y alianza con Rudgar. |
@@ -29,6 +31,7 @@ Archivo vivo de vacíos deliberados. Una entrada permanece aquí hasta que el lo
 | **Esteria** | Fundación de la ciudad fortaleza junto al Foso y origen del Gran Faro. |
 | **Casa Goros** | Fundación y ascenso de la casa real de Sindria. |
 | **Casa Ormur y Alastor** | Ubicación histórica y hechos de la casa y de Alastor Ormur. |
+| **Ultimátums del Raikim** | Respuesta de la Gente de la Bruma y de Khalos a las resoluciones del segundo Stamengherin documentado. |
 
 ## Instituciones y territorios
 

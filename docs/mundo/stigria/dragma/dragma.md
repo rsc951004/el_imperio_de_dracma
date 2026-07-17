@@ -112,7 +112,14 @@ Actualmente en el trono. Cinco emperadores hasta la fecha.
 El cambio de dinastía imperial o real ocurre por **quiebre de dinastía**: la imposibilidad del monarca de proponer un sucesor digno del trono. El procedimiento completo está documentado en la Concordia de Vilem Mormund (Art. VIII bis).
 
 ## El Raikim y los Dominios
-Durante la tiranía del Raikim Valgard, los actuales reinos no eran reinos soberanos. Eran **Dominios** —propiedad del Raik—, gobernados por un **Senescal** designado que respondía directamente al tirano.
+
+Durante la fundación del Raikim, todo territorio situado fuera del Gran Valle y
+administrado por un señor recibió la categoría de **Dominio**. Flemmen y Sturm
+fueron los primeros.
+
+El régimen transformó posteriormente los Dominios en propiedades del Raik
+gobernadas por un **Senescal** designado que respondía directamente al tirano.
+La evolución concreta entre ambas formas permanece pendiente.
 
 Sindgard era uno de esos dominios. La historia de su gobierno durante el Raikim permanece pendiente.
 

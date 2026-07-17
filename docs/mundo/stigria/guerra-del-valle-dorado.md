@@ -8,7 +8,7 @@ La disputa terminó en un combate entre ambos jefes. Wolfram luchó con su hacha
 
 ## Invasión de Gülden
 
-El puesto avanzado sheijad en Flemmen era un señuelo. Los invasores habían descubierto que el desagüe del lago Rost atravesaba un conducto inundado bajo Stomur y emergía como río en Rauven. Partieron desde el este, remontaron el cauce subterráneo protegidos por sus Portadores y entraron directamente en Gülden.
+El puesto avanzado sheijad en Flemmen era un señuelo. Los invasores habían descubierto que el desagüe del lago Rost atravesaba un conducto inundado bajo Stömur y emergía como río en Rauven. Partieron desde el este, remontaron el cauce subterráneo protegidos por sus Portadores y entraron directamente en Gülden.
 
 La noticia puso fin al duelo y a la votación: los clanes reunidos aceptaron que la guerra había comenzado.
 

@@ -6,19 +6,31 @@ Protectorado del Imperio de Dragma. Conocida como la **Ciudadela de Khalos**.
 
 ## Ubicación
 
-Fortaleza circular situada en la península meridional de Stigria, junto al extremo sur de Stomur.
+Fortaleza circular situada en la península meridional de Stigria, junto al extremo sur de Stömur.
 
 ## Fundación
 
 Durante la Edad de la Podredumbre, la Gente de la Bruma acogió a casi ciento veinte refugiados astrianos perseguidos por los Peregrinos Negros. Muchos de ellos eran Portadores.
 
-Ambos pueblos construyeron una fortaleza redonda con piedra extraída de Stomur y la llamaron **Khalos**. Esta piedra impedía que el Rey Podrido entrara físicamente en la ciudadela.
+Ambos pueblos construyeron una fortaleza redonda con piedra extraída de Stömur y la llamaron **Khalos**. Esta piedra impedía que el Rey Podrido entrara físicamente en la ciudadela.
 
 En Khalos nació la **Kys Tábura**, la Tábura de la Liberación, primera Tábura fundada fuera de Astria. Sus integrantes regresaron a aquella nación para liberar esclavos y llevarlos a Stigria.
 
 ## Edad de la Podredumbre
 
 Khalos fue uno de los últimos refugios humanos capaces de resistir al Rey Podrido. Sus sabios enviaron a Rudgar Valgard y Roshan Terin hacia Suntarys, donde se organizó la campaña que liberó el Gherin.
+
+## Pretensión del Raikim
+
+El segundo Stamengherin documentado reconoció a Khalos como territorio del
+Raikim debido a su aporte durante la guerra y al consejo de sus sabios.
+Resolvió que sus habitantes podrían permanecer en la ciudadela por venia del
+Raik si reconocían su soberanía y se arrodillaban ante él.
+
+Esta declaración expresa la pretensión política del Raikim, pero nunca se
+convirtió en una subyugación efectiva. La respuesta inmediata de Khalos y la
+forma en que conservó su libertad durante la Edad de Plata permanecen sin
+documentar.
 
 ## Estatus político
 
@@ -56,3 +68,4 @@ Khalos es una ciudad sobria y funcional. Sus habitantes valoran el oficio, la ut
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
 - `docs/taburas/kys-tabura.md`
+- `docs/mundo/stigria/edad-de-plata.md`

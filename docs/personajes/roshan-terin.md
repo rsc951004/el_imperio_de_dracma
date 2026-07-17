@@ -24,6 +24,12 @@ Después de un periodo de hostilidad y desacuerdos, Rudgar aceptó la ayuda de R
 
 Ambos viajaron a Khalos y Suntarys, reunieron supervivientes y Portadores y dirigieron la campaña que recuperó el Gherin. No consiguieron matar al Rey Podrido, pero lo obligaron a retroceder hasta Rauven.
 
+Antes del segundo Stamengherin documentado, Rudgar prometió en secreto a
+Roshan liberar al pueblo sheijad y perdonarlo oficialmente por las acciones del
+Dominio Carmesí. La asamblea convirtió aquella promesa en una resolución
+pública, aunque aplazó la emancipación hasta que el Raikim dominara todo el
+Gherin.
+
 Durante la Edad de Plata, Roshan se opuso a la tiranía del Raikim. Cuando estaba a punto de derrotar a Rudgar, el Raik fingió rendirse y lo asesinó a traición.
 
 ## Legado
@@ -36,3 +42,4 @@ Roshan fue recordado como héroe y mártir de la libertad.
 - `docs/personajes/rey-podrido.md`
 - `docs/entidades/portadores.md`
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`
+- `docs/mundo/stigria/edad-de-plata.md`

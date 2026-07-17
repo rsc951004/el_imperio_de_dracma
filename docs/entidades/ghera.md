@@ -14,12 +14,12 @@ La tradición la describe como una figura femenina de luz abrasadora que descend
 
 ## Función
 
-Ghera persiguió y abrasó a los Grimmen hasta obligar a la mayoría a retirarse hacia el oriente. Después se fundió con Smürr y con la tierra; de esa unión habría surgido Stomur.
+Ghera persiguió y abrasó a los Grimmen hasta obligar a la mayoría a retirarse hacia el oriente. Después se fundió con Smürr y con la tierra; de esa unión habría surgido Stömur.
 
 ## Relaciones
 
 - **Smürr:** serpiente alada y montura de Ghera.
-- **Stomur:** cuerpo petrificado de Ghera y Smürr según la tradición.
+- **Stömur:** cuerpo petrificado de Ghera y Smürr según la tradición.
 - **Gherin:** su nombre deriva de Ghera.
 - **Gheran:** pueblo que se reconocía como pueblo de Ghera.
 - **Grimmen:** criaturas perseguidas por la diosa durante la Gran Devoración.

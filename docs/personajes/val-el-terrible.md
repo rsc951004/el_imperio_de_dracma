@@ -16,8 +16,13 @@ Durante la guerra, combatientes de distintos clanes se reunieron alrededor de Va
 
 Valgard alcanzó el predominio entre los Sangre de Hierro durante la Edad de la Podredumbre. Su transformación posterior de clan en casa no está documentada.
 
+Val y quienes lo acompañaban fueron asesinados durante la campaña emprendida
+para expulsar a la Gente de la Bruma de Unland. La matanza debilitó
+considerablemente al antiguo Bloque de Hierro.
+
 ## Referencias
 
 - `docs/mundo/stigria/guerra-del-valle-dorado.md`
 - `docs/mundo/stigria/sangre-de-hierro.md`
 - `docs/personajes/wolfram-el-bardo.md`
+- `docs/mundo/stigria/gente-de-la-bruma.md`

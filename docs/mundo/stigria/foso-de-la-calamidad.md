@@ -10,13 +10,16 @@ Al final de la Edad de la Podredumbre, Rudgar Valgard, Roshan Terin y sus aliado
 
 Los Portadores que acompañaban la campaña abrieron una enorme grieta seca dentro del Riegel. El corte destruyó la continuidad terrestre del paso y aisló Rauven del Gherin.
 
-En la misma operación derrumbaron completamente el conducto subterráneo por el que el Rost atravesaba Stomur. Rauven permaneció conectado con Grimheim, pero las dos rutas occidentales quedaron cerradas.
+En la misma operación derrumbaron completamente el conducto sumergido por el
+que el Rost atravesaba Stömur. El lago dejó de alimentar el río que separaba
+Rauven de Grimheim; el cauce se secó y ambos territorios quedaron unidos. Las
+dos rutas entre el Grimm y el Gherin quedaron cerradas.
 
 ## Consecuencias
 
 La apertura del Foso y el derrumbe del Rost confinaron al Rey Podrido en Rauven y pusieron fin a la Edad de la Podredumbre.
 
-El destino hidrológico del lago Rost después del derrumbe permanece desconocido. La posterior fundación de Esteria junto al Foso tampoco está documentada.
+La posterior fundación de Esteria junto al Foso todavía no está documentada.
 
 ## Presente
 

@@ -41,10 +41,10 @@ Delfos es un refugio. A lo largo de los siglos, la isla ha recibido a quienes hu
 ## Economía
 
 ### Minerales extraños
-Las grutas de Delfos albergan **tierras extrañas**, minerales con propiedades ofensivas contra espectros, poseídos y criaturas sometidas por el Rey Podrido. A diferencia del **Verilium** de las montañas de Stomur, los minerales de Delfos potencian armas, pociones y ungüentos. Su naturaleza exacta y su procesamiento son secretos celosamente guardados por los Artema.
+Las grutas de Delfos albergan **tierras extrañas**, minerales con propiedades ofensivas contra espectros, poseídos y criaturas sometidas por el Rey Podrido. A diferencia del **Verilium** de las montañas de Stömur, los minerales de Delfos potencian armas, pociones y ungüentos. Su naturaleza exacta y su procesamiento son secretos celosamente guardados por los Artema.
 
 ### Caza en el Grimm
-Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **el Grimm** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stomur.
+Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **el Grimm** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stömur.
 
 ### El ave del Faro
 Delfos es el único lugar del mundo donde habita y se cultiva una especie de ave cuya excreta, procesada mediante un método secreto, produce el material combustible que alimenta la **llama verde del Gran Faro de Esteria**. La luz que quema espectros, poseídos y criaturas controladas por Rey Podrido depende de esta isla remota.

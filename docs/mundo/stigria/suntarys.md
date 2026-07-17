@@ -6,7 +6,7 @@ Ciudadela histórica de los Hijos del Sol en Alessya.
 
 ## Fundación
 
-Los habitantes de la Costa del Verano evacuaron Durr durante la conquista del Gherin por el Rey Podrido. Cruzaron el mar hasta Alessya y fundaron allí **Suntarys**.
+Los habitantes de la Costa del Verano evacuaron Dürr durante la conquista del Gherin por el Rey Podrido. Cruzaron el mar hasta Alessya y fundaron allí **Suntarys**.
 
 Sus fundadores descendían de esclavos liberados de Astria por la Kys Tábura. En Suntarys se consolidaron como un solo pueblo, posteriormente conocido como los **Hijos del Sol**.
 
@@ -14,7 +14,7 @@ Sus fundadores descendían de esclavos liberados de Astria por la Kys Tábura. E
 
 Suntarys permanecía fuera del alcance del Rey Podrido, los Grimmen y los poseídos, incapaces de abandonar Stigria.
 
-Los sabios de Khalos enviaron allí a Rudgar Valgard y Roshan Terin. Desde Suntarys organizaron la campaña que reunió supervivientes y Portadores, desembarcó en Durr y terminó confinando al Rey Podrido en Rauven.
+Los sabios de Khalos enviaron allí a Rudgar Valgard y Roshan Terin. Desde Suntarys organizaron la campaña que reunió supervivientes y Portadores, desembarcó en Dürr y terminó confinando al Rey Podrido en Rauven.
 
 ## Historia posterior
 

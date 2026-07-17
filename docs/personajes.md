@@ -36,6 +36,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Grimar Valgard | Personaje histórico | Decimoséptimo y último Raik. Grimar de Piedra. Convertido en piedra antes de morir. | [Ver ficha](personajes/grimar-valgard.md) |
 | Val el Terrible | Caudillo y herrero | Jefe gheran de Eisen durante la Guerra del Valle Dorado. Dio nombre al clan Valgard. | [Ver ficha](personajes/val-el-terrible.md) |
 | Wolfram el Bardo | Jefe de clan | Jefe del clan Mormund y voz del antiguo Bloque de Hierro. | [Ver ficha](personajes/wolfram-el-bardo.md) |
+| Uther Boca de Sal | Caudillo antiguo | Primer gobernante conocido por utilizar el título de Raik. | [Ver ficha](personajes/uther-boca-de-sal.md) |
 | Roshan Terin | Personaje histórico | Portador del Sol sheijad. Compañero de Rudgar, héroe y mártir de la libertad. | [Ver ficha](personajes/roshan-terin.md) |
 | Amir | Personaje histórico | Niño sheijad de Rauven y Portador Sombrío. | [Ver ficha](personajes/amir.md) |
 | Ajriman | Grimmen | Ser incorpóreo de Rauven capaz de ocupar cadáveres recientes. | [Ver ficha](personajes/ajriman.md) |

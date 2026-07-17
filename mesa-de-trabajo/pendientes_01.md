@@ -27,6 +27,31 @@
 
 ---
 
+## Corte canonizado de la Edad de Plata
+
+El 17 de julio de 2026 se trasladaron al canon los siguientes acuerdos:
+
+- cierre de la Edad de la Podredumbre y transición posterior;
+- destino del cauce oriental alimentado por el Rost;
+- segundo Stamengherin documentado;
+- transformación de Sangre de Hierro en identidad común;
+- proclamación de Rudgar como primer Raik y fundación del Raikim;
+- primeros Dominios, nombres territoriales y plan de reunificación;
+- resoluciones iniciales sobre Hijos del Sol, Gente de la Bruma, Khalos,
+  Grimmen, poseídos y Sheijad.
+
+La continuación de este arco conserva como pendientes prioritarios:
+
+- campañas de reunificación y creación de los Dominios posteriores;
+- desplazamiento político de Roshan y ruptura con Rudgar;
+- evolución del régimen esclavista después de la resolución sheijad;
+- transición de Valgard de clan a casa y su vínculo con Eldengard;
+- cronología de los diecisiete Raiks;
+- respuesta de la Gente de la Bruma y de Khalos a los ultimátums;
+- conexión entre las regiones antiguas y los reinos posteriores.
+
+---
+
 ## 1. Contradicciones críticas
 
 Estas entradas no son misterios narrativos. Son restos incompatibles con el
@@ -127,18 +152,23 @@ en una ubicación nueva.
 
 ### 2.1. De la Podredumbre al Raikim
 
-- [ ] Explicar cómo Rudgar pasó de libertador a primer Raik.
-- [ ] Establecer cuándo comenzó a construir el régimen esclavista.
-- [ ] Narrar cómo Valgard convirtió una victoria compartida con Roshan en
-      legitimidad exclusiva.
+- [x] Explicar cómo Rudgar pasó de libertador a primer Raik.
+- [ ] Desarrollar la evolución del régimen esclavista después del perdón y de
+      la promesa de emancipación de los Sheijad.
+- [ ] Narrar cómo la legitimidad concedida a Rudgar por el Stamengherin terminó
+      desplazando políticamente la victoria compartida con Roshan.
 - [ ] Definir la ruptura política entre Rudgar y Roshan antes del asesinato.
-- [ ] Explicar cómo los territorios liberados se transformaron en Dominios.
+- [ ] Narrar las campañas mediante las cuales los territorios liberados se
+      transformaron en Dominios. La definición institucional y los dos primeros
+      Dominios ya están canonizados.
 - [ ] Desarrollar la transición formal del clan Valgard a la Casa Valgard.
 - [ ] Determinar cuándo y por qué Valgard quedó vinculado con Eldengard.
 - [ ] Explicar la evolución general de los clanes gheranos hacia las grandes
-      casas.
+      casas. Ya está establecido que durante el segundo Stamengherin solo Sturm
+      conservaba clanes.
 - [ ] Situar la fundación de la dinastía y los diecisiete Raiks dentro de una
-      cronología relativa más precisa.
+      cronología relativa más precisa. La proclamación del primer Raik ya está
+      canonizada.
 
 ### 2.2. De las regiones antiguas a los reinos modernos
 
@@ -147,7 +177,7 @@ en una ubicación nueva.
 - [ ] Explicar la formación política diferenciada de Kyst, Lyng y Bjorn.
 - [ ] Narrar el traslado de Mormund desde Eldenheim hasta Zephyrya.
 - [ ] Ubicar Veleskaria, Sindria y Esteria sobre la geografía histórica.
-- [ ] Determinar el destino hidrológico del Rost después del derrumbe.
+- [x] Determinar el destino hidrológico del Rost después del derrumbe.
 - [ ] Explicar la fundación de Esteria junto al Foso.
 - [ ] Definir el origen del Gran Faro.
 - [ ] Explicar el vínculo entre Esteria y la Casa Artema de Delfos.
@@ -276,7 +306,7 @@ Estos asuntos pueden permanecer abiertos sin producir contradicciones.
 1. **Eliminar el doble canon Merenia–Aurelia–Ylvaria.**
 2. **Corregir sus consecuencias geográficas, dinásticas y matrimoniales.**
 3. **Reconstruir Veleskaria–Sindria–Esteria sin Malakia ni Bramo.**
-4. **Conectar el final de la Podredumbre con el nacimiento del Raikim.**
+4. **Continuar las campañas del Raikim y la ruptura entre Rudgar y Roshan.**
 5. **Relacionar las regiones antiguas con los doce reinos.**
 6. **Desarrollar instituciones, territorios y misterios secundarios.**
 

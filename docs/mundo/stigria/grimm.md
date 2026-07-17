@@ -6,11 +6,15 @@ Macrorregión oriental de Stigria.
 
 ## Geografía
 
-El Grimm ocupa las tierras situadas al este de Stomur. Comprende **Rauven** al noreste y **Grimheim** a lo largo de la franja oriental.
+El Grimm ocupa las tierras situadas al este de Stömur. Comprende **Rauven** al noreste y **Grimheim** a lo largo de la franja oriental.
 
-Rauven y Grimheim permanecen conectados entre sí. Hasta el final de la Edad de la Podredumbre, el **Riegel** comunicaba Rauven con el Gherin y el Rost emergía en la región después de atravesar un conducto inundado bajo Stomur.
+Hasta el final de la Edad de la Podredumbre, el **Riegel** comunicaba Rauven
+con el Gherin. El Rost atravesaba un conducto inundado bajo Stömur y alimentaba
+el río que separaba Rauven de Grimheim.
 
-La apertura del Foso de la Calamidad dentro del Riegel y el derrumbe completo del conducto aislaron el Grimm del Gherin.
+La apertura del Foso de la Calamidad dentro del Riegel y el derrumbe completo
+del conducto aislaron el Grimm del Gherin. La interrupción del caudal secó el
+río oriental y unió territorialmente Rauven con Grimheim.
 
 ## Historia
 

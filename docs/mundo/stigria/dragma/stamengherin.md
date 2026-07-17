@@ -8,11 +8,43 @@ Nombre histórico de la reunión general de clanes gheran, recuperado por la asa
 
 Su significado tradicional es **«clanes del Gherin reunidos»**.
 
-## Precedente antiguo
+## Antigüedad
 
-Durante la Edad del Hierro, los clanes se reunían en Eldengard cuando una amenaza o decisión afectaba al conjunto del Gherin. El Stamengherin que precedió a la Guerra del Valle Dorado enfrentó las propuestas de Val el Terrible y Wolfram el Bardo.
+El Stamengherin existe desde los orígenes del Gherin. Sus reuniones más
+antiguas pertenecen a la tradición oral y carecen de registros fehacientes.
+
+Durante la Edad del Hierro, los clanes se reunían en Eldengard cuando una
+amenaza o decisión afectaba al conjunto del Gherin. El Stamengherin que precedió
+a la Guerra del Valle Dorado enfrentó las propuestas de Val el Terrible y
+Wolfram el Bardo.
 
 Eldengard era un refugio antiguo, sagrado y normalmente deshabitado. La reunión no constituyó un gobierno permanente.
+
+## Tres reuniones documentadas
+
+Solo tres Stamengherin antiguos cuentan con registros oficiales escritos por
+personas presentes:
+
+1. El Stamengherin de la Edad del Hierro que precedió a la Guerra del Valle
+   Dorado.
+2. El Stamengherin que proclamó a Rudgar primer Raik, fundó el Raikim e inició
+   la Edad de Plata.
+3. El Stamengherin que, después de la derrota del último Raik, fundó el Imperio
+   de Dragma e inició la Edad de Oro.
+
+Durante la Edad de Oro, Khalos conserva los registros originales de los dos
+primeros. El tercero se encuentra en la biblioteca imperial de Eldengaria.
+
+## Fundación del Raikim
+
+En el segundo Stamengherin documentado, las casas del Gherin y los cinco clanes
+supervivientes de Sturm se reunieron fuera de Eldengard. La asamblea convirtió
+Sangre de Hierro en la identidad común de los supervivientes gheran y proclamó
+a **Rudgar Rompe Maldiciones** como primer Raik.
+
+El consejo fundó el Raikim sobre Flemmen, Sturm y el Gran Valle, definió la
+figura territorial del Dominio y fijó como misión reunir todo el Gherin bajo una
+sola autoridad.
 
 ## Recuperación imperial
 
@@ -42,3 +74,4 @@ La Dex Tábura declara el quiebre y convoca a los jefes de casas nobles y comune
 - `docs/mundo/stigria/guerra-del-valle-dorado.md`
 - `docs/mundo/stigria/dragma/concordia.md`
 - `docs/personajes/monarcas/harald-mormund.md`
+- `docs/mundo/stigria/edad-de-plata.md`

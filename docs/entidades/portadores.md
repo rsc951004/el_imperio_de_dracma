@@ -34,7 +34,7 @@ Los **Portadores Sombríos** son una manifestación rara de los Portadores. Amir
 
 ## Edad de la Podredumbre
 
-Numerosos esclavos liberados de Astria eran Portadores. Utilizaron sus facultades para transformar Durr y crear la Costa del Verano.
+Numerosos esclavos liberados de Astria eran Portadores. Utilizaron sus facultades para transformar Dürr y crear la Costa del Verano.
 
 **Roshan Terin**, descendiente de Sheijad esclavizados, fue un Portador del Sol. Su fulgor pudo herir físicamente al Rey Podrido.
 
