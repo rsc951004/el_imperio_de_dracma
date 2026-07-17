@@ -32,8 +32,17 @@ Usar el Blesk consume al portador. El agotamiento es proporcional a la magnitud 
 
 Los **Portadores Sombríos** son una manifestación rara de los Portadores. Amir es el único caso antiguo documentado en Stigria. Su naturaleza, herencia y capacidades permanecen pendientes.
 
+## Edad de la Podredumbre
+
+Numerosos esclavos liberados de Astria eran Portadores. Utilizaron sus facultades para transformar Durr y crear la Costa del Verano.
+
+**Roshan Terin**, descendiente de Sheijad esclavizados, fue un Portador del Sol. Su fulgor pudo herir físicamente al Rey Podrido.
+
+Al final de la edad, un grupo de Portadores abrió el Foso de la Calamidad dentro del Riegel y derrumbó completamente el conducto subterráneo del Rost.
+
 ## Referencias
 - `cuentos/0001-el-surgimiento/cuento.md`
-- `protoversiones/proto_v2/6 - Los Errantes del Yermo.md`
-- `protoversiones/proto_v2/7 - El Testigo en la Oscuridad.md`
-- `protoversiones/proto_v2/8 - El Renacer del Sol.md`
+- `docs/personajes/amir.md`
+- `docs/personajes/roshan-terin.md`
+- `docs/mundo/stigria/costa-del-verano.md`
+- `docs/mundo/stigria/foso-de-la-calamidad.md`

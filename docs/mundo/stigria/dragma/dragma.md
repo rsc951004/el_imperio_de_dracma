@@ -25,7 +25,7 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 |---------|------------|-------|
 | Imperio | **Emperador** | Soberano supremo. Reside en Eldengaria. |
 | 12 Reinos | **Rey o Reina** | Título hereditario, aprobado con venia de la Dex Tábura. Hombres y mujeres pueden heredar. |
-| Protectorados con consejo | **Gran Consejo** | Ejemplo: Kalos. |
+| Protectorados con consejo | **Gran Consejo** | Ejemplo: Khalos. |
 | Protectorado de Esteria | **Señor del Faro** | Custodio del Gran Faro y de la frontera oriental. |
 | Territorios de ultramar | **Príncipe Regente** | Salvo Delfos. |
 | Delfos | **Regente** (Casa Artema) | Isla al este, frente al Grimm. Gobernada por la Casa Artema desde la Edad de la Podredumbre. |
@@ -52,7 +52,7 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 
 | # | Nombre | Tipo | Gobernante | Notas |
 |---|--------|------|------------|-------|
-| 1 | Kalos | Ciudadela libre | Gran Consejo | Fundada por portadores disidentes del culto al Dios Negro. |
+| 1 | Khalos | Ciudadela libre | Gran Consejo | Fundada por la Gente de la Bruma y refugiados astrianos. |
 | 2 | Esteria | Ciudad fortaleza | Señor del Faro | Al borde del Foso de la Calamidad. Primera línea contra Rey Podrido. Sindria reclama su territorio. |
 | 3 | Ishbaal | Territorio de ultramar | Príncipe Regente | Isla al noroeste. |
 | 4 | Alessya | Protectorado insular | Príncipe Guardián | Isla al suroeste. Cuna de los Hijos del Sol. Ruinas de Suntarys. Principado rico e inalienable. |

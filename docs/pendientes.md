@@ -6,27 +6,29 @@ Archivo vivo de vacíos deliberados. Una entrada permanece aquí hasta que el lo
 
 | Tema | Qué falta |
 |------|-----------|
-| **Edad de la Podredumbre** | Desarrollo completo entre la caída de Shahrezad y la victoria de Rudgar. |
-| **Expansión de la podredumbre** | Alcance territorial, campañas y efectos fuera de los hechos ya documentados. |
-| **Retirada del Rey Podrido** | Circunstancias de su derrota y confinamiento en Rauven. |
 | **Valgard y el Raikim** | Transición del clan y la casa Valgard al estado gobernado por el primer Raik. |
-| **Clanes y casas** | Evolución general de los clanes gheran a las casas posteriores. |
-| **Valgard y Eldengard** | Momento y causa de la vinculación de Valgard con la fortaleza. |
+| **Clanes y casas** | Mecanismos y linajes concretos de la transformación de los clanes gheranos en las casas posteriores. |
+| **Valgard y Eldengard** | Momento y causa de la vinculación inicial de Valgard con la fortaleza, anterior a Rudgar. |
 | **Banda de la Piedra Mohosa** | Destino de sus integrantes y explicación de su supervivencia en el conducto del Rost. |
-| **Humanos de Mahren** | Origen y condiciones de las comunidades humanas del sur de Mahren. |
-| **Pueblo llegado a Durr** | Identidad, procedencia y consecuencias de su llegada. |
-| **Pueblo brumense** | Origen común y llegada de los antepasados de Kyst, Lyng y Bjorn al sur del Gherin. |
+| **Gente de la Bruma** | Origen remoto de las comunidades humanas del sur de Grimheim y formación posterior de las identidades políticas de Kyst, Lyng y Bjorn. |
 | **Portadores Sombríos** | Naturaleza, herencia, capacidades y relación con otros Portadores. |
 | **Nombres y voluntad** | Alcance de los efectos observados en Ajriman y el Rey Podrido. |
+| **Entrega al Rey Podrido** | Consecuencias metafísicas de la posesión sobre la voluntad o el alma. |
+| **Límite de Stigria** | Efecto de intentar que el Rey Podrido, un Grimmen o un poseído abandone el continente. |
+| **Voces del Rey Podrido** | Naturaleza de las miles de voces perceptibles en su grito. |
+| **Rost** | Destino hidrológico del lago y de sus aguas después del derrumbe de su conducto subterráneo. |
+| **Astrid** | Destino de Astrid y de su hijo no nacido tras la caída de la fortaleza de Sturm. |
+| **Fortaleza de Sturm** | Nombre de la fortaleza donde desapareció Astrid y Rudgar encontró a Roshan. |
+| **Roshan Terin** | Procedencia del apellido Terin y detalles de su reconciliación y alianza con Rudgar. |
+| **Kys Tábura** | Circunstancias de su desaparición antes de la Edad de Oro. |
+| **Peregrinos Negros** | Destino de los emisarios que persiguieron a los refugiados astrianos hasta Stigria. |
 | **Mormund** | Traslado de la casa desde Eldenheim hasta su residencia actual en Zephyrya. |
 | **Regiones del Hierro** | Correspondencia de Eisen y Gülden con Waffengard y Skarngard. |
 | **Skarngard** | Etimología de la raíz *Skarn-*. |
 | **Sindria** | Origen del reino, de su reclamación sobre Esteria y del título Rey o Reina del Foso. |
-| **Esteria** | Fundación de la ciudad fortaleza y origen del Gran Faro. |
-| **Foso de la Calamidad** | Origen y formación. |
+| **Esteria** | Fundación de la ciudad fortaleza junto al Foso y origen del Gran Faro. |
 | **Casa Goros** | Fundación y ascenso de la casa real de Sindria. |
 | **Casa Ormur y Alastor** | Ubicación histórica y hechos de la casa y de Alastor Ormur. |
-| **Gente del mar oriental** | Pueblo aún no canonizado relacionado con acontecimientos posteriores de la Podredumbre. |
 
 ## Instituciones y territorios
 

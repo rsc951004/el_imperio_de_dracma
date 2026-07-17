@@ -1,7 +1,7 @@
 # Dex Tábura
 
 ## Tipo
-Tábura oficial de Kalos.
+Tábura oficial de Khalos.
 
 ## Función
 Gestiona los cambios de estamento entre las Casas del Imperio de Dragma. Verifica linajes, ratifica ascensos y descensos entre Casas Comunes, Nobles y Reales, y mantiene el registro imperial de todas las Casas.
@@ -12,7 +12,7 @@ También otorga la **venia de sucesión** para herederos a títulos imperiales y
 Fue instituida por la Concordia de Vilem Mormund como parte de las reformas que refundaron el pacto social del imperio.
 
 ## Estructura
-Opera dentro de los círculos de Kalos. Mantiene archivos genealógicos y registros de cambios de Casa de todos los ciudadanos del imperio.
+Opera dentro de los círculos de Khalos. Mantiene archivos genealógicos y registros de cambios de Casa de todos los ciudadanos del imperio.
 
 ## Referencias
 - Concordia de Vilem Mormund.

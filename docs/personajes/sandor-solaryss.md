@@ -1,7 +1,7 @@
 # Sandor Solaryss
 
 ## Identidad
-Cronista y erudito de la Ciudadela de Kalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaryss, antigua casa noble de Zephyrya.
+Cronista y erudito de la Ciudadela de Khalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solaryss, antigua casa noble de Zephyrya.
 
 **No es portador.** Su valor no está en el Blesk, sino en la memoria, la investigación y la palabra.
 
@@ -29,7 +29,7 @@ Joven. Conoció a Yanos a los dieciséis años. En la época de las cartas ya es
 - **Vera Pavel** (madre, de soltera Pavel): prima del actual emperador. Al casarse con Doryan, eligió pasar a formar parte de la Casa Solaryss, perdiendo con ello cualquier derecho hereditario en la casa imperial. Que una prima del emperador eligiera ser Solaryss por encima de Pavel fue un golpe de prestigio para la casa.
 - **Sucesión:** El antiguo cabeza de familia decretó antes de morir que Doryan Solaryss fuera el sucesor. Doryan, a su vez, ha decretado que Leondras será el próximo cabeza. Sandor queda fuera de la línea de sucesión.
 - **Leondras Solaryss** (hermano mayor): Portador con dominio del viento. Relación de cariño real entre ambos, pero desgastada por quienes usan a Leondras para señalar que Sandor no es portador. Sandor no resiente a su hermano; resiente a quienes los comparan.
-- **Sylas Solaryss** (tatarabuelo): explorador, historiador. Visitó Erebia. Su diario permitió a Sandor descubrir la cámara oculta en Kalos y escribir las *Crónicas*.
+- **Sylas Solaryss** (tatarabuelo): explorador, historiador. Visitó Erebia. Su diario permitió a Sandor descubrir la cámara oculta en Khalos y escribir las *Crónicas*.
 
 ## Conflicto interno
 Siente atracción por los hombres. En Dragma no es ilegal ni una mancha social, y su propia casa tiene el precedente del Reinado de la Triple Corona. Su conflicto no es vergüenza: es el peso del deber familiar. Sabe que probablemente no tendrá descendencia y que su línea directa puede extinguirse con él. Esto lo persigue como una sombra privada.
@@ -44,9 +44,9 @@ Obra que compila la historia de Erebia, Astria y Dragma a partir de fuentes frag
 - **Cree en el Edicto del Amanecer** de Loryan Solaryss: todos los hombres nacen libres e iguales en dignidad. Esa convicción atraviesa su forma de mirar el mundo.
 
 ## Relaciones
-- **Yanos Gueika:** Soldado de Kalos. Amistad cercana, ambigua, con una atracción que Sandor no declara abiertamente.
+- **Yanos Gueika:** Soldado de Khalos. Amistad cercana, ambigua, con una atracción que Sandor no declara abiertamente.
 - **Armin Mormund:** Maestro de espada y mejor amigo de Leondras. Cuando Sandor tenía catorce años, le confesó sus sentimientos. Armin, de dieciocho, lo rechazó con claridad porque lo amaba como a un hermano menor y lo conocía desde niño. El episodio alimentó el temor de Sandor a confesar lo que siente por Yanos.
-- **Sish Tábura:** La rama de crónica de Kalos que respalda y publica su obra.
+- **Sish Tábura:** La rama de crónica de Khalos que respalda y publica su obra.
 
 ## Referencias
 - `cuentos/0001-el-surgimiento/cuento.md`

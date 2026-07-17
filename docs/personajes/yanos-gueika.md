@@ -1,7 +1,7 @@
 # Yanos Gueika
 
 ## Identidad
-Soldado y guardia de la Ciudadela de Kalos. Pertenece a la Casa Gueika, una casa común originaria del reino de **Bjorn**, en la Tierra de la Bruma. Su padre era brumense, su madre sturmgardiana: una mezcla inusual en Dragma, donde los matrimonios entre la Gente de la Bruma y el Valle de Hierro son extremadamente raros. **No es portador**, ni él ni su familia.
+Soldado y guardia de la Ciudadela de Khalos. Pertenece a la Casa Gueika, una casa común originaria del reino de **Bjorn**, en la Tierra de la Bruma. Su padre era brumense, su madre sturmgardiana: una mezcla inusual en Dragma, donde los matrimonios entre la Gente de la Bruma y el Valle de Hierro son extremadamente raros. **No es portador**, ni él ni su familia.
 
 Al alcanzar la mayoría de edad, eligió pertenecer a la casa de su padre en lugar de la de su madre. En Dragma, un ciudadano puede elegir a cuál casa adscribirse si sus padres pertenecen a casas distintas.
 
@@ -24,12 +24,12 @@ Joven, contemporáneo de Sandor. De presencia sobria y práctica, sin la belleza
 - **Casa Gueika** (vivienda): humilde comparada con residencias nobles, pero cálida y llena de vida. Sandor encontró allí un calor de hogar que nunca había sentido en su propia casa.
 
 ## Oficio y aspiraciones
-Guardia de la Ciudadela de Kalos. Antes de la muerte de su padre, consideró entrar a la academia de Kalos para seguir la vía erudita. Le habría interesado la Vex Tábura (rama legislativa y jurídica), no por vocación intelectual sino como vía de ascenso social y estabilidad para su familia. La muerte de su padre truncó ese plan.
+Guardia de la Ciudadela de Khalos. Antes de la muerte de su padre, consideró entrar a la academia de Khalos para seguir la vía erudita. Le habría interesado la Vex Tábura (rama legislativa y jurídica), no por vocación intelectual sino como vía de ascenso social y estabilidad para su familia. La muerte de su padre truncó ese plan.
 
 Su vida como guardia no es falta de capacidad: es el resultado de una pérdida y una decisión asumida por deber.
 
 ## Relación con Sandor Solaryss
-Se conocieron cuando Sandor era adolescente. Yanos lo rescató de un asalto en un barrio apartado de Kalos. Al principio lo confundió con una muchacha —la belleza Solaryss lo engañó— y lo dijo en voz alta. Sandor se ofendió muchísimo. Yanos se disculpó diciendo que nunca había visto a un chico tan hermoso. Eso desarmó a Sandor.
+Se conocieron cuando Sandor era adolescente. Yanos lo rescató de un asalto en un barrio apartado de Khalos. Al principio lo confundió con una muchacha —la belleza Solaryss lo engañó— y lo dijo en voz alta. Sandor se ofendió muchísimo. Yanos se disculpó diciendo que nunca había visto a un chico tan hermoso. Eso desarmó a Sandor.
 
 Desde entonces construyeron una amistad cercana, ambigua, llena de cosas no dichas. Yanos no rechaza a Sandor, pero tampoco declara nada. Su tono es lo bastante cálido para que Sandor se pregunte si hay algo más, y lo bastante contenido para que nunca tenga certeza.
 

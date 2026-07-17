@@ -23,9 +23,9 @@ Aurolis
 **Costas del Verano.** El más septentrional de los tres reinos del Verano, al norte de Zephyrya. Limita con Sturmgard (Valle de Hierro) por el norte. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Lysarya es uno de los tres reinos fundados por los **Hijos del Sol**: descendientes de los esclavos que escaparon de las islas de Astria antes del cataclismo que hundió aquella nación. Los tres pueblos esclavos —cada uno de una isla distinta— se fundieron en **Suntarys**, la gran ciudadela que erigieron en la isla de Alessya (la Isla Hermosa), y allí se convirtieron en un solo pueblo.
+Lysarya es uno de los tres reinos de los **Hijos del Sol**, descendientes de los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron el litoral de Durr y fundaron la **Costa del Verano**. Cuando la expansión del Rey Podrido los obligó a evacuarla, cruzaron hasta Alessya y fundaron **Suntarys**, donde terminaron por formar un solo pueblo.
 
-Suntarys fue durante generaciones el **escudo de Kalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
+Suntarys fue durante generaciones el **escudo de Khalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
 
 Cuando el Raikim Valgard destruyó la ciudadela de Suntarys —ataque anunciado, con la población ya evacuada a los asentamientos costeros del continente—, organizó esos asentamientos en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
 
@@ -56,7 +56,7 @@ Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el no
 
 Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya e hijo del rey **Kyros Albyon**. Y estaba embarazada.
 
-La noche anterior al compromiso, Thalyssa tomó un bote y huyó. Eryk la esperaba en la costa de Merenia. Juntos partieron hacia **Kalos** —ciudad libre, refugio imposible de allanar—. **Nunca llegaron.** Su desaparición es un misterio hasta hoy: el cuento popular de los **Príncipes Perdidos**.
+La noche anterior al compromiso, Thalyssa tomó un bote y huyó. Eryk la esperaba en la costa de Merenia. Juntos partieron hacia **Khalos** —ciudad libre, refugio imposible de allanar—. **Nunca llegaron.** Su desaparición es un misterio hasta hoy: el cuento popular de los **Príncipes Perdidos**.
 
 Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de asesinato. Estalló la **Guerra de los Hermanos**: zefirios y alessyanos contra lisarios. **Hijos del Sol contra Hijos del Sol.**
 
@@ -78,7 +78,7 @@ Pastoreo y agricultura templada. Comercio de ganado y productos agrícolas con l
 
 ## Referencias
 - `docs/12-reinos.md`
-- `docs/mundo/stigria/dragma/alesya/alesya.md`
+- `docs/mundo/stigria/dragma/alessya/alessya.md`
 
 ## Guía de nombres
 **Grecolatina.** Los nombres de personas y casas de Lysarya siguen la tradición grecolatina con las reglas fonéticas y semánticas de las Costas del Verano.

@@ -30,8 +30,8 @@ El legado de Edrik es controvertido. Para unos, fue un emperador implacable que 
 - **Vilem Mormund:** predecesor. Cuarto emperador y arquitecto de la Concordia.
 
 ## Referencias
-- `docs/mundo/stigria/dragma/ylumarya/ylumarya.md`
-- `docs/mundo/stigria/dragma/zefirya/zefirya.md`
-- `docs/mundo/stigria/dragma/alesya/alesya.md`
+- `docs/mundo/stigria/dragma/lysarya/lysarya.md`
+- `docs/mundo/stigria/dragma/zephyrya/zephyrya.md`
+- `docs/mundo/stigria/dragma/alessya/alessya.md`
 - `docs/personajes/historicos/daryon-coralyss.md`
 - `docs/personajes/historicos/kleondras-aetheryon.md`

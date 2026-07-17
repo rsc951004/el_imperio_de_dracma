@@ -17,7 +17,7 @@ Daryón no quería que su hija y sus nietos fueran pastores de ovejas en Lysarya
 
 Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya. Y estaba embarazada.
 
-La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Kalos. Nunca llegaron. Daryón, furioso y humillado, acusó a Lysarya de secuestro. Estalló la **Guerra de los Hermanos**.
+La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Khalos. Nunca llegaron. Daryón, furioso y humillado, acusó a Lysarya de secuestro. Estalló la **Guerra de los Hermanos**.
 
 Tras la guerra, la casa Coralyss fue proscrita del **Dex Códice** por orden del emperador. Su nombre jamás puede ser usado en el imperio. La isla de Alessya no quedó bajo ninguna casa noble: el Stamengherin la convirtió en protectorado imperial, el **Principado de Alessya**, gobernado por un Príncipe Guardián.
 
@@ -27,6 +27,6 @@ Tras la guerra, la casa Coralyss fue proscrita del **Dex Códice** por orden del
 - **Edrik Mormund:** emperador reinante.
 
 ## Referencias
-- `docs/mundo/stigria/dragma/alesya/alesya.md`
+- `docs/mundo/stigria/dragma/alessya/alessya.md`
 - `docs/personajes/historicos/kleondras-aetheryon.md`
 - `docs/personajes/historicos/thalyssa-coralyss.md`

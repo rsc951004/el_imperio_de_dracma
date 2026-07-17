@@ -26,9 +26,9 @@ Sindgard se unió al Bloque del Amanecer contra Grimar Valgard. Tras la rebelió
 
 ## Cultura religiosa
 
-El culto sindrio al Dios Negro busca utilizar y dominar monstruos para el engrandecimiento humano. No comparte el impulso autodestructivo de la antigua fe astriana.
+El culto sindrio al Dios Negro busca utilizar y dominar monstruos para el engrandecimiento humano. Su doctrina es instrumental y pragmática.
 
-Esta diferencia suele ser ignorada fuera de Sindria. Sus habitantes son objeto de recelo y se les atribuyen con frecuencia catástrofes, malas cosechas y asesinatos por hechicería.
+Fuera de Sindria, sus habitantes son objeto de recelo y se les atribuyen con frecuencia catástrofes, malas cosechas y asesinatos por hechicería. La relación histórica entre esta tradición y el culto surgido en Astria no está documentada.
 
 ## Estado de su historia
 

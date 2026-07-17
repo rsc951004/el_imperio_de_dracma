@@ -16,7 +16,7 @@ Kleóndras gobernaba Zephyrya cuando el noble **Daryón Coralyss** de Alessya in
 
 Lo que Kleóndras no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya. Y estaba embarazada.
 
-La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Kalos. Nunca llegaron. Kleóndras, humillado, acusó a Lysarya de secuestro. Estalló la **Guerra de los Hermanos**.
+La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Khalos. Nunca llegaron. Kleóndras, humillado, acusó a Lysarya de secuestro. Estalló la **Guerra de los Hermanos**.
 
 Tras la guerra, el emperador Edrik Mormund ejecutó a Kleóndras y proscribió a la casa Aetheryon del **Dex Códice**. Su nombre jamás puede ser usado en el imperio. El Stamengherin nombró a la Casa Zephyryon como nueva casa real de Zephyrya.
 
@@ -27,7 +27,7 @@ Tras la guerra, el emperador Edrik Mormund ejecutó a Kleóndras y proscribió a
 - **Kyros Albyon:** enemigo en la guerra. Rey de Lysarya. También ejecutado.
 
 ## Referencias
-- `docs/mundo/stigria/dragma/zefirya/zefirya.md`
-- `docs/mundo/stigria/dragma/ylumarya/ylumarya.md`
+- `docs/mundo/stigria/dragma/zephyrya/zephyrya.md`
+- `docs/mundo/stigria/dragma/lysarya/lysarya.md`
 - `docs/personajes/historicos/daryon-coralyss.md`
 - `docs/personajes/historicos/thalyssa-coralyss.md`

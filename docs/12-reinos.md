@@ -33,9 +33,9 @@ Veleskaria y Sindria reúnen linajes gheran mezclados con otros pueblos. Veleska
 
 ### Tierra de la Bruma
 
-Kyst, Lyng y Bjorn comparten una identidad brumense y una tradición de nombres con sonoridad nórdica. Los tres reinos existían antes del Raikim, fueron conquistados y recuperaron sus nombres durante la Rebelión del Amanecer.
+Kyst, Lyng y Bjorn descienden de la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. Comparten una identidad brumense y una tradición de nombres con sonoridad nórdica. Los tres reinos existían antes del Raikim, fueron conquistados y recuperaron sus nombres durante la Rebelión del Amanecer.
 
-El origen del pueblo brumense y su llegada al sur del Gherin permanecen pendientes.
+La formación de sus tres identidades políticas permanece pendiente.
 
 ## Rebelión del Amanecer
 

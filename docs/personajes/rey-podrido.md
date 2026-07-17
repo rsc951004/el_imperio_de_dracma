@@ -2,37 +2,58 @@
 
 ## Identidad
 
-Entidad nacida de la unión entre **Amir**, un Portador Sombrío sheijad, y **Ajriman**, un Grimmen incorpóreo de Rauven.
-
-Amir y Ajriman dejaron de existir como individuos. El ser resultante fue una identidad nueva.
+Entidad soberana del Reino Podrido, confinada en Rauven.
 
 ## Origen secreto
 
-Amir llamó a Ajriman pidiendo ayuda después del ataque de la Banda de la Piedra Mohosa contra su familia. La causa de la fusión permanece desconocida.
-
-Este origen es un hecho objetivo del canon, pero los habitantes y cronistas de Stigria no lo conocen.
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->
+El Rey Podrido nació de la unión entre **Amir**, un Portador Sombrío sheijad de unos diez años, y **Ajriman**, un Grimmen incorpóreo de Rauven. Amir llamó a Ajriman pidiendo ayuda después del ataque de la Banda de la Piedra Mohosa contra su familia. Ambos se fusionaron por una causa desconocida y dejaron de existir como individuos. El ser resultante fue una identidad nueva.
+<!-- CANON-VELADO: FIN -->
 
 ## Capacidades
 
-El Rey Podrido puede poseer criaturas vivas y someterlas a su voluntad. El alma de la víctima permanece dentro del cuerpo y se pudre gradualmente hasta convertirla en una marioneta.
+El Rey Podrido puede poseer criaturas vivas, pero la posesión exige que la víctima desee y acepte convertirse en uno de sus súbditos. No puede imponerla directamente y necesita encontrarse físicamente cerca de la persona. El estado de la voluntad o del alma después de esa entrega no está establecido.
 
 También heredó la capacidad de Ajriman para utilizar cadáveres. No puede poseer a los Grimmen, aunque sí puede subyugarlos.
 
-Su presencia pudre de manera pasiva el territorio que ocupa.
+Su presencia pudre el territorio.
 
-## Reino imaginado
+<!-- CANON-VELADO: INICIO | desconocido-por: todos excepto el Rey Podrido -->
+Su poder se extiende bajo la superficie como una red invisible y le permite percibir transformaciones ocurridas lejos de su cuerpo.
+<!-- CANON-VELADO: FIN -->
 
-Al recibir de los Gheran el nombre de Rey Podrido, desarrolló una concepción de sí mismo como soberano. Desea un reino, un trono, una corte de marionetas, una corona y el dominio de todo el continente. La relación profunda entre el acto de nombrar y esta voluntad no está establecida.
+El Rey Podrido, los Grimmen y sus poseídos están ligados a Stigria y no pueden abandonar el continente. Se desconoce qué ocurriría si intentaran cruzar ese límite.
+
+La piedra de Stomur impide que el Rey entre físicamente en construcciones como Eldengard y Khalos. Esta protección no evita los asedios, el hambre ni la rendición voluntaria de sus habitantes.
+
+## Gobierno de la Podredumbre
+
+El Rey Podrido busca convertir a los habitantes de Stigria en súbditos, no exterminarlos. Utiliza Grimmen, poseídos e infiltrados para cercar, aterrorizar y quebrar a quienes todavía rechazan su dominio. Los Grimmen atacan directamente cuando lo considera necesario.
+
+Para quienes aceptan, el Reino Podrido promete una existencia sin hambre, frío ni guerra, a cambio de entregar la voluntad.
+
+## Apariencia y envejecimiento
+
+Durante la caída de Shahrezad, el Rey Podrido aparentaba entre quince y diecisiete años.
+
+Casi dos siglos después, frente a Rudgar Valgard, aparentaba unos treinta y cinco. Vestía túnicas doradas, llevaba el cabello largo y cuidadosamente arreglado y poseía cuernos dorados ramificados. Su piel amarillenta y sus cuernos le daban una apariencia tétrica, aunque sus facciones eran hermosas.
+
+El Rey Podrido envejece con una lentitud extraordinaria.
 
 ## Historia
 
-Tomó la Fortaleza Negra de Rostam y poseyó a sus habitantes. Después recorrió Mahren, reunió seres vivos poseídos y Grimmen subyugados, cruzó el Riegel y destruyó Shahrezad Occidental.
+Tomó la Fortaleza Negra de Rostam, reunió seres vivos poseídos y Grimmen subyugados, atravesó Grimheim y destruyó Shahrezad Occidental.
 
-Su victoria inició la Edad de la Podredumbre. Rudgar Valgard y Lux Terin lo derrotaron posteriormente y recuperaron Dresk y Weissen. El Rey Podrido sobrevivió y permanece confinado en Rauven.
+Después cerró Darvaz Sorkh y permaneció detrás de las Murallas Carmesí durante generaciones. Cuando Rudgar tenía dieciséis años, abrió la Puerta Negra e inició la conquista del Gherin.
+
+Cinco años después, Roshan Terin lo hirió con fulgor solar cuando intentaba poseer a Rudgar. El poder quemó sus ropas y su cuerpo; su grito pareció contener miles de voces humanas. La causa de este fenómeno no está establecida.
+
+Durante la campaña final, Rudgar, Roshan y sus aliados lo hirieron y desfiguraron, pero no consiguieron matarlo. Fue obligado a retroceder hasta Rauven. La apertura del Foso de la Calamidad y el derrumbe del conducto del Rost lo aislaron del Gherin.
 
 ## Referencias
 
 - `docs/personajes/amir.md`
 - `docs/personajes/ajriman.md`
-- `docs/mundo/stigria/edad-del-hierro.md`
+- `docs/personajes/rudgar-valgard.md`
+- `docs/personajes/roshan-terin.md`
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`

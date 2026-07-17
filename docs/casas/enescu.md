@@ -15,7 +15,7 @@
 
 ## Historia y descripción
 
-Casa real de Veleskaria. Reino minero e industrial, protector de Kalos. Las montañas de Verim, ricas en Verilium, atraviesan su territorio. Fundada por el Raikim como Veleskagard, se unió a la rebelión del Bloque del Amanecer. Economía altamente industrializada, especializada en minería y procesamiento de Verilium. Oficialmente protector de Kalos: el pacto imperial garantiza la autonomía de la ciudad libre mientras Veleskaria vela por su seguridad exterior. Nombres de sonoridad rumana.
+Casa real de Veleskaria. Reino minero e industrial, protector de Khalos. Las montañas de Verim, ricas en Verilium, atraviesan su territorio. Fundada por el Raikim como Veleskagard, se unió a la rebelión del Bloque del Amanecer. Economía altamente industrializada, especializada en minería y procesamiento de Verilium. Oficialmente protector de Khalos: el pacto imperial garantiza la autonomía de la ciudad libre mientras Veleskaria vela por su seguridad exterior. Nombres de sonoridad rumana.
 
 ## Miembros relevantes
 

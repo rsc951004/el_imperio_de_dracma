@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Grimmen incorpóreo de Rauven. Su unión con Amir dio origen al Rey Podrido.
+Grimmen incorpóreo de Rauven.
 
 ## Capacidades
 
@@ -18,7 +18,9 @@ Al recibir un nombre, Ajriman desarrolló el deseo de existir, explorar, constru
 
 ## Fusión
 
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->
 Amir lo llamó pidiendo ayuda. Ambos se fusionaron por una causa desconocida y dejaron de existir como individuos. De esa unión nació el Rey Podrido.
+<!-- CANON-VELADO: FIN -->
 
 ## Referencias
 

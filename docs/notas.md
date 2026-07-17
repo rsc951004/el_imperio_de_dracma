@@ -2,6 +2,30 @@
 
 ## Revisiones editoriales
 
+### Canonización integral de la Edad de la Podredumbre (2026-07-17)
+
+Se reescribió la historia comprendida entre la caída de Shahrezad y el confinamiento del Rey Podrido en Rauven.
+
+**Cambios canónicos:**
+
+- Se documentaron el cierre y ennegrecimiento de Darvaz Sorkh, la migración de la Gente de la Bruma, la muerte de Val, la transición de clanes a casas, la llegada de los refugiados astrianos, la fundación de Khalos, la Kys Tábura, la Costa del Verano, la apertura de la Puerta Negra, la conquista del Gherin y la campaña de liberación.
+- Se fijó la cronología relativa de Amir, el envejecimiento del Rey Podrido y las edades de Rudgar durante la apertura de la Puerta Negra y su encuentro con Roshan.
+- Se sustituyeron globalmente las grafías canónicas **Lux Terin** por **Roshan Terin**, **Kalos** por **Khalos** y **Mahren** por **Grimheim**. Se renombraron sus fichas y se actualizaron enlaces e índices.
+- Se estableció que la posesión exige deseo, aceptación y proximidad física del Rey Podrido. Las consecuencias metafísicas de la entrega permanecen pendientes.
+- Se estableció que el Rey Podrido, los Grimmen y los poseídos están ligados a Stigria, y que la piedra de Stomur impide la entrada física del Rey en Eldengard y Khalos.
+- Se marcaron como canon velado la reclusión voluntaria del Rey, su red subterránea y su percepción de los cambios de Durr.
+- Se incorporaron Astrid, Baldur Valgard, Odalric Valgard, la Gente de la Bruma, la Costa del Verano, Suntarys, el Foso de la Calamidad, la Kys Tábura, los Peregrinos Negros y Talmos.
+- Se corrigió el origen de los Hijos del Sol: descienden de esclavos liberados de Astria por la Kys Tábura, quienes transformaron Durr antes de evacuar hacia Alessya y fundar Suntarys.
+- Se estableció que la campaña partió desde Suntarys, recuperó Durr, Undland, Dresk y Weissen y obligó al Rey Podrido a retirarse hasta Rauven.
+- Se fijó que los Portadores abrieron el Foso de la Calamidad dentro del Riegel y derrumbaron completamente el conducto subterráneo del Rost. La hidrología posterior del lago permanece pendiente.
+- El confinamiento del Rey Podrido cierra la Edad de la Podredumbre e inicia la Edad de Plata.
+
+**Límites conservados:**
+
+- Permanecen desconocidos el nombre de la fortaleza de Sturm, el destino de Astrid y su hijo no nacido, la procedencia del apellido Terin, los detalles de la reconciliación entre Rudgar y Roshan, la fundación de Esteria y la hidrología posterior del Rost.
+- No se desarrollaron la traición posterior de Rudgar, la dinastía del Raikim ni los acontecimientos modernos de Khalos, Suntarys y los reinos.
+- No se modificaron las referencias visuales, las protoversiones ni los archivos auxiliares.
+
 ### Reimaginación profunda de la Tierra de la Bruma: los Caminantes de la Bruma (2026-07-14)
 
 Las antiguas Tierras Antiguas (Merenia, Aurelia, Ylvaria) han sido completamente reformuladas como la **Tierra de la Bruma**, un bloque unificado con identidad propia.

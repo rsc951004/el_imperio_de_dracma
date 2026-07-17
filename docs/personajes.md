@@ -26,20 +26,23 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
-| Sandor Solaryss | Cronista | Erudito de Kalos, autor de las *Crónicas*. No es portador. Noble de la Casa Solaryss. | [Ver ficha](personajes/sandor-solaryss.md) |
-| Yanos Gueika | Soldado | Guardia de la Ciudadela de Kalos. Casa común Gueika (Veleskaria). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |
-| Rudgar Valgard | Personaje histórico | Vencedor del Rey Podrido y primer Raik. Asesinó a Lux Terin. | [Ver ficha](personajes/rudgar-valgard.md) |
+| Sandor Solaryss | Cronista | Erudito de Khalos, autor de las *Crónicas*. No es portador. Noble de la Casa Solaryss. | [Ver ficha](personajes/sandor-solaryss.md) |
+| Yanos Gueika | Soldado | Guardia de la Ciudadela de Khalos. Casa común Gueika (Veleskaria). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |
+| Rudgar Valgard | Personaje histórico | Vencedor del Rey Podrido y primer Raik. Asesinó a Roshan Terin. | [Ver ficha](personajes/rudgar-valgard.md) |
+| Astrid | Personaje histórico | Esposa desaparecida de Rudgar durante la conquista del Gherin. | [Ver ficha](personajes/astrid.md) |
+| Odalric Valgard | Personaje histórico | Descendiente de Val el Terrible y abuelo de Rudgar. | [Ver ficha](personajes/odalric-valgard.md) |
+| Baldur Valgard | Personaje histórico | Hijo de Odalric y padre de Rudgar. | [Ver ficha](personajes/baldur-valgard.md) |
 | Drakar Valgard | Personaje histórico | Segundo Raik. Hijo de Rudgar. Heredó el trono tras la muerte de su padre. | [Ver ficha](personajes/drakar-valgard.md) |
 | Grimar Valgard | Personaje histórico | Decimoséptimo y último Raik. Grimar de Piedra. Convertido en piedra antes de morir. | [Ver ficha](personajes/grimar-valgard.md) |
 | Val el Terrible | Caudillo y herrero | Jefe gheran de Eisen durante la Guerra del Valle Dorado. Dio nombre al clan Valgard. | [Ver ficha](personajes/val-el-terrible.md) |
 | Wolfram el Bardo | Jefe de clan | Jefe del clan Mormund y voz del antiguo Bloque de Hierro. | [Ver ficha](personajes/wolfram-el-bardo.md) |
-| Lux Terin | Personaje histórico | Portador del Sol de ascendencia sheijad. Esclavo de Valgard, héroe y mártir. | [Ver ficha](personajes/lux-terin.md) |
-| Amir | Personaje histórico | Niño sheijad y Portador Sombrío cuya unión con Ajriman originó al Rey Podrido. | [Ver ficha](personajes/amir.md) |
-| Ajriman | Grimmen | Ser incorpóreo de Rauven cuya unión con Amir originó al Rey Podrido. | [Ver ficha](personajes/ajriman.md) |
+| Roshan Terin | Personaje histórico | Portador del Sol sheijad. Compañero de Rudgar, héroe y mártir de la libertad. | [Ver ficha](personajes/roshan-terin.md) |
+| Amir | Personaje histórico | Niño sheijad de Rauven y Portador Sombrío. | [Ver ficha](personajes/amir.md) |
+| Ajriman | Grimmen | Ser incorpóreo de Rauven capaz de ocupar cadáveres recientes. | [Ver ficha](personajes/ajriman.md) |
 | Lauffen | Grimmen | Doncella Errante muerta por los primeros Sheijad llegados a Stigria. | [Ver ficha](personajes/lauffen.md) |
 | Tanyaro Mano de Serpiente | Personaje legendario | Contenido reservado a su ficha de canon velado. | [Ver ficha](personajes/tanyaro-mano-de-serpiente.md) |
 | Alastor Ormur | Personaje histórico | Miembro de la Casa Ormur pendiente de reubicación histórica. | [Ver ficha](personajes/alastor-ormur.md) |
-| Rey Podrido | Entidad híbrida | Identidad nacida de la unión entre Amir y Ajriman. Confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |
+| Rey Podrido | Entidad soberana | Gobernante del Reino Podrido. Confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |
 | Armin Mormund | Noble y espadachín | Miembro actual de la Casa Mormund y maestro de Sandor Solaryss. | [Ver ficha](personajes/armin-mormund.md) |
 
 ## Monarcas de los 12 Reinos

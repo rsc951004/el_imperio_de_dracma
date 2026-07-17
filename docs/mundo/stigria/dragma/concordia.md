@@ -29,7 +29,7 @@ Todo habitante del imperio pertenece a una Casa, por nacimiento o por adhesión 
 | Casas Nobles | Numerosas | Casas de rango reconocido. |
 | Casas Comunes | Todas las demás | El resto de la población. |
 
-Los títulos de estamento son transitorios pero no volátiles: una Casa Común puede ascender a Noble y una Noble puede caer a Común, pero el cambio no es inmediato ni arbitrario. Requiere tiempo, mérito acumulado o desgracia probada. La gestión de estos cambios corresponde a la **Dex Tábura** en Kalos.
+Los títulos de estamento son transitorios pero no volátiles: una Casa Común puede ascender a Noble y una Noble puede caer a Común, pero el cambio no es inmediato ni arbitrario. Requiere tiempo, mérito acumulado o desgracia probada. La gestión de estos cambios corresponde a la **Dex Tábura** en Khalos.
 
 #### III bis. Casa Gobernante y Familia Gobernante
 
@@ -67,14 +67,14 @@ La probabilidad de aceptación es mayor durante la ceremonia de mayoría de edad
 Al cambiar de Casa, la persona adopta el nombre de la nueva Casa. El origen queda registrado en los archivos de la Dex Tábura. Ejemplo: Pepito Papas que ingresa en la Casa Manzana pasa a llamarse Pepito Manzana, sin preposiciones ni marcas visibles.
 
 ### V. Libre tránsito
-Todos los ciudadanos tienen libre tránsito entre los 12 Reinos. Las ciudades libres (Kalos, Esteria), los territorios de ultramar y la capital Eldengaria se reservan el derecho de admisión.
+Todos los ciudadanos tienen libre tránsito entre los 12 Reinos. Las ciudades libres (Khalos, Esteria), los territorios de ultramar y la capital Eldengaria se reservan el derecho de admisión.
 
 ### VI. División administrativa del imperio
 
 | Entidad | Gobernante |
 |---------|------------|
 | 12 Reinos | Rey o Reina |
-| Protectorados con consejo (ej. Kalos) | Gran Consejo |
+| Protectorados con consejo (ej. Khalos) | Gran Consejo |
 | Protectorado de Esteria | Señor del Faro |
 | Territorios de ultramar | Príncipe Regente |
 | Tierras intermedias | Gran Señor de los Caminos |

@@ -1,18 +1,32 @@
 # Astria
 
 ## Tipo
-Nación extinta. Cuna original del culto al Dios Negro.
 
-## Historia
-Astria fue el lugar de origen del culto al Dios Negro. En sus últimos días, la fe astriana degeneró en una forma extrema y fanática: veneraban al Dios Negro como un dios de la destrucción pura y buscaban activamente ser destruidos y despedazados por su deidad. Era una fe enferma, alocada y autodestructiva, donde el anhelado final del creyente era su propia aniquilación a manos del dios.
+Nación extinta situada al sur del Mar Oscuro. También fue llamada **la Nación de la Luz**.
 
-Astria fue destruida. Los motivos exactos de su caída se desconocen, pero la naturaleza autodestructiva de su fe en su fase terminal sugiere que su final pudo haber sido, en parte, obra de sus propios fieles.
+## Culto de Talmos
+
+Astria fue el lugar de origen del culto de **Talmos**, el Dios Negro. Los **Peregrinos Negros** actuaban como emisarios y perseguidores religiosos y llamaban herejes a quienes rechazaban su fe.
+
+La naturaleza de Talmos y el desarrollo profundo de su culto no están establecidos.
+
+## Refugiados y liberados
+
+Durante la Edad de la Podredumbre, una gran purga obligó a casi ciento veinte astrianos a huir hacia Stigria. La Gente de la Bruma los ocultó de los Peregrinos Negros y los ayudó a fundar Khalos.
+
+Desde Khalos, la Kys Tábura regresó repetidamente a Astria para liberar esclavos. Los liberados se asentaron en Durr, fundaron la Costa del Verano y posteriormente evacuaron hacia Alessya, donde levantaron Suntarys.
+
+## Destrucción
+
+Astria fue destruida en una época posterior. Las causas y circunstancias de su desaparición permanecen desconocidas.
 
 ## Legado
-El culto al Dios Negro sobrevivió a la destrucción de Astria a través de los refugiados y exiliados que llegaron a Stigria. Sin embargo, la versión del culto que arraigó en Sindria es radicalmente distinta de la fe astriana original: donde los astrianos buscaban la autodestrucción, los sindrios buscan el uso y la dominación de los monstruos para el engrandecimiento humano.
 
-Para un astriano de la época final, el culto sindrio actual sería considerado herejía.
+El culto de Talmos sobrevivió fuera de Astria. La relación histórica entre aquella tradición y el culto sindrio actual no está completamente documentada.
 
 ## Referencias
-- `docs/mundo/stigria/dragma/sindria/sindria.md`
-- `docs/mundo/stigria/dragma/kalos/kalos.md`
+
+- `docs/entidades/talmos.md`
+- `docs/organizaciones/peregrinos-negros.md`
+- `docs/mundo/stigria/dragma/khalos/khalos.md`
+- `docs/mundo/stigria/suntarys.md`

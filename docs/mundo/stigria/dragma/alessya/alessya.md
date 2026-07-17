@@ -12,9 +12,9 @@ Isla al suroeste del continente de Stigria, frente a la costa del Verano. Conoci
 ## Origen e historia
 
 ### Suntarys, la ciudadela de los Hijos del Sol
-Alessya fue el lugar donde los **Hijos del Sol** —esclavos escapados de tres islas de Astria antes del cataclismo que hundió aquella nación— fundaron **Suntarys**, su gran ciudadela. Allí, los tres pueblos se fundieron en uno solo.
+Los **Hijos del Sol** descendían de los esclavos liberados de Astria por la Kys Tábura. Sus Portadores transformaron el litoral de Durr y fundaron la **Costa del Verano**, pero la expansión del Rey Podrido los obligó a evacuarla. Los supervivientes cruzaron hasta Alessya y fundaron allí **Suntarys**, su gran ciudadela.
 
-Suntarys operó durante generaciones como el **escudo de Kalos** contra las peregrinaciones negras astrianas. Sus naves patrullaban las aguas entre la isla y el continente, hundiendo barcos misioneros del culto al Dios Negro y liberando esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**.
+Suntarys operó durante generaciones como el **escudo de Khalos** contra las peregrinaciones negras astrianas. Sus naves patrullaban las aguas entre la isla y el continente, hundiendo barcos misioneros del culto al Dios Negro y liberando esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**.
 
 ### Destrucción de Suntarys
 El ataque de los Valgard contra Suntarys **no fue sorpresivo**. La mayoría de sus habitantes ya habían huido a los asentamientos costeros del continente. Los Valgard solo querían **eliminar el símbolo**. La isla no fue destruida; solo cayó la gran ciudadela. El Raikim organizó los asentamientos continentales en tres Dominios —Lysgard, Zephyrgard y Vespergard—, deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
@@ -24,7 +24,7 @@ Durante siglos, la isla permaneció en ruinas. Tierra sagrada para los tres rein
 ### La Guerra de los Hermanos y el Principado
 Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el noble **Daryón Coralyss** de Alessya inició un reclamo de **derecho de dominio** sobre la isla. Pactó en secreto con **Kleóndras Aetheryon**, rey de Zephyrya, el matrimonio entre su hija **Thalyssa Coralyss** y el príncipe **Astryón Aetheryon**. Si el reclamo prosperaba, Alessya pasaría a Zephyrya por herencia y unión matrimonial.
 
-Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya. Y estaba embarazada. La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Kalos. **Nunca llegaron.** Su destino es un misterio hasta hoy.
+Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya. Y estaba embarazada. La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Khalos. **Nunca llegaron.** Su destino es un misterio hasta hoy.
 
 Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de asesinato. Estalló la **Guerra de los Hermanos**: zefirios y alessyanos contra lisarios. Hijos del Sol contra Hijos del Sol.
 
@@ -49,7 +49,7 @@ Isla sagrada de los Hijos del Sol. Antigua cuna de Suntarys. Protectorado rico y
 Comercio marítimo. Peregrinaje desde los tres reinos del Verano. Astilleros y conservación del patrimonio suntariano.
 
 ## El cuento de los Príncipes Perdidos
-En los tres reinos del Verano se narra todavía el cuento popular de los **Príncipes Perdidos**: Thalyssa Coralyss y Eryk Albyon, los amantes que huyeron hacia Kalos y jamás llegaron. Nadie sabe qué fue de ellos ni del hijo que Thalyssa llevaba en el vientre. El misterio ha generado incontables versiones: unos dicen que murieron en el camino, otros que se escondieron en Merenia, otros que alcanzaron Delfos y vivieron en paz. La verdad sigue siendo una de las grandes preguntas sin respuesta del imperio.
+En los tres reinos del Verano se narra todavía el cuento popular de los **Príncipes Perdidos**: Thalyssa Coralyss y Eryk Albyon, los amantes que huyeron hacia Khalos y jamás llegaron. Nadie sabe qué fue de ellos ni del hijo que Thalyssa llevaba en el vientre. El misterio ha generado incontables versiones: unos dicen que murieron en el camino, otros que se escondieron en Merenia, otros que alcanzaron Delfos y vivieron en paz. La verdad sigue siendo una de las grandes preguntas sin respuesta del imperio.
 
 ## Relaciones exteriores
 - **Lysarya, Zephyrya, Vesperya:** veneran la isla como cuna sagrada de los Hijos del Sol.
@@ -57,8 +57,8 @@ En los tres reinos del Verano se narra todavía el cuento popular de los **Prín
 
 ## Referencias
 - `docs/mundo.md`
-- `docs/mundo/stigria/dragma/ylumarya/ylumarya.md`
-- `docs/mundo/stigria/dragma/zefirya/zefirya.md`
+- `docs/mundo/stigria/dragma/lysarya/lysarya.md`
+- `docs/mundo/stigria/dragma/zephyrya/zephyrya.md`
 - `docs/mundo/stigria/dragma/vesperya/vesperya.md`
 - `docs/personajes/historicos/daryon-coralyss.md`
 - `docs/personajes/historicos/kleondras-aetheryon.md`

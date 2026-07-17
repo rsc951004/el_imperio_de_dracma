@@ -20,7 +20,11 @@ Shahrezad era gobernada por un único soberano con el título de **Shai**. El do
 
 ## Destino
 
-La mayor parte de Shahrezad fue destruida por el Rey Podrido. Muchos supervivientes huyeron o se rindieron ante el Bloque de Hierro. Ciertos clanes de los Sangre de Hierro los esclavizaron, aunque esa práctica no fue una política común de todo el bloque. Otros Sheijad conservaron su libertad en comunidades dispersas.
+La mayor parte de Shahrezad fue destruida por el Rey Podrido. Muchos supervivientes huyeron hacia Darvaz Sorkh, donde fueron contenidos por el Bloque de Hierro. La mayoría de los capturados terminó esclavizada por los Gheran.
+
+Los Sangre de Hierro asociaron a los Portadores con las campañas del Dominio Carmesí. Durante generaciones ejecutaron a los Portadores descubiertos entre los esclavos sheijad y sus descendientes.
+
+Roshan Terin nació dentro de esta población esclavizada y ocultó su condición de Portador del Sol.
 
 ## Convención de nombres
 
@@ -32,3 +36,4 @@ La sonoridad de los nombres sheijad toma inspiración persa como convención ext
 - `docs/mundo/stigria/edad-del-hierro.md`
 - `docs/personajes/amir.md`
 - `docs/personajes/ajriman.md`
+- `docs/personajes/roshan-terin.md`

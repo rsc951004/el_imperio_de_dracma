@@ -21,7 +21,7 @@ Raíces históricas: Taryim (belleza, salud, armonía) y Ylum (elegancia, porte,
 
 ## Miembros relevantes
 
-- **Sandor Solaryss** — Cronista y erudito de Kalos. Autor de las Crónicas. No es portador.
+- **Sandor Solaryss** — Cronista y erudito de Khalos. Autor de las Crónicas. No es portador.
 - **Doryan Solaryss** — Padre de Sandor. Actual cabeza de familia. Noble reconocido en Zephyrya y en todo el Imperio.
 - **Leondras Solaryss** — Hermano mayor de Sandor. Portador con dominio del viento. Designado próximo cabeza de familia.
 - **Sylas Solaryss** — Tatarabuelo. Explorador e historiador que visitó Erebia. Su diario permitió a Sandor escribir las Crónicas.

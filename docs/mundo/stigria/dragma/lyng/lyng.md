@@ -30,7 +30,7 @@ Las casas, silos y templos se construyen tradicionalmente con madera salvaje end
 
 Lyng existía antes del Raikim. Valgard lo conquistó y le impuso el nombre de Lynggard. Durante la Rebelión del Amanecer recuperó su nombre.
 
-El origen del pueblo brumense y su llegada al sur del Gherin permanecen pendientes.
+Los antepasados de los lyngardeses pertenecían a la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. La formación de Lyng como territorio diferenciado permanece pendiente.
 
 ## Economía
 
@@ -39,3 +39,4 @@ Agricultura, viñedos y pastoreo.
 ## Referencias
 
 - `docs/12-reinos.md`
+- `docs/mundo/stigria/gente-de-la-bruma.md`

@@ -15,7 +15,7 @@ Astryón Aetheryon era el hijo y heredero de Kleóndras Aetheryon, rey de Zephyr
 
 La noche anterior a la celebración del compromiso, Thalyssa huyó. No solo lo abandonó a él: huyó con **Eryk Albyon**, príncipe de Lysarya, de quien ya estaba embarazada. La humillación fue total.
 
-Cuando Thalyssa y Eryk desaparecieron camino a Kalos, Zephyrya —con Astryón como príncipe agraviado— acusó a Lysarya de secuestro. Estalló la **Guerra de los Hermanos**.
+Cuando Thalyssa y Eryk desaparecieron camino a Khalos, Zephyrya —con Astryón como príncipe agraviado— acusó a Lysarya de secuestro. Estalló la **Guerra de los Hermanos**.
 
 Tras la guerra, el emperador Edrik Mormund ejecutó a Kleóndras y proscribió a la casa Aetheryon del **Dex Códice**. El nombre de Astryón, como el de su padre, fue borrado de la historia imperial. Se desconoce qué fue de él después de la proscripción.
 
@@ -25,6 +25,6 @@ Tras la guerra, el emperador Edrik Mormund ejecutó a Kleóndras y proscribió a
 - **Eryk Albyon:** rival. Príncipe de Lysarya. Desaparecido con Thalyssa.
 
 ## Referencias
-- `docs/mundo/stigria/dragma/zefirya/zefirya.md`
+- `docs/mundo/stigria/dragma/zephyrya/zephyrya.md`
 - `docs/personajes/historicos/kleondras-aetheryon.md`
 - `docs/personajes/historicos/thalyssa-coralyss.md`

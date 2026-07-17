@@ -10,7 +10,7 @@ Los Sheijad arribaron por mar a Rauven. Afirmaban proceder de **Erebia**, a la q
 
 Su dominio de la forja del hierro superaba al de los Gheran, que todavía dependían principalmente del bronce. También contaban con Portadores capaces de manifestar distintos elementos.
 
-Los recién llegados mataron a **Lauffen**, una Grimmen conocida por los Gheran como la Doncella Errante, y levantaron en Rauven la **Fortaleza Negra de Rostam**. No consiguieron someter Mahren, donde los Grimmen siguieron impidiendo un dominio estable.
+Los recién llegados mataron a **Lauffen**, una Grimmen conocida por los Gheran como la Doncella Errante, y levantaron en Rauven la **Fortaleza Negra de Rostam**. No consiguieron someter Grimheim, donde los Grimmen siguieron impidiendo un dominio estable.
 
 ## Shahrezad
 
@@ -20,7 +20,7 @@ Durante más de trescientos años, los Gheran y Shahrezad mantuvieron una paz vi
 
 ## Final
 
-La guerra entre Shahrezad y los Gheran todavía no había concluido cuando nació el Rey Podrido. La nueva entidad tomó Rostam, sometió Mahren y cruzó el Riegel con un ejército de criaturas vivas y Grimmen subyugados.
+La guerra entre Shahrezad y los Gheran todavía no había concluido cuando nació el Rey Podrido. La nueva entidad tomó Rostam, sometió Grimheim y cruzó el Riegel con un ejército de criaturas vivas y Grimmen subyugados.
 
 El Rey Podrido destruyó Shahrezad Occidental y consumió a cuantos encontró durante su avance. La caída del Dominio Carmesí marcó el final de la Edad del Hierro y el comienzo de la **Edad de la Podredumbre**.
 

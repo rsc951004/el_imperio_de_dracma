@@ -23,9 +23,9 @@ Talasya
 **Costas del Verano.** El más oriental y el más pequeño en extensión de los tres reinos del Verano, al este de Zephyrya. Su costa sur da a mar abierto; su flanco este bordea el **Estrecho de la Tríada**, que separa Vesperya de Merenia (Tierras Antiguas). El estrecho conduce al norte hacia la **Bahía de los Reyes**, donde se encuentra el puerto de Eldengaria. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Vesperya es uno de los tres reinos fundados por los **Hijos del Sol**: descendientes de los esclavos que escaparon de las islas de Astria antes del cataclismo que hundió aquella nación. Los tres pueblos esclavos —cada uno de una isla distinta— se fundieron en **Suntarys**, la gran ciudadela que erigieron en la isla de Alessya (la Isla Hermosa), y allí se convirtieron en un solo pueblo.
+Vesperya es uno de los tres reinos de los **Hijos del Sol**, descendientes de los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron el litoral de Durr y fundaron la **Costa del Verano**. Cuando la expansión del Rey Podrido los obligó a evacuarla, cruzaron hasta Alessya y fundaron **Suntarys**, donde terminaron por formar un solo pueblo.
 
-Suntarys fue durante generaciones el **escudo de Kalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
+Suntarys fue durante generaciones el **escudo de Khalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
 
 Cuando el Raikim Valgard destruyó la ciudadela de Suntarys —ataque anunciado, con la población ya evacuada a los asentamientos costeros del continente—, organizó esos asentamientos en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
 
@@ -70,7 +70,7 @@ Regido por la Casa Valeryus. El rey reinante es **Marcus Valeryus ★**, Rey del
 ## Historia
 Vesperya fue fundada por el Raikim Valgard como **Vespergard**. Es uno de los tres reinos del Verano que descienden directamente de Suntarys. Su posición geográfica la convirtió desde el principio en la potencia naval de los Hijos del Sol.
 
-A diferencia del viejo canon que le atribuía una absurda «inspiración astriana», la flota de Vesperya es **puramente suntariana**: nació para hundir barcos astrianos, no para imitarlos. Astria es «la ramera de la sombra».
+La flota de Vesperya es de tradición **suntariana** y conserva el propósito histórico de proteger a los Hijos del Sol frente a las expediciones astrianas. Astria es conocida entre ellos como «la ramera de la sombra».
 
 ### La Guerra de los Hermanos
 Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), estalló la **Guerra de los Hermanos** entre Zephyrya y Lysarya. Vesperya fue el único de los tres reinos del Verano que **no combatió**. El emperador Edrik le prohibió entrar en guerra: su deber era defender el Estrecho de la Tríada y la entrada a Eldengaria. No podía distraerse en rencillas entre hermanos.
@@ -95,7 +95,7 @@ Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; *
 
 ## Referencias
 - `docs/12-reinos.md`
-- `docs/mundo/stigria/dragma/alesya/alesya.md`
+- `docs/mundo/stigria/dragma/alessya/alessya.md`
 
 ## Guía de nombres
 **Grecolatina.** Los nombres de personas y lugares de Vesperya siguen la tradición grecolatina.

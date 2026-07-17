@@ -23,9 +23,9 @@ Anemora
 **Costas del Verano.** Ocupa la esquina suroeste del continente, debajo de Lysarya y al oeste de Vesperya. Es el segundo en extensión de los tres reinos del Verano. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Zephyrya es uno de los tres reinos fundados por los **Hijos del Sol**: descendientes de los esclavos que escaparon de las islas de Astria antes del cataclismo que hundió aquella nación. Los tres pueblos esclavos se fundieron en **Suntarys**, la gran ciudadela que erigieron en la isla de Alessya (la Isla Hermosa), y allí se convirtieron en un solo pueblo.
+Zephyrya es uno de los tres reinos de los **Hijos del Sol**, descendientes de los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron el litoral de Durr y fundaron la **Costa del Verano**. Cuando la expansión del Rey Podrido los obligó a evacuarla, cruzaron hasta Alessya y fundaron **Suntarys**, donde terminaron por formar un solo pueblo.
 
-Suntarys fue durante generaciones el **escudo de Kalos** contra las peregrinaciones negras astrianas. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
+Suntarys fue durante generaciones el **escudo de Khalos** contra las peregrinaciones negras astrianas. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
 
 Cuando el Raikim Valgard destruyó la ciudadela de Suntarys, organizó los asentamientos costeros continentales en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
 
@@ -59,7 +59,7 @@ Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), Zephy
 
 Lo que Kleóndras no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya. Y estaba embarazada.
 
-La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Kalos. **Nunca llegaron.** Su desaparición es un misterio hasta hoy —el cuento de los **Príncipes Perdidos**—.
+La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Khalos. **Nunca llegaron.** Su desaparición es un misterio hasta hoy —el cuento de los **Príncipes Perdidos**—.
 
 Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de asesinato. Estalló la **Guerra de los Hermanos**: zefirios y alessyanos contra lisarios. Lysarya logró invadir Zephyrya.
 
@@ -79,7 +79,7 @@ Turismo de todo el imperio. Agricultura de planicie y ganadería. Comercio de pi
 
 ## Referencias
 - `docs/12-reinos.md`
-- `docs/mundo/stigria/dragma/alesya/alesya.md`
+- `docs/mundo/stigria/dragma/alessya/alessya.md`
 
 ## Guía de nombres
 **Grecolatina.** Los nombres de personas y casas de Zephyrya siguen la tradición grecolatina con las reglas fonéticas y semánticas de las Costas del Verano.

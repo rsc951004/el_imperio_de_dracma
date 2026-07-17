@@ -32,7 +32,7 @@ Las construcciones tradicionales utilizan madera salvaje endurecida con aceites 
 
 Kyst existía antes del Raikim. Valgard lo conquistó y le impuso el nombre de Kystgard. Durante la Rebelión del Amanecer recuperó su nombre.
 
-El origen del pueblo brumense y su llegada al sur del Gherin permanecen pendientes.
+Los antepasados de los kystianos pertenecían a la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. La formación de Kyst como territorio diferenciado permanece pendiente.
 
 ## Economía
 
@@ -41,3 +41,4 @@ Pesca, salazón, redes y astilleros modestos.
 ## Referencias
 
 - `docs/12-reinos.md`
+- `docs/mundo/stigria/gente-de-la-bruma.md`

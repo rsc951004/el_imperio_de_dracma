@@ -19,7 +19,7 @@ La casa tiene la particularidad de contar con un matrimonio mixto Bruma-Hierro �
 
 ## Miembros relevantes
 
-- **Yanos Gueika** — Soldado y guardia de la Ciudadela de Kalos. No es portador.
+- **Yanos Gueika** — Soldado y guardia de la Ciudadela de Khalos. No es portador.
 - **Kenvan Gueika** (padre, fallecido) — Fue guardia, igual que Yanos. Murió por enfermedad repentina.
 - **Freya Fenec** (madre) — Viuda, mujer común, madre de ocho hijos.
 - **Hugo Gueika** (abuelo paterno) — Yanos nunca lo conoció. Su padre lo despreciaba profundamente.
