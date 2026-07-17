@@ -37,6 +37,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Amir | Personaje histórico | Niño sheijad y Portador Sombrío cuya unión con Ajriman originó al Rey Podrido. | [Ver ficha](personajes/amir.md) |
 | Ajriman | Grimmen | Ser incorpóreo de Rauven cuya unión con Amir originó al Rey Podrido. | [Ver ficha](personajes/ajriman.md) |
 | Lauffen | Grimmen | Doncella Errante muerta por los primeros Sheijad llegados a Stigria. | [Ver ficha](personajes/lauffen.md) |
+| Tanyaro Mano de Serpiente | Personaje legendario | Contenido reservado a su ficha de canon velado. | [Ver ficha](personajes/tanyaro-mano-de-serpiente.md) |
 | Alastor Ormur | Personaje histórico | Miembro de la Casa Ormur pendiente de reubicación histórica. | [Ver ficha](personajes/alastor-ormur.md) |
 | Rey Podrido | Entidad híbrida | Identidad nacida de la unión entre Amir y Ajriman. Confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |
 | Armin Mormund | Noble y espadachín | Miembro actual de la Casa Mormund y maestro de Sandor Solaryss. | [Ver ficha](personajes/armin-mormund.md) |
