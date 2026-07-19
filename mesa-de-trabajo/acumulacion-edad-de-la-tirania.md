@@ -636,6 +636,100 @@ Amanecer y la caída del Raikim.
 - ¿En qué momento el señor de Sindgard se convierte en «Rey del Foso»?
 - ¿Quiénes son los Raiks 3, 5 y 7–16?
 
+## 12. Eisengard, Guldengard y la reconceptuación del Hierro
+
+> En desarrollo, 19 de julio de 2026.
+
+### Arquitectura territorial
+
+Eisengard y Guldengard son y serán siempre dos Dominios y dos reinos separados.
+**No hay unificación.** La nota previa sobre una «futura unificación» queda
+descartada.
+
+### Eisen (Hierro)
+
+Eisen es un valle minero en el este de la planicie interior, tierra de
+forjadores y guerreros. Su población constituye el corazón étnico de los Sangre
+de Hierro.
+
+- **Recurso principal:** Verilium. La extracción y el procesamiento del mineral
+  se trasladan desde Veleskaria hacia Eisen.
+- **Forja estratégica:** capital de la confección del Acero del Alba, la
+  aleación creada durante la Edad de Plata a partir de metales y minerales de
+  Stömur y saberes del Verano.
+- **Concepto heredado:** el «yunque del imperio» de la descanonizada Waffengard
+  y las «montañas, forjas y Verilium» de la descanonizada Skarngard convergen
+  ambos sobre Eisen.
+
+#### Casas de Eisen
+
+Dos casas rescatadas del material descanonizado:
+
+| Casa | Tipo | Origen |
+|------|------|--------|
+| **Hammer** | Casa real de Eisen | Skarngard |
+| **Meister** | Casa noble de Eisen (rol pendiente) | Waffengard |
+
+#### Pendientes de Eisen
+
+- Título de la corona (no «Rey del Acero»).
+- Capital (Stalheim, de Waffengard, como candidato no confirmado).
+- Relación concreta entre Hammer y Meister dentro del reino.
+- Origen histórico: casas del Gran Valle que huyeron hacia el este durante el
+  alzamiento del Rey Podrido y se asentaron en la planicie minera.
+
+### Gülden (Oro)
+
+Gülden ocupa el valle rodeado de montañas ricas en oro al este de Eisen.
+
+- **Recurso principal:** oro.
+- **Función imperial:** acuñación del Ghild, la moneda del Raikim. Su casa
+  gobernante está vinculada a la tesorería del Raik.
+- **Casa, capital, título y concepto completo:** pendientes.
+
+### Veleskaria (reconceptuación)
+
+La extracción de Verilium se traslada a Eisen. Veleskaria requiere un nuevo
+anclaje económico e identitario.
+
+#### Nuevo concepto
+
+Epicentro místico de Stigria. Centro de estudio y práctica del Blesk y refugio
+de Portadores. La vocación industrial se reorienta hacia la logística y el
+abastecimiento de Esteria.
+
+- **Esteria es Esteria:** Veleskaria no absorbe la identidad del Paso. Su rol es
+  de soporte material y espiritual, no de control.
+- **Título de la corona:** «Rey de la Montaña» menciona Verilium y debe
+  cambiarse. El nuevo título queda pendiente.
+- **Concepto completo:** pendiente de definición concreta.
+
+### Red matrimonial del Hierro
+
+Las casas del Hierro mantienen una red de alianzas matrimoniales. Con la
+introducción de Hammer y Meister en Eisen, y la futura casa de Gülden, la red
+debe reconstruirse caso por caso. Las casas implicadas son:
+
+- **Canónicas:** Wolfen (Flemmengard), Reisner (Sturmgard), Falken, Brandt,
+  Jaeger.
+- **Rescatadas:** Hammer, Meister, Brunnen.
+- **Pendientes:** casa de Gülden.
+
+### Origen histórico de los Dominios del Hierro
+
+Durante el alzamiento del Rey Podrido, varias casas del Gran Valle huyeron hacia
+el este y se asentaron en las regiones de Eisen y Gülden. Estas casas
+refugiadas dieron origen a las poblaciones que más tarde, bajo el Raikim, se
+constituirían como los Dominios de Eisengard y Guldengard.
+
+---
+
+## Registro de tracking
+
+Las decisiones sobre territorios, reinos y títulos se consolidan en
+`mesa-de-trabajo/territorios-reinos-titulos.md`. Ese archivo es el punto de
+referencia para mantener la coherencia entre hilos de trabajo paralelos.
+
 ## Protocolo para retomar el proceso
 
 1. Elegir una sola situación de la sección anterior.
@@ -653,6 +747,7 @@ Amanecer y la caída del Raikim.
 | 2026-07-19 | **Roshan Therin → Stelian Therin.** Stelian es su nombre de nacimiento sangheskio (rumano). El apellido Therin fue dado por los Hijos del Sol (Veranos), no por Suntarys. Stelian eligió Casa Therin porque fue la primera identidad que sintió suya como hombre libre. Corrección editorial: la acumulación Plata-02 atribuye incorrectamente el nombre a Suntarys. | `docs/personajes/roshan-therin.md` → `stelian-therin.md`, todas las menciones a «Roshan» en docs/ y cuentos/, cronologia, edad-de-plata, rudgar-valgard, guerra-de-unland, roshdom. |
 | 2026-07-19 | Origen real de los Sangheskios (canon velado): ancestros expulsados de Erebia, verdadero origen en Rukeresh, huyen de Tamurrak (Edad del Sol Devorado). Llegan a Rauven mintiendo, descubren que los Gheran son atrasados y conquistan por oportunismo. | `docs/mundo/stigria/sangheskios.md`. Tamurrak, Edad del Sol Devorado y Rukeresh como semillas para Erebia. |
 | 2026-07-19 | Conflicto Sindgard–Esteria: Lumino Therin (bisnieto de Stelian, Guardián del Paso), Stancu Radanescu (señor de Sindgard), Andrey Radanescu (heredero capturado), Vedrik Frosthain (señor de Frosthain). Gran Concilio del Hielo (Eirik Valgard, 4° Raik): Therin despojado de Esteria, Frosthain disuelta, Andrey exiliado en la Guardia Amarilla, reclamación de Sindgard oficializada. Una generación después: hijo de Andrey fracasa, Guardia Amarilla lo traiciona, Grimmen casi toman Esteria. Decreto de Sigmar Valgard (6° Raik, nieto de Eirik): Esteria sin señor hasta que aparezca un Maegi Solar. | Fichas nuevas: Lumino Therin, Stancu Radanescu, Andrey Radanescu, Vedrik Frosthain, Eirik Valgard, Sigmar Valgard. Actualizar: Casa Therin, Casa Frosthain, Casa Radanescu, Sindgard, Esteria. «Rey del Foso» proviene del canon; su origen queda pendiente de desarrollo. |
+| 2026-07-19 | **Eisengard y Guldengard:** sin unificación, dos reinos separados siempre. **Eisen:** valle minero, Verilium (trasladado desde Veleskaria), Acero del Alba, corazón Sangre de Hierro. Casa real: **Hammer** (rescatada de Skarngard). Casa noble: **Meister** (rescatada de Waffengard). Título de corona pendiente. **Gülden:** oro, acuñación del Ghild. Casa, capital y título pendientes. **Veleskaria:** reconceptuada como epicentro místico (Portadores, Blesk) y soporte logístico de Esteria. Título «Rey de la Montaña» obsoleto por mención a Verilium. Origen histórico: casas del Gran Valle huídas durante el alzamiento del Rey Podrido. | `docs/mundo/stigria/dragma/eisengard/eisengard.md`, `docs/mundo/stigria/dragma/guldengard/guldengard.md`, `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`, fichas de casas y personajes rescatados/descanonizados. Archivo de tracking: `mesa-de-trabajo/territorios-reinos-titulos.md`. |
 
 ## Referencias canónicas de consulta
 
