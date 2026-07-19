@@ -16,10 +16,11 @@
 
 Dinastía que gobernó el Raikim Valgard, la tiranía que dominó Stigria antes de la fundación del Imperio de Dragma. Su nombre procede del clan formado alrededor de **Val el Terrible** durante la Guerra del Valle Dorado. El clan alcanzó predominio entre los Sangre de Hierro durante la Edad de la Podredumbre y, en una etapa todavía no documentada, se transformó en casa y quedó vinculado con Eldengard.
 
-Rudgar Valgard y Roshan Terin dirigieron la campaña que liberó el Gherin, abrió
-el Foso de la Calamidad y confinó al Rey Podrido en Rauven. Después de un
-periodo de transición, el segundo Stamengherin documentado proclamó a **Rudgar
-Rompe Maldiciones** como primer Raik y fundó el Raikim.
+Rudgar Valgard y Roshan Therin dirigieron la campaña que obligó al Rey Podrido
+a retroceder hasta Rauven. Los Portadores abrieron el Foso de la Calamidad y
+derribaron el conducto del Rost para establecer su confinamiento inicial.
+Después de un periodo de transición, el segundo Stamengherin documentado
+proclamó a **Rudgar Rompe Maldiciones** como primer Raik y fundó el Raikim.
 
 La esclavitud continuó siendo una institución legal. El consejo perdonó a los
 Sheijad y vinculó su futura emancipación al dominio del Raikim sobre todo el
@@ -32,6 +33,6 @@ Dragma.
 
 ## Miembros relevantes
 
-- **Rudgar Valgard** — Primer Raik. El Martillo Sangriento. El Traidor Rojo. Asesinó a Roshan Terin a traición.
+- **Rudgar Valgard** — Primer Raik. El Martillo Sangriento.
 - **Drakar Valgard** — Segundo Raik. Hijo de Rudgar.
 - **Grimar Valgard** — Decimoséptimo y último Raik. Grimar de Piedra. Derrocado por la rebelión.

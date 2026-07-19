@@ -6,15 +6,17 @@
 |-------|-------|
 | **Nombre** | Jaeger |
 | **Tipo** | Casa noble menor |
-| **Reino** | Waffengard |
+| **Reino** | Pendiente |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
 | **Fundador** | Pendiente |
 
 ## Historia y descripción
 
-Casa noble de Waffengard. Nombres de sonoridad germánica. Casa de origen de la reina consorte de Sturmgard. Vinculada por sangre a la Casa Meister (Sabina Jaeger es hermana de Jorgen Meister).
+Casa noble de origen pendiente. Sus nombres siguen una sonoridad germánica. La
+relación de la casa con Sturmgard se expresa a través de Sabina Jaeger; sus
+antecedentes familiares permanecen pendientes.
 
 ## Miembros relevantes
 
-- **Sabina Jaeger**. Reina consorte de Sturmgard. Hermana de Jorgen Meister.
+- **Sabina Jaeger**. Reina consorte de Sturmgard.

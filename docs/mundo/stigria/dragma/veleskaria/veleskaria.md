@@ -3,10 +3,6 @@
 ## Tipo
 Reino del Imperio de Dragma. Protector de Khalos.
 
-## Nombre valgard
-Veleskagard
-
-
 ## Capital
 Stancra
 ## Casa real
@@ -20,19 +16,20 @@ Stancra
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
 
 ## Afiliación geográfica
-**Paso del Oriente.** Este del Gherin. Linajes gheran mezclados con otras culturas desde antiguo. Nombres de sonoridad eslava (convención de escritura, no cultura del mundo).
+La relación de Veleskaria con los territorios históricos de Dresk y Weissen
+permanece pendiente. No forma parte del Paso del Oriente, nombre reservado para
+Esteria, el Foso y el Riegel. Sus nombres siguen una convención de sonoridad
+eslava.
 
 
 ## Gobierno
 Regido por la Casa Enescu. La reina reinante es **Ileana Enescu ★**, Reina de la Montaña. Su consorte es la reina Yelena Gorski, originaria de Sindria.
 
 ## Historia
-Veleskaria fue fundada por el Raikim Valgard como **Veleskagard**. El Raikim le
-asignó el rol de protector de Khalos como estrategia de control: necesitaba un
-estado cercano que vigilara la ciudadela después de que la pretensión de
-soberanía formulada por el segundo Stamengherin nunca se convirtiera en una
-subyugación efectiva. Con el tiempo, Veleskaria se unió a los reinos del Bloque
-del Amanecer que se alzaron contra la tiranía que la había creado.
+La formación de Veleskaria como reino y su vínculo con los dos Dominios
+Carmesíes de la Edad de Plata permanecen pendientes. Su función posterior como
+protector de Khalos está documentada, pero sus circunstancias de origen se
+desarrollarán al tratar la edad posterior a la de Plata.
 
 ## Concepto
 Protector de Khalos, minero e industrial. Las montañas de Verim, ricas en Verilium, atraviesan su territorio.
@@ -45,7 +42,6 @@ Oficialmente protector de Khalos. El pacto imperial garantiza la autonomía de l
 
 ## Referencias
 - `docs/12-reinos.md`
-- `protoversiones/proto_v2/Anexo II.md`
 
 ## Guía de nombres
 **Rumana.** Los nombres de personas y lugares de Veleskaria siguen la tradición rumana.

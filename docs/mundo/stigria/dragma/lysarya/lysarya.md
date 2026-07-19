@@ -23,11 +23,15 @@ Aurolis
 **Costas del Verano.** El más septentrional de los tres reinos del Verano, al norte de Zephyrya. Limita con Sturmgard (Valle de Hierro) por el norte. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Lysarya es uno de los tres reinos de los **Hijos del Sol**, descendientes de los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron el litoral de Dürr y fundaron la **Costa del Verano**. Cuando la expansión del Rey Podrido los obligó a evacuarla, cruzaron hasta Alessya y fundaron **Suntarys**, donde terminaron por formar un solo pueblo.
+Lysarya es uno de los tres reinos de los **Hijos del Sol**, descendientes de
+los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron
+el litoral de Dürr y fundaron la **Costa del Verano**. La evolución de aquellos
+asentamientos hasta los reinos actuales y su relación con Suntarys pertenecen a
+una edad posterior a la de Plata.
 
-Suntarys fue durante generaciones el **escudo de Khalos** contra las peregrinaciones negras astrianas. Sus naves hundieron barcos misioneros, sus espías liberaron esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
-
-Cuando el Raikim Valgard destruyó la ciudadela de Suntarys —ataque anunciado, con la población ya evacuada a los asentamientos costeros del continente—, organizó esos asentamientos en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
+La memoria de la esclavitud astriana hace que los Hijos del Sol llamen a Astria
+**«la ramera de la sombra»**. Cualquier asociación con aquella nación es una
+ofensa grave.
 
 ## Geografía
 Lysarya es el más extenso de los tres reinos del Verano. Le sigue Zephyrya en tamaño, y Vesperya es el más pequeño en extensión territorial. Su costa es una muralla de **acantilados y despeñaderos**: no hay playas, no hay puertos, no hay fondeaderos. El mar golpea contra paredes de roca sin ofrecer tregua. La costa es tan irregular que ningún asentamiento portuario ha prosperado jamás.
@@ -43,13 +47,16 @@ Muchos lisarios se sienten más afines a los reinos del norte que a sus propios 
 Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Lysarya:** amarillo y blanco hueso — la tierra, los pastos, el hueso del ganado.
 - **Zephyrya:** violeta — los atardeceres de la costa, la flor del Verano.
-- **Vesperya:** verde — el mar profundo, la aventura, el estrecho.
+- **Vesperya:** azul profundo — el mar, la aventura, el estrecho.
 
 ## Gobierno
 Regido por la Casa Corinthyos. La reina reinante es **Octavya Corinthyos ★**, Reina de la Roca. Su consorte es Helyo Venthyss, de casa noble de Zephyrya.
 
 ## Historia
-Lysarya fue fundada por el Raikim Valgard como **Lysgard**. Fue parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar Valgard.
+Durante el Raikim, el territorio recibió el nombre de **Lysgard**. La formación
+de Lysarya como reino y su relación con Suntarys permanecen pendientes. Fue
+parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar
+Valgard.
 
 ### La Guerra de los Hermanos
 Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el noble **Daryón Coralyss** de Alessya pactó en secreto con **Kleóndras Aetheryon**, rey de Zephyrya, el matrimonio entre su hija **Thalyssa Coralyss** y el príncipe **Astryón Aetheryon**. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zephyrya.

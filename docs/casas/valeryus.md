@@ -7,7 +7,8 @@ Casa real
 Vesperya (Costas del Verano)
 
 ## Historia y descripción
-Casa reinante de Vesperya. Heredera de la sangre marinera de Suntarys. Gobierna la flota más poderosa de la Costa del Verano, forjada en la tradición suntariana.
+Casa reinante de Vesperya. Gobierna la flota más poderosa de la Costa del
+Verano, forjada en la tradición marítima de la región.
 
 ## Título
 Rey/Reina del Tridente

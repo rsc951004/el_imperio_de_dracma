@@ -15,7 +15,7 @@ Grimheim nunca estuvo bajo control de Shahrezad.
 
 ## Fortaleza Negra de Rostam
 
-Rostam era una ciudadela circular de piedra negra, con forma de campana y dimensiones reducidas en comparación con las extensas ciudades posteriores. Su cubierta permanente hacía que pareciera completamente cerrada desde el exterior, aunque desde el interior se podía contemplar el cielo. Los Portadores sheijad participaron en su construcción.
+Rostam era una ciudadela circular de piedra negra, con forma de campana y dimensiones reducidas en comparación con las extensas ciudades posteriores. Su cubierta permanente hacía que pareciera completamente cerrada desde el exterior, aunque desde el interior se podía contemplar el cielo. Los Portadores sheijad participaron en su construcción. Se encontraba en Rauven.
 
 ## Murallas Carmesí
 
@@ -39,3 +39,4 @@ Después de la destrucción, el Rey Podrido cerró Darvaz Sorkh con sus propias 
 - `docs/mundo/stigria/guerra-del-valle-dorado.md`
 - `docs/mundo/stigria/edad-del-hierro.md`
 - `docs/personajes/rey-podrido.md`
+- `docs/mundo/stigria/rostam.md`

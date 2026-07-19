@@ -14,7 +14,8 @@ La naturaleza de Talmos y el desarrollo profundo de su culto no están estableci
 
 Durante la Edad de la Podredumbre, una gran purga obligó a casi ciento veinte astrianos a huir hacia Stigria. La Gente de la Bruma los ocultó de los Peregrinos Negros y los ayudó a fundar Khalos.
 
-Desde Khalos, la Kys Tábura regresó repetidamente a Astria para liberar esclavos. Los liberados se asentaron en Dürr, fundaron la Costa del Verano y posteriormente evacuaron hacia Alessya, donde levantaron Suntarys.
+Desde Khalos, la Kys Tábura regresó repetidamente a Astria para liberar
+esclavos. Los liberados se asentaron en Dürr y fundaron la Costa del Verano.
 
 ## Destrucción
 
@@ -29,4 +30,3 @@ El culto de Talmos sobrevivió fuera de Astria. La relación histórica entre aq
 - `docs/entidades/talmos.md`
 - `docs/organizaciones/peregrinos-negros.md`
 - `docs/mundo/stigria/dragma/khalos/khalos.md`
-- `docs/mundo/stigria/suntarys.md`

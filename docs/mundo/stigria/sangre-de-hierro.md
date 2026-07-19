@@ -32,18 +32,21 @@ de la Podredumbre. Rudgar fue proclamado primer Raik en el mismo Stamengherin.
 
 Los Sangre de Hierro esclavizaron a numerosos supervivientes sheijad después de la caída de Shahrezad. La asociación entre los Portadores y las campañas del Dominio Carmesí produjo una persecución prolongada: los Portadores descubiertos entre los esclavos sheijad y sus descendientes eran ejecutados.
 
-Roshan Terin nació dentro de esta población esclavizada y ocultó su condición de Portador del Sol.
+Roshan Therin nació dentro de esta población esclavizada. Sus padres lograron
+ocultar su condición de Portador del Sol.
 
-El Stamengherin de fundación del Raikim reconoció a los Sheijad como habitantes
-del Gherin, pero negó a la generación viva la identidad Sangre de Hierro. Todo
-hijo nacido de la unión entre un Sheijad y un Sangre de Hierro sería reconocido
-plenamente como parte del nuevo pueblo.
+Después de la Guerra de Unland, la proclamación de los **Sangre de Hierro
+Carmesí** liberó a los sheijad del norte y les dio una identidad política
+propia dentro del Raikim. Su raíz sheijad continuó siendo histórica y cultural.
+
+Los Sangre de Hierro Carmesí no son una condición intermedia ni una simple
+extensión de Sangre de Hierro: son los Guardianes del Norte y defienden Dresk y
+Weissen. Desde Esteria, guardan el Paso del Oriente, limitado al Foso y al
+Riegel.
 
 ## Legado moderno
 
 El Bloque de Hierro moderno recuperó deliberadamente el nombre de la alianza antigua. No es la continuación institucional de aquella coalición.
-
-La relación histórica de Flemmen con Flemmengard y de Sturm con Sturmgard está establecida. La correspondencia de Eisen y Gülden con Waffengard y Skarngard permanece pendiente.
 
 ## Referencias
 
@@ -51,6 +54,7 @@ La relación histórica de Flemmen con Flemmengard y de Sturm con Sturmgard est�
 - `docs/mundo/stigria/guerra-del-valle-dorado.md`
 - `docs/personajes/val-el-terrible.md`
 - `docs/personajes/wolfram-el-bardo.md`
-- `docs/personajes/roshan-terin.md`
+- `docs/personajes/roshan-therin.md`
+- `docs/mundo/stigria/sangre-de-hierro-carmesi.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
 - `docs/mundo/stigria/edad-de-plata.md`

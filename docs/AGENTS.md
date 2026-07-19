@@ -77,7 +77,9 @@ Ejemplos:
 
 ### Reglas de las Costas del Verano
 
-Los tres reinos del Verano —**Lysarya**, **Zephyrya** y **Vesperya**— comparten origen suntariano, sangre y lengua. Sus nombres siguen reglas propias, más estrictas que las del resto del imperio.
+Los tres reinos del Verano —**Lysarya**, **Zephyrya** y **Vesperya**— comparten
+una raíz en los Hijos del Sol y una tradición lingüística. Sus nombres siguen
+reglas propias, más estrictas que las del resto del imperio.
 
 #### Reglas fonéticas (aplican a todos los nombres del Verano)
 

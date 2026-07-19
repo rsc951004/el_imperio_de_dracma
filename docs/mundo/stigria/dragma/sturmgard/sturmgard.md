@@ -24,7 +24,9 @@ Nordvik
 
 
 ## Gobierno
-Regido por la Casa Reisner. El rey reinante es **Jorin Reisner ★**, Rey de la Tormenta. Su consorte es la reina Sabina Jaeger, originaria de Waffengard (Casa Jaeger).
+Regido por la Casa Reisner. El rey reinante es **Jorin Reisner ★**, Rey de la
+Tormenta. Su consorte es la reina Sabina Jaeger; sus antecedentes de origen
+permanecen pendientes.
 
 ## Historia
 Sturmgard fue uno de los cuatro reinos del Bloque de Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada a las tormentas, los fiordos helados y la dureza de sus gentes.

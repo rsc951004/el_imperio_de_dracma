@@ -12,7 +12,10 @@ Isla tropical. Selvas densas, acantilados de roca oscura, grutas minerales, play
 ## Historia
 
 ### Descubrimiento
-Delfos fue descubierta durante la **Edad de la Podredumbre** por **Artemis**, un navegante elyrio —heredero de la tradición marinera de Suntarys— que se perdió en el mar oriental. La isla ya tenía nombre propio: los delfines que rodeaban sus costas le dieron el que conserva hasta hoy.
+Delfos fue descubierta durante la **Edad de la Podredumbre** por **Artemis**, un
+navegante elyrio que se perdió en el mar oriental. La isla ya tenía nombre
+propio: los delfines que rodeaban sus costas le dieron el que conserva hasta
+hoy.
 
 Al regresar al Gherin, Artemis fue reconocido como su descubridor. Según la costumbre de aquella era, su nombre se convirtió en el de la casa que gobernaría la isla: la **Casa Artema**.
 
@@ -33,7 +36,7 @@ Protectorado imperial. Gobernado por la **Casa Artema** con título de **Regente
 Los Artema gobiernan Delfos de forma pública y reconocida por el imperio desde su incorporación formal durante la dinastía Amschel. Su autoridad sobre la isla es anterior al propio imperio. El secreto que custodian no es quiénes gobiernan, sino de quién descienden realmente: la sangre del príncipe que todo el mundo cree ejecutado corre por las venas de los regentes de Delfos.
 
 ## Concepto
-Isla tropical remota en el mar oriental. Descubierta en la Edad de la Podredumbre e incorporada al imperio durante la dinastía Amschel. Refugio de exiliados, forja de minerales contra la sombra y cuna del ave que alimenta el Gran Faro de Esteria. Gobernada por la Casa Artema, que porta en secreto la sangre de Mijail Mormund.
+Isla tropical remota en el mar oriental. Descubierta en la Edad de la Podredumbre e incorporada al imperio durante la dinastía Amschel. Refugio de exiliados y forja de minerales contra la sombra. Gobernada por la Casa Artema, que porta en secreto la sangre de Mijail Mormund.
 
 ## Sociedad
 Delfos es un refugio. A lo largo de los siglos, la isla ha recibido a quienes huyen de algo: deudas imposibles, persecuciones políticas, pasados que no admiten regreso. La geografía hace el resto: pocos preguntan y menos aún persiguen a alguien hasta una isla que casi nadie sabe encontrar. La comunidad es cerrada, autosuficiente y desconfiada del exterior por instinto de supervivencia.
@@ -46,10 +49,8 @@ Las grutas de Delfos albergan **tierras extrañas**, minerales con propiedades o
 ### Caza en el Grimm
 Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **el Grimm** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stömur.
 
-### El ave del Faro
-Delfos es el único lugar del mundo donde habita y se cultiva una especie de ave cuya excreta, procesada mediante un método secreto, produce el material combustible que alimenta la **llama verde del Gran Faro de Esteria**. La luz que quema espectros, poseídos y criaturas controladas por Rey Podrido depende de esta isla remota.
-
-Los **guardianes del Faro** y la **Casa Artema** comparten el conocimiento necesario para producir este combustible. Las circunstancias en que se estableció el vínculo entre ambos protectorados permanecen pendientes.
+### Relación con Esteria
+La relación histórica entre Delfos y el Gran Faro de Esteria permanece pendiente. Los materiales y el funcionamiento del Faro no están documentados.
 
 ## Referencias
 - `docs/mundo.md`

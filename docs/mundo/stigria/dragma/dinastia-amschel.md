@@ -4,7 +4,10 @@
 Dinastía imperial. Segunda casa en ocupar el trono de Dragma.
 
 ## Origen
-Casa noble de **Lysarya**, reino del Alba, centro espiritual de la rebelión del Edicto del Amanecer y heredero del alma de Suntarys. La Casa Amschel era una casa noble de Lysarya, distinta de la casa real Corinthyos que hoy gobierna Lysarya. Preexistía antes de la fundación del Imperio.
+Casa noble de **Lysarya**, reino del Alba y centro espiritual de la rebelión del
+Edicto del Amanecer. La Casa Amschel era una casa noble de Lysarya, distinta de
+la casa real Corinthyos que hoy gobierna Lysarya. Preexistía antes de la
+fundación del Imperio.
 
 ## Ascenso al trono
 Electa por el Stamengherin tras el **quiebre de la dinastía Mormund**. Aldric Mormund, 17.º y último emperador de su casa, nunca se casó. Cuando la Dex Tábura le preguntó si deseaba postular a un pariente de sangre para heredar el trono, se negó. Quiso que su casa y su linaje dejaran de estar a cargo de la corona imperial.

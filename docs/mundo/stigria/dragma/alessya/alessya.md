@@ -11,15 +11,11 @@ Isla al suroeste del continente de Stigria, frente a la costa del Verano. Conoci
 
 ## Origen e historia
 
-### Suntarys, la ciudadela de los Hijos del Sol
-Los **Hijos del Sol** descendían de los esclavos liberados de Astria por la Kys Tábura. Sus Portadores transformaron el litoral de Dürr y fundaron la **Costa del Verano**, pero la expansión del Rey Podrido los obligó a evacuarla. Los supervivientes cruzaron hasta Alessya y fundaron allí **Suntarys**, su gran ciudadela.
+### Vínculo con los Hijos del Sol
 
-Suntarys operó durante generaciones como el **escudo de Khalos** contra las peregrinaciones negras astrianas. Sus naves patrullaban las aguas entre la isla y el continente, hundiendo barcos misioneros del culto al Dios Negro y liberando esclavos. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**.
-
-### Destrucción de Suntarys
-El ataque de los Valgard contra Suntarys **no fue sorpresivo**. La mayoría de sus habitantes ya habían huido a los asentamientos costeros del continente. Los Valgard solo querían **eliminar el símbolo**. La isla no fue destruida; solo cayó la gran ciudadela. El Raikim organizó los asentamientos continentales en tres Dominios —Lysgard, Zephyrgard y Vespergard—, deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
-
-Durante siglos, la isla permaneció en ruinas. Tierra sagrada para los tres reinos del Verano, pero sin dueño.
+Los **Hijos del Sol** descienden de los esclavos liberados de Astria por la Kys
+Tábura. Después de la caída de Ciudad Azul, parte de ellos huyó hacia Alessya.
+La fundación y la trayectoria de Suntarys permanecen pendientes.
 
 ### La Guerra de los Hermanos y el Principado
 Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el noble **Daryón Coralyss** de Alessya inició un reclamo de **derecho de dominio** sobre la isla. Pactó en secreto con **Kleóndras Aetheryon**, rey de Zephyrya, el matrimonio entre su hija **Thalyssa Coralyss** y el príncipe **Astryón Aetheryon**. Si el reclamo prosperaba, Alessya pasaría a Zephyrya por herencia y unión matrimonial.
@@ -35,7 +31,7 @@ Lysarya logró invadir Zephyrya. Miles murieron. Al final, el emperador ejecutó
 La casa Coralyss también fue proscrita.
 
 ### El Principado de Alessya
-Tras la guerra, el **Stamengherin** fue convocado. Nombró nuevas casas reales para Lysarya (Corinthyos) y Zephyrya (Zephyryon). Y convirtió Alessya en un **protectorado imperial**: el **Principado de Alessya**, gobernado por un **Príncipe Guardián**. La isla dejó de ser ruinas. Nobles Hijos del Sol —descendientes de los antiguos suntarianos— se asentaron en ella, la reconstruyeron y la convirtieron en un protectorado próspero.
+Tras la guerra, el **Stamengherin** fue convocado. Nombró nuevas casas reales para Lysarya (Corinthyos) y Zephyrya (Zephyryon). Y convirtió Alessya en un **protectorado imperial**: el **Principado de Alessya**, gobernado por un **Príncipe Guardián**. Nobles Hijos del Sol se asentaron en ella y la convirtieron en un protectorado próspero.
 
 Hoy Alessya es un principado rico, con una nueva casa noble gobernante y plena autonomía. Como protectorado, es inalienable por ley de la Concordia: ningún reino puede anexarla.
 
@@ -43,10 +39,12 @@ Hoy Alessya es un principado rico, con una nueva casa noble gobernante y plena a
 Protectorado imperial semi-soberano. No pertenece a ninguno de los doce reinos. Gobernado por el Príncipe Guardián bajo la protección directa del emperador. Inalienable por ley.
 
 ## Concepto
-Isla sagrada de los Hijos del Sol. Antigua cuna de Suntarys. Protectorado rico y autónomo. Custodio de la memoria del Verano.
+Isla vinculada históricamente con los Hijos del Sol. Protectorado rico y
+autónomo. Custodio de la memoria del Verano.
 
 ## Economía
-Comercio marítimo. Peregrinaje desde los tres reinos del Verano. Astilleros y conservación del patrimonio suntariano.
+Comercio marítimo. Peregrinaje desde los tres reinos del Verano. Astilleros y
+conservación del patrimonio de la isla.
 
 ## El cuento de los Príncipes Perdidos
 En los tres reinos del Verano se narra todavía el cuento popular de los **Príncipes Perdidos**: Thalyssa Coralyss y Eryk Albyon, los amantes que huyeron hacia Khalos y jamás llegaron. Nadie sabe qué fue de ellos ni del hijo que Thalyssa llevaba en el vientre. El misterio ha generado incontables versiones: unos dicen que murieron en el camino, otros que se escondieron en Merenia, otros que alcanzaron Delfos y vivieron en paz. La verdad sigue siendo una de las grandes preguntas sin respuesta del imperio.

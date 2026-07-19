@@ -12,7 +12,9 @@ Después de la caída de Grimar Valgard, el Stamengherin lo eligió primer emper
 
 ## Apariencia y carácter
 
-Tenía alrededor de cincuenta años al ser coronado. Era un guerrero de genio corto, palabra áspera y valor reconocido. Empuñaba una espada colosal forjada con acero de Waffengard.
+Tenía alrededor de cincuenta años al ser coronado. Era un guerrero de genio
+corto, palabra áspera y valor reconocido. Empuñaba una espada colosal forjada
+con acero del Valle de Hierro.
 
 ## Legado
 

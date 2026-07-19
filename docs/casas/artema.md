@@ -18,7 +18,7 @@ Casa gobernante del protectorado de Delfos desde la Edad de la Podredumbre. El n
 
 Los Artema portan en secreto sangre Mormund desde que Mijail Mormund —condenado a muerte públicamente por el asesinato de su hermana Ilena— fue exiliado en secreto a Delfos por su padre Godric. Mijail desposó a una hija de la casa y su sangre Mormund se fusionó con el linaje isleño. Han transcurrido aproximadamente mil seiscientos años; la verdad ha perdido todo peso político, aunque es conocida por la Dex Tábura y las casas Amschel y Pavel.
 
-La Casa Artema y los guardianes de Esteria comparten el secreto del combustible que alimenta el Gran Faro. El origen de este vínculo permanece pendiente.
+La relación histórica entre la Casa Artema y Esteria permanece pendiente.
 
 ## Miembros relevantes
 

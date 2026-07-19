@@ -13,8 +13,9 @@
 
 ## Historia y descripción
 
-Casa noble de Flemmengard. Nombres de sonoridad germánica. Casa de origen de la reina consorte de Skarngard.
+Casa noble vinculada a Flemmengard. Nombres de sonoridad germánica. La posición
+política de Freda Brandt permanece pendiente.
 
 ## Miembros relevantes
 
-- **Freda Brandt**. Reina consorte de Skarngard.
+- **Freda Brandt**. Miembro de la casa.

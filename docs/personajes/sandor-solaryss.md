@@ -6,7 +6,8 @@ Cronista y erudito de la Ciudadela de Khalos. Miembro de la Sish Tábura (rama d
 **No es portador.** Su valor no está en el Blesk, sino en la memoria, la investigación y la palabra.
 
 ## Casa
-**Casa Solaryss.** Casa real del antiguo Reino del Verano (Suntarys) durante casi cuatrocientos años. Hoy es una casa noble dentro del Imperio de Dragma.
+**Casa Solaryss.** Casa noble de Zephyrya. Su relación histórica con Suntarys
+permanece pendiente.
 
 - **Lema:** *Hijos del Amanecer, Herederos del Sol.*
 - **Colores:** azul cielo (principal), rojo y dorado.

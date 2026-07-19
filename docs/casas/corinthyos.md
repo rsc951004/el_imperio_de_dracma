@@ -7,7 +7,8 @@ Casa real
 Lysarya (Costas del Verano)
 
 ## Historia y descripción
-Casa reinante de Lysarya. Heredera del alma de Suntarys: custodia de la mística Solaryss y de la Triple Corona. La casa juró que la luz de Suntarys volvería a guiar Dragma.
+Casa reinante de Lysarya. Custodia la mística Solaryss y la Triple Corona. La
+relación histórica de ambas con Suntarys permanece pendiente.
 
 ## Título
 Rey/Reina de la Roca

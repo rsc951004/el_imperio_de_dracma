@@ -4,10 +4,6 @@
 
 Reino del Imperio de Dragma.
 
-## Nombre durante el Raikim
-
-**Sindgard**.
-
 ## Capital
 
 Bezdansk.
@@ -20,9 +16,10 @@ El título del soberano es **Rey del Foso** o **Reina del Foso**. La reclamació
 
 Sindria reclama el territorio de Esteria. El origen de esa reclamación y del título permanece sin documentar.
 
-## Rebelión del Amanecer
+## Edad posterior
 
-Sindgard se unió al Bloque del Amanecer contra Grimar Valgard. Tras la rebelión abandonó el sufijo *-gard* y adoptó el nombre de Sindria.
+La formación de Sindria, su participación en la Rebelión del Amanecer y el
+origen de su nombre se desarrollarán fuera de la Edad de Plata.
 
 ## Cultura religiosa
 

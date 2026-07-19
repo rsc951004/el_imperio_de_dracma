@@ -2,6 +2,52 @@
 
 ## Revisiones editoriales
 
+### Canonización de la Edad de Plata (2026-07-19)
+
+Se canonizó la Edad de Plata desde el segundo Stamengherin documentado hasta la
+muerte de Rudgar Valgard, sesenta y siete años después de la apertura de la
+Puerta Negra. La primera coronación de Rudgar ocurre en el año 57; Drakar, los
+dieciséis Raiks posteriores y la Rebelión del Amanecer pasan a una edad todavía
+sin nombre.
+
+**Cambios canónicos:**
+
+- Roshan pasa a escribirse **Therin**. Fue hallado a los catorce años, fundó
+  Esteria, recibió la guarda del Paso del Oriente y desapareció en Rostam,
+  Rauven, durante un segundo sellado del Rey Podrido. Rudgar no lo asesinó.
+- La creencia de los Hijos del Sol en la ascendencia de Roshan desde el Primer
+  Rey Sol Therin queda marcada como canon velado; la descendencia es imposible.
+- La proclamación de los Sangre de Hierro Carmesí convirtió a los sheijad en
+  Guardianes del Norte como identidad política, sin borrar su raíz histórica y
+  cultural. Esteria quedó fuera de los doce Dominios.
+- Se documentaron la guerra de Unland, los Emisarios de la Ruina, el Pacto de
+  Dürr, el ghild, el Acero del Alba, Rugido Mordaz, la Llave de Dürr y la
+  Kantra. El Rey Podrido adopta la imaginería verde; el Faro de Esteria será
+  posterior y de luz amarilla. Sus materiales, funcionamiento y relación con
+  Delfos permanecen pendientes.
+- La toma de Ciudad Azul y la huida de parte de sus habitantes hacia Alessya
+  quedaron fijadas en la Edad de Plata. La fundación, el desarrollo y la caída
+  de Suntarys se reservaron para la edad posterior; se retiraron las
+  explicaciones incompatibles de su origen y de sus vínculos con los reinos del
+  Verano.
+- Waffengard y Skarngard fueron retirados. Eisengard y Guldengard ocupan sus
+  lugares territoriales sin heredar sus casas, gobernantes ni rasgos.
+
+**Pendientes separados:**
+
+- `mesa-de-trabajo/pendientes-posteriores-edad-de-plata.md` reúne la futura
+  unificación de Eisengard y Guldengard, los nombres de los Dominios Carmesíes
+  y la historia de Ciudad Azul y Suntarys. No forma parte del canon.
+
+### Custodia de material descanonizado (2026-07-19)
+
+Por decisión editorial, se restauraron las fichas retiradas de Waffengard,
+Skarngard, las casas Brunnen, Hammer y Meister, sus tres monarcas asociados y
+la ficha histórica con la grafía `Roshan Terin`. Cada archivo lleva la marca
+`DESCANONIZADO`, queda fuera de índices y no forma parte del lore vigente. Su
+destino queda pendiente de una revisión para recanonización o eliminación
+definitiva.
+
 ### Canonización integral de la Edad de la Podredumbre (2026-07-17)
 
 Se reescribió la historia comprendida entre la caída de Shahrezad y el confinamiento del Rey Podrido en Rauven.

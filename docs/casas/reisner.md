@@ -20,4 +20,5 @@ Casa real de Sturmgard. Los fiordos helados del norte forman un reino de torment
 ## Miembros relevantes
 
 - **Jorin Reisner** ★ — Rey de la Tormenta. Gobernante reinante.
-- **Sabina Jaeger** — Reina consorte. Originaria de Waffengard (Casa Jaeger).
+- **Sabina Jaeger** — Reina consorte. Sus antecedentes de origen permanecen
+  pendientes.

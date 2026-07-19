@@ -23,11 +23,15 @@ Anemora
 **Costas del Verano.** Ocupa la esquina suroeste del continente, debajo de Lysarya y al oeste de Vesperya. Es el segundo en extensión de los tres reinos del Verano. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
-Zephyrya es uno de los tres reinos de los **Hijos del Sol**, descendientes de los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron el litoral de Dürr y fundaron la **Costa del Verano**. Cuando la expansión del Rey Podrido los obligó a evacuarla, cruzaron hasta Alessya y fundaron **Suntarys**, donde terminaron por formar un solo pueblo.
+Zephyrya es uno de los tres reinos de los **Hijos del Sol**, descendientes de
+los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron
+el litoral de Dürr y fundaron la **Costa del Verano**. La evolución de aquellos
+asentamientos hasta los reinos actuales y su relación con Suntarys pertenecen a
+una edad posterior a la de Plata.
 
-Suntarys fue durante generaciones el **escudo de Khalos** contra las peregrinaciones negras astrianas. Los Hijos del Sol llaman a Astria **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una ofensa grave.
-
-Cuando el Raikim Valgard destruyó la ciudadela de Suntarys, organizó los asentamientos costeros continentales en tres Dominios deliberadamente separados para impedir que los Hijos del Sol se unieran como nación.
+La memoria de la esclavitud astriana hace que los Hijos del Sol llamen a Astria
+**«la ramera de la sombra»**. Cualquier asociación con aquella nación es una
+ofensa grave.
 
 ## Geografía
 Zephyrya ocupa la esquina suroeste del continente. Su costa es una sucesión de **playas hermosas y atardeceres violetas** —tan característicos que el violeta se ha convertido en el color identitario del reino. Muchos zefiryanos tiñen sus ropas con pigmentos extraídos de la flora costera para emular esos tonos.
@@ -46,13 +50,17 @@ La vida en Zephyrya es **simple y libre**. Sus gentes no se estresan por lo que 
 Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Lysarya:** amarillo y blanco hueso — la tierra, los pastos, el hueso del ganado.
 - **Zephyrya:** violeta — los atardeceres de la costa, la flor del Verano.
-- **Vesperya:** verde — el mar profundo, la aventura, el estrecho.
+- **Vesperya:** azul profundo — el mar, la aventura, el estrecho.
 
 ## Gobierno
 Regido por la Casa Zephyryon. El rey reinante es **Cassyus Zephyryon ★**, Rey del Ocaso. Su consorte es Celesthya Drussyo, de casa noble de Vesperya.
 
 ## Historia
-Zephyrya fue fundada por el Raikim Valgard como **Zephyrgard**. Es uno de los tres reinos del Verano que descienden directamente de Suntarys. Alberga a la **Casa Solaryss** como casa noble sin corona, heredera de la destruida ciudad libre. En sus planicies se mantiene vivo el arte de Loryan Solaryss: la técnica de deslizarse sobre las corrientes de aire, preservada por generaciones de Invocadores.
+Durante el Raikim, el territorio recibió el nombre de **Zephyrgard**. La
+formación de Zephyrya como reino y su relación con Suntarys permanecen
+pendientes. Alberga a la **Casa Solaryss** como casa noble sin corona. En sus
+planicies se mantiene vivo el arte de Loryan Solaryss: la técnica de deslizarse
+sobre las corrientes de aire, preservada por generaciones de Invocadores.
 
 ### La Guerra de los Hermanos
 Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), Zephyrya estaba gobernada por **Kleóndras Aetheryon**. Kleóndras pactó en secreto con el noble **Daryón Coralyss** de Alessya el matrimonio entre su hijo, el príncipe **Astryón Aetheryon**, y **Thalyssa Coralyss**, hija de Daryón. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zephyrya por herencia y unión matrimonial. Era la gran jugada del reinado de Kleóndras: unir la isla sagrada de los Hijos del Sol a la flor del Verano.

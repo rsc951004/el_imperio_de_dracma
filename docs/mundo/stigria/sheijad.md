@@ -24,26 +24,21 @@ La mayor parte de Shahrezad fue destruida por el Rey Podrido. Muchos supervivien
 
 Los Sangre de Hierro asociaron a los Portadores con las campañas del Dominio Carmesí. Durante generaciones ejecutaron a los Portadores descubiertos entre los esclavos sheijad y sus descendientes.
 
-Roshan Terin nació dentro de esta población esclavizada y ocultó su condición de Portador del Sol.
+Roshan Therin nació dentro de esta población esclavizada. Sus padres lograron
+ocultar que era Portador del Sol, una de las pocas excepciones a la persecución.
 
-## Resolución del Raikim
+## Sangre de Hierro Carmesí
 
-Antes de la Edad de Plata, Rudgar prometió en secreto a Roshan liberar al pueblo
-sheijad y concederle un perdón oficial por las acciones del Dominio Carmesí.
+Durante la Edad de Plata, Roshan fundó Esteria y dirigió la limpieza del norte
+cuando Frosthain incumplió su deber de hacerlo. El asentamiento y sus defensores
+demostraron que los sheijad podían sostener la frontera ante la Podredumbre.
 
-Durante el segundo Stamengherin documentado, Rudgar otorgó un perdón general a
-los descendientes de aquel estado. Ningún Sheijad vivo había pertenecido al
-Dominio Carmesí ni nacido durante su existencia, por lo que no respondería por
-sus actos.
+Tras la Guerra de Unland, Rudgar los proclamó **Sangre de Hierro Carmesí** y
+**Guardianes del Norte**. El nuevo nombre sustituyó a sheijad como identidad
+política dentro del Raikim y puso Dresk y Weissen bajo su dominio y potestad.
 
-La asamblea los reconoció como habitantes del Gherin, pero determinó que la
-generación viva conservaría la identidad sheijad hasta su muerte. Los hijos
-nacidos de la unión entre un Sheijad y un Sangre de Hierro serían reconocidos
-como Sangre de Hierro.
-
-La liberación colectiva quedó aplazada hasta que el Raikim estableciera su
-dominio sobre la totalidad del Gherin. La evolución posterior de este acuerdo y
-del régimen esclavista permanece pendiente.
+La raíz sheijad conservó su valor histórico y cultural. No fue una condición
+distinta de derecho para los Guardianes del Norte.
 
 ## Convención de nombres
 
@@ -55,5 +50,6 @@ La sonoridad de los nombres sheijad toma inspiración persa como convención ext
 - `docs/mundo/stigria/edad-del-hierro.md`
 - `docs/personajes/amir.md`
 - `docs/personajes/ajriman.md`
-- `docs/personajes/roshan-terin.md`
-- `docs/mundo/stigria/edad-de-plata.md`
+- `docs/personajes/roshan-therin.md`
+- `docs/mundo/stigria/sangre-de-hierro-carmesi.md`
+- `docs/mundo/stigria/dragma/esteria/esteria.md`

@@ -1,17 +1,22 @@
 # Drakar Valgard
 
 ## Identidad
-Segundo Raik de Valgard. Hijo y heredero de Rudgar Valgard, el Martillo Sangriento. Segundo eslabón de la dinastía que gobernaría Stigria durante diecisiete generaciones.
+
+Segundo Raik de la Casa Valgard e hijo de Rudgar Valgard.
 
 ## Historia
-Drakar heredó el trono después de la muerte de Rudgar. Para entonces, el Raikim era una tiranía consolidada y la traición contra Roshan Terin formaba parte de su legado.
 
-Poco se sabe de su reinado. Fue el segundo de diecisiete Raiks, una figura de transición entre el fundador y la larga dinastía que culminaría con Grimar Valgard.
+Drakar heredó el Raikim tras la muerte de Rudgar, en el año 67 desde la apertura
+de la Puerta Negra. Fue el primero de los dieciséis Raiks posteriores a Rudgar,
+serie que concluyó con Grimar Valgard. Todos esos reinados pertenecen a la edad
+posterior aún sin nombre.
 
 ## Relaciones
-- **Rudgar Valgard**: padre, primer Raik.
-- **Grimar Valgard**: descendiente lejano, decimoséptimo y último Raik.
+
+- **Rudgar Valgard:** padre y primer Raik.
+- **Grimar Valgard:** descendiente lejano y decimoséptimo Raik.
 
 ## Referencias
-- `docs/personajes/rudgar-valgard.md`
-- `docs/mundo/stigria/valgard.md`
+
+- docs/personajes/rudgar-valgard.md
+- docs/mundo/stigria/valgard.md

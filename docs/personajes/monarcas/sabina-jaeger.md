@@ -1,8 +1,9 @@
 # Sabina Jaeger
 
 ## Identidad
-Reina consorte de **Sturmgard** (Bloque de Hierro). Originaria de **Waffengard** (Casa Jaeger). Casa noble de Waffengard.
+
+Reina consorte de **Sturmgard** (Bloque de Hierro). Miembro de la Casa Jaeger;
+sus antecedentes de origen permanecen pendientes.
 
 ## Relaciones
-- **Jorgen Meister:** hermano. Rey gobernante de Waffengard.
 - **Jorin Reisner:** esposo. Rey gobernante de Sturmgard.

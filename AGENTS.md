@@ -25,6 +25,23 @@ depurado y versionado por agentes IA bajo supervisión humana.
 
 ---
 
+## Archivos descanonizados en custodia
+
+Por instrucción explícita del humano, un archivo situado en `docs/` o
+`cuentos/` puede conservarse fuera del canon vigente mientras espera una
+decisión de recanonización o eliminación definitiva. Debe llevar al inicio esta
+marca editorial:
+
+```markdown
+<!-- DESCANONIZADO | estado: pendiente de revisión para recanonización o eliminación definitiva -->
+```
+
+Un archivo con esa marca no es fuente de lore vigente, no se enlaza desde los
+índices canónicos y no puede utilizarse para inferir, confirmar ni contradecir
+el canon. Su contenido se conserva únicamente como material de revisión.
+
+---
+
 ## Regla anti-fantasmeo
 
 Fantasmear es mantener en un texto rastros de una suposición errónea después de que fue corregida. El error reaparece como negación, contraste, explicación causal o referencia indirecta. La corrección debe reemplazar la premisa anterior y todas sus consecuencias, no agregarse como una aclaración.

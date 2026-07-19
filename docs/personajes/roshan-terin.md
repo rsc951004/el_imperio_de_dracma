@@ -1,3 +1,9 @@
+<!-- DESCANONIZADO | estado: pendiente de revisión para recanonización o eliminación definitiva -->
+
+> **Archivo descanonizado.** Se conserva solo para revisión editorial y no debe
+> usarse como fuente de lore vigente. La ficha canónica vigente de Roshan está
+> en `docs/personajes/roshan-therin.md`.
+
 # Roshan Terin
 
 ## Identidad

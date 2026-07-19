@@ -27,13 +27,16 @@ Los habitantes prehistóricos reciben el nombre colectivo de **stigrios**. De su
 
 Durante la Edad del Hierro llegaron los **Sheijad**, fundadores de Shahrezad. La Guerra del Valle Dorado dio origen al Bloque de Hierro y consolidó la identidad de los Sangre de Hierro.
 
-La caída de Shahrezad ante el Rey Podrido inició la Edad de la Podredumbre. Durante esta era, la Gente de la Bruma se asentó en Unland, los refugiados astrianos fundaron Khalos y los esclavos liberados de Astria formaron la Costa del Verano y, posteriormente, Suntarys.
+La caída de Shahrezad ante el Rey Podrido inició la Edad de la Podredumbre.
+Durante esta era, la Gente de la Bruma se asentó en Unland, los refugiados
+astrianos fundaron Khalos y los esclavos liberados de Astria formaron la Costa
+del Verano.
 
-La campaña de Rudgar Valgard y Roshan Terin liberó el Gherin y confinó al Rey
-Podrido en Rauven. Después de un periodo de transición, el segundo
-Stamengherin documentado proclamó a Rudgar primer Raik, fundó el Raikim y abrió
-la Edad de Plata. La fundación del Imperio de Dragma marcó el comienzo de la
-Edad de Oro.
+La campaña de Rudgar Valgard y Roshan Therin obligó al Rey Podrido a retroceder
+hasta Rauven y estableció su confinamiento inicial. Después de un periodo de
+transición, el segundo Stamengherin documentado proclamó a Rudgar primer Raik,
+fundó el Raikim y abrió la Edad de Plata. La fundación del Imperio de Dragma
+marcó el comienzo de la Edad de Oro.
 
 ## Eldengard
 
@@ -47,7 +50,6 @@ Durante la Edad del Bronce, los Gheran levantaron Eldengard en Eldenheim. La for
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
 - `docs/mundo/stigria/costa-del-verano.md`
-- `docs/mundo/stigria/suntarys.md`
 - `docs/mundo/stigria/historia-antigua.md`
 - `docs/mundo/stigria/edad-del-hierro.md`
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`
