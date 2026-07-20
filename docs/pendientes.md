@@ -8,7 +8,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 
 | Tema | Qué falta |
 |------|-----------|
-| **Edad de la Tiranía** | Redactar la acumulación narrativa de los dieciséis Raiks posteriores a Rudgar, la transformación del Raikim y la Rebelión del Amanecer. |
+| **Edad de la Tiranía** | Fijar grandes hitos y estados generales durante el asentamiento. Su desarrollo narrativo queda reservado para una etapa posterior. |
 
 ## Historia de Stigria
 

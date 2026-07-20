@@ -41,7 +41,8 @@ Negra se expresan también en años relativos a ese acontecimiento.
 | **Año 57 de la Puerta Negra** | Rudgar recibe su primera coronación en Eldengard, ante los doce señores de Dominio, tras la unificación del Raikim. |
 | **Año 67 de la Puerta Negra** | Muere Rudgar. Termina la Edad de Plata. |
 | **Año 67 de la Puerta Negra** | Comienza la **Edad de la Tiranía** con la sucesión de Drakar Valgard, segundo Raik. La edad comprende los dieciséis Raiks posteriores a Rudgar, hasta Grimar. |
-| **Edad de la Tiranía** | El Raikim se transforma gradualmente en un régimen hereditario y tiránico. La Rebelión del Amanecer derrota a Grimar Valgard y abre el camino para la fundación del Imperio de Dragma. |
+| **Reinado de Grimar** | Para entonces, el Raikim ya es una tiranía hereditaria y corrupta. |
+| **Final de la Edad de la Tiranía** | La Rebelión del Amanecer derrota a Grimar Valgard y abre el camino para la fundación del Imperio de Dragma. |
 | **Edad de Oro** | Fundación del Imperio de Dragma. Harald Mormund es elegido primer emperador. |
 | **Presente** | El Imperio de Dragma continúa en la Edad de Oro. |
 

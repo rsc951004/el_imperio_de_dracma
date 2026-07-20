@@ -2,6 +2,16 @@
 
 ## Revisiones editoriales
 
+### Límite de asentamiento de la Edad de la Tiranía (2026-07-19)
+
+Durante la etapa de asentamiento solo se fijan grandes hitos y estados
+generales. Para el reinado de Grimar, el Raikim queda establecido como una
+tiranía hereditaria y corrupta. No se desarrollan todavía las historias
+individuales de los dieciséis Raiks, sus campañas, la transformación detallada
+del Raikim, la Rebelión del Amanecer, el Edicto del Amanecer ni la fundación
+detallada de Dragma. Estos asuntos quedan reservados para una etapa narrativa
+posterior.
+
 ### Cierre canónico del bloque Plata–Tiranía (2026-07-19)
 
 Se cerró la acumulación de trabajo correspondiente al final de la Edad de

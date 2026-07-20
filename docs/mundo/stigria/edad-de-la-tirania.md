@@ -7,9 +7,8 @@ Negra, cuando Drakar Valgard sucedió a Rudgar como segundo Raik. Terminó con l
 derrota de Grimar Valgard, decimoséptimo y último Raik, durante la Rebelión del
 Amanecer.
 
-La edad comprende los dieciséis Raiks posteriores a Rudgar. Durante ese periodo
-el Raikim dejó de ser una autoridad reunida por el Stamengherin y se transformó
-gradualmente en un poder hereditario y absoluto.
+La edad comprende los dieciséis Raiks posteriores a Rudgar. Para el reinado de
+Grimar, el Raikim ya era una tiranía hereditaria y corrupta.
 
 ## Frontera histórica
 
@@ -17,9 +16,10 @@ La muerte de Rudgar cerró la Edad de Plata. La fundación del Imperio de Dragma
 después de la Rebelión del Amanecer y de un nuevo Stamengherin, abrió la Edad de
 Oro.
 
-Los Dominios del Raikim, la evolución de las casas, la caída de la dinastía
-Valgard y la Rebelión del Amanecer pertenecen a esta edad. Sus relatos y
-campañas se desarrollarán en una acumulación posterior.
+Los Dominios del Raikim, la caída de la dinastía Valgard y la Rebelión del
+Amanecer pertenecen a esta edad. Por ahora quedan fijados sus grandes hitos;
+los relatos y campañas específicos corresponden a una etapa narrativa
+posterior.
 
 ## Herencia territorial
 

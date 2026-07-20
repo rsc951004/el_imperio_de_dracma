@@ -22,8 +22,22 @@ son canónicas cuando han sido aprobadas y documentadas según estas reglas. En
 explorar, ordenar o revisar el mundo.
 
 La redacción de relatos específicos, cuentos completos o acumulaciones
-narrativas solo comenzará cuando el humano lo autorice de forma explícita para
-el periodo correspondiente.
+narrativas solo comenzará cuando el proyecto haya salido de esta etapa y el
+humano lo autorice de forma explícita para el periodo correspondiente.
+
+### Aplicación a la Edad de la Tiranía
+
+Mientras el proyecto permanezca en la etapa de asentamiento, la Edad de la
+Tiranía se registrará únicamente mediante grandes hitos, estados políticos y
+relaciones territoriales. No se desarrollarán todavía sus relatos, las
+historias individuales de los dieciséis Raiks, las campañas de cada reinado ni
+el proceso detallado por el que el Raikim se convirtió en una tiranía
+hereditaria.
+
+Para el reinado de Grimar solo queda establecido que el Raikim ya era una
+tiranía hereditaria y corrupta. La Rebelión del Amanecer, el Edicto del
+Amanecer y la fundación de Dragma podrán figurar como grandes hitos, pero su
+desarrollo narrativo y detallado queda reservado para una etapa posterior.
 
 ---
 
