@@ -8,6 +8,23 @@ Kilo (y sus agentes) son los autores, editores y mantenedores del lore.
 Todo contenido — cuentos, personajes, mundo, documentación — será generado,
 depurado y versionado por agentes IA bajo supervisión humana.
 
+## Etapa actual: asentamiento y consolidación del mundo
+
+El proyecto se encuentra en una etapa de **asentamiento del mundo**. Durante
+esta etapa no se crean relatos específicos, cuentos completos ni escenas
+narrativas cerradas sobre los periodos en desarrollo.
+
+Sí está permitido desarrollar el lore mediante piezas breves: hechos,
+cronologías, relaciones, antecedentes, descripciones, escenas parciales y otros
+fragmentos incorporados a las fichas correspondientes. En `docs/`, esas piezas
+son canónicas cuando han sido aprobadas y documentadas según estas reglas. En
+`mesa-de-trabajo/`, son materiales provisionales y no canónicos que sirven para
+explorar, ordenar o revisar el mundo.
+
+La redacción de relatos específicos, cuentos completos o acumulaciones
+narrativas solo comenzará cuando el humano lo autorice de forma explícita para
+el periodo correspondiente.
+
 ---
 
 ## Reglas universales (aplican a TODOS los agentes en TODAS las carpetas)
