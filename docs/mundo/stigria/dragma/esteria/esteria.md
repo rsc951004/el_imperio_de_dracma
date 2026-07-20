@@ -16,7 +16,7 @@ Esteria como asentamiento de vigilancia. Lo acompañaban Sangheskios y mujeres
 de Sturm. Frosthain no había cumplido su deber de limpiar el norte, de modo que
 Stelian asumió la defensa de la frontera y la limpieza de la región.
 
-La fortificación creció alrededor de los Guardianes del Norte y de las familias
+La fortificación creció alrededor de la Guardia del Norte y de las familias
 que llegaron desde el sur. Se convirtió en una ciudad de piedra, depósitos,
 talleres y barracones capaces de sostener la vigilancia del Foso durante
 generaciones.
@@ -35,7 +35,7 @@ Guardia pasó a autogestionarse hasta la llegada de un nuevo Maegi Solar.
 ## Roshdom
 
 Diez años después de la proclamación Carmesí, Stelian partió desde Esteria con
-Guardianes del Norte hacia Roshdom, en Rauven. Solo unos pocos regresaron y
+guardianes del norte hacia Roshdom, en Rauven. Solo unos pocos regresaron y
 Stelian no estaba entre ellos. No se sabe si el Rey Podrido quedó realmente
 confinado durante la incursión.
 

@@ -14,6 +14,9 @@ reservada para una acumulación posterior.
 - Se fijaron **Sanghesk**, **Sangheskios**, **Stelian Therin**, **Roshdom**,
   **Radu** y **Strigor**, junto con sus equivalencias históricas y sus marcas
   de canon velado cuando corresponde.
+- La institución militar temporal recibió el nombre de **Guardia del Norte** y
+  su campaña fundacional, **Marcha Carmesí**. Tras consolidarse los Dominios y
+  Esteria, la institución se disolvió; la Guardia Amarilla heredó su tradición.
 - Se estableció la **Edad de la Tiranía** como nombre canónico del periodo que
   comienza con Drakar y termina con la Rebelión del Amanecer.
 - Se conservaron Veleskaria, Veleskgard y el vínculo con el Blesk, Khalos y

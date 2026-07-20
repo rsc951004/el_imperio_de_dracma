@@ -7,7 +7,7 @@ Heredero de Sindgard e hijo mayor de Stancu Radanescu.
 ## Historia
 
 Andrey entró en Esteria con un grupo de amigos para cruzar el Foso como
-desafío. Los Guardianes del Norte lo capturaron y Lumino Therin lo condenó a
+desafío. Los guardianes del norte lo capturaron y Lumino Therin lo condenó a
 muerte.
 
 Eirik Valgard lo convirtió en aprendiz de la Guardia Amarilla. Andrey renunció

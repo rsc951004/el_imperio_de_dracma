@@ -60,7 +60,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Pueblo Sangheskios | Pueblo histórico | Fundadores de Sanghesk y portadores de una metalurgia avanzada del hierro. | [Ver ficha](mundo/stigria/sangheskios.md) |
 | Guerra del Valle Dorado | Conflicto | Guerra entre Sanghesk y los clanes gheran. | [Ver ficha](mundo/stigria/guerra-del-valle-dorado.md) |
 | Sangre de Hierro | Identidad sociocultural | Guerreros del antiguo Bloque de Hierro y sus descendientes. | [Ver ficha](mundo/stigria/sangre-de-hierro.md) |
-| Sangre de Hierro Carmesí | Identidad política | Guardianes del Norte surgidos de los sangheskios durante la Edad de Plata. | [Ver ficha](mundo/stigria/sangre-de-hierro-carmesi.md) |
+| Sangre de Hierro Carmesí | Identidad política | Comunidad surgida de los Sangheskios durante la Edad de Plata. Su ejército temporal fue la Guardia del Norte. | [Ver ficha](mundo/stigria/sangre-de-hierro-carmesi.md) |
 | Edad de la Podredumbre | Periodo histórico | Desde la caída de Sanghesk hasta el confinamiento del Rey Podrido por la campaña de Rudgar y Stelian. | [Ver ficha](mundo/stigria/edad-de-la-podredumbre.md) |
 | Edad de Plata | Periodo histórico | Desde el segundo Stamengherin documentado hasta la muerte de Rudgar Valgard. | [Ver ficha](mundo/stigria/edad-de-plata.md) |
 | Edad de la Tiranía | Periodo histórico | Desde la muerte de Rudgar hasta la Rebelión del Amanecer y la fundación de Dragma. | [Ver ficha](mundo/stigria/edad-de-la-tirania.md) |

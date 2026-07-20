@@ -41,7 +41,8 @@ del Oriente.
 El Raikim nació sobre Flemmen, Sturm y Eldenheim. Bajo Rudgar alcanzó doce
 Dominios sobre los nueve territorios históricos del Gherin. El Gran Valle
 permaneció como posesión directa del Raik y Esteria quedó fuera de la cuenta de
-Dominios, bajo la guarda de la Casa Therin y los Guardianes del Norte.
+Dominios, bajo la guarda de la Casa Therin y de los defensores del Paso del
+Oriente.
 
 Rudgar fue coronado en el Gran Salón del nuevo Eldengard ante los doce señores
 de Dominio, las grandes casas Sangre de Hierro, su esposa, sus hijos y sus
@@ -80,7 +81,7 @@ cada señor de Dominio.
 > —Pensé que solo tus hijos podrían ser como tú.
 
 > —Jamás dudes de ti mismo, ni de tus hijos ni de los hijos de tus hijos.
-> Ustedes son los Sangre de Hierro Carmesí, los Guardianes del Norte.
+> Ustedes son los Sangre de Hierro Carmesí. Ustedes forman la Guardia del Norte.
 
 ### Proclamación de los Sangre de Hierro Carmesí
 
@@ -96,8 +97,9 @@ cada señor de Dominio.
 > Hielo, de la Llanura, del Verano y de la Bruma, estoy ante ustedes para hacer
 > la siguiente proclamación.
 >
-> Hoy ha muerto el pueblo sangheskio y han nacido los Sangre de Hierro Carmesí, los
-> Guardianes del Norte. Sus gentes son nuestras gentes; a ellas corresponderán
+> Hoy ha muerto el pueblo sangheskio y han nacido los Sangre de Hierro Carmesí.
+> Entre ellos se forma la Guardia del Norte. Sus gentes son nuestras gentes; a
+> ellas corresponderán
 > el dominio y la potestad sobre Dresk y Weissen. Proclamo, además, que Stelian,
 > Estrella Fugaz, señor de la Casa Therin, será desde ahora señor y Guardián del
 > Paso del Oriente. Tendrá dominio y potestad sobre su fortaleza, la fortaleza

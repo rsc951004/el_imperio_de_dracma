@@ -93,7 +93,7 @@ Gherin:
 | Unland | Kystgard, Lynggard y Bjorngard |
 | Dresk y Weissen | Veleskgard y Sindgard |
 | Eldenheim | Gran Valle, posesión directa del Raik |
-| Esteria | Enclave de la Casa Therin y los Guardianes del Norte; fuera de la cuenta de doce |
+| Esteria | Enclave de la Casa Therin y origen de la Guardia del Norte; fuera de la cuenta de doce |
 
 ## Cierre
 

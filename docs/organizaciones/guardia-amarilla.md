@@ -6,10 +6,10 @@ Orden defensiva de Esteria.
 
 ## Historia
 
-La Guardia Amarilla nació entre los Guardianes del Norte que custodiaban el
-Foso y el Gran Faro. Su nombre procede de la luz amarilla que protege la
-barrera. Durante el Gran Concilio del Hielo se convirtió en la fuerza encargada
-de administrar Esteria bajo la autoridad del Raikim.
+La Guardia Amarilla nació de la tradición de la Guardia del Norte. Su nombre
+procede de la luz amarilla que protege la barrera. Durante el Gran Concilio del
+Hielo se convirtió en la fuerza encargada de administrar Esteria bajo la
+autoridad del Raikim.
 
 Después del decreto de Sigmar Valgard, la Guardia pasó a autogestionarse. Su
 mandato es mantener la ley del Paso, impedir el cruce del Foso y custodiar el

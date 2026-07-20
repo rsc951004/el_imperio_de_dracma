@@ -36,13 +36,15 @@ Stelian Therin nació dentro de esta población esclavizada. Sus padres lograron
 ocultar su condición de Portador del Sol.
 
 Después de la Guerra de Unland, la proclamación de los **Sangre de Hierro
-Carmesí** liberó a los sangheskios del norte y les dio una identidad política
-propia dentro del Raikim. Su raíz sangheskia continuó siendo histórica y cultural.
+Carmesí** dio a los sangheskios del norte una identidad política propia dentro
+del Raikim y creó la Guardia del Norte para defender los territorios
+septentrionales. Su raíz sangheskia continuó siendo histórica y cultural.
 
 Los Sangre de Hierro Carmesí no son una condición intermedia ni una simple
-extensión de Sangre de Hierro: son los Guardianes del Norte y defienden Dresk y
-Weissen. Desde Esteria, guardan el Paso del Oriente, limitado al Foso y al
-Riegel.
+extensión de Sangre de Hierro. La Guardia del Norte defendió Dresk y Weissen
+hasta que los asentamientos quedaron establecidos y el ejército fue disuelto.
+Desde Esteria, los guardianes del norte conservaron la memoria de esa función y
+protegieron el Paso del Oriente, limitado al Foso y al Riegel.
 
 ## Legado moderno
 

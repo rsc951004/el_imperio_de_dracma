@@ -36,7 +36,7 @@ Negra se expresan también en años relativos a ese acontecimiento.
 | **Año 16 de la Puerta Negra** | El segundo Stamengherin documentado proclama a Rudgar primer Raik y funda el Raikim. Comienza la **Edad de Plata**. |
 | **Año 19 de la Puerta Negra** | Ante el incumplimiento de Frosthain, Stelian funda Esteria junto al Foso y dirige la limpieza del norte. |
 | **Año 26 de la Puerta Negra** | La guerra de Unland revela la intervención de los Emisarios de la Ruina. Stelian vuelve a combatir junto a Rudgar. |
-| **Año 27 de la Puerta Negra** | Rudgar proclama a los Sangre de Hierro Carmesí, Guardianes del Norte, y reconoce a Stelian como señor y Guardián del Paso del Oriente. |
+| **Año 27 de la Puerta Negra** | Rudgar proclama a los Sangre de Hierro Carmesí y crea la Guardia del Norte para la Marcha Carmesí. Reconoce a Stelian como señor y Guardián del Paso del Oriente. |
 | **Año 37 de la Puerta Negra** | Stelian entra en Rauven con Guardianes de Esteria, alcanza Roshdom e intenta un segundo sellado del Rey Podrido. Desaparece durante la incursión. |
 | **Año 57 de la Puerta Negra** | Rudgar recibe su primera coronación en Eldengard, ante los doce señores de Dominio, tras la unificación del Raikim. |
 | **Año 67 de la Puerta Negra** | Muere Rudgar. Termina la Edad de Plata. |

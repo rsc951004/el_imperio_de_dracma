@@ -46,8 +46,9 @@ Portadores descubiertos entre ellos fueron ejecutados por temor a que
 reconstruyeran el Dominio Carmesí.
 
 Stelian Therin nació entre esos descendientes y sus padres ocultaron que era un
-Maegi. Rudgar liberó a los Sangheskios del norte durante la Edad de Plata y los
-convirtió en Sangre de Hierro Carmesí y Guardianes del Norte.
+Maegi. Rudgar liberó a los Sangheskios del norte durante la Edad de Plata, los
+convirtió en Sangre de Hierro Carmesí y organizó la Guardia del Norte para la
+Marcha Carmesí.
 
 ## Convención de nombres
 
