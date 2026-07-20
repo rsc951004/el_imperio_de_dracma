@@ -10,13 +10,13 @@ Durante el Gran Bloqueo, la banda atravesó el Gherin para saquear Eldenheim. Tr
 
 Acorralados, entraron al lago intentando cruzar hacia Gülden. La corriente los arrastró por una grieta de la barrera subacuática y los condujo bajo Stömur. La banda emergió en Rauven. Se desconoce cómo sobrevivió al trayecto.
 
-Después de rodear Rostam durante varios días, llegó a una aldea pesquera de la costa suroriental. Allí atacó a una familia sheijad, asesinó a varios de sus miembros y violó a las mujeres presentes. Solo escapó el hijo varón menor, **Amir**.
+Después de rodear Roshdom durante varios días, llegó a una aldea pesquera de la costa suroriental. Allí atacó a una familia sangheskia, asesinó a varios de sus miembros y violó a las mujeres presentes. Solo escapó el hijo varón menor, **Radu**.
 
 El destino posterior de la banda no está documentado.
 
 ## Referencias
 
-- `docs/personajes/amir.md`
-- `docs/personajes/ajriman.md`
+- `docs/personajes/radu.md`
+- `docs/personajes/strigor.md`
 - `docs/personajes/rey-podrido.md`
 - `docs/mundo/stigria/guerra-del-valle-dorado.md`

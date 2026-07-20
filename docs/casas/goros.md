@@ -15,7 +15,10 @@
 
 ## Historia y descripción
 
-Casa real de Sindria. El noreste del imperio es una región donde el culto al Dios Negro posee arraigo histórico. El título de Rey o Reina del Foso expresa la reclamación estatal de Sindria sobre Esteria. El origen de la casa, del título y de la reclamación permanece pendiente.
+Casa real de Sindria. La Casa Goros asumió el gobierno de Sindgard después de
+la crisis de Esteria y convirtió la antigua reclamación de Weissen en la base de
+su legitimidad. El título de Rey o Reina del Foso expresa la reclamación estatal
+de Sindria sobre Esteria.
 
 El culto al Dios Negro practicado en Sindria busca utilizar y dominar monstruos para el engrandecimiento humano. Es instrumental y pragmático. Su relación histórica con la tradición surgida en Astria permanece sin documentar. En el resto del Imperio, los sindrios son vistos con profundo recelo.
 

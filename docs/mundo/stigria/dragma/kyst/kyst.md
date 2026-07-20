@@ -32,7 +32,11 @@ Las construcciones tradicionales utilizan madera salvaje endurecida con aceites 
 
 Kyst existía antes del Raikim. Valgard lo conquistó y le impuso el nombre de Kystgard. Durante la Rebelión del Amanecer recuperó su nombre.
 
-Los antepasados de los kystianos pertenecían a la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. La formación de Kyst como territorio diferenciado permanece pendiente.
+Los antepasados de los kystianos pertenecían a la Gente de la Bruma llegada
+desde Grimheim durante la Edad de la Podredumbre. Durante la penitencia del
+Raikim, los asentamientos costeros se organizaron alrededor de Puerto Gris y
+adoptaron Kyst como nombre político. La pesca y la navegación definieron su
+identidad.
 
 ## Economía
 

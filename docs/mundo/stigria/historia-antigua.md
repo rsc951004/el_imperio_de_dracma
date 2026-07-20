@@ -26,7 +26,7 @@ Durante el Surgimiento, la sección septentrional de Stömur se fracturó y form
 
 ## Fin de la Edad del Bronce
 
-La Edad del Bronce terminó con la llegada por mar de los Sheijad a Rauven. Su presencia y su metalurgia dieron comienzo a la **Edad del Hierro**.
+La Edad del Bronce terminó con la llegada por mar de los Sangheskios a Rauven. Su presencia y su metalurgia dieron comienzo a la **Edad del Hierro**.
 
 ## Referencias
 

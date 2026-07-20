@@ -37,13 +37,13 @@ puso fin a la Edad de Plata.
 
 Drakar Valgard sucedió a Rudgar como segundo Raik. Fue el primero de los
 dieciséis Raiks posteriores a Rudgar, incluido Grimar Valgard. La caída final
-del Raikim pertenece a una edad posterior todavía sin nombre.
+del Raikim pertenece a la Edad de la Tiranía.
 
 ## Referencias
 
 - `docs/personajes/val-el-terrible.md`
 - `docs/personajes/rudgar-valgard.md`
-- `docs/personajes/roshan-therin.md`
+- `docs/personajes/stelian-therin.md`
 - `docs/personajes/odalric-valgard.md`
 - `docs/personajes/baldur-valgard.md`
 - `docs/casas/valgard.md`

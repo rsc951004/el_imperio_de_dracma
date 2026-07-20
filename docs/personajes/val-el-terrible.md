@@ -10,7 +10,7 @@ Val fue uno de los primeros Gheran que dominó la forja del hierro. Combatía co
 
 ## Historia
 
-En el Stamengherin de Eldengard defendió la guerra contra Shahrezad. Wolfram el Bardo propuso negociar y ambos se enfrentaron. Wolfram parecía imponerse cuando la noticia de la invasión de Gülden interrumpió el duelo.
+En el Stamengherin de Eldengard defendió la guerra contra Sanghesk. Wolfram el Bardo propuso negociar y ambos se enfrentaron. Wolfram parecía imponerse cuando la noticia de la invasión de Gülden interrumpió el duelo.
 
 Durante la guerra, combatientes de distintos clanes se reunieron alrededor de Val. De esos vínculos de sangre y camaradería nació el **clan Valgard**, cuyo nombre significa «Fortaleza de Val».
 

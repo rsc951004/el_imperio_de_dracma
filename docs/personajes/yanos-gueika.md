@@ -43,5 +43,5 @@ Yanos desconoce que Sandor se declaró años antes a Armin Mormund y fue rechaza
 - **Freya Fenec:** Su madre. Pregunta constantemente por Sandor.
 
 ## Referencias
-- `protoversiones/proto_v2/11 - Respuesta de Ianos Guieska a Sandor Solaryss.md`
-- `protoversiones/proto_v2/Anexo II.md`
+- `docs/personajes/sandor-solaryss.md`
+- `docs/casas/gueika.md`

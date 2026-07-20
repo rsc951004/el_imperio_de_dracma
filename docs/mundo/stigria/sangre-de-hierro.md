@@ -6,7 +6,7 @@ Identidad sociocultural surgida entre los Gheran durante la Guerra del Valle Dor
 
 ## Origen
 
-El nombre designó inicialmente a quienes se incorporaron a la ofensiva del Bloque de Hierro contra Shahrezad, sin importar su región o clan de nacimiento.
+El nombre designó inicialmente a quienes se incorporaron a la ofensiva del Bloque de Hierro contra Sanghesk, sin importar su región o clan de nacimiento.
 
 Entre ellos se encontraban seguidores de Val el Terrible y el clan Mormund de Wolfram el Bardo.
 
@@ -30,14 +30,14 @@ de la Podredumbre. Rudgar fue proclamado primer Raik en el mismo Stamengherin.
 
 ## Esclavitud y Portadores
 
-Los Sangre de Hierro esclavizaron a numerosos supervivientes sheijad después de la caída de Shahrezad. La asociación entre los Portadores y las campañas del Dominio Carmesí produjo una persecución prolongada: los Portadores descubiertos entre los esclavos sheijad y sus descendientes eran ejecutados.
+Los Sangre de Hierro esclavizaron a numerosos supervivientes sangheskios después de la caída de Sanghesk. La asociación entre los Portadores y las campañas del Dominio Carmesí produjo una persecución prolongada: los Portadores descubiertos entre los esclavos sangheskios y sus descendientes eran ejecutados.
 
-Roshan Therin nació dentro de esta población esclavizada. Sus padres lograron
+Stelian Therin nació dentro de esta población esclavizada. Sus padres lograron
 ocultar su condición de Portador del Sol.
 
 Después de la Guerra de Unland, la proclamación de los **Sangre de Hierro
-Carmesí** liberó a los sheijad del norte y les dio una identidad política
-propia dentro del Raikim. Su raíz sheijad continuó siendo histórica y cultural.
+Carmesí** liberó a los sangheskios del norte y les dio una identidad política
+propia dentro del Raikim. Su raíz sangheskia continuó siendo histórica y cultural.
 
 Los Sangre de Hierro Carmesí no son una condición intermedia ni una simple
 extensión de Sangre de Hierro: son los Guardianes del Norte y defienden Dresk y
@@ -54,7 +54,7 @@ El Bloque de Hierro moderno recuperó deliberadamente el nombre de la alianza an
 - `docs/mundo/stigria/guerra-del-valle-dorado.md`
 - `docs/personajes/val-el-terrible.md`
 - `docs/personajes/wolfram-el-bardo.md`
-- `docs/personajes/roshan-therin.md`
+- `docs/personajes/stelian-therin.md`
 - `docs/mundo/stigria/sangre-de-hierro-carmesi.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
 - `docs/mundo/stigria/edad-de-plata.md`

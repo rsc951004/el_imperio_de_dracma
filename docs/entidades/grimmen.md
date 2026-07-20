@@ -31,5 +31,5 @@ Los Grimmen están ligados a Stigria por un vínculo relacionado con su origen y
 - `docs/mundo/stigria/historia-antigua.md`
 - `docs/entidades/ghera.md`
 - `docs/personajes/lauffen.md`
-- `docs/personajes/ajriman.md`
+- `docs/personajes/strigor.md`
 - `docs/personajes/rey-podrido.md`

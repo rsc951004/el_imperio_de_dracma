@@ -47,7 +47,7 @@ Comercio marítimo. Peregrinaje desde los tres reinos del Verano. Astilleros y
 conservación del patrimonio de la isla.
 
 ## El cuento de los Príncipes Perdidos
-En los tres reinos del Verano se narra todavía el cuento popular de los **Príncipes Perdidos**: Thalyssa Coralyss y Eryk Albyon, los amantes que huyeron hacia Khalos y jamás llegaron. Nadie sabe qué fue de ellos ni del hijo que Thalyssa llevaba en el vientre. El misterio ha generado incontables versiones: unos dicen que murieron en el camino, otros que se escondieron en Merenia, otros que alcanzaron Delfos y vivieron en paz. La verdad sigue siendo una de las grandes preguntas sin respuesta del imperio.
+En los tres reinos del Verano se narra todavía el cuento popular de los **Príncipes Perdidos**: Thalyssa Coralyss y Eryk Albyon, los amantes que huyeron hacia Khalos y jamás llegaron. Nadie sabe qué fue de ellos ni del hijo que Thalyssa llevaba en el vientre. El misterio ha generado incontables versiones: unos dicen que murieron en el camino, otros que se escondieron en Kyst, otros que alcanzaron Delfos y vivieron en paz. La verdad sigue siendo una de las grandes preguntas sin respuesta del imperio.
 
 ## Relaciones exteriores
 - **Lysarya, Zephyrya, Vesperya:** veneran la isla como cuna sagrada de los Hijos del Sol.

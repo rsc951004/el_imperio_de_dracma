@@ -19,7 +19,7 @@ En Khalos nació la **Kys Tábura**, la Tábura de la Liberación, primera Tábu
 ## Edad de la Podredumbre
 
 Khalos fue uno de los últimos refugios humanos capaces de resistir al Rey
-Podrido. Sus sabios auxiliaron a Rudgar Valgard y Roshan Therin durante la
+Podrido. Sus sabios auxiliaron a Rudgar Valgard y Stelian Therin durante la
 campaña que lo obligó a retroceder hasta Rauven.
 
 ## Pretensión del Raikim

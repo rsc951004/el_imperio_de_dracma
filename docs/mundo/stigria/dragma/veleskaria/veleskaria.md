@@ -1,49 +1,52 @@
 # Veleskaria
 
 ## Tipo
-Reino del Imperio de Dragma. Protector de Khalos.
 
-## Capital
-Stancra
-## Casa real
-- Fundadora: Pendiente
-- Actual: **Enescu**
+Reino del Imperio de Dragma y protector de Khalos.
 
-## Título del gobernante
-**Rey de la Montaña** o **Reina de la Montaña**. Forma abreviada entre monarcas: Rey Montaña o Reina Montaña. El título evoca las montañas de Verim que atraviesan el reino, ricas en Verilium, y la vocación minera que define su identidad.
+## Datos políticos
 
-## Afiliación en la rebelión
-**Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard.
-
-## Afiliación geográfica
-La relación de Veleskaria con los territorios históricos de Dresk y Weissen
-permanece pendiente. No forma parte del Paso del Oriente, nombre reservado para
-Esteria, el Foso y el Riegel. Sus nombres siguen una convención de sonoridad
-eslava.
-
-
-## Gobierno
-Regido por la Casa Enescu. La reina reinante es **Ileana Enescu ★**, Reina de la Montaña. Su consorte es la reina Yelena Gorski, originaria de Sindria.
-
-## Historia
-La formación de Veleskaria como reino y su vínculo con los dos Dominios
-Carmesíes de la Edad de Plata permanecen pendientes. Su función posterior como
-protector de Khalos está documentada, pero sus circunstancias de origen se
-desarrollarán al tratar la edad posterior a la de Plata.
+| Campo | Valor |
+|-------|-------|
+| **Nombre durante el Raikim** | Veleskgard |
+| **Capital** | Stancra |
+| **Casa real** | Enescu |
+| **Gobernante** | Ileana Enescu |
+| **Título** | Reina del Fulgor |
+| **Región histórica** | Dresk |
 
 ## Concepto
-Protector de Khalos, minero e industrial. Las montañas de Verim, ricas en Verilium, atraviesan su territorio.
 
-## Economía
-Reino altamente industrializado, especializado en minería. Extracción y procesamiento de Verilium.
+Veleskaria es el epicentro místico de Stigria. Sus academias estudian y
+practican el Blesk, sus refugios reciben a Portadores perseguidos y sus
+caravanas abastecen Esteria. La minería del Verilium pertenece a Eisengard; la
+identidad de Veleskaria se organiza alrededor del saber y la defensa, no de la
+extracción minera.
 
-## Relación con Khalos
-Oficialmente protector de Khalos. El pacto imperial garantiza la autonomía de la ciudad libre mientras Veleskaria vela por su seguridad exterior.
+## Historia
 
-## Referencias
-- `docs/12-reinos.md`
+Durante la Edad de Plata, el Raikim llamó Veleskgard al Dominio levantado sobre
+Dresk. El nombre conservó la raíz de Velesk, la antigua puerta de Sanghesk.
+Después de la Rebelión del Amanecer, Veleskgard recuperó la forma Veleskaria.
+
+La Casa Enescu convirtió el reino en protector de Khalos. El pacto garantiza la
+autonomía de la ciudad libre mientras Veleskaria mantiene sus rutas de
+abastecimiento y su defensa exterior.
+
+## Relaciones
+
+- **Khalos:** ciudad libre bajo protección exterior de Veleskaria.
+- **Esteria:** recibe materiales, curadores y Portadores formados en el reino.
+- **Sindria:** vecino de Weissen; su relación está marcada por la antigua
+  pertenencia común al bloque Carmesí.
 
 ## Guía de nombres
-**Rumana.** Los nombres de personas y lugares de Veleskaria siguen la tradición rumana.
 
-Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro). Ver la Guía de nombres en `docs/AGENTS.md`.
+Los nombres de Veleskaria tienen sonoridad rumana como convención externa de
+escritura. Esa cultura real no existe dentro del mundo.
+
+## Referencias
+
+- `docs/casas/enescu.md`
+- `docs/mundo/stigria/edad-de-la-tirania.md`
+- `docs/mundo/stigria/dragma/khalos/khalos.md`

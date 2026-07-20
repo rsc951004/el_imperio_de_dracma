@@ -56,7 +56,7 @@ sostenerlo activo.
 
 ## Portadores Sombríos
 
-Los **Portadores Sombríos** son una manifestación rara de los Portadores. Amir
+Los **Portadores Sombríos** son una manifestación rara de los Portadores. Radu
 es el único caso antiguo documentado en Stigria. Su naturaleza, herencia y
 capacidades permanecen pendientes.
 
@@ -65,7 +65,7 @@ capacidades permanecen pendientes.
 Numerosos esclavos liberados de Astria eran Portadores. Utilizaron sus
 facultades para transformar Dürr y crear la Costa del Verano.
 
-**Roshan Therin**, descendiente de Sheijad esclavizados, fue el único Portador
+**Stelian Therin**, descendiente de Sangheskios esclavizados, fue el único Portador
 del Sol vivo conocido durante la Edad de Plata. Su fulgor pudo herir físicamente
 al Rey Podrido. Durante la guerra de Unland usó la Kantra «Ta-besh».
 
@@ -79,7 +79,7 @@ del Rost.
 ## Referencias
 
 - cuentos/0001-el-surgimiento/cuento.md
-- docs/personajes/amir.md
-- docs/personajes/roshan-therin.md
+- docs/personajes/radu.md
+- docs/personajes/stelian-therin.md
 - docs/mundo/stigria/costa-del-verano.md
 - docs/mundo/stigria/foso-de-la-calamidad.md

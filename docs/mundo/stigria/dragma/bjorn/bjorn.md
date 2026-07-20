@@ -30,7 +30,12 @@ Los bjorneses son comerciantes abiertos, hábiles para negociar y mediar. Compar
 
 Bjorn existía antes del Raikim. Valgard lo conquistó, explotó sus bosques y le impuso el nombre de Bjorngard. Durante la Rebelión del Amanecer recuperó su nombre.
 
-Los antepasados de los bjorneses pertenecían a la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. Ese pueblo ayudó a los refugiados astrianos a fundar Khalos. La formación de Bjorn como territorio diferenciado permanece pendiente.
+Los antepasados de los bjorneses pertenecían a la Gente de la Bruma llegada
+desde Grimheim durante la Edad de la Podredumbre. Ese pueblo ayudó a los
+refugiados astrianos a fundar Khalos. Durante la penitencia del Raikim, los
+asentamientos del sur se agruparon alrededor de Skovby y adoptaron Bjorn como
+nombre político. El comercio y la custodia del bosque sagrado definieron su
+identidad.
 
 ## Economía
 

@@ -14,7 +14,7 @@ Pendiente.
 ## La guerra
 Kyros Albyon era rey de Lysarya —el reino pastoril del norte, el más grande del Verano pero el menos rico— cuando su hijo **Eryk Albyon** se enamoró en secreto de **Thalyssa Coralyss**, la hija del noble Daryón Coralyss de Alessya. Thalyssa estaba prometida al príncipe de Zephyrya, **Astryón Aetheryon**, como parte de un pacto para unir Alessya a Zephyrya.
 
-La noche anterior al compromiso, Thalyssa huyó. Eryk la esperaba en la costa de Merenia. Juntos partieron hacia Khalos. Nunca llegaron.
+La noche anterior al compromiso, Thalyssa huyó. Eryk la esperaba en la costa de Kyst. Juntos partieron hacia Khalos. Nunca llegaron.
 
 Cuando Alessya y Zephyrya acusaron a Lysarya de secuestro, Kyros respondió acusándolos a ellos de asesinato. Estalló la **Guerra de los Hermanos**. Kyros lideró a Lysarya en una invasión exitosa de Zephyrya —los pastores del norte penetrando en la flor del Verano—. Miles murieron.
 

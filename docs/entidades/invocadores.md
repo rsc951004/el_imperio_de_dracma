@@ -28,8 +28,3 @@ El Blesk alterado no se hereda, pero la ascendencia predispone: un hijo de invoc
 - **Portador:** Fuente del Blesk original. Todo rito de invocación requiere extraer Blesk de un portador.
 - **Init:** Destino activo. A diferencia del portador, el invocador puede dirigir su puente hacia múltiples Inits.
 - **Mobius:** Riesgo constante. El rito de alteración del Blesk puede manifestar un Mobius.
-
-## Referencias
-- `protoversiones/proto_v2/13 - El Sabio Triste.md`
-- `protoversiones/proto_v2/14 - El Invocador del Sol.md`
-- `protoversiones/proto_v2/17 - El Buen Rey Sol.md`

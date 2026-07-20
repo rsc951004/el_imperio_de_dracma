@@ -13,6 +13,7 @@ mundo/
     ├── edad-del-hierro.md
     ├── edad-de-la-podredumbre.md
     ├── edad-de-plata.md
+    ├── edad-de-la-tirania.md
     ├── gherin.md
     ├── grimm.md
     ├── stomur.md
@@ -54,14 +55,15 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 |--------|------|-------------------|-------|
 | Historia antigua de Stigria | Periodo histórico | Desde los stigrios y la Gran Devoración hasta el final de la Edad del Bronce. | [Ver ficha](mundo/stigria/historia-antigua.md) |
 | Pueblo Gheran | Pueblo antiguo | Pueblo surgido de la unión de los clanes stigrios durante la Edad del Bronce. | [Ver ficha](mundo/stigria/gheran.md) |
-| Edad del Hierro | Periodo histórico | Desde la llegada de los Sheijad hasta la destrucción de Shahrezad. | [Ver ficha](mundo/stigria/edad-del-hierro.md) |
-| Shahrezad | Estado histórico | Primer estado centralizado de Stigria, fundado por los Sheijad. | [Ver ficha](mundo/stigria/shahrezad.md) |
-| Pueblo Sheijad | Pueblo histórico | Fundadores de Shahrezad y portadores de una metalurgia avanzada del hierro. | [Ver ficha](mundo/stigria/sheijad.md) |
-| Guerra del Valle Dorado | Conflicto | Guerra entre Shahrezad y los clanes gheran. | [Ver ficha](mundo/stigria/guerra-del-valle-dorado.md) |
+| Edad del Hierro | Periodo histórico | Desde la llegada de los Sangheskios hasta la destrucción de Sanghesk. | [Ver ficha](mundo/stigria/edad-del-hierro.md) |
+| Sanghesk | Estado histórico | Primer estado centralizado de Stigria, fundado por los Sangheskios. | [Ver ficha](mundo/stigria/sanghesk.md) |
+| Pueblo Sangheskios | Pueblo histórico | Fundadores de Sanghesk y portadores de una metalurgia avanzada del hierro. | [Ver ficha](mundo/stigria/sangheskios.md) |
+| Guerra del Valle Dorado | Conflicto | Guerra entre Sanghesk y los clanes gheran. | [Ver ficha](mundo/stigria/guerra-del-valle-dorado.md) |
 | Sangre de Hierro | Identidad sociocultural | Guerreros del antiguo Bloque de Hierro y sus descendientes. | [Ver ficha](mundo/stigria/sangre-de-hierro.md) |
-| Sangre de Hierro Carmesí | Identidad política | Guardianes del Norte surgidos de los sheijad durante la Edad de Plata. | [Ver ficha](mundo/stigria/sangre-de-hierro-carmesi.md) |
-| Edad de la Podredumbre | Periodo histórico | Desde la caída de Shahrezad hasta el confinamiento del Rey Podrido por la campaña de Rudgar y Roshan. | [Ver ficha](mundo/stigria/edad-de-la-podredumbre.md) |
+| Sangre de Hierro Carmesí | Identidad política | Guardianes del Norte surgidos de los sangheskios durante la Edad de Plata. | [Ver ficha](mundo/stigria/sangre-de-hierro-carmesi.md) |
+| Edad de la Podredumbre | Periodo histórico | Desde la caída de Sanghesk hasta el confinamiento del Rey Podrido por la campaña de Rudgar y Stelian. | [Ver ficha](mundo/stigria/edad-de-la-podredumbre.md) |
 | Edad de Plata | Periodo histórico | Desde el segundo Stamengherin documentado hasta la muerte de Rudgar Valgard. | [Ver ficha](mundo/stigria/edad-de-plata.md) |
+| Edad de la Tiranía | Periodo histórico | Desde la muerte de Rudgar hasta la Rebelión del Amanecer y la fundación de Dragma. | [Ver ficha](mundo/stigria/edad-de-la-tirania.md) |
 | Pacto de Dürr | Acuerdo histórico | Pacto entre Rudgar y Aurethyron que abrió el comercio entre el Hierro y el Verano. | [Ver ficha](mundo/stigria/pacto-de-durr.md) |
 | Ghild | Instrumento de intercambio | Moneda surgida del comercio entre Dürr y el Hierro. | [Ver ficha](mundo/stigria/ghild.md) |
 | Artefactos místicos | Concepto | Objetos creados con saberes de Portadores y efectos definidos. | [Ver ficha](mundo/stigria/artefactos-misticos.md) |
@@ -71,7 +73,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Kantra | Técnica de Portadores | Palabra o acción usada para canalizar el Blesk. | [Ver ficha](mundo/stigria/kantra.md) |
 | Guerra de Unland | Conflicto | Campaña de Recuperación de Unland y origen de Kystgard, Lynggard y Bjorngard. | [Ver ficha](mundo/stigria/guerra-de-unland.md) |
 | Emisarios de la Ruina | Servidores del Rey Podrido | Personas entregadas voluntariamente al Rey Podrido. | [Ver ficha](mundo/stigria/emisarios-de-la-ruina.md) |
-| Rostam | Fortaleza histórica | Jaula Negra de Rauven y escenario del segundo sellado. | [Ver ficha](mundo/stigria/rostam.md) |
+| Roshdom | Fortaleza histórica | Jaula Negra de Rauven y escenario del segundo sellado. | [Ver ficha](mundo/stigria/roshdom.md) |
 | Gente de la Bruma | Pueblo histórico | Pobladores procedentes de Grimheim que se establecieron en Unland. | [Ver ficha](mundo/stigria/gente-de-la-bruma.md) |
 | Costa del Verano | Región histórica | Territorio de Dürr transformado por los Portadores liberados de Astria. | [Ver ficha](mundo/stigria/costa-del-verano.md) |
 | Foso de la Calamidad | Accidente geográfico | Grieta abierta dentro del Riegel al final de la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/foso-de-la-calamidad.md) |
@@ -92,30 +94,30 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 
 | # | Reino | Región | Casa | Título | Gobernante ★ | Ficha |
 |---|-------|------|------|-------|-------------|-------|
-| 1 | Eisengard | Hierro | Pendiente | Pendiente | Pendiente | [Ver ficha](mundo/stigria/dragma/eisengard/eisengard.md) |
-| 2 | Guldengard | Hierro | Pendiente | Pendiente | Pendiente | [Ver ficha](mundo/stigria/dragma/guldengard/guldengard.md) |
+| 1 | Eisengard | Hierro | Hammer | Rey/Reina del Yunque | Casa Hammer | [Ver ficha](mundo/stigria/dragma/eisengard/eisengard.md) |
+| 2 | Guldengard | Hierro | Gilden | Rey/Reina del Oro | Casa Gilden | [Ver ficha](mundo/stigria/dragma/guldengard/guldengard.md) |
 | 3 | Flemmengard | Hierro | Wolfen | Rey/Reina de la Llama | Rey Kaspar Wolfen | [Ver ficha](mundo/stigria/dragma/flemmengard/flemmengard.md) |
 | 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta | Rey Jorin Reisner | [Ver ficha](mundo/stigria/dragma/sturmgard/sturmgard.md) |
 | 5 | Lysarya | Costas del Verano | Corinthyos | Rey/Reina de la Roca | Reina Octavya Corinthyos | [Ver ficha](mundo/stigria/dragma/lysarya/lysarya.md) |
-| 6 | Veleskaria | Dresk y Weissen, relación pendiente | Enescu | Rey/Reina de la Montaña | Reina Ileana Enescu | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
+| 6 | Veleskaria | Dresk | Enescu | Rey/Reina del Fulgor | Reina Ileana Enescu | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
 | 7 | Zephyrya | Costas del Verano | Zephyryon | Rey/Reina del Ocaso | Rey Cassyus Zephyryon | [Ver ficha](mundo/stigria/dragma/zephyrya/zephyrya.md) |
 | 8 | Kyst | Tierra de la Bruma | Fjord | Rey/Reina de la Costa Gris | Rey Skaer Fjord | [Ver ficha](mundo/stigria/dragma/kyst/kyst.md) |
 | 9 | Lyng | Tierra de la Bruma | Korn | Rey/Reina del Valle | Rey Ravn Korn | [Ver ficha](mundo/stigria/dragma/lyng/lyng.md) |
 | 10 | Vesperya | Costas del Verano | Valeryus | Rey/Reina del Tridente | Rey Marcus Valeryus | [Ver ficha](mundo/stigria/dragma/vesperya/vesperya.md) |
-| 11 | Sindria | Dresk y Weissen, relación pendiente | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
+| 11 | Sindria | Weissen | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
 | 12 | Bjorn | Tierra de la Bruma | Borg | Rey/Reina del Bosque | Rey Skov Borg | [Ver ficha](mundo/stigria/dragma/bjorn/bjorn.md) |
 
 ★ = gobernante reinante
 
-**Valle de Hierro** (1-4): Eisengard, Guldengard, Flemmengard y Sturmgard. Los dos primeros aún no tienen casa, gobernante ni rasgos canónicos fijados.
+**Valle de Hierro** (1-4): Eisengard, Guldengard, Flemmengard y Sturmgard. Eisengard concentra el Verilium y la forja; Guldengard concentra el oro y la acuñación del Ghild.
 
 **Costas del Verano** (5, 7, 10): Descendientes de esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron Dürr; los tres reinos comparten origen, sangre y lengua. Su evolución posterior se desarrollará fuera de la Edad de Plata.
 
-**Dresk y Weissen** (6, 11): la relación histórica entre Veleskaria, Sindria y los Dominios Carmesíes permanece pendiente. El **Paso del Oriente** nombra exclusivamente a Esteria, el Foso y el Riegel.
+**Dresk y Weissen** (6, 11): Veleskaria ocupa Dresk y Sindria ocupa Weissen. Sus nombres durante el Raikim fueron Veleskgard y Sindgard. El **Paso del Oriente** nombra exclusivamente a Esteria, el Foso y el Riegel.
 
-**Tierra de la Bruma** (8, 9, 12): Kyst, Lyng y Bjorn descienden de la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. Los tres reinos existían antes del Raikim: fueron conquistados, no creados. La formación concreta de sus identidades separadas permanece pendiente.
+**Tierra de la Bruma** (8, 9, 12): Kyst, Lyng y Bjorn descienden de la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. Los tres reinos existían antes del Raikim: fueron conquistados, no creados. Sus funciones históricas quedaron diferenciadas por la pesca, la agricultura y el comercio forestal.
 
-La Rebelión del Amanecer pertenece a la edad posterior a la de Plata. Derrotó a Grimar Valgard y precedió a la fundación de Dragma; sus divisiones políticas y los cambios de nombre se desarrollarán en ese corte histórico.
+La Rebelión del Amanecer pertenece a la Edad de la Tiranía. Derrotó a Grimar Valgard y precedió a la fundación de Dragma.
 
 Los tres reinos del Verano comparten una raíz en los Hijos del Sol y en la
 Costa del Verano: **Lysarya** (el más septentrional, pastoreo y puente con el
@@ -123,8 +125,9 @@ Hierro), **Zephyrya** (planicies del suroeste, flor del Verano, Casa Solaryss
 sin corona y técnica de Loryan) y **Vesperya** (el más oriental y más pequeño,
 guardián del Estrecho de la Tríada y la Bahía de los Reyes). Durante la Edad de
 Plata, Rudgar dividió Dürr en Lysgard, Zephyrgard y Vespergard. La evolución de
-esos Dominios hasta los reinos actuales, así como la fundación y el destino de
-Suntarys, pertenece a la edad posterior a la de Plata.
+esos Dominios hasta los reinos actuales pertenece a la Edad de la Tiranía y a
+los primeros periodos imperiales; la fundación y el destino de Suntarys siguen
+siendo asuntos posteriores.
 Los tres reinos de la Tierra de la Bruma son **Kyst** —puerto pesquero—, **Lyng** —corazón agrícola— y **Bjorn** —centro comercial y guardián del bosque sagrado—.
 
 #### Capital imperial
@@ -138,7 +141,7 @@ Los tres reinos de la Tierra de la Bruma son **Kyst** —puerto pesquero—, **L
 | # | Nombre | Tipo | Descripción breve | Ficha |
 |---|--------|------|-------------------|-------|
 | 1 | Khalos | Ciudadela | Fortaleza circular de piedra de Stömur, fundada por la Gente de la Bruma y refugiados astrianos. | [Ver ficha](mundo/stigria/dragma/khalos/khalos.md) |
-| 2 | Esteria | Ciudad fortaleza | Enclave fundado por Roshan Therin junto al Foso. No pertenece a ninguno de los doce reinos. | [Ver ficha](mundo/stigria/dragma/esteria/esteria.md) |
+| 2 | Esteria | Ciudad fortaleza | Enclave fundado por Stelian Therin junto al Foso. No pertenece a ninguno de los doce reinos. | [Ver ficha](mundo/stigria/dragma/esteria/esteria.md) |
 | 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/stigria/dragma/ishbaal/ishbaal.md) |
 | 4 | Alessya | Isla | Isla al suroeste, vinculada históricamente con los Hijos del Sol. Protectorado rico gobernado por un Príncipe Guardián. Inalienable por ley de la Concordia. | [Ver ficha](mundo/stigria/dragma/alessya/alessya.md) |
 | 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por Artemis durante la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/dragma/delfos/delfos.md) |
@@ -151,4 +154,4 @@ Los tres reinos de la Tierra de la Bruma son **Kyst** —puerto pesquero—, **L
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Suntarys | Ciudadela histórica | Ciudadela de Alessya vinculada con los Hijos del Sol. Su fundación y caída se desarrollarán en una edad posterior. | [Ver ficha](mundo/stigria/suntarys.md) |
+| Suntarys | Ciudadela histórica | Ciudadela de Alessya vinculada con los Hijos del Sol. Su fundación y caída se desarrollarán en periodos posteriores. | [Ver ficha](mundo/stigria/suntarys.md) |

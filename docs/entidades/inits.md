@@ -25,5 +25,3 @@ No pertenecen a este plano. Regresaron a Irij antes del amanecer del día siguie
 
 ## Referencias
 - `cuentos/0001-el-surgimiento/cuento.md`
-- `protoversiones/proto_v2/7 - El Testigo en la Oscuridad.md`
-- `protoversiones/proto_v2/13 - El Sabio Triste.md`

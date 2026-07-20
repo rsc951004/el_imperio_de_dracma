@@ -12,4 +12,4 @@ Es la Tábura que respalda las *Crónicas de Erebia* de Sandor Solaryss.
 Opera dentro de los círculos de Khalos. El acceso a sus archivos está restringido por rango y círculo. Los niveles superiores custodian documentos que solo unos pocos pueden consultar.
 
 ## Referencias
-- `protoversiones/proto_v2/Anexo II.md`
+- `docs/mundo/stigria/sangheskios.md`

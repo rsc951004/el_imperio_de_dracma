@@ -6,7 +6,7 @@ Jefe del clan Mormund durante la Guerra del Valle Dorado. Gheran de Eldenheim y 
 
 ## Historia
 
-En el Stamengherin celebrado en Eldengard, Wolfram propuso negociar una paz cooperativa con los Sheijad. Val el Terrible defendió la guerra. Ambos resolvieron su disputa mediante un duelo: Wolfram empuñó un hacha y Val un enorme martillo.
+En el Stamengherin celebrado en Eldengard, Wolfram propuso negociar una paz cooperativa con los Sangheskios. Val el Terrible defendió la guerra. Ambos resolvieron su disputa mediante un duelo: Wolfram empuñó un hacha y Val un enorme martillo.
 
 Wolfram parecía próximo a vencer cuando llegó la noticia de la invasión de Gülden. El combate terminó sin vencedor.
 

@@ -1,44 +1,53 @@
 # Pendientes del proyecto
 
-Archivo vivo de vacíos deliberados. Una entrada permanece aquí hasta que el lore correspondiente sea narrado y canonizado.
+Archivo vivo de vacíos deliberados. Una entrada permanece aquí hasta que el
+lore correspondiente sea narrado o canonizado. Los asuntos cerrados del bloque
+Plata–Tiranía ya no se mantienen en esta lista.
+
+## Narración futura
+
+| Tema | Qué falta |
+|------|-----------|
+| **Edad de la Tiranía** | Redactar la acumulación narrativa de los dieciséis Raiks posteriores a Rudgar, la transformación del Raikim y la Rebelión del Amanecer. |
 
 ## Historia de Stigria
 
 | Tema | Qué falta |
 |------|-----------|
-| **Campañas del Raikim** | Desarrollo de la reunificación del Gherin y formación de los Dominios posteriores a Flemmen y Sturm. |
-| **Rudgar y Roshan** | Desarrollo narrativo de su relación después de Unland y de la proclamación Carmesí. |
-| **Edad posterior a la de Plata** | Nombre, cronología y transformación del Raikim desde Drakar hasta Grimar Valgard. |
-| **Clanes y casas** | Mecanismos y linajes concretos de la transformación de los clanes gheranos en las casas posteriores. |
-| **Valgard y Eldengard** | Momento y causa de la vinculación inicial de Valgard con la fortaleza, anterior a Rudgar. |
-| **Banda de la Piedra Mohosa** | Destino de sus integrantes y explicación de su supervivencia en el conducto del Rost. |
-| **Gente de la Bruma** | Origen remoto de las comunidades humanas del sur de Grimheim y formación posterior de las identidades políticas de Kyst, Lyng y Bjorn después de la penitencia. |
-| **Portadores Sombríos** | Naturaleza, herencia, capacidades y relación con otros Portadores. |
-| **Nombres y voluntad** | Alcance de los efectos observados en Ajriman y el Rey Podrido. |
-| **Entrega al Rey Podrido** | Consecuencias metafísicas de la posesión sobre la voluntad o el alma. |
-| **Límite de Stigria** | Efecto de intentar que el Rey Podrido, un Grimmen o un poseído abandone el continente. |
-| **Voces del Rey Podrido** | Naturaleza de las miles de voces perceptibles en su grito. |
-| **Astrid** | Destino de Astrid y de su hijo no nacido tras la caída de la fortaleza de Sturm. |
-| **Fortaleza de Sturm** | Nombre de la fortaleza donde desapareció Astrid y Rudgar encontró a Roshan. |
-| **Roshan Therin** | Destino de Roshan tras la incursión de Rostam y evolución posterior de la Casa Therin. |
-| **Kys Tábura** | Circunstancias de su desaparición antes de la Edad de Oro. |
-| **Peregrinos Negros** | Destino de los emisarios que persiguieron a los refugiados astrianos hasta Stigria. |
-| **Mormund** | Traslado de la casa desde Eldenheim hasta su residencia actual en Zephyrya. |
-| **Casa Goros** | Fundación y ascenso de la casa real de Sindria. |
-| **Casa Ormur y Alastor** | Ubicación histórica y hechos de la casa y de Alastor Ormur. |
-| **Emisarios de la Ruina** | Alcance de su red después de la guerra de Unland y destino de los capturados. |
+| **Clanes y casas antiguas** | Precisar los mecanismos y linajes de la transformación de los clanes gheranos en las casas posteriores. |
+| **Valgard y Eldengard** | Precisar el momento y la causa de la vinculación inicial de Valgard con la fortaleza. |
+| **Banda de la Piedra Mohosa** | Resolver el destino de sus integrantes y su supervivencia en el conducto del Rost. |
+| **Portadores Sombríos** | Definir su naturaleza, herencia, capacidades y relación con otros Portadores. |
+| **Nombres y voluntad** | Determinar el alcance de los efectos observados en Strigor y el Rey Podrido. |
+| **Entrega al Rey Podrido** | Resolver las consecuencias metafísicas de la posesión sobre la voluntad o el alma. |
+| **Límite de Stigria** | Determinar qué ocurre si el Rey Podrido, un Grimmen o un poseído intenta abandonar el continente. |
+| **Voces del Rey Podrido** | Determinar la naturaleza de las miles de voces perceptibles en su grito. |
+| **Astrid** | Resolver el destino de Astrid y de su hijo no nacido tras la caída de la fortaleza de Sturm. |
+| **Fortaleza de Sturm** | Fijar el nombre de la fortaleza donde desapareció Astrid y Rudgar encontró a Stelian. |
+| **Kys Tábura** | Resolver las circunstancias de su desaparición antes de la Edad de Oro. |
+| **Peregrinos Negros** | Resolver el destino de los emisarios que persiguieron a los refugiados astrianos hasta Stigria. |
+| **Emisarios de la Ruina** | Precisar el alcance de su red después de la guerra de Unland y el destino de los capturados. |
 
 ## Instituciones y territorios
 
 | Tema | Qué falta |
 |------|-----------|
-| **Ceremonia de mayoría de edad** | Nombre y desarrollo de la ceremonia obligatoria a los dieciséis años. |
-| **Tierras Intermedias** | Ficha, gobierno, geografía y relación con los reinos. |
-| **Stamengherin moderno** | Número y elección de representantes, rotación y lugar de reunión durante un quiebre. |
-| **Eldengaria** | Ficha completa de la capital imperial. |
-| **Edicto del Amanecer** | Forma, texto y circunstancias detalladas. |
-| **Casas fundadoras** | Historia de las casas fundadoras de los doce reinos. |
-| **Casa Umbra** | Relación con el culto al Dios Negro. |
-| **Casa Askia** | Relación con la actual Casa Reisner de Sturmgard. |
-| **Casa Grigoryan** | Destino de la casa anterior a Wolfen. |
-| **Cronología dS** | Fechas absolutas de la Edad del Hierro, Podredumbre y Raikim. |
+| **Ceremonia de mayoría de edad** | Definir el nombre y el desarrollo de la ceremonia obligatoria a los dieciséis años. |
+| **Tierras Intermedias** | Completar la ficha, el gobierno, la geografía y la relación con los reinos. |
+| **Stamengherin moderno** | Fijar el número y la elección de representantes, la rotación y el lugar de reunión durante un quiebre. |
+| **Eldengaria** | Completar la ficha de la capital imperial. |
+| **Edicto del Amanecer** | Fijar su forma, texto y circunstancias detalladas. |
+| **Casas fundadoras** | Completar la historia de las casas fundadoras de los doce reinos. |
+| **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
+| **Casa Askia** | Resolver su relación con la actual Casa Reisner de Sturmgard. |
+| **Casa Grigoryan** | Resolver el destino de la casa anterior a Wolfen. |
+| **Cronología dS** | Fijar fechas absolutas para la Edad del Hierro, la Podredumbre y el Raikim. |
+
+## Misterios y desarrollos posteriores
+
+| Tema | Qué falta |
+|------|-----------|
+| **Artemis y Suntarys** | Precisar la posición cronológica de Artemis y la fundación, trayectoria y caída de Suntarys. |
+| **Astria, Talmos y Erebia** | Completar la historia de Astria, la destrucción de la Nación de la Luz y el continente de Erebia. |
+| **Protectorados y ultramar** | Desarrollar Ishbaal, Lorka, Paicel y las relaciones históricas entre los protectorados. |
+| **Príncipes Perdidos** | Resolver el destino de Eryk Albyon y Thalyssa Coralyss. |

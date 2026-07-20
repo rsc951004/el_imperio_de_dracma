@@ -41,7 +41,7 @@ acuerdo incluía intervenir en su defensa.
 
 Cuando descubrieron que los tres jarls de Unland habían pactado con los
 Emisarios de la Ruina, enviaron una comitiva a Esteria. Confesaron el acuerdo a
-Roshan Therin y pidieron su mediación ante Rudgar.
+Stelian Therin y pidieron su mediación ante Rudgar.
 
 ## Sometimiento
 

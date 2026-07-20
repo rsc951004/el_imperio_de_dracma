@@ -2,6 +2,39 @@
 
 ## Revisiones editoriales
 
+### Cierre canónico del bloque Plata–Tiranía (2026-07-19)
+
+Se cerró la acumulación de trabajo correspondiente al final de la Edad de
+Plata y la transición hacia la **Edad de la Tiranía**. Esta entrada registra la
+decisión editorial y el estado resultante; la narración de la nueva edad queda
+reservada para una acumulación posterior.
+
+**Cambios canónicos:**
+
+- Se fijaron **Sanghesk**, **Sangheskios**, **Stelian Therin**, **Roshdom**,
+  **Radu** y **Strigor**, junto con sus equivalencias históricas y sus marcas
+  de canon velado cuando corresponde.
+- Se estableció la **Edad de la Tiranía** como nombre canónico del periodo que
+  comienza con Drakar y termina con la Rebelión del Amanecer.
+- Se conservaron Veleskaria, Veleskgard y el vínculo con el Blesk, Khalos y
+  Esteria. Veleskaria ocupa Dresk; Sindria ocupa Weissen y deriva de Sindgard.
+- Se fijaron Eisengard y Guldengard, las casas Hammer, Meister y Gilden, y la
+  continuidad de las casas Therin, Frosthain y Radanescu.
+- Se completaron la fundación y el crecimiento de Esteria, la Guardia Amarilla,
+  el título de Rey del Foso y el origen político de la reclamación de Sindria.
+- Se retiraron las fichas obsoletas y los restos documentales de la antigua
+  organización de la Tierra de la Bruma. Ninguna ficha canónica activa conserva
+  la marca de material descanonizado.
+
+**Cierre de la mesa:**
+
+- `mesa-de-trabajo/` conserva únicamente su `README.md` general.
+- Las acumulaciones y diagnósticos cerrados dejaron de formar parte del espacio
+  de trabajo. Los vacíos deliberados que siguen vigentes se registran en
+  `docs/pendientes.md`.
+- No se modificaron `protoversiones/`, las referencias visuales ni las
+  herramientas, y no se redactó todavía la narración de la Edad de la Tiranía.
+
 ### Canonización de la Edad de Plata (2026-07-19)
 
 Se canonizó la Edad de Plata desde el segundo Stamengherin documentado hasta la

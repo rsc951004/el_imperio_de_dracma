@@ -27,7 +27,7 @@ origen de su liberación.
 
 Los Hijos del Sol desconocían el pacto separado de los tres jarls de Unland
 con los Emisarios de la Ruina. Cuando comprendieron el peligro, enviaron una
-comitiva a Esteria, confesaron a Roshan Therin su propio acuerdo con Unland y
+comitiva a Esteria, confesaron a Stelian Therin su propio acuerdo con Unland y
 pidieron su mediación ante Rudgar.
 
 ## Intercambio de regalos

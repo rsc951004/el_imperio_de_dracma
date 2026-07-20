@@ -14,7 +14,7 @@ Pendiente.
 ## La huida
 Thalyssa Coralyss estaba atrapada entre dos mundos. Su padre, Daryón, la había prometido a **Astryón Aetheryon**, príncipe de Zephyrya. Quería para ella castillos de mármol blanco, sábanas de seda y fruta dulce. Pero Thalyssa ya se había entregado a **Eryk Albyon**, príncipe de Lysarya —el reino pastoril del norte, el más austero de los tres—. Y estaba **embarazada** de él.
 
-La noche anterior a la gran celebración del compromiso, Thalyssa tomó un bote, cruzó a las costas de Merenia disfrazada de plebeya y se reunió con Eryk. Juntos partieron hacia **Khalos**, la ciudad libre donde ningún rey podía reclamarlos. **Nunca llegaron.** Algo sucedió en el camino.
+La noche anterior a la gran celebración del compromiso, Thalyssa tomó un bote, cruzó a las costas de Kyst disfrazada de plebeya y se reunió con Eryk. Juntos partieron hacia **Khalos**, la ciudad libre donde ningún rey podía reclamarlos. **Nunca llegaron.** Algo sucedió en el camino.
 
 Su desaparición desencadenó la **Guerra de los Hermanos**. Su padre la declaró secuestrada por Lysarya; Zephyrya se sumó a la acusación. Lysarya respondió acusando a Zephyrya de asesinato. Miles murieron. Dos reyes fueron ejecutados. Tres casas —Coralyss, Aetheryon, Albyon— fueron borradas del Dex Códice.
 

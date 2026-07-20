@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Grimmen de Rauven muerta por los primeros Sheijad llegados a Stigria.
+Grimmen de Rauven muerta por los primeros Sangheskios llegados a Stigria.
 
 ## Forma y conducta
 

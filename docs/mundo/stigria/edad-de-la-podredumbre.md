@@ -2,11 +2,11 @@
 
 ## Inicio
 
-La Edad de la Podredumbre comenzó con la destrucción de Shahrezad por el Rey Podrido.
+La Edad de la Podredumbre comenzó con la destrucción de Sanghesk por el Rey Podrido.
 
-Los Sheijad que escaparon de Dresk huyeron hacia **Darvaz Sorkh**, donde fueron contenidos por el Bloque de Hierro. La mayoría de los capturados terminó esclavizada por los Gheran.
+Los Sangheskios que escaparon de Dresk huyeron hacia **Velesk**, donde fueron contenidos por el Bloque de Hierro. La mayoría de los capturados terminó esclavizada por los Gheran.
 
-El Rey Podrido avanzó hasta los grandes portones rojos. Aparentaba entre quince y diecisiete años: tenía la piel verdosa, semejante a la de una planta podrida, el cabello largo y desordenado, ropas sheijad desgastadas y cuernos negros, asimétricos y retorcidos como ramas. Tomó los portones con las manos y los cerró. La piedra roja comenzó a ennegrecerse lentamente desde los puntos que había tocado.
+El Rey Podrido avanzó hasta los grandes portones rojos. Aparentaba entre quince y diecisiete años: tenía la piel verdosa, semejante a la de una planta podrida, el cabello largo y desordenado, ropas sangheskias desgastadas y cuernos negros, asimétricos y retorcidos como ramas. Tomó los portones con las manos y los cerró. La piedra roja comenzó a ennegrecerse lentamente desde los puntos que había tocado.
 
 ## El encierro del Rey Podrido
 
@@ -39,18 +39,18 @@ Los liberados se asentaron en Dürr. Sus Portadores emplearon sus facultades par
 
 ## La Puerta Negra
 
-Cinco generaciones separaron a Val el Terrible de **Odalric Valgard**. Para cuando Odalric alcanzó la edad adulta, la oscuridad había terminado de cubrir Darvaz Sorkh, convertida en la **Puerta Negra del Reino Podrido**. Odalric fue abuelo de Rudgar; su hijo **Baldur Valgard** fue el padre del futuro Raik.
+Cinco generaciones separaron a Val el Terrible de **Odalric Valgard**. Para cuando Odalric alcanzó la edad adulta, la oscuridad había terminado de cubrir Velesk, convertida en la **Puerta Negra del Reino Podrido**. Odalric fue abuelo de Rudgar; su hijo **Baldur Valgard** fue el padre del futuro Raik.
 
 Casi dos siglos después del nacimiento del Rey Podrido, cuando **Rudgar Valgard** tenía dieciséis años, la Puerta Negra se abrió. Las hordas de Grimmen y poseídos entraron en Flemmen y Eisen.
 
 En cinco años ocuparon casi todo el Gherin. Los principales refugios que permanecieron en Stigria fueron Khalos y Eldengard.
 
-## Rudgar y Roshan
+## Rudgar y Stelian
 
 A los veintiún años, Rudgar respondió a la petición de auxilio enviada desde una fortaleza de Sturm custodiada por vasallos de la Casa Valgard. Allí se refugiaba su esposa **Astrid**, embarazada de un hijo suyo. Cuando llegó, la fortaleza estaba destruida y sus habitantes habían aceptado al Rey Podrido. Astrid había desaparecido y el hijo que esperaba nunca llegó a nacer.
 
-Entre los escombros, Rudgar encontró a un joven sheijad esclavizado de catorce
-años: **Roshan Therin**. Lo llevó consigo hacia Eldengard, pero durante su
+Entre los escombros, Rudgar encontró a un joven sangheskio esclavizado de catorce
+años: **Stelian Therin**. Lo llevó consigo hacia Eldengard, pero durante su
 ausencia los habitantes de la antigua fortaleza también se habían rendido.
 
 El Rey Podrido apareció ante Rudgar. Aparentaba unos treinta y cinco años,
@@ -59,22 +59,22 @@ semejantes a ramas. Su piel verdosa y sus cuernos le daban una apariencia
 tétrica, aunque sus facciones eran las de un joven hermoso.
 
 Rudgar bajó su espada y comenzó a aceptar la rendición. Antes de que el Rey
-pudiera tocarlo, Roshan extendió las manos y proyectó contra él una descarga de
+pudiera tocarlo, Stelian extendió las manos y proyectó contra él una descarga de
 fulgor solar. Rudgar creyó oír que gritaba **«Ta-besh»**, una Kantra usada para
 canalizar su Blesk.
 
-El fulgor quemó las ropas y el cuerpo del Rey Podrido. Mientras huía entre la bruma, su grito sonó como miles de voces humanas al mismo tiempo. Roshan volvió a manifestar su poder ante Rudgar, quien reaccionó con desconfianza por su condición de Portador sheijad. Después de numerosos desacuerdos, Rudgar terminó aceptando su ayuda. Los detalles de esa reconciliación permanecen desconocidos.
+El fulgor quemó las ropas y el cuerpo del Rey Podrido. Mientras huía entre la bruma, su grito sonó como miles de voces humanas al mismo tiempo. Stelian volvió a manifestar su poder ante Rudgar, quien reaccionó con desconfianza por su condición de Portador sangheskio. Después de numerosos desacuerdos, Rudgar terminó aceptando su ayuda. Los detalles de esa reconciliación permanecen desconocidos.
 
 ## La campaña de liberación
 
-Rudgar y Roshan reunieron supervivientes y Portadores capaces de combatir al
+Rudgar y Stelian reunieron supervivientes y Portadores capaces de combatir al
 Rey Podrido con el auxilio de Khalos y de los Hijos del Sol.
 
 La contraofensiva reunió fuerzas capaces de perseguir al Rey Podrido y quebrar
 su avance por el Gherin. Las victorias expulsaron a sus fuerzas, pero no
 establecieron un dominio político estable sobre los territorios recorridos.
 
-Rudgar, Roshan y sus aliados hirieron y desfiguraron al Rey Podrido, pero no lograron destruirlo. Solo pudieron obligarlo a retroceder a través del Riegel hasta Rauven.
+Rudgar, Stelian y sus aliados hirieron y desfiguraron al Rey Podrido, pero no lograron destruirlo. Solo pudieron obligarlo a retroceder a través del Riegel hasta Rauven.
 
 ## Final
 
@@ -95,7 +95,7 @@ del Raikim.
 
 - `docs/personajes/rey-podrido.md`
 - `docs/personajes/rudgar-valgard.md`
-- `docs/personajes/roshan-therin.md`
+- `docs/personajes/stelian-therin.md`
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
 - `docs/mundo/stigria/costa-del-verano.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`

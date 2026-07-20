@@ -27,7 +27,7 @@ Lysarya es uno de los tres reinos de los **Hijos del Sol**, descendientes de
 los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron
 el litoral de Dürr y fundaron la **Costa del Verano**. La evolución de aquellos
 asentamientos hasta los reinos actuales y su relación con Suntarys pertenecen a
-una edad posterior a la de Plata.
+la Edad de la Tiranía y los primeros periodos imperiales.
 
 La memoria de la esclavitud astriana hace que los Hijos del Sol llamen a Astria
 **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una
@@ -63,7 +63,7 @@ Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el no
 
 Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya e hijo del rey **Kyros Albyon**. Y estaba embarazada.
 
-La noche anterior al compromiso, Thalyssa tomó un bote y huyó. Eryk la esperaba en la costa de Merenia. Juntos partieron hacia **Khalos** —ciudad libre, refugio imposible de allanar—. **Nunca llegaron.** Su desaparición es un misterio hasta hoy: el cuento popular de los **Príncipes Perdidos**.
+La noche anterior al compromiso, Thalyssa tomó un bote y huyó. Eryk la esperaba en la costa de Kyst. Juntos partieron hacia **Khalos** —ciudad libre, refugio imposible de allanar—. **Nunca llegaron.** Su desaparición es un misterio hasta hoy: el cuento popular de los **Príncipes Perdidos**.
 
 Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de asesinato. Estalló la **Guerra de los Hermanos**: zefirios y alessyanos contra lisarios. **Hijos del Sol contra Hijos del Sol.**
 

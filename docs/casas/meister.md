@@ -1,8 +1,3 @@
-<!-- DESCANONIZADO | estado: pendiente de revisión para recanonización o eliminación definitiva -->
-
-> **Archivo descanonizado.** Se conserva solo para revisión editorial y no debe
-> usarse como fuente de lore vigente.
-
 # Casa Meister
 
 ## Datos generales
@@ -10,20 +5,18 @@
 | Campo | Valor |
 |-------|-------|
 | **Nombre** | Meister |
-| **Tipo** | Casa real |
-| **Reino** | Waffengard |
-| **Bloque** | Hierro |
-| **Lema** | Pendiente |
-| **Escudo** | Pendiente |
-| **Fundador** | Pendiente |
-| **Título** | Rey/Reina del Acero |
+| **Tipo** | Casa noble |
+| **Reino** | Eisengard |
+| **Título** | Señor o Señora de la Forja |
 
 ## Historia y descripción
 
-Casa real de Waffengard. El norte militar del imperio, el yunque que forja las armas de Dragma. Su identidad está ligada a la forja, la disciplina marcial y el acero. Waffengard fue uno de los cuatro reinos del Bloque de Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Economía basada en la producción armamentística y exportación de equipo militar. Nombres de sonoridad germánica.
+La Casa Meister nació entre los maestros de forja que acompañaron a las casas
+refugiadas hacia Eisen. No ocupa la corona, pero administra talleres y escuelas
+de metalurgia bajo la autoridad de Hammer. Su trabajo sostiene la producción
+del Acero del Alba.
 
-## Miembros relevantes
+## Referencias
 
-- **Jorgen Meister** ★ — Rey del Acero. Gobernante reinante.
-- **Alessa Meister** — Reina consorte. Originaria de Skarngard (Casa Brunnen).
-- **Sabina Jaeger** — Hermana de Jorgen. Reina consorte de Sturmgard.
+- `docs/casas/hammer.md`
+- `docs/mundo/stigria/dragma/eisengard/eisengard.md`

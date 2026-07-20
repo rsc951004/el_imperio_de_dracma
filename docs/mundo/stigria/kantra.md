@@ -7,7 +7,7 @@ mayor precisión su Blesk.
 
 ## Ejemplo documentado
 
-Durante la Guerra de Unland, Roshan Therin empleó la Kantra **«Ta-besh»** al
+Durante la Guerra de Unland, Stelian Therin empleó la Kantra **«Ta-besh»** al
 manifestar su fulgor solar.
 
 ## Referencias

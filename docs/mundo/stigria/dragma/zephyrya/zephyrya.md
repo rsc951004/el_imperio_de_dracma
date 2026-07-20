@@ -27,7 +27,7 @@ Zephyrya es uno de los tres reinos de los **Hijos del Sol**, descendientes de
 los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron
 el litoral de Dürr y fundaron la **Costa del Verano**. La evolución de aquellos
 asentamientos hasta los reinos actuales y su relación con Suntarys pertenecen a
-una edad posterior a la de Plata.
+la Edad de la Tiranía y los primeros periodos imperiales.
 
 La memoria de la esclavitud astriana hace que los Hijos del Sol llamen a Astria
 **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una

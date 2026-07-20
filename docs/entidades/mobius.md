@@ -29,6 +29,3 @@ Se nutren de Blesk activo. Pueden obtenerlo de un Init (fuente original) o de un
 
 ## Referencias
 - `cuentos/0001-el-surgimiento/cuento.md`
-- `protoversiones/proto_v2/3 - La Guerra del Monte Lumari.md`
-- `protoversiones/proto_v2/7 - El Testigo en la Oscuridad.md`
-- `protoversiones/proto_v2/13 - El Sabio Triste.md`

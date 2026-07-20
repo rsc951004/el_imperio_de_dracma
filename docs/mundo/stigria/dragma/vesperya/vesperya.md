@@ -20,14 +20,14 @@ Talasya
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard. El cambio de Vespergard a Vesperya no fue uniforme con el resto del Amanecer: cada grupo de reinos tuvo su propia transformación. En el caso del Verano, la raíz y el sufijo mutaron juntos (Vespergard → Vesperya, no una simple supresión).
 
 ## Afiliación geográfica
-**Costas del Verano.** El más oriental y el más pequeño en extensión de los tres reinos del Verano, al este de Zephyrya. Su costa sur da a mar abierto; su flanco este bordea el **Estrecho de la Tríada**, que separa Vesperya de Merenia (Tierras Antiguas). El estrecho conduce al norte hacia la **Bahía de los Reyes**, donde se encuentra el puerto de Eldengaria. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
+**Costas del Verano.** El más oriental y el más pequeño en extensión de los tres reinos del Verano, al este de Zephyrya. Su costa sur da a mar abierto; su flanco este bordea el **Estrecho de la Tríada**, que separa Vesperya de Kyst (Tierra de la Bruma). El estrecho conduce al norte hacia la **Bahía de los Reyes**, donde se encuentra el puerto de Eldengaria. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
 Vesperya es uno de los tres reinos de los **Hijos del Sol**, descendientes de
 los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron
 el litoral de Dürr y fundaron la **Costa del Verano**. La evolución de aquellos
 asentamientos hasta los reinos actuales y su relación con Suntarys pertenecen a
-una edad posterior a la de Plata.
+la Edad de la Tiranía y los primeros periodos imperiales.
 
 La memoria de la esclavitud astriana hace que los Hijos del Sol llamen a Astria
 **«la ramera de la sombra»**. Cualquier asociación con aquella nación es una
@@ -39,12 +39,12 @@ ofensa grave.
 Vesperya tiene el clima más cálido de los tres reinos del Verano. Su costa es rocosa, salpicada de puertos naturales, con el sol batiendo contra los muelles de piedra. No tiene las playas violetas de Zephyrya ni los acantilados inaccesibles de Lysarya: tiene **muelles, astilleros y caletas**. Cada ensenada es un fondeadero. Cada roca, un embarcadero improvisado.
 
 ### La Tríada
-En el punto más angosto del estrecho, donde Vesperya casi toca Merenia, se alzan **tres arcos de piedra colosales** construidos por los habitantes de Unland durante la Edad de la Podredumbre. Uno sigue en pie; los otros dos están medio derrumbados. Nadie cruza por arriba —peligro de derrumbe—, pero los barcos pasan **por debajo**: la entrada al estrecho está bajo los arcos.
+En el punto más angosto del estrecho, donde Vesperya casi toca Kyst, se alzan **tres arcos de piedra colosales** construidos por los habitantes de Unland durante la Edad de la Podredumbre. Uno sigue en pie; los otros dos están medio derrumbados. Nadie cruza por arriba —peligro de derrumbe—, pero los barcos pasan **por debajo**: la entrada al estrecho está bajo los arcos.
 
 En la cara inferior de las bóvedas hay **grabados de bestias y batallas** que los navegantes admiran al pasar. Es el umbral entre el mar abierto y el corazón del imperio. Las tres puntas del tridente de los Valeryus son estos tres arcos.
 
 ### El Estrecho de la Tríada
-El estrecho se ensancha tierra adentro hasta desembocar en la **Bahía de los Reyes**, donde está el puerto de Eldengaria. Vesperya controla el acceso desde el mar. **Ningún barco entra al imperio sin autorización vesperiana.** Del otro lado del estrecho, las Tierras Antiguas están protegidas por un cordón montañoso. La capital solo es vulnerable por agua. Y en el agua está Vesperya.
+El estrecho se ensancha tierra adentro hasta desembocar en la **Bahía de los Reyes**, donde está el puerto de Eldengaria. Vesperya controla el acceso desde el mar. **Ningún barco entra al imperio sin autorización vesperiana.** Del otro lado del estrecho, la Tierra de la Bruma está protegida por un cordón montañoso. La capital solo es vulnerable por agua. Y en el agua está Vesperya.
 
 Río arriba de la Bahía de los Reyes, el estrecho continúa en diagonal hacia
 Lysarya, el interior del Valle de Hierro y Veleskaria, pero esa parte es **poco
@@ -102,7 +102,7 @@ Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; *
 - **Lysarya:** hermano del norte. Aburridos y estirados. Demasiado parecidos al Hierro. Cordialidad sin entusiasmo.
 - **Alessya:** cuna sagrada. Neryssa Undavos, la reina consorte, es hija del Príncipe Guardián.
 - **Eldengaria:** la capital que protegen. Relación de dependencia mutua.
-- **Merenia:** al otro lado del estrecho. Vecinos silenciosos. Se observan desde orillas opuestas.
+- **Kyst:** al otro lado del estrecho. Vecinos silenciosos. Se observan desde orillas opuestas.
 
 ## Referencias
 - `docs/12-reinos.md`

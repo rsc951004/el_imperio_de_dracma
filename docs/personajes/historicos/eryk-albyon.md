@@ -14,9 +14,9 @@ Pendiente.
 ## Los Príncipes Perdidos
 Eryk Albyon, príncipe de Lysarya, y **Thalyssa Coralyss**, hija del noble Daryón Coralyss de Alessya, eran amantes en secreto. Thalyssa estaba prometida a **Astryón Aetheryon**, príncipe de Zephyrya, como parte del pacto entre su padre y el rey Kleóndras para unir Alessya a Zephyrya. Pero Thalyssa ya estaba **embarazada** de Eryk.
 
-La noche anterior a la celebración del compromiso, Thalyssa huyó en un bote hacia la costa de Merenia. Eryk la esperaba allí. Juntos partieron hacia **Khalos** —ciudad libre, refugio imposible de allanar— buscando asilo. **Nunca llegaron.** Su desaparición desencadenó la **Guerra de los Hermanos**: Zephyrya y Alessya acusaron a Lysarya de secuestro; Lysarya acusó a Zephyrya de asesinato.
+La noche anterior a la celebración del compromiso, Thalyssa huyó en un bote hacia la costa de Kyst. Eryk la esperaba allí. Juntos partieron hacia **Khalos** —ciudad libre, refugio imposible de allanar— buscando asilo. **Nunca llegaron.** Su desaparición desencadenó la **Guerra de los Hermanos**: Zephyrya y Alessya acusaron a Lysarya de secuestro; Lysarya acusó a Zephyrya de asesinato.
 
-El destino de Eryk y Thalyssa es uno de los grandes misterios del imperio. Hoy su historia se ha convertido en el cuento popular de los **Príncipes Perdidos**, narrado en los tres reinos del Verano. Las versiones del cuento son incontables: unos dicen que murieron en el camino, otros que se escondieron en Merenia y vivieron como plebeyos, otros que alcanzaron Delfos y criaron a su hijo en paz. La verdad sigue sin saberse.
+El destino de Eryk y Thalyssa es uno de los grandes misterios del imperio. Hoy su historia se ha convertido en el cuento popular de los **Príncipes Perdidos**, narrado en los tres reinos del Verano. Las versiones del cuento son incontables: unos dicen que murieron en el camino, otros que se escondieron en Kyst y vivieron como plebeyos, otros que alcanzaron Delfos y criaron a su hijo en paz. La verdad sigue sin saberse.
 
 ## Relaciones
 - **Thalyssa Coralyss:** amante. Hija de Daryón Coralyss. Madre del hijo que esperaba. Desaparecida con él.

@@ -1,8 +1,3 @@
-<!-- DESCANONIZADO | estado: pendiente de revisión para recanonización o eliminación definitiva -->
-
-> **Archivo descanonizado.** Se conserva solo para revisión editorial y no debe
-> usarse como fuente de lore vigente.
-
 # Casa Hammer
 
 ## Datos generales
@@ -11,18 +6,17 @@
 |-------|-------|
 | **Nombre** | Hammer |
 | **Tipo** | Casa real |
-| **Reino** | Skarngard |
-| **Bloque** | Hierro |
-| **Lema** | Pendiente |
-| **Escudo** | Pendiente |
-| **Fundador** | Pendiente |
-| **Título** | Rey/Reina del Martillo |
+| **Reino** | Eisengard |
+| **Título** | Rey/Reina del Yunque |
 
 ## Historia y descripción
 
-Casa real de Skarngard. Reino de montañas, forjas y Verilium. Los Hammer permanecieron leales al Raikim durante la rebelión. Su economía se basa en la minería de montaña y la forja tradicional. Sus nombres toman sonoridad germánica.
+La Casa Hammer desciende de las familias de forjadores que huyeron hacia Eisen
+durante el alzamiento del Rey Podrido. Bajo el Raikim se convirtió en la casa
+real de Eisengard y organizó la extracción del Verilium y la producción del
+Acero del Alba.
 
-## Miembros relevantes
+## Referencias
 
-- **Yuter Hammer** ★ — Rey del Martillo. Gobernante reinante.
-- **Freda Brandt** — Reina consorte. Originaria de Flemmengard (Casa Brandt).
+- `docs/mundo/stigria/dragma/eisengard/eisengard.md`
+- `docs/mundo/stigria/edad-de-la-tirania.md`

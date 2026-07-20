@@ -51,6 +51,4 @@ Obra que compila la historia de Erebia, Astria y Dragma a partir de fuentes frag
 
 ## Referencias
 - `cuentos/0001-el-surgimiento/cuento.md`
-- `protoversiones/proto_v2/10 - Carta de Sandor Solaryss a Ianos Guieska.md`
-- `protoversiones/proto_v2/Anexo I.md`
-- `protoversiones/proto_v2/Anexo II.md`
+- `docs/personajes/yanos-gueika.md`

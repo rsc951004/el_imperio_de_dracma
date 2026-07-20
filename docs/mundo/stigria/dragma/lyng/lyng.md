@@ -30,7 +30,10 @@ Las casas, silos y templos se construyen tradicionalmente con madera salvaje end
 
 Lyng existía antes del Raikim. Valgard lo conquistó y le impuso el nombre de Lynggard. Durante la Rebelión del Amanecer recuperó su nombre.
 
-Los antepasados de los lyngardeses pertenecían a la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. La formación de Lyng como territorio diferenciado permanece pendiente.
+Los antepasados de los lyngardeses pertenecían a la Gente de la Bruma llegada
+desde Grimheim durante la Edad de la Podredumbre. Durante la penitencia del
+Raikim, las aldeas del interior se agruparon alrededor de Brekk y adoptaron Lyng
+como nombre político. La agricultura y los viñedos definieron su identidad.
 
 ## Economía
 
