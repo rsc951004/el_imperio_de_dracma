@@ -11,28 +11,30 @@ depurado y versionado por agentes IA bajo supervisión humana.
 ## Etapa actual: asentamiento y consolidación del mundo
 
 El proyecto se encuentra en una etapa de **asentamiento del mundo**. Durante
-esta etapa no se crean relatos específicos, cuentos completos ni escenas
-narrativas cerradas sobre los periodos en desarrollo.
+esta etapa no se crean cuentos completos ni acumulaciones narrativas cerradas
+sobre los periodos en desarrollo.
 
-Sí está permitido desarrollar el lore mediante piezas breves: hechos,
-cronologías, relaciones, antecedentes, descripciones, escenas parciales y otros
-fragmentos incorporados a las fichas correspondientes. En `docs/`, esas piezas
-son canónicas cuando han sido aprobadas y documentadas según estas reglas. En
-`mesa-de-trabajo/`, son materiales provisionales y no canónicos que sirven para
-explorar, ordenar o revisar el mundo.
+Sí está permitido desarrollar relatos, escenas, antecedentes y otros
+fragmentos dentro de fichas de personajes, casas, territorios o acontecimientos.
+En `docs/`, esas piezas son canónicas cuando han sido aprobadas y documentadas
+según estas reglas. En `mesa-de-trabajo/`, son materiales provisionales y no
+canónicos que sirven para explorar, ordenar o revisar el mundo. Estos relatos en
+fichas no equivalen a cuentos terminados ni autorizan a crear cuentos.
 
-La redacción de relatos específicos, cuentos completos o acumulaciones
-narrativas solo comenzará cuando el proyecto haya salido de esta etapa y el
-humano lo autorice de forma explícita para el periodo correspondiente.
+La redacción de cuentos completos, acumulaciones narrativas cerradas o relatos
+consolidados como obras independientes solo comenzará cuando el proyecto haya
+salido de esta etapa y el humano lo autorice de forma explícita para el periodo
+correspondiente.
 
 ### Aplicación a la Edad de la Tiranía
 
 Mientras el proyecto permanezca en la etapa de asentamiento, la Edad de la
-Tiranía se registrará únicamente mediante grandes hitos, estados políticos y
-relaciones territoriales. No se desarrollarán todavía sus relatos, las
-historias individuales de los dieciséis Raiks, las campañas de cada reinado ni
-el proceso detallado por el que el Raikim se convirtió en una tiranía
-hereditaria.
+Tiranía se registrará mediante grandes hitos, estados políticos y relaciones
+territoriales, que podrán apoyarse en piezas narrativas dentro de fichas. No se
+desarrollarán todavía una narración continua de la edad, las historias
+individuales completas de los dieciséis Raiks, las campañas concretas de cada
+reinado ni el proceso detallado por el que el Raikim se convirtió en una
+tiranía hereditaria.
 
 Para el reinado de Grimar solo queda establecido que el Raikim ya era una
 tiranía hereditaria y corrupta. La Rebelión del Amanecer, el Edicto del
