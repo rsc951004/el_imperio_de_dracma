@@ -88,6 +88,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Dragma | Imperio | Arquitectura completa del imperio: estructura territorial, dinastías, sistema de gobierno. | [Ver ficha](mundo/stigria/dragma/dragma.md) |
 | La Concordia | Reformas | Cuerpo de reformas de Vilem Mormund que refundaron el pacto social del imperio. | [Ver ficha](mundo/stigria/dragma/concordia.md) |
 | Stamengherin | Institución | Asamblea extraordinaria que resuelve cambios dinásticos y puede reformar la estructura territorial o política del imperio. | [Ver ficha](mundo/stigria/dragma/stamengherin.md) |
+| Nombres de los Reinos del Verano | Guía onomástica | Reglas fonéticas, gráficas y cantera común de nombres para las tierras del Verano. | [Ver ficha](mundo/stigria/dragma/nombres-del-verano.md) |
 | Tierras Intermedias | Territorio | Territorios sin dueño del Gherin. Páramos, costas y tierras entre reinos. Bienes comunes. | Pendiente |
 
 #### Los 12 Reinos

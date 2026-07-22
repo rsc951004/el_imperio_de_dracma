@@ -1,13 +1,9 @@
-# Cantera de nombres del Verano
+# Nombres de los Reinos del Verano
 
-> Material de mesa de trabajo. No asigna estos nombres a personajes, casas ni
-> hechos; se conserva como fuente para creaciones futuras de los Reinos del
-> Verano.
+Esta guía rige los nombres de personas y casas de Lysarya, Zephyrya, Vesperya,
+Alessya y otros territorios vinculados con el Verano.
 
-## Reglas fonéticas y gráficas del Verano
-
-Estas reglas rigen los nombres de personas y casas vinculados con Lysarya,
-Zephyrya, Vesperya, Alessya y otros territorios del Verano.
+## Reglas fonéticas y gráficas
 
 1. La base de los nombres es **grecolatina**, transformada por la grafía propia
    del Verano.
@@ -24,27 +20,23 @@ Zephyrya, Vesperya, Alessya y otros territorios del Verano.
 7. Las reglas buscan una sonoridad coherente; no obligan a deformar un nombre
    hasta volverlo difícil de leer o de pronunciar.
 
-### Excepción de los nombres territoriales
+## Excepción de los nombres territoriales
 
 **Lysarya** y **Zephyrya** conservan su grafía establecida como nombres de
 reino. No se les aplica la regla de los sonidos de `i`.
 
 La excepción no se extiende a los nombres personales ni a los apellidos
-derivados de esos reinos. En esas formas se recupera la `i` latina inicial y
-se aplica el resto de las reglas del Verano:
+derivados de esos reinos. En esas formas se recupera la `i` latina inicial y se
+aplica el resto de las reglas del Verano:
 
 - **Lisaryo**, **Lisarys**, **Lisaryon**.
 - **Zephiryo**, **Zephiryos**, **Zephiryon**.
 
-### Alcance sobre el canon
+## Cantera de nombres
 
-Estas reglas sirven de guía para nombres futuros y pueden emplearse para
-detectar posibles grafías incongruentes en nombres ya canónicos. Sin embargo,
-ningún nombre de `docs/` ni de `cuentos/` se corrige automáticamente: cada
-cambio canónico debe ser solicitado de forma explícita por el humano y seguir
-el flujo editorial correspondiente, incluida su anotación en `docs/notas.md`.
-
-## Fuente de inspiración
+Los siguientes nombres están disponibles para personajes y linajes procedentes
+de los Reinos del Verano. Su uso no asigna origen, oficio, época ni función
+narrativa.
 
 - Odissya
 - Pinylop
@@ -76,8 +68,9 @@ el flujo editorial correspondiente, incluida su anotación en `docs/notas.md`.
 - Diomydys
 - Arys
 
-## Uso posterior
+## Aplicación editorial
 
-La lista queda reservada para cualquier personaje o linaje procedente de los
-Reinos del Verano. Cada uso deberá ajustar la forma definitiva a las
-convenciones anteriores y comprobar que no duplique un nombre ya establecido.
+Esta guía se aplica a nombres nuevos. Puede utilizarse para detectar grafías
+incongruentes en material existente, pero ningún nombre canónico se corrige de
+forma automática: toda modificación retroactiva debe ser solicitada de manera
+explícita y registrada en las notas editoriales.

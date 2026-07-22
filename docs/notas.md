@@ -2,6 +2,15 @@
 
 ## Revisiones editoriales
 
+### Guía onomástica de los Reinos del Verano (2026-07-22)
+
+Se trasladó la cantera de nombres del Verano desde la mesa de trabajo a
+`docs/mundo/stigria/dragma/nombres-del-verano.md`. La guía reúne las reglas
+fonéticas y gráficas compartidas, las excepciones territoriales de Lysarya y
+Zephyrya y una cantera neutral para personajes y linajes futuros. Las guías de
+Lysarya, Zephyrya y Vesperya remiten ahora a esta fuente común. El traslado no
+modifica automáticamente ningún nombre canónico ya existente.
+
 ### Límite de asentamiento de la Edad de la Tiranía (2026-07-19)
 
 Durante la etapa de asentamiento solo se fijan grandes hitos y estados
