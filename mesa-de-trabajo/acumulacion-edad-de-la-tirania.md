@@ -40,6 +40,12 @@
 - Queda pendiente establecer una convención onomástica clara para la Tierra
   de la Bruma. Hasta que se defina, los nombres brumenses nuevos se
   considerarán provisionales y no se formalizarán en el canon.
+- Durante el Raikim, cada Dominio está regido por un **Señor del Dominio**
+  —o una **Señora del Dominio**, cuando corresponda—. El título se formula
+  con el nombre del territorio, como «Señor del Dominio de Sturmgard». Quien
+  lo ostenta pertenece a la **Casa dominante** de ese Dominio. Esta regla
+  sustituye cualquier figura de administración intermedia en los materiales
+  de esta mesa.
 
 El formato concreto de las fichas y la lista definitiva de estados
 epistémicos siguen abiertos a discusión.
@@ -106,7 +112,130 @@ Referencias de control:
 - [`docs/cronologia.md`](../docs/cronologia.md)
 - [`docs/pendientes.md`](../docs/pendientes.md)
 
+## Síntesis consolidadas de los cinco ejes
+
+Los apartados siguientes integran los acuerdos alcanzados en los cinco ejes de
+trabajo de esta acumulación. Mantienen su carácter no canónico, pero sustituyen
+las alternativas descartadas y orientan cualquier revisión posterior.
+
+### El Raikim bajo Grimar
+
+Desde la mitad de los Raiks Valgard, la corona se aleja del camino que Rudgar
+quería para el Gherin. La corte desarrolla una fascinación creciente por el
+antiguo Dominio Carmesí: admira una sociedad enteramente sometida a sus
+gobernantes y la imagina superior a la voluntad viva e imprevisible del Hierro.
+Grimar hereda esa inclinación y la vuelve obsesión. Los relatos sangheskios
+sobre ritos y sacrificios humanos para vencer la muerte deforman sus prioridades
+y lo predisponen a sacrificar territorios enteros por una promesa de permanencia.
+
+Durante el Raikim, cada territorio está regido por un Señor o una Señora del
+Dominio, miembro de la Casa dominante. En el Hierro y en los Dominios Carmesíes
+del norte, esas figuras pertenecen a la tierra que gobiernan. En el Verano y la
+Bruma, en cambio, los Señores del Dominio son extranjeros: jamás un Hijo del
+Sol gobierna su propio territorio como Señor del Dominio, ni una persona de la
+Bruma recibe ese título para gobernar Unland. Para esas casas ajenas, las
+poblaciones sometidas son fichas, instrumentos y activos del Raikim, no una
+comunidad política con voluntad propia.
+
+Incontables Portadores del Verano son separados de sus familias y enviados al
+norte para ser entrenados como armas, igual que antes lo fueron los Maegis
+sangheskios. La campaña de limpieza de Grimmen fue declarada exitosa, pero los
+Grimmen nunca desaparecieron de Weissen y Dresk. Las Puertas Rojas quedan por
+ello cerradas de manera permanente: quien entra al norte desde el sur no puede
+volver a salir.
+
+En Unland se multiplican las desapariciones y el rumor de sacrificios. Khalos
+documenta, sin poder probarla, una sospecha mayor: desde la mitad de la dinastía
+Valgard, una voluntad psíquica llegada del oriente podría estar apartando a los
+Raiks del legado de Rudgar. Quienes intentan señalar a un posible Emisario de la
+Ruina en Eldengard desaparecen o mueren. La sospecha no explica ni reduce la
+responsabilidad de Grimar; permanece como una amenaza documentada, no como una
+verdad confirmada.
+
+### De Suntarys al Amanecer
+
+La destrucción de Suntarys ocurre durante el reinado del padre de Grimar. Ese
+Raik consigue arrasar la isla, pero no extingue el Edicto del Amanecer, a sus
+supervivientes ni la memoria de la ciudadela. Grimar hereda ese fracaso como
+una deuda de la dinastía y busca borrar sus consecuencias. Sylas y Khalos
+conservan testimonios, rutas, ausencias y huellas de la invasión para impedir
+que Suntarys desaparezca también del relato del Gherin.
+
+Lysarya, Zephyrya y Vesperya responden al duelo según sus propias memorias; la
+noticia viaja por mar hacia Kyst y por comercio hacia los valles. Veleskgard
+mantiene la conexión más directa con el Verano: muchos Hijos del Sol han sido
+llevados allí y su sufrimiento recuerda a los veleskgardeses su antigua
+esclavitud en el Dominio Carmesí. La caída de Suntarys muestra que una persona
+reducida a recurso y una tierra reducida a prisión obedecen a la misma lógica de
+dominio.
+
+El Amanecer no nace de un manifiesto único ni de una pena idéntica. Nace cuando
+el Verano, la Bruma, Veleskgard y Khalos reconocen que el destino de Suntarys
+puede alcanzar a cualquier territorio sometido a la voluntad de Eldengard.
+Harald convierte esas respuestas diversas en defensa mutua, sin borrar sus
+motivos ni sus memorias particulares.
+
 ## Propuestas de estados generales
+
+### La Voluntad de la Sal y Sturmgard
+
+- **Ubicación:** Sturmgard y las rutas que conectan el Valle de Hierro con
+  Esteria y el norte, durante la Edad de la Tiranía y en particular durante el
+  reinado de Grimar.
+- **Estado:** acuerdo en acumulación; la relación posterior de este antecedente
+  con la Casa Mormund queda pendiente de desarrollo.
+- **Función histórica:** explicar por qué Sturmgard es un pueblo malentendido y
+  odiado incluso entre los Sangre de Hierro, y cómo convirtió ese desprecio en
+  una identidad propia.
+- **Fama exterior:** los sturmgardianos son conocidos por ser pendencieros e
+  inclinados al robo y el pillaje. Bandas de saqueadores salidas de sus tierras
+  son conocidas incluso en Esteria. Para los otros Sangre de Hierro, esta fama
+  se convierte, durante Grimar, en una forma de desprecio.
+- **La diferencia con la Voluntad del Hierro:** la Voluntad del Hierro es
+  agresiva, violenta y en ocasiones implacable, pero se considera ligada a un
+  código de honor guerrero. A ojos del resto del Hierro, los sturmgardianos
+  carecen crónicamente de ese honor.
+- **Voluntad de la Sal:** los habitantes de la Tormenta saben que el desprecio
+  existe y, ya en la época de Grimar, lo celebran como una diferencia propia.
+  Transforman la vergüenza en orgullo de su ancestro: muchos se llaman a sí
+  mismos **Sangre de Sal** o dicen seguir la **Voluntad de la Sal**. Esta
+  identidad es especialmente fuerte en el sur de la Tormenta.
+- **Dicho popular:** allí se dice que «todo sturmgardiano bueno está en el norte
+  o muerto». El dicho alude a la costumbre ancestral de muchos sturmgardianos de
+  buscar una vida mejor en Veleskgard y Sindgard. Su raíz se remonta a la
+  campaña inicial de Therin, cuando muchas mujeres de la Tormenta partieron
+  hacia el norte en busca de una vida mejor.
+- **Insulto exterior:** otros Sangre de Hierro llaman a los sturmgardianos
+  **escoria mohosa**.
+- **Dicho sobre las mujeres de la Tormenta:** también se afirma, con desprecio
+  o admiración según quien lo pronuncie, que lo único valeroso de Sturmgard son
+  sus mujeres. Una mujer de la Tormenta se casó con Harald Mormund antes de que
+  este fuera elegido primer emperador de Dragma. Era una **Doncella de los
+  Vientos**.
+- **Límite ante Grimar:** la oposición sturmgardiana a abrir Esteria no nace de
+  la honra que el resto del Hierro les niega. Ningún habitante de la Tormenta
+  seguiría a su Raik hasta abrir las puertas del horror para ser devorado por
+  Grimmen del Oriente, ni confiaría en que el Rey Podrido, una vez dentro del
+  Gherin, se marchará después de hacer lo suyo.
+- **El miedo de la Tormenta:** en los archipiélagos próximos a las costas de
+  Sturmgard habitan numerosos Grimmen bajo las aguas. Esa presencia
+  vuelve las tierras de la Tormenta hostiles para el cultivo y sus costas no
+  sirven para la pesca. A ese peligro se suma el temor de despertar a
+  **Vitdrakiris**, gigantesca criatura alada de la Tormenta que escupe fuego.
+  Podría ser un Grimmen, quizá uno aún más grande que Lamya, pero su naturaleza
+  queda pendiente. A Vitdrakiris se le atribuyen las tempestades de Sturm.
+- **Doncellas de los Vientos:** a estas mujeres se les atribuye una belleza y
+  unas voces capaces de calmar a Vitdrakiris e impedir su despertar. El asesinato
+  de la esposa de Harald, una de ellas, provoca una furia generalizada en la
+  Tormenta. La noticia de la masacre llega casi de inmediato a los archipiélagos
+  y vientos huracanados estallan en ellos, como si Vitdrakiris hubiera escuchado
+  la tragedia y lamentara la muerte de la Doncella. Esa reacción vuelve más
+  persuasivo el llamado de Harald a dejar entrar a las fuerzas rebeldes.
+- **Preguntas abiertas:**
+  - Precisar la identidad de la esposa de Harald, la de su padre y el lugar
+    concreto de la masacre Mormund en el Valle.
+  - Precisar el papel político de los Sangre de Sal durante el quiebre entre el
+    Bloque del Verano y el Bloque de Hierro.
 
 ### Estado de Dürr, del Verano y de Unland durante Grimar
 
@@ -235,7 +364,7 @@ Referencias de control:
   había llenado Suntarys de soldados del Hierro. La resistencia fue sometida y
   Caelyon se alzó como rey sin asesinar al heredero legítimo.
 - **Intervención exterior:** el golpe de Estado fue financiado en secreto por
-  el Raikim.
+  el Raikim durante el reinado del padre de Grimar.
 - **Prevención de Khalos:** la propia Khalos había anticipado la traición de
   Caelyon, los movimientos de la Casa Varyss y su cercanía con el Raikim.
   Sylas, hermano de Layna y miembro de la Sish Tábura, había tejido en
@@ -243,8 +372,8 @@ Referencias de control:
 - **Objetivo estratégico del Raikim:** después de años en los que la Casa
   Varyss extendió sus alianzas matrimoniales por Alessya, el Raikim vio en ella
   un flanco para apoderarse de Suntarys, la isla que durante siglos había
-  escapado a su control. Grimar buscaba dejar como legado la anexión de
-  Suntarys a los Dominios del Raikim.
+  escapado a su control. El padre de Grimar buscaba dejar como legado la
+  anexión de Suntarys a los Dominios del Raikim.
 - **Situación territorial:** Suntarys mantuvo con éxito su independencia. El
   territorio no fue anexado al Raikim.
 - **Consecuencias generales:** la sucesión de Suntarys quedó alterada por un
@@ -434,8 +563,8 @@ Referencias de control:
 
 ### Invasión y caída de Suntarys
 
-- **Ubicación:** Suntarys, después de la proclamación del Edicto del Amanecer;
-  fecha exacta pendiente.
+- **Ubicación:** Suntarys, después de la proclamación del Edicto del Amanecer,
+  durante el reinado del padre de Grimar; fecha exacta pendiente.
 - **Estado:** acuerdo en acumulación.
 - **Hito desencadenante:** el acto de desapego de Loryan, al renunciar a la
   continuidad de la monarquía y establecer que el pueblo elegiría a sus futuros
@@ -461,96 +590,294 @@ Referencias de control:
   - Precisar cómo se comunicó la caída de Suntarys al resto de los territorios y
     cómo se enlazó con los primeros movimientos de la Rebelión del Amanecer.
 
-## Orden de trabajo
+### Irrupción de Lamya y primer alzamiento
 
-### 1. Estado general de la edad
-
-Precisar solo los cambios que puedan expresarse como estados generales:
-
-- situación del Raikim al inicio y al final de la edad;
-- consolidación de los Dominios;
-- posición de las casas y territorios relevantes;
-- situación política durante el reinado de Grimar.
-
-### 2. Hitos del final de la tiranía
-
-Este es el bloque prioritario. Debe ordenar, sin narrarlo escena por escena:
-
-- el estado del Raikim antes de la rebelión;
-- los hechos que hacen posible la Rebelión del Amanecer;
-- sus principales movimientos, alianzas y quiebres como secuencia general;
-- la derrota de Grimar y el cierre de la dinastía Valgard;
-- el nuevo Stamengherin que permite la transición política.
-
-### 3. Edicto del Amanecer
-
-Fijar el hito general de su aparición, su función histórica y su relación con
-la caída del Raikim. El texto íntegro, sus circunstancias precisas y su
-desarrollo narrativo quedan fuera de esta acumulación.
-
-### 4. Fundación inicial de Dragma
-
-Fijar únicamente los grandes pasos que conectan la Rebelión del Amanecer con la
-fundación del Imperio y el inicio de la Edad de Oro. La organización detallada
-del Imperio, sus reformas y sus escenas fundacionales se trabajarán después.
-
-## Ficha para cada hito
-
-Cada propuesta debe utilizar esta estructura para conservar su estado
-epistémico:
-
-```md
-### [Nombre provisional del hito]
-
-- **Ubicación:**
-- **Estado:** pendiente / propuesta / aprobada / formalizada
-- **Función histórica:**
-- **Canon de partida relacionado:**
-- **Propuesta de gran hito:**
-- **Consecuencias generales:**
+- **Ubicación:** Alessya, Suntarys, Dürr, Unland y el acceso meridional al
+  Valle Central; después de la caída de Suntarys.
+- **Estado:** acuerdo en acumulación; el enlace posterior hacia el Valle
+  Central se mantiene como propuesta de mesa.
+- **Función histórica:** transformar el legado político del Edicto del Amanecer
+  en la primera ruptura armada extensa contra el Raikim.
+- **Verdad velada acordada en la acumulación:** Lamya, el primer Grimmen visto
+  al sur de las Puertas Rojas en siglos, fue llevada desde el Grimm por un
+  Emisario de la Ruina. La causa de su aparición es desconocida para quienes
+  padecen los ataques y no debe presentarse como conocimiento público dentro del
+  mundo.
+- **Suntarys tras la invasión:** el reino neutral ocupaba aproximadamente el
+  ochenta por ciento de la isla de Alessya y era una ciudadela gigantesca. La
+  destrucción no fue total, pero dejó casas y edificios devastados, incluido el
+  castillo real, reducido a escombros. El reino quedó completamente abandonado.
+- **Aparición de Lamya:** la criatura, de casi seis metros, posee torso casi
+  humano, busto femenino de cabellos escasos, alas gigantes y escamosas, cuerpo
+  de serpiente, ojos rojos desproporcionados y una boca sin labios llena de
+  dientes afilados. Su grito desgarra y desintegra a las personas que alcanza.
+  Tras aparecer en las costas de Alessya y las ruinas de Suntarys, se desplaza
+  hacia Dürr y aterroriza las Costas del Verano.
+- **Orden de Grimar:** el Raik ordena contener al Grimmen en Dürr incluso si
+  eso cuesta la vida de los Hijos del Sol, e impide que la población abandone el
+  territorio. Retiene al norte de las Puertas Rojas a más de veinte batallones
+  de cazadores de Grimmen y Maegis de Veleskgard —Sangre de Hierro Carmesí y
+  Portadores del Verano entrenados como armas— por miedo a que su cruce permita
+  una invasión mayor.
+- **Fuerza enviada a Dürr:** en lugar de liberar a los especialistas, Grimar
+  ordena a gente de la Bruma entrar en el Verano para cazar a Lamya.
+- **Desobediencia y muerte de Lamya:** los batallones del norte rompen las
+  Puertas Rojas, se unen a los brumenses y a los supervivientes de Lamya en
+  Dürr, y dan muerte al Grimmen. La desobediencia demuestra que el Raikim había
+  preferido conservar su frontera cerrada antes que proteger a las personas al
+  sur de ella.
+- **Represalia:** las fuerzas leales toman Veleskgard, apresan a su Señor del
+  Dominio en su propio castillo y restauran las Puertas Rojas. El Señor no
+  muere: permanece cautivo. Su identidad y las condiciones precisas de su
+  cautiverio quedan pendientes.
+- **Primer alzamiento:** los cazadores del norte, los brumenses que combatieron
+  en Dürr y los supervivientes de Lamya toman Dürr, ajustician a las casas
+  dominantes de los Dominios del Verano y extienden la rebelión hasta tomar
+  Unland y derribar a sus autoridades dominantes. De esa ruptura nace un ejército
+  de Hijos del Sol, gente de la Bruma, campesinos, artesanos, Portadores y
+  Maegis.
+- **Quiebre del Bloque de Hierro:** la guerra se estabiliza en dos bloques. El
+  **Bloque del Verano** reúne la totalidad de Dürr y Unland bajo control rebelde;
+  el **Bloque de Hierro** conserva el norte y el Valle Central. Con Veleskgard
+  tomada, su Señor cautivo y las Puertas Rojas restauradas, el norte queda
+  aislado por el momento.
+- **Punto muerto inicial:** el objetivo inicial de la rebelión no es conquistar
+  todo el Gherin, sino independizar el sur y separarlo del Bloque de Hierro. El
+  Bloque del Verano sostiene su independencia con Hijos del Sol, gente de la
+  Bruma, campesinos, artesanos, Portadores y Maegis, mientras el Bloque de
+  Hierro no consigue recuperar el sur sin arriesgar la estabilidad de sus propias
+  tierras.
+- **Gran Consejo de Señores de Sangre de Hierro:** Grimar responde con cólera y
+  convoca a los Señores de Sangre de Hierro. El norte queda excluido, incluso
+  Sindgard, que todavía se mantiene leal al Raik. La exclusión revela que la
+  lealtad no basta para integrar el poder que Grimar intenta conservar.
+- **Contenido del Consejo:** se habla de unos «amigos del Oriente», de abrir
+  Esteria y de dejar que la Pestilencia entre nuevamente al Gherin. Grimar
+  asegura, con una sonrisa descolocada, que su gran legado será sellar una paz
+  definitiva con el Rey Podrido.
+- **Oferta de Grimar:** propone dejar entrar al Rey Podrido en el Valle,
+  permitirle tomar el sur y después verlo marchar hacia el Oriente con sus
+  nuevos súbditos. Presenta el plan como una solución maravillosa que
+  garantizaría la protección y la pacificación de las tierras que aún queden
+  bajo su dominio.
+- **Respuesta de los Señores:** para los Señores de Sturmgard, Flemmengard y
+  Guldengard, la propuesta es inconcebible. Los señores del Valle, en cambio,
+  alientan a Grimar a abrir el Paso ese mismo día. El horror es innegable, pero
+  el temor a Grimar y al poder del Valle impide una oposición abierta en el
+  Consejo.
+- **Abandono de la corte:** frente al desastre inminente, incluso los señores
+  del Valle comienzan a abandonar poco a poco la corte de Grimar. El Raik queda
+  aislado junto a su esposa, sus hijos y su servidumbre.
+- **Ruptura de Sturmgard:** Harald Mormund asiste en secreto a una reunión
+  convocada por el padre de su esposa, descendiente de Ragnar. El padre de Harald
+  se queda en el Valle e intenta convencer a sus señores de que el plan del Raik
+  es un suicidio. Es acusado de traición. Las circunstancias precisas de esa
+  acusación quedan reservadas para un desarrollo narrativo posterior.
+- **Masacre Mormund:** la Casa Mormund es masacrada en el Valle. Sobreviven solo
+  quienes no se encuentran en ese territorio, entre ellos Harald. Su esposa,
+  Doncella de los Vientos que se había quedado en el Valle para apoyar a su
+  padre, también es asesinada. Su muerte provoca una furia generalizada en la
+  Tormenta.
+- **Sturmgard se abre a la rebelión:** Harald aprovecha las diferencias y el
+  desprecio del Hierro por la Tormenta, así como la indiferencia del Raik ante
+  los problemas sturmgardianos. Junto con otros argumentos que quedan por
+  detallar, consigue que la Tormenta permita la entrada de las fuerzas rebeldes
+  a su territorio. Sturmgard abre el paso al ejército rebelde hacia los
+  archipiélagos de Sturm; desde allí, la rebelión toma el territorio. El bloque
+  leal deja de ser una unidad continua y el frente meridional deja de estar
+  encerrado frente al Valle.
+- **Esteria, Sindgard y la guerra del norte:** el señor de Sindgard recibe una
+  carta del Raik que exige a Esteria deponer su vigilia y apagar el Faro. A
+  cambio, el señor de Weissen cumpliría la antigua promesa de incorporar
+  oficialmente Esteria a su Dominio para siempre.
+- **Decisión de Sindgard:** casas nobles de Veleskgard organizan en secreto una
+  reunión entre el señor de Sindgard y el Guardián del Faro. Aunque consejeros
+  enviados por el Raik lo presionan para obedecer, decide apoyar a la rebelión.
+  Reúne las pocas reservas de cazadores que quedan en Dresk y los soldados de
+  Weissen, y parte hacia el sur para auxiliar al Bloque del Verano.
+- **Inicio de la guerra norteña:** Flemmengard y Eisengard detienen esa marcha.
+  Con ese choque comienza la guerra abierta en el norte: el quiebre del Bloque
+  de Hierro deja de ser una fractura política y se convierte en conflicto armado.
+- **Sitio de Eldengard:** finalmente, Harald Mormund reúne un gran ejército y
+  atraviesa la sierra que divide el Valle de los archipiélagos de la Tormenta.
+  Mientras tanto, las fuerzas del norte de la Tormenta se posicionan detrás de
+  la barrera levantada por Flemmengard y Eisengard. Junto con Harald, abren una
+  brecha en el Bloque de Hierro que permite a los batallones rebeldes del norte
+  entrar también en el Valle. Harald entra en Eldenheim y sitia Eldengard.
+  Grimar está a punto de caer.
+- **La acusación de Grimar:** ya sitiado y vencido por la locura, Grimar acusa a
+  su esposa y a sus hijos de ser traidores que conspiran contra él. Su esposa
+  había negociado en secreto una salida para toda la familia, incluido Grimar,
+  con el fin de abandonar Eldengard y refugiarse en Guldengard, su tierra de
+  origen.
+- **Caída de Grimar:** cuando los ejércitos rebeldes derriban los muros y entran
+  en Eldengard, encuentran a Grimar en su trono. No parece un rey, sino una
+  figura de horror: su cuerpo queda encogido, con los pies levantados, las manos
+  alrededor del cuello y la boca abierta como si se ahogara. A sus pies yacen
+  los cadáveres desgarrados de su esposa y de sus hijos pequeños.
+- **Petrificación:** la expresión de Grimar parece conservar una agonía
+  invencible. Sin embargo, cuando Harald y quienes han entrado en el Gran Salón
+  del Consejo se acercan, descubren que desde sus ropas hasta su piel y su rostro
+  todo se ha convertido en piedra negra.
+- **Verdad velada acordada en la acumulación:** antes de la entrada de los
+  rebeldes, Grimar apuñala a su esposa y a sus hijos. Entonces entra en el Gran
+  Salón una figura que flota bajo un gran velo negro. Al retirarlo, revela a
+  **Katerina Hasvanka**, mujer de cabellos rizados y grandes ojos negros.
+  Grimar se arrodilla ante ella y la llama «mi señora».
+- **La promesa malentendida:** Grimar le suplica que salve a su familia. Cree
+  que «él» lo sabe y lo puede todo, que cumplirá la promesa de sacar a todos de
+  Eldengard y de hacerlos eternos emperadores juntos. Explica que solo quiso
+  hacerlos callar, pero ya no despiertan. La figura le responde que no ha
+  comprendido el sueño de su señor: vencer la muerte consiste en impedir que sus
+  súbditos sean arrancados de su seno por la muerte vil. Al entregar a sus propios
+  hijos al vacío invisible que está más allá del mundo, Grimar los ha enviado a
+  un lugar del que nadie puede volver a esta tierra fría.
+- **La paz de la figura:** ella le concede que ha hecho cuanto ha podido, pero
+  le reprocha que su ineptitud es mayor que sus convicciones y su lealtad. Dice
+  haber venido para que esa ineptitud no los persiga desde el abismo y promete
+  darle la paz que tanto anhela. Se inclina y besa a Grimar; por un instante,
+  este siente el consuelo que buscaba.
+- **Origen de la piedra negra:** entonces la garganta de Grimar se cierra desde
+  dentro. Se revuelca y se arrastra hasta el trono; allí, entre convulsiones y
+  agonía, se convierte lentamente en piedra negra. La mujer se despide,
+  prometiendo que su futuro estará seguro con ella, y revela que está embarazada.
+- **Rendiciones del Bloque de Hierro:** las casas del Bloque de Hierro se rinden
+  una a una. Muchas ofrecen como prenda de paz a hermanos, tíos, primos y otros
+  sobrevivientes de la Casa Valgard. Muchos de esos Valgard son entregados ya
+  muertos; los pocos entregados vivos tampoco duran mucho. Todos saben que
+  cualquier Valgard con vida podría iniciar una reclamación sobre el Raikim.
+- **Fin del Raikim:** Walram Valgard, primo lejano de Grimar de apenas catorce
+  años, es decapitado. Con su cabeza desprendida, se declara el fin del Raikim.
 - **Preguntas abiertas:**
-```
+  - Precisar quiénes son los «amigos del Oriente», qué compromisos se discuten
+    en el Consejo y si alguno llega a ejecutarse.
+  - Precisar la identidad y el cautiverio del Señor del Dominio de Veleskgard.
+  - Precisar las consecuencias de Lamya fuera de Suntarys, en Alessya y en las
+    Costas del Verano.
+  - Precisar cómo el punto muerto entre ambos bloques se enlaza con las otras
+    tierras del Amanecer y el aislamiento posterior de Eldengard.
 
-Una ficha aprobada no pasa automáticamente al canon. Primero debe revisarse su
-coherencia con `docs/personajes.md`, `docs/mundo.md`, los índices y las
-referencias cruzadas; después se traslada a la documentación canónica y se
-registra la decisión en `docs/notas.md`.
+## El tercer Stamengherin y la fundación de Dragma
 
-## Hitos pendientes de formalización
+Después de la guerra, Flemmengard y Sturmgard desconfían de cualquier acuerdo
+nacido del Valle. Eisengard y Guldengard, aun siendo los Dominios más ricos,
+han quedado reducidos a sirvientes glorificados de sus señores. La masacre de la
+Casa Mormund agrava esa herida: Harald encuentra a sus padres, hermanos, esposa
+e hijos arrojados a una fosa bajo su castillo, a la orilla de Stömur. La masacre
+fue obra de simpatizantes de Grimar; los responsables serán perseguidos después
+de la caída, pero sus identidades y destinos quedan para relatos posteriores.
 
-### Cierre del Raikim bajo Grimar
+La noticia provoca vientos huracanados en los archipiélagos de la Tormenta,
+como si Vitdrakiris lamentara también a la esposa de Harald, una Doncella de los
+Vientos. El agravio ayuda a explicar la ruptura de Sturmgard: la Tormenta abre
+su territorio al ejército rebelde del sur y, en el norte, los sturmgardianos
+rompen el bloqueo que compartían con Flemmengard y Eisengard para permitir la
+entrada de los rebeldes en el Valle.
 
-- **Estado:** pendiente.
-- **Objetivo:** describir el estado político general que hace reconocible al
-  Raikim como tiranía hereditaria y corrupta.
+El resultado de la guerra deja a los Dominios del Hierro temiendo que el Bloque
+del Verano conquiste todo el Gherin. El tercer Stamengherin se vuelve necesario
+antes de que ese miedo origine otra guerra. No se reúne para decidir quién
+hereda Eldengard: escucha primero la memoria de Suntarys, las ausencias de
+Unland, el norte convertido en prisión y las pérdidas de la Tormenta. Ningún
+vencedor recibe un derecho privado sobre el Gherin.
 
-### Rebelión del Amanecer
+Un primer intento de asamblea se pierde entre acusaciones. Sylas Solarys relata
+la historia de Loryan y Suntarys, y advierte que el propósito de la unificación
+de Rudgar fue la seguridad y la cooperación contra la Podredumbre, no la
+propiedad de una corona. Khalos sostiene la convocatoria mediante sus
+testimonios y registros, sin reclamar gobierno ni convertirse en árbitro
+soberano. Unland, inicialmente reacio, acepta participar bajo esa influencia.
 
-- **Estado:** pendiente.
-- **Objetivo:** ordenar sus grandes hitos, sin convertirlos en una narración
-  escena por escena.
+El Gran Stamengherin se celebra bajo la sombra de **Dragma**, pequeña altura al
+este del Gherin. La ejecución de Walram Valgard clausura cualquier pretensión de
+que la sangre Valgard posea el Gherin. La asamblea declara que ninguna casa
+puede poseer reinos por sangre, conquista o riqueza, y que la victoria del
+Verano no convierte a los vencidos en botín.
 
-### Derrota de Grimar y fin de la dinastía Valgard
+Harald Mormund es elegido primer emperador como custodio de ese pacto, no como
+heredero de Grimar. Debe defender los reinos, proteger a quienes fueron usados
+como armas y organizar la defensa común contra la Podredumbre, sin restaurar el
+título de Raik. Cuando Harald muera, deberá reunirse un nuevo Stamengherin para
+elegir a su sucesor. A la muerte de cada rey o gobernante, la asamblea de su
+reino elegirá un nuevo titular; el hijo mayor será candidato preferente, pero
+esa preferencia no es herencia automática ni obliga a la asamblea.
 
-- **Estado:** pendiente.
-- **Objetivo:** establecer el hito de cierre de la edad y sus consecuencias
-  políticas inmediatas.
+### Acuerdos fundadores
 
-### Edicto del Amanecer
+- Cada Dominio se convierte en reino y sus emisarios nombran el territorio y
+  eligen su primera corona.
+- Sturmgard conserva y fortalece su sistema de clanes, con las mismas
+  responsabilidades que las casas del resto del Gherin.
+- Nadie puede poseer a otra persona, el fruto de su trabajo ni la riqueza de su
+  tierra; esos bienes solo pueden comerciarse por voluntad de las partes.
+- Ningún rey ni noble puede decidir la vida o la muerte de una persona.
+- Portadores del Verano y Maegis de la Sangre de Hierro Carmesí son personas de
+  la misma condición: no están obligados a combatir, y quienes lo hagan por
+  voluntad propia servirán como soldados bajo cuidado imperial, nunca esclavos.
+- Los cazadores del norte pueden viajar al sur. Las Puertas Rojas solo se
+  cerrarán con venia de los reyes del norte y ante necesidad extrema.
+- El libre tránsito entre reinos queda garantizado; Khalos y Esteria conservan
+  su autonomía y jurisdicción.
+- La expulsión de señores nobles del Hierro de Dürr y Unland corresponde a los
+  reyes de esos territorios, con resguardo de las personas expulsadas y de la
+  mayor cantidad posible de sus bienes. Quienes permanezcan jurarán lealtad a
+  su rey.
+- Las guerras entre reinos quedan prohibidas. Sus instigadores recibirán pena
+  capital y los conflictos deberán resolverse ante un tribunal creado por Khalos
+  con la venia imperial.
 
-- **Estado:** pendiente.
-- **Objetivo:** fijar su función histórica como gran hito, sin cerrar todavía
-  su texto ni sus circunstancias detalladas.
+### Coronas fundadoras
 
-### Fundación inicial de Dragma
+Todos los fundadores son reyes; las sucesiones posteriores podrán elegir reinas
+según el pacto contra la herencia.
 
-- **Estado:** pendiente.
-- **Objetivo:** establecer la transición general hacia el Imperio y la Edad de
-  Oro, sin redactar su fundación detallada.
+| Reino | Primera corona | Consorte |
+|---|---|---|
+| Eisengard | **Rey Hildar Hammer**, Rey del Yunque | **Oskar Tann** |
+| Guldengard | **Rey Aldren Gilden**, Rey Dorado | **Irma Kolbe** |
+| Flemmengard | **Rey Helmar Wolfen**, Rey de la Llama | **Volker Brand** |
+| Sturmgard | **Rey Ragnor Falken**, Rey de la Tormenta | **Haldor Reisner** |
+| Lysarya | **Rey Leontys Corinthyos**, Rey de la Roca | **Myrthya Phaedryss** |
+| Zephyrya | **Rey Aurelyon Zephyryon**, Rey del Ocaso | **Calystha Moryss** |
+| Vesperya | **Rey Marcellus Valeryus**, Rey del Tridente | **Nerathys Solaryss** |
+| Veleskaria | **Rey Mihai Enescu**, Rey del Fulgor | **Sorina Danescu** |
+| Sindria | **Rey Dorin Goros**, Rey del Foso | **Katerina Hasvanka** |
+| Kyst | **Rey Einar Fjord**, Rey de la Costa Gris | **Sigrid Vaer** |
+| Lyng | **Rey Eirik Korn**, Rey del Valle | **Freydis Linde** |
+| Bjorn | **Rey Hakon Borg**, Rey del Bosque | **Yrsa Skog** |
 
-## Regla de cierre
+Mihai Enescu y Dorin Goros conservan el mando que ya ejercían como Señores del
+Dominio al ser coronados. Ragnor Falken recibe su corona por elección de los
+clanes, no por convertirlos en una casa. **Verdad velada acordada en la mesa:**
+Katerina Hasvanka, consorte de Sindria, es la doncella que transforma a Grimar
+en piedra negra; los asistentes al Gran Stamengherin y el mundo lo desconocen.
 
-La acumulación se cerrará cuando los grandes hitos estén aprobados, ordenados y
-formalizados en el canon. En ese momento se retirará de `mesa-de-trabajo/` y
-los asuntos narrativos reservados se conservarán únicamente como pendientes
-para una etapa posterior.
+## Transición territorial resuelta
+
+La fundación de los doce reinos, sus coronas, el tránsito garantizado, las
+autonomías de Khalos y Esteria y el tribunal resuelven el marco territorial
+heredado del Raikim. Las fronteras, rutas, costas, restituciones de nombre y
+responsabilidades de cada reino encuentran una salida dentro de ese acuerdo y
+no impiden la consolidación de Dragma.
+
+La caída de Eldengard y la formación posterior de Eldengaria pertenecen a una
+transición ya resuelta. Sus negociaciones, reconstrucción material, conflictos
+personales y consecuencias locales quedan reservados para cuentos posteriores a
+la etapa de asentamiento. Esos relatos no podrán reabrir la fundación de Dragma
+ni convertir la transición territorial en una posibilidad incierta.
+
+## Estado de la acumulación
+
+Los cinco ejes de trabajo ya fueron volcados en este documento:
+
+1. el Raikim bajo Grimar;
+2. Suntarys y el origen del Amanecer;
+3. Lamya, la Rebelión del Amanecer y el fin del Raikim;
+4. el tercer Stamengherin, Dragma y las coronas fundadoras;
+5. la transición territorial resuelta.
+
+La acumulación continúa siendo material de mesa, no canon. Antes de cualquier
+traslado a `docs/` o `cuentos/`, deberá revisarse como un conjunto, contrastarse
+con el canon vigente y recibir autorización humana expresa. La futura etapa de
+cuentos podrá desarrollar los conflictos, decisiones y consecuencias humanas
+reservadas aquí, pero sin contradecir los grandes hitos consolidados.
