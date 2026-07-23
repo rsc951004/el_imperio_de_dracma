@@ -805,11 +805,163 @@ pasar a la siguiente. Si una decisión reabre un nudo anterior, se vuelve a ese
 nudo y se reconstruye su formulación sin conservar rastros de la alternativa
 descartada.
 
-## VIII. Condiciones de salida de esta auditoría
+## VIII. Segunda auditoría: coherencia de las resoluciones
+
+> **Documento auditado:**
+> [`acumulacion-de-resolucion-de-la-edad-de-la-tirania.md`](acumulacion-de-resolucion-de-la-edad-de-la-tirania.md).
+>
+> Esta sección no reabre las decisiones humanas ya tomadas. Comprueba si su
+> formulación conjunta permite el volcamiento y señala las decisiones nuevas o
+> precisiones mínimas que aún hacen falta.
+
+### S-01. Cronología de Suntarys, Ragnela y Brandulf
+
+N-25 y N-33 fijan que, en la caída de Suntarys, Ragnela tiene dieciséis años,
+Grimar diez y Brandulf veinticuatro; Brandulf habría ascendido solo cuatro años
+antes. La acumulación base establece, sin embargo, que Loryan llega a Khalos a
+los cinco años y recupera Suntarys a los dieciocho, después del golpe de
+Caelyon y Ragnela. La secuencia volvería a Ragnela una niña durante el golpe y
+no permite que Brandulf lo haya patrocinado como Raik.
+
+**Decisión necesaria:** modificar edades, duración del exilio o fecha del golpe
+hasta dejar una única cronología compatible.
+
+### S-02. Stamengherin antes de la Concordia
+
+N-06 exige un Stamengherin completo ante cada muerte imperial o real anterior a
+la Concordia. El canon solo registra tres Stamengherin antiguos con testimonio
+escrito.
+
+**Decisión necesaria:** decidir si las elecciones ordinarias fueron
+Stamengherin completos, asambleas regionales con otro nombre o una sustitución
+expresa del registro de las tres reuniones documentadas.
+
+### S-03. Composición e identidades de la Triple Corona
+
+N-24 conserva a Loryan, Einar y Soren; N-27 sustituye al amante Einar por
+Sweyn; N-32 menciona a Loryan, Einar y Sweyn. N-27 también conserva a Einar
+Fjord, mientras N-38 lo reemplaza por Aelvar Fjolvar.
+
+**Decisión necesaria:** fijar definitivamente los tres miembros de la Triple
+Corona y la identidad del primer rey de Kyst; después, normalizar todas las
+referencias.
+
+### S-04. Blesk de Loryan y límite de los Portadores
+
+N-29 atribuye a Loryan el traslado de un autómata colosal sin agotamiento
+relevante, en conflicto con el coste proporcional a la magnitud del acto. La
+misma sección lo presenta entrenado desde los diez años, mientras la
+acumulación base concentra su formación decisiva a los dieciocho.
+
+**Decisión necesaria:** escoger entre un coste excepcional pero real, una escala
+menor del hecho o una revisión explícita de la regla del Blesk; aclarar también
+la cronología de su formación.
+
+### S-05. Katerina, los Emisarios y el origen de Lamya
+
+N-20 llama a Katerina Emisaria de la Ruina y, a la vez, poseída de rango
+superior. El canon diferencia ambas condiciones. N-13 dice que Lamya se gesta
+en Zephyrya, pero no determina con precisión si quien es llevado allí es Lamya,
+Katerina embarazada o una forma anterior.
+
+**Decisión necesaria:** fijar la categoría única de Katerina y el sujeto, orden
+y condiciones del traslado a Zephyrya.
+
+### S-06. Grimmen y descendencia de Katerina
+
+N-36 afirma que muchos Grimmen nacen de Katerina y del Rey Verde. El canon
+velado atribuye el origen de los Grimmen a la contaminación de Tanyaro y a los
+temores de los habitantes de Stigria.
+
+**Decisión necesaria:** definir si la descendencia de Katerina son Grimmen,
+híbridos o engendros de otra categoría, y conservar un único origen para los
+Grimmen como especie.
+
+### S-07. Supervivencia de la sangre Valgard
+
+N-21 confirma un descendiente vivo de Astrid y Rudgar, pero el canon establece
+que el hijo que Astrid esperaba no llegó a nacer. Además, la línea oculta de
+Grimar y Katerina requiere precisar si la extinción Valgard es política,
+documental o biológica.
+
+**Decisión necesaria:** registrar expresamente qué hecho canónico se sustituye,
+definir si el superviviente es descendiente directo o remoto y fijar el alcance
+del canon velado.
+
+### S-08. Promesa de Esteria y Casa Frosthain
+
+N-17 remonta la promesa de Esteria a Raban Frosthain antes de la disolución de
+Frosthain. El canon la vincula al decreto posterior de Sigmar para Sindgard.
+
+**Decisión necesaria:** elegir el origen jurídico definitivo de la reclamación
+y reconstruir desde él la cadena Frosthain, Radanescu, Sindgard y Zorven.
+
+### S-09. Giselra y la masacre Mormund
+
+N-04 fija a Giselra como esposa asesinada de Harald. N-18 vuelve a reservar el
+nombre de la esposa y no determina cómo puede morir en la masacre si permanece
+con su familia en Sturmgard mientras la fortaleza Mormund está en el Valle.
+
+**Decisión necesaria:** fijar lugar, momento y responsable de su muerte, y
+eliminar la reserva incompatible sobre su identidad.
+
+### S-10. Casas reales de la Edad de Oro
+
+N-37 a N-39 sustituyen varias casas y soberanos de referencia, pero no mapean
+el destino de las casas canónicas intermedias, especialmente Corinthyos,
+Zephyryon, Reisner, Goros y Enescu. También se contradicen sobre Einar Fjord.
+
+**Decisión necesaria:** elaborar una continuidad mínima por reino: casa
+fundadora, relevos conocidos, casa de referencia de la Edad de Oro y casas
+descartadas o renombradas.
+
+### S-11. Sindria y el culto al Dios Negro
+
+N-36 elimina un culto público continuo al Dios Negro en Stigria y sitúa el
+proyecto en la clandestinidad. El canon presenta el culto sindrio como una
+práctica pública, pragmática y reconocible.
+
+**Decisión necesaria:** declarar cuál de las dos realidades sustituye a la otra
+y definir la identidad pública de Sindria si deja de existir ese culto.
+
+### S-12. Geografía de Eldengaria y del Norte
+
+N-40 sitúa Eldengaria en el mismo paraje que Eldengard, pero también dice que
+crece después hasta absorberla. N-14 cambia la función de Dorn respecto de la
+disposición geográfica vigente del Norte.
+
+**Decisión necesaria:** fijar si la capital comienza junto a Eldengard o sobre
+sus ruinas, y producir una única relación espacial entre Weissen, Dresk, Dorn,
+el Espolón de Dunkel y las Puertas Rojas.
+
+### S-13. Materias que deben permanecer fuera de este volcamiento
+
+N-31 reescribe Astria, Erebia, Talmos, los Inits y los Invocadores; N-36 altera
+el origen y el culto del Dios Negro. Son bloques con efectos fuera de la Edad de
+la Tiranía y no pueden ingresar de forma incidental mediante sus fichas.
+
+**Decisión necesaria:** crear y cerrar una acumulación propia de Astria/Erebia
+antes de transferir esos reemplazos; mientras tanto, limitar el volcamiento de
+la Edad de la Tiranía a los hitos que no dependan de ellos.
+
+### Correcciones editoriales de esta segunda auditoría
+
+- usar **Talmos**, no «Thalmos»;
+- usar **Edad de Oro**, salvo que «Edad Dorada» se defina como un periodo
+  distinto;
+- decidir el destino de la Casa Askia antes de reemplazar a Reisner;
+- precisar cómo continúan los cazadores Portadores tras concluir la condena
+  legal de cien años;
+- actualizar el estado de N-01: Solarys ya fue normalizado en el canon y no es
+  una resolución pendiente de transferencia.
+
+## IX. Condiciones de salida de esta auditoría
 
 La acumulación estará preparada para planificar el volcamiento solo cuando:
 
 - cada nudo N-01 a N-40 tenga una decisión humana registrada;
+- cada nudo S-01 a S-13 tenga una decisión humana registrada o una exclusión
+  explícita y justificada del volcamiento de la Edad de la Tiranía;
 - no queden afirmaciones incompatibles dentro de la propia acumulación;
 - los reemplazos del canon estén identificados como reemplazos y no como
   adiciones;
