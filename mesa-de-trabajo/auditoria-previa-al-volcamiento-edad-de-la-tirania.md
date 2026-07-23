@@ -954,12 +954,27 @@ la Edad de la Tiranía a los hitos que no dependan de ellos.
 - actualizar el estado de N-01: Solarys ya fue normalizado en el canon y no es
   una resolución pendiente de transferencia.
 
-## IX. Condiciones de salida de esta auditoría
+## IX. Tercera auditoría: cierre editorial
+
+Las resoluciones finales S-01 a S-13 cierran los nudos de la segunda auditoría:
+
+| Estado | Alcance |
+|--------|---------|
+| Cerrado | S-01 a S-12: cada contradicción identificada posee una resolución final con precedencia sobre los N-xx incompatibles. |
+| Cerrado con reserva | S-13: Astria y Erebia cuentan con una ficha general externa; fechas, campañas y trayectorias particulares permanecen fuera del volcamiento de la Edad de la Tiranía. |
+| Cerrado | La Casa Askia no requiere un relevo propio: la continuidad válida de cada reino es casa fundadora → casa presente de la Edad de Oro. |
+| Cerrado | Al concluir los cien años, los Portadores permanecen sometidos mientras exista el Raikim; recuperan su libertad con su caída. Después, algunos continúan voluntariamente como cazadores y muchos forman la Möes Tábura. |
+| Cerrado | Smürr, la Serpiente de Ghera, es un Jöten. |
+
+La tercera auditoría no reabre las resoluciones cerradas. No quedan puntos
+pendientes dentro de su alcance.
+
+## X. Condiciones de salida de esta auditoría
 
 La acumulación estará preparada para planificar el volcamiento solo cuando:
 
 - cada nudo N-01 a N-40 tenga una decisión humana registrada;
-- cada nudo S-01 a S-13 tenga una decisión humana registrada o una exclusión
+- cada nudo S-01 a S-22 tenga una decisión humana registrada o una exclusión
   explícita y justificada del volcamiento de la Edad de la Tiranía;
 - no queden afirmaciones incompatibles dentro de la propia acumulación;
 - los reemplazos del canon estén identificados como reemplazos y no como

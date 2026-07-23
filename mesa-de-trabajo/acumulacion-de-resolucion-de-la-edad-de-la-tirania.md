@@ -1200,6 +1200,11 @@ dispuesta para cada nudo de la auditoría. Se completará al cerrar la revisión
 coherencia, sin desarrollar aquí relatos, cronologías finas ni materias
 reservadas para etapas posteriores.
 
+**Precedencia editorial:** cada resolución S-xx sustituye cualquier formulación
+incompatible de los N-xx o de secciones anteriores de esta acumulación. Los
+pasajes previos solo se conservan como antecedentes de trabajo cuando no entren
+en contradicción con la resolución final.
+
 ### S-01. Cronología de Suntarys, Ragnela y Brandulf
 
 El golpe de Caelyon ocurre cuando Loryan tiene cinco años; entonces Brandulf
@@ -1223,6 +1228,10 @@ testimonios.
 La regla de elección obligatoria anterior a la Concordia rige desde Harald,
 proclamado por el tercer Stamengherin documentado. No permite inferir esa misma
 práctica para épocas anteriores.
+
+Esta resolución sustituye el cómputo canónico vigente que situaba al
+Stamengherin fundador de Dragma como tercero documentado. Al transferirse al
+canon, deberá reemplazar esa enumeración y no añadirse a ella.
 
 ### S-03. Composición de la Triple Corona
 
@@ -1339,9 +1348,12 @@ La denominación única del periodo iniciado con la fundación de Dragma es
 ### S-15. Cazadores de Grimmen
 
 La **Grim Tábura** es una Tábura independiente de Khalos vinculada a la caza de
-Grimmen. Su origen, estructura, métodos, relación con los Portadores
-esclavizados durante la condena del Verano y destino posterior quedan
-reservados para desarrollos posteriores.
+Grimmen. Al concluir la condena formal de cien años, los Portadores no recuperan
+su libertad mientras subsista el Raikim. La recuperan con la caída de ese
+régimen. Después, quienes quieren continuar como cazadores permanecen de forma
+voluntaria; otros se quedan en el Norte sin ejercer esa labor y muchos forman la
+**Möes Tábura**, una Tábura distinta cuyo desarrollo queda reservado para etapas
+posteriores.
 
 ### S-16. Alcance de la Grien Tábura
 
@@ -1352,7 +1364,7 @@ formas concretas de actuación quedan reservados para desarrollos posteriores.
 ### S-17. Jöten
 
 Los Jöten son una clase de criaturas confirmada a la que pertenecen Vitdrakiris
-y la Serpiente de Ghera. Su origen, número, naturaleza completa y demás
+y Smürr, la Serpiente de Ghera. Su origen, número, naturaleza completa y demás
 integrantes quedan reservados para desarrollos posteriores.
 
 ### S-18. Vitdrakiris
@@ -1387,5 +1399,5 @@ pertenece a Sindgard.
 
 Las resoluciones S-01 a S-21 cubren los trece nudos de la segunda auditoría y
 los asentamientos complementarios necesarios para su coherencia. No quedan
-decisiones contradictorias dentro de esta sección; los asuntos no desarrollados
-están señalados expresamente como reservados para etapas posteriores.
+decisiones contradictorias dentro de esta sección. Los asuntos no desarrollados
+quedan señalados expresamente como reservados para etapas posteriores.
