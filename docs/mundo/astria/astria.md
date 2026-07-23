@@ -4,11 +4,13 @@
 
 Nación extinta situada al sur del Mar Oscuro. También fue llamada **la Nación de la Luz**.
 
-## Culto de Talmos
+## Culto de Thalmos
 
-Astria fue el lugar de origen del culto de **Talmos**, el Dios Negro. Los **Peregrinos Negros** actuaban como emisarios y perseguidores religiosos y llamaban herejes a quienes rechazaban su fe.
+Astria fue el lugar de origen del culto de **Thalmos**, el Dios Negro. Los
+**Peregrinos Negros** actuaban como emisarios y perseguidores religiosos y
+llamaban herejes a quienes rechazaban su fe.
 
-La naturaleza de Talmos y el desarrollo profundo de su culto no están establecidos.
+La naturaleza de Thalmos y el desarrollo profundo de su culto no están establecidos.
 
 ## Refugiados y liberados
 
@@ -19,14 +21,18 @@ esclavos. Los liberados se asentaron en Dürr y fundaron la Costa del Verano.
 
 ## Destrucción
 
-Astria fue destruida en una época posterior. Las causas y circunstancias de su desaparición permanecen desconocidas.
+Astria fue destruida en una época posterior. Las causas y circunstancias de su
+desaparición permanecen desconocidas para el mundo actual.
 
 ## Legado
 
-El culto de Talmos sobrevivió fuera de Astria. La relación histórica entre aquella tradición y el culto sindrio actual no está completamente documentada.
+El culto de Thalmos sobrevivió fuera de Astria. La relación histórica entre
+aquella tradición y sus continuidades clandestinas no está completamente
+documentada.
 
 ## Referencias
 
-- `docs/entidades/talmos.md`
+- `docs/entidades/thalmos.md`
+- `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`
 - `docs/organizaciones/peregrinos-negros.md`
 - `docs/mundo/stigria/dragma/khalos/khalos.md`

@@ -947,8 +947,7 @@ la Edad de la Tiranía a los hitos que no dependan de ellos.
 ### Correcciones editoriales de esta segunda auditoría
 
 - usar **Talmos**, no «Thalmos»;
-- usar **Edad de Oro**, salvo que «Edad Dorada» se defina como un periodo
-  distinto;
+- usar **Edad de Oro** como denominación única del periodo imperial;
 - decidir el destino de la Casa Askia antes de reemplazar a Reisner;
 - precisar cómo continúan los cazadores Portadores tras concluir la condena
   legal de cien años;

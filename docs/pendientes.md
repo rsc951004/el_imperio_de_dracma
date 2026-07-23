@@ -48,6 +48,6 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | Tema | Qué falta |
 |------|-----------|
 | **Artemis y Suntarys** | Precisar la posición cronológica de Artemis y la fundación, trayectoria y caída de Suntarys. |
-| **Astria, Talmos y Erebia** | Completar la historia de Astria, la destrucción de la Nación de la Luz y el continente de Erebia. |
+| **Astria, Thalmos y Erebia** | Desarrollar las fechas, nombres, campañas y trayectorias particulares de la historia remota ya asentada. |
 | **Protectorados y ultramar** | Desarrollar Ishbaal, Lorka, Paicel y las relaciones históricas entre los protectorados. |
 | **Príncipes Perdidos** | Resolver el destino de Eryk Albyon y Thalyssa Coralyss. |

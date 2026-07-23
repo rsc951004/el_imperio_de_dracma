@@ -153,7 +153,7 @@ Se reescribió la historia comprendida entre la caída de Shahrezad y el confina
 - Se estableció que la posesión exige deseo, aceptación y proximidad física del Rey Podrido. Las consecuencias metafísicas de la entrega permanecen pendientes.
 - Se estableció que el Rey Podrido, los Grimmen y los poseídos están ligados a Stigria, y que la piedra de Stömur impide la entrada física del Rey en Eldengard y Khalos.
 - Se marcaron como canon velado la reclusión voluntaria del Rey, su red subterránea y su percepción de los cambios de Dürr.
-- Se incorporaron Astrid, Baldur Valgard, Odalric Valgard, la Gente de la Bruma, la Costa del Verano, Suntarys, el Foso de la Calamidad, la Kys Tábura, los Peregrinos Negros y Talmos.
+- Se incorporaron Astrid, Baldur Valgard, Odalric Valgard, la Gente de la Bruma, la Costa del Verano, Suntarys, el Foso de la Calamidad, la Kys Tábura, los Peregrinos Negros y Thalmos.
 - Se corrigió el origen de los Hijos del Sol: descienden de esclavos liberados de Astria por la Kys Tábura, quienes transformaron Dürr antes de evacuar hacia Alessya y fundar Suntarys.
 - Se estableció que la campaña partió desde Suntarys, liberó militarmente Dürr,
   Unland, Dresk y Weissen y obligó al Rey Podrido a retirarse hasta Rauven.
@@ -330,6 +330,7 @@ Definición del autor:
 
 | Fecha | Cambio |
 |-------|--------|
+| 2026-07-23 | **Historia remota de Astria y Erebia.** Creada una ficha canónica de rasgos generales para Erebia, la fundación y decadencia de Astria, el surgimiento accidental de Thalmos, la primera diarquía de esclavos libres y la destrucción de la Nación de la Luz. Los detalles permanecen reservados y el conjunto se marca como canon velado frente al mundo actual. Normalizada la grafía **Thalmos** en las fichas e índices canónicos. |
 | 2026-07-17 | **Fundación del Raikim y comienzo de la Edad de Plata.** Canonizados el periodo de transición posterior al confinamiento del Rey Podrido, el segundo Stamengherin documentado, la conversión de Sangre de Hierro en identidad común, la proclamación de Rudgar Rompe Maldiciones, la fundación territorial del Raikim y los primeros Dominios. Incorporados los nombres territoriales del Gherin, el plan inicial de reunificación y las resoluciones sobre Hijos del Sol, Gente de la Bruma, Khalos, Grimmen, poseídos y Sheijad. Documentado Uther Boca de Sal como origen tradicional de los términos Raik y Raikim. El derrumbe del conducto del Rost seca el río entre Rauven y Grimheim. Normalizadas las grafías Unland, Dürr y Stömur en el canon. Los diálogos exploratorios y el nombre provisional del representante de la Sish Tábura permanecen fuera del canon. |
 | 2026-07-17 | **Ampliación de la ficha de Tanyaro Mano de Serpiente.** Incorporados nuevos antecedentes dentro de su bloque de canon velado, sin propagarlos a otras fichas o documentos canónicos. |
 | 2026-07-17 | **Ficha de Tanyaro Mano de Serpiente.** Creada su ficha personal como contenido íntegramente clasificado mediante la marca `CANON-VELADO`. Por decisión editorial, el lore desarrollado durante este hilo permanecerá exclusivamente en esa ficha y no se propagará a otros documentos; se exceptúan únicamente el enlace obligatorio del índice y este registro de cambios. |

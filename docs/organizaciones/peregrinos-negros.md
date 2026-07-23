@@ -6,7 +6,7 @@ Emisarios y perseguidores religiosos procedentes de Astria.
 
 ## Creencias
 
-Adoraban a **Talmos**, a quien llamaban el Dios Negro. Consideraban herejes a quienes rechazaban su culto.
+Adoraban a **Thalmos**, a quien llamaban el Dios Negro. Consideraban herejes a quienes rechazaban su culto.
 
 ## Llegada a Stigria
 

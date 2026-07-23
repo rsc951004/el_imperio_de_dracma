@@ -40,4 +40,4 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Ghera | Deidad (tradición gheran) | Diosa que habría expulsado a los Grimmen y formado Stömur junto con Smürr. | [Ver ficha](entidades/ghera.md) |
 | Smürr | Criatura mítica | Serpiente Plateada y montura de Ghera en la tradición gheran. | [Ver ficha](entidades/smurr.md) |
 | Grimmen | Criaturas terrestres | Seres de formas y capacidades diversas surgidos de la tierra de Stigria. | [Ver ficha](entidades/grimmen.md) |
-| Talmos | Deidad o figura religiosa | Dios Negro adorado por los Peregrinos Negros de Astria. Naturaleza desconocida. | [Ver ficha](entidades/talmos.md) |
+| Thalmos | Deidad o figura religiosa | Dios Negro adorado por los Peregrinos Negros de Astria. Naturaleza desconocida para el mundo actual. | [Ver ficha](entidades/thalmos.md) |

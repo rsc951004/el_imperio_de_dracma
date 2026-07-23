@@ -31,7 +31,7 @@ perduró.
 
 ## Khalos y la Costa del Verano
 
-Una nave de **Peregrinos Negros**, adoradores de Talmos, llegó desde Astria persiguiendo a un grupo de herejes. La Gente de la Bruma les habló del Rey Podrido, pero ocultó que cerca de sus puertos había acogido a casi ciento veinte refugiados astrianos, muchos de ellos Portadores.
+Una nave de **Peregrinos Negros**, adoradores de Thalmos, llegó desde Astria persiguiendo a un grupo de herejes. La Gente de la Bruma les habló del Rey Podrido, pero ocultó que cerca de sus puertos había acogido a casi ciento veinte refugiados astrianos, muchos de ellos Portadores.
 
 La Gente de la Bruma ayudó a los refugiados a construir **Khalos**, una fortaleza circular levantada con piedra de Stömur en la península meridional. Allí nació la **Kys Tábura**, la Tábura de la Liberación, que regresó repetidamente a Astria para liberar esclavos.
 

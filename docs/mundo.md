@@ -30,8 +30,8 @@ mundo/
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
 | Stigria | Continente | Continente del invierno, dividido entre el Gherin y el Grimm por Stömur. Hogar del Imperio de Dragma. | [Ver ficha](mundo/stigria/stigria.md) |
-| Erebia | Continente | Pendiente. | — |
-| Astria | Nación extinta | Nación de la Luz y lugar de origen del culto de Talmos. Destruida por causas desconocidas. | [Ver ficha](mundo/astria/astria.md) |
+| Erebia | Continente | Tierra de origen de los primeros Portadores. Su historia remota se conserva de forma fragmentaria. | [Ver ficha](mundo/astria/historia-antigua-de-astria-y-erebia.md) |
+| Astria | Nación extinta | Nación de la Luz y lugar de origen del culto de Thalmos. | [Ver ficha](mundo/astria/astria.md) |
 
 > Ver [Cronología del mundo](cronologia.md) para la línea temporal completa.
 

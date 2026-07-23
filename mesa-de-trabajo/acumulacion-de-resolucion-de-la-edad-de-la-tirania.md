@@ -187,7 +187,7 @@ interna y continúan reuniéndose en clanes, cuya filiación no depende
 necesariamente de la sangre.
 
 **Proyección imperial:** parte de esa filiación no estrictamente sanguínea se
-incorpora al sistema de casas de la Concordia. Durante la Edad Dorada, el
+incorpora al sistema de casas de la Concordia. Durante la Edad de Oro, el
 Imperio queda ampliamente segmentado en casas, pero reconoce a Sturmgard la
 posibilidad de conservar y utilizar sus clanes.
 
@@ -388,19 +388,17 @@ Faro.
 
 ## N-13. Lamya y el límite de Stigria
 
-**Decisión aprobada:** Lamya se gesta en Zephyrya. Un Emisario de la Ruina la
-lleva hasta allí, donde permanece antes de cruzar hacia Dürr.
+**Versión conocida:** para el resto del mundo, Lamya se gesta en Zephyrya.
 
-**Resolución del conflicto:** el recorrido de Lamya se mantiene dentro de
-Stigria. No requiere definir durante el asentamiento el alcance del vínculo
-metafísico de los Grimmen ni su capacidad de abandonar el continente.
+**Verdad velada para el futuro canon:** Katerina lleva personalmente a Lamya a
+las Costas del Verano para desestabilizar el Raikim y empujar al Raik a permitir
+la entrada del Rey Podrido. El recorrido de Lamya se mantiene dentro de Stigria.
 
 **Consecuencias que deberán resolverse antes del volcamiento:**
 
 - ajustar toda referencia al origen, traslado y recorrido de Lamya conforme a
-  su gestación en Zephyrya;
-- identificar al Emisario de la Ruina solo si la continuidad posterior lo
-  requiere;
+  la versión de su gestación en Zephyrya y al traslado real realizado por
+  Katerina;
 - conservar como misterio pendiente el límite de Stigria para los Grimmen y
   las consecuencias de que intenten abandonarlo;
 - evitar que la descripción de Lamya resuelva por implicación otros misterios
@@ -493,8 +491,9 @@ también se encuentra en Weissen y no forma parte de Sindgard.
 
 **Cadena de la promesa:** la promesa original de incorporar Esteria fue hecha a
 Raban Frosthain. Tras la disolución de la Casa Frosthain, la reclamación pasó a
-sus integrantes integrados en Sindgard, en especial a los que se unieron a su
-casa gobernante. Zorven Drazar la hereda como Señor de Sindgard.
+sus integrantes integrados en Sindgard. Los más relevantes se unieron a la Casa
+Drazar, que gobierna el Dominio; Zorven Drazar hereda la reclamación como Señor
+de Sindgard.
 
 **Oferta de Grimar y decisión de Zorven:** Grimar, como Raik, ofrece cumplir la
 antigua promesa e incorporar Esteria al Dominio de Sindgard si Zorven consigue
@@ -533,15 +532,18 @@ el Raik, apoya la rebelión y recibe después la primera corona de Sindria.
 
 ## N-18. Masacre Mormund
 
-**Decisión aprobada:** el padre de la esposa de Harald convoca una reunión en
-la Tormenta para tratar los rumores sobre la solución final del Raik. Mientras
-tanto, el padre de Harald sostiene en el Valle una campaña de oposición firme
-contra el Raik. La esposa de Harald permanece junto a los suyos para apoyarla.
+**Decisión aprobada:** en el Consejo de Señores del Valle, Grimar propone dejar
+entrar al Rey Podrido para que enfrente la Rebelión y se retire después al
+Oriente con nuevos súbditos. Harald entiende que el plan es una locura suicida.
+Deja a Giselra en la fortaleza Mormund y viaja a la Tormenta para advertir a su
+suegro, Señor del Dominio de Sturmgard.
 
-**La masacre:** los vasallos de los Mormund traicionan a la casa y permiten la
-entrada de un batallón del Raik encargado de exterminarla. La acusación declara
-traidores al Raik a todos los Mormund y extiende esa condición a quienes los
-sigan o defiendan. El padre de Harald es ejecutado junto con toda su casa.
+**La oposición y la masacre:** el padre de Harald inicia en el Valle una
+campaña de oposición entre los grandes señores para impedir el plan de Grimar.
+Estos señores, leales al Raik, lo traicionan. Grimar ordena ejecutar a toda la
+Casa Mormund por traición. Los vasallos de los Mormund permiten la entrada de un
+batallón del Raik encargado de exterminarla. El padre de Harald, Giselra y el
+resto de la casa mueren en la fortaleza.
 
 **Lugar y hallazgo:** la fortaleza de los Mormund se levanta en las faldas de
 Stömur, en el noreste del Valle Central, a pocos kilómetros al sur del Rost. Es
@@ -551,9 +553,10 @@ la planta más baja. Los rumores del exterminio llegan pronto a la Tormenta y
 hombres sturmgardianos que viajan al Valle los confirman. Harald solo ve los
 cuerpos al terminar la guerra.
 
-**Reserva de identidad:** los nombres de la esposa de Harald, de su padre y de
-su padre político quedan pendientes de sus fichas. Esta reserva no altera los
-hechos mínimos de la masacre ni autoriza a desarrollarla todavía como relato.
+**Reserva de identidad:** Giselra, esposa de Harald, ya está identificada. Los
+nombres de su padre y del padre de Harald quedan pendientes de sus fichas. Esta
+reserva no altera los hechos mínimos de la masacre ni autoriza a desarrollarla
+todavía como relato.
 
 **Consecuencias que deberán resolverse antes del volcamiento:**
 
@@ -573,14 +576,17 @@ de las Emisarias de la Ruina. Aunque aparenta ser una doncella bondadosa,
 anhela la destrucción total del mundo de los hombres. Entregó su voluntad al
 Rey Verde, con quien está unida desde niña por un lazo inquebrantable.
 
+**Categorías de la Ruina:** un poseído es, en términos prácticos, una especie
+de zombi del Rey Podrido. Un Emisario de la Ruina es un agente activo a su
+servicio. Katerina es una Emisaria de la Ruina, no una poseída.
+
 **Identidad del poder oriental:** Rey Verde y Rey Podrido son la misma entidad.
 Ambas denominaciones son intercambiables: cualquier persona puede emplear
 cualquiera de ellas, sin tratarse de poderes distintos.
 
-**Naturaleza y permanencia:** en términos prácticos es una poseída de rango
-superior, pero conserva gran parte de su individualidad. La degradación de su
-cuerpo y de su espíritu quedó detenida: parece humana y vive desde el reinado
-de Grimar hasta la Edad de Oro. Se reproduce con Grimmen y engendra criaturas
+**Naturaleza y permanencia:** conserva gran parte de su individualidad. La
+degradación de su cuerpo y de su espíritu quedó detenida: parece humana y vive
+desde el reinado de Grimar hasta la Edad de Oro. Se reproduce con Grimmen y engendra criaturas
 de poder extraordinario; Lamya nació de su vientre.
 
 **Muerte de Grimar:** Grimar muere al convertirse en piedra desde dentro hacia
@@ -622,6 +628,11 @@ de los dos conoce su propia ascendencia Valgard. Al trasladar esta verdad al
 canon, deberá aplicarse la marca `CANON-VELADO` con un alcance de ignorancia que
 incluya al menos a ambos descendientes.
 
+**Supervivencia de la línea de Astrid:** el hijo que Astrid esperaba sobrevive.
+Esta decisión sustituye la versión según la cual no llegó a nacer. El desarrollo
+de su supervivencia, de su descendencia y de la continuidad de esa línea hasta
+la Edad de Oro queda reservado para un cuento posterior.
+
 **Resolución del conflicto:** la existencia de la criatura de Katerina no se
 niega ni se atribuye a Lamya. La continuidad de los dos descendientes se
 conserva como reserva para relatos posteriores.
@@ -645,6 +656,10 @@ de Grimar.
 
 **Destino de Ragnela:** muere durante el ataque a la ciudadela de Suntarys. Su
 muerte amarga profundamente al padre de Grimar y al propio Grimar.
+
+**Matrimonio proyectado:** antes del asalto, el Raik anuncia el matrimonio de
+Ragnela con Caelyon, rey ilegítimo de Suntarys. El enlace busca anexionar el
+reino y convertirlo en el decimotercer Dominio. No alcanza a consolidarse.
 
 **La promesa de Katerina:** los sangheskianos descubrieron una longevidad
 extrema, pero no cómo devolver la vida a los muertos. Katerina explota el duelo
@@ -708,8 +723,13 @@ para conservar el poder.
 que la corona le pertenecía por nacimiento y de que no podía ser solo un
 Hermano de las Táburas en Khalos. Recuperó el trono movido primero por esa
 reclamación hereditaria. La Triple Corona nació como un acto de rebeldía: ante
-la presión para unirse a una noble de Suntarys, se coronó junto a Einar y Soren,
+la presión para unirse a una noble de Suntarys, se coronó junto a Sweyn y Soren,
 dos amantes extranjeros vinculados a la Bruma.
+
+**Antecedente inmediato de la reclamación:** los informes recibidos en Khalos
+sobre el matrimonio proyectado entre Caelyon y Ragnela confirman a Loryan que
+el Raik pretende anexionar Suntarys como decimotercer Dominio. Esa amenaza
+precipita su decisión de reclamar la corona.
 
 **Catarsis y sentido del Edicto:** Loryan comprendió que había puesto a
 Suntarys frente al Raikim y condenado a la isla a una destrucción probable. La
@@ -734,7 +754,7 @@ corresponde al pueblo elegir a sus nuevos gobernantes.
 
 **Consecuencia de la regla:** no es necesario establecer cuál de los tres muere
 primero si caen en la misma batalla. La primera muerte activa la disposición
-del Edicto y la consecuencia jurídica es idéntica para Loryan, Einar o Soren.
+del Edicto y la consecuencia jurídica es idéntica para Loryan, Sweyn o Soren.
 
 **Secuencia de la rebelión:** el Edicto inicia la Rebelión del Amanecer como
 ruptura política. La aparición de Lamya desencadena posteriormente el primer
@@ -772,8 +792,9 @@ El explorador que visitó Erebia y antecede a Sandor es Dyas.
 utilizado para encubrir su identidad real. No es su nombre civil ni una segunda
 persona.
 
-**Decisión sobre el amante de Loryan:** el amante de Loryan antes llamado Einar
-pasa a llamarse Sweyn. Así queda separado de Einar Fjord, primer rey de Kyst.
+**Decisión sobre el amante de Loryan:** el amante de Loryan se llama Sweyn. El
+nombre Einar no se conserva para él; así queda separado de Aelvar Fjolvar,
+primer rey de Kyst.
 
 **Resolución del conflicto:** Loryan puede utilizar Dorian sin colisionar con
 Doryan Solarys, y Sweyn puede morir junto a Loryan y Soren en Suntarys sin
@@ -784,8 +805,7 @@ duplicar al soberano posterior de Kyst.
 - ajustar las referencias a Dorian para que se identifique como seudónimo de
   Loryan cuando corresponda;
 - sustituir por Sweyn todas las referencias al amante de Loryan;
-- armonizar los nombres brumenses con su convención onomástica al resolverla,
-  sin modificar el nombre ya fijado de Einar Fjord.
+- usar Aelvar Fjolvar en toda referencia al primer rey de Kyst.
 
 ## N-28. Renuncia de Casa en ciertas Táburas
 
@@ -838,9 +858,15 @@ por los descendientes astrianos que no se entregaron al Dios Negro y fundaron
 Khalos. Los Hijos del Verano no los consideran verdaderos astrianos porque los
 liberaron; en términos de origen, sí lo son.
 
+**Coste del Blesk:** todo uso tiene un coste, pero no responde a una medida
+exacta ni uniforme. Existen Portadores comunes y grandes Portadores con una
+capacidad muy superior; la magnitud del acto no produce el mismo agotamiento en
+todos ellos. Las referencias a formación posterior de Loryan describen etapas
+de un entrenamiento iniciado a los diez años, no un origen distinto.
+
 **Demostración del autómata:** el vuelo del autómata es una tarea colosal, pero
-no supone un gran esfuerzo para Loryan. Su entrenamiento desde niño y su dominio
-excepcional del Blesk le permiten realizarla sin agotamiento relevante.
+no supone un gran esfuerzo para Loryan. Como gran Portador, su dominio
+excepcional del Blesk le permite asumir un coste real sin agotamiento relevante.
 
 **Resolución del conflicto:** la demostración queda asentada como hito
 extraordinario. La naturaleza exacta del autómata, la distancia recorrida y la
@@ -940,7 +966,7 @@ precisos permanecen reservados.
 entre las casas nobles de Suntarys. No era únicamente un temor o una
 interpretación de Loryan.
 
-**Naturaleza del rechazo:** Loryan, Einar y Sweyn habían demostrado que podían
+**Naturaleza del rechazo:** Loryan, Sweyn y Soren habían demostrado que podían
 recuperar el Estado por sí mismos, de modo que no se los consideraba débiles. El
 conflicto político nació porque Loryan no eligió una reina suntrarya de las casas
 nobles y compartió el gobierno con dos reyes hombres, extranjeros y ajenos a los
@@ -1012,12 +1038,12 @@ cambio histórico de título.
 ## N-37. Sucesión de las casas fundadoras
 
 **Decisión aprobada:** ninguna de las cuatro casas de las primeras coronas del
-Hierro continúa hasta la Edad Dorada. Todas son sustituidas por casas
+Hierro continúa hasta la Edad de Oro. Todas son sustituidas por casas
 posteriores.
 
-**Casas y soberanos de referencia de la Edad Dorada:**
+**Casas y soberanos de referencia de la Edad de Oro:**
 
-| Reino | Primera casa | Casa de la Edad Dorada | Soberano de referencia |
+| Reino | Primera casa | Casa de la Edad de Oro | Soberano de referencia |
 |---|---|---|---|
 | Eisengard | Hammer | Eberwulf | Godharn Eberwulf |
 | Guldengard | Gilden | Reginvar | Siegvar Reginvar |
@@ -1035,7 +1061,7 @@ momento y las circunstancias precisas no se detallan durante el asentamiento.
 
 **Revisión onomástica del Hierro:** Hammer, Gilden, Wolfen, Reisner, Kaspar y
 Jorin no cumplen la guía vigente por ser formas reales o demasiado directas.
-Al producirse el volcamiento, las referencias de la Edad Dorada se sustituirán
+Al producirse el volcamiento, las referencias de la Edad de Oro se sustituirán
 por las ocho formas fijadas en la tabla: Eberwulf, Reginvar, Gundrek, Fridvar,
 Godharn, Siegvar, Hadvar y Hroldar. La continuidad concreta entre Reisner y
 Fridvar se reserva para su ficha histórica.
@@ -1058,7 +1084,7 @@ la Bruma ni cabezas de dinastías locales:
 
 **Elección posterior:** tras la caída del Raikim, el Stamengherin permite que
 los tres territorios elijan sus propios reyes. La población opta por soberanos
-brumenses. Esos reyes y sus casas se mantienen durante la Edad Dorada:
+brumenses. Esos reyes y sus casas se mantienen durante la Edad de Oro:
 
 | Reino restaurado | Rey brumense | Casa real |
 |---|---|---|
@@ -1080,7 +1106,7 @@ señores impuestos, las campañas de liberación ni el procedimiento electoral d
 Stamengherin.
 
 **Alcance del asentamiento:** los seis nombres identifican soberanos de
-referencia de la Edad Dorada. No fijan todavía la extensión de cada reinado,
+referencia de la Edad de Oro. No fijan todavía la extensión de cada reinado,
 la sucesión completa ni las circunstancias de su llegada al trono.
 
 ## N-39. Señoríos, coronas fundadoras y coronas de oro del Verano
@@ -1111,10 +1137,10 @@ embargo, no los eligen como reyes fundadores; eligen a tres Hijos del Verano:
 su residencia en el Verano como casas nobles menores. No retienen señoríos de
 dominio ni pueden reclamar las coronas fundadoras.
 
-**Coronas de la Edad Dorada:** las casas fundadoras no son las que reinan en
-la Edad Dorada. Las referencias de esa edad son:
+**Coronas de la Edad de Oro:** las casas fundadoras no son las que reinan en
+la Edad de Oro. Las referencias de esa edad son:
 
-| Reino | Soberano de la Edad Dorada | Casa real |
+| Reino | Soberano de la Edad de Oro | Casa real |
 |---|---|---|
 | Lysarya | Lykandros Mirandys | Casa Mirandys |
 | Zephyrya | Dimethys Kalistrys | Casa Kalistrys |
@@ -1135,8 +1161,9 @@ asentamiento.
 **Decisión aprobada sobre Thalmos:** en Stigria no existe un culto público y
 continuo al Dios Negro. Thalmos fue un ser físico adorado como dios, pero quedó
 destruido junto con Astria. Los Peregrinos del Dios Negro que llegan o persiguen
-en Stigria intentan reconstruir por su cuenta la obra fallida de Zoroastro en
-Sindgard.
+en Stigria buscan producir su propia versión de aquel poder en Sindgard. No se
+atribuye a Zoroastro un propósito de crear a Thalmos: su surgimiento pudo ser
+accidental.
 
 **Proyecto clandestino:** ese intento permanece enquistado en el corazón del
 trono de Sindria. No es público y puede permanecer desconocido incluso para
@@ -1147,8 +1174,11 @@ Zorven la acepta como tal; ni él ni la familia de Katerina conocen su naturalez
 real, sus poderes o su vínculo con el Rey Verde.
 
 **Verdad reservada:** muchos de los Grimmen que infestan el norte nacieron del
-vientre de Katerina y de la semilla del Rey Verde. En la Edad de Oro, Katerina
-es presumida muerta como una humana común y opera desde las sombras.
+vientre de Katerina y de la semilla del Rey Verde. Son individuos Grimmen, pero
+no sustituyen el origen de la especie. La diferencia entre los Grimmen
+autóctonos de Stigria y los nacidos de Katerina queda reservada para desarrollos
+posteriores. En la Edad de Oro, Katerina es presumida muerta como una humana
+común y opera desde las sombras.
 
 **La Grim Tábura:** la Grim Tábura es una sociedad oculta que conjuga el culto
 al Dios Negro con el culto al Rey Podrido. Sus integrantes conocen el proyecto
@@ -1162,3 +1192,142 @@ influencia de los Peregrinos y de Katerina no funda un culto oficial de Thalmos
 en Stigria. Cuando estos hechos pasen al canon, la marca `CANON-VELADO` deberá
 delimitar la ignorancia del mundo frente al conocimiento de Katerina y la Grim
 Tábura.
+
+## Resoluciones finales dispuestas
+
+Esta sección reunirá, punto por punto, la formulación clara de la solución final
+dispuesta para cada nudo de la auditoría. Se completará al cerrar la revisión de
+coherencia, sin desarrollar aquí relatos, cronologías finas ni materias
+reservadas para etapas posteriores.
+
+### S-01. Cronología de Suntarys, Ragnela y Brandulf
+
+El golpe de Caelyon ocurre cuando Loryan tiene cinco años; entonces Brandulf
+tiene once, Ragnela tres y Grimar aún no ha nacido. Brandulf y Ragnela no
+participan ni patrocinan ese golpe.
+
+Trece años después, cuando Loryan tiene dieciocho, los informes de Khalos sobre
+el matrimonio proyectado de Caelyon y Ragnela desencadenan su reclamación de la
+corona. En ese momento Brandulf tiene veinticuatro años y lleva cuatro como
+Raik; Ragnela tiene dieciséis y Grimar diez. Ragnela muere durante el asalto
+final a Suntarys. El matrimonio no convierte al reino en un Dominio.
+
+### S-02. Stamengherin anteriores al primer registro
+
+Existen tres Stamengherin antiguos documentados. El que proclama a Harald es el
+tercero. No se sabe si hubo Stamengherin anteriores al primero documentado,
+pues no existe registro que lo determine. Esta ausencia de información no se
+explica como pérdida de archivos ni como una decisión de no preservar
+testimonios.
+
+La regla de elección obligatoria anterior a la Concordia rige desde Harald,
+proclamado por el tercer Stamengherin documentado. No permite inferir esa misma
+práctica para épocas anteriores.
+
+### S-03. Composición de la Triple Corona
+
+La Triple Corona de Suntarys está formada por Loryan, Sweyn y Soren. Sweyn es
+el amante de Loryan antes llamado Einar; ese nombre no se conserva para él.
+Aelvar Fjolvar es el primer rey de Kyst. Todas las referencias posteriores
+deben usar estas identidades.
+
+### S-04. Blesk de Loryan y límite de los Portadores
+
+El Blesk tiene un coste, pero no es una ciencia exacta ni se mide de forma igual
+en todos los Portadores. Loryan es un gran Portador: el vuelo del autómata le
+exige un coste real, aunque no lo agota de manera relevante. Su entrenamiento
+empieza a los diez años; cualquier formación posterior corresponde a etapas de
+ese mismo proceso.
+
+### S-05. Katerina, los Emisarios y Lamya
+
+Katerina es una Emisaria de la Ruina: un agente activo del Rey Podrido. No es
+una poseída, pues los poseídos son, en términos prácticos, zombis al servicio
+del mismo poder. Para el resto del mundo, Lamya se gesta en Zephyrya; como
+verdad velada, Katerina la lleva personalmente a las Costas del Verano para
+desestabilizar el Raikim y empujar al Raik a permitir la entrada del Rey Podrido.
+
+### S-06. Grimmen y descendencia de Katerina
+
+Los nacidos de la cópula de Katerina con el Rey Podrido son Grimmen
+individuales, pero no reemplazan el origen de los Grimmen como especie. La
+diferencia entre ellos y los Grimmen autóctonos de Stigria se desarrollará en
+cuentos posteriores, fuera de la etapa de asentamiento.
+
+### S-07. Supervivencia de la sangre Valgard
+
+El hijo que Astrid esperaba sobrevive, sustituyendo el canon anterior que
+afirmaba que no nació. En la Edad de Oro existe un descendiente velado de esa
+línea y otro de Grimar y Katerina; ninguno conoce su ascendencia. La extinción
+Valgard es pública y política, no biológica. La historia de ambas líneas queda
+reservada para cuentos posteriores.
+
+### S-08. Promesa de Esteria y Casa Frosthain
+
+La promesa de incorporar Esteria se hace a Raban Frosthain. Al disolverse su
+casa, sus integrantes se integran en Sindgard y los más relevantes pasan a la
+Casa Drazar. Zorven Drazar hereda esa reclamación como Señor de Sindgard. No se
+incorpora una casa intermedia a esta cadena.
+
+### S-09. Giselra y la masacre Mormund
+
+En el Consejo de Señores del Valle, Grimar propone dejar entrar al Rey Podrido
+para enfrentar la Rebelión. Harald deja a Giselra en la fortaleza Mormund y va
+a advertir a su suegro en la Tormenta. La oposición que el padre de Harald
+organiza en el Valle es traicionada por los grandes señores leales a Grimar.
+Como consecuencia, Grimar ordena ejecutar a la Casa Mormund: Giselra muere con
+ella en la fortaleza. El lugar, el momento y el responsable de su muerte quedan
+fijados; solo su desarrollo narrativo permanece reservado.
+
+### S-10. Casas reales de la Edad de Oro
+
+La continuidad final de cada reino va de su casa fundadora a su casa presente
+de la Edad de Oro. No se incorporan ni conservan casas intermedias; las casas
+presentes de la Edad de Oro son definitivas.
+
+| Reino | Casa fundadora | Casa presente de la Edad de Oro |
+|---|---|---|
+| Eisengard | Hammer | Eberwulf |
+| Guldengard | Gilden | Reginvar |
+| Flemmengard | Wolfen | Gundrek |
+| Sturmgard | Falken | Fridvar |
+| Lysarya | Lisaryon | Mirandys |
+| Zephyrya | Zephiryon | Kalistrys |
+| Vesperya | Thalyros | Valiryos |
+| Veleskaria | Voresk | Korzan |
+| Sindria | Drazar | Velkar |
+| Kyst | Fjolvar | Fjolvar |
+| Lyng | Kjarven | Kjarven |
+| Bjorn | Hjorven | Hjorven |
+
+### S-11. Ausencia de culto público al Dios Negro en Sindria
+
+Sindria no posee un culto público, continuo ni oficial al Dios Negro. La Grim
+Tábura es una sociedad secreta, enquistada en torno al trono, que reúne a los
+Peregrinos del Dios Negro y a los servidores del Rey Podrido para intentar
+producir en Sindgard una versión propia de aquel poder. Ese proyecto no se
+atribuye a un designio de Zoroastro: el surgimiento de Thalmos pudo haber sido
+accidental. Su existencia y sus fines permanecen ocultos para la población y
+para parte de los propios monarcas.
+
+### S-12. Eldengaria y la antigua Eldengard
+
+Eldengaria se funda en el campamento del Stamengherin, a los pies de Dragma y
+en el mismo paraje general de Eldengard, sin ocupar de inmediato la antigua
+capital del Raikim. Su disposición inicial expresa una ruptura política y evita
+heredar la configuración caótica de la ciudad tiránica. Con el crecimiento del
+Imperio, Eldengaria se extiende hacia el oeste e incorpora gradualmente la
+Eldengard ancestral. El Palacio Imperial queda incrustado en la roca de Dragma.
+
+### S-13. Historia remota de Astria y Erebia
+
+La historia remota de Astria y Erebia se asienta fuera de esta acumulación en
+`docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`. La Edad de la
+Tiranía conserva solo las consecuencias que la afectan; fechas, nombres,
+campañas y trayectorias particulares de esa historia quedan para desarrollos
+posteriores.
+
+### S-14. Nombre de la era imperial
+
+La denominación única del periodo iniciado con la fundación de Dragma es
+**Edad de Oro**.

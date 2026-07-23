@@ -6,7 +6,7 @@ Tábura histórica fundada en Khalos durante la Edad de la Podredumbre. Su nombr
 
 ## Origen
 
-Fue la primera Tábura fundada fuera de Astria y la primera creada en siglos desde la aparición del culto de Talmos.
+Fue la primera Tábura fundada fuera de Astria y la primera creada en siglos desde la aparición del culto de Thalmos.
 
 ## Misión
 
