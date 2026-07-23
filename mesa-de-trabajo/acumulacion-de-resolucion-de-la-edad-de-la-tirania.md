@@ -1180,7 +1180,7 @@ autóctonos de Stigria y los nacidos de Katerina queda reservada para desarrollo
 posteriores. En la Edad de Oro, Katerina es presumida muerta como una humana
 común y opera desde las sombras.
 
-**La Grim Tábura:** la Grim Tábura es una sociedad oculta que conjuga el culto
+**La Grien Tábura:** la Grien Tábura es una sociedad oculta que conjuga el culto
 al Dios Negro con el culto al Rey Podrido. Sus integrantes conocen el proyecto
 de los Peregrinos, la naturaleza de Katerina y el origen de los Grimmen. Para
 la mayoría de las personas del Gherin, la organización y sus fines permanecen
@@ -1190,7 +1190,7 @@ ocultos; fuera de esa región solo existen sospechas no confirmadas.
 Zorven incorpore conscientemente a una Emisaria de la Ruina en su casa. La
 influencia de los Peregrinos y de Katerina no funda un culto oficial de Thalmos
 en Stigria. Cuando estos hechos pasen al canon, la marca `CANON-VELADO` deberá
-delimitar la ignorancia del mundo frente al conocimiento de Katerina y la Grim
+delimitar la ignorancia del mundo frente al conocimiento de Katerina y la Grien
 Tábura.
 
 ## Resoluciones finales dispuestas
@@ -1302,7 +1302,7 @@ presentes de la Edad de Oro son definitivas.
 
 ### S-11. Ausencia de culto público al Dios Negro en Sindria
 
-Sindria no posee un culto público, continuo ni oficial al Dios Negro. La Grim
+Sindria no posee un culto público, continuo ni oficial al Dios Negro. La Grien
 Tábura es una sociedad secreta, enquistada en torno al trono, que reúne a los
 Peregrinos del Dios Negro y a los servidores del Rey Podrido para intentar
 producir en Sindgard una versión propia de aquel poder. Ese proyecto no se
@@ -1331,3 +1331,50 @@ posteriores.
 
 La denominación única del periodo iniciado con la fundación de Dragma es
 **Edad de Oro**.
+
+### S-15. Cazadores de Grimmen
+
+La **Grim Tábura** es una Tábura independiente de Khalos vinculada a la caza de
+Grimmen. Su origen, estructura, métodos, relación con los Portadores
+esclavizados durante la condena del Verano y destino posterior quedan
+reservados para desarrollos posteriores.
+
+### S-16. Alcance de la Grien Tábura
+
+La Grien Tábura es una sociedad clandestina ligada a Thalmos y al Rey Podrido,
+con presencia secreta en Sindria. Su jerarquía, ritos, extensión territorial y
+formas concretas de actuación quedan reservados para desarrollos posteriores.
+
+### S-17. Jöten
+
+Los Jöten son una clase de criaturas confirmada a la que pertenecen Vitdrakiris
+y la Serpiente de Ghera. Su origen, número, naturaleza completa y demás
+integrantes quedan reservados para desarrollos posteriores.
+
+### S-18. Vitdrakiris
+
+Para la Tormenta, Vitdrakiris es un protector mítico cuya presencia explica la
+supervivencia de su pueblo. La verdad velada es que se trata de un Jöten,
+encerrado en las profundidades marinas del archipiélago y conectado con las
+Doncellas del Viento. El alcance de ese vínculo y su origen quedan reservados
+para desarrollos posteriores.
+
+### S-19. Giselra y las Doncellas del Viento
+
+Giselra, hija del Señor de Sturmgard y esposa de Harald, es la única Doncella
+del Viento identificada en esta etapa. Las demás doncellas, sus historias y sus
+vínculos particulares con Vitdrakiris quedan reservados para desarrollos
+posteriores.
+
+### S-20. Voluntad de la Sal y Voluntad del Hierro
+
+La Voluntad de la Sal y la Voluntad del Hierro son identidades socioculturales,
+no organizaciones ni bandos políticos formales. La primera se orienta a la
+adaptación, la supervivencia y el pillaje en las condiciones de la Tormenta; la
+segunda, a la guardia y el honor de los Sangres de Hierro.
+
+### S-21. Señor de Sindgard y Weissen
+
+El título reconocido es **Señor de Sindgard**. «Señor de Weissen» es una forma
+discutida de referirse a él, pues Esteria también se encuentra en Weissen y no
+pertenece a Sindgard.
