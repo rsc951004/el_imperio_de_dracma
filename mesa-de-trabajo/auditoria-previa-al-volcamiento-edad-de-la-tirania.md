@@ -578,7 +578,7 @@ Suntarys deja sin población de origen a la historia canónica de Alessya.
 
 ### N-31. La Diarquía resuelve la destrucción de Astria fuera del alcance de esta edad
 
-**Acumulación:** el colapso de una isla libre transforma el culto de Talmos en
+**Acumulación:** el colapso de una isla libre transforma el culto de Thalmos en
 la fuerza que destruye Astria
 ([acumulación:484-504](acumulacion-edad-de-la-tirania.md)).
 
@@ -590,7 +590,7 @@ profunda del culto permanecen desconocidas
 **Decisión necesaria:**
 
 1. Autorizar una canonización que también reabra y modifique el bloque de
-   Astria y Talmos.
+   Astria y Thalmos.
 2. Conservar la diarquía solo como antecedente conocido por Sylas, sin fijarla
    todavía como causa de la destrucción.
 3. Retirar el vínculo causal y dejarlo para la futura acumulación de Astria.
@@ -657,7 +657,7 @@ Imperio. Sindria posee en el presente un culto al Dios Negro cuya relación con
 Astria sigue sin documentar (`docs/casas/goros.md:18-25`).
 
 **Decisión necesaria:** establecer qué sabe Dorin, por qué Katerina es aceptada,
-si ella funda o altera el culto sindrio, qué relación mantiene con Talmos, el Rey
+si ella funda o altera el culto sindrio, qué relación mantiene con Thalmos, el Rey
 Podrido o los Emisarios y quién conoce esta verdad. Es un nudo transhistórico,
 no un detalle de consorte.
 
@@ -936,7 +936,7 @@ el Espolón de Dunkel y las Puertas Rojas.
 
 ### S-13. Materias que deben permanecer fuera de este volcamiento
 
-N-31 reescribe Astria, Erebia, Talmos, los Inits y los Invocadores; N-36 altera
+N-31 reescribe Astria, Erebia, Thalmos, los Inits y los Invocadores; N-36 altera
 el origen y el culto del Dios Negro. Son bloques con efectos fuera de la Edad de
 la Tiranía y no pueden ingresar de forma incidental mediante sus fichas.
 
@@ -946,7 +946,7 @@ la Edad de la Tiranía a los hitos que no dependan de ellos.
 
 ### Correcciones editoriales de esta segunda auditoría
 
-- usar **Talmos**, no «Thalmos»;
+- usar **Thalmos** como grafía canónica;
 - usar **Edad de Oro** como denominación única del periodo imperial;
 - decidir el destino de la Casa Askia antes de reemplazar a Reisner;
 - precisar cómo continúan los cazadores Portadores tras concluir la condena

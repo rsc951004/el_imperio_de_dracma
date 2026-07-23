@@ -1226,10 +1226,8 @@ práctica para épocas anteriores.
 
 ### S-03. Composición de la Triple Corona
 
-La Triple Corona de Suntarys está formada por Loryan, Sweyn y Soren. Sweyn es
-el amante de Loryan antes llamado Einar; ese nombre no se conserva para él.
-Aelvar Fjolvar es el primer rey de Kyst. Todas las referencias posteriores
-deben usar estas identidades.
+La Triple Corona de Suntarys está formada por Loryan, Sweyn y Soren. Aelvar
+Fjolvar es el primer rey de Kyst.
 
 ### S-04. Blesk de Loryan y límite de los Portadores
 
@@ -1319,6 +1317,12 @@ heredar la configuración caótica de la ciudad tiránica. Con el crecimiento de
 Imperio, Eldengaria se extiende hacia el oeste e incorpora gradualmente la
 Eldengard ancestral. El Palacio Imperial queda incrustado en la roca de Dragma.
 
+El Norte comprende Dresk y Weissen. Weissen carece de una salida directa hacia
+el sur, pues Dorn lo separa del resto del Gherin; el único acceso terrestre al
+Norte pasa por Dresk. Para entrar o salir de Dresk se cruza la planicie formada
+entre el Espolón de Dunkel y el cordón de Dorn. Las Puertas Rojas del Paso de
+Dresk se apoyan en ambas formaciones y bloquean físicamente ese paso.
+
 ### S-13. Historia remota de Astria y Erebia
 
 La historia remota de Astria y Erebia se asienta fuera de esta acumulación en
@@ -1378,3 +1382,10 @@ segunda, a la guardia y el honor de los Sangres de Hierro.
 El título reconocido es **Señor de Sindgard**. «Señor de Weissen» es una forma
 discutida de referirse a él, pues Esteria también se encuentra en Weissen y no
 pertenece a Sindgard.
+
+### S-22. Revisión de cierre
+
+Las resoluciones S-01 a S-21 cubren los trece nudos de la segunda auditoría y
+los asentamientos complementarios necesarios para su coherencia. No quedan
+decisiones contradictorias dentro de esta sección; los asuntos no desarrollados
+están señalados expresamente como reservados para etapas posteriores.
