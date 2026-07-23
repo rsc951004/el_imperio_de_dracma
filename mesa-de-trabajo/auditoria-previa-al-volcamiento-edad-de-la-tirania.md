@@ -56,30 +56,14 @@ nombres o escenas.
 
 ## I. Nudos estructurales que bloquean todo el volcamiento
 
-### N-01. `Solaryss` frente a `Solarys`
+### N-01. Grafía de Solarys
 
-**Acumulación:** ordena sustituir `Solaryss` por `Solarys` y usa esta segunda
-grafía para Layna, Loryan y Sylas
-([acumulación:36-39](acumulacion-edad-de-la-tirania.md),
-[314-341](acumulacion-edad-de-la-tirania.md)).
+**Decisión resuelta:** Solarys es la única forma vigente para la casa y el
+linaje. Las reglas del Verano solo regulan combinaciones internas `ssy` y `ys`;
+no duplican una ese inicial o final.
 
-**Canon vigente:** la regla fonética del Verano convierte `Solarys` en
-`Solaryss`; la casa, Loryan, Sylas, Sandor y sus familiares usan `Solaryss`
-(`docs/AGENTS.md:88-89`; `docs/casas/solaryss.md:7-32`).
-
-**Decisión necesaria:**
-
-1. Mantener `Solaryss`: hay que corregir toda la acumulación y retirar su regla
-   de normalización.
-2. Adoptar `Solarys`: hay que modificar la guía onomástica, renombrar la ficha
-   de la casa y revisar todas las referencias canónicas a la familia, al Edicto,
-   a Sandor y a las obras de la Sish Tábura.
-
-**Dependencia:** no deben crearse fichas de Layna, Loryan ni Sylas hasta fijar
-la grafía, pues la elección determina nombres de archivo, enlaces e índices.
-La tabla de coronas también debe corregirse: todavía usa `Nerathys Solaryss`
-([acumulación:842](acumulacion-edad-de-la-tirania.md)), en contradicción con la
-normalización que el propio documento declara.
+**Aplicación:** se actualizaron las fichas, los índices y las referencias al
+linaje, incluido el nombre de archivo de la Casa Solarys y el de Sandor Solarys.
 
 ### N-02. Señor del Dominio frente a senescal
 
@@ -484,9 +468,9 @@ convierta en tiranía.
 **Acumulación:** clasifica el Edicto como «propuesta avanzada, pendiente de
 confirmación» ([acumulación:506-510](acumulacion-edad-de-la-tirania.md)).
 
-**Canon vigente:** Loryan Solaryss es su autor; el principio de que todos nacen
+**Canon vigente:** Loryan Solarys es su autor; el principio de que todos nacen
 libres e iguales ya está fijado y la Concordia lo codifica como ley imperial
-(`docs/casas/solaryss.md:18-21`;
+(`docs/casas/solarys.md:18-21`;
 `docs/mundo/stigria/dragma/concordia.md:14-20`). Solo su forma, texto y
 circunstancias detalladas siguen pendientes (`docs/pendientes.md:37-40`).
 
@@ -512,15 +496,15 @@ Suntarys volvió inaplicable la transición electoral. También debe aclararse s
 el Edicto comenzó la rebelión política o si Lamya inició mucho después la
 rebelión armada.
 
-### N-26. Sylas Solarys/Solaryss colisiona con un personaje canónico posterior
+### N-26. Sylas y Dyas colisionan con un personaje canónico posterior
 
 **Acumulación:** Sylas es hermano de Layna, tío y tutor de Loryan, espía de la
 Sish Tábura, rescatista de los cuerpos y portavoz en el tercer Stamengherin.
 
-**Canon vigente:** Sylas Solaryss es el tatarabuelo de Sandor, explorador que
+**Canon vigente:** Sylas Solarys es el tatarabuelo de Sandor, explorador que
 visitó Erebia y cuyo diario permitió escribir las Crónicas
-(`docs/casas/solaryss.md:25-32`;
-`docs/personajes/sandor-solaryss.md:26-33`). Entre el primer imperio y el presente
+(`docs/casas/solarys.md:25-32`;
+`docs/personajes/sandor-solarys.md:26-33`). Entre el primer imperio y el presente
 transcurren decenas de reinados; el tercer emperador Mormund vivió alrededor de
 mil seiscientos años antes del presente según otras fichas canónicas.
 
@@ -531,7 +515,7 @@ personaje sin explicar una longevidad extraordinaria.
 ### N-27. Dorian/Doryan y Einar duplicado
 
 **Acumulación:** Loryan usa la identidad `Dorian`; el nombre no sigue la regla
-vigente del Verano y se aproxima a **Doryan Solaryss**, padre actual de Sandor.
+vigente del Verano y se aproxima a **Doryan Solarys**, padre actual de Sandor.
 Además, Einar, amante de Loryan, muere en Suntarys, pero la tabla nombra a un
 **Einar Fjord** como primer rey de Kyst
 ([acumulación:393-426](acumulacion-edad-de-la-tirania.md),
@@ -551,8 +535,8 @@ pero Sylas conserva el apellido Solarys después de dejar de pertenecer a ella
 
 **Canon vigente:** una Tábura es una asociación de cualquier naturaleza; no se
 documenta una renuncia universal. Sandor pertenece a la Sish Tábura y a la Casa
-Solaryss al mismo tiempo (`docs/taburas/tabura.md:3-10`;
-`docs/personajes/sandor-solaryss.md:3-10`).
+Solarys al mismo tiempo (`docs/taburas/tabura.md:3-10`;
+`docs/personajes/sandor-solarys.md:3-10`).
 
 **Decisión necesaria:** descartar la regla universal, limitarla a una orden o
 periodo concreto, o reconstruir la afiliación de Sandor y otros miembros. Si

@@ -33,10 +33,8 @@
   hitos, estados generales, relaciones territoriales y secuencias generales.
   La narración continua, las campañas detalladas y las historias completas
   reservadas por `AGENTS.md` quedan fuera de su alcance.
-- La acumulación registrará también las normalizaciones de grafía que deberán
-  aplicarse al trasladar sus acuerdos al canon. La grafía `Solaryss` será
-  sustituida por `Solarys`; las nuevas referencias de esta acumulación usarán
-  `Solarys` desde ahora.
+- La grafía `Solarys` es la única forma del linaje; las nuevas referencias de
+  esta acumulación la usarán desde ahora.
 - Queda pendiente establecer una convención onomástica clara para la Tierra
   de la Bruma. Hasta que se defina, los nombres brumenses nuevos se
   considerarán provisionales y no se formalizarán en el canon.
@@ -839,7 +837,7 @@ según el pacto contra la herencia.
 | Sturmgard | **Rey Ragnor Falken**, Rey de la Tormenta | **Haldor Reisner** |
 | Lysarya | **Rey Leontys Corinthyos**, Rey de la Roca | **Myrthya Phaedryss** |
 | Zephyrya | **Rey Aurelyon Zephyryon**, Rey del Ocaso | **Calystha Moryss** |
-| Vesperya | **Rey Marcellus Valeryus**, Rey del Tridente | **Nerathys Solaryss** |
+| Vesperya | **Rey Marcellus Valeryus**, Rey del Tridente | **Nerathys Solarys** |
 | Veleskaria | **Rey Mihai Enescu**, Rey del Fulgor | **Sorina Danescu** |
 | Sindria | **Rey Dorin Goros**, Rey del Foso | **Katerina Hasvanka** |
 | Kyst | **Rey Einar Fjord**, Rey de la Costa Gris | **Sigrid Vaer** |

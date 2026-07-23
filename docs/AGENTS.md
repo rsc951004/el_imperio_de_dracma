@@ -85,8 +85,8 @@ reglas propias, más estrictas que las del resto del imperio.
 
 | # | Regla | Transformación | Ejemplo |
 |---|-------|---------------|---------|
-| 1 | **y griega** | Toda `i` → `y`. Si el nombre tiene dos íes, la primera se queda latina, la segunda pasa a griega. | Solaryss → Solaryss, Cassyus → Cassyus |
-| 2 | **doble ese** | Toda `s` que antecede a `y` se duplica: `s+y` → `ssy`. También aplica si `y` antecede a `s`: `y+s` → `yss`. | Drussyo → Drussyo, Solarys → Solaryss |
+| 1 | **y griega** | Toda `i` → `y`. Si el nombre tiene dos íes, la primera se queda latina, la segunda pasa a griega. | Solarys → Solarys, Cassyus → Cassyus |
+| 2 | **doble ese** | Dentro de una palabra, `s+y` se escribe `ssy` y `y+s` se escribe `ys`. La regla no duplica una ese inicial o final. | Drussyo → Drussyo, Solarys → Solarys |
 | 3 | **te con hache** | Toda `t` que antecede a `y` añade `h`: `t+y` → `thy`. | Celesthya → Celesthya, Venthyss → Venthyss |
 | 4 | **efe con hache** | Toda `f` que antecede a `y` se escribe `phy`. | (sin ejemplos canónicos actuales) |
 

@@ -7,7 +7,7 @@ Casa real
 Lysarya (Costas del Verano)
 
 ## Historia y descripción
-Casa reinante de Lysarya. Custodia la mística Solaryss y la Triple Corona. La
+Casa reinante de Lysarya. Custodia la mística Solarys y la Triple Corona. La
 relación histórica de ambas con Suntarys permanece pendiente.
 
 ## Título

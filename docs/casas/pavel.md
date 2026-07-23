@@ -20,4 +20,4 @@ Tercera y actual dinastía imperial de Dragma. Electa por el Stamengherin tras e
 
 - **Stanis Pavel** — Primer emperador Pavel.
 - **Pieter Pavel** — Quinto y actual emperador. Primo de Vera Pavel.
-- **Vera Pavel** — Prima del actual emperador. Renunció a sus derechos hereditarios imperiales al unirse a la Casa Solaryss.
+- **Vera Pavel** — Prima del actual emperador. Renunció a sus derechos hereditarios imperiales al unirse a la Casa Solarys.

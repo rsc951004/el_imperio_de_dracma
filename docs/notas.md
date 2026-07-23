@@ -2,6 +2,28 @@
 
 ## Revisiones editoriales
 
+### Normalización de Solarys (2026-07-23)
+
+Se establece `Solarys` como la única grafía de la casa y del linaje. La regla
+del Verano aplica `ssy` y `ys` únicamente a combinaciones internas; no duplica
+una ese inicial o final. Se renombraron las fichas de la Casa Solarys y de
+Sandor Solarys, y se actualizaron índices, enlaces y referencias canónicas.
+
+### Guías onomásticas del Hierro, los Dominios Carmesíes y la Bruma (2026-07-23)
+
+Se crearon las guías `nombres-del-hierro.md`, `nombres-carmesi.md` y
+`nombres-de-la-bruma.md` en `docs/mundo/stigria/dragma/`, y se enlazaron desde
+el índice del mundo. Establecen, respectivamente, una sonoridad germánica;
+rumana con aportes búlgaros; y danesa-islandesa de tono vikingo. Las tres exigen
+transformaciones leves para evitar nombres reales sin alterar la legibilidad o
+castellanizar en exceso. Se usarán para revisar los nombres fundadores antes de
+crear fichas; no modifican automáticamente nombres canónicos existentes. La
+guía del Hierro incorpora una cantera común de nombres sin clasificaciones.
+La guía de los Dominios Carmesíes incorpora patrones fonéticos y una cantera
+única de nombres y casas, también sin clasificaciones.
+La guía de la Bruma incorpora una cantera de nombres y otra de casas y clanes,
+además de sus grupos consonánticos y terminaciones característicos.
+
 ### Guía onomástica de los Reinos del Verano (2026-07-22)
 
 Se trasladó la cantera de nombres del Verano desde la mesa de trabajo a
@@ -10,6 +32,18 @@ fonéticas y gráficas compartidas, las excepciones territoriales de Lysarya y
 Zephyrya y una cantera neutral para personajes y linajes futuros. Las guías de
 Lysarya, Zephyrya y Vesperya remiten ahora a esta fuente común. El traslado no
 modifica automáticamente ningún nombre canónico ya existente.
+
+El 23 de julio de 2026 se añadió una cantera complementaria ajustada a las
+reglas vigentes de `i`/`y`, `ssy`, `ys`, `thy` y `phy`. Tampoco modifica de
+forma automática los nombres canónicos existentes.
+
+Ese mismo día se corrigieron en la cantera complementaria las formas
+`Mirandys`, `Dimethys`, `Kalistrys` y `Valiryos`: al contener dos sonidos de
+`i`, emplean `i` latina en el primero y `y` griega solo en el siguiente.
+
+Las cuatro guías establecen que los nombres derivados de un reino se reservan en
+la práctica a la nobleza y a sus parentescos reconocidos; usarlos sin ese
+vínculo se considera vulgar.
 
 ### Límite de asentamiento de la Edad de la Tiranía (2026-07-19)
 
@@ -310,7 +344,7 @@ Definición del autor:
 | 2026-07-15 | **Malakia y el Paso del Oriente depurados.** Malakia queda como reino histórico gobernado por la Casa Ormur, sin una subetnia fundadora añadida. Sindria conserva únicamente su herencia de Malakia Occidental. Eliminada la ficha obsoleta de la antigua subetnia oriental y corregidas la cronología, las casas Ormur y Goros, Alastor Ormur, El Modrig, Esteria, el tablero y los índices canónicos. La identidad de los Kystvaer permanece circunscrita a Kyst, Lyng y Bjorn. |
 | 2026-07-15 | **Estigria renombrada como Stigria.** Sustituida la denominación anterior en todo el canon y actualizadas todas las referencias cruzadas. La carpeta principal pasó a `docs/mundo/stigria/`; la ficha continental y el archivo geográfico pasaron a llamarse `stigria.md` y `stigria.geojson`. No se modificaron las protoversiones ni los recursos auxiliares no canónicos. |
 | 2026-07-14 | **Reimaginación profunda de Vesperya.** El reino del desafío. Geografía: costas rocosas y cálidas, puertos naturales. Clima más cálido del Verano. La Tríada: tres arcos de piedra de la Edad de los Mil Reinos que marcan la entrada al estrecho (antes Estrecho de Vespa, ahora Estrecho de la Tríada). Solo el tramo mar→Bahía de los Reyes es navegable; río arriba es poco profundo y rocoso. Concepto: hedonismo, libertad, no-monogamia, indiferencia al linaje. Relación con Zefirya: deseo de «morder la manzana perfecta» —atracción desproporcionada posiblemente por magia de Portadores—. Malhablados entre sí, corteses con extranjeros hasta el segundo trago. Ven a Ylumarya como aburrida y estirada. Economía: comercio marítimo, peaje del estrecho, control de contrabando. Ningún barco entra al imperio sin autorización vesperiana. Flota mixta: galeras pesadas en el estrecho, naves rápidas en mar abierto. No combatieron en la Guerra de los Hermanos por orden imperial. Afecta: vesperya.md, 12-reinos.md. |
-| 2026-07-14 | **Sistema de nombres de las Costas del Verano.** Documentadas las 5 reglas fonéticas (y griega, doble ese ssy/yss, te con hache thy, efe con hache phy) y las reglas semánticas (temas: amor, luz, sol, primavera, flores, alegría, belleza; Ylumarya añade calma/paz/nobleza, Vesperya añade valentía/gallardía). Los comunes llevan nombres más simples; está mal visto aparentar nobleza mediante el nombre. Aplicadas las reglas a TODO el canon: renombrados 6 archivos de casas (Solaris→Solaryss, Ventys→Venthyss, Drusio→Drussyo, Valerius→Valeryus, Zephyrion→Zephyryon, Corintyos→Corinthyos), 11 archivos de personajes (Cassius→Cassyus, Helio→Helyo, Celestya→Celesthya, Octavia→Octavya, Dorian→Doryan, Lorian→Loryan, Coralys→Coralyss, Thalysa→Thalyssa, Nerysa→Neryssa, etc.), y todas las referencias cruzadas en 40+ archivos. Valerius Umbra (Aurelia, Tierras Antiguas) preservado sin cambios. Afecta ~150 ocurrencias. Documentado en AGENTS.md y las 3 guías de reinos. |
+| 2026-07-14 | **Sistema de nombres de las Costas del Verano.** Documentadas las 5 reglas fonéticas (y griega, doble ese ssy/ys, te con hache thy, efe con hache phy) y las reglas semánticas (temas: amor, luz, sol, primavera, flores, alegría, belleza; Ylumarya añade calma/paz/nobleza, Vesperya añade valentía/gallardía). Los comunes llevan nombres más simples; está mal visto aparentar nobleza mediante el nombre. Aplicadas las reglas a TODO el canon: renombrados 6 archivos de casas (Solaris→Solarys, Ventys→Venthyss, Drusio→Drussyo, Valerius→Valeryus, Zephyrion→Zephyryon, Corintyos→Corinthyos), 11 archivos de personajes (Cassius→Cassyus, Helio→Helyo, Celestya→Celesthya, Octavia→Octavya, Dorian→Doryan, Lorian→Loryan, Coralys→Coralyss, Thalysa→Thalyssa, Nerysa→Neryssa, etc.), y todas las referencias cruzadas en 40+ archivos. Valerius Umbra (Aurelia, Tierras Antiguas) preservado sin cambios. Afecta ~150 ocurrencias. Documentado en AGENTS.md y las 3 guías de reinos. |
 | 2026-07-14 | **Guerra de los Hermanos — versión definitiva.** Bando corregido: Zefirya + Alessya contra Ylumarya (no contra Vesperya). Detonante: Daryón Coralys pacta con Kleóndras Aetheryon el matrimonio de Thalysa Coralys y Astryón Aetheryon para unir Alessya a Zefirya. Thalysa, amante secreta de Eryk Albyon (príncipe de Ylumarya) y embarazada, huye con él hacia Kalos. Nunca llegan —el misterio de los Príncipes Perdidos—. Acusaciones cruzadas desatan la guerra. Ylumarya invade Zefirya. Edrik Mormund (5.º) contiene la escalada: prohíbe a Vesperya combatir (deber de guardián de Eldengaria), frena a Sturmgard. Ejecuta a ambos reyes —Kleóndras y Kyros Albyon— y proscribe del Dex Códice a las casas Aetheryon, Albyon y Coralys. Stamengerin nombra Corintyos (Ylumarya), Zephyrion (Zefirya) y convierte Alessya en principado protectorado con Príncipe Guardián. Creados 4 nuevos personajes: Kyros, Eryk, Thalysa, Astryón. Corregidos Kleóndras, Daryón, Edrik. Alesya reescrita: deja de ser aldea de pescadores; es principado rico. Nerysa Undavos actualizada como hija del Príncipe Guardián. Afecta 15+ archivos. |
 | 2026-07-14 | **Reimaginación de las Costas del Verano.** Primera fase. Cambios: (1) Lumarya renombrada a Ylumarya, nombre valgard Yliumgard, reposicionada al norte del Verano. (2) Zefirya: nombre valgard corregido de Zefigard a Zephyrgard. (3) Vesperya: nombre valgard corregido de Elygard a Vesphyrgard, reposicionada al sureste, nuevo concepto como guardián del Estrecho de Vespa y escudo naval de Eldengaria. (4) Alesya totalmente reimaginada: deja de ser protectorado con Fortaleza del Sol y residencia secundaria. Ahora es la cuna de los Hijos del Sol, con las ruinas de Suntaris y una aldea de pescadores gobernada por un Gran Senescal. Nerysa Undavos pasa a ser hija del Gran Senescal. (5) Descanonizada la «inspiración astriana» de la flota de Vesperya. Para los Hijos del Sol, Astria es la «ramera de la sombra». (6) Descanonizado el cambio uniforme de sufijos -gard: cada grupo de reinos tuvo su propia transformación. (7) Nuevo origen de los Hijos del Sol: esclavos escapados de tres islas de Astria que se fundieron en Suntaris (Alesya). Escudo de Kalos contra peregrinaciones negras. (8) Suntaris movida al continente → isla de Alesya. Destrucción fue anunciada, población ya evacuada. (9) El detonante de la rebelión del Amanecer en el Verano queda como caja negra del lore. (10) Geografía nueva: Estrecho de Vespa al este de Vesperya, Bahía de los Reyes, puerto de Eldengaria. (11) Capitales, casas y títulos de los tres reinos del Verano marcados como pendientes de reimaginación profunda. Afecta 20+ archivos. |
 | 2026-07-13 | **Mapa político inicial de Stigria.** Creado el visor técnico no canónico `herramientas/mapa-estigria/index.html`, con costas y fronteras orgánicas aproximadas a partir de la referencia visual. No utiliza la cuadrícula rectangular de `stigria.geojson` como geometría. |

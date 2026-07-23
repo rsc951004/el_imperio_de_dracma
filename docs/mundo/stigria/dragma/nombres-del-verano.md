@@ -32,6 +32,14 @@ aplica el resto de las reglas del Verano:
 - **Lisaryo**, **Lisarys**, **Lisaryon**.
 - **Zephiryo**, **Zephiryos**, **Zephiryon**.
 
+## Restricción social de los nombres territoriales
+
+Adoptar un nombre claramente emparentado con el de un reino se considera vulgar
+si la persona no pertenece a la nobleza ni tiene parentesco reconocido con una
+casa noble o real. Esta restricción alcanza, entre otras, las formas derivadas
+de Lysarya y Zephyrya. No impide su uso legítimo por las familias nobles y
+reales vinculadas al territorio.
+
 ## Cantera de nombres
 
 Los siguientes nombres están disponibles para personajes y linajes procedentes
@@ -67,6 +75,122 @@ narrativa.
 - Kassandrya
 - Diomydys
 - Arys
+
+## Cantera complementaria
+
+Los siguientes nombres están disponibles como formas ya ajustadas a las reglas
+del Verano. Su uso no asigna origen, oficio, época ni función narrativa.
+
+- Lisaryon
+- Lisarys
+- Lisaryos
+- Lisarydor
+- Lisarythos
+- Zephiryon
+- Zephiryos
+- Zephiryth
+- Zephirakys
+- Alykthos
+- Alyphoros
+- Atherys
+- Athyron
+- Doryphas
+- Dorythos
+- Elykar
+- Elyphos
+- Elythos
+- Ektoryon
+- Ikaryon
+- Ikarystos
+- Ilythor
+- Iryphon
+- Kalythor
+- Kallyphos
+- Kyphoros
+- Kytharos
+- Lykandros
+- Lykathos
+- Lykaryon
+- Myrythos
+- Mykaron
+- Nykathys
+- Nytharon
+- Oryphas
+- Orythos
+- Olykar
+- Pharythos
+- Phylakys
+- Phyryon
+- Rhygoras
+- Rhythyon
+- Selyphos
+- Sytherys
+- Thalykys
+- Thyryon
+- Thyrakos
+- Xyphoros
+- Xytharos
+- Asteryon
+- Astherys
+- Kassyron
+- Myssador
+- Odykar
+- Prythos
+- Telyphor
+- Therakys
+- Dymythos
+- Arysthon
+- Kyrenys
+- Nysythor
+- Argyros
+- Arylyon
+- Kyryadon
+- Kalistrys
+- Lykaryos
+- Lysandyr
+- Lysyphor
+- Mirandys
+- Myryon
+- Myrthys
+- Nykandros
+- Nykorys
+- Nythoras
+- Oryntas
+- Oryphos
+- Olythos
+- Pharys
+- Phylanor
+- Pyrakys
+- Rhygon
+- Rhymenos
+- Selythos
+- Sytharon
+- Sylyon
+- Thalyros
+- Thyrakys
+- Xanthyr
+- Xyryan
+- Zepharyos
+- Zephyryon
+- Ilyndros
+- Irythos
+- Iphyryon
+- Daryphon
+- Dimethys
+- Melythos
+- Melykar
+- Oryssyon
+- Valiryos
+- Varython
+- Elythor
+- Elyndros
+- Kytheros
+- Neryphon
+- Orysthen
+- Phaelys
+- Rytheon
+- Soryphos
+- Talyndor
 
 ## Aplicación editorial
 

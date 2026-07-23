@@ -89,6 +89,9 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | La Concordia | Reformas | Cuerpo de reformas de Vilem Mormund que refundaron el pacto social del imperio. | [Ver ficha](mundo/stigria/dragma/concordia.md) |
 | Stamengherin | Institución | Asamblea extraordinaria que resuelve cambios dinásticos y puede reformar la estructura territorial o política del imperio. | [Ver ficha](mundo/stigria/dragma/stamengherin.md) |
 | Nombres de los Reinos del Verano | Guía onomástica | Reglas fonéticas, gráficas y cantera común de nombres para las tierras del Verano. | [Ver ficha](mundo/stigria/dragma/nombres-del-verano.md) |
+| Nombres del Valle de Hierro | Guía onomástica | Sonoridad germánica y reglas de transformación para los territorios del Hierro. | [Ver ficha](mundo/stigria/dragma/nombres-del-hierro.md) |
+| Nombres de los Dominios Carmesíes | Guía onomástica | Sonoridad rumana con aportes búlgaros y reglas de transformación para los territorios Carmesíes. | [Ver ficha](mundo/stigria/dragma/nombres-carmesi.md) |
+| Nombres de la Tierra de la Bruma | Guía onomástica | Sonoridad danesa-islandesa y reglas de transformación para los territorios de la Bruma. | [Ver ficha](mundo/stigria/dragma/nombres-de-la-bruma.md) |
 | Tierras Intermedias | Territorio | Territorios sin dueño del Gherin. Páramos, costas y tierras entre reinos. Bienes comunes. | Pendiente |
 
 #### Los 12 Reinos
@@ -122,7 +125,7 @@ La Rebelión del Amanecer pertenece a la Edad de la Tiranía. Derrotó a Grimar 
 
 Los tres reinos del Verano comparten una raíz en los Hijos del Sol y en la
 Costa del Verano: **Lysarya** (el más septentrional, pastoreo y puente con el
-Hierro), **Zephyrya** (planicies del suroeste, flor del Verano, Casa Solaryss
+Hierro), **Zephyrya** (planicies del suroeste, flor del Verano, Casa Solarys
 sin corona y técnica de Loryan) y **Vesperya** (el más oriental y más pequeño,
 guardián del Estrecho de la Tríada y la Bahía de los Reyes). Durante la Edad de
 Plata, Rudgar dividió Dürr en Lysgard, Zephyrgard y Vespergard. La evolución de

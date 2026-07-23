@@ -58,8 +58,8 @@ Regido por la Casa Zephyryon. El rey reinante es **Cassyus Zephyryon ★**, Rey 
 ## Historia
 Durante el Raikim, el territorio recibió el nombre de **Zephyrgard**. La
 formación de Zephyrya como reino y su relación con Suntarys permanecen
-pendientes. Alberga a la **Casa Solaryss** como casa noble sin corona. En sus
-planicies se mantiene vivo el arte de Loryan Solaryss: la técnica de deslizarse
+pendientes. Alberga a la **Casa Solarys** como casa noble sin corona. En sus
+planicies se mantiene vivo el arte de Loryan Solarys: la técnica de deslizarse
 sobre las corrientes de aire, preservada por generaciones de Invocadores.
 
 ### La Guerra de los Hermanos

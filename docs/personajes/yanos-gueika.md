@@ -28,8 +28,8 @@ Guardia de la Ciudadela de Khalos. Antes de la muerte de su padre, consideró en
 
 Su vida como guardia no es falta de capacidad: es el resultado de una pérdida y una decisión asumida por deber.
 
-## Relación con Sandor Solaryss
-Se conocieron cuando Sandor era adolescente. Yanos lo rescató de un asalto en un barrio apartado de Khalos. Al principio lo confundió con una muchacha —la belleza Solaryss lo engañó— y lo dijo en voz alta. Sandor se ofendió muchísimo. Yanos se disculpó diciendo que nunca había visto a un chico tan hermoso. Eso desarmó a Sandor.
+## Relación con Sandor Solarys
+Se conocieron cuando Sandor era adolescente. Yanos lo rescató de un asalto en un barrio apartado de Khalos. Al principio lo confundió con una muchacha —la belleza Solarys lo engañó— y lo dijo en voz alta. Sandor se ofendió muchísimo. Yanos se disculpó diciendo que nunca había visto a un chico tan hermoso. Eso desarmó a Sandor.
 
 Desde entonces construyeron una amistad cercana, ambigua, llena de cosas no dichas. Yanos no rechaza a Sandor, pero tampoco declara nada. Su tono es lo bastante cálido para que Sandor se pregunte si hay algo más, y lo bastante contenido para que nunca tenga certeza.
 
@@ -38,10 +38,10 @@ Yanos invitó a Sandor a su casa. Sandor encontró allí lo que le faltaba en la
 Yanos desconoce que Sandor se declaró años antes a Armin Mormund y fue rechazado. Esa experiencia contribuye al silencio de Sandor, aunque la atracción entre Sandor y Yanos es mutua.
 
 ## Relaciones
-- **Sandor Solaryss:** Amistad cercana, ambigua, con una atracción mutua no declarada.
+- **Sandor Solarys:** Amistad cercana, ambigua, con una atracción mutua no declarada.
 - **Lander Kamus:** Amigo de infancia. Piromante. Representa la vida común y la espontaneidad que Sandor no posee.
 - **Freya Fenec:** Su madre. Pregunta constantemente por Sandor.
 
 ## Referencias
-- `docs/personajes/sandor-solaryss.md`
+- `docs/personajes/sandor-solarys.md`
 - `docs/casas/gueika.md`

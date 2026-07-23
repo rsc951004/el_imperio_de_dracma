@@ -26,7 +26,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
-| Sandor Solaryss | Cronista | Erudito de Khalos, autor de las *Crónicas*. No es portador. Noble de la Casa Solaryss. | [Ver ficha](personajes/sandor-solaryss.md) |
+| Sandor Solarys | Cronista | Erudito de Khalos, autor de las *Crónicas*. No es portador. Noble de la Casa Solarys. | [Ver ficha](personajes/sandor-solarys.md) |
 | Yanos Gueika | Soldado | Guardia de la Ciudadela de Khalos. Casa común Gueika (Bjorn). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |
 | Rudgar Valgard | Personaje histórico | Vencedor del Rey Podrido, primer Raik y fundador del Raikim unificado. | [Ver ficha](personajes/rudgar-valgard.md) |
 | Astrid | Personaje histórico | Esposa desaparecida de Rudgar durante la conquista del Gherin. | [Ver ficha](personajes/astrid.md) |
@@ -44,7 +44,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Tanyaro Mano de Serpiente | Personaje legendario | Contenido reservado a su ficha de canon velado. | [Ver ficha](personajes/tanyaro-mano-de-serpiente.md) |
 | Alastor Ormur | Personaje histórico | Miembro de la Casa Ormur pendiente de reubicación histórica. | [Ver ficha](personajes/alastor-ormur.md) |
 | Rey Podrido | Entidad soberana | Gobernante del Reino Podrido. Confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |
-| Armin Mormund | Noble y espadachín | Miembro actual de la Casa Mormund y maestro de Sandor Solaryss. | [Ver ficha](personajes/armin-mormund.md) |
+| Armin Mormund | Noble y espadachín | Miembro actual de la Casa Mormund y maestro de Sandor Solarys. | [Ver ficha](personajes/armin-mormund.md) |
 | Lumino Therin | Personaje histórico | Último señor de la Casa Therin en Esteria. Despojado durante el Gran Concilio del Hielo. | [Ver ficha](personajes/lumino-therin.md) |
 | Stancu Radanescu | Personaje histórico | Señor de Sindgard durante el Gran Concilio del Hielo. | [Ver ficha](personajes/stancu-radanescu.md) |
 | Andrey Radanescu | Personaje histórico | Heredero de Sindgard y aprendiz de la Guardia Amarilla. | [Ver ficha](personajes/andrey-radanescu.md) |

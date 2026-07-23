@@ -14,7 +14,7 @@ De ese miedo surgió la convicción de que su casa y su dinastía no merecían e
 ## Principios fundamentales
 
 ### I. Todos los hombres nacen libres e iguales
-Codificación del Edicto del Amanecer de Loryan Solaryss como ley imperial permanente. El respeto al Emperador y a los Reyes se debe a su título y responsabilidad, no a su naturaleza. Son hombres, no dioses.
+Codificación del Edicto del Amanecer de Loryan Solarys como ley imperial permanente. El respeto al Emperador y a los Reyes se debe a su título y responsabilidad, no a su naturaleza. Son hombres, no dioses.
 
 ### II. El Emperador y los Reyes son servidores
 Deben a sus súbditos primero, y a su imperio o reino después. Su deber es proteger y administrar la paz, la seguridad y el bienestar de todos los habitantes.
@@ -202,4 +202,4 @@ La Concordia transformó Dragma de una imposición forjada en la guerra a un pac
 - Vilem Mormund.
 - Dex Tábura.
 - Stamengherin.
-- Edicto del Amanecer (Loryan Solaryss).
+- Edicto del Amanecer (Loryan Solarys).
