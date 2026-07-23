@@ -1401,3 +1401,87 @@ Las resoluciones S-01 a S-21 cubren los trece nudos de la segunda auditoría y
 los asentamientos complementarios necesarios para su coherencia. No quedan
 decisiones contradictorias dentro de esta sección. Los asuntos no desarrollados
 quedan señalados expresamente como reservados para etapas posteriores.
+
+## Plan de volcamiento
+
+Este plan es un inventario editorial. No autoriza por sí mismo ninguna creación,
+modificación o retiro de fichas canónicas. Cada bloque requerirá aprobación
+humana antes de ejecutarse.
+
+### P-01. Estructura histórica e institucional
+
+| Operación prevista | Archivo canónico | Resoluciones de origen | Alcance del futuro cambio |
+|---|---|---|---|
+| Reescribir | `docs/mundo/stigria/edad-de-la-tirania.md` | S-01, S-05 a S-12, S-15, S-18 a S-21 | Incorporar los grandes hitos, estados políticos y relaciones territoriales aprobados, sin convertir la ficha en relato continuo. |
+| Modificar | `docs/cronologia.md` | S-01, S-07, S-12 y S-14 | Ajustar los hitos incompatibles, en especial la supervivencia de la línea de Astrid, y conservar solo la denominación Edad de Oro. |
+| Reescribir | `docs/mundo/stigria/dragma/stamengherin.md` | S-02, S-05 a S-08 | Sustituir la enumeración de los Stamengherin documentados y reflejar el régimen electivo anterior a la Concordia. |
+| Modificar | `docs/mundo/stigria/valgard.md` | S-07 y S-10 | Ajustar la caída pública de Valgard y evitar que la extinción política se formule como extinción biológica. |
+| Revisar y modificar solo si procede | `docs/mundo/stigria/edad-de-plata.md` | S-02 y S-08 | Alinear el cierre de la Edad de Plata y los antecedentes de Esteria con el nuevo cómputo de Stamengherin y la promesa Frosthain. |
+| Revisar y modificar solo si procede | `docs/mundo/stigria/dragma/dragma.md` y `docs/mundo.md` | S-05, S-12 y S-14 | Comprobar que los resúmenes de fundación, capital y era imperial no contradigan las resoluciones. |
+| Modificar al ejecutar cualquier transferencia | `docs/notas.md` | Todas las resoluciones transferidas | Registrar cada cambio canónico realizado y sus sustituciones. |
+
+**Límite del bloque:** las biografías individuales, las casas, los reinos y las
+entidades se inventariarán en los bloques posteriores. Este bloque solo fija el
+marco temporal, institucional y territorial que condiciona esos documentos.
+
+### P-02. Territorios e instituciones
+
+| Operación prevista | Archivo canónico | Resoluciones de origen | Alcance del futuro cambio |
+|---|---|---|---|
+| Reescribir | `docs/mundo/stigria/dragma/esteria/esteria.md` | S-08, S-12 y S-21 | Ajustar la promesa hecha a Raban Frosthain, la cadena que llega a Drazar, la situación del Señor del Faro y la Guardia Amarilla, sin resolver el misterio de abrir Esteria. |
+| Reescribir | `docs/mundo/stigria/dragma/sindria/sindria.md` | S-08, S-11, S-16 y S-21 | Eliminar el culto público al Dios Negro, conservar la reclamación sobre Esteria y reflejar su relación territorial con Weissen. La Grien Tábura solo figurará en su alcance clandestino. |
+| Modificar | `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`, `docs/mundo/stigria/gherin.md` y `docs/mundo/stigria/foso-de-la-calamidad.md` | S-12 | Fijar la única relación espacial entre Dresk, Weissen, Dorn, el Espolón de Dunkel y las Puertas Rojas del Paso de Dresk. |
+| Reescribir | `docs/mundo/stigria/dragma/sturmgard/sturmgard.md` | S-18 a S-20 | Incorporar la Tormenta como leal oficialmente al Raikim con fractura interna tardía, la Voluntad de la Sal y la tradición cultural de Vitdrakiris. |
+| Modificar | `docs/mundo/stigria/dragma/lysarya/lysarya.md`, `docs/mundo/stigria/dragma/zephyrya/zephyrya.md` y `docs/mundo/stigria/dragma/vesperya/vesperya.md` | S-01, S-05, S-10 y S-15 | Integrar solo los antecedentes aprobados de Suntarys, Lamya y la continuidad de las casas; las historias particulares del Verano quedarán para el bloque de casas y personajes. |
+| Crear | `docs/taburas/grim-tabura.md` | S-15 | Ficha mínima de la Tábura independiente dedicada a la caza de Grimmen, sin desarrollar métodos ni estructura. |
+| Crear | `docs/taburas/grien-tabura.md` | S-11 y S-16 | Ficha mínima y de canon velado para la sociedad clandestina ligada a Thalmos y al Rey Podrido. |
+| Crear | `docs/taburas/moes-tabura.md` | S-15 | Ficha mínima de la Tábura formada tras la caída del Raikim por antiguos Portadores esclavizados, sin desarrollar su cometido. |
+| Modificar | `docs/taburas.md` | S-15 y S-16 | Incorporar los tres nuevos índices de Táburas con su categoría correcta: Grim independiente, Grien clandestina y Möes pendiente de desarrollo. |
+| Modificar | `docs/organizaciones/guardia-amarilla.md` | S-08 y S-12 | Ajustar el gobierno provisional de Esteria y el puesto formalmente vacante del Señor del Faro. |
+
+**Límite del bloque:** no se trasladarán aún biografías, genealogías ni las
+reglas completas de las nuevas Táburas. La creación de sus fichas solo será
+procedente cuando se ejecute el volcamiento aprobado.
+
+### P-03. Casas, personajes y entidades
+
+| Operación prevista | Archivo canónico | Resoluciones de origen | Alcance del futuro cambio |
+|---|---|---|---|
+| Modificar | `docs/personajes/astrid.md`, `docs/personajes/rudgar-valgard.md` y `docs/personajes/grimar-valgard.md` | S-05 a S-07 | Ajustar la supervivencia velada de las dos líneas Valgard, la condición de Katerina y el destino final de Grimar. |
+| Crear | Fichas históricas de Loryan Solarys, Sweyn, Soren, Caelyon, Ragnela, Brandulf, Katerina y Giselra | S-01, S-03, S-05, S-07 y S-09 | Registrar solo la identidad, los vínculos y los hechos mínimos ya aprobados; las escenas y biografías extensas quedan reservadas. |
+| Modificar | `docs/personajes/rey-podrido.md` | S-05, S-06, S-11 y S-16 | Alinear su relación con Katerina, Lamya y la Grien Tábura, usando canon velado cuando corresponda. |
+| Crear | `docs/entidades/lamya.md`, `docs/entidades/joten.md` y `docs/entidades/vitdrakiris.md` | S-05, S-17 y S-18 | Fichas mínimas para Lamya, los Jöten y Vitdrakiris. No desarrollarán todavía su naturaleza completa ni las diferencias entre los Grimmen. |
+| Modificar | `docs/entidades/smurr.md` y `docs/entidades/ghera.md` | S-17 | Confirmar mediante canon velado que Smürr, la Serpiente de Ghera, es un Jöten, sin eliminar el carácter tradicional de los relatos gheran. |
+| Crear | Fichas de las casas fundadoras y presentes: Eberwulf, Reginvar, Gundrek, Fridvar, Lisaryon, Zephiryon, Thalyros, Voresk, Drazar, Velkar, Korzan, Mirandys, Kalistrys, Valiryos, Fjolvar, Kjarven y Hjorven | S-08 y S-10 | Fijar la continuidad autorizada de cada reino: fundadora → presente de la Edad de Oro. |
+| Revisar y reclasificar, sin eliminación automática | Casas y monarcas que hoy figuran como reinantes —Corinthyos, Zephyryon, Valeryus, Enescu, Goros, Reisner, Fjord, Korn y Borg— | S-10 | Retirar su condición de continuidad vigente solo cuando exista el reemplazo aprobado; conservarlas únicamente si reciben una función histórica compatible. |
+| Modificar | `docs/mundo.md`, `docs/personajes.md` y `docs/entidades.md` | S-01 a S-18 | Actualizar los índices al crear, sustituir o reclasificar fichas. |
+
+**Límite del bloque:** las casas no incluidas en la cadena fundadora → presente
+no se borrarán por esta planificación. Cualquier conservación histórica exigirá
+una decisión expresa y no se inferirá a partir de la documentación vigente.
+
+### P-04. Limpieza editorial y secuencia de ejecución
+
+| Operación prevista | Archivos canónicos | Alcance del futuro cambio |
+|---|---|---|
+| Revisar referencias cruzadas | Todo `docs/` | Localizar nombres, títulos, casas, cultos y conteos sustituidos antes de editar sus fichas de origen. |
+| Modificar índices | `docs/mundo.md`, `docs/personajes.md`, `docs/entidades.md`, `docs/taburas.md`, `docs/organizaciones.md` y `docs/12-reinos.md` | Incorporar fichas nuevas, retirar enlaces incompatibles y describir solo estados ya transferidos. |
+| Actualizar pendientes | `docs/pendientes.md` | Eliminar asuntos ya resueltos, convertir en reservas los desarrollos deliberadamente pospuestos y no presentar decisiones cerradas como abiertas. |
+| Resolver fichas desplazadas | Casas y monarcas afectados por S-10 | Antes de borrar, renombrar o descanonizar, decidir expresamente si cada ficha se reescribe, se conserva como histórica compatible o pasa a custodia descanonizada. |
+| Registrar el cambio | `docs/notas.md` | Añadir un registro por bloque transferido, indicando qué resoluciones se aplicaron y qué sustituciones produjeron. |
+| Auditoría final | Todo `docs/` | Comprobar enlaces, índices, marcas `CANON-VELADO`, grafías, coherencia entre cronología y fichas, y ausencia de las premisas sustituidas. |
+
+#### Secuencia segura para un volcamiento futuro
+
+1. Aprobar el bloque concreto del plan que se transferirá.
+2. Crear primero las fichas nuevas necesarias para que no queden enlaces rotos.
+3. Reescribir las fichas de marco y después las territoriales, institucionales y
+   personales afectadas.
+4. Actualizar índices, referencias internas, pendientes y `docs/notas.md`.
+5. Revisar las fichas desplazadas sin borrarlas ni descanonizarlas hasta contar
+   con una decisión expresa sobre cada una.
+6. Ejecutar una auditoría textual final antes de considerar cerrado el bloque.
+
+**Estado del plan:** P-01 a P-04 identifican el alcance del volcamiento, pero
+no constituyen autorización para realizarlo. La acumulación permanece como
+documento de mesa de trabajo hasta una orden humana específica.
