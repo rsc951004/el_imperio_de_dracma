@@ -98,20 +98,18 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 
 | # | Reino | Región | Casa | Título | Gobernante ★ | Ficha |
 |---|-------|------|------|-------|-------------|-------|
-| 1 | Eisengard | Hierro | Hammer | Rey/Reina del Yunque | Casa Hammer | [Ver ficha](mundo/stigria/dragma/eisengard/eisengard.md) |
-| 2 | Guldengard | Hierro | Gilden | Rey/Reina del Oro | Casa Gilden | [Ver ficha](mundo/stigria/dragma/guldengard/guldengard.md) |
-| 3 | Flemmengard | Hierro | Wolfen | Rey/Reina de la Llama | Rey Kaspar Wolfen | [Ver ficha](mundo/stigria/dragma/flemmengard/flemmengard.md) |
-| 4 | Sturmgard | Hierro | Reisner | Rey/Reina de la Tormenta | Rey Jorin Reisner | [Ver ficha](mundo/stigria/dragma/sturmgard/sturmgard.md) |
-| 5 | Lysarya | Costas del Verano | Corinthyos | Rey/Reina de la Roca | Reina Octavya Corinthyos | [Ver ficha](mundo/stigria/dragma/lysarya/lysarya.md) |
-| 6 | Veleskaria | Dresk | Enescu | Rey/Reina del Fulgor | Reina Ileana Enescu | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
-| 7 | Zephyrya | Costas del Verano | Zephyryon | Rey/Reina del Ocaso | Rey Cassyus Zephyryon | [Ver ficha](mundo/stigria/dragma/zephyrya/zephyrya.md) |
-| 8 | Kyst | Tierra de la Bruma | Fjord | Rey/Reina de la Costa Gris | Rey Skaer Fjord | [Ver ficha](mundo/stigria/dragma/kyst/kyst.md) |
-| 9 | Lyng | Tierra de la Bruma | Korn | Rey/Reina del Valle | Rey Ravn Korn | [Ver ficha](mundo/stigria/dragma/lyng/lyng.md) |
-| 10 | Vesperya | Costas del Verano | Valeryus | Rey/Reina del Tridente | Rey Marcus Valeryus | [Ver ficha](mundo/stigria/dragma/vesperya/vesperya.md) |
-| 11 | Sindria | Weissen | Goros | Rey/Reina del Foso | Rey Uriel Goros | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
-| 12 | Bjorn | Tierra de la Bruma | Borg | Rey/Reina del Bosque | Rey Skov Borg | [Ver ficha](mundo/stigria/dragma/bjorn/bjorn.md) |
-
-★ = gobernante reinante
+| 1 | Eisengard | Hierro | Eberwulf | Rey/Reina del Yunque | Pendiente | [Ver ficha](mundo/stigria/dragma/eisengard/eisengard.md) |
+| 2 | Guldengard | Hierro | Reginvar | Rey Dorado | Pendiente | [Ver ficha](mundo/stigria/dragma/guldengard/guldengard.md) |
+| 3 | Flemmengard | Hierro | Gundrek | Rey/Reina de la Llama | Pendiente | [Ver ficha](mundo/stigria/dragma/flemmengard/flemmengard.md) |
+| 4 | Sturmgard | Hierro | Fridvar | Rey/Reina de la Tormenta | Pendiente | [Ver ficha](mundo/stigria/dragma/sturmgard/sturmgard.md) |
+| 5 | Lysarya | Costas del Verano | Mirandys | Rey/Reina de la Roca | Rey Lykandros Mirandys | [Ver ficha](mundo/stigria/dragma/lysarya/lysarya.md) |
+| 6 | Veleskaria | Dresk | Korzan | Rey/Reina del Fulgor | Pendiente | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
+| 7 | Zephyrya | Costas del Verano | Kalistrys | Rey/Reina del Ocaso | Rey Dimethys Kalistrys | [Ver ficha](mundo/stigria/dragma/zephyrya/zephyrya.md) |
+| 8 | Kyst | Tierra de la Bruma | Fjolvar | Rey/Reina de la Costa Gris | Pendiente | [Ver ficha](mundo/stigria/dragma/kyst/kyst.md) |
+| 9 | Lyng | Tierra de la Bruma | Kjarven | Rey/Reina del Valle | Pendiente | [Ver ficha](mundo/stigria/dragma/lyng/lyng.md) |
+| 10 | Vesperya | Costas del Verano | Valiryos | Rey/Reina del Tridente | Rey Oryphos Valiryos | [Ver ficha](mundo/stigria/dragma/vesperya/vesperya.md) |
+| 11 | Sindria | Weissen | Velkar | Rey/Reina del Foso | Pendiente | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
+| 12 | Bjorn | Tierra de la Bruma | Hjorven | Rey/Reina del Bosque | Pendiente | [Ver ficha](mundo/stigria/dragma/bjorn/bjorn.md) |
 
 **Valle de Hierro** (1-4): Eisengard, Guldengard, Flemmengard y Sturmgard. Eisengard concentra el Verilium y la forja; Guldengard concentra el oro y la acuñación del Ghild.
 

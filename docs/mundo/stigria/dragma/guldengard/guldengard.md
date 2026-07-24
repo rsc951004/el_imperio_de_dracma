@@ -10,8 +10,10 @@ establecido durante la Edad de Plata.
 | Campo | Valor |
 |-------|-------|
 | **Capital** | Ghildheim |
-| **Casa real** | Gilden |
-| **Título** | Rey o Reina del Oro |
+| **Casa fundadora** | Gilden |
+| **Casa real** | Reginvar |
+| **Gobernante** | Pendiente |
+| **Título** | Rey Dorado |
 | **Región** | Valle de Hierro |
 
 ## Descripción
@@ -23,11 +25,17 @@ tesorerías del Raikim.
 ## Función imperial
 
 Guldengard se convirtió en el centro de acuñación del Ghild, la moneda nacida
-del comercio entre el Hierro y la Costa del Verano. La Casa Gilden mantiene la
-tesorería del Raik y conserva autoridad sobre las casas de mercaderes del valle.
+del comercio entre el Hierro y la Costa del Verano. Durante el Raikim, la Casa
+Gilden mantuvo la tesorería del Raik y la autoridad sobre las casas de
+mercaderes del valle.
+
+La Casa Gilden recibió la primera corona de Guldengard. En la Edad de Oro
+gobierna la Casa Reginvar. El motivo y las etapas del relevo permanecen
+reservados.
 
 ## Referencias
 
 - `docs/casas/gilden.md`
+- `docs/casas/reginvar.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/edad-de-plata.md`

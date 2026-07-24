@@ -5,7 +5,7 @@
 | Campo | Valor |
 |-------|-------|
 | **Nombre** | Valgard |
-| **Tipo** | Casa histórica (dinastía del Raikim). Extinta. |
+| **Tipo** | Casa histórica (dinastía del Raikim). Extinta de forma pública y política. |
 | **Territorio** | Eldengard y el Raikim histórico |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
@@ -38,8 +38,24 @@ del Amanecer. Grimar Valgard, decimoséptimo y último Raik, fue convertido en
 piedra antes de morir. Sobre las ruinas del Raikim se fundó el Imperio de
 Dragma.
 
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluidos los dos descendientes -->
+La sangre Valgard no se extinguió biológicamente. En la Edad de Oro sobrevive
+un descendiente de la línea de Astrid y Rudgar y otro de la línea de Grimar y
+Katerina. Ninguno conoce su ascendencia.
+<!-- CANON-VELADO: FIN -->
+
 ## Miembros relevantes
 
 - **Rudgar Valgard** — Primer Raik. El Martillo Sangriento.
 - **Drakar Valgard** — Segundo Raik. Hijo de Rudgar.
+- **Brandulf Valgard** — Decimosexto Raik. Padre de Grimar.
+- **Ragnela Valgard** — Tía de Grimar. Murió en Suntarys.
 - **Grimar Valgard** — Decimoséptimo y último Raik. Grimar de Piedra. Derrocado por la rebelión.
+
+## Referencias
+
+- `docs/personajes/historicos/brandulf-valgard.md`
+- `docs/personajes/historicos/ragnela-valgard.md`
+- `docs/personajes/grimar-valgard.md`
+- `docs/personajes/katerina.md`
+- `docs/mundo/stigria/edad-de-la-tirania.md`

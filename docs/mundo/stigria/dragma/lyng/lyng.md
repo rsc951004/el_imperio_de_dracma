@@ -10,8 +10,9 @@ Reino del Imperio de Dragma.
 |-------|-------|
 | **Nombre durante el Raikim** | Lynggard |
 | **Capital** | Brekk |
-| **Casa real** | Korn |
-| **Gobernante** | Ravn Korn |
+| **Casa fundadora** | Kjarven |
+| **Casa real** | Kjarven |
+| **Gobernante** | Pendiente |
 | **Título** | Rey o Reina del Valle |
 | **Bloque** | Amanecer |
 | **Región** | Tierra de la Bruma |
@@ -30,6 +31,9 @@ Las casas, silos y templos se construyen tradicionalmente con madera salvaje end
 
 Lyng existía antes del Raikim. Valgard lo conquistó y le impuso el nombre de Lynggard. Durante la Rebelión del Amanecer recuperó su nombre.
 
+La Casa Kjarven recibió la primera corona de Lyng y conserva la corona en la
+Edad de Oro.
+
 Los antepasados de los lyngardeses pertenecían a la Gente de la Bruma llegada
 desde Grimheim durante la Edad de la Podredumbre. Durante la penitencia del
 Raikim, las aldeas del interior se agruparon alrededor de Brekk y adoptaron Lyng
@@ -43,3 +47,4 @@ Agricultura, viñedos y pastoreo.
 
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
+- `docs/casas/kjarven.md`

@@ -1,3 +1,5 @@
+<!-- DESCANONIZADO | estado: pendiente de revisión para recanonización o eliminación definitiva -->
+
 # Neryssa Undavos
 
 ## Identidad

@@ -4,18 +4,18 @@
 
 | # | Reino | Casa | Región | Título | Gobernante |
 |---|-------|-------|--------|--------|------------|
-| 1 | Eisengard | Hammer | Valle de Hierro | Rey/Reina del Yunque | Casa Hammer |
-| 2 | Guldengard | Gilden | Valle de Hierro | Rey/Reina del Oro | Casa Gilden |
-| 3 | Flemmengard | Wolfen | Valle de Hierro | Rey/Reina de la Llama | Kaspar Wolfen |
-| 4 | Sturmgard | Reisner | Valle de Hierro | Rey/Reina de la Tormenta | Jorin Reisner |
-| 5 | Lysarya | Corinthyos | Costas del Verano | Rey/Reina de la Roca | Octavya Corinthyos |
-| 6 | Veleskaria | Enescu | Dresk | Rey/Reina del Fulgor | Ileana Enescu |
-| 7 | Zephyrya | Zephyryon | Costas del Verano | Rey/Reina del Ocaso | Cassyus Zephyryon |
-| 8 | Kyst | Fjord | Tierra de la Bruma | Rey/Reina de la Costa Gris | Skaer Fjord |
-| 9 | Lyng | Korn | Tierra de la Bruma | Rey/Reina del Valle | Ravn Korn |
-| 10 | Vesperya | Valeryus | Costas del Verano | Rey/Reina del Tridente | Marcus Valeryus |
-| 11 | Sindria | Goros | Weissen | Rey/Reina del Foso | Uriel Goros |
-| 12 | Bjorn | Borg | Tierra de la Bruma | Rey/Reina del Bosque | Skov Borg |
+| 1 | Eisengard | Eberwulf | Valle de Hierro | Rey/Reina del Yunque | Pendiente |
+| 2 | Guldengard | Reginvar | Valle de Hierro | Rey Dorado | Pendiente |
+| 3 | Flemmengard | Gundrek | Valle de Hierro | Rey/Reina de la Llama | Pendiente |
+| 4 | Sturmgard | Fridvar | Valle de Hierro | Rey/Reina de la Tormenta | Pendiente |
+| 5 | Lysarya | Mirandys | Costas del Verano | Rey/Reina de la Roca | Lykandros Mirandys |
+| 6 | Veleskaria | Korzan | Dresk | Rey/Reina del Fulgor | Pendiente |
+| 7 | Zephyrya | Kalistrys | Costas del Verano | Rey/Reina del Ocaso | Dimethys Kalistrys |
+| 8 | Kyst | Fjolvar | Tierra de la Bruma | Rey/Reina de la Costa Gris | Pendiente |
+| 9 | Lyng | Kjarven | Tierra de la Bruma | Rey/Reina del Valle | Pendiente |
+| 10 | Vesperya | Valiryos | Costas del Verano | Rey/Reina del Tridente | Oryphos Valiryos |
+| 11 | Sindria | Velkar | Weissen | Rey/Reina del Foso | Pendiente |
+| 12 | Bjorn | Hjorven | Tierra de la Bruma | Rey/Reina del Bosque | Pendiente |
 
 ## Regiones políticas
 
@@ -64,12 +64,12 @@ Dragma.
 | Flemmengard | Volcanes, actividad geotérmica y piromancia |
 | Sturmgard | Fiordos, tormentas y clima extremo |
 | Lysarya | Pastoreo, piedad y trabajo |
-| Veleskaria | Montaña, minería e industria |
+| Veleskaria | Blesk, refugio de Portadores y protección de Khalos |
 | Zephyrya | Belleza, serenidad y costas violetas |
 | Kyst | Puerto Gris, pesca y cielos nublados |
 | Lyng | Brezales, viñedos y agricultura |
 | Vesperya | Libertad, navegación y Estrecho de la Tríada |
-| Sindria | Culto al Dios Negro y reclamación sobre Esteria |
+| Sindria | Reclamación sobre Esteria y frontera de Weissen |
 | Bjorn | Comercio del sur y último bosque sagrado |
 
 ## Claves históricas

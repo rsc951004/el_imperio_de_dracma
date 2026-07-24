@@ -10,8 +10,9 @@ Reino del Imperio de Dragma.
 |-------|-------|
 | **Nombre durante el Raikim** | Kystgard |
 | **Capital** | Puerto Gris |
-| **Casa real** | Fjord |
-| **Gobernante** | Skaer Fjord |
+| **Casa fundadora** | Fjolvar |
+| **Casa real** | Fjolvar |
+| **Gobernante** | Pendiente |
 | **Título** | Rey o Reina de la Costa Gris |
 | **Bloque** | Amanecer |
 | **Región** | Tierra de la Bruma |
@@ -32,6 +33,9 @@ Las construcciones tradicionales utilizan madera salvaje endurecida con aceites 
 
 Kyst existía antes del Raikim. Valgard lo conquistó y le impuso el nombre de Kystgard. Durante la Rebelión del Amanecer recuperó su nombre.
 
+Aelvar Fjolvar recibió la primera corona de Kyst. La Casa Fjolvar conserva la
+corona en la Edad de Oro.
+
 Los antepasados de los kystianos pertenecían a la Gente de la Bruma llegada
 desde Grimheim durante la Edad de la Podredumbre. Durante la penitencia del
 Raikim, los asentamientos costeros se organizaron alrededor de Puerto Gris y
@@ -46,3 +50,4 @@ Pesca, salazón, redes y astilleros modestos.
 
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
+- `docs/casas/fjolvar.md`

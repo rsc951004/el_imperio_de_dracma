@@ -1,8 +1,8 @@
 # Acumulación de resoluciones de la Edad de la Tiranía
 
-> **Estado:** P-01, estructura histórica e institucional, y P-02, territorios e
-> instituciones, fueron transferidos al canon el 23 y el 24 de julio de 2026,
-> respectivamente. Los bloques posteriores requieren autorización humana
+> **Estado:** P-01, estructura histórica e institucional; P-02, territorios e
+> instituciones; y P-03, casas, personajes y entidades, fueron transferidos al
+> canon el 23 y el 24 de julio de 2026. P-04 requiere autorización humana
 > específica.
 >
 > **Naturaleza:** documento no canónico. Registra las decisiones humanas para
@@ -1453,6 +1453,10 @@ hechos mínimos aprobados.
 
 ### P-03. Casas, personajes y entidades
 
+> **Estado del bloque:** transferido al canon el 24 de julio de 2026. Las
+> fichas desplazadas quedaron en custodia descanonizada por decisión humana
+> expresa, sin eliminación.
+
 | Operación prevista | Archivo canónico | Resoluciones de origen | Alcance del futuro cambio |
 |---|---|---|---|
 | Modificar | `docs/personajes/grimar-valgard.md` | S-05 a S-07 | Ajustar la condición de Katerina, la continuidad velada de su línea con Grimar y el destino final del último Raik. Las correcciones directas de Astrid y Rudgar quedaron transferidas en P-01. |
@@ -1490,7 +1494,7 @@ una decisión expresa y no se inferirá a partir de la documentación vigente.
    con una decisión expresa sobre cada una.
 6. Ejecutar una auditoría textual final antes de considerar cerrado el bloque.
 
-**Estado del plan:** P-01 y P-02 fueron transferidos al canon el 23 y el 24 de
-julio de 2026, respectivamente. P-03 y P-04 identifican el alcance pendiente;
-la planificación de esos bloques no constituye autorización para realizarla.
-Este documento sigue siendo material no canónico.
+**Estado del plan:** P-01, P-02 y P-03 fueron transferidos al canon el 23 y el
+24 de julio de 2026. P-04 identifica el alcance pendiente; su planificación no
+constituye autorización para realizarla. Este documento sigue siendo material
+no canónico.

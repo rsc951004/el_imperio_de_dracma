@@ -10,9 +10,10 @@ Reino del Imperio de Dragma.
 |-------|-------|
 | **Nombre durante el Raikim** | Sindgard |
 | **Capital** | Bezdansk |
-| **Casa real** | Goros |
-| **Gobernante** | Uriel Goros |
-| **Título** | Rey del Foso |
+| **Casa fundadora** | Drazar |
+| **Casa real** | Velkar |
+| **Gobernante** | Pendiente |
+| **Título** | Rey o Reina del Foso |
 | **Región histórica** | Weissen |
 
 ## Territorio
@@ -40,8 +41,8 @@ pero no concede autoridad sobre Esteria, la Guardia Amarilla ni la Ruina.
 
 ## Gobierno
 
-La Casa Goros gobierna Sindria. Uriel Goros es el soberano reinante y su
-consorte es Ecaterina Cojocaru, originaria de Veleskaria.
+La Casa Drazar recibió la primera corona de Sindria. En la Edad de Oro gobierna
+la Casa Velkar. El motivo y las etapas del relevo permanecen reservados.
 
 ## Presencia clandestina
 
@@ -54,7 +55,8 @@ constituye un culto público, continuo ni oficial del reino.
 
 ## Referencias
 
-- `docs/casas/goros.md`
+- `docs/casas/drazar.md`
+- `docs/casas/velkar.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/taburas/grien-tabura.md`

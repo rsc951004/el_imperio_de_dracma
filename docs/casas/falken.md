@@ -5,16 +5,21 @@
 | Campo | Valor |
 |-------|-------|
 | **Nombre** | Falken |
-| **Tipo** | Casa noble menor |
+| **Tipo** | Casa real fundadora |
 | **Reino** | Sturmgard |
+| **Posición dinástica** | Casa fundadora |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
 | **Fundador** | Pendiente |
 
 ## Historia y descripción
 
-Casa noble de Sturmgard. Nombres de sonoridad germánica. Casa de origen del rey consorte de Flemmengard.
+La Casa Falken fue la casa dominante de Sturmgard durante el Raikim y recibió
+la primera corona del reino después de su caída. En la Edad de Oro la corona
+pertenece a la Casa Fridvar. El motivo y las etapas del relevo permanecen
+reservados.
 
-## Miembros relevantes
+## Referencias
 
-- **Marlo Falken**. Rey consorte de Flemmengard.
+- `docs/mundo/stigria/dragma/sturmgard/sturmgard.md`
+- `docs/casas/fridvar.md`

@@ -16,8 +16,9 @@ Tiranía. Stancu conservó el señorío después del Gran Concilio del Hielo, pe
 la casa perdió su fuerza militar y su heredero quedó en Esteria.
 
 Los hijos de Vedrik Frosthain se integraron en la casa por decreto de Eirik.
-La línea Radanescu terminó después de la crisis de Esteria y la Casa Goros
-ocupó el señorío de Sindgard.
+La línea Radanescu terminó después de la crisis de Esteria. La Casa Drazar
+gobernó Sindgard durante el final del Raikim y recibió después la primera
+corona de Sindria.
 
 ## Referencias
 

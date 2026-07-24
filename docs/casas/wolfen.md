@@ -5,9 +5,10 @@
 | Campo | Valor |
 |-------|-------|
 | **Nombre** | Wolfen |
-| **Tipo** | Casa real |
+| **Tipo** | Casa real fundadora |
 | **Reino** | Flemmengard |
 | **Bloque** | Hierro |
+| **Posición dinástica** | Casa fundadora |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
 | **Fundador** | Pendiente |
@@ -15,9 +16,15 @@
 
 ## Historia y descripción
 
-Casa real de Flemmengard. El noroeste volcánico del imperio. Su identidad está ligada al fuego, la actividad geotérmica y la piromancia. Permanecieron leales al Raikim durante la rebelión del Edicto del Amanecer. Economía basada en energía geotérmica y minería volcánica. Centro de estudios pirománticos. Nombres de sonoridad germánica.
+La Casa Wolfen fue la casa dominante de Flemmengard durante el Raikim y recibió
+la primera corona del reino después de su caída. En la Edad de Oro la corona
+pertenece a la Casa Gundrek. El motivo y las etapas del relevo permanecen
+reservados.
 
-## Miembros relevantes
+Su identidad histórica está vinculada al fuego, la actividad geotérmica y la
+piromancia del noroeste.
 
-- **Kaspar Wolfen** ★ — Rey de la Llama. Gobernante reinante.
-- **Marlo Falken** — Rey consorte. Originario de Sturmgard (Casa Falken).
+## Referencias
+
+- `docs/mundo/stigria/dragma/flemmengard/flemmengard.md`
+- `docs/casas/gundrek.md`

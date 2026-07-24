@@ -10,9 +10,9 @@ Reino del Imperio de Dragma.
 |-------|-------|
 | **Nombre durante el Raikim** | Sturmgard |
 | **Capital** | Nordvik |
-| **Casa fundadora** | Pendiente |
-| **Casa real** | Reisner |
-| **Gobernante** | Jorin Reisner |
+| **Casa fundadora** | Falken |
+| **Casa real** | Fridvar |
+| **Gobernante** | Pendiente |
 | **Título** | Rey o Reina de la Tormenta |
 | **Región histórica** | Sturm |
 
@@ -64,14 +64,17 @@ economía.
 
 ## Gobierno
 
-La Casa Reisner gobierna Sturmgard. Jorin Reisner es el soberano reinante y su
-consorte es Sabina Jaeger.
+La Casa Falken recibió la primera corona de Sturmgard. En la Edad de Oro
+gobierna la Casa Fridvar. El motivo y las etapas del relevo permanecen
+reservados.
 
 ## Referencias
 
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/organizaciones/bloque-de-hierro.md`
+- `docs/casas/falken.md`
+- `docs/casas/fridvar.md`
 
 ## Guía de nombres
 

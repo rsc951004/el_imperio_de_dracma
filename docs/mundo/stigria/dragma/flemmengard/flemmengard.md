@@ -10,8 +10,8 @@ Flemmengard
 ## Capital
 Askenburg
 ## Casa real
-- Fundadora: Pendiente
-- Actual: **Wolfen**
+- Fundadora: **Wolfen**
+- Actual: **Gundrek**
 
 ## Título del gobernante
 **Rey de la Llama** o **Reina de la Llama**. Forma abreviada entre monarcas: Rey Llama o Reina Llama. El título evoca el corazón volcánico del noroeste y la tradición piromántica del reino.
@@ -24,7 +24,9 @@ Askenburg
 
 
 ## Gobierno
-Regido por la Casa Wolfen. El rey reinante es **Kaspar Wolfen ★**, Rey de la Llama. Su consorte es el rey Marlo Falken, originario de Sturmgard (Casa Falken).
+La Casa Wolfen recibió la primera corona de Flemmengard. En la Edad de Oro
+gobierna la Casa Gundrek. La identidad del soberano reinante y las etapas del
+relevo permanecen pendientes.
 
 ## Historia
 Flemmengard fue uno de los cuatro reinos del Bloque de Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada al fuego, la actividad geotérmica y la piromancia.
@@ -37,6 +39,8 @@ Energía geotérmica y minería volcánica. Centro de estudios pirománticos.
 
 ## Referencias
 - `docs/12-reinos.md`
+- `docs/casas/wolfen.md`
+- `docs/casas/gundrek.md`
 
 ## Guía de nombres
 **Germánica.** Los nombres de personas y lugares de Flemmengard siguen la tradición germánica.

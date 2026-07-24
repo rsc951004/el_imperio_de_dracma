@@ -2,6 +2,25 @@
 
 ## Revisiones editoriales
 
+### Volcamiento P-03: casas, personajes y entidades (2026-07-24)
+
+Se completó el tercer bloque de la Edad de la Tiranía. Se
+crearon las fichas mínimas de los protagonistas históricos aprobados, de
+Katerina, de las coronas fundadoras y de los tres soberanos conocidos de la
+Edad de Oro en el Verano. También se documentaron Lamya, los Jöten y
+Vitdrakiris, y se ajustaron Grimar, el Rey Podrido, Smürr, Ghera y la Casa
+Solarys.
+
+Las continuidades dinásticas fundadora → presente quedaron aplicadas a los doce
+reinos. Las identidades individuales de los soberanos de la Edad de Oro que no
+fueron resueltas permanecen pendientes y no se inventaron.
+
+Por decisión humana expresa, las antiguas fichas de casas, monarcas, consortes
+y linajes dependientes desplazadas por las continuidades definitivas se
+conservaron en custodia con la marca `DESCANONIZADO`. No forman parte del canon
+vigente ni están enlazadas desde los índices. Permanecen disponibles para una
+eventual recanonización o eliminación definitiva.
+
 ### Volcamiento P-02: territorios e instituciones (2026-07-24)
 
 Se completó el segundo bloque autorizado del volcamiento de la Edad de la

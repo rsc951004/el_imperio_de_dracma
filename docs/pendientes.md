@@ -39,7 +39,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Edicto del Amanecer** | Fijar su forma, texto y circunstancias detalladas. |
 | **Casas fundadoras** | Completar la historia de las casas fundadoras de los doce reinos. |
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
-| **Casa Askia** | Resolver su relación con la actual Casa Reisner de Sturmgard. |
+| **Casa Askia** | Resolver su relación con las casas Falken y Fridvar de Sturmgard. |
 | **Casa Grigoryan** | Resolver el destino de la casa anterior a Wolfen. |
 | **Cronología dS** | Fijar fechas absolutas para la Edad del Hierro, la Podredumbre y el Raikim. |
 

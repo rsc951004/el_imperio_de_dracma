@@ -23,14 +23,14 @@ Joven. Conoció a Yanos a los dieciséis años. En la época de las cartas ya es
 - **Incómodo en la alta sociedad.** Desprecia la pomposidad de Eldegaria y las casas que usan el apellido como arma.
 - **Torpe para lo emocional.** Su afecto se expresa con frases que intentan no decir demasiado y terminan diciéndolo todo.
 - **Refugiado en los libros.** Podría haber vivido de la fortuna de su familia sin mover un dedo. Eligió ser erudito. Prefiere archivos y crónicas a salones y ascensos. Ahí encuentra sentido.
-- **Admira profundamente a Sylas Solarys**, su tatarabuelo explorador. Lo siente más cercano que a sus propios padres.
+- **Admira profundamente a Dyas Solarys**, su tatarabuelo explorador. Lo siente más cercano que a sus propios padres.
 
 ## Relaciones familiares
 - **Doryan Solarys** (padre): noble muy reconocido en Zephyrya y en todo el Imperio de Dragma.
 - **Vera Pavel** (madre, de soltera Pavel): prima del actual emperador. Al casarse con Doryan, eligió pasar a formar parte de la Casa Solarys, perdiendo con ello cualquier derecho hereditario en la casa imperial. Que una prima del emperador eligiera ser Solarys por encima de Pavel fue un golpe de prestigio para la casa.
 - **Sucesión:** El antiguo cabeza de familia decretó antes de morir que Doryan Solarys fuera el sucesor. Doryan, a su vez, ha decretado que Leondras será el próximo cabeza. Sandor queda fuera de la línea de sucesión.
 - **Leondras Solarys** (hermano mayor): Portador con dominio del viento. Relación de cariño real entre ambos, pero desgastada por quienes usan a Leondras para señalar que Sandor no es portador. Sandor no resiente a su hermano; resiente a quienes los comparan.
-- **Sylas Solarys** (tatarabuelo): explorador, historiador. Visitó Erebia. Su diario permitió a Sandor descubrir la cámara oculta en Khalos y escribir las *Crónicas*.
+- **Dyas Solarys** (tatarabuelo): explorador e historiador. Visitó Erebia. Su diario permitió a Sandor descubrir la cámara oculta en Khalos y escribir las *Crónicas*.
 
 ## Conflicto interno
 Siente atracción por los hombres. En Dragma no es ilegal ni una mancha social, y su propia casa tiene el precedente del Reinado de la Triple Corona. Su conflicto no es vergüenza: es el peso del deber familiar. Sabe que probablemente no tendrá descendencia y que su línea directa puede extinguirse con él. Esto lo persigue como una sombra privada.

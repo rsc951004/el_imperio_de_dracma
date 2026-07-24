@@ -10,9 +10,10 @@ Reino del Imperio de Dragma y protector de Khalos.
 |-------|-------|
 | **Nombre durante el Raikim** | Veleskgard |
 | **Capital** | Stancra |
-| **Casa real** | Enescu |
-| **Gobernante** | Ileana Enescu |
-| **Título** | Reina del Fulgor |
+| **Casa fundadora** | Voresk |
+| **Casa real** | Korzan |
+| **Gobernante** | Pendiente |
+| **Título** | Rey o Reina del Fulgor |
 | **Región histórica** | Dresk |
 
 ## Concepto
@@ -39,9 +40,13 @@ Durante la Edad de Plata, el Raikim llamó Veleskgard al Dominio levantado sobre
 Dresk. El nombre conservó la raíz de Velesk, la antigua puerta de Sanghesk.
 Después de la Rebelión del Amanecer, Veleskgard recuperó la forma Veleskaria.
 
-La Casa Enescu convirtió el reino en protector de Khalos. El pacto garantiza la
-autonomía de la ciudad libre mientras Veleskaria mantiene sus rutas de
-abastecimiento y su defensa exterior.
+Valmir Voresk gobernó Veleskgard como Señor del Dominio antes de recibir la
+primera corona de Veleskaria. En la Edad de Oro gobierna la Casa Korzan. El
+motivo y las etapas del relevo permanecen reservados.
+
+Veleskaria es protectora de Khalos. El pacto garantiza la autonomía de la
+ciudad libre mientras el reino mantiene sus rutas de abastecimiento y su
+defensa exterior.
 
 ## Relaciones
 
@@ -57,7 +62,8 @@ escritura. Esa cultura real no existe dentro del mundo.
 
 ## Referencias
 
-- `docs/casas/enescu.md`
+- `docs/casas/voresk.md`
+- `docs/casas/korzan.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/dragma/khalos/khalos.md`
 - `docs/mundo/stigria/foso-de-la-calamidad.md`

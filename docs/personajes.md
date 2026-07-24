@@ -51,28 +51,19 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Vedrik Frosthain | Personaje histórico | Último señor de la Casa Frosthain. Condenado al Grimm. | [Ver ficha](personajes/vedrik-frosthain.md) |
 | Eirik Valgard | Personaje histórico | Cuarto Raik y convocante del Gran Concilio del Hielo. | [Ver ficha](personajes/eirik-valgard.md) |
 | Sigmar Valgard | Personaje histórico | Sexto Raik y autor del decreto que dejó Esteria sin señor. | [Ver ficha](personajes/sigmar-valgard.md) |
+| Katerina | Noble de Weissen | <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto el Rey Podrido, Katerina y la Grien Tábura -->Emisaria de la Ruina que opera desde las sombras en la Edad de Oro.<!-- CANON-VELADO: FIN --> | [Ver ficha](personajes/katerina.md) |
 
 ## Monarcas de los 12 Reinos
 
+La tabla incluye únicamente las identidades reinantes confirmadas. En los
+reinos cuya casa presente ya está fijada pero cuyo soberano no ha sido
+establecido, la identidad permanece pendiente.
+
 | Nombre | Rol | Reino (región) | Ficha |
 |--------|-----|----------------|-------|
-| Kaspar Wolfen | Rey gobernante | Flemmengard (Valle de Hierro) | [Ver ficha](personajes/monarcas/kaspar-wolfen.md) |
-| Marlo Falken | Rey consorte | Flemmengard ← Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/marlo-falken.md) |
-| Jorin Reisner | Rey gobernante | Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/jorin-reisner.md) |
-| Sabina Jaeger | Reina consorte | Sturmgard (Valle de Hierro) | [Ver ficha](personajes/monarcas/sabina-jaeger.md) |
-| Octavya Corinthyos | Reina gobernante | Lysarya (Costas del Verano) | [Ver ficha](personajes/monarcas/octavya-corinthyos.md) |
-| Helyo Venthyss | Rey consorte | Lysarya ← Zephyrya (Costas del Verano) | [Ver ficha](personajes/monarcas/helyo-venthyss.md) |
-| Ileana Enescu | Reina gobernante | Veleskaria (Dresk) | [Ver ficha](personajes/monarcas/ileana-enescu.md) |
-| Yelena Gorski | Reina consorte | Veleskaria ← Sindria | [Ver ficha](personajes/monarcas/yelena-gorski.md) |
-| Cassyus Zephyryon | Rey gobernante | Zephyrya (Costas del Verano) | [Ver ficha](personajes/monarcas/cassyus-zephyryon.md) |
-| Celesthya Drussyo | Reina consorte | Zephyrya ← Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/celesthya-drussyo.md) |
-| Skaer Fjord | Rey gobernante | Kyst (Tierra de la Bruma) | [Ver ficha](personajes/monarcas/skaer-fjord.md) |
-| Ravn Korn | Rey gobernante | Lyng (Tierra de la Bruma) | [Ver ficha](personajes/monarcas/ravn-korn.md) |
-| Marcus Valeryus | Rey gobernante | Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/marcus-valeryus.md) |
-| Neryssa Undavos | Reina consorte | Vesperya ← Alessya (Costas del Verano) | [Ver ficha](personajes/monarcas/neryssa-undavos.md) |
-| Uriel Goros | Rey gobernante | Sindria (Weissen) | [Ver ficha](personajes/monarcas/uriel-goros.md) |
-| Ecaterina Cojocaru | Reina consorte | Sindria ← Veleskaria | [Ver ficha](personajes/monarcas/ecaterina-cojocaru.md) |
-| Skov Borg | Rey gobernante | Bjorn (Tierra de la Bruma) | [Ver ficha](personajes/monarcas/skov-borg.md) |
+| Lykandros Mirandys | Rey gobernante | Lysarya (Costas del Verano) | [Ver ficha](personajes/monarcas/lykandros-mirandys.md) |
+| Dimethys Kalistrys | Rey gobernante | Zephyrya (Costas del Verano) | [Ver ficha](personajes/monarcas/dimethys-kalistrys.md) |
+| Oryphos Valiryos | Rey gobernante | Vesperya (Costas del Verano) | [Ver ficha](personajes/monarcas/oryphos-valiryos.md) |
 
 ## Emperadores de Dragma
 
@@ -96,3 +87,22 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Eryk Albyon | Príncipe histórico | Príncipe de Lysarya. Amante de Thalyssa. Desaparecido. Uno de los Príncipes Perdidos | [Ver ficha](personajes/historicos/eryk-albyon.md) |
 | Thalyssa Coralyss | Princesa histórica | Hija de Daryón. Prometida a Zephyrya, amante de Eryk. Huyó embarazada. Desaparecida. Una de los Príncipes Perdidos | [Ver ficha](personajes/historicos/thalyssa-coralyss.md) |
 | Astryón Aetheryon | Príncipe histórico | Príncipe de Zephyrya. Prometido de Thalyssa. Abandonado la noche del compromiso | [Ver ficha](personajes/historicos/astryon-aetheryon.md) |
+| Loryan Solarys | Rey histórico | Rey de Suntarys, miembro de la Triple Corona y autor del Edicto del Amanecer. | [Ver ficha](personajes/historicos/loryan-solarys.md) |
+| Sweyn | Rey histórico | Correy extranjero de Suntarys y amante de Loryan Solarys. | [Ver ficha](personajes/historicos/sweyn.md) |
+| Soren | Rey histórico | Correy extranjero de Suntarys y miembro de la Triple Corona. | [Ver ficha](personajes/historicos/soren.md) |
+| Caelyon Varyss | Rey ilegítimo | Usurpador del trono de Suntarys. | [Ver ficha](personajes/historicos/caelyon-varyss.md) |
+| Ragnela Valgard | Noble histórica | Tía de Grimar, muerta durante el asalto a Suntarys. | [Ver ficha](personajes/historicos/ragnela-valgard.md) |
+| Brandulf Valgard | Raik histórico | Decimosexto Raik y padre de Grimar. | [Ver ficha](personajes/historicos/brandulf-valgard.md) |
+| Giselra | Noble histórica | Esposa de Harald Mormund y única Doncella del Viento identificada. | [Ver ficha](personajes/historicos/giselra.md) |
+| Adalver Beranwald | Señor del Dominio | Señor impuesto de Lysgard durante el Raikim. | [Ver ficha](personajes/historicos/adalver-beranwald.md) |
+| Giselmar Falkvar | Señor del Dominio | Señor impuesto de Zephyrgard durante el Raikim. | [Ver ficha](personajes/historicos/giselmar-falkvar.md) |
+| Roderik Wuldrik | Señor del Dominio | Señor impuesto de Vespergard durante el Raikim. | [Ver ficha](personajes/historicos/roderik-wuldrik.md) |
+| Leonthyr Lisaryon | Rey fundador | Primer rey de Lysarya. | [Ver ficha](personajes/historicos/leonthyr-lisaryon.md) |
+| Asteryon Zephiryon | Rey fundador | Primer rey de Zephyrya. | [Ver ficha](personajes/historicos/asteryon-zephiryon.md) |
+| Valiryos Thalyros | Rey fundador | Primer rey de Vesperya. | [Ver ficha](personajes/historicos/valiryos-thalyros.md) |
+| Valmir Voresk | Rey fundador | Señor de Veleskgard y primer rey de Veleskaria. | [Ver ficha](personajes/historicos/valmir-voresk.md) |
+| Zorven Drazar | Rey fundador | Señor de Sindgard y primer rey de Sindria. | [Ver ficha](personajes/historicos/zorven-drazar.md) |
+| Aelvar Fjolvar | Rey fundador | Primer rey de Kyst. | [Ver ficha](personajes/historicos/aelvar-fjolvar.md) |
+| Raban Frosthain | Personaje histórico | Destinatario original de la promesa de incorporar Esteria. | [Ver ficha](personajes/historicos/raban-frosthain.md) |
+| Sylas Solarys | Miembro de Tábura | Tío y tutor de Loryan Solarys; espía de la Sish Tábura. | [Ver ficha](personajes/historicos/sylas-solarys.md) |
+| Dyas Solarys | Explorador histórico | Tatarabuelo de Sandor Solarys y explorador de Erebia. | [Ver ficha](personajes/historicos/dyas-solarys.md) |

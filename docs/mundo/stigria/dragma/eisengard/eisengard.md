@@ -10,7 +10,9 @@ establecido durante la Edad de Plata.
 | Campo | Valor |
 |-------|-------|
 | **Capital** | Stalheim |
-| **Casa real** | Hammer |
+| **Casa fundadora** | Hammer |
+| **Casa real** | Eberwulf |
+| **Gobernante** | Pendiente |
 | **Título** | Rey o Reina del Yunque |
 | **Región** | Valle de Hierro |
 
@@ -23,12 +25,17 @@ Acero del Alba.
 
 ## Gobierno y territorio
 
-La Casa Hammer gobierna Eisengard desde Stalheim. El reino limita con las
-regiones históricas de Gülden, Sturm y el Gran Valle. Las casas del valle que
-huyeron del Rey Podrido hacia el este dieron origen a su población posterior.
+La Casa Hammer recibió la primera corona de Eisengard. En la Edad de Oro
+gobierna la Casa Eberwulf. El motivo y las etapas del relevo permanecen
+reservados.
+
+El reino limita con las regiones históricas de Gülden, Sturm y el Gran Valle.
+Las casas del valle que huyeron del Rey Podrido hacia el este dieron origen a
+su población posterior.
 
 ## Referencias
 
 - `docs/casas/hammer.md`
+- `docs/casas/eberwulf.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/edad-de-plata.md`

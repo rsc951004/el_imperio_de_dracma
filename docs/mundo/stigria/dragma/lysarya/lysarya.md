@@ -11,7 +11,7 @@ Aurolis
 
 ## Casa real
 - Fundadora: **Lisaryon**
-- Actual: **Corinthyos**
+- Actual: **Mirandys**
 
 ## Título del gobernante
 **Rey de la Roca** o **Reina de la Roca**. Forma abreviada entre monarcas: Rey Roca o Reina Roca.
@@ -50,7 +50,8 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Vesperya:** azul profundo — el mar, la aventura, el estrecho.
 
 ## Gobierno
-Regido por la Casa Corinthyos. La reina reinante es **Octavya Corinthyos ★**, Reina de la Roca. Su consorte es Helyo Venthyss, de casa noble de Zephyrya.
+Regido por la Casa Mirandys. El soberano de la Edad de Oro es **Lykandros
+Mirandys**, Rey de la Roca.
 
 ## Historia
 Durante el Raikim, el territorio recibió el nombre de **Lysgard** y quedó bajo
@@ -84,8 +85,6 @@ Lysarya logró invadir Zephyrya. Miles murieron. La guerra amenazó con expandir
 
 Al final, Edrik ejecutó a ambos reyes —**Kyros Albyon** y **Kleóndras Aetheryon**— y proscribió a ambas casas —Albyon y Aetheryon— del **Dex Códice**, el gran registro de la Dex Tábura. Sus nombres jamás podrán ser usados en el imperio. La casa Coralyss también fue proscrita.
 
-El **Stamengherin** nombró a la **Casa Corinthyos** como nueva casa real de Lysarya.
-
 La guerra dejó una **cicatriz permanente** en los tres reinos del Verano. Bajo la superficie de las relaciones cordiales actuales corre una corriente de desconfianza que nunca se ha cerrado del todo.
 
 ## Economía
@@ -99,6 +98,9 @@ Pastoreo y agricultura templada. Comercio de ganado y productos agrícolas con l
 ## Referencias
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/dragma/alessya/alessya.md`
+- `docs/casas/lisaryon.md`
+- `docs/casas/mirandys.md`
+- `docs/personajes/monarcas/lykandros-mirandys.md`
 
 ## Guía de nombres
 **Grecolatina.** Los nombres de personas y casas de Lysarya siguen la tradición grecolatina con las reglas fonéticas y semánticas de las Costas del Verano.

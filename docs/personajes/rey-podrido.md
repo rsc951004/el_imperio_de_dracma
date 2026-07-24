@@ -50,6 +50,19 @@ cuando lo considera necesario.
 Para quienes aceptan, el Reino Podrido promete una existencia sin hambre, frío
 ni guerra, a cambio de entregar la voluntad.
 
+## Katerina y Sindria
+
+<!-- CANON-VELADO: INICIO | desconocido-por: todos excepto el Rey Podrido, Katerina y la Grien Tábura -->
+Katerina es una Emisaria de la Ruina vinculada al Rey Podrido desde la niñez.
+Conserva apariencia humana y actúa como agente activo. Muchos de los Grimmen
+del Norte nacieron de la unión entre ambos; Lamya nació del vientre de
+Katerina.
+
+La Grien Tábura reúne en Sindria a Peregrinos del Dios Negro y servidores del
+Rey Podrido. Sus integrantes conocen la naturaleza de Katerina y el origen de
+esos Grimmen.
+<!-- CANON-VELADO: FIN -->
+
 ## Apariencia y envejecimiento
 
 Durante la caída de Sanghesk, el Rey Podrido aparentaba entre quince y
@@ -93,3 +106,6 @@ percibirse cerca del Paso del Oriente y los Grimmen disminuyeron en número.
 - docs/personajes/stelian-therin.md
 - docs/mundo/stigria/edad-de-la-podredumbre.md
 - docs/mundo/stigria/edad-de-plata.md
+- docs/personajes/katerina.md
+- docs/entidades/lamya.md
+- docs/taburas/grien-tabura.md

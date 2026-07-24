@@ -11,7 +11,7 @@ Anemora
 
 ## Casa real
 - Fundadora: **Zephiryon**
-- Actual: **Zephyryon**
+- Actual: **Kalistrys**
 
 ## Título del gobernante
 **Rey del Ocaso** o **Reina del Ocaso**. Forma abreviada entre monarcas: Rey Ocaso o Reina Ocaso.
@@ -53,7 +53,8 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Vesperya:** azul profundo — el mar, la aventura, el estrecho.
 
 ## Gobierno
-Regido por la Casa Zephyryon. El rey reinante es **Cassyus Zephyryon ★**, Rey del Ocaso. Su consorte es Celesthya Drussyo, de casa noble de Vesperya.
+Regido por la Casa Kalistrys. El soberano de la Edad de Oro es **Dimethys
+Kalistrys**, Rey del Ocaso.
 
 ## Historia
 Durante el Raikim, el territorio recibió el nombre de **Zephyrgard** y quedó
@@ -89,9 +90,10 @@ Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de
 
 Cuando Sturmgard amenazó con intervenir, el emperador Edrik contuvo la escalada. Al final, ejecutó a ambos reyes —Kleóndras y Kyros Albyon— y proscribió a sus casas del **Dex Códice**. La casa Aetheryon fue borrada de la historia.
 
-El **Stamengherin** nombró a la **Casa Zephyryon** como nueva casa real de Zephyrya.
-
-La guerra dejó una cicatriz permanente. Zephyrya perdió a su rey y a su casa reinante. Hoy mantiene relaciones cordiales con Lysarya —intercambia consortes, comercia, recibe turistas—, pero bajo la superficie de la flor del Verano corre una corriente de dolor que nunca ha sanado del todo.
+La guerra dejó una cicatriz permanente. Zephyrya perdió a su rey y a su casa
+reinante. Hoy mantiene relaciones cordiales con Lysarya, pero bajo la superficie
+de la flor del Verano corre una corriente de dolor que nunca ha sanado del
+todo.
 
 ## Economía
 Turismo de todo el imperio. Agricultura de planicie y ganadería. Comercio de pigmentos y textiles teñidos de violeta. Propiedades curativas de sus playas como atractivo para visitantes acaudalados.
@@ -104,6 +106,9 @@ Turismo de todo el imperio. Agricultura de planicie y ganadería. Comercio de pi
 ## Referencias
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/dragma/alessya/alessya.md`
+- `docs/casas/zephiryon.md`
+- `docs/casas/kalistrys.md`
+- `docs/personajes/monarcas/dimethys-kalistrys.md`
 
 ## Guía de nombres
 **Grecolatina.** Los nombres de personas y casas de Zephyrya siguen la tradición grecolatina con las reglas fonéticas y semánticas de las Costas del Verano.

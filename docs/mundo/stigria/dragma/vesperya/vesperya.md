@@ -11,7 +11,7 @@ Talasya
 
 ## Casa real
 - Fundadora: **Thalyros**
-- Actual: **Valeryus**
+- Actual: **Valiryos**
 
 ## Título del gobernante
 **Rey del Tridente** o **Reina del Tridente**. Forma abreviada entre monarcas: Rey Tridente o Reina Tridente. Las tres puntas del tridente representan los tres arcos de **La Tríada**, la entrada al estrecho que Vesperya custodia. El tridente es la llave que cierra la puerta de Eldengaria.
@@ -41,7 +41,9 @@ Vesperya tiene el clima más cálido de los tres reinos del Verano. Su costa es 
 ### La Tríada
 En el punto más angosto del estrecho, donde Vesperya casi toca Kyst, se alzan **tres arcos de piedra colosales** construidos por los habitantes de Unland durante la Edad de la Podredumbre. Uno sigue en pie; los otros dos están medio derrumbados. Nadie cruza por arriba —peligro de derrumbe—, pero los barcos pasan **por debajo**: la entrada al estrecho está bajo los arcos.
 
-En la cara inferior de las bóvedas hay **grabados de bestias y batallas** que los navegantes admiran al pasar. Es el umbral entre el mar abierto y el corazón del imperio. Las tres puntas del tridente de los Valeryus son estos tres arcos.
+En la cara inferior de las bóvedas hay **grabados de bestias y batallas** que
+los navegantes admiran al pasar. Es el umbral entre el mar abierto y el corazón
+del imperio. Las tres puntas del tridente real representan estos tres arcos.
 
 ### El Estrecho de la Tríada
 El estrecho se ensancha tierra adentro hasta desembocar en la **Bahía de los Reyes**, donde está el puerto de Eldengaria. Vesperya controla el acceso desde el mar. **Ningún barco entra al imperio sin autorización vesperiana.** Del otro lado del estrecho, la Tierra de la Bruma está protegida por un cordón montañoso. La capital solo es vulnerable por agua. Y en el agua está Vesperya.
@@ -72,7 +74,8 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Vesperya:** azul profundo — el mar, la aventura, el estrecho.
 
 ## Gobierno
-Regido por la Casa Valeryus. El rey reinante es **Marcus Valeryus ★**, Rey del Tridente. Su consorte es **Neryssa Undavos**, hija del Príncipe Guardián de Alessya.
+Regido por la Casa Valiryos. El soberano de la Edad de Oro es **Oryphos
+Valiryos**, Rey del Tridente.
 
 ## Historia
 Durante el Raikim, el territorio recibió el nombre de **Vespergard** y quedó
@@ -123,6 +126,9 @@ Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; *
 ## Referencias
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/dragma/alessya/alessya.md`
+- `docs/casas/thalyros.md`
+- `docs/casas/valiryos.md`
+- `docs/personajes/monarcas/oryphos-valiryos.md`
 
 ## Guía de nombres
 **Grecolatina.** Los nombres de personas y lugares de Vesperya siguen la tradición grecolatina.

@@ -15,7 +15,10 @@
 
 ## Historia y descripción
 
-Segunda dinastía imperial de Dragma. Casa noble de Lysarya, distinta de la casa real Corinthyos que gobierna el reino. Preexistía antes de la fundación del Imperio. Fue elegida por el Stamengherin tras el quiebre de la dinastía Mormund.
+Segunda dinastía imperial de Dragma. Casa noble de Lysarya, distinta de la Casa
+Mirandys que gobierna el reino en la Edad de Oro. Preexistía antes de la
+fundación del Imperio. Fue elegida por el Stamengherin tras el quiebre de la
+dinastía Mormund.
 
 Ezra Amschel fue el primer emperador de la casa. Consolidó la Concordia como tradición viva, no solo como la voluntad de un hombre (Vilem Mormund). Bajo los Amschel, el imperio normalizó la idea de que la corona no pertenece a ningún linaje por sangre y que el Stamengherin es el verdadero guardián de la sucesión.
 

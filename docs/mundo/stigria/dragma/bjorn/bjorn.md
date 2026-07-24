@@ -10,8 +10,9 @@ Reino del Imperio de Dragma.
 |-------|-------|
 | **Nombre durante el Raikim** | Bjorngard |
 | **Capital** | Skovby |
-| **Casa real** | Borg |
-| **Gobernante** | Skov Borg |
+| **Casa fundadora** | Hjorven |
+| **Casa real** | Hjorven |
+| **Gobernante** | Pendiente |
 | **Título** | Rey o Reina del Bosque |
 | **Bloque** | Amanecer |
 | **Región** | Tierra de la Bruma |
@@ -30,6 +31,9 @@ Los bjorneses son comerciantes abiertos, hábiles para negociar y mediar. Compar
 
 Bjorn existía antes del Raikim. Valgard lo conquistó, explotó sus bosques y le impuso el nombre de Bjorngard. Durante la Rebelión del Amanecer recuperó su nombre.
 
+La Casa Hjorven recibió la primera corona de Bjorn y conserva la corona en la
+Edad de Oro.
+
 Los antepasados de los bjorneses pertenecían a la Gente de la Bruma llegada
 desde Grimheim durante la Edad de la Podredumbre. Ese pueblo ayudó a los
 refugiados astrianos a fundar Khalos. Durante la penitencia del Raikim, los
@@ -46,3 +50,4 @@ Comercio regional, mercados, hospedaje, peajes y pastoreo. El bosque sagrado no 
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
 - `docs/mundo/stigria/dragma/khalos/khalos.md`
+- `docs/casas/hjorven.md`

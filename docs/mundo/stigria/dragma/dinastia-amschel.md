@@ -6,7 +6,7 @@ Dinastía imperial. Segunda casa en ocupar el trono de Dragma.
 ## Origen
 Casa noble de **Lysarya**, reino del Alba y centro espiritual de la rebelión del
 Edicto del Amanecer. La Casa Amschel era una casa noble de Lysarya, distinta de
-la casa real Corinthyos que hoy gobierna Lysarya. Preexistía antes de la
+la Casa Mirandys que gobierna Lysarya en la Edad de Oro. Preexistía antes de la
 fundación del Imperio.
 
 ## Ascenso al trono

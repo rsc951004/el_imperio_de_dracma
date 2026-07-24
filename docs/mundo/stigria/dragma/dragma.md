@@ -35,18 +35,18 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 
 | # | Reino | Bloque | Casa actual | Título |
 |---|-------|--------|-------------|--------|
-| 1 | Eisengard | Valle de Hierro | Hammer | Rey/Reina del Yunque |
-| 2 | Guldengard | Valle de Hierro | Gilden | Rey/Reina del Oro |
-| 3 | Flemmengard | Valle de Hierro | Wolfen | Rey/Reina de la Llama |
-| 4 | Sturmgard | Valle de Hierro | Reisner | Rey/Reina de la Tormenta |
-| 5 | Lysarya | Costas del Verano | Corinthyos | Rey/Reina de la Roca |
-| 6 | Veleskaria | Dresk | Enescu | Rey/Reina del Fulgor |
-| 7 | Zephyrya | Costas del Verano | Zephyryon | Rey/Reina del Ocaso |
-| 8 | Kyst | Tierra de la Bruma | Fjord | Rey/Reina de la Costa Gris |
-| 9 | Lyng | Tierra de la Bruma | Korn | Rey/Reina del Valle |
-| 10 | Vesperya | Costas del Verano | Valeryus | Rey/Reina del Tridente |
-| 11 | Sindria | Weissen | Goros | Rey/Reina del Foso |
-| 12 | Bjorn | Tierra de la Bruma | Borg | Rey/Reina del Bosque |
+| 1 | Eisengard | Valle de Hierro | Eberwulf | Rey/Reina del Yunque |
+| 2 | Guldengard | Valle de Hierro | Reginvar | Rey Dorado |
+| 3 | Flemmengard | Valle de Hierro | Gundrek | Rey/Reina de la Llama |
+| 4 | Sturmgard | Valle de Hierro | Fridvar | Rey/Reina de la Tormenta |
+| 5 | Lysarya | Costas del Verano | Mirandys | Rey/Reina de la Roca |
+| 6 | Veleskaria | Dresk | Korzan | Rey/Reina del Fulgor |
+| 7 | Zephyrya | Costas del Verano | Kalistrys | Rey/Reina del Ocaso |
+| 8 | Kyst | Tierra de la Bruma | Fjolvar | Rey/Reina de la Costa Gris |
+| 9 | Lyng | Tierra de la Bruma | Kjarven | Rey/Reina del Valle |
+| 10 | Vesperya | Costas del Verano | Valiryos | Rey/Reina del Tridente |
+| 11 | Sindria | Weissen | Velkar | Rey/Reina del Foso |
+| 12 | Bjorn | Tierra de la Bruma | Hjorven | Rey/Reina del Bosque |
 
 ## Los 7 Protectorados
 

@@ -18,7 +18,8 @@ Ghera persiguió y abrasó a los Grimmen hasta obligar a la mayoría a retirarse
 
 ## Relaciones
 
-- **Smürr:** serpiente alada y montura de Ghera.
+- **Smürr:** serpiente alada y montura de Ghera en la tradición gheran.
+  <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->Smürr existe y es un Jöten.<!-- CANON-VELADO: FIN -->
 - **Stömur:** cuerpo petrificado de Ghera y Smürr según la tradición.
 - **Gherin:** su nombre deriva de Ghera.
 - **Gheran:** pueblo que se reconocía como pueblo de Ghera.
@@ -30,3 +31,4 @@ Ghera persiguió y abrasó a los Grimmen hasta obligar a la mayoría a retirarse
 - `docs/entidades/grimmen.md`
 - `docs/mundo/stigria/stomur.md`
 - `docs/mundo/stigria/historia-antigua.md`
+- `docs/entidades/joten.md`
