@@ -6,6 +6,12 @@ Imperio compuesto. Estado soberano que abarca la práctica totalidad de El Gheri
 ## Naturaleza
 Dragma **no es un estado unitario**. Es un imperio formado por entidades políticas con distintos grados de soberanía y sus propios sistemas de gobierno. La unidad la provee la corona imperial, pero cada componente conserva autonomía en sus asuntos internos.
 
+El nombre del Imperio procede de la altura de Dragma, situada en el Gherin al
+este de Eldenheim. Una tradición oral atribuye la elección del nombre a un joven
+que pidió mover la reunión fundadora antes de que la sombra de la montaña
+cubriera la planicie; no es una decisión oficial conservada por el
+Stamengherin.
+
 ## Estructura territorial
 
 El imperio se compone de cuatro tipos de entidad territorial:

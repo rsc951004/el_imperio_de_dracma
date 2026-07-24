@@ -23,6 +23,12 @@ Valgard y los tres integrantes de la Triple Corona murieron en el asalto. El
 Edicto y la memoria de la ciudadela sobrevivieron y dieron una base política a
 la Rebelión del Amanecer.
 
+La destrucción no dejó Alessya sin relación con la ciudadela. El territorio
+histórico de Suntarys ocupaba el ochenta por ciento de la isla; el veinte por
+ciento restante era costa. El principado posterior de Alessya administra las
+ruinas y conserva sin reparar algunos edificios supervivientes como homenaje a
+la ciudad destruida.
+
 La fundación remota de Suntarys, su trayectoria interna y el desarrollo
 narrativo de su caída permanecen reservados para etapas posteriores.
 

@@ -3,7 +3,9 @@
 > **Estado:** P-01, estructura histórica e institucional; P-02, territorios e
 > instituciones; P-03, casas, personajes y entidades; y P-04, limpieza
 > editorial y auditoría final, fueron transferidos al canon el 23 y el 24 de
-> julio de 2026. El proceso de volcamiento está cerrado.
+> julio de 2026. P-05 restituyó los detalles aprobados compatibles que habían
+> quedado reducidos a fórmulas de resolución. El proceso de volcamiento está
+> cerrado.
 >
 > **Naturaleza:** documento no canónico. Registra las decisiones humanas para
 > resolver los nudos de la auditoría y sus consecuencias antes de cualquier
@@ -1487,6 +1489,36 @@ una decisión expresa y no se inferirá a partir de la documentación vigente.
 | Registrar el cambio | `docs/notas.md` | Añadir un registro por bloque transferido, indicando qué resoluciones se aplicaron y qué sustituciones produjeron. |
 | Auditoría final | Todo `docs/` | Comprobar enlaces, índices, marcas `CANON-VELADO`, grafías, coherencia entre cronología y fichas, y ausencia de las premisas sustituidas. |
 
+### P-05. Restitución y trazabilidad de detalle aprobado
+
+> **Estado del bloque:** transferido al canon el 24 de julio de 2026.
+
+La revisión posterior al cierre comprobó que una parte de los hechos aprobados
+compatibles había quedado solo como antecedente de los N-xx, mientras el canon
+retenía únicamente la fórmula breve de las S-xx. Este bloque no reabre
+decisiones ni desarrolla cuentos: restituye los detalles que continúan vigentes
+con el nivel de síntesis propio del asentamiento.
+
+| Detalle aprobado | Destino aplicado |
+|---|---|
+| Coste no uniforme del Blesk y demostración de Loryan | `docs/entidades/portadores.md` y ficha de Loryan. |
+| Rechazo noble de la Triple Corona y responsabilidad de Loryan | Ficha de Loryan y marco de la Edad de la Tiranía. |
+| Cadena, confirmación y consecuencia de la masacre Mormund | Ficha de Giselra y marco de la Edad de la Tiranía. |
+| Extensión de Suntarys, costa y custodia de sus ruinas | Fichas de Suntarys y Alessya. |
+| Custodia histórica de las Puertas Rojas y cautiverio de Valmir | Ficha de Veleskaria. |
+| Clanes de Sturmgard y continuidad bajo la Concordia | Ficha de Sturmgard. |
+| Sentido de la decisión de Zorven y situación previa de Sindgard | Ficha de Esteria. |
+| Ubicación y confirmación posterior de la masacre Mormund | Ficha de Giselra. |
+| Persecución no unificada de los Valgard visibles | Marco de la Edad de la Tiranía. |
+| Nombre de Dragma y condición de la renuncia de Sylas | Fichas de Dragma y Sylas. |
+| Secuencia política y armada de la Rebelión del Amanecer | Ficha de Loryan. |
+| Castigos del Verano y la Bruma | Fichas de la Costa del Verano y de la Gente de la Bruma; se retiraron las formulaciones incompatibles. |
+
+Los demás detalles conservan el destino ya registrado en las resoluciones: o
+bien están presentes en las fichas transferidas, o bien se declaran de forma
+expresa como reserva narrativa, misterio o desarrollo posterior. No se
+considera suficiente que un detalle aprobado quede solo en la acumulación.
+
 #### Secuencia segura para un volcamiento futuro
 
 1. Aprobar el bloque concreto del plan que se transferirá.
@@ -1498,8 +1530,9 @@ una decisión expresa y no se inferirá a partir de la documentación vigente.
    con una decisión expresa sobre cada una.
 6. Ejecutar una auditoría textual final antes de considerar cerrado el bloque.
 
-**Estado del plan:** P-01, P-02, P-03 y P-04 fueron transferidos al canon el 23
-y el 24 de julio de 2026. La auditoría final comprobó índices, enlaces, marcas
-`CANON-VELADO`, continuidad dinástica y premisas sustituidas. Las fichas
-desplazadas permanecen en custodia descanonizada conforme a la decisión humana.
-El proceso está cerrado y este documento conserva su naturaleza no canónica.
+**Estado del plan:** P-01, P-02, P-03, P-04 y P-05 fueron transferidos al canon
+el 23 y el 24 de julio de 2026. La auditoría final comprobó índices, enlaces,
+marcas `CANON-VELADO`, continuidad dinástica, premisas sustituidas y la
+trazabilidad de los detalles aprobados. Las fichas desplazadas permanecen en
+custodia descanonizada conforme a la decisión humana. El proceso está cerrado y
+este documento conserva su naturaleza no canónica.

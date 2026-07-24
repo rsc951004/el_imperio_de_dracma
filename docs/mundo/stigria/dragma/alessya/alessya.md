@@ -17,6 +17,11 @@ Los **Hijos del Sol** descienden de los esclavos liberados de Astria por la Kys
 Tábura. Después de la caída de Ciudad Azul, parte de ellos huyó hacia Alessya.
 La fundación y la trayectoria de Suntarys permanecen pendientes.
 
+Suntarys ocupó el ochenta por ciento de Alessya; la costa formaba el veinte por
+ciento restante de la isla. Después de su destrucción, el principado administra
+sus ruinas. Algunos edificios supervivientes se conservan sin reparar como
+homenaje, sin que ello equivalga a una reconstrucción de la ciudadela.
+
 ### La Guerra de los Hermanos y el Principado
 Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el noble **Daryón Coralyss** de Alessya inició un reclamo de **derecho de dominio** sobre la isla. Pactó en secreto con **Kleóndras Aetheryon**, rey de Zephyrya, el matrimonio entre su hija **Thalyssa Coralyss** y el príncipe **Astryón Aetheryon**. Si el reclamo prosperaba, Alessya pasaría a Zephyrya por herencia y unión matrimonial.
 

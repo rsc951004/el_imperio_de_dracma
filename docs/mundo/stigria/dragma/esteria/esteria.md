@@ -66,8 +66,16 @@ heredó como Señor de Sindgard.
 
 Grimar ofreció cumplir la promesa si Zorven conseguía abrir Esteria. Zorven
 rechazó la oferta después de reunirse con el comandante de la Guardia Amarilla
-y el Señor de Dresk. La reclamación nunca concedió soberanía sobre el Paso ni
+y el Señor de Dresk: entendió que el plan equivalía a sacrificar el Paso y se
+sumó a la Rebelión. La reclamación nunca concedió soberanía sobre el Paso ni
 anuló la autoridad de la Guardia.
+
+Antes de esa ruptura, Sindgard esperaba que sus fuerzas fueran llamadas contra
+la Rebelión. Zorven dudaba ya de su pertenencia al Bloque de Hierro: las
+políticas de Grimar empobrecían el territorio y exigían sostener una ocupación
+que alcanzaba el norte extremo de Weissen. Parte de las fuerzas de Dresk había
+sido forzada a combatir a Lamya y quedó encerrada en Dürr, sin que Dresk ni
+Esteria hubieran realizado todavía una declaración formal.
 
 ## Referencias
 

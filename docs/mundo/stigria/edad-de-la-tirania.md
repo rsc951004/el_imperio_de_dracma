@@ -48,6 +48,12 @@ justifica sacrificarlo para conservar el poder. La muerte de cualquiera de los
 tres reyes ponía fin a esa monarquía y devolvía al pueblo la elección de sus
 gobernantes.
 
+La Triple Corona fue rechazada sobre todo por las casas nobles de Suntarys:
+Loryan no eligió una reina de sus linajes y compartió el gobierno con dos reyes
+hombres y extranjeros. Los tres habían demostrado su capacidad al recuperar el
+Estado. Loryan entendió que su decisión exponía a Suntarys, y esa comprensión
+sostuvo el sentido político del Edicto.
+
 La invasión final arrasó Suntarys durante el reinado de Brandulf Valgard. Ragnela
 murió en el asalto y los tres reyes de la Triple Corona cayeron con la ciudadela.
 El Edicto y la memoria de Suntarys sobrevivieron a la destrucción y dieron una
@@ -75,8 +81,11 @@ Hierro.
 Sturmgard permaneció contado entre los cuatro territorios leales, aunque una
 fractura interna tardía llevó parte de sus guerreros a sumarse a Harald Mormund.
 La ejecución de la Casa Mormund y de Giselra, esposa de Harald e hija del Señor
-de Sturmgard, hizo decisiva esa ruptura. La Voluntad de la Sal y la Voluntad del
-Hierro eran identidades socioculturales, no bandos políticos formales.
+de Sturmgard, hizo decisiva esa ruptura. El padre de Harald había intentado
+oponerse al plan de Grimar entre los señores del Valle; fue traicionado y los
+vasallos de su casa permitieron la entrada del batallón que la exterminó. Harald
+solo contempló los cuerpos tras la guerra. La Voluntad de la Sal y la Voluntad
+del Hierro eran identidades socioculturales, no bandos políticos formales.
 
 En Sindgard, Zorven Drazar heredó la reclamación sobre Esteria nacida de la
 promesa hecha a Raban Frosthain. Rechazó la oferta de Grimar de cumplirla a
@@ -89,6 +98,11 @@ Grimar murió petrificado al final de la Rebelión del Amanecer. La caída de lo
 Valgard visibles fue una violencia extendida de rendiciones, persecuciones y
 muertes, no una pena instituida por el pacto fundador. Desde entonces, la
 extinción de la casa es pública y política.
+
+Muchas fuerzas que habían servido al Raik se rindieron ofreciendo a integrantes
+de Valgard; otras fuerzas rebeldes los persiguieron después de ocupar casi todo
+el Gherin. No existió una orden única de Harald ni del pacto fundador para
+eliminarlos.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluidos los dos descendientes -->
 Sobreviven dos líneas Valgard: una procede del hijo de Astrid y Rudgar, y otra de

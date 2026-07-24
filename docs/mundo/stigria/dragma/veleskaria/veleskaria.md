@@ -32,7 +32,10 @@ Las dos Puertas Rojas del Paso de Dresk se apoyan en esas formaciones y bloquean
 físicamente el tránsito.
 
 Durante el Raikim permanecían normalmente cerradas y solo se abrían con
-autorización del Raik. En la Edad de Oro permanecen abiertas.
+autorización del Raik, por el temor a un avance de los Grimmen hacia el sur.
+La custodia había pertenecido antes a los sangheskianos del Dominio Carmesí.
+Nunca fueron destruidas: durante la Rebelión cambió en ocasiones el bando que
+las custodiaba. En la Edad de Oro permanecen abiertas.
 
 ## Historia
 
@@ -40,9 +43,10 @@ Durante la Edad de Plata, el Raikim llamó Veleskgard al Dominio levantado sobre
 Dresk. El nombre conservó la raíz de Velesk, la antigua puerta de Sanghesk.
 Después de la Rebelión del Amanecer, Veleskgard recuperó la forma Veleskaria.
 
-Valmir Voresk gobernó Veleskgard como Señor del Dominio antes de recibir la
-primera corona de Veleskaria. En la Edad de Oro gobierna la Casa Korzan. El
-motivo y las etapas del relevo permanecen reservados.
+Valmir Voresk gobernó Veleskgard como Señor del Dominio antes de caer cautivo y
+de recibir la primera corona de Veleskaria. No hubo otro señor entre ambos
+hechos. En la Edad de Oro gobierna la Casa Korzan. El motivo y las etapas del
+relevo permanecen reservados.
 
 Veleskaria es protectora de Khalos. El pacto garantiza la autonomía de la
 ciudad libre mientras el reino mantiene sus rutas de abastecimiento y su

@@ -57,10 +57,10 @@ Lynggard y Bjorngard sobre el territorio conquistado.
 
 ## Penitencia
 
-Rudgar llamó al pacto de los jarls una **traición a la vida misma**. Durante
-cien años, los brumenses no podían abandonar Unland y todo contacto con el
-Verano se castigaba con la muerte. Cumplido el siglo, podían entrar o salir por
-mar hacia Grimheim si así lo deseaban.
+Rudgar llamó al pacto de los jarls una **traición a la vida misma**. La
+penitencia de la Bruma no tenía plazo: los brumenses no podían abandonar Unland
+y todo contacto con el Verano se castigaba con la muerte mientras subsistió el
+Raikim.
 
 ## Legado
 

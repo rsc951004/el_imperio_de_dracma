@@ -2,6 +2,24 @@
 
 ## Revisiones editoriales
 
+### Volcamiento P-05: restitución de detalle aprobado (2026-07-24)
+
+Se completó una auditoría complementaria de los hechos aprobados de la
+acumulación de la Edad de la Tiranía. Se restituyeron al canon los detalles
+compatibles que habían quedado reducidos a la fórmula de sus resoluciones: el
+coste no uniforme del Blesk y la demostración de Loryan, el rechazo noble de la
+Triple Corona, la secuencia de la masacre Mormund, la administración de las
+ruinas de Suntarys, la custodia de las Puertas Rojas, el cautiverio de Valmir,
+la decisión de Zorven, la persecución no unificada de los Valgard y los
+antecedentes institucionales menores correspondientes.
+
+También se corrigieron las formulaciones incompatibles sobre los castigos: el
+Verano cumplió una condena legal de cien años, mientras la penitencia de la
+Bruma no tuvo plazo durante el Raikim. El método de `procesos-de-volcamiento/`
+exige desde ahora trazabilidad para todo detalle aprobado: destino canónico,
+reserva narrativa explícita o descarte/sustitución identificado. La importancia
+aparente del hecho no permite omitirlo.
+
 ### Volcamiento P-04: limpieza editorial y cierre (2026-07-24)
 
 Se completó la limpieza editorial del volcamiento de la Edad de la Tiranía. La

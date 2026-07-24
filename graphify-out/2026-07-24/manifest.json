@@ -335,8 +335,8 @@
     "semantic_hash": "0e90814822414ea0aae364b7c837dc34"
   },
   "docs/mundo.md": {
-    "mtime": 1784902440.9875715,
-    "ast_hash": "046ad6bfd06e6a34643fbf4806b67d76",
+    "mtime": 1784902998.0195832,
+    "ast_hash": "ec05ae25a80f29204e8ed0a273b64479",
     "semantic_hash": ""
   },
   "docs/mundo/astria/astria.md": {
@@ -495,8 +495,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/vesperya/vesperya.md": {
-    "mtime": 1784901497.09555,
-    "ast_hash": "0e209bf326f31fa316ffc79c91aa45f5",
+    "mtime": 1784902998.0235834,
+    "ast_hash": "bc9303595ffa03350b635ce6341bfe50",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/zephyrya/zephyrya.md": {
@@ -630,9 +630,9 @@
     "semantic_hash": "8f1b6e885e2aef64225035f94ce92d50"
   },
   "docs/mundo/stigria/suntarys.md": {
-    "mtime": 1784480554.0059063,
-    "ast_hash": "b926ae91ac38fed39c61abe413cac85d",
-    "semantic_hash": "b926ae91ac38fed39c61abe413cac85d"
+    "mtime": 1784903062.5115848,
+    "ast_hash": "dba66b250138f2438c2752390ef6bbbc",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/valgard.md": {
     "mtime": 1784865323.5952165,
@@ -640,8 +640,8 @@
     "semantic_hash": ""
   },
   "docs/notas.md": {
-    "mtime": 1784902464.4835715,
-    "ast_hash": "88259e9c77eeba0ee60c22c9d6b0295a",
+    "mtime": 1784902998.0235834,
+    "ast_hash": "70dbe45fccbfbdcc53b728f4977f4f7b",
     "semantic_hash": ""
   },
   "docs/organizaciones.md": {
@@ -675,13 +675,13 @@
     "semantic_hash": "bff5763a21dd5e934a85de480714c8c8"
   },
   "docs/pendientes.md": {
-    "mtime": 1784901786.143556,
-    "ast_hash": "8a1f1d12f22cd455a194a95885b8fef5",
+    "mtime": 1784903040.7315843,
+    "ast_hash": "106d83ac5dffb26c47674187aef571c7",
     "semantic_hash": ""
   },
   "docs/personajes.md": {
-    "mtime": 1784902440.9875715,
-    "ast_hash": "02726d9b82cb6b95879f9f6dacd5b4d5",
+    "mtime": 1784902998.0235834,
+    "ast_hash": "ddbb16c71ae3c2632693232f96ada843",
     "semantic_hash": ""
   },
   "docs/personajes/alastor-ormur.md": {
@@ -1030,8 +1030,8 @@
     "semantic_hash": "451bd3824cb125585ae56d45d398feb7"
   },
   "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md": {
-    "mtime": 1784902464.4835715,
-    "ast_hash": "94d29e45c1e79f49c10346027efe9417",
+    "mtime": 1784902998.0275834,
+    "ast_hash": "63ea467e5aafd155d3ff7a231368b933",
     "semantic_hash": ""
   },
   "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-edad-de-la-tirania.md": {

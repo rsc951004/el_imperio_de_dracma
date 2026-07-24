@@ -42,9 +42,11 @@ Blesk al límite.
 
 ## Coste
 
-Usar el Blesk consume al portador. El agotamiento es proporcional a la magnitud
-del acto. El puente no se gasta, pero el cuerpo humano tiene un límite para
-sostenerlo activo.
+Usar el Blesk consume al portador, pero ese coste no sigue una medida exacta ni
+idéntica entre personas. La magnitud de un acto importa, aunque un gran
+Portador puede sostener una manifestación extraordinaria con un agotamiento
+mucho menor que otro Portador. El puente no se gasta, pero el cuerpo humano
+tiene un límite para sostenerlo activo.
 
 ## Relaciones
 

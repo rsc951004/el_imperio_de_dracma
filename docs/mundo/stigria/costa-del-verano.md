@@ -59,8 +59,10 @@ tres señores procedentes del Gran Valle:
 - **Vespergard**.
 
 Rudgar decretó que ninguna persona nacida entre los Hijos del Sol podría ser
-reconocida como Sangre de Hierro. No impuso una penitencia limitada: condenó al
-Verano a una eternidad de trabajo para el amanecer del Hierro.
+reconocida como Sangre de Hierro. Impuso al Verano cien años de trabajo para el
+Hierro. Al terminar la condena legal, sus consecuencias sociales y políticas
+persistieron bajo el Raikim: los Portadores no recuperaron su libertad mientras
+el régimen subsistió.
 
 El desarrollo posterior de la Ciudad Azul, la fundación y la caída de Suntarys,
 y el destino de los huidos en Alessya permanecen pendientes.

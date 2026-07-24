@@ -78,6 +78,25 @@ los archivos canónicos afectados, la operación prevista —crear, modificar,
 reescribir, revisar o retirar—, la resolución que la justifica y el alcance del
 cambio. Este plan sigue siendo no canónico y no autoriza su ejecución.
 
+Además, el plan debe incorporar una **trazabilidad de detalle aprobado**. No
+basta con trasladar el enunciado abreviado de cada resolución: cada hecho,
+causalidad, vínculo, antecedente o consecuencia que haya quedado aprobado en
+la acumulación debe recibir un destino explícito. Los únicos destinos válidos
+son:
+
+- **canon:** se incorpora, con el nivel de síntesis propio de la etapa del
+  proyecto, en una ficha o marco canónico identificable;
+- **reserva narrativa:** se conserva de forma expresa para un desarrollo
+  posterior, indicando qué parte permanece sin desarrollar y dónde queda
+  registrada esa reserva;
+- **descartado o sustituido:** se identifica la decisión posterior que lo
+  invalida, sin trasladarlo ni conservarlo como premisa vigente.
+
+La importancia aparente del detalle no modifica esta obligación. Una
+mini-historia, un contexto causal o un dato material aprobado no puede quedar
+reducido por omisión a la fórmula final de una resolución. La trazabilidad no
+obliga a convertirlo en cuento: obliga a decidir y registrar su destino.
+
 ### 5. Volcamiento autorizado
 
 Solo comienza con una orden humana explícita. Ejecutar por bloques aprobados:
@@ -88,7 +107,9 @@ Solo comienza con una orden humana explícita. Ejecutar por bloques aprobados:
 4. Corregir índices, enlaces, pendientes y `docs/notas.md`.
 5. Resolver las fichas desplazadas únicamente con una decisión expresa de
    reescritura, conservación histórica, descanonización o eliminación.
-6. Realizar una auditoría textual final de coherencia y anti-fantasmeo.
+6. Comprobar la trazabilidad de detalle aprobado: ningún elemento compatible
+   puede quedar solo en la acumulación sin destino canónico o reserva expresa.
+7. Realizar una auditoría textual final de coherencia y anti-fantasmeo.
 
 ## Reglas de control
 

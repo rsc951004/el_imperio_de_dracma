@@ -21,7 +21,9 @@ Reino del Imperio de Dragma.
 Sturmgard ocupa la Tormenta, un archipiélago de fiordos helados, acantilados,
 ventiscas e islas expuestas a un mar peligroso. Su población conservó una
 organización interna de clanes incluso cuando el Raikim registró el territorio
-mediante casas.
+mediante casas. La filiación de esos clanes no depende necesariamente de la
+sangre; la Concordia reconoció su continuidad junto al sistema imperial de
+casas.
 
 ## Rebelión del Amanecer
 
