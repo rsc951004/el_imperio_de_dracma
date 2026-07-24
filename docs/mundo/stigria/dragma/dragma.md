@@ -42,15 +42,15 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 
 | # | Reino | Bloque | Casa actual | Título |
 |---|-------|--------|-------------|--------|
-| 1 | Eisengard | Valle de Hierro | Eberwulf | Rey/Reina del Yunque |
-| 2 | Guldengard | Valle de Hierro | Reginvar | Rey Dorado |
-| 3 | Flemmengard | Valle de Hierro | Gundrek | Rey/Reina de la Llama |
+| 1 | Eisengard | Valle de Hierro | Eberwulf | Rey/Reina del Valle de Hierro |
+| 2 | Guldengard | Valle de Hierro | Reginvar | Rey/Reina del Valle Dorado |
+| 3 | Flemmengard | Valle de Hierro | Gundrek | Rey/Reina de la Montaña Ardiente |
 | 4 | Sturmgard | Valle de Hierro | Fridvar | Rey/Reina de la Tormenta |
-| 5 | Lysarya | Costas del Verano | Mirandys | Rey/Reina de la Roca |
-| 6 | Veleskaria | Dresk | Korzan | Rey/Reina del Fulgor |
+| 5 | Lysarya | Costas del Verano | Mirandys | Rey/Reina de la Colina del Verano |
+| 6 | Veleskaria | Dresk | Korzan | Rey/Reina de la Puerta Carmesí |
 | 7 | Zephyrya | Costas del Verano | Kalistrys | Rey/Reina del Ocaso |
 | 8 | Kyst | Tierra de la Bruma | Fjolvar | Rey/Reina de la Costa Gris |
-| 9 | Lyng | Tierra de la Bruma | Kjarven | Rey/Reina del Valle |
+| 9 | Lyng | Tierra de la Bruma | Kjarven | Rey/Reina de los Campos Esmeralda |
 | 10 | Vesperya | Costas del Verano | Valiryos | Rey/Reina del Tridente |
 | 11 | Sindria | Weissen | Velkar | Rey/Reina del Foso |
 | 12 | Bjorn | Tierra de la Bruma | Hjorven | Rey/Reina del Bosque |

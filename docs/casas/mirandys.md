@@ -7,7 +7,7 @@
 | **Tipo** | Casa real de la Edad de Oro |
 | **Reino** | Lysarya |
 | **Posición dinástica** | Casa presente definitiva |
-| **Título** | Rey o Reina de la Roca |
+| **Título** | Rey o Reina de la Colina del Verano |
 
 ## Historia
 

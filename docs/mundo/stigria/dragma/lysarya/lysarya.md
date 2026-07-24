@@ -14,7 +14,8 @@ Aurolis
 - Actual: **Mirandys**
 
 ## Título del gobernante
-**Rey de la Roca** o **Reina de la Roca**. Forma abreviada entre monarcas: Rey Roca o Reina Roca.
+**Rey de la Colina del Verano** o **Reina de la Colina del Verano**. Forma
+abreviada entre monarcas: Rey Colina o Reina Colina.
 
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard. El cambio de Lysgard a Lysarya no fue uniforme con el resto del Amanecer: cada grupo de reinos tuvo su propia transformación. En el caso del Verano, la raíz y el sufijo mutaron juntos (Lysgard → Lysarya, no una simple supresión).
@@ -51,7 +52,7 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 
 ## Gobierno
 Regido por la Casa Mirandys. El soberano de la Edad de Oro es **Lykandros
-Mirandys**, Rey de la Roca.
+Mirandys**, Rey de la Colina del Verano.
 
 ## Historia
 Durante el Raikim, el territorio recibió el nombre de **Lysgard** y quedó bajo

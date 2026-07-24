@@ -3,7 +3,7 @@
 ## Identidad
 
 Soberano de Lysarya durante la Edad de Oro y miembro de la Casa Mirandys.
-Porta el título de Rey de la Roca.
+Porta el título de Rey de la Colina del Verano.
 
 ## Alcance
 

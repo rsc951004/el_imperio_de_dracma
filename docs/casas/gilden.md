@@ -8,7 +8,7 @@
 | **Tipo** | Casa real fundadora |
 | **Reino** | Guldengard |
 | **Posición dinástica** | Casa fundadora |
-| **Título** | Rey Dorado |
+| **Título** | Rey/Reina del Valle Dorado |
 
 ## Historia y descripción
 

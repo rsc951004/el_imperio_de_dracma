@@ -13,7 +13,7 @@ establecido durante la Edad de Plata.
 | **Casa fundadora** | Hammer |
 | **Casa real** | Eberwulf |
 | **Gobernante** | Pendiente |
-| **Título** | Rey o Reina del Yunque |
+| **Título** | Rey o Reina del Valle de Hierro |
 | **Región** | Valle de Hierro |
 
 ## Descripción

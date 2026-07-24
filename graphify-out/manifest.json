@@ -120,8 +120,8 @@
     "semantic_hash": "33582e9a93a542989651810b07184be9"
   },
   "docs/12-reinos.md": {
-    "mtime": 1784901552.17955,
-    "ast_hash": "28ebf09fe20375dedc83d20f23c2391c",
+    "mtime": 1784913745.9758294,
+    "ast_hash": "74354d9703775cccf47e96729a13ac2c",
     "semantic_hash": ""
   },
   "docs/AGENTS.md": {
@@ -175,8 +175,8 @@
     "semantic_hash": "72a84cb7ad2ce0fcb9aadf2adb204364"
   },
   "docs/casas/gilden.md": {
-    "mtime": 1784901424.0195491,
-    "ast_hash": "412c5f8c768d37d7f3c3742f879264e6",
+    "mtime": 1784912252.7757955,
+    "ast_hash": "d9a64934113842c1263fe7cf7b0d2a9d",
     "semantic_hash": ""
   },
   "docs/casas/goros.md": {
@@ -195,8 +195,8 @@
     "semantic_hash": "5c188a75ac2528613e6e3e60cf926f30"
   },
   "docs/casas/hammer.md": {
-    "mtime": 1784901424.0195491,
-    "ast_hash": "477c501ea64998b5f6777b4e73bc2c9f",
+    "mtime": 1784912252.7757955,
+    "ast_hash": "66cb90006de9e95e707823167b2cd642",
     "semantic_hash": ""
   },
   "docs/casas/jaeger.md": {
@@ -265,8 +265,8 @@
     "semantic_hash": ""
   },
   "docs/casas/wolfen.md": {
-    "mtime": 1784901424.0235493,
-    "ast_hash": "68d2e6a5e321ba438df4925e22163af1",
+    "mtime": 1784912252.7757955,
+    "ast_hash": "9f4a00b8da5056d41fc419d4af07aaeb",
     "semantic_hash": ""
   },
   "docs/casas/yuriev.md": {
@@ -330,8 +330,8 @@
     "semantic_hash": "0e90814822414ea0aae364b7c837dc34"
   },
   "docs/mundo.md": {
-    "mtime": 1784911213.3597732,
-    "ast_hash": "7b897b3a2ac3abcf87f8db776c42f015",
+    "mtime": 1784913745.9758294,
+    "ast_hash": "75a7c21b32b6aa23ba9ce466cc268965",
     "semantic_hash": ""
   },
   "docs/mundo/astria/astria.md": {
@@ -390,13 +390,13 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/dragma.md": {
-    "mtime": 1784911181.0597737,
-    "ast_hash": "8f6204b62a1dd4eb83412b3923692699",
+    "mtime": 1784913745.9798293,
+    "ast_hash": "40ab189ad5cef3cd84bf7d25eb4f045c",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/eisengard/eisengard.md": {
-    "mtime": 1784901463.5035496,
-    "ast_hash": "55ea4c23a68c33e3a572561e82a8b247",
+    "mtime": 1784912252.7717955,
+    "ast_hash": "c2710b89a94cd4333dd8ef9ac388f95f",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/esteria/esteria.md": {
@@ -405,13 +405,13 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/flemmengard/flemmengard.md": {
-    "mtime": 1784901497.09555,
-    "ast_hash": "b628ffe4760355630730a31fbcd7f610",
+    "mtime": 1784912252.7717955,
+    "ast_hash": "d26bc0d35ea7598db6c08299c2093694",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/guldengard/guldengard.md": {
-    "mtime": 1784901463.5035496,
-    "ast_hash": "e5ebdbfb9de9b7e22a6091ada83fa435",
+    "mtime": 1784912252.7717955,
+    "ast_hash": "a2efe1648c35d0eee59074df37e6c53e",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/ishbaal/ishbaal.md": {
@@ -435,13 +435,13 @@
     "semantic_hash": "c669f1992b4955556c9eadf7c0601e62"
   },
   "docs/mundo/stigria/dragma/lyng/lyng.md": {
-    "mtime": 1784901463.5075495,
-    "ast_hash": "098b80109fbb059b7ab4f634f610cf66",
+    "mtime": 1784913745.9798293,
+    "ast_hash": "fe6faf5554109709d1c13451a8ef9ec8",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/lysarya/lysarya.md": {
-    "mtime": 1784911181.0597737,
-    "ast_hash": "26622eb542b6de73a3720538f105e823",
+    "mtime": 1784913745.9798293,
+    "ast_hash": "fc3b4cbc713fce30f1e306ebe248db6c",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/nombres-carmesi.md": {
@@ -485,8 +485,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/veleskaria/veleskaria.md": {
-    "mtime": 1784911181.0637736,
-    "ast_hash": "3fc16ca85cbd8a651e2832e2e77e82cd",
+    "mtime": 1784912252.7757955,
+    "ast_hash": "846d14505fbb55ca4e62c4dc307e8793",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/vesperya/vesperya.md": {
@@ -630,8 +630,8 @@
     "semantic_hash": ""
   },
   "docs/notas.md": {
-    "mtime": 1784911226.215771,
-    "ast_hash": "74f4d645b50f301ac6df933bffa19e65",
+    "mtime": 1784913745.9878292,
+    "ast_hash": "a42a0a51a63cfd02cf21f78a603da8fa",
     "semantic_hash": ""
   },
   "docs/organizaciones.md": {
@@ -1215,8 +1215,8 @@
     "semantic_hash": ""
   },
   "docs/casas/eberwulf.md": {
-    "mtime": 1784902568.6995738,
-    "ast_hash": "9594b468992d1f38e382716cf72ebc04",
+    "mtime": 1784913745.9838293,
+    "ast_hash": "80300559cfe1f925fa40fdbf7f1429ce",
     "semantic_hash": ""
   },
   "docs/casas/falkvar.md": {
@@ -1235,8 +1235,8 @@
     "semantic_hash": ""
   },
   "docs/casas/gundrek.md": {
-    "mtime": 1784902568.6995738,
-    "ast_hash": "762919ec25b82481276cc0399d5f6ccf",
+    "mtime": 1784913745.9878292,
+    "ast_hash": "76e88c76d4d69b9dba7a05ca3b094dec",
     "semantic_hash": ""
   },
   "docs/casas/hjorven.md": {
@@ -1250,28 +1250,28 @@
     "semantic_hash": ""
   },
   "docs/casas/kjarven.md": {
-    "mtime": 1784902568.6995738,
-    "ast_hash": "482b0a659cc9d4f088dca0d13fff451a",
+    "mtime": 1784913745.9838293,
+    "ast_hash": "f64a45125b1c0926cddef5b4e03d94c4",
     "semantic_hash": ""
   },
   "docs/casas/korzan.md": {
-    "mtime": 1784902568.6995738,
-    "ast_hash": "f731b41fa710c88d5eae5b7d0c03f1f8",
+    "mtime": 1784913745.9878292,
+    "ast_hash": "26d96687e617051081bf35745f25658e",
     "semantic_hash": ""
   },
   "docs/casas/lisaryon.md": {
-    "mtime": 1784902568.6995738,
-    "ast_hash": "5f011e5e99f2b29e3c6e555c1d60395d",
+    "mtime": 1784913745.9838293,
+    "ast_hash": "d5afbd674284e663412260ba0930febe",
     "semantic_hash": ""
   },
   "docs/casas/mirandys.md": {
-    "mtime": 1784902568.6995738,
-    "ast_hash": "f42e5cc9c1236d416b3368e0806be617",
+    "mtime": 1784913745.9838293,
+    "ast_hash": "5e9fbdbc7af7ce47a535e349191fcc6d",
     "semantic_hash": ""
   },
   "docs/casas/reginvar.md": {
-    "mtime": 1784902568.6995738,
-    "ast_hash": "f398a5f90fdd58623b4a19529ea4c330",
+    "mtime": 1784912252.7757955,
+    "ast_hash": "6b8d6ea20fd949dce665aa2b831ec8fd",
     "semantic_hash": ""
   },
   "docs/casas/thalyros.md": {
@@ -1290,8 +1290,8 @@
     "semantic_hash": ""
   },
   "docs/casas/voresk.md": {
-    "mtime": 1784902568.6995738,
-    "ast_hash": "4957df790800fcdc48c5fba7fd0f6a4a",
+    "mtime": 1784913745.9878292,
+    "ast_hash": "5887aa54e87a459731b6a87b539bf3fd",
     "semantic_hash": ""
   },
   "docs/casas/wuldrik.md": {
@@ -1425,8 +1425,8 @@
     "semantic_hash": ""
   },
   "docs/personajes/monarcas/lykandros-mirandys.md": {
-    "mtime": 1784902568.7075737,
-    "ast_hash": "037d0b1142deebcbf3af84c78c7265b6",
+    "mtime": 1784913745.9798293,
+    "ast_hash": "3b781c774a0da9d119032b931194c669",
     "semantic_hash": ""
   },
   "docs/personajes/monarcas/oryphos-valiryos.md": {

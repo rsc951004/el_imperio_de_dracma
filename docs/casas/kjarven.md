@@ -7,7 +7,7 @@
 | **Tipo** | Casa real |
 | **Reino** | Lyng |
 | **Posición dinástica** | Casa fundadora y presente definitiva |
-| **Título** | Rey o Reina del Valle |
+| **Título** | Rey o Reina de los Campos Esmeralda |
 
 ## Historia
 

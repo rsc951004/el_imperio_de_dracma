@@ -13,7 +13,7 @@ Reino del Imperio de Dragma y protector de Khalos.
 | **Casa fundadora** | Voresk |
 | **Casa real** | Korzan |
 | **Gobernante** | Pendiente |
-| **Título** | Rey o Reina del Fulgor |
+| **Título** | Rey o Reina de la Puerta Carmesí |
 | **Región histórica** | Dresk |
 
 ## Concepto

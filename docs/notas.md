@@ -57,6 +57,22 @@ formas. Se actualizaron las fichas, los índices, los enlaces y las referencias
 cronológicas afectadas, incluidos los nombres de archivo de la región y de la
 entidad.
 
+### Renombramiento P-11: títulos reales (2026-07-24)
+
+Se actualizaron los títulos de Eisengard a **Rey/Reina del Valle de Hierro**,
+Guldengard a **Rey/Reina del Valle Dorado**, Flemmengard a **Rey/Reina de la
+Montaña Ardiente**, Lysarya a **Rey/Reina de las Praderas Esmeralda** y
+Veleskaria a **Rey/Reina de la Puerta Carmesí**. El título de Lyng, **Rey/Reina
+del Valle**, queda pendiente de sustitución.
+
+### Cierre P-12: títulos reales (2026-07-24)
+
+Se completó el volcamiento autorizado de los títulos reales. Lysarya adopta el
+título de **Rey/Reina de la Colina del Verano** y Lyng el de **Rey/Reina de los
+Campos Esmeralda**. Se actualizaron sus fichas territoriales, las casas reales,
+los índices y la ficha de Lykandros Mirandys. El conjunto vigente de títulos
+queda cerrado en el índice territorial de Dragma.
+
 ### Volcamiento P-05: restitución de detalle aprobado (2026-07-24)
 
 Se completó una auditoría complementaria de los hechos aprobados de la

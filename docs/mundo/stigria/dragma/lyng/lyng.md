@@ -13,7 +13,7 @@ Reino del Imperio de Dragma.
 | **Casa fundadora** | Kjarven |
 | **Casa real** | Kjarven |
 | **Gobernante** | Pendiente |
-| **Título** | Rey o Reina del Valle |
+| **Título** | Rey o Reina de los Campos Esmeralda |
 | **Bloque** | Amanecer |
 | **Región** | Tierra de la Bruma |
 

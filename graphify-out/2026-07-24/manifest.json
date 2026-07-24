@@ -135,9 +135,9 @@
     "semantic_hash": ""
   },
   "docs/casas/artema.md": {
-    "mtime": 1784482343.0779483,
-    "ast_hash": "0af81af9b5404c42f8c3ac4d840f5e3d",
-    "semantic_hash": "0af81af9b5404c42f8c3ac4d840f5e3d"
+    "mtime": 1784911181.0477736,
+    "ast_hash": "c83d75d7993f03d9a74f252ee5f887e8",
+    "semantic_hash": ""
   },
   "docs/casas/brandt.md": {
     "mtime": 1784479394.1298776,
@@ -280,24 +280,19 @@
     "semantic_hash": ""
   },
   "docs/cronologia.md": {
-    "mtime": 1784907443.183686,
-    "ast_hash": "b8e68dff2d2c5e58a919a1059d9214a3",
+    "mtime": 1784911181.0517735,
+    "ast_hash": "60048963474520cd8c591f81d654e9da",
     "semantic_hash": ""
   },
   "docs/entidades.md": {
-    "mtime": 1784901617.3635511,
-    "ast_hash": "7e130ae883b38db109473b79930a79a8",
+    "mtime": 1784911181.0477736,
+    "ast_hash": "7c78cc28f56e4938b3c3122bc1bf59af",
     "semantic_hash": ""
   },
   "docs/entidades/ghera.md": {
-    "mtime": 1784901388.6955483,
-    "ast_hash": "1c758af727b3c77698ee1b0e30e0bf6a",
+    "mtime": 1784911181.0477736,
+    "ast_hash": "615ed53a8858fa97de5906c4de834705",
     "semantic_hash": ""
-  },
-  "docs/entidades/grimmen.md": {
-    "mtime": 1784506677.5145075,
-    "ast_hash": "c3afe58d4435068360da597ccefbf47a",
-    "semantic_hash": "c3afe58d4435068360da597ccefbf47a"
   },
   "docs/entidades/inits.md": {
     "mtime": 1784507920.7985353,
@@ -325,8 +320,8 @@
     "semantic_hash": ""
   },
   "docs/entidades/smurr.md": {
-    "mtime": 1784901388.691548,
-    "ast_hash": "ecca89251f9e0f7b8f1f22c4b0a36d37",
+    "mtime": 1784911181.0477736,
+    "ast_hash": "92f7ffc2d215e05989bf30445a604834",
     "semantic_hash": ""
   },
   "docs/entidades/thalmos.md": {
@@ -335,8 +330,8 @@
     "semantic_hash": "0e90814822414ea0aae364b7c837dc34"
   },
   "docs/mundo.md": {
-    "mtime": 1784902998.0195832,
-    "ast_hash": "ec05ae25a80f29204e8ed0a273b64479",
+    "mtime": 1784911213.3597732,
+    "ast_hash": "7b897b3a2ac3abcf87f8db776c42f015",
     "semantic_hash": ""
   },
   "docs/mundo/astria/astria.md": {
@@ -355,9 +350,9 @@
     "semantic_hash": "1a84e46361de74e723ce2e969350eaa0"
   },
   "docs/mundo/stigria/acero-del-alba.md": {
-    "mtime": 1784479713.653893,
-    "ast_hash": "3212900538a07be34bb1e9133e3882c7",
-    "semantic_hash": "3212900538a07be34bb1e9133e3882c7"
+    "mtime": 1784911181.0557737,
+    "ast_hash": "68357f545eba0f085ce9cf34d2904cee",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/artefactos-misticos.md": {
     "mtime": 1784479697.2218924,
@@ -385,9 +380,9 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/delfos/delfos.md": {
-    "mtime": 1784480886.9019163,
-    "ast_hash": "cce81ead4079c968f33f3f1f75818a21",
-    "semantic_hash": "cce81ead4079c968f33f3f1f75818a21"
+    "mtime": 1784911181.0637736,
+    "ast_hash": "a8f5e49bd035cce7b6b8d29a146ce08a",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/dinastia-amschel.md": {
     "mtime": 1784906934.955675,
@@ -395,8 +390,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/dragma.md": {
-    "mtime": 1784906934.955675,
-    "ast_hash": "b0037f92f02578fc753c5df16be4c6f2",
+    "mtime": 1784911181.0597737,
+    "ast_hash": "8f6204b62a1dd4eb83412b3923692699",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/eisengard/eisengard.md": {
@@ -405,8 +400,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/esteria/esteria.md": {
-    "mtime": 1784906768.7836716,
-    "ast_hash": "a9ae548e81b07729cf6262f5e2a38c04",
+    "mtime": 1784911181.0597737,
+    "ast_hash": "439072a080c024d87849eaf159b27d2c",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/flemmengard/flemmengard.md": {
@@ -445,8 +440,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/lysarya/lysarya.md": {
-    "mtime": 1784901497.09555,
-    "ast_hash": "043863f3bed1c84058b6ee5f4f0c82e6",
+    "mtime": 1784911181.0597737,
+    "ast_hash": "26622eb542b6de73a3720538f105e823",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/nombres-carmesi.md": {
@@ -490,59 +485,59 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/veleskaria/veleskaria.md": {
-    "mtime": 1784904231.431612,
-    "ast_hash": "ff0d0702107857bf0150b8182dd48fa7",
+    "mtime": 1784911181.0637736,
+    "ast_hash": "3fc16ca85cbd8a651e2832e2e77e82cd",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/vesperya/vesperya.md": {
-    "mtime": 1784902998.0235834,
-    "ast_hash": "bc9303595ffa03350b635ce6341bfe50",
+    "mtime": 1784911181.0597737,
+    "ast_hash": "debe400207e96f088a86913cfcd4aed6",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/zephyrya/zephyrya.md": {
-    "mtime": 1784910020.3237445,
-    "ast_hash": "f60fec667e83e393c8268e0ed2961b3e",
+    "mtime": 1784911181.0597737,
+    "ast_hash": "5ee6453732ddea25ebc1c640ec48d7e8",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-la-podredumbre.md": {
-    "mtime": 1784906668.0196664,
-    "ast_hash": "9edfab99ff87a4ea723ce8b8809c0611",
+    "mtime": 1784911181.0557737,
+    "ast_hash": "a248c1c0814f50cbb0d59ff22c621026",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-la-tirania.md": {
-    "mtime": 1784907603.7796888,
-    "ast_hash": "9680cd9ebc6c60e35ef05987c1b38ac8",
+    "mtime": 1784911181.0597737,
+    "ast_hash": "5e6e003576a0c339927ae3ea78eb4da9",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-plata.md": {
-    "mtime": 1784906768.7836716,
-    "ast_hash": "368c8cc6feec70574546e4e348af0179",
+    "mtime": 1784911181.0637736,
+    "ast_hash": "97640b4bba6728516efb64b3257f1537",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-del-hierro.md": {
-    "mtime": 1784906668.0196664,
-    "ast_hash": "5009449015c18497e58f7a3adc1bf813",
+    "mtime": 1784911181.0637736,
+    "ast_hash": "c66fd80ac6362e19ca92826c5ad8afe3",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/emisarios-de-la-ruina.md": {
-    "mtime": 1784480934.5259168,
-    "ast_hash": "95950ab14fd5f2d332b294d5d08bc767",
-    "semantic_hash": "95950ab14fd5f2d332b294d5d08bc767"
+    "mtime": 1784911181.0557737,
+    "ast_hash": "0107b16debd8e9ecf0147d196c1dc268",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/foso-de-la-calamidad.md": {
-    "mtime": 1784906768.7876716,
-    "ast_hash": "9c2c223947ae745deda26bd64a0a0750",
+    "mtime": 1784911181.0517735,
+    "ast_hash": "096dfd1b78b4725446c45de749d8b263",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/gente-de-la-bruma.md": {
-    "mtime": 1784906831.8996735,
-    "ast_hash": "94535cd5784d5c0117e5faf9e41c2be9",
+    "mtime": 1784911181.0557737,
+    "ast_hash": "eb2fc0ed8c913dc8274f04be0ecd008d",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/gheran.md": {
-    "mtime": 1784258263.8023422,
-    "ast_hash": "a0b2f413dd238bb88d8e7e7f3b9f5c18",
-    "semantic_hash": "a0b2f413dd238bb88d8e7e7f3b9f5c18"
+    "mtime": 1784911181.0557737,
+    "ast_hash": "fe543847c623a9e6dec3dcd5f13d069c",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/gherin.md": {
     "mtime": 1784866650.899248,
@@ -554,14 +549,9 @@
     "ast_hash": "623a8d03f9b07762f7b7b503df4fc9a4",
     "semantic_hash": "623a8d03f9b07762f7b7b503df4fc9a4"
   },
-  "docs/mundo/stigria/grimm.md": {
-    "mtime": 1784506677.5185075,
-    "ast_hash": "743b8bdda544c39a5155cd5ae6325ac9",
-    "semantic_hash": "743b8bdda544c39a5155cd5ae6325ac9"
-  },
   "docs/mundo/stigria/guerra-de-unland.md": {
-    "mtime": 1784906768.7836716,
-    "ast_hash": "d3299cd1381b948c8376ff47406eae4e",
+    "mtime": 1784911181.0637736,
+    "ast_hash": "69562e58f1d8cad2009ec2924f391bff",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/guerra-del-valle-dorado.md": {
@@ -570,8 +560,8 @@
     "semantic_hash": "e7a37d29b2bdd7bdb48f66b794d0bde6"
   },
   "docs/mundo/stigria/historia-antigua.md": {
-    "mtime": 1784906668.0156665,
-    "ast_hash": "0ae8c171c7bffc98b5d356af261f7c78",
+    "mtime": 1784911181.0597737,
+    "ast_hash": "e69fe818a2d708452c0e28fc01ef7abc",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/kantra.md": {
@@ -590,8 +580,8 @@
     "semantic_hash": "1917674e9077c8293040c0370edeccc7"
   },
   "docs/mundo/stigria/roshdom.md": {
-    "mtime": 1784906831.8996735,
-    "ast_hash": "102214de238193f4bae6c199cd00e9cb",
+    "mtime": 1784911213.3597732,
+    "ast_hash": "afac58e7d903392afc7c71f789b2ec6e",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/rugido-mordaz.md": {
@@ -620,14 +610,14 @@
     "semantic_hash": "65cf842ddbe9d8b126d1c10807292723"
   },
   "docs/mundo/stigria/stigria.md": {
-    "mtime": 1784906991.059674,
-    "ast_hash": "5d8b6f7d3dc7e60190179b6d927f8883",
+    "mtime": 1784911213.3597732,
+    "ast_hash": "8a92e53f6d48dc1cfd17fb4ba866059f",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/stomur.md": {
-    "mtime": 1784319517.199862,
-    "ast_hash": "8f1b6e885e2aef64225035f94ce92d50",
-    "semantic_hash": "8f1b6e885e2aef64225035f94ce92d50"
+    "mtime": 1784911213.3597732,
+    "ast_hash": "d5eff8999420f3c1bb1026c2f1031b2f",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/suntarys.md": {
     "mtime": 1784907514.0636876,
@@ -640,8 +630,8 @@
     "semantic_hash": ""
   },
   "docs/notas.md": {
-    "mtime": 1784910152.4397469,
-    "ast_hash": "23d8cfbcfabae8f524fd4f1d4a80b948",
+    "mtime": 1784911226.215771,
+    "ast_hash": "74f4d645b50f301ac6df933bffa19e65",
     "semantic_hash": ""
   },
   "docs/organizaciones.md": {
@@ -660,8 +650,8 @@
     "semantic_hash": "6e26b37d7977f7a25624762d3ab284f4"
   },
   "docs/organizaciones/guardia-amarilla.md": {
-    "mtime": 1784866594.3992465,
-    "ast_hash": "0578c6538da79999534a664a4a460b76",
+    "mtime": 1784911181.0517735,
+    "ast_hash": "f19ff85a842a5d55de1b7ba1ed31cb84",
     "semantic_hash": ""
   },
   "docs/organizaciones/guardia-del-norte.md": {
@@ -675,13 +665,13 @@
     "semantic_hash": "bff5763a21dd5e934a85de480714c8c8"
   },
   "docs/pendientes.md": {
-    "mtime": 1784906991.0636742,
-    "ast_hash": "2a8d17192ba1897e772adbda3b0da11f",
+    "mtime": 1784911181.0517735,
+    "ast_hash": "20c9ee8b1c92ca074f3a1e6ef62321bb",
     "semantic_hash": ""
   },
   "docs/personajes.md": {
-    "mtime": 1784902998.0235834,
-    "ast_hash": "ddbb16c71ae3c2632693232f96ada843",
+    "mtime": 1784911181.0517735,
+    "ast_hash": "bb654abb08f23b4e0bee31ed362c7c3f",
     "semantic_hash": ""
   },
   "docs/personajes/alastor-ormur.md": {
@@ -690,9 +680,9 @@
     "semantic_hash": "8ef4ae135958a8bf33c9d98c44574c99"
   },
   "docs/personajes/andrey-radanescu.md": {
-    "mtime": 1784508695.6625528,
-    "ast_hash": "a5386022a2399fb6e03f8f9ccb1a207f",
-    "semantic_hash": "a5386022a2399fb6e03f8f9ccb1a207f"
+    "mtime": 1784911181.0637736,
+    "ast_hash": "a57a519a5743dae1046aa6bbf690a890",
+    "semantic_hash": ""
   },
   "docs/personajes/armin-mormund.md": {
     "mtime": 1784838493.1826048,
@@ -755,9 +745,9 @@
     "semantic_hash": "67c7434db658372ff48c41973baa4a41"
   },
   "docs/personajes/lauffen.md": {
-    "mtime": 1784506677.5185075,
-    "ast_hash": "e7e77722c56be9eecbbdcb9e334d7d17",
-    "semantic_hash": "e7e77722c56be9eecbbdcb9e334d7d17"
+    "mtime": 1784911181.0597737,
+    "ast_hash": "e14ce6c82f19f768de2f86f6082d2dec",
+    "semantic_hash": ""
   },
   "docs/personajes/lumino-therin.md": {
     "mtime": 1784507082.3465152,
@@ -835,8 +825,8 @@
     "semantic_hash": ""
   },
   "docs/personajes/monarcas/mijail-mormund.md": {
-    "mtime": 1784906934.951675,
-    "ast_hash": "a470b0c19dcfb7ec226bbdd3b900a0d6",
+    "mtime": 1784911181.0637736,
+    "ast_hash": "75f53030252c832e1ed57b0bfb5e16f6",
     "semantic_hash": ""
   },
   "docs/personajes/monarcas/neryssa-undavos.md": {
@@ -905,8 +895,8 @@
     "semantic_hash": "8bb38e94c2f0a85150869a960ef23ed4"
   },
   "docs/personajes/rey-podrido.md": {
-    "mtime": 1784910152.435747,
-    "ast_hash": "043db0a560f572d0ee9e18572e464f63",
+    "mtime": 1784911181.0557737,
+    "ast_hash": "4f2b7c751508ab3b42d7c5b3c1ad2d57",
     "semantic_hash": ""
   },
   "docs/personajes/rudgar-valgard.md": {
@@ -935,14 +925,14 @@
     "semantic_hash": ""
   },
   "docs/personajes/strigor.md": {
-    "mtime": 1784506748.2145095,
-    "ast_hash": "7c2139bdaba3c29f3972db0539e5401b",
-    "semantic_hash": "7c2139bdaba3c29f3972db0539e5401b"
+    "mtime": 1784911181.0597737,
+    "ast_hash": "ef1aceb0c22966495c6323bfbf5e47ea",
+    "semantic_hash": ""
   },
   "docs/personajes/tanyaro-mano-de-serpiente.md": {
-    "mtime": 1784262675.1864388,
-    "ast_hash": "bc9bfbf6dcf7f77160b2aa64543643d2",
-    "semantic_hash": "bc9bfbf6dcf7f77160b2aa64543643d2"
+    "mtime": 1784911181.0557737,
+    "ast_hash": "e988d9136cee27992ee7fd63935234c2",
+    "semantic_hash": ""
   },
   "docs/personajes/uther-boca-de-sal.md": {
     "mtime": 1784319583.731866,
@@ -955,9 +945,9 @@
     "semantic_hash": "303af491864db8d60d821eb9271daba4"
   },
   "docs/personajes/vedrik-frosthain.md": {
-    "mtime": 1784507082.3465152,
-    "ast_hash": "4a3ed164c6e6ca0f1573afe595f1c3cb",
-    "semantic_hash": "4a3ed164c6e6ca0f1573afe595f1c3cb"
+    "mtime": 1784911181.0557737,
+    "ast_hash": "bd2a7ca8b21fdeec3e2143ff46713e2f",
+    "semantic_hash": ""
   },
   "docs/personajes/wolfram-el-bardo.md": {
     "mtime": 1784506677.5185075,
@@ -970,8 +960,8 @@
     "semantic_hash": "7cec354676ea12c4bb17288518e90ebd"
   },
   "docs/taburas.md": {
-    "mtime": 1784910152.435747,
-    "ast_hash": "80659821e4818d87381ed1c23366ce16",
+    "mtime": 1784911181.0517735,
+    "ast_hash": "5644313f4b4048d2094a040f64e7013a",
     "semantic_hash": ""
   },
   "docs/taburas/dex-tabura.md": {
@@ -1205,13 +1195,13 @@
     "semantic_hash": ""
   },
   "docs/taburas/grim-tabura.md": {
-    "mtime": 1784866815.5872512,
-    "ast_hash": "3564f3f69ed69ed4f01c914c95600c46",
+    "mtime": 1784911181.0477736,
+    "ast_hash": "48a2ae0e8699fb7abe65baa1234473f1",
     "semantic_hash": ""
   },
   "docs/taburas/moes-tabura.md": {
-    "mtime": 1784866594.4032464,
-    "ast_hash": "a96c7037209576c30690f985a3831f35",
+    "mtime": 1784911181.0477736,
+    "ast_hash": "d498bbe70e1b98e938a1af72685e2608",
     "semantic_hash": ""
   },
   "docs/casas/beranwald.md": {
@@ -1320,8 +1310,8 @@
     "semantic_hash": ""
   },
   "docs/entidades/lamya.md": {
-    "mtime": 1784901300.9235473,
-    "ast_hash": "7fcdc1f514b455b3315d1d92e46051ef",
+    "mtime": 1784911181.0477736,
+    "ast_hash": "bd449cc61d272b9bf201c452810a99b0",
     "semantic_hash": ""
   },
   "docs/entidades/vitdrakiris.md": {
@@ -1425,8 +1415,8 @@
     "semantic_hash": ""
   },
   "docs/personajes/katerina.md": {
-    "mtime": 1784901300.919547,
-    "ast_hash": "36ec622cb67f7918d595419a045720d6",
+    "mtime": 1784911181.0597737,
+    "ast_hash": "204be5ae46e21f820d8566737383c2a6",
     "semantic_hash": ""
   },
   "docs/personajes/monarcas/dimethys-kalistrys.md": {
@@ -1457,6 +1447,16 @@
   "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md": {
     "mtime": 1784907470.0716865,
     "ast_hash": "304329fe2e9a771fb5849f5c5b33850c",
+    "semantic_hash": ""
+  },
+  "docs/entidades/grimm.md": {
+    "mtime": 1784911181.0477736,
+    "ast_hash": "f3cad1c950ecbdd52685232e6f3dd3e7",
+    "semantic_hash": ""
+  },
+  "docs/mundo/stigria/grimmen.md": {
+    "mtime": 1784911181.0557737,
+    "ast_hash": "cd0cbdd1ad5b413007db8761be2f6fb9",
     "semantic_hash": ""
   }
 }

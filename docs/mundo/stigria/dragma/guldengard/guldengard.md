@@ -13,7 +13,7 @@ establecido durante la Edad de Plata.
 | **Casa fundadora** | Gilden |
 | **Casa real** | Reginvar |
 | **Gobernante** | Pendiente |
-| **Título** | Rey Dorado |
+| **Título** | Rey o Reina del Valle Dorado |
 | **Región** | Valle de Hierro |
 
 ## Descripción

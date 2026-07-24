@@ -98,15 +98,15 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 
 | # | Reino | Región | Casa | Título | Gobernante ★ | Ficha |
 |---|-------|------|------|-------|-------------|-------|
-| 1 | Eisengard | Hierro | Eberwulf | Rey/Reina del Yunque | Pendiente | [Ver ficha](mundo/stigria/dragma/eisengard/eisengard.md) |
-| 2 | Guldengard | Hierro | Reginvar | Rey Dorado | Pendiente | [Ver ficha](mundo/stigria/dragma/guldengard/guldengard.md) |
-| 3 | Flemmengard | Hierro | Gundrek | Rey/Reina de la Llama | Pendiente | [Ver ficha](mundo/stigria/dragma/flemmengard/flemmengard.md) |
+| 1 | Eisengard | Hierro | Eberwulf | Rey/Reina del Valle de Hierro | Pendiente | [Ver ficha](mundo/stigria/dragma/eisengard/eisengard.md) |
+| 2 | Guldengard | Hierro | Reginvar | Rey/Reina del Valle Dorado | Pendiente | [Ver ficha](mundo/stigria/dragma/guldengard/guldengard.md) |
+| 3 | Flemmengard | Hierro | Gundrek | Rey/Reina de la Montaña Ardiente | Pendiente | [Ver ficha](mundo/stigria/dragma/flemmengard/flemmengard.md) |
 | 4 | Sturmgard | Hierro | Fridvar | Rey/Reina de la Tormenta | Pendiente | [Ver ficha](mundo/stigria/dragma/sturmgard/sturmgard.md) |
-| 5 | Lysarya | Costas del Verano | Mirandys | Rey/Reina de la Roca | Rey Lykandros Mirandys | [Ver ficha](mundo/stigria/dragma/lysarya/lysarya.md) |
-| 6 | Veleskaria | Dresk | Korzan | Rey/Reina del Fulgor | Pendiente | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
+| 5 | Lysarya | Costas del Verano | Mirandys | Rey/Reina de la Colina del Verano | Rey Lykandros Mirandys | [Ver ficha](mundo/stigria/dragma/lysarya/lysarya.md) |
+| 6 | Veleskaria | Dresk | Korzan | Rey/Reina de la Puerta Carmesí | Pendiente | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
 | 7 | Zephyrya | Costas del Verano | Kalistrys | Rey/Reina del Ocaso | Rey Dimethys Kalistrys | [Ver ficha](mundo/stigria/dragma/zephyrya/zephyrya.md) |
 | 8 | Kyst | Tierra de la Bruma | Fjolvar | Rey/Reina de la Costa Gris | Pendiente | [Ver ficha](mundo/stigria/dragma/kyst/kyst.md) |
-| 9 | Lyng | Tierra de la Bruma | Kjarven | Rey/Reina del Valle | Pendiente | [Ver ficha](mundo/stigria/dragma/lyng/lyng.md) |
+| 9 | Lyng | Tierra de la Bruma | Kjarven | Rey/Reina de los Campos Esmeralda | Pendiente | [Ver ficha](mundo/stigria/dragma/lyng/lyng.md) |
 | 10 | Vesperya | Costas del Verano | Valiryos | Rey/Reina del Tridente | Rey Oryphos Valiryos | [Ver ficha](mundo/stigria/dragma/vesperya/vesperya.md) |
 | 11 | Sindria | Weissen | Velkar | Rey/Reina del Foso | Pendiente | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
 | 12 | Bjorn | Tierra de la Bruma | Hjorven | Rey/Reina del Bosque | Pendiente | [Ver ficha](mundo/stigria/dragma/bjorn/bjorn.md) |

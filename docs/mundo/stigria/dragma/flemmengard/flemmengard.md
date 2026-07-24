@@ -14,7 +14,9 @@ Askenburg
 - Actual: **Gundrek**
 
 ## Título del gobernante
-**Rey de la Llama** o **Reina de la Llama**. Forma abreviada entre monarcas: Rey Llama o Reina Llama. El título evoca el corazón volcánico del noroeste y la tradición piromántica del reino.
+**Rey de la Montaña Ardiente** o **Reina de la Montaña Ardiente**. Forma
+abreviada entre monarcas: Rey Montaña o Reina Montaña. El título evoca el
+corazón volcánico del noroeste y la tradición piromántica del reino.
 
 ## Afiliación en la rebelión
 **Bloque de Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard.

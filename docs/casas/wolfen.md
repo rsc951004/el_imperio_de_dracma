@@ -12,7 +12,7 @@
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
 | **Fundador** | Pendiente |
-| **Título** | Rey/Reina de la Llama |
+| **Título** | Rey/Reina de la Montaña Ardiente |
 
 ## Historia y descripción
 

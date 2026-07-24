@@ -7,7 +7,7 @@
 | **Tipo** | Casa real fundadora |
 | **Reino** | Lysarya |
 | **Posición dinástica** | Casa fundadora |
-| **Título** | Rey o Reina de la Roca |
+| **Título** | Rey o Reina de la Colina del Verano |
 
 ## Historia
 

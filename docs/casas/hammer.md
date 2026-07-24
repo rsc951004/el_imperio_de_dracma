@@ -8,7 +8,7 @@
 | **Tipo** | Casa real fundadora |
 | **Reino** | Eisengard |
 | **Posición dinástica** | Casa fundadora |
-| **Título** | Rey/Reina del Yunque |
+| **Título** | Rey/Reina del Valle de Hierro |
 
 ## Historia y descripción
 

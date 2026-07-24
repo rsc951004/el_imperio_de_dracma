@@ -7,7 +7,7 @@
 | **Tipo** | Casa real de la Edad de Oro |
 | **Reino** | Eisengard |
 | **Posición dinástica** | Casa presente definitiva |
-| **Título** | Rey o Reina del Yunque |
+| **Título** | Rey o Reina del Valle de Hierro |
 
 ## Historia
 
