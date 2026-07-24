@@ -16,4 +16,3 @@ una casa noble menor, sin conservar el señorío ni reclamar la corona.
 
 - `docs/mundo/stigria/dragma/zephyrya/zephyrya.md`
 - `docs/casas/falkvar.md`
-

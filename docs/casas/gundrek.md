@@ -18,4 +18,3 @@ El motivo y las etapas del relevo permanecen reservados.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/flemmengard/flemmengard.md`
-

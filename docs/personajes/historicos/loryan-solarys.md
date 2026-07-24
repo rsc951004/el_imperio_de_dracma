@@ -32,4 +32,3 @@ gobernantes. Loryan cayó con Sweyn y Soren durante la destrucción de Suntarys.
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/suntarys.md`
 - `docs/casas/solarys.md`
-

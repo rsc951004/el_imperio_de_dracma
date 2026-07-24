@@ -25,4 +25,3 @@ Amanecer y recibió después la primera corona de Sindria.
 - `docs/mundo/stigria/dragma/sindria/sindria.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
 - `docs/casas/drazar.md`
-

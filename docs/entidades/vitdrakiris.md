@@ -23,4 +23,3 @@ vínculo con las Doncellas del Viento, permanecen reservados.
 - `docs/entidades/joten.md`
 - `docs/mundo/stigria/dragma/sturmgard/sturmgard.md`
 - `docs/personajes/historicos/giselra.md`
-

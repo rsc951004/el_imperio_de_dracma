@@ -22,4 +22,3 @@ Mirandys. El motivo y las etapas del relevo permanecen reservados.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/lysarya/lysarya.md`
-

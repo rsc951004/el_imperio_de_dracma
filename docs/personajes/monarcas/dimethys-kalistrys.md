@@ -14,4 +14,3 @@ su reinado permanecen reservados.
 
 - `docs/mundo/stigria/dragma/zephyrya/zephyrya.md`
 - `docs/casas/kalistrys.md`
-

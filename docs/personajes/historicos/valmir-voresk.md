@@ -14,4 +14,3 @@ del nuevo reino de Veleskaria.
 
 - `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`
 - `docs/casas/voresk.md`
-

@@ -23,4 +23,3 @@ permanecen reservados.
 
 - `docs/mundo/stigria/dragma/lysarya/lysarya.md`
 - `docs/personajes/monarcas/lykandros-mirandys.md`
-

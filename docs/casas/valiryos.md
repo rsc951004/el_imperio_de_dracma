@@ -23,4 +23,3 @@ reservados.
 
 - `docs/mundo/stigria/dragma/vesperya/vesperya.md`
 - `docs/personajes/monarcas/oryphos-valiryos.md`
-

@@ -22,4 +22,3 @@ Kalistrys. El motivo y las etapas del relevo permanecen reservados.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/zephyrya/zephyrya.md`
-

@@ -23,4 +23,3 @@ permanecen reservados.
 
 - `docs/mundo/stigria/dragma/zephyrya/zephyrya.md`
 - `docs/personajes/monarcas/dimethys-kalistrys.md`
-

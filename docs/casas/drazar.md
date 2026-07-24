@@ -27,4 +27,3 @@ del relevo permanecen reservados.
 
 - `docs/mundo/stigria/dragma/sindria/sindria.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
-

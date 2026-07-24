@@ -17,4 +17,3 @@ noble menor, sin conservar el señorío ni poder reclamar la corona.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/vesperya/vesperya.md`
-

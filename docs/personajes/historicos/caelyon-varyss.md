@@ -22,4 +22,3 @@ el trono de Suntarys.
 
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/suntarys.md`
-

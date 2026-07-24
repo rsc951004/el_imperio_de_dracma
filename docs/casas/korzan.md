@@ -18,4 +18,3 @@ reservados.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`
-

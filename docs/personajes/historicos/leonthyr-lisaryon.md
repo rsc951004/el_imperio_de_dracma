@@ -14,4 +14,3 @@ dinastía permanecen reservados.
 
 - `docs/mundo/stigria/dragma/lysarya/lysarya.md`
 - `docs/casas/lisaryon.md`
-

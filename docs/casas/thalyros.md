@@ -22,4 +22,3 @@ Valiryos. El motivo y las etapas del relevo permanecen reservados.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/vesperya/vesperya.md`
-

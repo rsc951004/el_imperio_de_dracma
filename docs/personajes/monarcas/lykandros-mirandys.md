@@ -14,4 +14,3 @@ su reinado permanecen reservados.
 
 - `docs/mundo/stigria/dragma/lysarya/lysarya.md`
 - `docs/casas/mirandys.md`
-

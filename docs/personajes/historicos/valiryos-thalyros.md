@@ -14,4 +14,3 @@ dinastía permanecen reservados.
 
 - `docs/mundo/stigria/dragma/vesperya/vesperya.md`
 - `docs/casas/thalyros.md`
-

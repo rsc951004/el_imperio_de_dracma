@@ -18,4 +18,3 @@ y las etapas del relevo permanecen reservados.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/eisengard/eisengard.md`
-

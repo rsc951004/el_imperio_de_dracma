@@ -21,4 +21,3 @@ la Edad de Oro; no existe una casa intermedia en la continuidad aprobada.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/kyst/kyst.md`
-

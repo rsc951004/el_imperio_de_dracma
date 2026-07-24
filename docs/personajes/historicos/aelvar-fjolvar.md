@@ -12,4 +12,3 @@ Los hechos de su elección y de su reinado permanecen reservados.
 
 - `docs/mundo/stigria/dragma/kyst/kyst.md`
 - `docs/casas/fjolvar.md`
-

@@ -26,4 +26,3 @@ fractura tardía de Sturmgard y a la adhesión de parte de sus guerreros a Haral
 
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/dragma/sturmgard/sturmgard.md`
-

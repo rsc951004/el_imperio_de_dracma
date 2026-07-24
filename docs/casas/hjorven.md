@@ -19,4 +19,3 @@ reservados.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/bjorn/bjorn.md`
-

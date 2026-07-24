@@ -19,4 +19,3 @@ Jöten permanecen reservados para desarrollos posteriores.
 
 - `docs/entidades/vitdrakiris.md`
 - `docs/entidades/smurr.md`
-
