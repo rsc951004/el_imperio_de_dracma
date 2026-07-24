@@ -1,0 +1,22 @@
+/home/rsc951004/Proyectos/el_imperio/docs/taburas/tabura.md
+/home/rsc951004/Proyectos/el_imperio/docs/taburas/vex-tabura.md
+/home/rsc951004/Proyectos/el_imperio/herramientas/build.sh
+/home/rsc951004/Proyectos/el_imperio/herramientas/AGENTS.md
+/home/rsc951004/Proyectos/el_imperio/herramientas/prompt-mapa-estigria.md
+/home/rsc951004/Proyectos/el_imperio/herramientas/mapa-estigria/index.html
+/home/rsc951004/Proyectos/el_imperio/mesa-de-trabajo/README.md
+/home/rsc951004/Proyectos/el_imperio/procesos-de-volcamiento/AGENTS.md
+/home/rsc951004/Proyectos/el_imperio/procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md
+/home/rsc951004/Proyectos/el_imperio/procesos-de-volcamiento/edad-de-la-tirania/acumulacion-edad-de-la-tirania.md
+/home/rsc951004/Proyectos/el_imperio/procesos-de-volcamiento/edad-de-la-tirania/auditoria-previa-al-volcamiento-edad-de-la-tirania.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/AGENTS.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/00 - Ideas rescatadas de proto_v1.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/1 - La edad de la maravilla.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/10 - Carta de Sandor Solaris a Ianos Guieska.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/11 - Respuesta de Ianos Guieska a Sandor Solaris.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/12 - El Nacimiento de la Nación de la Luz.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/13 - El Sabio Triste.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/14 - El Invocador del Sol.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/15 - De Luz y de Sombra.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/16 - El Bello Rey Sombra.md
+/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/17 - El Buen Rey Sol.md
