@@ -405,9 +405,9 @@
     "semantic_hash": "608f71ec20089732fbab627765937fc7"
   },
   "docs/mundo/stigria/dragma/esteria/esteria.md": {
-    "mtime": 1784863923.9271858,
-    "ast_hash": "7225336be6e1d90752500cd74e0d1fac",
-    "semantic_hash": "7225336be6e1d90752500cd74e0d1fac"
+    "mtime": 1784866594.3952463,
+    "ast_hash": "654258158f42313c69b202ec8b69647e",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/flemmengard/flemmengard.md": {
     "mtime": 1784258272.7263422,
@@ -445,9 +445,9 @@
     "semantic_hash": "3455b29f1286b4ced37363e63032e068"
   },
   "docs/mundo/stigria/dragma/lysarya/lysarya.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "06fa3d1aa445597810fc71751fcade94",
-    "semantic_hash": "06fa3d1aa445597810fc71751fcade94"
+    "mtime": 1784866650.9032478,
+    "ast_hash": "f1cbffb7e1d1e68456ffb8b24a20d64f",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/nombres-carmesi.md": {
     "mtime": 1784830767.5504272,
@@ -475,9 +475,9 @@
     "semantic_hash": "a81f47da9438acafdb708fb60e373fa2"
   },
   "docs/mundo/stigria/dragma/sindria/sindria.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "80f9bb88dedeab406f01f0c8e990807a",
-    "semantic_hash": "80f9bb88dedeab406f01f0c8e990807a"
+    "mtime": 1784866910.4232533,
+    "ast_hash": "ff932aa67d56c4c2a488fda216883a70",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/stamengherin.md": {
     "mtime": 1784865874.9792297,
@@ -485,24 +485,24 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/sturmgard/sturmgard.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "bfce9e972ab7c61046b8c3cf99a7b4db",
-    "semantic_hash": "bfce9e972ab7c61046b8c3cf99a7b4db"
+    "mtime": 1784866815.5872512,
+    "ast_hash": "3e76fb1537e315459458157296298112",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/veleskaria/veleskaria.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "902d9a039ec31323d979ee804b9f7b48",
-    "semantic_hash": "902d9a039ec31323d979ee804b9f7b48"
+    "mtime": 1784866650.899248,
+    "ast_hash": "44ade3fb1fa78c4ea1ac6f177b1fc02e",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/vesperya/vesperya.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "bbc0347bc482abb4d3a7d75e3335ee35",
-    "semantic_hash": "bbc0347bc482abb4d3a7d75e3335ee35"
+    "mtime": 1784866650.9032478,
+    "ast_hash": "088594bc2f7ebebca8c4c966123a0353",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/zephyrya/zephyrya.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "10a5368cb58f371d9130870d265e7dba",
-    "semantic_hash": "10a5368cb58f371d9130870d265e7dba"
+    "mtime": 1784866650.9032478,
+    "ast_hash": "00f7f69c8a837f629db9560079c081c1",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-la-podredumbre.md": {
     "mtime": 1784865323.5952165,
@@ -530,9 +530,9 @@
     "semantic_hash": "95950ab14fd5f2d332b294d5d08bc767"
   },
   "docs/mundo/stigria/foso-de-la-calamidad.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "7d586ad350a972d0c4b8ccee1f417f17",
-    "semantic_hash": "7d586ad350a972d0c4b8ccee1f417f17"
+    "mtime": 1784866650.9032478,
+    "ast_hash": "a09bd6ef8b1e4e7b9eb9b0b61ebe77a4",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/gente-de-la-bruma.md": {
     "mtime": 1784863923.9311857,
@@ -545,9 +545,9 @@
     "semantic_hash": "a0b2f413dd238bb88d8e7e7f3b9f5c18"
   },
   "docs/mundo/stigria/gherin.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "51c18dd465633a777188b6fa6a6fc14f",
-    "semantic_hash": "51c18dd465633a777188b6fa6a6fc14f"
+    "mtime": 1784866650.899248,
+    "ast_hash": "b4c7c1d9cc8723ca8361201ef3520cf9",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/ghild.md": {
     "mtime": 1784479697.2218924,
@@ -640,8 +640,8 @@
     "semantic_hash": ""
   },
   "docs/notas.md": {
-    "mtime": 1784865788.8672273,
-    "ast_hash": "ba25d3cdbd9f7c2ec3672a1ad465381f",
+    "mtime": 1784866865.5232522,
+    "ast_hash": "0654ee25227cb588095b4c30a59cf933",
     "semantic_hash": ""
   },
   "docs/organizaciones.md": {
@@ -660,9 +660,9 @@
     "semantic_hash": "6e26b37d7977f7a25624762d3ab284f4"
   },
   "docs/organizaciones/guardia-amarilla.md": {
-    "mtime": 1784863923.935186,
-    "ast_hash": "8d29081bd48df65b87c1fddff10e1af6",
-    "semantic_hash": "8d29081bd48df65b87c1fddff10e1af6"
+    "mtime": 1784866594.3992465,
+    "ast_hash": "0578c6538da79999534a664a4a460b76",
+    "semantic_hash": ""
   },
   "docs/organizaciones/guardia-del-norte.md": {
     "mtime": 1784508749.8145528,
@@ -970,9 +970,9 @@
     "semantic_hash": "7cec354676ea12c4bb17288518e90ebd"
   },
   "docs/taburas.md": {
-    "mtime": 1784863923.935186,
-    "ast_hash": "72cf377cdb1d30bd3faaf08a90e1c3f1",
-    "semantic_hash": "72cf377cdb1d30bd3faaf08a90e1c3f1"
+    "mtime": 1784866815.5872512,
+    "ast_hash": "703eb553eb0c78a87de3471d5e929cf5",
+    "semantic_hash": ""
   },
   "docs/taburas/dex-tabura.md": {
     "mtime": 1784294057.4712658,
@@ -1030,8 +1030,8 @@
     "semantic_hash": "451bd3824cb125585ae56d45d398feb7"
   },
   "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md": {
-    "mtime": 1784865874.9792297,
-    "ast_hash": "109b627c8cfbaaf66f64ad86643589c0",
+    "mtime": 1784866910.4272532,
+    "ast_hash": "f09b01ec39c20cb09430822a35758efa",
     "semantic_hash": ""
   },
   "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-edad-de-la-tirania.md": {
@@ -1185,9 +1185,9 @@
     "semantic_hash": "a2c05fc7bd99cf87073c4068a84ee356"
   },
   "referencias-visuales/stigria/boceto-puerta-carmesi.png": {
-    "mtime": 1784816516.0123906,
-    "ast_hash": "2a3d880397934534e4c5a606afd4102e",
-    "semantic_hash": "2a3d880397934534e4c5a606afd4102e"
+    "mtime": 1784867133.9759486,
+    "ast_hash": "99b54503cc6e7258afb2e911864e1f0a",
+    "semantic_hash": ""
   },
   "referencias-visuales/stigria/boceto-stigria.png": {
     "mtime": 1784504545.6504562,
@@ -1197,6 +1197,21 @@
   "graphify-out/memory/query_20260724_040529_revisa_tus_cambios_para_ver_si_todo_qued\u00f3_bien.md": {
     "mtime": 1784865929.7832308,
     "ast_hash": "dcbbb38ad3543e318a3f116079795c39",
+    "semantic_hash": ""
+  },
+  "docs/taburas/grien-tabura.md": {
+    "mtime": 1784866910.4272532,
+    "ast_hash": "1f845693098c06111ec0e6d12dad42c4",
+    "semantic_hash": ""
+  },
+  "docs/taburas/grim-tabura.md": {
+    "mtime": 1784866815.5872512,
+    "ast_hash": "3564f3f69ed69ed4f01c914c95600c46",
+    "semantic_hash": ""
+  },
+  "docs/taburas/moes-tabura.md": {
+    "mtime": 1784866594.4032464,
+    "ast_hash": "a96c7037209576c30690f985a3831f35",
     "semantic_hash": ""
   }
 }

@@ -18,16 +18,28 @@ Tres años después del segundo Stamengherin documentado, Stelian fundó Esteria
 
 Esteria no forma parte de los doce Dominios. Es la Gran Barrera del Gherin ante la Ruina y ningún señor ni Raik puede reclamarla o atacarla como heredad propia.
 
+El Foso dificulta el cruce de Grimmen y poseídos, pero no constituye una
+barrera infalible. El modo en que los Amigos del Oriente consiguieron
+atravesarlo permanece sin resolver.
+
+El único acceso terrestre al Norte pasa por Dresk. Weissen carece de salida
+directa hacia el sur porque el cordón de Dorn la separa del resto del Gherin.
+Las Puertas Rojas bloquean el paso entre el Espolón de Dunkel y Dorn.
+
 ## Faro posterior
 
 El Gran Faro de Esteria es posterior a la Edad de Plata. Su luz es amarilla. La construcción del Faro, sus materiales y su funcionamiento permanecen pendientes.
 
 ## Reclamación de Sindria
 
-Sindria conserva una reclamación política sobre Esteria desde la Edad de la
-Tiranía. Nació como una promesa hecha a Sindgard y quedó incorporada al título
-de Rey del Foso, pero nunca anuló la inviolabilidad del Paso del Oriente ni la
-administración de la Guardia Amarilla.
+La reclamación nació de una promesa hecha a Raban Frosthain. Después de la
+disolución de su casa pasó a sus integrantes incorporados a Sindgard y, entre
+ellos, a quienes se unieron a la Casa Drazar. Zorven Drazar la heredó como
+Señor de Sindgard.
+
+Sindria la conserva mediante el título de Rey del Foso, pero nunca anuló la
+inviolabilidad del Paso del Oriente ni la administración de la Guardia
+Amarilla.
 
 ## Referencias
 

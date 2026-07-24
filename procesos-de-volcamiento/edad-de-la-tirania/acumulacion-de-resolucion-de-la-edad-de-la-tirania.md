@@ -1,8 +1,9 @@
 # Acumulación de resoluciones de la Edad de la Tiranía
 
-> **Estado:** P-01, estructura histórica e institucional, fue transferido al
-> canon el 23 de julio de 2026. Los bloques posteriores requieren autorización
-> humana específica.
+> **Estado:** P-01, estructura histórica e institucional, y P-02, territorios e
+> instituciones, fueron transferidos al canon el 23 y el 24 de julio de 2026,
+> respectivamente. Los bloques posteriores requieren autorización humana
+> específica.
 >
 > **Naturaleza:** documento no canónico. Registra las decisiones humanas para
 > resolver los nudos de la auditoría y sus consecuencias antes de cualquier
@@ -1431,22 +1432,24 @@ marco temporal, institucional y territorial que condiciona esos documentos.
 
 ### P-02. Territorios e instituciones
 
+> **Estado del bloque:** transferido al canon el 24 de julio de 2026.
+
 | Operación prevista | Archivo canónico | Resoluciones de origen | Alcance del futuro cambio |
 |---|---|---|---|
-| Reescribir | `docs/mundo/stigria/dragma/esteria/esteria.md` | S-08, S-12 y S-21 | Ajustar la promesa hecha a Raban Frosthain, la cadena que llega a Drazar, la situación del Señor del Faro y la Guardia Amarilla, sin resolver el misterio de abrir Esteria. |
-| Reescribir | `docs/mundo/stigria/dragma/sindria/sindria.md` | S-08, S-11, S-16 y S-21 | Eliminar el culto público al Dios Negro, conservar la reclamación sobre Esteria y reflejar su relación territorial con Weissen. La Grien Tábura solo figurará en su alcance clandestino. |
-| Modificar | `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`, `docs/mundo/stigria/gherin.md` y `docs/mundo/stigria/foso-de-la-calamidad.md` | S-12 | Fijar la única relación espacial entre Dresk, Weissen, Dorn, el Espolón de Dunkel y las Puertas Rojas del Paso de Dresk. |
-| Reescribir | `docs/mundo/stigria/dragma/sturmgard/sturmgard.md` | S-18 a S-20 | Incorporar la Tormenta como leal oficialmente al Raikim con fractura interna tardía, la Voluntad de la Sal y la tradición cultural de Vitdrakiris. |
-| Modificar | `docs/mundo/stigria/dragma/lysarya/lysarya.md`, `docs/mundo/stigria/dragma/zephyrya/zephyrya.md` y `docs/mundo/stigria/dragma/vesperya/vesperya.md` | S-01, S-05, S-10 y S-15 | Integrar solo los antecedentes aprobados de Suntarys, Lamya y la continuidad de las casas; las historias particulares del Verano quedarán para el bloque de casas y personajes. |
+| Reescribir | `docs/mundo/stigria/dragma/esteria/esteria.md` | N-11, N-12, N-14, N-17, S-08, S-12 y S-21 | Ajustar la promesa hecha a Raban Frosthain, la cadena que llega a Drazar, la situación del Señor del Faro y la Guardia Amarilla, sin resolver el misterio de abrir Esteria. |
+| Reescribir | `docs/mundo/stigria/dragma/sindria/sindria.md` | N-17, N-36, S-08, S-11, S-16 y S-21 | Eliminar el culto público al Dios Negro, conservar la reclamación sobre Esteria y reflejar su relación territorial con Weissen. La Grien Tábura solo figurará en su alcance clandestino. |
+| Modificar | `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`, `docs/mundo/stigria/gherin.md` y `docs/mundo/stigria/foso-de-la-calamidad.md` | N-11, N-14, N-17 y S-12 | Fijar la única relación espacial entre Dresk, Weissen, Dorn, el Espolón de Dunkel y las Puertas Rojas del Paso de Dresk, y conservar sin resolver el misterio del Foso. |
+| Reescribir | `docs/mundo/stigria/dragma/sturmgard/sturmgard.md` | N-04, N-09, N-19 y S-18 a S-20 | Incorporar la Tormenta como leal oficialmente al Raikim con fractura interna tardía, la Voluntad de la Sal y la Voluntad del Hierro, la tradición cultural de Vitdrakiris y la precariedad de la pesca. |
+| Modificar | `docs/mundo/stigria/dragma/lysarya/lysarya.md`, `docs/mundo/stigria/dragma/zephyrya/zephyrya.md` y `docs/mundo/stigria/dragma/vesperya/vesperya.md` | N-25, N-39, S-01, S-05 y S-15 | Integrar solo los antecedentes aprobados de Suntarys y Lamya, los señoríos del Hierro y las coronas fundadoras. La sustitución de las casas presentes y las historias particulares del Verano quedarán para el bloque de casas y personajes. |
 | Crear | `docs/taburas/grim-tabura.md` | S-15 | Ficha mínima de la Tábura independiente dedicada a la caza de Grimmen, sin desarrollar métodos ni estructura. |
 | Crear | `docs/taburas/grien-tabura.md` | S-11 y S-16 | Ficha mínima y de canon velado para la sociedad clandestina ligada a Thalmos y al Rey Podrido. |
 | Crear | `docs/taburas/moes-tabura.md` | S-15 | Ficha mínima de la Tábura formada tras la caída del Raikim por antiguos Portadores esclavizados, sin desarrollar su cometido. |
 | Modificar | `docs/taburas.md` | S-15 y S-16 | Incorporar los tres nuevos índices de Táburas con su categoría correcta: Grim independiente, Grien clandestina y Möes pendiente de desarrollo. |
-| Modificar | `docs/organizaciones/guardia-amarilla.md` | S-08 y S-12 | Ajustar el gobierno provisional de Esteria y el puesto formalmente vacante del Señor del Faro. |
+| Modificar | `docs/organizaciones/guardia-amarilla.md` | N-12 y N-17 | Ajustar el gobierno provisional de Esteria y el puesto formalmente vacante del Señor del Faro. |
 
-**Límite del bloque:** no se trasladarán aún biografías, genealogías ni las
-reglas completas de las nuevas Táburas. La creación de sus fichas solo será
-procedente cuando se ejecute el volcamiento aprobado.
+**Límite del bloque:** no se trasladaron biografías, genealogías ni las reglas
+completas de las nuevas Táburas. Sus fichas canónicas quedaron limitadas a los
+hechos mínimos aprobados.
 
 ### P-03. Casas, personajes y entidades
 
@@ -1487,7 +1490,7 @@ una decisión expresa y no se inferirá a partir de la documentación vigente.
    con una decisión expresa sobre cada una.
 6. Ejecutar una auditoría textual final antes de considerar cerrado el bloque.
 
-**Estado del plan:** P-01 fue transferido al canon el 23 de julio de 2026.
-P-02 a P-04 identifican el alcance pendiente; la planificación de esos bloques
-no constituye autorización para realizarla. Este documento sigue siendo
-material no canónico.
+**Estado del plan:** P-01 y P-02 fueron transferidos al canon el 23 y el 24 de
+julio de 2026, respectivamente. P-03 y P-04 identifican el alcance pendiente;
+la planificación de esos bloques no constituye autorización para realizarla.
+Este documento sigue siendo material no canónico.

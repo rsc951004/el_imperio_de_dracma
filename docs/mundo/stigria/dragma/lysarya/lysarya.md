@@ -10,7 +10,7 @@ Lysgard
 Aurolis
 
 ## Casa real
-- Fundadora: Pendiente
+- Fundadora: **Lisaryon**
 - Actual: **Corinthyos**
 
 ## Título del gobernante
@@ -53,10 +53,23 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 Regido por la Casa Corinthyos. La reina reinante es **Octavya Corinthyos ★**, Reina de la Roca. Su consorte es Helyo Venthyss, de casa noble de Zephyrya.
 
 ## Historia
-Durante el Raikim, el territorio recibió el nombre de **Lysgard**. La formación
-de Lysarya como reino y su relación con Suntarys permanecen pendientes. Fue
-parte de los ocho reinos del Bloque del Amanecer que se alzaron contra Grimar
-Valgard.
+Durante el Raikim, el territorio recibió el nombre de **Lysgard** y quedó bajo
+el señorío impuesto de Adalver Beranwald, de una casa del Hierro. Su gobierno
+fue más benigno que el impuesto en la Bruma, pero la entrega al Norte de los
+niños detectados como Portadores siguió siendo obligatoria.
+
+El Edicto del Amanecer y la memoria de Suntarys dieron una base política a la
+ruptura con el Raikim. La aparición de Lamya en las Costas del Verano
+desencadenó después el primer alzamiento armado. Lysgard formó parte de los ocho
+territorios del Bloque del Amanecer.
+
+Tras la caída del Raikim, sus habitantes eligieron a Leonthyr Lisaryon como
+primer rey de Lysarya. La Casa Beranwald permaneció en el Verano como casa noble
+menor, sin conservar el señorío ni reclamar la corona.
+
+Los Portadores esclavizados recuperaron la libertad con la caída del régimen.
+Quienes continuaron cazando Grimmen lo hicieron voluntariamente; otros
+permanecieron en el Norte y muchos formaron la Möes Tábura.
 
 ### La Guerra de los Hermanos
 Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el noble **Daryón Coralyss** de Alessya pactó en secreto con **Kleóndras Aetheryon**, rey de Zephyrya, el matrimonio entre su hija **Thalyssa Coralyss** y el príncipe **Astryón Aetheryon**. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zephyrya.

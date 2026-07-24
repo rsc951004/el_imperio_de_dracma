@@ -1,16 +1,16 @@
 # Graph Report - el_imperio  (2026-07-24)
 
 ## Corpus Check
-- 234 files · ~719,368 words
+- 237 files · ~721,034 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1827 nodes · 2090 edges · 235 communities (199 shown, 36 thin omitted)
+- 1845 nodes · 2105 edges · 243 communities (207 shown, 36 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `cb58a1cf`
+- Built from commit: `9d2ec316`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -231,6 +231,14 @@
 - [[_COMMUNITY_Community 213|Community 213]]
 - [[_COMMUNITY_Community 214|Community 214]]
 - [[_COMMUNITY_Community 215|Community 215]]
+- [[_COMMUNITY_Community 235|Community 235]]
+- [[_COMMUNITY_Community 236|Community 236]]
+- [[_COMMUNITY_Community 237|Community 237]]
+- [[_COMMUNITY_Community 238|Community 238]]
+- [[_COMMUNITY_Community 239|Community 239]]
+- [[_COMMUNITY_Community 240|Community 240]]
+- [[_COMMUNITY_Community 241|Community 241]]
+- [[_COMMUNITY_Community 242|Community 242]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `Acumulación de resoluciones de la Edad de la Tiranía` - 78 edges
@@ -259,7 +267,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (235 total, 36 thin omitted)
+## Communities (243 total, 36 thin omitted)
 
 ### Community 0 - "Documentos relacionados 1"
 Cohesion: 0.04
@@ -270,24 +278,24 @@ Cohesion: 0.05
 Nodes (38): AGENTS.md — Zona canónica de cuentos, Estilo narrativo, Estructura esperada, Flujo de trabajo, Lo que NUNCA debe aparecer, Narrador, Personajes, Propósito (+30 more)
 
 ### Community 2 - "Documentos relacionados 3"
-Cohesion: 0.05
-Nodes (36): Astrid, Historia, Identidad, Referencias, Baldur Valgard, Historia, Identidad, Referencias (+28 more)
+Cohesion: 0.15
+Nodes (12): Ante Stelian, Declaraciones y diálogos conservados, Identidad, Juventud y familia, Pacto de Dürr y artefactos, Proclamación de los Sangre de Hierro Carmesí, Raikim, Referencias (+4 more)
 
 ### Community 3 - "Documentos relacionados 4"
-Cohesion: 0.15
-Nodes (11): Kilo, AGENTS.md — Herramientas auxiliares, Archivos, Propósito, Reglas para agentes, ⚠️ Canon vs. Prototipo, El Imperio de Dracma, Notas del proyecto (+3 more)
+Cohesion: 0.25
+Nodes (7): Kilo, ⚠️ Canon vs. Prototipo, El Imperio de Dracma, Notas del proyecto, Para agentes IA, Sinopsis, Índice de cuentos
 
 ### Community 4 - "Documentos relacionados 5"
 Cohesion: 0.06
 Nodes (32): Dinastías imperiales, Dragma, El Raikim y los Dominios, Estructura territorial, Gobernantes por tipo de entidad, La reclamación sobre Esteria, Las Tierras Intermedias, Los 12 Reinos (+24 more)
 
 ### Community 5 - "Documentos relacionados 6"
-Cohesion: 0.06
-Nodes (30): El Surgimiento, Blesk, Forma, Función, Inits, Naturaleza, Origen, Referencias (+22 more)
+Cohesion: 0.09
+Nodes (21): Blesk, Forma, Función, Inits, Naturaleza, Origen, Referencias, Relaciones (+13 more)
 
 ### Community 6 - "Documentos relacionados 7"
 Cohesion: 0.06
-Nodes (28): Casa Frosthain, Datos generales, Historia y descripción, Referencias, Casa Goros, Datos generales, Historia y descripción, Miembros relevantes (+20 more)
+Nodes (29): Casa Frosthain, Datos generales, Historia y descripción, Referencias, Casa Goros, Datos generales, Historia y descripción, Miembros relevantes (+21 more)
 
 ### Community 7 - "Documentos relacionados 8"
 Cohesion: 0.06
@@ -302,8 +310,8 @@ Cohesion: 0.07
 Nodes (26): `bible/characters/_index.md`, `bible/characters/<slug>.md`, `bible/premise.md`, `bible/threads/_index.md`, `bible/threads/<slug>.md`, `bible/timeline.md`, `bible/world/_index.md`, `bible/world/<topic>.md` (+18 more)
 
 ### Community 10 - "Documentos relacionados 11"
-Cohesion: 0.08
-Nodes (25): Acuerdos fundadores, Acumulación: Edad de la Tiranía, Antecedente de la Diarquía del Sol y la Sombra, Canon de partida, Coronas fundadoras, De Suntarys al Amanecer, El Edicto del Amanecer, El Raikim bajo Grimar (+17 more)
+Cohesion: 0.14
+Nodes (13): Acuerdos fundadores, Acumulación: Edad de la Tiranía, Canon de partida, Coronas fundadoras, De Suntarys al Amanecer, El Raikim bajo Grimar, El tercer Stamengherin y la fundación de Dragma, Estado de la acumulación (+5 more)
 
 ### Community 11 - "Documentos relacionados 12"
 Cohesion: 0.08
@@ -315,7 +323,7 @@ Nodes (24): For /graphify add and --watch, For /graphify query, For the commit h
 
 ### Community 13 - "Documentos relacionados 14"
 Cohesion: 0.08
-Nodes (24): 1. ¿Qué sobra?, 2. ¿Qué falta?, 3. ¿Qué chirría?, 4. Qué proteger a toda costa, 5. Tarjeta de referencia mínima (qué quitar / qué dejar), Aclaración sobre culturas del mapa (2026-07-13), Auditoría de consistencia de nombres (2026-07-14), Canonización de la Edad de Plata (2026-07-19) (+16 more)
+Nodes (25): 1. ¿Qué sobra?, 2. ¿Qué falta?, 3. ¿Qué chirría?, 4. Qué proteger a toda costa, 5. Tarjeta de referencia mínima (qué quitar / qué dejar), Aclaración sobre culturas del mapa (2026-07-13), Auditoría de consistencia de nombres (2026-07-14), Canonización de la Edad de Plata (2026-07-19) (+17 more)
 
 ### Community 14 - "Documentos relacionados 15"
 Cohesion: 0.09
@@ -338,16 +346,16 @@ Cohesion: 0.11
 Nodes (17): 1. La tragedia de Zorana — arco completo de amor, traición y mutilación, 2. El Sundara como arco narrativo trágico, 3. El rescate de Branko y el nacimiento del clan Ushalin, 4. Ideas sueltas adicionales, Consecuencias, El clímax, El nombre «Portadores de la Luz» → «Marcados», Escenas rescatables (+9 more)
 
 ### Community 19 - "Documentos relacionados 20"
-Cohesion: 0.12
-Nodes (14): Coste, Edad de la Podredumbre y Edad de Plata, Herencia, Naturaleza, Origen, Portadores del Fulgor de los Inits, Portadores Sombríos, Referencias (+6 more)
+Cohesion: 0.18
+Nodes (10): Coste, Edad de la Podredumbre y Edad de Plata, Herencia, Naturaleza, Origen, Portadores del Fulgor de los Inits, Portadores Sombríos, Referencias (+2 more)
 
 ### Community 20 - "Documentos relacionados 21"
 Cohesion: 0.13
 Nodes (14): Alessya, Concepto, Economía, El cuento de los Príncipes Perdidos, El Principado de Alessya, Estatus político, Gobernante, La Guerra de los Hermanos y el Principado (+6 more)
 
 ### Community 21 - "Documentos relacionados 22"
-Cohesion: 0.14
-Nodes (12): Continentes, Estructura, Índice del mundo, Artefactos místicos, Edad de Plata, Referencias, Tipo, Forma (+4 more)
+Cohesion: 0.18
+Nodes (9): Artefactos místicos, Edad de Plata, Referencias, Tipo, Forma, Llave de Dürr, Referencias, Significado (+1 more)
 
 ### Community 22 - "Documentos relacionados 23"
 Cohesion: 0.13
@@ -359,15 +367,15 @@ Nodes (14): Afiliación en la rebelión, Afiliación geográfica, Capital, Casa 
 
 ### Community 24 - "Documentos relacionados 25"
 Cohesion: 0.13
-Nodes (12): Freda Brandt, Identidad, Identidad, Marlo Falken, Relaciones, Archivos a modificar, Cambios por reino, Editar contenido (18 archivos) (+4 more)
+Nodes (12): Freda Brandt, Identidad, Identidad, Kaspar Wolfen, Relaciones, Archivos a modificar, Cambios por reino, Editar contenido (18 archivos) (+4 more)
 
 ### Community 25 - "Documentos relacionados 26"
-Cohesion: 0.13
-Nodes (14): Afiliación en la rebelión, Afiliación geográfica, Capital, Casa real, Concepto, Economía, Gobierno, Guía de nombres (+6 more)
+Cohesion: 0.17
+Nodes (11): Datos políticos, Economía, Gobierno, Guía de nombres, Identidades de la Tormenta, Rebelión del Amanecer, Referencias, Sturmgard (+3 more)
 
 ### Community 26 - "Documentos relacionados 27"
-Cohesion: 0.14
-Nodes (12): Casa Enescu, Datos generales, Historia y descripción, Miembros relevantes, Concepto, Datos políticos, Guía de nombres, Historia (+4 more)
+Cohesion: 0.20
+Nodes (9): Acceso al Norte, Concepto, Datos políticos, Guía de nombres, Historia, Referencias, Relaciones, Tipo (+1 more)
 
 ### Community 27 - "Documentos relacionados 28"
 Cohesion: 0.14
@@ -390,8 +398,8 @@ Cohesion: 0.15
 Nodes (11): Ghild, Origen, Referencias, Tipo, Acuerdos ocultos del Verano, Cláusula secreta, Intercambio de regalos, Pacto de Dürr (+3 more)
 
 ### Community 32 - "Documentos relacionados 33"
-Cohesion: 0.17
-Nodes (11): AGENTS.md — Reglas maestras del proyecto «El Imperio de Dracma», Aplicación a la Edad de la Tiranía, Archivos descanonizados en custodia, Estructura y propósito de cada carpeta, Etapa actual: asentamiento y consolidación del mundo, Flujo de trabajo con agentes, Método para desarrollos de alcance amplio, Naturaleza del proyecto (+3 more)
+Cohesion: 0.12
+Nodes (15): AGENTS.md — Reglas maestras del proyecto «El Imperio de Dracma», Aplicación a la Edad de la Tiranía, Archivos descanonizados en custodia, Estructura y propósito de cada carpeta, Etapa actual: asentamiento y consolidación del mundo, Flujo de trabajo con agentes, Marca de canon velado, Método para desarrollos de alcance amplio (+7 more)
 
 ### Community 33 - "Documentos relacionados 34"
 Cohesion: 0.17
@@ -406,12 +414,12 @@ Cohesion: 0.17
 Nodes (10): Acero del Alba, Efecto, Origen, Referencias, Tipo, Apariencia y condición, Emisarios de la Ruina, Referencias (+2 more)
 
 ### Community 36 - "Documentos relacionados 37"
-Cohesion: 0.17
-Nodes (10): El Grimm, Geografía, Historia, Referencias, Tipo, Descripción, Origen tradicional, Referencias (+2 more)
+Cohesion: 0.33
+Nodes (5): El Grimm, Geografía, Historia, Referencias, Tipo
 
 ### Community 39 - "Documentos relacionados 40"
-Cohesion: 0.17
-Nodes (10): Jaula Negra, Referencias, Roshdom, Tipo, Gobierno y territorio, Historia, Murallas Carmesí, Referencias (+2 more)
+Cohesion: 0.29
+Nodes (6): Gobierno y territorio, Historia, Murallas Carmesí, Referencias, Sanghesk, Tipo
 
 ### Community 41 - "Documentos relacionados 42"
 Cohesion: 0.18
@@ -438,8 +446,8 @@ Cohesion: 0.18
 Nodes (10): Alcance, Cierre, Comercio, guerra y reunificación, Edad de Plata, El segundo sellado, Esteria y los Sangre de Hierro Carmesí, Fundación del Raikim, Los doce Dominios (+2 more)
 
 ### Community 73 - "Documentos relacionados 74"
-Cohesion: 0.20
-Nodes (8): Casa Hammer, Datos generales, Historia y descripción, Referencias, Casa Meister, Datos generales, Historia y descripción, Referencias
+Cohesion: 0.40
+Nodes (4): Casa Hammer, Datos generales, Historia y descripción, Referencias
 
 ### Community 74 - "Community 74"
 Cohesion: 0.20
@@ -459,11 +467,11 @@ Nodes (9): Auditoría previa al volcamiento de la Edad de la Tiranía, Criterios
 
 ### Community 78 - "Community 78"
 Cohesion: 0.20
-Nodes (9): Estatuto, Esteria, Faro posterior, Fundación, Reclamación de Sindria, Referencias, Roshdom, Tipo (+1 more)
+Nodes (9): Estatuto y gobierno, Esteria, Faro y apertura de Esteria, Fundación, Reclamación de Sindgard, Referencias, Roshdom, Tipo (+1 more)
 
 ### Community 79 - "Community 79"
-Cohesion: 0.20
-Nodes (8): Banda de la Piedra Mohosa, Historia, Referencias, Tipo, Historia, Identidad, Radu, Referencias
+Cohesion: 0.12
+Nodes (14): Banda de la Piedra Mohosa, Historia, Referencias, Tipo, Historia, Identidad, Radu, Referencias (+6 more)
 
 ### Community 80 - "Community 80"
 Cohesion: 0.20
@@ -483,7 +491,7 @@ Nodes (9): Capital imperial, Documentos generales, Dragma (Imperio), Geografía 
 
 ### Community 84 - "Community 84"
 Cohesion: 0.22
-Nodes (7): Organizaciones y grupos, Índice, Guardia Amarilla, Hechos relevantes, Historia, Referencias, Tipo
+Nodes (7): Organizaciones y grupos, Índice, Guardia Amarilla, Historia, Mandato, Referencias, Tipo
 
 ### Community 85 - "Community 85"
 Cohesion: 0.22
@@ -506,8 +514,8 @@ Cohesion: 0.22
 Nodes (8): Clave histórica, Conceptos por reino, Lore histórico, Nombres de gobernantes, Objetivo, Pendientes, Plan: Canonización de los 12 Reinos + Casas Gobernantes, Tabla maestra de los 12 Reinos
 
 ### Community 90 - "Community 90"
-Cohesion: 0.22
-Nodes (8): AGENTS.md — Procesos de volcamiento, Alcance de esta carpeta, Condición de salida, Convención de archivos, Cuándo usarla, Metodología obligatoria, Propósito, Reglas de control
+Cohesion: 0.13
+Nodes (14): 1. Acumulación, 2. Auditoría previa al volcamiento, 3. Acumulación de resoluciones, 4. Auditoría de cierre y plan de volcamiento, 5. Volcamiento autorizado, AGENTS.md — Procesos de volcamiento, Alcance de esta carpeta, Condición de salida (+6 more)
 
 ### Community 91 - "Community 91"
 Cohesion: 0.22
@@ -554,8 +562,8 @@ Cohesion: 0.25
 Nodes (7): Forma, Función, Grimmen, Naturaleza, Origen, Referencias, Relaciones
 
 ### Community 102 - "Community 102"
-Cohesion: 0.25
-Nodes (7): Coste, Estabilidad, Invocadores, Mecánica, Naturaleza, Origen, Relaciones
+Cohesion: 0.17
+Nodes (10): Entidades, Formato de las fichas, Índice de entidades y razas, Coste, Estabilidad, Invocadores, Mecánica, Naturaleza (+2 more)
 
 ### Community 103 - "Community 103"
 Cohesion: 0.25
@@ -586,20 +594,20 @@ Cohesion: 0.25
 Nodes (7): Identidad, Llegada a Stigria, Muerte y consecuencias, Naturaleza de los portadores, Origen, Relaciones, Tanyaro Mano de Serpiente
 
 ### Community 110 - "Community 110"
-Cohesion: 0.25
-Nodes (7): 1. `docs/mundo/estigria/dragma/valikia/valikia.md`, 2. `docs/mundo/estigria/dragma/esteria/esteria.md`, Archivos a crear, Contexto, Geografía (N→S a lo largo de la cordillera Verim), Orden de ejecución, Plan: Decimotercer reino — Valikia y Esteria
+Cohesion: 0.14
+Nodes (13): 1. `docs/mundo/estigria/dragma/valikia/valikia.md`, 2. `docs/mundo/estigria/dragma/esteria/esteria.md`, 3. `docs/mundo.md`, 4. `docs/12-reinos.md`, 5. `docs/mundo/estigria/estigria.md`, 6. `docs/mundo/estigria/dragma/sindria/sindria.md`, 7. `docs/notas.md`, Archivos a crear (+5 more)
 
 ### Community 111 - "Community 111"
-Cohesion: 0.25
-Nodes (8): ⚠️ ADVERTENCIA PARA AGENTES IA ⚠️, Estructura, Futuro, Historial, Propósito real, ⚠️ PROTOTIPOS — MATERIAL NO CANÓNICO ⚠️, Reglas absolutas para agentes, Reglas generales
+Cohesion: 0.20
+Nodes (9): ⚠️ ADVERTENCIA PARA AGENTES IA ⚠️, AGENTS.md — Cantera de protoversiones ⛔, Estructura, Futuro, Historial, Propósito real, ⚠️ PROTOTIPOS — MATERIAL NO CANÓNICO ⚠️, Reglas absolutas para agentes (+1 more)
 
 ### Community 112 - "Community 112"
 Cohesion: 0.25
 Nodes (7): Esteria y el Paso del Oriente, Faro posterior, Formación, Foso de la Calamidad, Reclamación de Sindria, Referencias, Tipo
 
 ### Community 113 - "Community 113"
-Cohesion: 0.25
-Nodes (7): Guerra de Unland, Ofensiva nocturna, Penitencia, Preludio, Referencias, Resultado territorial, Tipo
+Cohesion: 0.15
+Nodes (11): Guerra de Unland, Ofensiva nocturna, Penitencia, Preludio, Referencias, Resultado territorial, Tipo, Ejemplo documentado (+3 more)
 
 ### Community 114 - "Community 114"
 Cohesion: 0.25
@@ -630,8 +638,8 @@ Cohesion: 0.29
 Nodes (6): AGENTS.md — Zona canónica de documentación y lore, Archivos, carpetas y su función, Formato de las fichas, Formato de los índices, Propósito, Reglas para agentes
 
 ### Community 121 - "Community 121"
-Cohesion: 0.29
-Nodes (5): Decisiones editoriales, Notas editoriales, Pendientes, Registro de cambios, AGENTS.md — Cantera de protoversiones ⛔
+Cohesion: 0.20
+Nodes (8): Decisiones editoriales, Notas editoriales, Pendientes, Registro de cambios, AGENTS.md — Herramientas auxiliares, Archivos, Propósito, Reglas para agentes
 
 ### Community 122 - "Community 122"
 Cohesion: 0.29
@@ -702,8 +710,8 @@ Cohesion: 0.29
 Nodes (6): Apariciones, Descripción, Historia, Nombre del personaje, Relaciones, Rol
 
 ### Community 139 - "Community 139"
-Cohesion: 0.29
-Nodes (6): Capacidades, Fusión, Identidad, Referencias, Relación con los Sangheskios, Strigor
+Cohesion: 0.17
+Nodes (12): Antecedente de la Diarquía del Sol y la Sombra, El Edicto del Amanecer, Estado de Dürr, del Verano y de Unland durante Grimar, Golpe de Estado en Suntarys, Invasión y caída de Suntarys, Irrupción de Lamya y primer alzamiento, La Triple Corona de Suntarys, La Voluntad de la Sal y Sturmgard (+4 more)
 
 ### Community 140 - "Community 140"
 Cohesion: 0.29
@@ -786,12 +794,12 @@ Cohesion: 0.33
 Nodes (5): Historia, Identidad, Legado, Referencias, Wolfram el Bardo
 
 ### Community 160 - "Community 160"
-Cohesion: 0.33
-Nodes (6): 3. `docs/mundo.md`, 4. `docs/12-reinos.md`, 5. `docs/mundo/estigria/estigria.md`, 6. `docs/mundo/estigria/dragma/sindria/sindria.md`, 7. `docs/notas.md`, Archivos a modificar
+Cohesion: 0.18
+Nodes (9): El Surgimiento, Alimentación, Debilidades, Forma, Mobius, Naturaleza, Origen, Referencias (+1 more)
 
 ### Community 161 - "Community 161"
-Cohesion: 0.33
-Nodes (6): 1. Acumulación, 2. Auditoría previa al volcamiento, 3. Acumulación de resoluciones, 4. Auditoría de cierre y plan de volcamiento, 5. Volcamiento autorizado, Fases
+Cohesion: 0.20
+Nodes (8): Baldur Valgard, Historia, Identidad, Referencias, Historia, Identidad, Odalric Valgard, Referencias
 
 ### Community 162 - "Community 162"
 Cohesion: 0.33
@@ -902,16 +910,16 @@ Cohesion: 0.40
 Nodes (4): AGENTS.md — Referencias visuales vigentes, Estructura inicial, Propósito, Reglas
 
 ### Community 189 - "Community 189"
-Cohesion: 0.40
-Nodes (4): Historia, Referencias, Suntarys, Tipo
+Cohesion: 0.22
+Nodes (7): Continentes, Estructura, Índice del mundo, Historia, Referencias, Suntarys, Tipo
 
 ### Community 190 - "Community 190"
-Cohesion: 0.50
-Nodes (4): Marca de canon velado, Reglas de uso, Sintaxis obligatoria, Uso como herramienta de revisión
+Cohesion: 0.25
+Nodes (7): Continuidad posterior, Edad de la Podredumbre, Nombre, Raikim de Rudgar, Referencias, Tipo, Valgard
 
 ### Community 191 - "Community 191"
-Cohesion: 0.50
-Nodes (3): Entidades, Formato de las fichas, Índice de entidades y razas
+Cohesion: 0.33
+Nodes (5): Drakar Valgard, Historia, Identidad, Referencias, Relaciones
 
 ### Community 192 - "Community 192"
 Cohesion: 0.50
@@ -938,8 +946,8 @@ Cohesion: 0.50
 Nodes (3): Identidad, Jorin Reisner, Relaciones
 
 ### Community 198 - "Community 198"
-Cohesion: 0.50
-Nodes (3): Identidad, Kaspar Wolfen, Relaciones
+Cohesion: 0.33
+Nodes (5): Descripción, Origen tradicional, Referencias, Stömur, Tipo
 
 ### Community 199 - "Community 199"
 Cohesion: 0.50
@@ -981,25 +989,57 @@ Nodes (3): Definición, Tipos, Tábura
 Cohesion: 0.67
 Nodes (3): IX.1 Creación de Casas, IX.2 Jefaturas de Casas Nobles y Comunes, IX. Creación de nuevas Casas y jefaturas
 
+### Community 235 - "Community 235"
+Cohesion: 0.33
+Nodes (5): Alcance, Grien Tábura, Naturaleza, Referencias, Tipo
+
+### Community 236 - "Community 236"
+Cohesion: 0.33
+Nodes (5): Alcance, Función, Grim Tábura, Referencias, Tipo
+
+### Community 237 - "Community 237"
+Cohesion: 0.33
+Nodes (5): Alcance, Möes Tábura, Origen, Referencias, Tipo
+
+### Community 238 - "Community 238"
+Cohesion: 0.40
+Nodes (4): Casa Enescu, Datos generales, Historia y descripción, Miembros relevantes
+
+### Community 239 - "Community 239"
+Cohesion: 0.40
+Nodes (4): Casa Meister, Datos generales, Historia y descripción, Referencias
+
+### Community 240 - "Community 240"
+Cohesion: 0.40
+Nodes (4): Astrid, Historia, Identidad, Referencias
+
+### Community 241 - "Community 241"
+Cohesion: 0.40
+Nodes (4): Jaula Negra, Referencias, Roshdom, Tipo
+
+### Community 242 - "Community 242"
+Cohesion: 0.50
+Nodes (3): Identidad, Marlo Falken, Relaciones
+
 ## Knowledge Gaps
-- **1323 isolated node(s):** `@kilocode/plugin`, `build.sh script`, `$schema`, `instructions`, `Usage` (+1318 more)
+- **1335 isolated node(s):** `@kilocode/plugin`, `build.sh script`, `$schema`, `instructions`, `Usage` (+1330 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **36 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Índice del mundo` connect `Documentos relacionados 22` to `Documentos relacionados 1`, `Documentos relacionados 2`, `Documentos relacionados 3`, `Documentos relacionados 5`, `Documentos relacionados 6`, `Documentos relacionados 7`, `Documentos relacionados 9`, `Documentos relacionados 12`, `Community 140`, `Community 141`, `Community 142`, `Community 143`, `Documentos relacionados 17`, `Community 145`, `Documentos relacionados 18`, `Documentos relacionados 20`, `Documentos relacionados 21`, `Documentos relacionados 24`, `Community 152`, `Documentos relacionados 26`, `Documentos relacionados 27`, `Documentos relacionados 30`, `Documentos relacionados 31`, `Documentos relacionados 32`, `Documentos relacionados 33`, `Documentos relacionados 34`, `Documentos relacionados 35`, `Documentos relacionados 36`, `Documentos relacionados 37`, `Community 163`, `Documentos relacionados 40`, `Documentos relacionados 42`, `Community 189`, `Documentos relacionados 68`, `Documentos relacionados 69`, `Community 77`, `Community 78`, `Community 80`, `Community 81`, `Community 82`, `Community 83`, `Community 86`, `Community 87`, `Community 92`, `Community 93`, `Community 94`, `Community 95`, `Community 97`, `Community 98`, `Community 110`, `Community 112`, `Community 113`, `Community 114`, `Community 115`, `Community 119`, `Community 121`, `Community 123`, `Community 124`, `Community 125`, `Community 127`?**
-  _High betweenness centrality (0.230) - this node is a cross-community bridge._
-- **Why does `Índice de personajes` connect `Community 122` to `Community 128`, `Documentos relacionados 2`, `Documentos relacionados 3`, `Community 129`, `Community 130`, `Community 131`, `Community 132`, `Documentos relacionados 8`, `Community 133`, `Community 134`, `Community 135`, `Documentos relacionados 12`, `Documentos relacionados 7`, `Community 139`, `Documentos relacionados 1`, `Community 150`, `Documentos relacionados 25`, `Documentos relacionados 29`, `Community 156`, `Community 157`, `Documentos relacionados 31`, `Documentos relacionados 33`, `Documentos relacionados 30`, `Documentos relacionados 35`, `Community 158`, `Community 159`, `Community 180`, `Community 181`, `Community 182`, `Community 183`, `Community 184`, `Community 185`, `Community 186`, `Community 193`, `Community 194`, `Community 195`, `Community 196`, `Community 197`, `Community 198`, `Community 199`, `Community 200`, `Community 201`, `Community 74`, `Community 202`, `Community 75`, `Community 79`, `Community 88`, `Community 104`, `Community 105`, `Community 108`, `Community 109`?**
-  _High betweenness centrality (0.185) - this node is a cross-community bridge._
-- **Why does `Acumulación de resoluciones de la Edad de la Tiranía` connect `Documentos relacionados 1` to `Documentos relacionados 2`, `Documentos relacionados 3`, `Documentos relacionados 5`, `Documentos relacionados 7`, `Documentos relacionados 9`, `Documentos relacionados 15`, `Documentos relacionados 17`, `Community 145`, `Documentos relacionados 18`, `Documentos relacionados 22`, `Community 152`, `Documentos relacionados 26`, `Documentos relacionados 27`, `Community 154`, `Documentos relacionados 42`, `Community 185`, `Community 191`, `Documentos relacionados 69`, `Community 77`, `Community 78`, `Community 84`, `Community 88`, `Community 93`, `Community 94`, `Community 96`, `Community 100`, `Community 103`, `Community 112`, `Community 119`, `Community 121`, `Community 122`?**
-  _High betweenness centrality (0.152) - this node is a cross-community bridge._
+- **Why does `Índice del mundo` connect `Community 189` to `Documentos relacionados 1`, `Documentos relacionados 2`, `Documentos relacionados 5`, `Documentos relacionados 6`, `Documentos relacionados 7`, `Documentos relacionados 9`, `Documentos relacionados 12`, `Community 140`, `Community 141`, `Community 142`, `Community 143`, `Documentos relacionados 17`, `Community 145`, `Documentos relacionados 18`, `Documentos relacionados 21`, `Documentos relacionados 22`, `Documentos relacionados 24`, `Community 152`, `Documentos relacionados 26`, `Documentos relacionados 27`, `Documentos relacionados 30`, `Documentos relacionados 31`, `Documentos relacionados 32`, `Documentos relacionados 33`, `Documentos relacionados 34`, `Documentos relacionados 35`, `Documentos relacionados 36`, `Documentos relacionados 37`, `Community 163`, `Documentos relacionados 40`, `Documentos relacionados 42`, `Community 190`, `Documentos relacionados 68`, `Documentos relacionados 69`, `Community 198`, `Community 77`, `Community 78`, `Community 80`, `Community 81`, `Community 82`, `Community 83`, `Community 86`, `Community 87`, `Community 92`, `Community 93`, `Community 94`, `Community 95`, `Community 97`, `Community 98`, `Community 110`, `Community 112`, `Community 113`, `Community 114`, `Community 241`, `Community 115`, `Community 119`, `Community 121`, `Community 123`, `Community 124`, `Community 125`, `Community 127`?**
+  _High betweenness centrality (0.225) - this node is a cross-community bridge._
+- **Why does `Índice de personajes` connect `Community 122` to `Community 128`, `Documentos relacionados 2`, `Community 129`, `Community 130`, `Community 131`, `Community 132`, `Community 133`, `Community 134`, `Community 135`, `Documentos relacionados 8`, `Documentos relacionados 3`, `Documentos relacionados 12`, `Documentos relacionados 7`, `Documentos relacionados 1`, `Community 150`, `Documentos relacionados 25`, `Documentos relacionados 29`, `Documentos relacionados 30`, `Documentos relacionados 31`, `Community 156`, `Documentos relacionados 33`, `Community 161`, `Documentos relacionados 35`, `Community 157`, `Community 158`, `Community 159`, `Community 180`, `Community 181`, `Community 182`, `Community 183`, `Community 184`, `Community 185`, `Community 186`, `Community 191`, `Community 193`, `Community 194`, `Community 195`, `Community 196`, `Community 197`, `Community 199`, `Community 200`, `Community 201`, `Community 202`, `Community 74`, `Community 75`, `Community 79`, `Community 88`, `Community 104`, `Community 105`, `Community 108`, `Community 109`, `Community 240`, `Community 242`?**
+  _High betweenness centrality (0.176) - this node is a cross-community bridge._
+- **Why does `Auditoría previa al volcamiento de la Edad de la Tiranía` connect `Community 77` to `Documentos relacionados 1`, `Documentos relacionados 3`, `Documentos relacionados 5`, `Documentos relacionados 7`, `Community 135`, `Documentos relacionados 8`, `Documentos relacionados 11`, `Community 143`, `Documentos relacionados 20`, `Documentos relacionados 21`, `Documentos relacionados 23`, `Documentos relacionados 26`, `Documentos relacionados 28`, `Community 168`, `Documentos relacionados 43`, `Documentos relacionados 44`, `Community 172`, `Community 174`, `Community 175`, `Community 185`, `Community 189`, `Community 198`, `Community 75`, `Community 78`, `Community 207`, `Community 80`, `Community 81`, `Community 92`, `Community 95`, `Community 96`, `Community 99`, `Community 101`, `Community 105`, `Community 238`, `Community 112`, `Community 113`, `Community 241`, `Community 119`, `Community 121`, `Community 123`, `Community 127`?**
+  _High betweenness centrality (0.155) - this node is a cross-community bridge._
 - **What connects `@kilocode/plugin`, `build.sh script`, `$schema` to the rest of the system?**
-  _1323 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _1335 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Documentos relacionados 1` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `Documentos relacionados 2` be split into smaller, more focused modules?**
   _Cohesion score 0.045454545454545456 - nodes in this community are weakly interconnected._
-- **Should `Documentos relacionados 3` be split into smaller, more focused modules?**
-  _Cohesion score 0.05226480836236934 - nodes in this community are weakly interconnected._
+- **Should `Documentos relacionados 5` be split into smaller, more focused modules?**
+  _Cohesion score 0.05714285714285714 - nodes in this community are weakly interconnected._

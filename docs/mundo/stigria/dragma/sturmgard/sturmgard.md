@@ -1,46 +1,80 @@
 # Sturmgard
 
 ## Tipo
+
 Reino del Imperio de Dragma.
 
-## Nombre valgard
-Sturmgard
+## Datos políticos
 
+| Campo | Valor |
+|-------|-------|
+| **Nombre durante el Raikim** | Sturmgard |
+| **Capital** | Nordvik |
+| **Casa fundadora** | Pendiente |
+| **Casa real** | Reisner |
+| **Gobernante** | Jorin Reisner |
+| **Título** | Rey o Reina de la Tormenta |
+| **Región histórica** | Sturm |
 
-## Capital
-Nordvik
-## Casa real
-- Fundadora: Pendiente
-- Actual: **Reisner**
+## Territorio
 
-## Título del gobernante
-**Rey de la Tormenta** o **Reina de la Tormenta**. Forma abreviada entre monarcas: Rey Tormenta o Reina Tormenta. El título evoca los fiordos helados del norte y las tormentas que los azotan.
+Sturmgard ocupa la Tormenta, un archipiélago de fiordos helados, acantilados,
+ventiscas e islas expuestas a un mar peligroso. Su población conservó una
+organización interna de clanes incluso cuando el Raikim registró el territorio
+mediante casas.
 
-## Afiliación en la rebelión
-**Bloque de Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard.
+## Rebelión del Amanecer
 
-## Afiliación geográfica
-**Valle de Hierro.** Noroeste del Gherin. Nombres de sonoridad germánica (convención de escritura, no cultura del mundo).
+Sturmgard permaneció oficialmente dentro del Bloque de Hierro y contó entre los
+cuatro territorios leales al Raikim. No pasó formalmente al Bloque del Amanecer.
 
+Durante la fase tardía de la Rebelión, una fractura interna llevó a parte de sus
+guerreros a unirse a Harald Mormund. Influyeron el rechazo al poder central, el
+desprecio de otros Sangre de Hierro por las creencias de la Tormenta, el temor
+a que Grimar permitiera la entrada del Rey Podrido y el asesinato de Giselra,
+esposa de Harald e hija del Señor de Sturmgard.
 
-## Gobierno
-Regido por la Casa Reisner. El rey reinante es **Jorin Reisner ★**, Rey de la
-Tormenta. Su consorte es la reina Sabina Jaeger; sus antecedentes de origen
-permanecen pendientes.
+## Identidades de la Tormenta
 
-## Historia
-Sturmgard fue uno de los cuatro reinos del Bloque de Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada a las tormentas, los fiordos helados y la dureza de sus gentes.
+La **Voluntad de la Sal** y la **Voluntad del Hierro** son identidades
+socioculturales, no organizaciones ni bandos políticos. La Voluntad de la Sal
+privilegia la adaptación, la supervivencia y el pillaje bajo las condiciones de
+la Tormenta. La Voluntad del Hierro privilegia la guardia y el honor de los
+Sangre de Hierro.
 
-## Concepto
-Fiordos helados. Reino de tormentas, acantilados y ventiscas. Hombres forjados en el frío del norte.
+## Vitdrakiris y las Doncellas del Viento
+
+Para la Tormenta, Vitdrakiris es un protector mítico cuya presencia explica la
+supervivencia de su pueblo. La tradición de las Doncellas del Viento busca
+aplacar sus tormentas mediante el canto. Giselra es la única Doncella
+identificada en esta etapa.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->
+Vitdrakiris existe. Es un Jöten encerrado en las profundidades marinas del
+archipiélago y está conectado con las Doncellas del Viento. El origen y el
+alcance completo de ese vínculo permanecen reservados.
+<!-- CANON-VELADO: FIN -->
 
 ## Economía
-Pesca de subsistencia, ganadería de altura, forja de armas blancas. Tierra pobre, gente dura.
+
+La pesca existe como actividad de subsistencia, pero es escasa, insegura e
+insuficiente como sustento principal por el clima extremo y las criaturas de
+los archipiélagos. La ganadería de altura y la forja de armas complementan la
+economía.
+
+## Gobierno
+
+La Casa Reisner gobierna Sturmgard. Jorin Reisner es el soberano reinante y su
+consorte es Sabina Jaeger.
 
 ## Referencias
+
 - `docs/12-reinos.md`
+- `docs/mundo/stigria/edad-de-la-tirania.md`
+- `docs/organizaciones/bloque-de-hierro.md`
 
 ## Guía de nombres
-**Germánica.** Los nombres de personas y lugares de Sturmgard siguen la tradición germánica.
 
-Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro). Ver la Guía de nombres en `docs/AGENTS.md`.
+Los nombres de Sturmgard siguen una sonoridad germánica como convención externa
+de escritura. Las grafías se alteran para no coincidir con nombres reales de
+personas del mundo real. La guía completa está en `docs/AGENTS.md`.

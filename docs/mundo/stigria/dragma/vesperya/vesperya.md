@@ -10,7 +10,7 @@ Vespergard
 Talasya
 
 ## Casa real
-- Fundadora: Pendiente
+- Fundadora: **Thalyros**
 - Actual: **Valeryus**
 
 ## Título del gobernante
@@ -75,10 +75,26 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 Regido por la Casa Valeryus. El rey reinante es **Marcus Valeryus ★**, Rey del Tridente. Su consorte es **Neryssa Undavos**, hija del Príncipe Guardián de Alessya.
 
 ## Historia
-Durante el Raikim, el territorio recibió el nombre de **Vespergard**. La
-formación de Vesperya como reino y su relación con Suntarys permanecen
-pendientes. Su posición geográfica la convirtió en la potencia naval de los
-Hijos del Sol.
+Durante el Raikim, el territorio recibió el nombre de **Vespergard** y quedó
+bajo el señorío impuesto de Roderik Wuldrik, de una casa del Hierro. Su
+gobierno fue más benigno que el impuesto en la Bruma, pero la entrega al Norte
+de los niños detectados como Portadores siguió siendo obligatoria.
+
+El Edicto del Amanecer y la memoria de Suntarys dieron una base política a la
+ruptura con el Raikim. La aparición de Lamya en las Costas del Verano
+desencadenó después el primer alzamiento armado. Vespergard formó parte de los
+ocho territorios del Bloque del Amanecer.
+
+Tras la caída del Raikim, sus habitantes eligieron a Valiryos Thalyros como
+primer rey de Vesperya. La Casa Wuldrik permaneció en el Verano como casa noble
+menor, sin conservar el señorío ni reclamar la corona.
+
+Los Portadores esclavizados recuperaron la libertad con la caída del régimen.
+Quienes continuaron cazando Grimmen lo hicieron voluntariamente; otros
+permanecieron en el Norte y muchos formaron la Möes Tábura.
+
+Su posición geográfica convirtió a Vesperya en la potencia naval de los Hijos
+del Sol.
 
 La flota de Vesperya conserva la tradición marítima de la Costa del Verano y el
 propósito de proteger a los Hijos del Sol frente a las expediciones astrianas.

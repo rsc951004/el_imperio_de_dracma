@@ -10,7 +10,7 @@ Zephyrgard
 Anemora
 
 ## Casa real
-- Fundadora: Pendiente
+- Fundadora: **Zephiryon**
 - Actual: **Zephyryon**
 
 ## Título del gobernante
@@ -56,9 +56,25 @@ Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 Regido por la Casa Zephyryon. El rey reinante es **Cassyus Zephyryon ★**, Rey del Ocaso. Su consorte es Celesthya Drussyo, de casa noble de Vesperya.
 
 ## Historia
-Durante el Raikim, el territorio recibió el nombre de **Zephyrgard**. La
-formación de Zephyrya como reino y su relación con Suntarys permanecen
-pendientes. Alberga a la **Casa Solarys** como casa noble sin corona. En sus
+Durante el Raikim, el territorio recibió el nombre de **Zephyrgard** y quedó
+bajo el señorío impuesto de Giselmar Falkvar, de una casa del Hierro. Su
+gobierno fue más benigno que el impuesto en la Bruma, pero la entrega al Norte
+de los niños detectados como Portadores siguió siendo obligatoria.
+
+Para el resto del mundo, Lamya se gestó en Zephyrya. Su aparición en las Costas
+del Verano desencadenó el primer alzamiento armado después de la ruptura
+política iniciada por el Edicto del Amanecer. Zephyrgard formó parte de los
+ocho territorios del Bloque del Amanecer.
+
+Tras la caída del Raikim, sus habitantes eligieron a Asteryon Zephiryon como
+primer rey de Zephyrya. La Casa Falkvar permaneció en el Verano como casa noble
+menor, sin conservar el señorío ni reclamar la corona.
+
+Los Portadores esclavizados recuperaron la libertad con la caída del régimen.
+Quienes continuaron cazando Grimmen lo hicieron voluntariamente; otros
+permanecieron en el Norte y muchos formaron la Möes Tábura.
+
+Zephyrya alberga a la **Casa Solarys** como casa noble sin corona. En sus
 planicies se mantiene vivo el arte de Loryan Solarys: la técnica de deslizarse
 sobre las corrientes de aire, preservada por generaciones de Invocadores.
 

@@ -2,6 +2,29 @@
 
 ## Revisiones editoriales
 
+### Volcamiento P-02: territorios e instituciones (2026-07-24)
+
+Se completó el segundo bloque autorizado del volcamiento de la Edad de la
+Tiranía. Se reescribieron Esteria y Sindria para fijar su relación territorial,
+la cadena de la promesa Frosthain, la reclamación de Zorven Drazar, el gobierno
+provisional de la Guardia Amarilla y el carácter clandestino de la Grien
+Tábura. La revisión geográfica alcanzó Veleskaria, el Gherin y el Foso de la
+Calamidad para establecer a Dresk como único acceso terrestre al Norte y ubicar
+las Puertas Rojas entre el Espolón de Dunkel y Dorn, sin resolver el misterio
+de abrir Esteria.
+
+Sturmgard quedó asentado como reino oficialmente leal al Raikim con una fractura
+interna tardía, con las tradiciones de la Voluntad de la Sal y la Voluntad del
+Hierro, el mito público de Vitdrakiris y su verdad velada vinculada a los Jöten.
+También se ajustaron las fichas de Lysarya, Zephyrya y Vesperya con los
+señoríos del Hierro, las coronas fundadoras y el destino general de los
+Portadores esclavizados.
+
+Se crearon las fichas mínimas de las Táburas Grim, Grien y Möes y se
+incorporaron al índice correspondiente. Las casas y figuras reinantes que deben
+ser sustituidas o reclasificadas permanecen sin cambios hasta la ejecución
+autorizada de P-03.
+
 ### Volcamiento P-01: marco de la Edad de la Tiranía (2026-07-23)
 
 Se completó el volcamiento autorizado de la Edad de la Tiranía con el bloque

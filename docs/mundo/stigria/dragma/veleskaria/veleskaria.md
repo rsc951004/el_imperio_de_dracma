@@ -23,6 +23,16 @@ caravanas abastecen Esteria. La minería del Verilium pertenece a Eisengard; la
 identidad de Veleskaria se organiza alrededor del saber y la defensa, no de la
 extracción minera.
 
+## Acceso al Norte
+
+Veleskaria ocupa Dresk, el único acceso terrestre al Norte. Para entrar o salir
+se cruza la planicie situada entre el Espolón de Dunkel y el cordón de Dorn.
+Las dos Puertas Rojas del Paso de Dresk se apoyan en esas formaciones y bloquean
+físicamente el tránsito.
+
+Durante el Raikim permanecían normalmente cerradas y solo se abrían con
+autorización del Raik. En la Edad de Oro permanecen abiertas.
+
 ## Historia
 
 Durante la Edad de Plata, el Raikim llamó Veleskgard al Dominio levantado sobre
@@ -50,3 +60,4 @@ escritura. Esa cultura real no existe dentro del mundo.
 - `docs/casas/enescu.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/dragma/khalos/khalos.md`
+- `docs/mundo/stigria/foso-de-la-calamidad.md`

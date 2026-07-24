@@ -27,13 +27,19 @@ territoriales comunes:
 
 - **Flemmen:** región noroccidental accidentada y volcánica.
 - **Biss:** golfo profundo al este de Flemmen.
-- **Dresk:** Valle de Piedra situado al este y sureste de Biss.
-- **Weissen:** Hondonada Fría de hielo y nieve, prolongada hacia el norte como una cresta continental.
+- **Dresk:** Valle de Piedra y único acceso terrestre al Norte.
+- **Weissen:** Hondonada Fría de hielo y nieve situada al norte de Dresk. El
+  cordón de Dorn impide su salida terrestre directa hacia el sur.
+- **Espolón de Dunkel:** formación que, junto con Dorn, delimita la planicie de
+  acceso a Dresk.
+- **Puertas Rojas del Paso de Dresk:** dos puertas gigantescas apoyadas entre
+  el Espolón de Dunkel y Dorn. Bloquean físicamente el único acceso terrestre
+  al Norte.
 - **Riegel:** zona septentrional donde Stömur quedó quebrada. Sus ramificaciones permitieron atravesar la cordillera entre el Gherin y Rauven hasta el final de la Edad de la Podredumbre.
 - **Foso de la Calamidad:** grieta seca abierta dentro del Riegel para cortar su conexión terrestre con Rauven.
-- **Dorn:** cordón montañoso continuo que nace junto a Biss y alcanza Stömur. Separa Dresk de Eisen y Gülden.
-
-Una franja meridional de Weissen impide que Dresk toque directamente las montañas quebradas del Riegel.
+- **Dorn:** cordón montañoso continuo que nace junto a Biss y alcanza Stömur.
+  Separa Weissen del resto del Gherin y forma el límite meridional del paso de
+  Dresk.
 
 ## Centro y sur
 
@@ -59,8 +65,9 @@ El **Riss** nace en Stömur, bordea el sur de Eldenheim y desciende en zigzag ha
 ## Orden espacial resumido
 
 ```text
-Flemmen — Biss — Dresk — Weissen — Foso/Riegel — Rauven
-                   Dorn
+Flemmen — Biss — Espolón de Dunkel
+                    Puertas Rojas — Dresk — Weissen — Foso/Riegel — Rauven
+                                     Dorn
 Sturm — Eisen — Gülden — Stömur
              Rost
 Sturm — Eldenheim — Stömur — Grimheim
