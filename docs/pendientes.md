@@ -8,7 +8,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 
 | Tema | Qué falta |
 |------|-----------|
-| **Edad de la Tiranía** | Fijar grandes hitos y estados generales durante el asentamiento. Su desarrollo narrativo queda reservado para una etapa posterior. |
+| **Edad de la Tiranía** | Desarrollar en una etapa posterior las historias individuales de los dieciséis Raiks, sus campañas, la transformación detallada del Raikim, la Rebelión del Amanecer, el Edicto del Amanecer y la fundación de Dragma. |
 
 ## Historia de Stigria
 
@@ -22,7 +22,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Entrega al Rey Podrido** | Resolver las consecuencias metafísicas de la posesión sobre la voluntad o el alma. |
 | **Límite de Stigria** | Determinar qué ocurre si el Rey Podrido, un Grimmen o un poseído intenta abandonar el continente. |
 | **Voces del Rey Podrido** | Determinar la naturaleza de las miles de voces perceptibles en su grito. |
-| **Astrid** | Resolver el destino de Astrid y de su hijo no nacido tras la caída de la fortaleza de Sturm. |
+| **Astrid** | Resolver el destino de Astrid y <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->el desarrollo posterior de la línea superviviente de su hijo con Rudgar.<!-- CANON-VELADO: FIN --> |
 | **Fortaleza de Sturm** | Fijar el nombre de la fortaleza donde desapareció Astrid y Rudgar encontró a Stelian. |
 | **Kys Tábura** | Resolver las circunstancias de su desaparición antes de la Edad de Oro. |
 | **Peregrinos Negros** | Resolver el destino de los emisarios que persiguieron a los refugiados astrianos hasta Stigria. |
@@ -39,15 +39,13 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Edicto del Amanecer** | Fijar su forma, texto y circunstancias detalladas. |
 | **Casas fundadoras** | Completar la historia de las casas fundadoras de los doce reinos. |
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
-| **Casa Askia** | Resolver su relación con las casas Falken y Fridvar de Sturmgard. |
-| **Casa Grigoryan** | Resolver el destino de la casa anterior a Wolfen. |
 | **Cronología dS** | Fijar fechas absolutas para la Edad del Hierro, la Podredumbre y el Raikim. |
 
 ## Misterios y desarrollos posteriores
 
 | Tema | Qué falta |
 |------|-----------|
-| **Artemis y Suntarys** | Precisar la posición cronológica de Artemis y la fundación, trayectoria y caída de Suntarys. |
+| **Artemis y Suntarys** | Precisar la posición cronológica de Artemis, la fundación remota y la trayectoria interna de Suntarys, sin reabrir los hitos ya fijados de su caída. |
 | **Astria, Thalmos y Erebia** | Desarrollar las fechas, nombres, campañas y trayectorias particulares de la historia remota ya asentada. |
 | **Protectorados y ultramar** | Desarrollar Ishbaal, Lorka, Paicel y las relaciones históricas entre los protectorados. |
 | **Príncipes Perdidos** | Resolver el destino de Eryk Albyon y Thalyssa Coralyss. |

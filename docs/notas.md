@@ -2,6 +2,29 @@
 
 ## Revisiones editoriales
 
+### Volcamiento P-04: limpieza editorial y cierre (2026-07-24)
+
+Se completó la limpieza editorial del volcamiento de la Edad de la Tiranía. La
+ficha y el índice de Suntarys quedaron alineados con los hitos ya transferidos:
+la usurpación de Caelyon, la restauración de Loryan, la Triple Corona, el Edicto
+del Amanecer y la destrucción de la ciudadela. Su fundación remota, su
+trayectoria interna y el desarrollo narrativo de su caída permanecen
+reservados.
+
+Se depuró `docs/pendientes.md`: el desarrollo detallado de la edad quedó como
+reserva narrativa, la línea superviviente de Astrid sustituyó la premisa del
+hijo no nacido y se retiraron las casas intermedias Askia y Grigoryan,
+incompatibles con la continuidad dinástica definitiva. También se eliminó de
+Vesperya la condición vigente de Neryssa Undavos y se incorporó al índice la
+ficha activa de Freda Brandt.
+
+La auditoría final confirmó la correspondencia entre los índices y las fichas
+creadas en P-01 a P-03, la ausencia de enlaces activos hacia las fichas en
+custodia descanonizada, la integridad de las marcas `CANON-VELADO` y la
+coherencia de las doce cadenas fundadora → presente. Las entradas antiguas de
+este registro se conservan como historial editorial y no como estado vigente
+del canon.
+
 ### Volcamiento P-03: casas, personajes y entidades (2026-07-24)
 
 Se completó el tercer bloque de la Edad de la Tiranía. Se

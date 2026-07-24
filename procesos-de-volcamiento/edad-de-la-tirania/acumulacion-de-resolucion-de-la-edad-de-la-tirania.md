@@ -1,9 +1,9 @@
 # Acumulación de resoluciones de la Edad de la Tiranía
 
 > **Estado:** P-01, estructura histórica e institucional; P-02, territorios e
-> instituciones; y P-03, casas, personajes y entidades, fueron transferidos al
-> canon el 23 y el 24 de julio de 2026. P-04 requiere autorización humana
-> específica.
+> instituciones; P-03, casas, personajes y entidades; y P-04, limpieza
+> editorial y auditoría final, fueron transferidos al canon el 23 y el 24 de
+> julio de 2026. El proceso de volcamiento está cerrado.
 >
 > **Naturaleza:** documento no canónico. Registra las decisiones humanas para
 > resolver los nudos de la auditoría y sus consecuencias antes de cualquier
@@ -1474,6 +1474,10 @@ una decisión expresa y no se inferirá a partir de la documentación vigente.
 
 ### P-04. Limpieza editorial y secuencia de ejecución
 
+> **Estado del bloque:** transferido al canon el 24 de julio de 2026. La
+> auditoría cerró los residuos editoriales sin desarrollar las reservas
+> narrativas.
+
 | Operación prevista | Archivos canónicos | Alcance del futuro cambio |
 |---|---|---|
 | Revisar referencias cruzadas | Todo `docs/` | Localizar nombres, títulos, casas, cultos y conteos sustituidos antes de editar sus fichas de origen. |
@@ -1494,7 +1498,8 @@ una decisión expresa y no se inferirá a partir de la documentación vigente.
    con una decisión expresa sobre cada una.
 6. Ejecutar una auditoría textual final antes de considerar cerrado el bloque.
 
-**Estado del plan:** P-01, P-02 y P-03 fueron transferidos al canon el 23 y el
-24 de julio de 2026. P-04 identifica el alcance pendiente; su planificación no
-constituye autorización para realizarla. Este documento sigue siendo material
-no canónico.
+**Estado del plan:** P-01, P-02, P-03 y P-04 fueron transferidos al canon el 23
+y el 24 de julio de 2026. La auditoría final comprobó índices, enlaces, marcas
+`CANON-VELADO`, continuidad dinástica y premisas sustituidas. Las fichas
+desplazadas permanecen en custodia descanonizada conforme a la decisión humana.
+El proceso está cerrado y este documento conserva su naturaleza no canónica.

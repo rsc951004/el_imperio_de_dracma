@@ -119,7 +119,7 @@ Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; *
 ## Relaciones exteriores
 - **Zephyrya:** hermano del oeste. Adoración y deseo. Los vespirios veneran a los zefiryanos pero no pueden evitar querer morder la manzana. Relación intensa y complicada.
 - **Lysarya:** hermano del norte. Aburridos y estirados. Demasiado parecidos al Hierro. Cordialidad sin entusiasmo.
-- **Alessya:** cuna sagrada. Neryssa Undavos, la reina consorte, es hija del Príncipe Guardián.
+- **Alessya:** cuna sagrada de los Hijos del Sol y protectorado vinculado a la historia del Verano.
 - **Eldengaria:** la capital que protegen. Relación de dependencia mutua.
 - **Kyst:** al otro lado del estrecho. Vecinos silenciosos. Se observan desde orillas opuestas.
 

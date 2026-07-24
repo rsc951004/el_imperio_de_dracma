@@ -52,6 +52,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Eirik Valgard | Personaje histórico | Cuarto Raik y convocante del Gran Concilio del Hielo. | [Ver ficha](personajes/eirik-valgard.md) |
 | Sigmar Valgard | Personaje histórico | Sexto Raik y autor del decreto que dejó Esteria sin señor. | [Ver ficha](personajes/sigmar-valgard.md) |
 | Katerina | Noble de Weissen | <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto el Rey Podrido, Katerina y la Grien Tábura -->Emisaria de la Ruina que opera desde las sombras en la Edad de Oro.<!-- CANON-VELADO: FIN --> | [Ver ficha](personajes/katerina.md) |
+| Freda Brandt | Noble de Flemmengard | Miembro de la Casa Brandt cuya posición política permanece pendiente. | [Ver ficha](personajes/monarcas/freda-brandt.md) |
 
 ## Monarcas de los 12 Reinos
 

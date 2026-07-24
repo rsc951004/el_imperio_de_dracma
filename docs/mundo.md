@@ -128,8 +128,9 @@ sin corona y técnica de Loryan) y **Vesperya** (el más oriental y más pequeñ
 guardián del Estrecho de la Tríada y la Bahía de los Reyes). Durante la Edad de
 Plata, Rudgar dividió Dürr en Lysgard, Zephyrgard y Vespergard. La evolución de
 esos Dominios hasta los reinos actuales pertenece a la Edad de la Tiranía y a
-los primeros periodos imperiales; la fundación y el destino de Suntarys siguen
-siendo asuntos posteriores.
+los primeros periodos imperiales. Suntarys legó el Edicto del Amanecer y una
+base política para la ruptura con el Raikim; su fundación remota y su desarrollo
+narrativo permanecen reservados.
 Los tres reinos de la Tierra de la Bruma son **Kyst** —puerto pesquero—, **Lyng** —corazón agrícola— y **Bjorn** —centro comercial y guardián del bosque sagrado—.
 
 #### Capital imperial
@@ -156,4 +157,4 @@ Los tres reinos de la Tierra de la Bruma son **Kyst** —puerto pesquero—, **L
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Suntarys | Ciudadela histórica | Ciudadela de Alessya vinculada con los Hijos del Sol. Su fundación y caída se desarrollarán en periodos posteriores. | [Ver ficha](mundo/stigria/suntarys.md) |
+| Suntarys | Ciudadela histórica | Estado libre de Alessya, sede de la Triple Corona y origen del Edicto del Amanecer. Fue destruida durante la Edad de la Tiranía. | [Ver ficha](mundo/stigria/suntarys.md) |
