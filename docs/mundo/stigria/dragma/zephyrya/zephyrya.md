@@ -77,7 +77,7 @@ permanecieron en el Norte y muchos formaron la Möes Tábura.
 
 Zephyrya alberga a la **Casa Solarys** como casa noble sin corona. En sus
 planicies se mantiene vivo el arte de Loryan Solarys: la técnica de deslizarse
-sobre las corrientes de aire, preservada por generaciones de Invocadores.
+sobre las corrientes de aire, conservada por la tradición de la Casa Solarys.
 
 ### La Guerra de los Hermanos
 Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), Zephyrya estaba gobernada por **Kleóndras Aetheryon**. Kleóndras pactó en secreto con el noble **Daryón Coralyss** de Alessya el matrimonio entre su hijo, el príncipe **Astryón Aetheryon**, y **Thalyssa Coralyss**, hija de Daryón. Si el reclamo de derecho de dominio sobre la isla prosperaba, Alessya pasaría a Zephyrya por herencia y unión matrimonial. Era la gran jugada del reinado de Kleóndras: unir la isla sagrada de los Hijos del Sol a la flor del Verano.

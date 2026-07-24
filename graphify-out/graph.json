@@ -988,7 +988,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon",
-      "community": 139,
+      "community": 124,
       "norm_label": "1783879067344-silent-lagoon.md"
     },
     {
@@ -998,7 +998,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_plan_l\u00ednea_cronol\u00f3gica_del_mundo",
-      "community": 139,
+      "community": 124,
       "norm_label": "plan: linea cronologica del mundo"
     },
     {
@@ -1008,7 +1008,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_objetivo",
-      "community": 139,
+      "community": 124,
       "norm_label": "objetivo"
     },
     {
@@ -1018,7 +1018,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_decisi\u00f3n_de_calendario",
-      "community": 139,
+      "community": 124,
       "norm_label": "decision de calendario"
     },
     {
@@ -1028,7 +1028,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_estructura_del_archivo_docs_cronologia_md",
-      "community": 151,
+      "community": 124,
       "norm_label": "estructura del archivo `docs/cronologia.md`"
     },
     {
@@ -1038,7 +1038,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_1_calendario",
-      "community": 151,
+      "community": 124,
       "norm_label": "1. calendario"
     },
     {
@@ -1048,7 +1048,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_2_eras_de_erebia_calendario_ds",
-      "community": 151,
+      "community": 124,
       "norm_label": "2. eras de erebia (calendario ds)"
     },
     {
@@ -1058,7 +1058,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_3_eras_de_estigria_calendario_est",
-      "community": 151,
+      "community": 124,
       "norm_label": "3. eras de estigria (calendario est)"
     },
     {
@@ -1068,7 +1068,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_4_l\u00ednea_temporal_completa_doble_columna",
-      "community": 151,
+      "community": 124,
       "norm_label": "4. linea temporal completa (doble columna)"
     },
     {
@@ -1078,7 +1078,7 @@
       "source_location": "L81",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_5_nota_editorial",
-      "community": 151,
+      "community": 124,
       "norm_label": "5. nota editorial"
     },
     {
@@ -1088,7 +1088,7 @@
       "source_location": "L87",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_archivos_a_modificar",
-      "community": 139,
+      "community": 124,
       "norm_label": "archivos a modificar"
     },
     {
@@ -1098,7 +1098,7 @@
       "source_location": "L93",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_archivos_que_no_se_modifican",
-      "community": 139,
+      "community": 124,
       "norm_label": "archivos que no se modifican"
     },
     {
@@ -1108,7 +1108,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_referencias_solo_lectura",
-      "community": 139,
+      "community": 124,
       "norm_label": "referencias (solo lectura)"
     },
     {
@@ -3108,7 +3108,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "casas_gueika",
-      "community": 160,
+      "community": 7,
       "norm_label": "gueika.md"
     },
     {
@@ -3118,7 +3118,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "casas_gueika_casa_gueika",
-      "community": 160,
+      "community": 7,
       "norm_label": "casa gueika"
     },
     {
@@ -3128,7 +3128,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "casas_gueika_datos_generales",
-      "community": 160,
+      "community": 7,
       "norm_label": "datos generales"
     },
     {
@@ -3138,7 +3138,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "casas_gueika_historia_y_descripci\u00f3n",
-      "community": 160,
+      "community": 7,
       "norm_label": "historia y descripcion"
     },
     {
@@ -3148,7 +3148,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "casas_gueika_miembros_relevantes",
-      "community": 160,
+      "community": 7,
       "norm_label": "miembros relevantes"
     },
     {
@@ -3578,7 +3578,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "casas_meister",
-      "community": 239,
+      "community": 73,
       "norm_label": "meister.md"
     },
     {
@@ -3588,7 +3588,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "casas_meister_casa_meister",
-      "community": 239,
+      "community": 73,
       "norm_label": "casa meister"
     },
     {
@@ -3598,7 +3598,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "casas_meister_datos_generales",
-      "community": 239,
+      "community": 73,
       "norm_label": "datos generales"
     },
     {
@@ -3608,7 +3608,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "casas_meister_historia_y_descripci\u00f3n",
-      "community": 239,
+      "community": 73,
       "norm_label": "historia y descripcion"
     },
     {
@@ -3618,7 +3618,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "casas_meister_referencias",
-      "community": 239,
+      "community": 73,
       "norm_label": "referencias"
     },
     {
@@ -4928,7 +4928,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_entidades",
-      "community": 294,
+      "community": 102,
       "norm_label": "entidades.md"
     },
     {
@@ -4938,7 +4938,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_entidades_\u00edndice_de_entidades_y_razas",
-      "community": 294,
+      "community": 102,
       "norm_label": "indice de entidades y razas"
     },
     {
@@ -4948,7 +4948,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "docs_entidades_formato_de_las_fichas",
-      "community": 294,
+      "community": 102,
       "norm_label": "formato de las fichas"
     },
     {
@@ -4958,7 +4958,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "docs_entidades_entidades",
-      "community": 294,
+      "community": 102,
       "norm_label": "entidades"
     },
     {
@@ -5908,7 +5908,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_mundo",
-      "community": 246,
+      "community": 21,
       "norm_label": "mundo.md"
     },
     {
@@ -5918,7 +5918,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_mundo_\u00edndice_del_mundo",
-      "community": 246,
+      "community": 21,
       "norm_label": "indice del mundo"
     },
     {
@@ -5928,7 +5928,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "docs_mundo_estructura",
-      "community": 246,
+      "community": 21,
       "norm_label": "estructura"
     },
     {
@@ -5938,7 +5938,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "docs_mundo_continentes",
-      "community": 246,
+      "community": 21,
       "norm_label": "continentes"
     },
     {
@@ -8688,7 +8688,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "dragma_nombres_del_hierro",
-      "community": 86,
+      "community": 34,
       "norm_label": "nombres-del-hierro.md"
     },
     {
@@ -8698,7 +8698,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "dragma_nombres_del_hierro_nombres_del_valle_de_hierro",
-      "community": 86,
+      "community": 34,
       "norm_label": "nombres del valle de hierro"
     },
     {
@@ -8708,7 +8708,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "dragma_nombres_del_hierro_fuente_de_sonoridad",
-      "community": 86,
+      "community": 34,
       "norm_label": "fuente de sonoridad"
     },
     {
@@ -8718,7 +8718,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "dragma_nombres_del_hierro_transformaci\u00f3n_fant\u00e1stica",
-      "community": 86,
+      "community": 34,
       "norm_label": "transformacion fantastica"
     },
     {
@@ -8728,7 +8728,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "dragma_nombres_del_hierro_cantera_de_nombres",
-      "community": 86,
+      "community": 34,
       "norm_label": "cantera de nombres"
     },
     {
@@ -8738,7 +8738,7 @@
       "source_location": "L118",
       "_origin": "ast",
       "id": "dragma_nombres_del_hierro_restricci\u00f3n_social_de_los_nombres_territoriales",
-      "community": 86,
+      "community": 34,
       "norm_label": "restriccion social de los nombres territoriales"
     },
     {
@@ -8748,7 +8748,7 @@
       "source_location": "L125",
       "_origin": "ast",
       "id": "dragma_nombres_del_hierro_aplicaci\u00f3n_editorial",
-      "community": 86,
+      "community": 34,
       "norm_label": "aplicacion editorial"
     },
     {
@@ -9005,7 +9005,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/sindria/sindria.md",
-      "source_location": "L56",
+      "source_location": "L55",
       "_origin": "ast",
       "id": "sindria_sindria_referencias",
       "community": 6,
@@ -10218,7 +10218,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_emisarios_de_la_ruina",
-      "community": 247,
+      "community": 80,
       "norm_label": "emisarios-de-la-ruina.md"
     },
     {
@@ -10228,7 +10228,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_emisarios_de_la_ruina_emisarios_de_la_ruina",
-      "community": 247,
+      "community": 80,
       "norm_label": "emisarios de la ruina"
     },
     {
@@ -10238,7 +10238,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_emisarios_de_la_ruina_tipo",
-      "community": 247,
+      "community": 80,
       "norm_label": "tipo"
     },
     {
@@ -10248,7 +10248,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "stigria_emisarios_de_la_ruina_apariencia_y_condici\u00f3n",
-      "community": 247,
+      "community": 80,
       "norm_label": "apariencia y condicion"
     },
     {
@@ -10258,7 +10258,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "stigria_emisarios_de_la_ruina_unland",
-      "community": 247,
+      "community": 80,
       "norm_label": "unland"
     },
     {
@@ -10268,7 +10268,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "stigria_emisarios_de_la_ruina_referencias",
-      "community": 247,
+      "community": 80,
       "norm_label": "referencias"
     },
     {
@@ -10618,7 +10618,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_ghild",
-      "community": 275,
+      "community": 31,
       "norm_label": "ghild.md"
     },
     {
@@ -10628,7 +10628,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_ghild_ghild",
-      "community": 275,
+      "community": 31,
       "norm_label": "ghild"
     },
     {
@@ -10638,7 +10638,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_ghild_tipo",
-      "community": 275,
+      "community": 31,
       "norm_label": "tipo"
     },
     {
@@ -10648,7 +10648,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "stigria_ghild_origen",
-      "community": 275,
+      "community": 31,
       "norm_label": "origen"
     },
     {
@@ -10658,7 +10658,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "stigria_ghild_referencias",
-      "community": 275,
+      "community": 31,
       "norm_label": "referencias"
     },
     {
@@ -10958,7 +10958,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_kantra",
-      "community": 152,
+      "community": 113,
       "norm_label": "kantra.md"
     },
     {
@@ -10968,7 +10968,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_kantra_kantra",
-      "community": 152,
+      "community": 113,
       "norm_label": "kantra"
     },
     {
@@ -10978,7 +10978,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_kantra_tipo",
-      "community": 152,
+      "community": 113,
       "norm_label": "tipo"
     },
     {
@@ -10988,7 +10988,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "stigria_kantra_ejemplo_documentado",
-      "community": 152,
+      "community": 113,
       "norm_label": "ejemplo documentado"
     },
     {
@@ -10998,7 +10998,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "stigria_kantra_referencias",
-      "community": 152,
+      "community": 113,
       "norm_label": "referencias"
     },
     {
@@ -11198,7 +11198,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_rugido_mordaz",
-      "community": 163,
+      "community": 35,
       "norm_label": "rugido-mordaz.md"
     },
     {
@@ -11208,7 +11208,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_rugido_mordaz_rugido_mordaz",
-      "community": 163,
+      "community": 35,
       "norm_label": "rugido mordaz"
     },
     {
@@ -11218,7 +11218,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_rugido_mordaz_tipo",
-      "community": 163,
+      "community": 35,
       "norm_label": "tipo"
     },
     {
@@ -11228,7 +11228,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "stigria_rugido_mordaz_conjunto",
-      "community": 163,
+      "community": 35,
       "norm_label": "conjunto"
     },
     {
@@ -11238,7 +11238,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "stigria_rugido_mordaz_materia",
-      "community": 163,
+      "community": 35,
       "norm_label": "materia"
     },
     {
@@ -11248,7 +11248,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "stigria_rugido_mordaz_referencias",
-      "community": 163,
+      "community": 35,
       "norm_label": "referencias"
     },
     {
@@ -11258,7 +11258,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_sanghesk",
-      "community": 34,
+      "community": 81,
       "norm_label": "sanghesk.md"
     },
     {
@@ -11268,7 +11268,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_sanghesk_sanghesk",
-      "community": 34,
+      "community": 81,
       "norm_label": "sanghesk"
     },
     {
@@ -11278,7 +11278,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_sanghesk_tipo",
-      "community": 34,
+      "community": 81,
       "norm_label": "tipo"
     },
     {
@@ -11288,7 +11288,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "stigria_sanghesk_gobierno_y_territorio",
-      "community": 34,
+      "community": 81,
       "norm_label": "gobierno y territorio"
     },
     {
@@ -11298,7 +11298,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "stigria_sanghesk_murallas_carmes\u00ed",
-      "community": 34,
+      "community": 81,
       "norm_label": "murallas carmesi"
     },
     {
@@ -11308,7 +11308,7 @@
       "source_location": "L24",
       "_origin": "ast",
       "id": "stigria_sanghesk_historia",
-      "community": 34,
+      "community": 81,
       "norm_label": "historia"
     },
     {
@@ -11318,7 +11318,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "stigria_sanghesk_referencias",
-      "community": 34,
+      "community": 81,
       "norm_label": "referencias"
     },
     {
@@ -11578,7 +11578,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_stigria",
-      "community": 114,
+      "community": 94,
       "norm_label": "stigria.md"
     },
     {
@@ -11588,7 +11588,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_stigria_stigria",
-      "community": 114,
+      "community": 94,
       "norm_label": "stigria"
     },
     {
@@ -11598,7 +11598,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_stigria_tipo",
-      "community": 114,
+      "community": 94,
       "norm_label": "tipo"
     },
     {
@@ -11608,7 +11608,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "stigria_stigria_geograf\u00eda",
-      "community": 114,
+      "community": 94,
       "norm_label": "geografia"
     },
     {
@@ -11618,7 +11618,7 @@
       "source_location": "L24",
       "_origin": "ast",
       "id": "stigria_stigria_pueblos_e_historia",
-      "community": 114,
+      "community": 94,
       "norm_label": "pueblos e historia"
     },
     {
@@ -11628,7 +11628,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "stigria_stigria_eldengard",
-      "community": 114,
+      "community": 94,
       "norm_label": "eldengard"
     },
     {
@@ -11638,7 +11638,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "stigria_stigria_referencias",
-      "community": 114,
+      "community": 94,
       "norm_label": "referencias"
     },
     {
@@ -11708,7 +11708,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_suntarys",
-      "community": 246,
+      "community": 92,
       "norm_label": "suntarys.md"
     },
     {
@@ -11718,7 +11718,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_suntarys_suntarys",
-      "community": 246,
+      "community": 92,
       "norm_label": "suntarys"
     },
     {
@@ -11728,7 +11728,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_suntarys_tipo",
-      "community": 246,
+      "community": 92,
       "norm_label": "tipo"
     },
     {
@@ -11738,7 +11738,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "stigria_suntarys_historia",
-      "community": 246,
+      "community": 92,
       "norm_label": "historia"
     },
     {
@@ -11748,7 +11748,7 @@
       "source_location": "L36",
       "_origin": "ast",
       "id": "stigria_suntarys_referencias",
-      "community": 246,
+      "community": 92,
       "norm_label": "referencias"
     },
     {
@@ -11882,10 +11882,30 @@
       "norm_label": "correccion posterior p-07: edicto del amanecer (2026-07-24)"
     },
     {
-      "label": "Volcamiento P-05: restituci\u00f3n de detalle aprobado (2026-07-24)",
+      "label": "Correcci\u00f3n posterior P-08: clasificaci\u00f3n de Loryan (2026-07-24)",
       "file_type": "document",
       "source_file": "docs/notas.md",
       "source_location": "L35",
+      "_origin": "ast",
+      "id": "docs_notas_correcci\u00f3n_posterior_p_08_clasificaci\u00f3n_de_loryan_2026_07_24",
+      "community": 13,
+      "norm_label": "correccion posterior p-08: clasificacion de loryan (2026-07-24)"
+    },
+    {
+      "label": "Correcci\u00f3n posterior P-09: separaci\u00f3n de Grien y Mort T\u00e1bura (2026-07-24)",
+      "file_type": "document",
+      "source_file": "docs/notas.md",
+      "source_location": "L43",
+      "_origin": "ast",
+      "id": "docs_notas_correcci\u00f3n_posterior_p_09_separaci\u00f3n_de_grien_y_mort_t\u00e1bura_2026_07_24",
+      "community": 13,
+      "norm_label": "correccion posterior p-09: separacion de grien y mort tabura (2026-07-24)"
+    },
+    {
+      "label": "Volcamiento P-05: restituci\u00f3n de detalle aprobado (2026-07-24)",
+      "file_type": "document",
+      "source_file": "docs/notas.md",
+      "source_location": "L51",
       "_origin": "ast",
       "id": "docs_notas_volcamiento_p_05_restituci\u00f3n_de_detalle_aprobado_2026_07_24",
       "community": 13,
@@ -11895,7 +11915,7 @@
       "label": "Volcamiento P-04: limpieza editorial y cierre (2026-07-24)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L53",
+      "source_location": "L69",
       "_origin": "ast",
       "id": "docs_notas_volcamiento_p_04_limpieza_editorial_y_cierre_2026_07_24",
       "community": 13,
@@ -11905,7 +11925,7 @@
       "label": "Volcamiento P-03: casas, personajes y entidades (2026-07-24)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L76",
+      "source_location": "L92",
       "_origin": "ast",
       "id": "docs_notas_volcamiento_p_03_casas_personajes_y_entidades_2026_07_24",
       "community": 13,
@@ -11915,7 +11935,7 @@
       "label": "Volcamiento P-02: territorios e instituciones (2026-07-24)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L95",
+      "source_location": "L111",
       "_origin": "ast",
       "id": "docs_notas_volcamiento_p_02_territorios_e_instituciones_2026_07_24",
       "community": 13,
@@ -11925,7 +11945,7 @@
       "label": "Volcamiento P-01: marco de la Edad de la Tiran\u00eda (2026-07-23)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L118",
+      "source_location": "L134",
       "_origin": "ast",
       "id": "docs_notas_volcamiento_p_01_marco_de_la_edad_de_la_tiran\u00eda_2026_07_23",
       "community": 13,
@@ -11935,7 +11955,7 @@
       "label": "Normalizaci\u00f3n de Solarys (2026-07-23)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L134",
+      "source_location": "L150",
       "_origin": "ast",
       "id": "docs_notas_normalizaci\u00f3n_de_solarys_2026_07_23",
       "community": 13,
@@ -11945,7 +11965,7 @@
       "label": "Gu\u00edas onom\u00e1sticas del Hierro, los Dominios Carmes\u00edes y la Bruma (2026-07-23)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L141",
+      "source_location": "L157",
       "_origin": "ast",
       "id": "docs_notas_gu\u00edas_onom\u00e1sticas_del_hierro_los_dominios_carmes\u00edes_y_la_bruma_2026_07_23",
       "community": 13,
@@ -11955,7 +11975,7 @@
       "label": "Gu\u00eda onom\u00e1stica de los Reinos del Verano (2026-07-22)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L156",
+      "source_location": "L172",
       "_origin": "ast",
       "id": "docs_notas_gu\u00eda_onom\u00e1stica_de_los_reinos_del_verano_2026_07_22",
       "community": 13,
@@ -11965,7 +11985,7 @@
       "label": "L\u00edmite de asentamiento de la Edad de la Tiran\u00eda (2026-07-19)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L177",
+      "source_location": "L193",
       "_origin": "ast",
       "id": "docs_notas_l\u00edmite_de_asentamiento_de_la_edad_de_la_tiran\u00eda_2026_07_19",
       "community": 13,
@@ -11975,7 +11995,7 @@
       "label": "Cierre can\u00f3nico del bloque Plata\u2013Tiran\u00eda (2026-07-19)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L187",
+      "source_location": "L203",
       "_origin": "ast",
       "id": "docs_notas_cierre_can\u00f3nico_del_bloque_plata_tiran\u00eda_2026_07_19",
       "community": 13,
@@ -11985,7 +12005,7 @@
       "label": "Canonizaci\u00f3n de la Edad de Plata (2026-07-19)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L223",
+      "source_location": "L239",
       "_origin": "ast",
       "id": "docs_notas_canonizaci\u00f3n_de_la_edad_de_plata_2026_07_19",
       "community": 13,
@@ -11995,7 +12015,7 @@
       "label": "Custodia de material descanonizado (2026-07-19)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L260",
+      "source_location": "L276",
       "_origin": "ast",
       "id": "docs_notas_custodia_de_material_descanonizado_2026_07_19",
       "community": 13,
@@ -12005,7 +12025,7 @@
       "label": "Canonizaci\u00f3n integral de la Edad de la Podredumbre (2026-07-17)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L269",
+      "source_location": "L285",
       "_origin": "ast",
       "id": "docs_notas_canonizaci\u00f3n_integral_de_la_edad_de_la_podredumbre_2026_07_17",
       "community": 13,
@@ -12015,7 +12035,7 @@
       "label": "Reimaginaci\u00f3n profunda de la Tierra de la Bruma: los Caminantes de la Bruma (2026-07-14)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L304",
+      "source_location": "L320",
       "_origin": "ast",
       "id": "docs_notas_reimaginaci\u00f3n_profunda_de_la_tierra_de_la_bruma_los_caminantes_de_la_bruma_2026_07_14",
       "community": 13,
@@ -12025,7 +12045,7 @@
       "label": "Aclaraci\u00f3n sobre culturas del mapa (2026-07-13)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L332",
+      "source_location": "L348",
       "_origin": "ast",
       "id": "docs_notas_aclaraci\u00f3n_sobre_culturas_del_mapa_2026_07_13",
       "community": 13,
@@ -12035,7 +12055,7 @@
       "label": "Limpieza masiva de referencias culturales (2026-07-13)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L336",
+      "source_location": "L352",
       "_origin": "ast",
       "id": "docs_notas_limpieza_masiva_de_referencias_culturales_2026_07_13",
       "community": 13,
@@ -12045,7 +12065,7 @@
       "label": "Auditor\u00eda de consistencia de nombres (2026-07-14)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L351",
+      "source_location": "L367",
       "_origin": "ast",
       "id": "docs_notas_auditor\u00eda_de_consistencia_de_nombres_2026_07_14",
       "community": 13,
@@ -12055,7 +12075,7 @@
       "label": "Diagn\u00f3stico de la ficha de Inits (2026-07-11)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L361",
+      "source_location": "L377",
       "_origin": "ast",
       "id": "docs_notas_diagn\u00f3stico_de_la_ficha_de_inits_2026_07_11",
       "community": 13,
@@ -12065,7 +12085,7 @@
       "label": "1. \u00bfQu\u00e9 sobra?",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L363",
+      "source_location": "L379",
       "_origin": "ast",
       "id": "docs_notas_1_qu\u00e9_sobra",
       "community": 13,
@@ -12075,7 +12095,7 @@
       "label": "2. \u00bfQu\u00e9 falta?",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L370",
+      "source_location": "L386",
       "_origin": "ast",
       "id": "docs_notas_2_qu\u00e9_falta",
       "community": 13,
@@ -12085,7 +12105,7 @@
       "label": "3. \u00bfQu\u00e9 chirr\u00eda?",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L378",
+      "source_location": "L394",
       "_origin": "ast",
       "id": "docs_notas_3_qu\u00e9_chirr\u00eda",
       "community": 13,
@@ -12095,7 +12115,7 @@
       "label": "4. Qu\u00e9 proteger a toda costa",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L387",
+      "source_location": "L403",
       "_origin": "ast",
       "id": "docs_notas_4_qu\u00e9_proteger_a_toda_costa",
       "community": 13,
@@ -12105,7 +12125,7 @@
       "label": "5. Tarjeta de referencia m\u00ednima (qu\u00e9 quitar / qu\u00e9 dejar)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L395",
+      "source_location": "L411",
       "_origin": "ast",
       "id": "docs_notas_5_tarjeta_de_referencia_m\u00ednima_qu\u00e9_quitar_qu\u00e9_dejar",
       "community": 13,
@@ -12115,7 +12135,7 @@
       "label": "Enriquecimiento conceptual de los Inits (2026-07-11)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L414",
+      "source_location": "L430",
       "_origin": "ast",
       "id": "docs_notas_enriquecimiento_conceptual_de_los_inits_2026_07_11",
       "community": 13,
@@ -12125,7 +12145,7 @@
       "label": "Implicaciones de esta definici\u00f3n",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L420",
+      "source_location": "L436",
       "_origin": "ast",
       "id": "docs_notas_implicaciones_de_esta_definici\u00f3n",
       "community": 13,
@@ -12135,7 +12155,7 @@
       "label": "Puntos de fricci\u00f3n con la ficha actual",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L428",
+      "source_location": "L444",
       "_origin": "ast",
       "id": "docs_notas_puntos_de_fricci\u00f3n_con_la_ficha_actual",
       "community": 13,
@@ -12145,7 +12165,7 @@
       "label": "Nuevas preguntas que esta definici\u00f3n fuerza a responder",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L438",
+      "source_location": "L454",
       "_origin": "ast",
       "id": "docs_notas_nuevas_preguntas_que_esta_definici\u00f3n_fuerza_a_responder",
       "community": 13,
@@ -12155,7 +12175,7 @@
       "label": "Pendientes",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L447",
+      "source_location": "L463",
       "_origin": "ast",
       "id": "docs_notas_pendientes",
       "community": 121,
@@ -12165,7 +12185,7 @@
       "label": "Decisiones editoriales",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L453",
+      "source_location": "L469",
       "_origin": "ast",
       "id": "docs_notas_decisiones_editoriales",
       "community": 121,
@@ -12175,7 +12195,7 @@
       "label": "Registro de cambios",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L458",
+      "source_location": "L474",
       "_origin": "ast",
       "id": "docs_notas_registro_de_cambios",
       "community": 121,
@@ -12788,7 +12808,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_armin_mormund",
-      "community": 193,
+      "community": 7,
       "norm_label": "armin-mormund.md"
     },
     {
@@ -12798,7 +12818,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_armin_mormund_armin_mormund",
-      "community": 193,
+      "community": 7,
       "norm_label": "armin mormund"
     },
     {
@@ -12808,7 +12828,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "personajes_armin_mormund_identidad",
-      "community": 193,
+      "community": 7,
       "norm_label": "identidad"
     },
     {
@@ -12818,7 +12838,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "personajes_armin_mormund_relaciones",
-      "community": 193,
+      "community": 7,
       "norm_label": "relaciones"
     },
     {
@@ -12828,7 +12848,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "personajes_armin_mormund_referencias",
-      "community": 193,
+      "community": 7,
       "norm_label": "referencias"
     },
     {
@@ -14658,7 +14678,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_lauffen",
-      "community": 292,
+      "community": 282,
       "norm_label": "lauffen.md"
     },
     {
@@ -14668,7 +14688,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_lauffen_lauffen",
-      "community": 292,
+      "community": 282,
       "norm_label": "lauffen"
     },
     {
@@ -14678,7 +14698,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "personajes_lauffen_identidad",
-      "community": 292,
+      "community": 282,
       "norm_label": "identidad"
     },
     {
@@ -14688,7 +14708,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "personajes_lauffen_forma_y_conducta",
-      "community": 292,
+      "community": 282,
       "norm_label": "forma y conducta"
     },
     {
@@ -14698,7 +14718,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "personajes_lauffen_referencias",
-      "community": 292,
+      "community": 282,
       "norm_label": "referencias"
     },
     {
@@ -14808,7 +14828,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "monarcas_celesthya_drussyo",
-      "community": 279,
+      "community": 122,
       "norm_label": "celesthya-drussyo.md"
     },
     {
@@ -14818,7 +14838,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "monarcas_celesthya_drussyo_celesthya_drussyo",
-      "community": 279,
+      "community": 122,
       "norm_label": "celesthya drussyo"
     },
     {
@@ -14828,7 +14848,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "monarcas_celesthya_drussyo_identidad",
-      "community": 279,
+      "community": 122,
       "norm_label": "identidad"
     },
     {
@@ -14838,7 +14858,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "monarcas_celesthya_drussyo_relaciones",
-      "community": 279,
+      "community": 122,
       "norm_label": "relaciones"
     },
     {
@@ -15528,7 +15548,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "monarcas_marlo_falken",
-      "community": 24,
+      "community": 114,
       "norm_label": "marlo-falken.md"
     },
     {
@@ -15538,7 +15558,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "monarcas_marlo_falken_marlo_falken",
-      "community": 24,
+      "community": 114,
       "norm_label": "marlo falken"
     },
     {
@@ -15548,7 +15568,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "monarcas_marlo_falken_identidad",
-      "community": 24,
+      "community": 114,
       "norm_label": "identidad"
     },
     {
@@ -15558,7 +15578,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "monarcas_marlo_falken_relaciones",
-      "community": 24,
+      "community": 114,
       "norm_label": "relaciones"
     },
     {
@@ -16415,7 +16435,7 @@
       "label": "Apariencia y envejecimiento",
       "file_type": "document",
       "source_file": "docs/personajes/rey-podrido.md",
-      "source_location": "L66",
+      "source_location": "L65",
       "_origin": "ast",
       "id": "personajes_rey_podrido_apariencia_y_envejecimiento",
       "community": 178,
@@ -16425,7 +16445,7 @@
       "label": "Historia",
       "file_type": "document",
       "source_file": "docs/personajes/rey-podrido.md",
-      "source_location": "L78",
+      "source_location": "L77",
       "_origin": "ast",
       "id": "personajes_rey_podrido_historia",
       "community": 178,
@@ -16435,7 +16455,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/personajes/rey-podrido.md",
-      "source_location": "L101",
+      "source_location": "L100",
       "_origin": "ast",
       "id": "personajes_rey_podrido_referencias",
       "community": 178,
@@ -16888,7 +16908,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_strigor",
-      "community": 286,
+      "community": 79,
       "norm_label": "strigor.md"
     },
     {
@@ -16898,7 +16918,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_strigor_strigor",
-      "community": 286,
+      "community": 79,
       "norm_label": "strigor"
     },
     {
@@ -16908,7 +16928,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "personajes_strigor_identidad",
-      "community": 286,
+      "community": 79,
       "norm_label": "identidad"
     },
     {
@@ -16918,7 +16938,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "personajes_strigor_capacidades",
-      "community": 286,
+      "community": 79,
       "norm_label": "capacidades"
     },
     {
@@ -16928,7 +16948,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "personajes_strigor_relaci\u00f3n_con_los_sangheskios",
-      "community": 286,
+      "community": 79,
       "norm_label": "relacion con los sangheskios"
     },
     {
@@ -16938,7 +16958,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "personajes_strigor_fusi\u00f3n",
-      "community": 286,
+      "community": 79,
       "norm_label": "fusion"
     },
     {
@@ -16948,7 +16968,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "personajes_strigor_referencias",
-      "community": 286,
+      "community": 79,
       "norm_label": "referencias"
     },
     {
@@ -17258,7 +17278,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_yanos_gueika",
-      "community": 132,
+      "community": 7,
       "norm_label": "yanos-gueika.md"
     },
     {
@@ -17268,7 +17288,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_yanos_gueika_yanos_gueika",
-      "community": 132,
+      "community": 7,
       "norm_label": "yanos gueika"
     },
     {
@@ -17278,7 +17298,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "personajes_yanos_gueika_identidad",
-      "community": 132,
+      "community": 7,
       "norm_label": "identidad"
     },
     {
@@ -17288,7 +17308,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "personajes_yanos_gueika_apariencia_y_edad",
-      "community": 132,
+      "community": 7,
       "norm_label": "apariencia y edad"
     },
     {
@@ -17298,7 +17318,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "personajes_yanos_gueika_personalidad",
-      "community": 132,
+      "community": 7,
       "norm_label": "personalidad"
     },
     {
@@ -17308,7 +17328,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "personajes_yanos_gueika_familia",
-      "community": 132,
+      "community": 7,
       "norm_label": "familia"
     },
     {
@@ -17318,7 +17338,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "personajes_yanos_gueika_oficio_y_aspiraciones",
-      "community": 132,
+      "community": 7,
       "norm_label": "oficio y aspiraciones"
     },
     {
@@ -17328,7 +17348,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "personajes_yanos_gueika_relaci\u00f3n_con_sandor_solarys",
-      "community": 132,
+      "community": 7,
       "norm_label": "relacion con sandor solarys"
     },
     {
@@ -17338,7 +17358,7 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "personajes_yanos_gueika_relaciones",
-      "community": 132,
+      "community": 7,
       "norm_label": "relaciones"
     },
     {
@@ -17348,7 +17368,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "personajes_yanos_gueika_referencias",
-      "community": 132,
+      "community": 7,
       "norm_label": "referencias"
     },
     {
@@ -17515,7 +17535,7 @@
       "label": "Alcance",
       "file_type": "document",
       "source_file": "docs/taburas/grien-tabura.md",
-      "source_location": "L16",
+      "source_location": "L14",
       "_origin": "ast",
       "id": "taburas_grien_tabura_alcance",
       "community": 235,
@@ -17525,7 +17545,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/taburas/grien-tabura.md",
-      "source_location": "L21",
+      "source_location": "L19",
       "_origin": "ast",
       "id": "taburas_grien_tabura_referencias",
       "community": 235,
@@ -17752,20 +17772,20 @@
       "norm_label": "tipo"
     },
     {
-      "label": "Funci\u00f3n",
+      "label": "Naturaleza",
       "file_type": "document",
       "source_file": "docs/taburas/mort-tabura.md",
       "source_location": "L6",
       "_origin": "ast",
-      "id": "taburas_mort_tabura_funci\u00f3n",
+      "id": "taburas_mort_tabura_naturaleza",
       "community": 1,
-      "norm_label": "funcion"
+      "norm_label": "naturaleza"
     },
     {
       "label": "Estado",
       "file_type": "document",
       "source_file": "docs/taburas/mort-tabura.md",
-      "source_location": "L9",
+      "source_location": "L11",
       "_origin": "ast",
       "id": "taburas_mort_tabura_estado",
       "community": 1,
@@ -17775,7 +17795,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/taburas/mort-tabura.md",
-      "source_location": "L12",
+      "source_location": "L14",
       "_origin": "ast",
       "id": "taburas_mort_tabura_referencias",
       "community": 1,
@@ -26679,9 +26699,9 @@
       "source_file": "docs/cronologia.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_cronologia_cronolog\u00eda_del_mundo",
-      "target": "docs_cronologia_calendario_imperial",
-      "confidence_score": 1.0
+      "target": "docs_cronologia_calendario_imperial"
     },
     {
       "relation": "contains",
@@ -30259,9 +30279,9 @@
       "source_file": "docs/mundo/stigria/dragma/dinastia-amschel.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "dragma_dinastia_amschel_casa_amschel_segunda_dinast\u00eda_imperial_de_dragma",
-      "target": "dragma_dinastia_amschel_periodo",
-      "confidence_score": 1.0
+      "target": "dragma_dinastia_amschel_periodo"
     },
     {
       "relation": "contains",
@@ -36219,8 +36239,28 @@
       "source_file": "docs/notas.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_notas_revisiones_editoriales",
-      "target": "docs_notas_correcci\u00f3n_posterior_p_07_edicto_del_amanecer_2026_07_24",
+      "target": "docs_notas_correcci\u00f3n_posterior_p_07_edicto_del_amanecer_2026_07_24"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/notas.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "docs_notas_revisiones_editoriales",
+      "target": "docs_notas_correcci\u00f3n_posterior_p_08_clasificaci\u00f3n_de_loryan_2026_07_24",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/notas.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "docs_notas_revisiones_editoriales",
+      "target": "docs_notas_correcci\u00f3n_posterior_p_09_separaci\u00f3n_de_grien_y_mort_t\u00e1bura_2026_07_24",
       "confidence_score": 1.0
     },
     {
@@ -36369,9 +36409,9 @@
       "source_file": "docs/notas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_notas_revisiones_editoriales",
-      "target": "docs_notas_volcamiento_p_06_reformulaci\u00f3n_cronol\u00f3gica_imperial_2026_07_24",
-      "confidence_score": 1.0
+      "target": "docs_notas_volcamiento_p_06_reformulaci\u00f3n_cronol\u00f3gica_imperial_2026_07_24"
     },
     {
       "relation": "contains",
@@ -42219,9 +42259,9 @@
       "source_file": "docs/taburas/mort-tabura.md",
       "source_location": "L6",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "taburas_mort_tabura_mort_t\u00e1bura",
-      "target": "taburas_mort_tabura_funci\u00f3n"
+      "target": "taburas_mort_tabura_naturaleza",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -44529,9 +44569,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_acumulaci\u00f3n_de_resoluciones_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_acumulaci\u00f3n_de_resoluciones_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial"
     },
     {
       "relation": "contains",
@@ -44539,9 +44579,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_acumulaci\u00f3n_de_resoluciones_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_aprobaci\u00f3n_humana_del_modelo",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_aprobaci\u00f3n_humana_del_modelo"
     },
     {
       "relation": "contains",
@@ -44549,9 +44589,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L240",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_acumulaci\u00f3n_de_resoluciones_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_criterios_de_cierre_y_resultado",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_criterios_de_cierre_y_resultado"
     },
     {
       "relation": "contains",
@@ -44559,9 +44599,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_acumulaci\u00f3n_de_resoluciones_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_estado_editorial_y_precedencia",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_estado_editorial_y_precedencia"
     },
     {
       "relation": "contains",
@@ -44569,9 +44609,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L222",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_acumulaci\u00f3n_de_resoluciones_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_registro_de_ejecuci\u00f3n_del_volcamiento",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_registro_de_ejecuci\u00f3n_del_volcamiento"
     },
     {
       "relation": "contains",
@@ -44579,9 +44619,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L20",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_acumulaci\u00f3n_de_resoluciones_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas"
     },
     {
       "relation": "contains",
@@ -44589,9 +44629,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_01_calendario_imperial_\u00fanico",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_01_calendario_imperial_\u00fanico"
     },
     {
       "relation": "contains",
@@ -44599,9 +44639,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_02_ancla_de_la_puerta_negra",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_02_ancla_de_la_puerta_negra"
     },
     {
       "relation": "contains",
@@ -44609,9 +44649,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L66",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_03_historia_antigua_y_edad_del_hierro",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_03_historia_antigua_y_edad_del_hierro"
     },
     {
       "relation": "contains",
@@ -44619,9 +44659,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L91",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_04_edad_de_la_podredumbre",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_04_edad_de_la_podredumbre"
     },
     {
       "relation": "contains",
@@ -44629,9 +44669,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L115",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_05_edad_de_plata",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_05_edad_de_plata"
     },
     {
       "relation": "contains",
@@ -44639,9 +44679,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L134",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_06_familia_valgard_y_ca\u00edda_de_suntarys",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_06_familia_valgard_y_ca\u00edda_de_suntarys"
     },
     {
       "relation": "contains",
@@ -44649,9 +44689,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L153",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_07_rebeli\u00f3n_del_amanecer_y_fundaci\u00f3n_imperial",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_07_rebeli\u00f3n_del_amanecer_y_fundaci\u00f3n_imperial"
     },
     {
       "relation": "contains",
@@ -44659,9 +44699,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L172",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_08_edad_de_oro_y_dinast\u00edas",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_08_edad_de_oro_y_dinast\u00edas"
     },
     {
       "relation": "contains",
@@ -44669,9 +44709,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L195",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_09_materias_reservadas",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_09_materias_reservadas"
     },
     {
       "relation": "contains",
@@ -44679,9 +44719,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md",
       "source_location": "L209",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_resoluciones_propuestas",
-      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_10_sustituci\u00f3n_anti_fantasmeo",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_de_resolucion_reformulacion_cronologia_cr_10_sustituci\u00f3n_anti_fantasmeo"
     },
     {
       "relation": "contains",
@@ -44689,9 +44729,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial"
     },
     {
       "relation": "contains",
@@ -44699,9 +44739,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_alcance_y_l\u00edmites",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_alcance_y_l\u00edmites"
     },
     {
       "relation": "contains",
@@ -44709,9 +44749,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L189",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_cierre_del_proceso",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_cierre_del_proceso"
     },
     {
       "relation": "contains",
@@ -44719,9 +44759,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L179",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_destino_de_las_formulaciones_anteriores",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_destino_de_las_formulaciones_anteriores"
     },
     {
       "relation": "contains",
@@ -44729,9 +44769,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L165",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_elementos_con_fecha_reservada",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_elementos_con_fecha_reservada"
     },
     {
       "relation": "contains",
@@ -44739,9 +44779,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_estado_editorial",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_estado_editorial"
     },
     {
       "relation": "contains",
@@ -44749,9 +44789,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_fuentes_activas_revisadas",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_fuentes_activas_revisadas"
     },
     {
       "relation": "contains",
@@ -44759,9 +44799,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_inventario_de_formulaciones_temporales_activas",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_inventario_de_formulaciones_temporales_activas"
     },
     {
       "relation": "contains",
@@ -44769,9 +44809,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_objetivo",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_objetivo"
     },
     {
       "relation": "contains",
@@ -44779,9 +44819,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L80",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_acumulaci\u00f3n_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_propuesta_num\u00e9rica_de_trabajo",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_propuesta_num\u00e9rica_de_trabajo"
     },
     {
       "relation": "contains",
@@ -44789,9 +44829,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L68",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_inventario_de_formulaciones_temporales_activas",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_estado_de_las_entradas",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_estado_de_las_entradas"
     },
     {
       "relation": "contains",
@@ -44799,9 +44839,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L82",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_propuesta_num\u00e9rica_de_trabajo",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_anclaje_y_conversi\u00f3n",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_anclaje_y_conversi\u00f3n"
     },
     {
       "relation": "contains",
@@ -44809,9 +44849,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L128",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_propuesta_num\u00e9rica_de_trabajo",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_edad_de_la_tiran\u00eda_y_transici\u00f3n_imperial",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_edad_de_la_tiran\u00eda_y_transici\u00f3n_imperial"
     },
     {
       "relation": "contains",
@@ -44819,9 +44859,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L145",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_propuesta_num\u00e9rica_de_trabajo",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_edad_de_oro_y_presente_narrativo",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_edad_de_oro_y_presente_narrativo"
     },
     {
       "relation": "contains",
@@ -44829,9 +44869,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md",
       "source_location": "L104",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_propuesta_num\u00e9rica_de_trabajo",
-      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_hitos_anteriores_a_la_puerta_negra",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_acumulacion_reformulacion_cronologia_hitos_anteriores_a_la_puerta_negra"
     },
     {
       "relation": "contains",
@@ -44839,9 +44879,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_auditor\u00eda_previa_al_volcamiento_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_auditor\u00eda_previa_al_volcamiento_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial"
     },
     {
       "relation": "contains",
@@ -44849,9 +44889,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_auditor\u00eda_previa_al_volcamiento_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_diagn\u00f3stico_general",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_diagn\u00f3stico_general"
     },
     {
       "relation": "contains",
@@ -44859,9 +44899,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L198",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_auditor\u00eda_previa_al_volcamiento_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_estado_de_salida_de_la_auditor\u00eda",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_estado_de_salida_de_la_auditor\u00eda"
     },
     {
       "relation": "contains",
@@ -44869,9 +44909,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_auditor\u00eda_previa_al_volcamiento_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_estado_del_documento",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_estado_del_documento"
     },
     {
       "relation": "contains",
@@ -44879,9 +44919,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L183",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_auditor\u00eda_previa_al_volcamiento_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_inventario_de_dependencias_can\u00f3nicas",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_inventario_de_dependencias_can\u00f3nicas"
     },
     {
       "relation": "contains",
@@ -44889,9 +44929,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L28",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_auditor\u00eda_previa_al_volcamiento_reformulaci\u00f3n_de_la_cronolog\u00eda_imperial",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda"
     },
     {
       "relation": "contains",
@@ -44899,9 +44939,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_01_anclajes_incompatibles",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_01_anclajes_incompatibles"
     },
     {
       "relation": "contains",
@@ -44909,9 +44949,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_02_desplazamiento_de_la_escala_de_la_puerta_negra",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_02_desplazamiento_de_la_escala_de_la_puerta_negra"
     },
     {
       "relation": "contains",
@@ -44919,9 +44959,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L59",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_03_fechas_antiguas_propuestas_sin_ancla_vigente",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_03_fechas_antiguas_propuestas_sin_ancla_vigente"
     },
     {
       "relation": "contains",
@@ -44929,9 +44969,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L72",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_04_compatibilidad_del_modelo_con_el_rey_podrido",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_04_compatibilidad_del_modelo_con_el_rey_podrido"
     },
     {
       "relation": "contains",
@@ -44939,9 +44979,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L85",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_05_consistencia_de_la_edad_de_plata",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_05_consistencia_de_la_edad_de_plata"
     },
     {
       "relation": "contains",
@@ -44949,9 +44989,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L107",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_06_consistencia_familiar_de_suntarys",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_06_consistencia_familiar_de_suntarys"
     },
     {
       "relation": "contains",
@@ -44959,9 +44999,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L124",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_07_duraci\u00f3n_de_la_edad_de_la_tiran\u00eda",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_07_duraci\u00f3n_de_la_edad_de_la_tiran\u00eda"
     },
     {
       "relation": "contains",
@@ -44969,9 +45009,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L139",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_08_tercer_stamengherin_y_precedencia_de_s_02",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_08_tercer_stamengherin_y_precedencia_de_s_02"
     },
     {
       "relation": "contains",
@@ -44979,9 +45019,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L152",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_09_edad_de_oro_dinast\u00edas_y_presente",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_09_edad_de_oro_dinast\u00edas_y_presente"
     },
     {
       "relation": "contains",
@@ -44989,9 +45029,9 @@
       "source_file": "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md",
       "source_location": "L169",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_nudos_de_auditor\u00eda",
-      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_10_fechas_reservadas_y_l\u00edmites_de_alcance",
-      "confidence_score": 1.0
+      "target": "reformulacion_cronologia_auditoria_previa_al_volcamiento_reformulacion_cronologia_c_10_fechas_reservadas_y_l\u00edmites_de_alcance"
     },
     {
       "relation": "contains",
@@ -45445,5 +45485,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "319b1fe2ce2eddf5d40b373bdda06f4ae1c359e0"
+  "built_at_commit": "69c36746a08ec50354fef75e3e4d53d299213d32"
 }

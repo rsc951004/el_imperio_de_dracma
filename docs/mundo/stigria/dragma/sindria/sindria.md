@@ -48,9 +48,8 @@ la Casa Velkar. El motivo y las etapas del relevo permanecen reservados.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: la población de Sindria y los monarcas no iniciados -->
 La Grien Tábura mantiene una presencia secreta alrededor del trono de Sindria.
-Reúne a Peregrinos del Dios Negro y servidores del Rey Podrido que intentan
-producir en Sindria una versión propia del poder que encarnó Thalmos. No
-constituye un culto público, continuo ni oficial del reino.
+Reúne a seguidores y servidores del Rey Podrido. No constituye un culto
+público, continuo ni oficial del reino.
 <!-- CANON-VELADO: FIN -->
 
 ## Referencias

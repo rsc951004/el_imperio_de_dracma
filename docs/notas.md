@@ -32,6 +32,22 @@ año **-80**, durante la Triple Corona y antes de la caída de la ciudadela. El
 año **-10** queda reservado para el primer alzamiento armado de Lamya, inspirado
 por el legado del Edicto.
 
+### Corrección posterior P-08: clasificación de Loryan (2026-07-24)
+
+La ficha histórica de Loryan Solarys lo establece como **Portador** de la Casa
+Solarys. Se corrigió en la ficha de Zephyrya la referencia a generaciones de
+Invocadores al describir la conservación de su técnica; ahora la transmisión
+queda vinculada a la tradición de la Casa Solarys. No se modificaron las
+definiciones ni los usos canónicos de la categoría Invocador ajenos a Loryan.
+
+### Corrección posterior P-09: separación de Grien y Mort Tábura (2026-07-24)
+
+La **Mort Tábura** queda establecida como la Tábura que reúne a los seguidores
+del Dios Negro supervivientes de la caída de Astria. La **Grien Tábura** es una
+organización distinta: reúne a seguidores y servidores del Rey Podrido alrededor
+del trono de Sindria. Se eliminaron de las fichas de Grien las atribuciones
+correspondientes a la tradición astriana y se actualizó el índice de Táburas.
+
 ### Volcamiento P-05: restitución de detalle aprobado (2026-07-24)
 
 Se completó una auditoría complementaria de los hechos aprobados de la

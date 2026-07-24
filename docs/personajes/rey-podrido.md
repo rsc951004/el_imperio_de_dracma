@@ -58,9 +58,8 @@ Conserva apariencia humana y actúa como agente activo. Muchos de los Grimmen
 del Norte nacieron de la unión entre ambos; Lamya nació del vientre de
 Katerina.
 
-La Grien Tábura reúne en Sindria a Peregrinos del Dios Negro y servidores del
-Rey Podrido. Sus integrantes conocen la naturaleza de Katerina y el origen de
-esos Grimmen.
+La Grien Tábura reúne en Sindria a seguidores y servidores del Rey Podrido. Sus
+integrantes conocen la naturaleza de Katerina y el origen de esos Grimmen.
 <!-- CANON-VELADO: FIN -->
 
 ## Apariencia y envejecimiento

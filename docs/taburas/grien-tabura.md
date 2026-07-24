@@ -7,10 +7,8 @@ Tábura clandestina.
 ## Naturaleza
 
 <!-- CANON-VELADO: INICIO | desconocido-por: la población de Sindria y los monarcas no iniciados -->
-La Grien Tábura es una sociedad secreta ligada a Thalmos y al Rey Podrido, con
-presencia alrededor del trono de Sindria. Reúne a Peregrinos del Dios Negro y
-servidores del Rey Podrido que intentan producir una versión propia del poder
-que encarnó Thalmos.
+La Grien Tábura es una sociedad secreta de seguidores y servidores del Rey
+Podrido, con presencia alrededor del trono de Sindria.
 <!-- CANON-VELADO: FIN -->
 
 ## Alcance
