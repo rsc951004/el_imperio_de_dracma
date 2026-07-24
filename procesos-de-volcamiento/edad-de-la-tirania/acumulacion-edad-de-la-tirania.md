@@ -1,6 +1,7 @@
 # Acumulación: Edad de la Tiranía
 
-> **Estado:** abierta para discusión y formalización.
+> **Estado:** acumulación cerrada e incorporada al proceso de resolución y
+> planificación del volcamiento.
 >
 > **Naturaleza:** documento de trabajo no canónico. Ninguna propuesta de esta
 > acumulación modifica `docs/` o `cuentos/` hasta recibir aprobación humana y
@@ -12,12 +13,11 @@
   acuerdos alcanzados durante la discusión.
 - Todo lo que quede establecido sobre normas, formato, hitos o relaciones se
   añadirá aquí antes de continuar con el desarrollo de la acumulación.
-- Nada de lo escrito aquí se considerará canon mientras la acumulación esté
-  abierta.
-- Cuando la acumulación se dé por terminada y se autorice el regreso al canon,
-  este archivo servirá como base para revisar `docs/` y `cuentos/`. El traslado
-  podrá requerir crear, editar o eliminar fichas canónicas, según los acuerdos
-  finales de la acumulación.
+- Nada de lo escrito aquí se considera canon. El cierre de la acumulación no
+  autoriza por sí mismo ningún traslado.
+- Este archivo sirve como base de trabajo para revisar `docs/` y `cuentos/`
+  cuando se autorice el regreso al canon. El traslado podrá requerir crear,
+  editar o eliminar fichas canónicas, según las resoluciones finales.
 - La modificación del canon se hará como una reconstrucción desde esos
   acuerdos finales, no como una adición automática de todas las propuestas
   que hayan aparecido durante la discusión. También se documentará en
@@ -874,8 +874,10 @@ Los cinco ejes de trabajo ya fueron volcados en este documento:
 4. el tercer Stamengherin, Dragma y las coronas fundadoras;
 5. la transición territorial resuelta.
 
-La acumulación continúa siendo material de mesa, no canon. Antes de cualquier
-traslado a `docs/` o `cuentos/`, deberá revisarse como un conjunto, contrastarse
-con el canon vigente y recibir autorización humana expresa. La futura etapa de
-cuentos podrá desarrollar los conflictos, decisiones y consecuencias humanas
-reservadas aquí, pero sin contradecir los grandes hitos consolidados.
+La acumulación continúa siendo material de mesa, no canon. Ya fue revisada como
+un conjunto, contrastada con el canon vigente e incorporada a la acumulación de
+resoluciones y al plan de volcamiento. Ningún traslado a `docs/` o `cuentos/`
+comenzará sin autorización humana expresa para el bloque correspondiente. La
+futura etapa de cuentos podrá desarrollar los conflictos, decisiones y
+consecuencias humanas reservadas aquí, pero sin contradecir los grandes hitos
+consolidados.

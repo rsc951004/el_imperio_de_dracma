@@ -1,6 +1,7 @@
 # Acumulación de resoluciones de la Edad de la Tiranía
 
-> **Estado:** mesa de trabajo abierta.
+> **Estado:** planificación cerrada; plan de volcamiento preparado y pendiente
+> de autorización humana.
 >
 > **Naturaleza:** documento no canónico. Registra las decisiones humanas para
 > resolver los nudos de la auditoría y sus consecuencias antes de cualquier
@@ -1195,8 +1196,8 @@ Tábura.
 
 ## Resoluciones finales dispuestas
 
-Esta sección reunirá, punto por punto, la formulación clara de la solución final
-dispuesta para cada nudo de la auditoría. Se completará al cerrar la revisión de
+Esta sección reúne, punto por punto, la formulación clara de la solución final
+dispuesta para cada nudo de la auditoría. Quedó completada con la revisión de
 coherencia, sin desarrollar aquí relatos, cronologías finas ni materias
 reservadas para etapas posteriores.
 
@@ -1482,6 +1483,7 @@ una decisión expresa y no se inferirá a partir de la documentación vigente.
    con una decisión expresa sobre cada una.
 6. Ejecutar una auditoría textual final antes de considerar cerrado el bloque.
 
-**Estado del plan:** P-01 a P-04 identifican el alcance del volcamiento, pero
-no constituyen autorización para realizarlo. La acumulación permanece como
-documento de mesa de trabajo hasta una orden humana específica.
+**Estado del plan:** P-01 a P-04 identifican el alcance del volcamiento. La
+planificación está cerrada, pero no constituye autorización para realizarlo.
+Este documento permanece como material no canónico hasta una orden humana
+específica para el bloque correspondiente.

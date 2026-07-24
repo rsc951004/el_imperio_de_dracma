@@ -1,9 +1,10 @@
 # Auditoría previa al volcamiento de la Edad de la Tiranía
 
-> **Estado:** diagnóstico de mesa abierto.
+> **Estado:** auditoría cerrada; condiciones de salida cumplidas.
 >
-> **Naturaleza:** documento no canónico. No resuelve los nudos enumerados ni
-> autoriza cambios en `docs/` o `cuentos/`.
+> **Naturaleza:** documento no canónico. Identifica los nudos y comprueba su
+> cierre en la acumulación de resoluciones; no autoriza cambios en `docs/` o
+> `cuentos/`.
 >
 > **Documento auditado:**
 > [`acumulacion-edad-de-la-tirania.md`](acumulacion-edad-de-la-tirania.md).
@@ -991,5 +992,7 @@ La acumulación estará preparada para planificar el volcamiento solo cuando:
 - exista una lista final de fichas canónicas por crear, modificar o retirar y un
   único registro previsto para `docs/notas.md`.
 
-Hasta entonces, el resultado correcto de esta auditoría es **no iniciar el
-volcamiento**.
+Estas condiciones se consideran cumplidas por las resoluciones finales y el
+plan de volcamiento. El cierre de la auditoría permite solicitar la autorización
+del bloque correspondiente, pero no la sustituye: el resultado correcto sigue
+siendo **no iniciar el volcamiento sin una orden humana explícita**.
