@@ -8,12 +8,14 @@ ocultar su identidad durante su protección en Khalos.
 
 ## Historia
 
-Caelyon Varyss usurpó el trono cuando Loryan tenía cinco años. Su formación como
-Portador comenzó a los diez. A los dieciocho, la noticia del matrimonio
-proyectado entre Caelyon y Ragnela Valgard lo llevó a reclamar la corona.
+Caelyon Varyss usurpó el trono en el año **-93**, cuando Loryan tenía cinco años.
+Su formación como Portador comenzó a los diez. A los dieciocho, en el año
+**-80**, la noticia del matrimonio proyectado entre Caelyon y Ragnela Valgard lo
+llevó a reclamar la corona.
 
-Recuperó Suntarys y compartió el gobierno con Sweyn y Soren. Su decisión de
-formar una Triple Corona con dos reyes extranjeros encontró un rechazo
+Recuperó Suntarys en el año **-80** y compartió el gobierno con Sweyn y Soren.
+Durante ese mismo año, los tres proclamaron el Edicto del Amanecer antes de la
+caída de la ciudadela. Su decisión de formar una Triple Corona con dos reyes extranjeros encontró un rechazo
 especialmente fuerte entre las casas nobles suntraryas: Loryan no eligió una
 reina de sus linajes y compartió la corona con dos hombres extranjeros. La
 decisión no nació de una debilidad militar de los tres reyes; habían recuperado
@@ -27,9 +29,10 @@ coste real, pero no lo agotó de manera relevante.
 
 El Edicto del Amanecer dispuso que la muerte de cualquiera de los tres reyes
 pondría fin a la monarquía y devolvería al pueblo la elección de sus
-gobernantes. Loryan cayó con Sweyn y Soren durante la destrucción de Suntarys.
-El Edicto abrió la Rebelión del Amanecer como ruptura política; la aparición de
-Lamya desencadenó después su primer alzamiento armado.
+gobernantes. Loryan cayó con Sweyn y Soren durante la destrucción de Suntarys,
+en el año **-80**.
+El Edicto y la memoria de Suntarys dieron una base política al Amanecer; la
+aparición de Lamya en el año **-10** desencadenó su primer alzamiento armado.
 
 ## Relaciones
 

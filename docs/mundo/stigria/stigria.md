@@ -25,19 +25,24 @@ La referencia visual de trabajo es `referencias-visuales/stigria/boceto-stigria.
 
 Los habitantes prehistóricos reciben el nombre colectivo de **stigrios**. De sus clanes supervivientes nació el pueblo **Gheran** durante la Edad del Bronce.
 
-Durante la Edad del Hierro llegaron los **Sangheskios**, fundadores de Sanghesk. La Guerra del Valle Dorado dio origen al Bloque de Hierro y consolidó la identidad de los Sangre de Hierro.
+Durante la Edad del Hierro, iniciada en el año **-900**, llegaron los
+**Sangheskios**, fundadores de Sanghesk. La Guerra del Valle Dorado, iniciada en
+el año **-540**, dio origen al Bloque de Hierro y consolidó la identidad de los
+Sangre de Hierro.
 
-La caída de Sanghesk ante el Rey Podrido inició la Edad de la Podredumbre.
-Durante esta era, la Gente de la Bruma se asentó en Unland, los refugiados
+La caída de Sanghesk ante el Rey Podrido, en el año **-420**, inició la Edad de
+la Podredumbre, que terminó con el confinamiento inicial de la entidad en el año
+**-224**. Durante esta era, la Gente de la Bruma se asentó en Unland, los refugiados
 astrianos fundaron Khalos y los esclavos liberados de Astria formaron la Costa
 del Verano.
 
 La campaña de Rudgar Valgard y Stelian Therin obligó al Rey Podrido a retroceder
 hasta Rauven y estableció su confinamiento inicial. Después de un periodo de
-transición, el segundo Stamengherin documentado proclamó a Rudgar primer Raik,
-fundó el Raikim y abrió la Edad de Plata. La muerte de Rudgar dio paso a la
-Edad de la Tiranía, que terminó con la Rebelión del Amanecer y la fundación del
-Imperio de Dragma. Ese acontecimiento marcó el comienzo de la Edad de Oro.
+transición, el segundo Stamengherin documentado proclamó a Rudgar primer Raik
+en el año **-214**, fundó el Raikim y abrió la Edad de Plata. La muerte de
+Rudgar en el año **-163** dio paso a la Edad de la Tiranía, que terminó con la
+Rebelión del Amanecer y la fundación del Imperio de Dragma en el año **0**. Ese
+acontecimiento marcó el comienzo de la Edad de Oro.
 
 ## Eldengard
 

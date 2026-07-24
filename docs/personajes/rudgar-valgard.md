@@ -3,17 +3,18 @@
 ## Identidad
 
 Guerrero de la Casa Valgard, vencedor del Rey Podrido y primer Raik. El segundo
-Stamengherin lo proclamó **Rudgar Rompe Maldiciones** en el año 16 desde la
-apertura de la Puerta Negra. También fue conocido como **el Martillo Sangriento**.
+Stamengherin lo proclamó **Rudgar Rompe Maldiciones** en el año **-214**. También
+fue conocido como **el Martillo Sangriento**.
 
 Hijo de **Baldur Valgard** y nieto de **Odalric Valgard**. Recibió su primera
-coronación en el año 57 y murió en el año 67, hecho que cerró la Edad de Plata.
+coronación en el año **-173** y murió en el año **-163**, hecho que cerró la
+Edad de Plata.
 
 ## Juventud y familia
 
 Cuando Rudgar tenía dieciséis años, contemplaba a **Astrid** cerca del Riss. Ese
-mismo día se abrió la Puerta Negra y las hordas del Rey Podrido entraron en
-Flemmen y Eisen.
+mismo día, en el año **-230**, se abrió la Puerta Negra y las hordas del Rey
+Podrido entraron en Flemmen y Eisen.
 
 Astrid se convirtió en su esposa y quedó embarazada de un hijo suyo. Cinco años
 después desapareció durante la caída de una fortaleza de Sturm. Rudgar formó
@@ -26,17 +27,17 @@ Edad de Oro permanece oculta.
 
 ## Stelian Therin y la liberación
 
-En el año 5, Rudgar encontró a **Stelian Therin**, un sangheskio esclavizado de
+En el año **-225**, Rudgar encontró a **Stelian Therin**, un sangheskio esclavizado de
 catorce años, entre los escombros de la fortaleza de Sturm donde había buscado
 a Astrid. Stelian lo salvó de la posesión del Rey Podrido mediante fulgor solar.
 
-Ambos dirigieron la campaña del año 6 que obligó al Rey Podrido a retirarse
+Ambos dirigieron la campaña del año **-224** que obligó al Rey Podrido a retirarse
 hasta Rauven. Los Portadores abrieron el Foso de la Calamidad y derrumbaron el
 conducto sumergido del Rost.
 
-Rudgar vio a Stelian por última vez en el año 19, antes de que este partiera al
-norte. No volvieron a encontrarse hasta siete años después, durante la guerra
-de Unland. Fue su último encuentro. Al año siguiente Rudgar proclamó a los
+Rudgar vio a Stelian por última vez en el año **-211**, antes de que este partiera
+al norte. No volvieron a encontrarse hasta el año **-204**, durante la guerra de
+Unland. Fue su último encuentro. Al año siguiente, en el **-203**, Rudgar proclamó a los
 Sangre de Hierro Carmesí y reconoció a Stelian como señor y Guardián del Paso
 del Oriente.
 

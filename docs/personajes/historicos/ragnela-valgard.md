@@ -6,12 +6,13 @@ Noble de la Casa Valgard y tía de Grimar Valgard.
 
 ## Historia
 
-Ragnela tenía tres años cuando Caelyon Varyss usurpó Suntarys. Trece años
-después, el Raik anunció su matrimonio con Caelyon para intentar incorporar el
-reino como un decimotercer Dominio.
+Ragnela tenía tres años cuando Caelyon Varyss usurpó Suntarys, en el año
+**-93**. Trece años después, en el año **-80**, el Raik anunció su matrimonio
+con Caelyon para intentar incorporar el reino como un decimotercer Dominio.
 
 El enlace no se consumó. Ragnela murió a los dieciséis años durante el asalto
-final a Suntarys. Su muerte amargó profundamente a Brandulf y a Grimar.
+final a Suntarys, en el año **-80**. Su muerte amargó profundamente a Brandulf y
+a Grimar.
 
 Ragnela no dejó descendencia ni una rama reclamante del Raikim.
 

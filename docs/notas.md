@@ -2,6 +2,36 @@
 
 ## Revisiones editoriales
 
+### Volcamiento P-06: reformulación cronológica imperial (2026-07-24)
+
+Se sustituyó el calendario canónico anterior por el cómputo imperial anclado en
+el tercer Stamengherin documentado. El **año 0** corresponde a la elección de
+Harald Mormund, la fundación de Dragma y el inicio de la Edad de Oro. El Raikim
+termina en el año **-1** y la Edad de la Tiranía se cierra con la fundación
+imperial en el año **0**.
+
+La cronología canónica completa quedó trasladada a `docs/cronologia.md`, con
+fechas imperiales para los grandes hitos desde la Gran Devoración hasta el
+presente (**+1680**). También se actualizaron las fichas históricas,
+territoriales, institucionales y de personajes que conservaban fechas del
+cómputo anterior. Se mantuvieron las relaciones de tres años hasta la fundación
+de Esteria, diez años hasta el segundo sellado, las edades conocidas y los
+intervalos de las tres dinastías imperiales.
+
+Las antiguas escalas y formulaciones se conservan únicamente en las entradas
+históricas previas de este registro y en la documentación no canónica del
+proceso de volcamiento. No representan el calendario vigente. Las campañas
+individuales de los dieciséis Raiks, las biografías completas y los desarrollos
+narrativos reservados no se inventaron ni se fecharon de forma adicional.
+
+### Corrección posterior P-07: Edicto del Amanecer (2026-07-24)
+
+La revisión de continuidad detectó que Loryan, Sweyn y Soren mueren durante la
+caída de Suntarys. Por ello, los tres proclamaron el Edicto del Amanecer en el
+año **-80**, durante la Triple Corona y antes de la caída de la ciudadela. El
+año **-10** queda reservado para el primer alzamiento armado de Lamya, inspirado
+por el legado del Edicto.
+
 ### Volcamiento P-05: restitución de detalle aprobado (2026-07-24)
 
 Se completó una auditoría complementaria de los hechos aprobados de la

@@ -6,13 +6,13 @@ Decimosexto Raik de Valgard y padre de Grimar Valgard.
 
 ## Historia
 
-El padre de Brandulf murió joven. Brandulf heredó el Raikim a los veinte años.
-Cuatro años después, durante su reinado, ocurrió la destrucción de Suntarys.
-Entonces tenía veinticuatro años; su hermana Ragnela tenía dieciséis y Grimar,
-diez.
+El padre de Brandulf murió joven. Brandulf heredó el Raikim a los veinte años,
+en el año **-84**. Cuatro años después, durante su reinado, ocurrió la
+destrucción de Suntarys, en el año **-80**. Entonces tenía veinticuatro años;
+su hermana Ragnela tenía dieciséis y Grimar, diez.
 
-Brandulf murió a los ochenta y cuatro años, sesenta años después de la caída de
-Suntarys. Grimar heredó el Raikim a los setenta.
+Brandulf murió a los ochenta y cuatro años, en el año **-20**, sesenta años
+después de la caída de Suntarys. Grimar heredó el Raikim a los setenta.
 
 ## Relaciones
 

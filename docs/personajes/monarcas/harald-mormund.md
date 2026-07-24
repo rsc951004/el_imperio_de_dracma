@@ -8,7 +8,10 @@ Primer emperador de Dragma. Miembro de la Casa Mormund y descendiente del linaje
 
 Harald perteneció al Bloque del Amanecer durante la rebelión contra el Raikim y dirigió el ataque final contra Eldengard.
 
-Después de la caída de Grimar Valgard, el Stamengherin lo eligió primer emperador por su liderazgo militar, su capacidad para reunir a los vencedores y el prestigio antiguo de la Casa Mormund entre los Sangre de Hierro.
+Después de la caída de Grimar Valgard, el Stamengherin lo eligió primer
+emperador en el año **0**, por su liderazgo militar, su capacidad para reunir a
+los vencedores y el prestigio antiguo de la Casa Mormund entre los Sangre de
+Hierro.
 
 ## Apariencia y carácter
 

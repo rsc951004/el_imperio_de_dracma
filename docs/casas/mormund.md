@@ -16,7 +16,9 @@
 
 El clan Mormund surgió en Eldenheim. Durante la Guerra del Valle Dorado, su jefe **Wolfram el Bardo** incorporó al clan a los Sangre de Hierro y se convirtió en una de las principales voces del Bloque de Hierro.
 
-Siglos después, Harald Mormund se unió al Bloque del Amanecer y dirigió el ataque final contra el Raikim. El Stamengherin lo eligió primer emperador por su liderazgo y por el prestigio del linaje de Wolfram.
+Siglos después, Harald Mormund se unió al Bloque del Amanecer y dirigió el ataque final contra el Raikim. El Stamengherin lo eligió primer emperador en el
+año **0**, por su liderazgo y por el prestigio del linaje de Wolfram. La Casa
+Mormund gobernó el Imperio hasta el año **+400**.
 
 Diecisiete emperadores Mormund gobernaron Dragma. La dinastía terminó con Aldric Mormund. La casa conserva estatus nobiliario y reside actualmente en Zephyrya. Su traslado desde Eldenheim todavía no está documentado.
 

@@ -88,11 +88,11 @@ Cinco años después, Stelian Therin lo hirió con fulgor solar cuando intentaba
 poseer a Rudgar. El poder quemó sus ropas y su cuerpo; su grito pareció contener
 miles de voces humanas. La causa de este fenómeno no está establecida.
 
-En el año 6 desde la apertura de la Puerta Negra, Rudgar, Stelian y sus aliados
+En el año **-224**, Rudgar, Stelian y sus aliados
 lo hirieron y obligaron a retroceder hasta Rauven. La apertura del Foso de la
 Calamidad y el derrumbe del conducto del Rost aislaron el Grimm del Gherin.
 
-En el año 37, Stelian y los Guardianes de Esteria entraron en Rauven y alcanzaron
+En el año **-193**, Stelian y los Guardianes de Esteria entraron en Rauven y alcanzaron
 la Jaula Negra de Roshdom. Intentaron sellar la estructura con minerales de
 Stömur, pero una horda atacó la expedición. Se desconoce si el segundo sellado
 confinó definitivamente al Rey Podrido. Desde entonces su presencia no volvió a

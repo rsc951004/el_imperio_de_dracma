@@ -14,7 +14,10 @@ En la misma operación derrumbaron por completo el conducto sumergido por el que
 
 ## Esteria y el Paso del Oriente
 
-Tres años después del segundo Stamengherin documentado, Stelian fundó Esteria junto al Foso como asentamiento de vigilancia y dirigió la limpieza del norte. El **Paso del Oriente** comprende Esteria, el Foso y el Riegel.
+En el año **-211**, tres años después del segundo Stamengherin documentado,
+Stelian fundó Esteria junto al Foso como asentamiento de vigilancia y dirigió la
+limpieza del norte. El **Paso del Oriente** comprende Esteria, el Foso y el
+Riegel.
 
 Esteria no forma parte de los doce Dominios. Es la Gran Barrera del Gherin ante la Ruina y ningún señor ni Raik puede reclamarla o atacarla como heredad propia.
 

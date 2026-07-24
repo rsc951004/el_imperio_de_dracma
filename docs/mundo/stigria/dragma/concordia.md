@@ -4,7 +4,8 @@
 Cuerpo de reformas legales y sociales que refundaron el pacto del Imperio de Dragma.
 
 ## Autoría
-**Vilem Mormund**, Príncipe Heredero y Emperador. Conocido desde entonces como el **Padre del Imperio**.
+**Vilem Mormund**, Príncipe Heredero y Emperador. Promulgó la Concordia en el
+año **+120** y fue conocido desde entonces como el **Padre del Imperio**.
 
 ## Origen
 La Concordia no nació directamente de la tragedia familiar de los Mormund —el fratricidio de Mijail, el asesinato de Ilena, la mutilación de Vilem—, pero esa noche plantó en Vilem el miedo que la hizo posible: el terror a convertirse en su hermano. Un tirano.

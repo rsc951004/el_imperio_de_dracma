@@ -15,7 +15,8 @@
 
 ## Historia y descripción
 
-Segunda dinastía imperial de Dragma. Casa noble de Lysarya, distinta de la Casa
+Segunda dinastía imperial de Dragma, vigente desde el año **+400** hasta el año
+**+1350**. Casa noble de Lysarya, distinta de la Casa
 Mirandys que gobierna el reino en la Edad de Oro. Preexistía antes de la
 fundación del Imperio. Fue elegida por el Stamengherin tras el quiebre de la
 dinastía Mormund.

@@ -1,7 +1,9 @@
 # Grimar Valgard
 
 ## Identidad
-Decimoséptimo y último Raik de Valgard. Conocido como **Grimar de Piedra**. Gobernó durante la caída del Raikim.
+Decimoséptimo y último Raik de Valgard. Conocido como **Grimar de Piedra**.
+Nació en el año **-90**, heredó el Raikim en el año **-20** y murió en el año
+**-1**, durante la caída del Raikim.
 
 ## Ragnela
 
@@ -28,7 +30,8 @@ descendiente de esa línea que desconoce su ascendencia Valgard.
 <!-- CANON-VELADO: FIN -->
 
 ## Legado
-Su caída marcó el fin del Raikim Valgard y el nacimiento del Imperio de Dragma.
+Su caída, en el año **-1**, marcó el fin del Raikim Valgard y precedió en un año
+al nacimiento del Imperio de Dragma.
 
 ## Referencias
 

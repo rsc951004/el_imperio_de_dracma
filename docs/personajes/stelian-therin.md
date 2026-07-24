@@ -31,12 +31,12 @@ Guerra de Unland.
 ## Historia
 
 Stelian combatió junto a Rudgar en la campaña que obligó al Rey Podrido a
-retroceder hasta Rauven. En el año 19 fundó Esteria junto al Foso y limpió el
+retroceder hasta Rauven. En el año **-211** fundó Esteria junto al Foso y limpió el
 norte después de que Frosthain incumpliera su deber. Tras la Guerra de Unland,
 Rudgar proclamó a su pueblo Sangre de Hierro Carmesí y le confirió la guarda del
 Paso del Oriente.
 
-Diez años después de aquella proclamación, Stelian entró en Rauven con
+En el año **-193**, diez años después de aquella proclamación, Stelian entró en Rauven con
 Guardianes de Esteria. Alcanzó Roshdom e intentó sellarla con minerales de
 Stömur. Una horda atacó la expedición; solo unos pocos Guardianes regresaron y
 Stelian no estaba entre ellos.

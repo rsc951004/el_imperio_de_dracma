@@ -6,9 +6,10 @@ Rey ilegítimo y usurpador de Suntarys.
 
 ## Historia
 
-Caelyon tomó el trono cuando Loryan Solarys tenía cinco años. Trece años
-después proyectó casarse con Ragnela Valgard. El enlace buscaba anexionar
-Suntarys al Raikim como un decimotercer Dominio, pero no llegó a consolidarse.
+Caelyon tomó el trono en el año **-93**, cuando Loryan Solarys tenía cinco años.
+Trece años después, en el año **-80**, proyectó casarse con Ragnela Valgard. El
+enlace buscaba anexionar Suntarys al Raikim como un decimotercer Dominio, pero
+no llegó a consolidarse.
 
 La noticia del matrimonio desencadenó la reclamación de Loryan, quien recuperó
 el trono de Suntarys.

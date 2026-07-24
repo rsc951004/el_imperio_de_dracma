@@ -320,9 +320,9 @@
     "semantic_hash": "7c60a5ad83064f45a90ee38c19f46dbd"
   },
   "docs/entidades/portadores.md": {
-    "mtime": 1784506677.5145075,
-    "ast_hash": "4da4d6333fe8be7e0ae5caf801e92545",
-    "semantic_hash": "4da4d6333fe8be7e0ae5caf801e92545"
+    "mtime": 1784904080.2796087,
+    "ast_hash": "b02794a64362dba888761e6f0ab33807",
+    "semantic_hash": ""
   },
   "docs/entidades/smurr.md": {
     "mtime": 1784901388.691548,
@@ -365,13 +365,13 @@
     "semantic_hash": "1794526f2d3ef328457be2891a96779d"
   },
   "docs/mundo/stigria/costa-del-verano.md": {
-    "mtime": 1784863923.9271858,
-    "ast_hash": "661cbe8c3205eb6c3a62621c87f8d8fb",
-    "semantic_hash": "661cbe8c3205eb6c3a62621c87f8d8fb"
+    "mtime": 1784904080.2796087,
+    "ast_hash": "66b1dcdc479a92a7bb9235f2035fc606",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/alessya/alessya.md": {
-    "mtime": 1784901786.1395562,
-    "ast_hash": "6fe14205271fa8f7dc0c4e9992616e9c",
+    "mtime": 1784904149.2396107,
+    "ast_hash": "ff2ff4b3df36ccbb1eb8751618f3e21a",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/bjorn/bjorn.md": {
@@ -395,8 +395,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/dragma.md": {
-    "mtime": 1784901552.17955,
-    "ast_hash": "abc036f2d7c6d4be9b909feecbbe7b20",
+    "mtime": 1784904149.2396107,
+    "ast_hash": "e81ed4226278d43762afb117f1072e70",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/eisengard/eisengard.md": {
@@ -405,8 +405,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/esteria/esteria.md": {
-    "mtime": 1784866594.3952463,
-    "ast_hash": "654258158f42313c69b202ec8b69647e",
+    "mtime": 1784904231.431612,
+    "ast_hash": "08f6f4e72e877d73ce481fd32b836a4f",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/flemmengard/flemmengard.md": {
@@ -485,13 +485,13 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/sturmgard/sturmgard.md": {
-    "mtime": 1784901463.5035496,
-    "ast_hash": "8620b9fcc06527af4983e47d78703547",
+    "mtime": 1784904231.431612,
+    "ast_hash": "2b8499d617e85fc36d445c6334bdf920",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/veleskaria/veleskaria.md": {
-    "mtime": 1784901463.5075495,
-    "ast_hash": "f489984dbc757ab716a5e28a00e47241",
+    "mtime": 1784904231.431612,
+    "ast_hash": "ff0d0702107857bf0150b8182dd48fa7",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/vesperya/vesperya.md": {
@@ -510,8 +510,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-la-tirania.md": {
-    "mtime": 1784865874.9792297,
-    "ast_hash": "8688413d84e877537b49542471c0e6e3",
+    "mtime": 1784904149.2396107,
+    "ast_hash": "fd6cc9de764c76c2429735629b9ae838",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-plata.md": {
@@ -535,9 +535,9 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/gente-de-la-bruma.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "d196b0e885d89e65398bb6ee38b4094d",
-    "semantic_hash": "d196b0e885d89e65398bb6ee38b4094d"
+    "mtime": 1784904080.2796087,
+    "ast_hash": "d4f8890313b7cffcae303eda57310252",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/gheran.md": {
     "mtime": 1784258263.8023422,
@@ -630,8 +630,8 @@
     "semantic_hash": "8f1b6e885e2aef64225035f94ce92d50"
   },
   "docs/mundo/stigria/suntarys.md": {
-    "mtime": 1784903062.5115848,
-    "ast_hash": "dba66b250138f2438c2752390ef6bbbc",
+    "mtime": 1784904149.2356107,
+    "ast_hash": "8dd4f63ec51c2a10b99fd88e2867c40e",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/valgard.md": {
@@ -640,8 +640,8 @@
     "semantic_hash": ""
   },
   "docs/notas.md": {
-    "mtime": 1784902998.0235834,
-    "ast_hash": "70dbe45fccbfbdcc53b728f4977f4f7b",
+    "mtime": 1784904177.8036115,
+    "ast_hash": "d59702e087c128255c446c3b06110c21",
     "semantic_hash": ""
   },
   "docs/organizaciones.md": {
@@ -1025,13 +1025,13 @@
     "semantic_hash": "4a9981b4d2e7494720e2d561412699f4"
   },
   "procesos-de-volcamiento/AGENTS.md": {
-    "mtime": 1784852206.7029178,
-    "ast_hash": "451bd3824cb125585ae56d45d398feb7",
-    "semantic_hash": "451bd3824cb125585ae56d45d398feb7"
+    "mtime": 1784904080.2796087,
+    "ast_hash": "b9d00b88f8bf88239deab0495793d29d",
+    "semantic_hash": ""
   },
   "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md": {
-    "mtime": 1784902998.0275834,
-    "ast_hash": "63ea467e5aafd155d3ff7a231368b933",
+    "mtime": 1784904239.331612,
+    "ast_hash": "fb155a16ace8665db58f5484e90ae7e4",
     "semantic_hash": ""
   },
   "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-edad-de-la-tirania.md": {
@@ -1365,8 +1365,8 @@
     "semantic_hash": ""
   },
   "docs/personajes/historicos/giselra.md": {
-    "mtime": 1784902568.7035737,
-    "ast_hash": "d647d522934846777c6ff0a3b783f674",
+    "mtime": 1784904231.4356122,
+    "ast_hash": "9524c8ac47822a5c06d92ae6843f877f",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/leonthyr-lisaryon.md": {
@@ -1375,8 +1375,8 @@
     "semantic_hash": ""
   },
   "docs/personajes/historicos/loryan-solarys.md": {
-    "mtime": 1784902568.7035737,
-    "ast_hash": "ae42bb18fb5e0d785e17dff0a9cb7a47",
+    "mtime": 1784904231.4356122,
+    "ast_hash": "f39e93558f8efcbbb496b3794404d760",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/raban-frosthain.md": {
@@ -1405,8 +1405,8 @@
     "semantic_hash": ""
   },
   "docs/personajes/historicos/sylas-solarys.md": {
-    "mtime": 1784901666.8715532,
-    "ast_hash": "d4c79fb79abe2bbc78f4daf0e9d35e67",
+    "mtime": 1784904149.2396107,
+    "ast_hash": "9549f251010db8c3493e5bc84310c2fc",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/valiryos-thalyros.md": {

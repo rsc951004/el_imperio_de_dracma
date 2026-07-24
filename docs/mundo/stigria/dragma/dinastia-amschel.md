@@ -3,6 +3,10 @@
 ## Tipo
 Dinastía imperial. Segunda casa en ocupar el trono de Dragma.
 
+## Periodo
+
+La Casa Amschel gobernó desde el año **+400** hasta el año **+1350**.
+
 ## Origen
 Casa noble de **Lysarya**, reino del Alba y centro espiritual de la rebelión del
 Edicto del Amanecer. La Casa Amschel era una casa noble de Lysarya, distinta de

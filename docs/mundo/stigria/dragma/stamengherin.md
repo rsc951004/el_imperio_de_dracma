@@ -18,18 +18,19 @@ determine. Las reuniones antiguas no constituyeron un gobierno permanente.
 Solo tres Stamengherin antiguos cuentan con registros oficiales escritos por
 personas presentes:
 
-1. El de la Edad del Hierro que precedió a la Guerra del Valle Dorado.
+1. El de la Edad del Hierro que precedió a la Guerra del Valle Dorado, en el
+   año **-550**.
 2. El que proclamó a Rudgar primer Raik, fundó el Raikim e inició la Edad de
-   Plata.
+   Plata, en el año **-214**.
 3. El que, tras la derrota de Grimar, proclamó a Harald Mormund, fundó Dragma e
-   inició la Edad de Oro.
+   inició la Edad de Oro, en el **año 0**.
 
 Khalos conserva los registros originales de los dos primeros. El tercero se
 conserva en la biblioteca imperial de Eldengaria.
 
 ## Fundación del Raikim
 
-En el segundo Stamengherin documentado, las casas del Gherin y los cinco clanes
+En el segundo Stamengherin documentado, celebrado en el año **-214**, las casas del Gherin y los cinco clanes
 supervivientes de Sturm se reunieron fuera de Eldengard. La asamblea convirtió
 Sangre de Hierro en la identidad común de los supervivientes gheran y proclamó
 a **Rudgar Rompe Maldiciones** como primer Raik.
@@ -40,8 +41,8 @@ sola autoridad.
 
 ## Fundación de Dragma
 
-El tercer Stamengherin se reunió a los pies de Dragma después de la derrota del
-último Raik. Eligió a Harald Mormund como primer emperador y a las primeras
+El tercer Stamengherin se reunió a los pies de Dragma en el **año 0**, después
+de la derrota del último Raik. Eligió a Harald Mormund como primer emperador y a las primeras
 coronas de los doce reinos. El acuerdo fundador afirmó la libertad personal y
 el límite del poder de los gobernantes como principios políticos compartidos.
 

@@ -130,8 +130,8 @@
     "semantic_hash": "1c89b0bc2dc86b7ecb12c14627ba988b"
   },
   "docs/casas/amschel.md": {
-    "mtime": 1784901786.1395562,
-    "ast_hash": "f4694c2a7871a11c3729f6318144b1eb",
+    "mtime": 1784906934.955675,
+    "ast_hash": "005a810abe4c26014fdcbc48f47920c5",
     "semantic_hash": ""
   },
   "docs/casas/artema.md": {
@@ -210,9 +210,9 @@
     "semantic_hash": "75e7de2b556c293437992c3b9cb2ee91"
   },
   "docs/casas/mormund.md": {
-    "mtime": 1784258263.8023422,
-    "ast_hash": "cd1e5913d860b09b3c3415abc557ff02",
-    "semantic_hash": "cd1e5913d860b09b3c3415abc557ff02"
+    "mtime": 1784906934.955675,
+    "ast_hash": "c828330006dd387680f7e34af903e929",
+    "semantic_hash": ""
   },
   "docs/casas/ormur.md": {
     "mtime": 1784258263.8023422,
@@ -220,9 +220,9 @@
     "semantic_hash": "e8b65853176becd3046598ae29131033"
   },
   "docs/casas/pavel.md": {
-    "mtime": 1784838493.1826048,
-    "ast_hash": "9524100526e2bfe65676919d34a3474f",
-    "semantic_hash": "9524100526e2bfe65676919d34a3474f"
+    "mtime": 1784906934.9596748,
+    "ast_hash": "34d875dedac6469511ebbb703687fe7d",
+    "semantic_hash": ""
   },
   "docs/casas/radanescu.md": {
     "mtime": 1784901786.143556,
@@ -280,8 +280,8 @@
     "semantic_hash": ""
   },
   "docs/cronologia.md": {
-    "mtime": 1784865898.9232302,
-    "ast_hash": "b58caab3009aed63c2f1c9aa52a5126b",
+    "mtime": 1784907443.183686,
+    "ast_hash": "b8e68dff2d2c5e58a919a1059d9214a3",
     "semantic_hash": ""
   },
   "docs/entidades.md": {
@@ -380,9 +380,9 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/concordia.md": {
-    "mtime": 1784838493.1826048,
-    "ast_hash": "ea905c6ee422be281ec5d0ea02f7ad30",
-    "semantic_hash": "ea905c6ee422be281ec5d0ea02f7ad30"
+    "mtime": 1784906934.955675,
+    "ast_hash": "18b7d3027747402496dbdcb4ffce9974",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/delfos/delfos.md": {
     "mtime": 1784480886.9019163,
@@ -390,13 +390,13 @@
     "semantic_hash": "cce81ead4079c968f33f3f1f75818a21"
   },
   "docs/mundo/stigria/dragma/dinastia-amschel.md": {
-    "mtime": 1784901786.1395562,
-    "ast_hash": "0a9a704c655d07cd5ab5ecc4d115b837",
+    "mtime": 1784906934.955675,
+    "ast_hash": "b0e132db2a4925dbe38ab3d1f1a4e16d",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/dragma.md": {
-    "mtime": 1784904149.2396107,
-    "ast_hash": "e81ed4226278d43762afb117f1072e70",
+    "mtime": 1784906934.955675,
+    "ast_hash": "b0037f92f02578fc753c5df16be4c6f2",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/eisengard/eisengard.md": {
@@ -405,8 +405,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/esteria/esteria.md": {
-    "mtime": 1784904231.431612,
-    "ast_hash": "08f6f4e72e877d73ce481fd32b836a4f",
+    "mtime": 1784906768.7836716,
+    "ast_hash": "a9ae548e81b07729cf6262f5e2a38c04",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/flemmengard/flemmengard.md": {
@@ -480,8 +480,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/stamengherin.md": {
-    "mtime": 1784865874.9792297,
-    "ast_hash": "08efe14cba41489f51078410ab2b134a",
+    "mtime": 1784906668.0196664,
+    "ast_hash": "5f823d7730579e54ebb478a1e71e26b5",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/sturmgard/sturmgard.md": {
@@ -505,24 +505,24 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-la-podredumbre.md": {
-    "mtime": 1784865323.5952165,
-    "ast_hash": "e03903066f1d609f1a2c09e3cdc10c2b",
+    "mtime": 1784906668.0196664,
+    "ast_hash": "9edfab99ff87a4ea723ce8b8809c0611",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-la-tirania.md": {
-    "mtime": 1784904149.2396107,
-    "ast_hash": "fd6cc9de764c76c2429735629b9ae838",
+    "mtime": 1784907603.7796888,
+    "ast_hash": "9680cd9ebc6c60e35ef05987c1b38ac8",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-plata.md": {
-    "mtime": 1784865788.8632274,
-    "ast_hash": "6911af7fe137f6e59556f7c037de221d",
-    "semantic_hash": "6911af7fe137f6e59556f7c037de221d"
+    "mtime": 1784906768.7836716,
+    "ast_hash": "368c8cc6feec70574546e4e348af0179",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-del-hierro.md": {
-    "mtime": 1784506819.7065105,
-    "ast_hash": "09bc21bd517ab8dc34a250083dc9b88f",
-    "semantic_hash": "09bc21bd517ab8dc34a250083dc9b88f"
+    "mtime": 1784906668.0196664,
+    "ast_hash": "5009449015c18497e58f7a3adc1bf813",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/emisarios-de-la-ruina.md": {
     "mtime": 1784480934.5259168,
@@ -530,13 +530,13 @@
     "semantic_hash": "95950ab14fd5f2d332b294d5d08bc767"
   },
   "docs/mundo/stigria/foso-de-la-calamidad.md": {
-    "mtime": 1784866650.9032478,
-    "ast_hash": "a09bd6ef8b1e4e7b9eb9b0b61ebe77a4",
+    "mtime": 1784906768.7876716,
+    "ast_hash": "9c2c223947ae745deda26bd64a0a0750",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/gente-de-la-bruma.md": {
-    "mtime": 1784904080.2796087,
-    "ast_hash": "d4f8890313b7cffcae303eda57310252",
+    "mtime": 1784906831.8996735,
+    "ast_hash": "94535cd5784d5c0117e5faf9e41c2be9",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/gheran.md": {
@@ -560,9 +560,9 @@
     "semantic_hash": "743b8bdda544c39a5155cd5ae6325ac9"
   },
   "docs/mundo/stigria/guerra-de-unland.md": {
-    "mtime": 1784863923.9311857,
-    "ast_hash": "6566fa4faec783fc13bdba271c69412e",
-    "semantic_hash": "6566fa4faec783fc13bdba271c69412e"
+    "mtime": 1784906768.7836716,
+    "ast_hash": "d3299cd1381b948c8376ff47406eae4e",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/guerra-del-valle-dorado.md": {
     "mtime": 1784506677.5265074,
@@ -570,9 +570,9 @@
     "semantic_hash": "e7a37d29b2bdd7bdb48f66b794d0bde6"
   },
   "docs/mundo/stigria/historia-antigua.md": {
-    "mtime": 1784506677.5265074,
-    "ast_hash": "9bb0a33f187037656c90311391205010",
-    "semantic_hash": "9bb0a33f187037656c90311391205010"
+    "mtime": 1784906668.0156665,
+    "ast_hash": "0ae8c171c7bffc98b5d356af261f7c78",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/kantra.md": {
     "mtime": 1784506677.5265074,
@@ -590,9 +590,9 @@
     "semantic_hash": "1917674e9077c8293040c0370edeccc7"
   },
   "docs/mundo/stigria/roshdom.md": {
-    "mtime": 1784508695.6625528,
-    "ast_hash": "fb2882de36430f3f1ed16bc5180f0189",
-    "semantic_hash": "fb2882de36430f3f1ed16bc5180f0189"
+    "mtime": 1784906831.8996735,
+    "ast_hash": "102214de238193f4bae6c199cd00e9cb",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/rugido-mordaz.md": {
     "mtime": 1784479697.2218924,
@@ -610,9 +610,9 @@
     "semantic_hash": "0c02c161209647270641e9ed6ab11e46"
   },
   "docs/mundo/stigria/sangre-de-hierro-carmesi.md": {
-    "mtime": 1784508749.8185527,
-    "ast_hash": "ca362a3476500ce6bb9a7782084a2a76",
-    "semantic_hash": "ca362a3476500ce6bb9a7782084a2a76"
+    "mtime": 1784906831.8956735,
+    "ast_hash": "1a563ec83766431151f3a7ecc79c4ac2",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/sangre-de-hierro.md": {
     "mtime": 1784508695.6625528,
@@ -620,9 +620,9 @@
     "semantic_hash": "65cf842ddbe9d8b126d1c10807292723"
   },
   "docs/mundo/stigria/stigria.md": {
-    "mtime": 1784865714.9912238,
-    "ast_hash": "9852bbae95577e517af0497261f61c78",
-    "semantic_hash": "9852bbae95577e517af0497261f61c78"
+    "mtime": 1784906991.059674,
+    "ast_hash": "5d8b6f7d3dc7e60190179b6d927f8883",
+    "semantic_hash": ""
   },
   "docs/mundo/stigria/stomur.md": {
     "mtime": 1784319517.199862,
@@ -630,8 +630,8 @@
     "semantic_hash": "8f1b6e885e2aef64225035f94ce92d50"
   },
   "docs/mundo/stigria/suntarys.md": {
-    "mtime": 1784904149.2356107,
-    "ast_hash": "8dd4f63ec51c2a10b99fd88e2867c40e",
+    "mtime": 1784907514.0636876,
+    "ast_hash": "096b89a57d112dd5899ffec675186588",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/valgard.md": {
@@ -640,8 +640,8 @@
     "semantic_hash": ""
   },
   "docs/notas.md": {
-    "mtime": 1784904177.8036115,
-    "ast_hash": "d59702e087c128255c446c3b06110c21",
+    "mtime": 1784907544.387688,
+    "ast_hash": "903e85813f1c8a8e12c8db0a3cb63b86",
     "semantic_hash": ""
   },
   "docs/organizaciones.md": {
@@ -675,8 +675,8 @@
     "semantic_hash": "bff5763a21dd5e934a85de480714c8c8"
   },
   "docs/pendientes.md": {
-    "mtime": 1784903040.7315843,
-    "ast_hash": "106d83ac5dffb26c47674187aef571c7",
+    "mtime": 1784906991.0636742,
+    "ast_hash": "2a8d17192ba1897e772adbda3b0da11f",
     "semantic_hash": ""
   },
   "docs/personajes.md": {
@@ -700,8 +700,8 @@
     "semantic_hash": "a9dcfc7660473d6b189297734478204b"
   },
   "docs/personajes/astrid.md": {
-    "mtime": 1784865323.5952165,
-    "ast_hash": "5798d1af23e09d15068d57f92bd85106",
+    "mtime": 1784907069.9716775,
+    "ast_hash": "048676f77e9a89eb3a5bf6c536b3ed6e",
     "semantic_hash": ""
   },
   "docs/personajes/baldur-valgard.md": {
@@ -710,9 +710,9 @@
     "semantic_hash": "faf957ebe3027756e3f9518d5865f548"
   },
   "docs/personajes/drakar-valgard.md": {
-    "mtime": 1784507398.666523,
-    "ast_hash": "9a3cbe3834cfe4ecd48b785e4b148cce",
-    "semantic_hash": "9a3cbe3834cfe4ecd48b785e4b148cce"
+    "mtime": 1784906831.8996735,
+    "ast_hash": "372cc33a57cf83e937861a581af15d28",
+    "semantic_hash": ""
   },
   "docs/personajes/eirik-valgard.md": {
     "mtime": 1784507082.3465152,
@@ -720,8 +720,8 @@
     "semantic_hash": "958fb935eaa891a4b7b8147705d22be4"
   },
   "docs/personajes/grimar-valgard.md": {
-    "mtime": 1784901388.691548,
-    "ast_hash": "82f674a75dccb733095b0e5a63d0b847",
+    "mtime": 1784906898.3956752,
+    "ast_hash": "b6862a8e02be9421d05cd858ed09ca33",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/astryon-aetheryon.md": {
@@ -795,9 +795,9 @@
     "semantic_hash": "606b9761ead1cf70f02d817ba71f2246"
   },
   "docs/personajes/monarcas/harald-mormund.md": {
-    "mtime": 1784479394.1338775,
-    "ast_hash": "76a3e6a0edd70ee4d03d60ecf75004b5",
-    "semantic_hash": "76a3e6a0edd70ee4d03d60ecf75004b5"
+    "mtime": 1784907092.5836785,
+    "ast_hash": "0733fe789da5c0d2ab41e4e06bdb754d",
+    "semantic_hash": ""
   },
   "docs/personajes/monarcas/helyo-venthyss.md": {
     "mtime": 1784902427.8875713,
@@ -835,9 +835,9 @@
     "semantic_hash": ""
   },
   "docs/personajes/monarcas/mijail-mormund.md": {
-    "mtime": 1784319517.199862,
-    "ast_hash": "58cd32ee430d03643cb41f6ff51fa0f3",
-    "semantic_hash": "58cd32ee430d03643cb41f6ff51fa0f3"
+    "mtime": 1784906934.951675,
+    "ast_hash": "a470b0c19dcfb7ec226bbdd3b900a0d6",
+    "semantic_hash": ""
   },
   "docs/personajes/monarcas/neryssa-undavos.md": {
     "mtime": 1784902427.8915713,
@@ -880,9 +880,9 @@
     "semantic_hash": ""
   },
   "docs/personajes/monarcas/vilem-mormund.md": {
-    "mtime": 1784257230.1583133,
-    "ast_hash": "1f92578bda4f8a1134b31d0a166cffe2",
-    "semantic_hash": "1f92578bda4f8a1134b31d0a166cffe2"
+    "mtime": 1784906934.9596748,
+    "ast_hash": "b9f1479a46dfc9f2956854d48ecd0f40",
+    "semantic_hash": ""
   },
   "docs/personajes/monarcas/yelena-gorski.md": {
     "mtime": 1784902427.8875713,
@@ -905,13 +905,13 @@
     "semantic_hash": "8bb38e94c2f0a85150869a960ef23ed4"
   },
   "docs/personajes/rey-podrido.md": {
-    "mtime": 1784901388.691548,
-    "ast_hash": "3ce46e024026defb2c10a67f779e9bf2",
+    "mtime": 1784906831.8996735,
+    "ast_hash": "d6ee49b9136c619fd8e603782e804491",
     "semantic_hash": ""
   },
   "docs/personajes/rudgar-valgard.md": {
-    "mtime": 1784865358.947217,
-    "ast_hash": "34d64ad485aede55f6e1ae836b71828a",
+    "mtime": 1784906831.9036734,
+    "ast_hash": "eaf1da4c4cd857a18e43c5c2a98a0194",
     "semantic_hash": ""
   },
   "docs/personajes/sandor-solarys.md": {
@@ -930,9 +930,9 @@
     "semantic_hash": "45d35a4b2f178b40b1b7ca8ab5922a7c"
   },
   "docs/personajes/stelian-therin.md": {
-    "mtime": 1784506748.2145095,
-    "ast_hash": "d0404eb02e1cef84067d661bce7ac075",
-    "semantic_hash": "d0404eb02e1cef84067d661bce7ac075"
+    "mtime": 1784906831.8996735,
+    "ast_hash": "d79ed89c593cf3c5068fe9ba685ce569",
+    "semantic_hash": ""
   },
   "docs/personajes/strigor.md": {
     "mtime": 1784506748.2145095,
@@ -1345,13 +1345,13 @@
     "semantic_hash": ""
   },
   "docs/personajes/historicos/brandulf-valgard.md": {
-    "mtime": 1784901680.5435534,
-    "ast_hash": "3dfa9901063e36389953f7651ef4d1a5",
+    "mtime": 1784906898.3956752,
+    "ast_hash": "e6c69af9acdbb4c889fb8f25914c62f2",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/caelyon-varyss.md": {
-    "mtime": 1784902568.7035737,
-    "ast_hash": "527ef6fc88dd9d0304a82bec018ddb83",
+    "mtime": 1784907069.9716775,
+    "ast_hash": "ad9882e481c326e947a239735dbee1d0",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/dyas-solarys.md": {
@@ -1375,8 +1375,8 @@
     "semantic_hash": ""
   },
   "docs/personajes/historicos/loryan-solarys.md": {
-    "mtime": 1784904231.4356122,
-    "ast_hash": "f39e93558f8efcbbb496b3794404d760",
+    "mtime": 1784907594.3596885,
+    "ast_hash": "44a27a2d8e307681a1c53b27b8480e3d",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/raban-frosthain.md": {
@@ -1385,8 +1385,8 @@
     "semantic_hash": ""
   },
   "docs/personajes/historicos/ragnela-valgard.md": {
-    "mtime": 1784901680.5395534,
-    "ast_hash": "8cb175e628f87ec4471f6fdcdafd8468",
+    "mtime": 1784906898.3956752,
+    "ast_hash": "bf4a1d0e69a1dbb5cb6e0d94c69cf682",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/roderik-wuldrik.md": {
@@ -1395,18 +1395,18 @@
     "semantic_hash": ""
   },
   "docs/personajes/historicos/soren.md": {
-    "mtime": 1784902568.7035737,
-    "ast_hash": "3c87bf6d1f314c5ac18594aafeb3f057",
+    "mtime": 1784907069.9756775,
+    "ast_hash": "352ea4f9b077a09d8011ebe5bd13670d",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/sweyn.md": {
-    "mtime": 1784902568.7035737,
-    "ast_hash": "962898df0f297e72bc4dfd6b8272e005",
+    "mtime": 1784907069.9716775,
+    "ast_hash": "840ee81be5f4f872de93da93e64f7b45",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/sylas-solarys.md": {
-    "mtime": 1784904149.2396107,
-    "ast_hash": "9549f251010db8c3493e5bc84310c2fc",
+    "mtime": 1784907069.9756775,
+    "ast_hash": "da227ae355fca9bf431f3f89da45b950",
     "semantic_hash": ""
   },
   "docs/personajes/historicos/valiryos-thalyros.md": {
@@ -1442,6 +1442,21 @@
   "docs/personajes/monarcas/oryphos-valiryos.md": {
     "mtime": 1784902568.7075737,
     "ast_hash": "89e81681e1646223fb2d5fea6481b294",
+    "semantic_hash": ""
+  },
+  "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-de-resolucion-reformulacion-cronologia.md": {
+    "mtime": 1784907470.0716865,
+    "ast_hash": "5aaa1718db80e8a89144f00ea10ac1b5",
+    "semantic_hash": ""
+  },
+  "procesos-de-volcamiento/reformulacion-cronologia/acumulacion-reformulacion-cronologia.md": {
+    "mtime": 1784907470.0676866,
+    "ast_hash": "061fa329e743cd4e7f131ce8f14b5169",
+    "semantic_hash": ""
+  },
+  "procesos-de-volcamiento/reformulacion-cronologia/auditoria-previa-al-volcamiento-reformulacion-cronologia.md": {
+    "mtime": 1784907470.0716865,
+    "ast_hash": "304329fe2e9a771fb5849f5c5b33850c",
     "semantic_hash": ""
   }
 }

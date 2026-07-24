@@ -2,10 +2,11 @@
 
 ## Alcance
 
-La Edad de la Tiranía comenzó en el año 67 desde la apertura de la Puerta Negra,
-cuando Drakar Valgard sucedió a Rudgar como segundo Raik. Comprende los dieciséis
-Raiks posteriores a Rudgar y terminó con la derrota de Grimar Valgard, el último
-Raik, la Rebelión del Amanecer y el tercer Stamengherin documentado.
+La Edad de la Tiranía comenzó en el año **-163**, cuando Drakar Valgard sucedió
+a Rudgar como segundo Raik. Comprende los dieciséis Raiks posteriores a Rudgar.
+La derrota de Grimar Valgard, el último Raik, terminó el Raikim en el año
+**-1**; el tercer Stamengherin documentado y la fundación de Dragma cerraron la
+Edad de la Tiranía en el **año 0**.
 
 La edad fijó el agotamiento del Raikim, la destrucción de Suntarys, el origen de
 la Rebelión del Amanecer, la caída pública de los Valgard y la fundación de
@@ -36,17 +37,19 @@ cordón de Dorn.
 ## Suntarys y el Edicto del Amanecer
 
 Suntarys era un Estado libre de Alessya. Tras la muerte de Layna Solarys,
-Caelyon Varyss usurpó el trono cuando Loryan Solarys tenía cinco años. Loryan
-fue protegido en Khalos bajo el seudónimo de Dorian. Trece años después, la
-noticia del matrimonio proyectado entre Caelyon y Ragnela Valgard lo llevó a
-reclamar la corona; aquel enlace no convirtió Suntarys en un Dominio.
+Caelyon Varyss usurpó el trono en el año **-93**, cuando Loryan Solarys tenía
+cinco años. Loryan fue protegido en Khalos bajo el seudónimo de Dorian. Trece
+años después, en el año **-80**, la noticia del matrimonio proyectado entre
+Caelyon y Ragnela Valgard lo llevó a reclamar la corona; aquel enlace no
+convirtió Suntarys en un Dominio.
 
-Loryan recuperó el trono y gobernó Suntarys con Sweyn y Soren como la Triple
-Corona. El Edicto del Amanecer proclamó que todas las personas nacen libres e
-iguales, que los gobernantes responden ante su pueblo y que ninguna herencia
-justifica sacrificarlo para conservar el poder. La muerte de cualquiera de los
-tres reyes ponía fin a esa monarquía y devolvía al pueblo la elección de sus
-gobernantes.
+Loryan recuperó el trono en el año **-80** y gobernó Suntarys con Sweyn y Soren
+como la Triple Corona. Durante ese mismo año, antes de la caída de la ciudadela,
+Loryan, Sweyn y Soren proclamaron el Edicto del Amanecer, que estableció que
+todas las personas nacen libres e iguales,
+que los gobernantes responden ante su pueblo y que ninguna herencia justifica
+sacrificarlo para conservar el poder. La muerte de cualquiera de los tres reyes
+ponía fin a esa monarquía y devolvía al pueblo la elección de sus gobernantes.
 
 La Triple Corona fue rechazada sobre todo por las casas nobles de Suntarys:
 Loryan no eligió una reina de sus linajes y compartió el gobierno con dos reyes
@@ -54,15 +57,17 @@ hombres y extranjeros. Los tres habían demostrado su capacidad al recuperar el
 Estado. Loryan entendió que su decisión exponía a Suntarys, y esa comprensión
 sostuvo el sentido político del Edicto.
 
-La invasión final arrasó Suntarys durante el reinado de Brandulf Valgard. Ragnela
-murió en el asalto y los tres reyes de la Triple Corona cayeron con la ciudadela.
+La invasión final arrasó Suntarys en el año **-80**, durante el reinado de
+Brandulf Valgard. Ragnela murió en el asalto y los tres reyes de la Triple
+Corona cayeron con la ciudadela.
 El Edicto y la memoria de Suntarys sobrevivieron a la destrucción y dieron una
-base política al Amanecer.
+base política al Amanecer. Su legado permaneció hasta el primer alzamiento
+armado de Lamya en el año **-10**.
 
 ## Rebelión del Amanecer
 
-La aparición de Lamya en las Costas del Verano desencadenó el primer alzamiento
-armado contra el Raikim. La criatura fue vista por el mundo como un Grimmen
+La aparición de Lamya en las Costas del Verano, en el año **-10**, desencadenó el
+primer alzamiento armado contra el Raikim. La criatura fue vista por el mundo como un Grimmen
 gestado en Zephyrya.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->
@@ -111,7 +116,8 @@ Grimar y Katerina. Ninguno de sus descendientes conoce esa ascendencia.
 
 ## El tercer Stamengherin y Dragma
 
-El tercer Stamengherin documentado se reunió después de la caída de Grimar.
+El tercer Stamengherin documentado se reunió en el año **0**, después de la
+caída de Grimar.
 Eligió a Harald Mormund como primer emperador y transformó los doce Dominios en
 reinos mediante la elección de sus primeras coronas. Desde Harald hasta la
 Concordia, la muerte de un emperador o de un rey exigía una nueva elección por

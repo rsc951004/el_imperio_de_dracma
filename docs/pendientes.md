@@ -39,7 +39,6 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Edicto del Amanecer** | Fijar su forma, texto y circunstancias detalladas. |
 | **Casas fundadoras** | Completar la historia de las casas fundadoras de los doce reinos. |
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
-| **Cronología dS** | Fijar fechas absolutas para la Edad del Hierro, la Podredumbre y el Raikim. |
 
 ## Misterios y desarrollos posteriores
 

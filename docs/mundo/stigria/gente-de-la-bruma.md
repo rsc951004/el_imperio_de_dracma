@@ -47,7 +47,7 @@ Los tres jarls que gobernaban los territorios de Unland pactaron por separado
 con los Emisarios de la Ruina. No actuaron en nombre de toda la Gente de la
 Bruma.
 
-Diez años después del segundo Stamengherin documentado, el Raikim emprendió la
+En el año **-204**, diez años después del segundo Stamengherin documentado, el Raikim emprendió la
 Campaña de Recuperación de Unland. Los brumenses atacaron primero por la noche,
 acompañados por Grimmen dirigidos de forma consciente. La batalla terminó esa
 misma noche con la derrota de Unland.

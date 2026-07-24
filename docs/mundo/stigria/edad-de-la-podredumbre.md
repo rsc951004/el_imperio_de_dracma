@@ -2,11 +2,12 @@
 
 ## Inicio
 
-La Edad de la Podredumbre comenzó con la destrucción de Sanghesk por el Rey Podrido.
+La Edad de la Podredumbre comenzó en el año **-420**, con la destrucción de
+Sanghesk por el Rey Podrido.
 
 Los Sangheskios que escaparon de Dresk huyeron hacia **Velesk**, donde fueron contenidos por el Bloque de Hierro. La mayoría de los capturados terminó esclavizada por los Gheran.
 
-El Rey Podrido avanzó hasta los grandes portones rojos. Aparentaba entre quince y diecisiete años: tenía la piel verdosa, semejante a la de una planta podrida, el cabello largo y desordenado, ropas sangheskias desgastadas y cuernos negros, asimétricos y retorcidos como ramas. Tomó los portones con las manos y los cerró. La piedra roja comenzó a ennegrecerse lentamente desde los puntos que había tocado.
+El Rey Podrido avanzó hasta los grandes portones rojos. Aparentaba entre quince y diecisiete años: tenía la piel verdosa, semejante a la de una planta podrida, el cabello largo y desordenado, ropas sangheskias desgastadas y cuernos negros, asimétricos y retorcidos como ramas. Tomó los portones con las manos y los cerró. La piedra roja comenzó a ennegrecerse lentamente desde los puntos que había tocado. El cierre de Velesk ocurrió en el año **-410**.
 
 ## El encierro del Rey Podrido
 
@@ -41,9 +42,12 @@ Los liberados se asentaron en Dürr. Sus Portadores emplearon sus facultades par
 
 Cinco generaciones separaron a Val el Terrible de **Odalric Valgard**. Para cuando Odalric alcanzó la edad adulta, la oscuridad había terminado de cubrir Velesk, convertida en la **Puerta Negra del Reino Podrido**. Odalric fue abuelo de Rudgar; su hijo **Baldur Valgard** fue el padre del futuro Raik.
 
-Casi dos siglos después del nacimiento del Rey Podrido, cuando **Rudgar Valgard** tenía dieciséis años, la Puerta Negra se abrió. Las hordas de Grimmen y poseídos entraron en Flemmen y Eisen.
+En el año **-230**, cuando **Rudgar Valgard** tenía dieciséis años, la Puerta
+Negra se abrió. Las hordas de Grimmen y poseídos entraron en Flemmen y Eisen.
 
-En cinco años ocuparon casi todo el Gherin. Los principales refugios que permanecieron en Stigria fueron Khalos y Eldengard.
+En cinco años ocuparon casi todo el Gherin. Los principales refugios que
+permanecieron en Stigria fueron Khalos y Eldengard. El confinamiento inicial
+del Rey Podrido en Rauven ocurrió en el año **-224**.
 
 ## Rudgar y Stelian
 
@@ -91,7 +95,8 @@ El Rost dejó de alimentar el río que separaba Rauven de Grimheim. El cauce se
 secó y ambos territorios quedaron unidos, mientras el Grimm en su conjunto
 quedó aislado del Gherin.
 
-El confinamiento del Rey Podrido en Rauven puso fin a la Edad de la Podredumbre.
+El confinamiento del Rey Podrido en Rauven, en el año **-224**, puso fin a la
+Edad de la Podredumbre.
 Después siguió un periodo de transición. La **Edad de Plata** no comenzó con la
 victoria militar, sino con el segundo Stamengherin documentado y la fundación
 del Raikim.

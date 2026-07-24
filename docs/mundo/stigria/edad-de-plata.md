@@ -2,13 +2,13 @@
 
 ## Alcance
 
-La Edad de Plata comenzó en el año 16 desde la apertura de la Puerta Negra, con
-el segundo **Stamengherin** documentado. Terminó en el año 67 con la muerte de
-**Rudgar Valgard**, primer Raik.
+La Edad de Plata comenzó en el año **-214**, con el segundo **Stamengherin**
+documentado. Terminó en el año **-163** con la muerte de **Rudgar Valgard**,
+primer Raik.
 
-Rudgar fue Raik desde el Stamengherin. Su primera coronación, ocurrida treinta
-años después de la proclamación de los Sangre de Hierro Carmesí, celebró la
-unificación final del Raikim.
+Rudgar fue Raik desde el Stamengherin. Su primera coronación, ocurrida en el
+año **-173**, treinta años después de la proclamación de los Sangre de Hierro
+Carmesí, celebró la unificación final del Raikim.
 
 ## Fundación del Raikim
 
@@ -22,11 +22,11 @@ cuando el Raikim ejerciera control efectivo sobre ellos.
 
 ## Esteria y los Sangre de Hierro Carmesí
 
-En el año 19, Frosthain incumplió el encargo de limpiar el norte. Stelian Therin
+En el año **-211**, Frosthain incumplió el encargo de limpiar el norte. Stelian Therin
 partió con refugiados sangheskios y mujeres de Sturm, fundó Esteria junto al Foso y asumió la
 limpieza de Weissen y del paso fronterizo.
 
-En el año 27, Rudgar proclamó a los **Sangre de Hierro Carmesí**, Guardianes del
+En el año **-203**, Rudgar proclamó a los **Sangre de Hierro Carmesí**, Guardianes del
 Norte. La proclamación estableció su identidad política dentro del Raikim y
 conservó la raíz sangheskia como origen histórico y cultural. Stelian, Estrella
 Fugaz y señor de la Casa Therin, recibió el señorío y la guarda del **Paso del
@@ -43,7 +43,7 @@ instrumento de intercambio que después se extendió dentro del Raikim. El pacto
 de Dürr, celebrado entre Rudgar y Aurethyron, reguló de forma pública el
 asentamiento y el comercio de los Hijos del Sol en Dürr.
 
-La guerra de Unland comenzó en el año 26, cuando los brumenses atacaron primero
+La guerra de Unland comenzó en el año **-204**, cuando los brumenses atacaron primero
 con Grimmen bajo su control. El conflicto reveló a los **Emisarios de la Ruina**:
 personas entregadas voluntariamente al Rey Podrido que podían ocultarse entre la
 población. Stelian regresó desde Esteria y combatió junto a Rudgar.
@@ -70,7 +70,7 @@ la guerra de Unland.
 
 ## El segundo sellado
 
-Diez años después de la proclamación Carmesí, Stelian entró en Rauven con
+En el año **-193**, diez años después de la proclamación Carmesí, Stelian entró en Rauven con
 Guardianes procedentes de Esteria. Alcanzó Roshdom y la Jaula Negra, donde intentó
 sellar la estructura con minerales de Stömur. Una horda atacó a la expedición;
 solo unos pocos Guardianes regresaron y Stelian no volvió.
@@ -82,7 +82,7 @@ Paso del Oriente y los Grimmen disminuyeron en número.
 
 ## Los doce Dominios
 
-En el año 57, Rudgar recibió su primera coronación en el Gran Salón del nuevo
+En el año **-173**, Rudgar recibió su primera coronación en el Gran Salón del nuevo
 Eldengard. Los doce Dominios reunían los nueve territorios históricos del
 Gherin:
 
@@ -97,10 +97,10 @@ Gherin:
 
 ## Cierre
 
-Rudgar murió diez años después de su coronación. Su muerte cerró la Edad de
-Plata. Drakar fue el segundo Raik y el primero de los dieciséis sucesores de
-Rudgar. Su gobierno abrió la Edad de la Tiranía, que terminó con la Rebelión del
-Amanecer y la fundación del Imperio de Dragma.
+Rudgar murió en el año **-163**, diez años después de su coronación. Su muerte
+cerró la Edad de Plata. Drakar fue el segundo Raik y el primero de los dieciséis
+sucesores de Rudgar. Su gobierno abrió la Edad de la Tiranía, que terminó con
+la Rebelión del Amanecer y la fundación del Imperio de Dragma en el año **0**.
 
 ## Referencias
 

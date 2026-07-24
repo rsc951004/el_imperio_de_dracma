@@ -1,64 +1,74 @@
 # Cronología del mundo
 
-## Calendario
+## Calendario imperial
 
-**Año 0 = el Surgimiento (dS).** Los Inits caen sobre distintos continentes y
-los Mobius llegan al mundo.
+El calendario imperial toma como ancla el **tercer Stamengherin documentado**.
+En el **año 0**, el Stamengherin eligió a Harald Mormund, fundó Dragma y dio
+inicio a la Edad de Oro.
 
-Las fechas absolutas de la historia antigua de Stigria permanecen desconocidas.
-El calendario dS continúa vigente, pero no se asignan fechas tentativas a los
-periodos todavía no fechados. Los hechos posteriores a la apertura de la Puerta
-Negra se expresan también en años relativos a ese acontecimiento.
+Las fechas anteriores se expresan con números negativos y las posteriores con
+números positivos:
+
+- **Año -N:** N años antes de la fundación del Imperio.
+- **Año 0:** fundación del Imperio de Dragma.
+- **Año +N:** N años después de la fundación del Imperio.
 
 ## Línea temporal
 
 | Fecha | Evento |
 |-------|--------|
-| **Antes de 0** | Comunidades stigrias dispersas habitan Stigria. |
-| **Antes de 0** | **Gran Devoración.** Los Grimmen persiguen a los seres humanos durante siglos. |
-| **Antes de 0** | Según la tradición, Ghera y Smürr expulsan a la mayoría de los Grimmen hacia el oriente y forman Stömur. |
-| **Antes de 0** | Los supervivientes forman el pueblo Gheran. Comienza la **Edad del Bronce**. |
-| **0** | **Surgimiento.** La fractura septentrional de Stömur forma el Riegel y se abre el conducto subterráneo del Rost. |
-| **Fecha desconocida después de 0** | Los Sangheskios llegan por mar a Rauven. Comienza la **Edad del Hierro**. |
-| **Edad del Hierro** | Los Sangheskios fundan Sanghesk, ocupan Weissen y Dresk y levantan las Murallas Carmesí. |
-| **Más de trescientos años después** | El Stamengherin de Eldengard y la invasión de Gülden inician la **Guerra del Valle Dorado**. |
-| **Casi dos años después** | Se forma el **Bloque de Hierro**. Comienza el Gran Bloqueo. |
-| **Edad del Hierro** | La Banda de la Piedra Mohosa atraviesa accidentalmente el conducto del Rost y ataca a la familia de Radu en Rauven. |
-| **Edad del Hierro** | Nace el Rey Podrido. |
-| **Fin de la Edad del Hierro** | El Rey Podrido destruye Sanghesk. Comienza la **Edad de la Podredumbre**. |
-| **Inicio de la Edad de la Podredumbre** | El Rey Podrido cierra Velesk. Los portones se ennegrecen lentamente hasta convertirse en la Puerta Negra del Reino Podrido. |
-| **Edad de la Podredumbre** | La Gente de la Bruma huye del sur de Grimheim, entra en Unland por el Fenn y desplaza hacia el Gran Valle a parte de la población que habitaba la región. Val el Terrible y sus acompañantes mueren durante la campaña contra los recién llegados. |
-| **Edad de la Podredumbre** | Unos ciento veinte refugiados astrianos llegan a Unland. Junto con la Gente de la Bruma fundan Khalos y la Kys Tábura. Los esclavos liberados de Astria transforman el litoral de Dürr y forman la Costa del Verano. |
-| **Edad de la Podredumbre** | Artemis descubre Delfos. Los habitantes de Unland construyen los tres arcos colosales de la futura Tríada. |
-| **Año 0 de la Puerta Negra** | La Puerta Negra se abre cuando Rudgar Valgard tiene dieciséis años. Las hordas del Reino Podrido conquistan casi todo el Gherin durante los cinco años siguientes. |
-| **Año 5 de la Puerta Negra** | Astrid desaparece en una fortaleza de Sturm. Rudgar, ya de veintiún años, encuentra a Stelian Therin, de catorce años. Stelian hiere al Rey Podrido mediante su fulgor solar. |
-| **Año 5 de la Puerta Negra** | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->El hijo de Astrid y Rudgar sobrevive; la continuidad de esa línea permanece oculta durante la Edad de Oro.<!-- CANON-VELADO: FIN --> |
-| **Año 6 de la Puerta Negra** | La campaña de Rudgar y Stelian obliga al Rey Podrido a retroceder hasta Rauven. Los Portadores abren el Foso de la Calamidad en el Riegel y derrumban el conducto sumergido del Rost. El confinamiento inicial del Rey Podrido cierra la Edad de la Podredumbre. |
-| **Año 16 de la Puerta Negra** | El segundo Stamengherin documentado proclama a Rudgar primer Raik y funda el Raikim. Comienza la **Edad de Plata**. |
-| **Año 19 de la Puerta Negra** | Ante el incumplimiento de Frosthain, Stelian funda Esteria junto al Foso y dirige la limpieza del norte. |
-| **Año 26 de la Puerta Negra** | La guerra de Unland revela la intervención de los Emisarios de la Ruina. Stelian vuelve a combatir junto a Rudgar. |
-| **Año 27 de la Puerta Negra** | Rudgar proclama a los Sangre de Hierro Carmesí y crea la Guardia del Norte para la Marcha Carmesí. Reconoce a Stelian como señor y Guardián del Paso del Oriente. |
-| **Año 37 de la Puerta Negra** | Stelian entra en Rauven con Guardianes de Esteria, alcanza Roshdom e intenta un segundo sellado del Rey Podrido. Desaparece durante la incursión. |
-| **Año 57 de la Puerta Negra** | Rudgar recibe su primera coronación en Eldengard, ante los doce señores de Dominio, tras la unificación del Raikim. |
-| **Año 67 de la Puerta Negra** | Muere Rudgar. Termina la Edad de Plata. |
-| **Año 67 de la Puerta Negra** | Comienza la **Edad de la Tiranía** con la sucesión de Drakar Valgard, segundo Raik. La edad comprende los dieciséis Raiks posteriores a Rudgar, hasta Grimar. |
-| **Reinado de Grimar** | Para entonces, el Raikim ya es una tiranía hereditaria y corrupta. |
-| **Final de la Edad de la Tiranía** | La Rebelión del Amanecer derrota a Grimar Valgard. El tercer Stamengherin elige a Harald Mormund como primer emperador y funda Dragma. |
-| **Final de la Edad de la Tiranía** | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluidos los dos descendientes -->La caída de los Valgard es pública y política; también sobrevive una línea procedente de Grimar y Katerina.<!-- CANON-VELADO: FIN --> |
-| **Edad de Oro** | La fundación de Dragma inaugura la Edad de Oro. |
-| **Presente** | El Imperio de Dragma continúa en la Edad de Oro. |
+| **Año -2500** | **Gran Devoración.** Los Grimmen persiguen a los seres humanos durante siglos. |
+| **Año -2000** | Según la tradición, Ghera y Smürr expulsan a la mayoría de los Grimmen hacia el oriente y forman Stömur. |
+| **Año -1950** | Los supervivientes forman el pueblo Gheran. Comienza la **Edad del Bronce**. |
+| **Año -1500** | **Surgimiento.** La fractura septentrional de Stömur forma el Riegel y se abre el conducto subterráneo del Rost. |
+| **Año -900** | Los Sangheskios llegan por mar a Rauven. Comienza la **Edad del Hierro**. |
+| **Año -880** | Los Sangheskios fundan Sanghesk, ocupan Weissen y Dresk y levantan las Murallas Carmesí. |
+| **Año -550** | Tiene lugar el primer Stamengherin documentado, en la Edad del Hierro. |
+| **Año -540** | El Stamengherin de Eldengard y la invasión de Gülden inician la **Guerra del Valle Dorado**. |
+| **Año -435** | Nace el Rey Podrido. |
+| **Año -420** | El Rey Podrido destruye Sanghesk. Comienza la **Edad de la Podredumbre**. |
+| **Año -410** | El Rey Podrido cierra Velesk. Los portones se ennegrecen lentamente hasta convertirse en la Puerta Negra del Reino Podrido. |
+| **Año -360** | La Gente de la Bruma huye del sur de Grimheim, entra en Unland por el Fenn y desplaza hacia el Gran Valle a parte de la población que habitaba la región. Val el Terrible y sus acompañantes mueren durante la campaña contra los recién llegados. |
+| **Año -345** | Unos ciento veinte refugiados astrianos llegan a Unland. Junto con la Gente de la Bruma fundan Khalos y la Kys Tábura. |
+| **Año -330** | Los esclavos liberados de Astria transforman el litoral de Dürr y forman la **Costa del Verano**. |
+| **Año -300** | Artemis descubre Delfos. Los habitantes de Unland construyen los tres arcos colosales de la futura Tríada. |
+| **Año -230** | La Puerta Negra se abre cuando Rudgar Valgard tiene dieciséis años. Las hordas del Reino Podrido conquistan casi todo el Gherin durante los cinco años siguientes. |
+| **Año -225** | Astrid desaparece en una fortaleza de Sturm. Rudgar, ya de veintiún años, encuentra a Stelian Therin, de catorce años. Stelian hiere al Rey Podrido mediante su fulgor solar. |
+| **Año -225** | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->El hijo de Astrid y Rudgar sobrevive; la continuidad de esa línea permanece oculta durante la Edad de Oro.<!-- CANON-VELADO: FIN --> |
+| **Año -224** | La campaña de Rudgar y Stelian obliga al Rey Podrido a retroceder hasta Rauven. Los Portadores abren el Foso de la Calamidad en el Riegel y derrumban el conducto sumergido del Rost. El confinamiento inicial del Rey Podrido cierra la Edad de la Podredumbre. |
+| **Año -214** | El segundo Stamengherin documentado proclama a Rudgar primer Raik y funda el Raikim. Comienza la **Edad de Plata**. |
+| **Año -211** | Ante el incumplimiento de Frosthain, Stelian funda Esteria junto al Foso y dirige la limpieza del norte. |
+| **Año -204** | La guerra de Unland revela la intervención de los Emisarios de la Ruina. Stelian vuelve a combatir junto a Rudgar. |
+| **Año -203** | Rudgar proclama a los Sangre de Hierro Carmesí y crea la Guardia del Norte para la Marcha Carmesí. Reconoce a Stelian como señor y Guardián del Paso del Oriente. |
+| **Año -193** | Stelian entra en Rauven con Guardianes de Esteria, alcanza Roshdom e intenta un segundo sellado del Rey Podrido. Desaparece durante la incursión. |
+| **Año -173** | Rudgar recibe su primera coronación en Eldengard, ante los doce señores de Dominio, tras la unificación del Raikim. |
+| **Año -163** | Muere Rudgar. Termina la **Edad de Plata**. |
+| **Año -163** | Comienza la **Edad de la Tiranía** con la sucesión de Drakar Valgard, segundo Raik. La edad comprende los dieciséis Raiks posteriores a Rudgar, hasta Grimar. |
+| **Año -93** | Caelyon Varyss usurpa el trono de Suntarys. |
+| **Año -90** | Nace Grimar Valgard. |
+| **Año -84** | Brandulf Valgard hereda el Raikim. |
+| **Año -80** | Loryan Solarys recupera Suntarys, forma la Triple Corona y proclama el **Edicto del Amanecer**. La ciudadela cae durante la invasión y mueren Loryan, Sweyn y Soren. |
+| **Año -20** | Muere Brandulf Valgard. Grimar hereda el trono. |
+| **Año -10** | Lamya inicia el primer levantamiento armado de la Rebelión del Amanecer. |
+| **Año -1** | Harald Mormund dirige el ataque final contra Grimar. Grimar muere y termina el Raikim. |
+| **Año 0** | El tercer Stamengherin documentado elige a Harald Mormund como primer emperador, funda Dragma e inicia la **Edad de Oro**. |
+| **Año +80** | Mijail Mormund es exiliado y funda la rama que da origen a la Casa Artema en Delfos. |
+| **Año +120** | Vilem Mormund promulga la **Concordia**. |
+| **Año +400** | Comienza la dinastía Amschel. Termina la dinastía Mormund. |
+| **Año +1350** | Comienza la dinastía Pavel. Termina la dinastía Amschel. |
+| **Año +1680** | Presente narrativo. El Imperio de Dragma continúa en la Edad de Oro bajo la dinastía Pavel. |
 
 ## Eras de Stigria
 
 | Era | Inicio | Fin |
 |-----|--------|-----|
-| Prehistoria stigriana | Primeras comunidades conocidas | Formación del pueblo Gheran |
-| Edad del Bronce | Formación del pueblo Gheran | Llegada de los Sangheskios |
-| Edad del Hierro | Llegada de los Sangheskios | Destrucción de Sanghesk |
-| Edad de la Podredumbre | Caída de Sanghesk | Confinamiento inicial del Rey Podrido en Rauven |
-| Edad de Plata | Segundo Stamengherin documentado y fundación del Raikim | Muerte de Rudgar Valgard |
-| Edad de la Tiranía | Muerte de Rudgar Valgard | Fundación del Imperio de Dragma |
-| Edad de Oro | Fundación del Imperio de Dragma | Presente |
+| Prehistoria stigriana | Primeras comunidades conocidas | Año -1950, formación del pueblo Gheran |
+| Edad del Bronce | Año -1950 | Año -900, llegada de los Sangheskios |
+| Edad del Hierro | Año -900 | Año -420, destrucción de Sanghesk |
+| Edad de la Podredumbre | Año -420, caída de Sanghesk | Año -224, confinamiento inicial del Rey Podrido en Rauven |
+| Edad de Plata | Año -214, segundo Stamengherin documentado y fundación del Raikim | Año -163, muerte de Rudgar Valgard |
+| Edad de la Tiranía | Año -163, sucesión de Drakar Valgard | Año 0, fundación del Imperio de Dragma |
+| Edad de Oro | Año 0, fundación del Imperio de Dragma | Presente |
 
 ## Referencias
 

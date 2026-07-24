@@ -918,7 +918,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "plans_1783817199649_sunny_otter_archivos_a_modificar",
-      "community": 246,
+      "community": 110,
       "norm_label": "archivos a modificar"
     },
     {
@@ -928,7 +928,7 @@
       "source_location": "L56",
       "_origin": "ast",
       "id": "plans_1783817199649_sunny_otter_3_docs_mundo_md",
-      "community": 246,
+      "community": 110,
       "norm_label": "3. `docs/mundo.md`"
     },
     {
@@ -938,7 +938,7 @@
       "source_location": "L62",
       "_origin": "ast",
       "id": "plans_1783817199649_sunny_otter_4_docs_12_reinos_md",
-      "community": 246,
+      "community": 110,
       "norm_label": "4. `docs/12-reinos.md`"
     },
     {
@@ -948,7 +948,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "plans_1783817199649_sunny_otter_5_docs_mundo_estigria_estigria_md",
-      "community": 246,
+      "community": 110,
       "norm_label": "5. `docs/mundo/estigria/estigria.md`"
     },
     {
@@ -958,7 +958,7 @@
       "source_location": "L70",
       "_origin": "ast",
       "id": "plans_1783817199649_sunny_otter_6_docs_mundo_estigria_dragma_sindria_sindria_md",
-      "community": 246,
+      "community": 110,
       "norm_label": "6. `docs/mundo/estigria/dragma/sindria/sindria.md`"
     },
     {
@@ -968,7 +968,7 @@
       "source_location": "L74",
       "_origin": "ast",
       "id": "plans_1783817199649_sunny_otter_7_docs_notas_md",
-      "community": 246,
+      "community": 110,
       "norm_label": "7. `docs/notas.md`"
     },
     {
@@ -988,7 +988,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon",
-      "community": 5,
+      "community": 19,
       "norm_label": "1783879067344-silent-lagoon.md"
     },
     {
@@ -998,7 +998,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_plan_l\u00ednea_cronol\u00f3gica_del_mundo",
-      "community": 5,
+      "community": 19,
       "norm_label": "plan: linea cronologica del mundo"
     },
     {
@@ -1008,7 +1008,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_objetivo",
-      "community": 5,
+      "community": 19,
       "norm_label": "objetivo"
     },
     {
@@ -1018,7 +1018,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_decisi\u00f3n_de_calendario",
-      "community": 5,
+      "community": 19,
       "norm_label": "decision de calendario"
     },
     {
@@ -1028,7 +1028,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_estructura_del_archivo_docs_cronologia_md",
-      "community": 5,
+      "community": 19,
       "norm_label": "estructura del archivo `docs/cronologia.md`"
     },
     {
@@ -1038,7 +1038,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_1_calendario",
-      "community": 5,
+      "community": 19,
       "norm_label": "1. calendario"
     },
     {
@@ -1048,7 +1048,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_2_eras_de_erebia_calendario_ds",
-      "community": 5,
+      "community": 19,
       "norm_label": "2. eras de erebia (calendario ds)"
     },
     {
@@ -1058,7 +1058,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_3_eras_de_estigria_calendario_est",
-      "community": 5,
+      "community": 19,
       "norm_label": "3. eras de estigria (calendario est)"
     },
     {
@@ -1068,7 +1068,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_4_l\u00ednea_temporal_completa_doble_columna",
-      "community": 5,
+      "community": 19,
       "norm_label": "4. linea temporal completa (doble columna)"
     },
     {
@@ -1078,7 +1078,7 @@
       "source_location": "L81",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_5_nota_editorial",
-      "community": 5,
+      "community": 19,
       "norm_label": "5. nota editorial"
     },
     {
@@ -1088,7 +1088,7 @@
       "source_location": "L87",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_archivos_a_modificar",
-      "community": 5,
+      "community": 19,
       "norm_label": "archivos a modificar"
     },
     {
@@ -1098,7 +1098,7 @@
       "source_location": "L93",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_archivos_que_no_se_modifican",
-      "community": 5,
+      "community": 19,
       "norm_label": "archivos que no se modifican"
     },
     {
@@ -1108,7 +1108,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "plans_1783879067344_silent_lagoon_referencias_solo_lectura",
-      "community": 5,
+      "community": 19,
       "norm_label": "referencias (solo lectura)"
     },
     {
@@ -1768,7 +1768,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "cuentos_agents",
-      "community": 1,
+      "community": 5,
       "norm_label": "agents.md"
     },
     {
@@ -1778,7 +1778,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "cuentos_agents_agents_md_zona_can\u00f3nica_de_cuentos",
-      "community": 1,
+      "community": 5,
       "norm_label": "agents.md \u2014 zona canonica de cuentos"
     },
     {
@@ -1788,7 +1788,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "cuentos_agents_prop\u00f3sito",
-      "community": 1,
+      "community": 5,
       "norm_label": "proposito"
     },
     {
@@ -1798,7 +1798,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "cuentos_agents_reglas_para_agentes",
-      "community": 1,
+      "community": 5,
       "norm_label": "reglas para agentes"
     },
     {
@@ -1808,7 +1808,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "cuentos_agents_estilo_narrativo",
-      "community": 1,
+      "community": 5,
       "norm_label": "estilo narrativo"
     },
     {
@@ -1818,7 +1818,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "cuentos_agents_tono",
-      "community": 1,
+      "community": 5,
       "norm_label": "tono"
     },
     {
@@ -1828,7 +1828,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "cuentos_agents_narrador",
-      "community": 1,
+      "community": 5,
       "norm_label": "narrador"
     },
     {
@@ -1838,7 +1838,7 @@
       "source_location": "L36",
       "_origin": "ast",
       "id": "cuentos_agents_worldbuilding",
-      "community": 1,
+      "community": 5,
       "norm_label": "worldbuilding"
     },
     {
@@ -1848,7 +1848,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "cuentos_agents_ritmo",
-      "community": 1,
+      "community": 5,
       "norm_label": "ritmo"
     },
     {
@@ -1858,7 +1858,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "cuentos_agents_personajes",
-      "community": 1,
+      "community": 5,
       "norm_label": "personajes"
     },
     {
@@ -1868,7 +1868,7 @@
       "source_location": "L49",
       "_origin": "ast",
       "id": "cuentos_agents_vocabulario_can\u00f3nico_obligatorio",
-      "community": 1,
+      "community": 5,
       "norm_label": "vocabulario canonico obligatorio"
     },
     {
@@ -1878,7 +1878,7 @@
       "source_location": "L60",
       "_origin": "ast",
       "id": "cuentos_agents_lo_que_nunca_debe_aparecer",
-      "community": 1,
+      "community": 5,
       "norm_label": "lo que nunca debe aparecer"
     },
     {
@@ -1888,7 +1888,7 @@
       "source_location": "L68",
       "_origin": "ast",
       "id": "cuentos_agents_estructura_esperada",
-      "community": 1,
+      "community": 5,
       "norm_label": "estructura esperada"
     },
     {
@@ -1898,7 +1898,7 @@
       "source_location": "L78",
       "_origin": "ast",
       "id": "cuentos_agents_flujo_de_trabajo",
-      "community": 1,
+      "community": 5,
       "norm_label": "flujo de trabajo"
     },
     {
@@ -1938,7 +1938,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "docs_12_reinos_regiones_pol\u00edticas",
-      "community": 178,
+      "community": 119,
       "norm_label": "regiones politicas"
     },
     {
@@ -1948,7 +1948,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "docs_12_reinos_valle_de_hierro",
-      "community": 178,
+      "community": 119,
       "norm_label": "valle de hierro"
     },
     {
@@ -1958,7 +1958,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "docs_12_reinos_costas_del_verano",
-      "community": 178,
+      "community": 119,
       "norm_label": "costas del verano"
     },
     {
@@ -1968,7 +1968,7 @@
       "source_location": "L35",
       "_origin": "ast",
       "id": "docs_12_reinos_dresk_y_weissen",
-      "community": 178,
+      "community": 119,
       "norm_label": "dresk y weissen"
     },
     {
@@ -1978,7 +1978,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "docs_12_reinos_tierra_de_la_bruma",
-      "community": 178,
+      "community": 119,
       "norm_label": "tierra de la bruma"
     },
     {
@@ -3688,7 +3688,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "casas_mormund",
-      "community": 41,
+      "community": 291,
       "norm_label": "mormund.md"
     },
     {
@@ -3698,7 +3698,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "casas_mormund_casa_mormund",
-      "community": 41,
+      "community": 291,
       "norm_label": "casa mormund"
     },
     {
@@ -3708,7 +3708,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "casas_mormund_datos_generales",
-      "community": 41,
+      "community": 291,
       "norm_label": "datos generales"
     },
     {
@@ -3718,7 +3718,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "casas_mormund_historia",
-      "community": 41,
+      "community": 291,
       "norm_label": "historia"
     },
     {
@@ -3728,7 +3728,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "casas_mormund_miembros_relevantes",
-      "community": 41,
+      "community": 291,
       "norm_label": "miembros relevantes"
     },
     {
@@ -4868,7 +4868,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_cronologia",
-      "community": 152,
+      "community": 140,
       "norm_label": "cronologia.md"
     },
     {
@@ -4878,7 +4878,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_cronologia_cronolog\u00eda_del_mundo",
-      "community": 152,
+      "community": 140,
       "norm_label": "cronologia del mundo"
     },
     {
@@ -4888,7 +4888,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "docs_cronologia_calendario",
-      "community": 152,
+      "community": 140,
       "norm_label": "calendario"
     },
     {
@@ -4898,7 +4898,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "docs_cronologia_l\u00ednea_temporal",
-      "community": 152,
+      "community": 140,
       "norm_label": "linea temporal"
     },
     {
@@ -4908,7 +4908,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "docs_cronologia_eras_de_stigria",
-      "community": 152,
+      "community": 140,
       "norm_label": "eras de stigria"
     },
     {
@@ -4918,7 +4918,7 @@
       "source_location": "L63",
       "_origin": "ast",
       "id": "docs_cronologia_referencias",
-      "community": 152,
+      "community": 140,
       "norm_label": "referencias"
     },
     {
@@ -4928,7 +4928,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_entidades",
-      "community": 100,
+      "community": 294,
       "norm_label": "entidades.md"
     },
     {
@@ -4938,7 +4938,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_entidades_\u00edndice_de_entidades_y_razas",
-      "community": 100,
+      "community": 294,
       "norm_label": "indice de entidades y razas"
     },
     {
@@ -4948,7 +4948,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "docs_entidades_formato_de_las_fichas",
-      "community": 100,
+      "community": 294,
       "norm_label": "formato de las fichas"
     },
     {
@@ -4958,7 +4958,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "docs_entidades_entidades",
-      "community": 100,
+      "community": 294,
       "norm_label": "entidades"
     },
     {
@@ -5048,7 +5048,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "entidades_grimmen",
-      "community": 79,
+      "community": 282,
       "norm_label": "grimmen.md"
     },
     {
@@ -5058,7 +5058,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "entidades_grimmen_grimmen",
-      "community": 79,
+      "community": 282,
       "norm_label": "grimmen"
     },
     {
@@ -5068,7 +5068,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "entidades_grimmen_naturaleza",
-      "community": 79,
+      "community": 282,
       "norm_label": "naturaleza"
     },
     {
@@ -5078,7 +5078,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "entidades_grimmen_origen",
-      "community": 79,
+      "community": 282,
       "norm_label": "origen"
     },
     {
@@ -5088,7 +5088,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "entidades_grimmen_forma",
-      "community": 79,
+      "community": 282,
       "norm_label": "forma"
     },
     {
@@ -5098,7 +5098,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "entidades_grimmen_funci\u00f3n",
-      "community": 79,
+      "community": 282,
       "norm_label": "funcion"
     },
     {
@@ -5108,7 +5108,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "entidades_grimmen_relaciones",
-      "community": 79,
+      "community": 282,
       "norm_label": "relaciones"
     },
     {
@@ -5118,7 +5118,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "entidades_grimmen_referencias",
-      "community": 79,
+      "community": 282,
       "norm_label": "referencias"
     },
     {
@@ -5598,7 +5598,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "entidades_portadores",
-      "community": 19,
+      "community": 152,
       "norm_label": "portadores.md"
     },
     {
@@ -5608,7 +5608,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "entidades_portadores_portadores_del_fulgor_de_los_inits",
-      "community": 19,
+      "community": 152,
       "norm_label": "portadores del fulgor de los inits"
     },
     {
@@ -5618,7 +5618,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "entidades_portadores_naturaleza",
-      "community": 19,
+      "community": 152,
       "norm_label": "naturaleza"
     },
     {
@@ -5628,7 +5628,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "entidades_portadores_origen",
-      "community": 19,
+      "community": 152,
       "norm_label": "origen"
     },
     {
@@ -5638,7 +5638,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "entidades_portadores_herencia",
-      "community": 19,
+      "community": 152,
       "norm_label": "herencia"
     },
     {
@@ -5648,7 +5648,7 @@
       "source_location": "L37",
       "_origin": "ast",
       "id": "entidades_portadores_se\u00f1al_f\u00edsica",
-      "community": 19,
+      "community": 152,
       "norm_label": "senal fisica"
     },
     {
@@ -5658,47 +5658,47 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "entidades_portadores_coste",
-      "community": 19,
+      "community": 152,
       "norm_label": "coste"
     },
     {
       "label": "Relaciones",
       "file_type": "document",
       "source_file": "docs/entidades/portadores.md",
-      "source_location": "L49",
+      "source_location": "L51",
       "_origin": "ast",
       "id": "entidades_portadores_relaciones",
-      "community": 19,
+      "community": 152,
       "norm_label": "relaciones"
     },
     {
       "label": "Portadores Sombr\u00edos",
       "file_type": "document",
       "source_file": "docs/entidades/portadores.md",
-      "source_location": "L57",
+      "source_location": "L59",
       "_origin": "ast",
       "id": "entidades_portadores_portadores_sombr\u00edos",
-      "community": 19,
+      "community": 152,
       "norm_label": "portadores sombrios"
     },
     {
       "label": "Edad de la Podredumbre y Edad de Plata",
       "file_type": "document",
       "source_file": "docs/entidades/portadores.md",
-      "source_location": "L63",
+      "source_location": "L65",
       "_origin": "ast",
       "id": "entidades_portadores_edad_de_la_podredumbre_y_edad_de_plata",
-      "community": 19,
+      "community": 152,
       "norm_label": "edad de la podredumbre y edad de plata"
     },
     {
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/entidades/portadores.md",
-      "source_location": "L79",
+      "source_location": "L81",
       "_origin": "ast",
       "id": "entidades_portadores_referencias",
-      "community": 19,
+      "community": 152,
       "norm_label": "referencias"
     },
     {
@@ -5908,7 +5908,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_mundo",
-      "community": 124,
+      "community": 246,
       "norm_label": "mundo.md"
     },
     {
@@ -5918,7 +5918,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_mundo_\u00edndice_del_mundo",
-      "community": 124,
+      "community": 246,
       "norm_label": "indice del mundo"
     },
     {
@@ -5928,7 +5928,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "docs_mundo_estructura",
-      "community": 124,
+      "community": 246,
       "norm_label": "estructura"
     },
     {
@@ -5938,7 +5938,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "docs_mundo_continentes",
-      "community": 124,
+      "community": 246,
       "norm_label": "continentes"
     },
     {
@@ -6435,7 +6435,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/costa-del-verano.md",
-      "source_location": "L68",
+      "source_location": "L70",
       "_origin": "ast",
       "id": "stigria_costa_del_verano_referencias",
       "community": 92,
@@ -6515,7 +6515,7 @@
       "label": "La Guerra de los Hermanos y el Principado",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/alessya/alessya.md",
-      "source_location": "L20",
+      "source_location": "L25",
       "_origin": "ast",
       "id": "alessya_alessya_la_guerra_de_los_hermanos_y_el_principado",
       "community": 20,
@@ -6525,7 +6525,7 @@
       "label": "El Principado de Alessya",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/alessya/alessya.md",
-      "source_location": "L33",
+      "source_location": "L38",
       "_origin": "ast",
       "id": "alessya_alessya_el_principado_de_alessya",
       "community": 20,
@@ -6535,7 +6535,7 @@
       "label": "Estatus pol\u00edtico",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/alessya/alessya.md",
-      "source_location": "L41",
+      "source_location": "L46",
       "_origin": "ast",
       "id": "alessya_alessya_estatus_pol\u00edtico",
       "community": 20,
@@ -6545,7 +6545,7 @@
       "label": "Concepto",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/alessya/alessya.md",
-      "source_location": "L44",
+      "source_location": "L49",
       "_origin": "ast",
       "id": "alessya_alessya_concepto",
       "community": 20,
@@ -6555,7 +6555,7 @@
       "label": "Econom\u00eda",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/alessya/alessya.md",
-      "source_location": "L48",
+      "source_location": "L53",
       "_origin": "ast",
       "id": "alessya_alessya_econom\u00eda",
       "community": 20,
@@ -6565,7 +6565,7 @@
       "label": "El cuento de los Pr\u00edncipes Perdidos",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/alessya/alessya.md",
-      "source_location": "L52",
+      "source_location": "L57",
       "_origin": "ast",
       "id": "alessya_alessya_el_cuento_de_los_pr\u00edncipes_perdidos",
       "community": 20,
@@ -6575,7 +6575,7 @@
       "label": "Relaciones exteriores",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/alessya/alessya.md",
-      "source_location": "L55",
+      "source_location": "L60",
       "_origin": "ast",
       "id": "alessya_alessya_relaciones_exteriores",
       "community": 20,
@@ -6585,7 +6585,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/alessya/alessya.md",
-      "source_location": "L59",
+      "source_location": "L64",
       "_origin": "ast",
       "id": "alessya_alessya_referencias",
       "community": 20,
@@ -7305,7 +7305,7 @@
       "label": "Estructura territorial",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L9",
+      "source_location": "L15",
       "_origin": "ast",
       "id": "dragma_dragma_estructura_territorial",
       "community": 4,
@@ -7315,7 +7315,7 @@
       "label": "Gobernantes por tipo de entidad",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L22",
+      "source_location": "L28",
       "_origin": "ast",
       "id": "dragma_dragma_gobernantes_por_tipo_de_entidad",
       "community": 4,
@@ -7325,7 +7325,7 @@
       "label": "Los 12 Reinos",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L34",
+      "source_location": "L40",
       "_origin": "ast",
       "id": "dragma_dragma_los_12_reinos",
       "community": 4,
@@ -7335,7 +7335,7 @@
       "label": "Los 7 Protectorados",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L51",
+      "source_location": "L57",
       "_origin": "ast",
       "id": "dragma_dragma_los_7_protectorados",
       "community": 4,
@@ -7345,7 +7345,7 @@
       "label": "Las Tierras Intermedias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L63",
+      "source_location": "L69",
       "_origin": "ast",
       "id": "dragma_dragma_las_tierras_intermedias",
       "community": 4,
@@ -7355,7 +7355,7 @@
       "label": "Dinast\u00edas imperiales",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L66",
+      "source_location": "L72",
       "_origin": "ast",
       "id": "dragma_dragma_dinast\u00edas_imperiales",
       "community": 277,
@@ -7365,7 +7365,7 @@
       "label": "Primera dinast\u00eda: Casa Mormund",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L76",
+      "source_location": "L82",
       "_origin": "ast",
       "id": "dragma_dragma_primera_dinast\u00eda_casa_mormund",
       "community": 277,
@@ -7375,7 +7375,7 @@
       "label": "Segunda dinast\u00eda: Casa Amschel (Lysarya)",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L90",
+      "source_location": "L96",
       "_origin": "ast",
       "id": "dragma_dragma_segunda_dinast\u00eda_casa_amschel_lysarya",
       "community": 277,
@@ -7385,7 +7385,7 @@
       "label": "Tercera dinast\u00eda: Casa Pavel",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L100",
+      "source_location": "L106",
       "_origin": "ast",
       "id": "dragma_dragma_tercera_dinast\u00eda_casa_pavel",
       "community": 277,
@@ -7395,7 +7395,7 @@
       "label": "Quiebre de dinast\u00eda",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L110",
+      "source_location": "L116",
       "_origin": "ast",
       "id": "dragma_dragma_quiebre_de_dinast\u00eda",
       "community": 277,
@@ -7405,7 +7405,7 @@
       "label": "El Raikim y los Dominios",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L114",
+      "source_location": "L120",
       "_origin": "ast",
       "id": "dragma_dragma_el_raikim_y_los_dominios",
       "community": 4,
@@ -7415,7 +7415,7 @@
       "label": "La reclamaci\u00f3n sobre Esteria",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L131",
+      "source_location": "L137",
       "_origin": "ast",
       "id": "dragma_dragma_la_reclamaci\u00f3n_sobre_esteria",
       "community": 4,
@@ -7425,7 +7425,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/dragma.md",
-      "source_location": "L138",
+      "source_location": "L144",
       "_origin": "ast",
       "id": "dragma_dragma_referencias",
       "community": 4,
@@ -7595,7 +7595,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/esteria/esteria.md",
-      "source_location": "L72",
+      "source_location": "L80",
       "_origin": "ast",
       "id": "esteria_esteria_referencias",
       "community": 78,
@@ -9165,7 +9165,7 @@
       "label": "Rebeli\u00f3n del Amanecer",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/sturmgard/sturmgard.md",
-      "source_location": "L26",
+      "source_location": "L28",
       "_origin": "ast",
       "id": "sturmgard_sturmgard_rebeli\u00f3n_del_amanecer",
       "community": 25,
@@ -9175,7 +9175,7 @@
       "label": "Identidades de la Tormenta",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/sturmgard/sturmgard.md",
-      "source_location": "L37",
+      "source_location": "L39",
       "_origin": "ast",
       "id": "sturmgard_sturmgard_identidades_de_la_tormenta",
       "community": 25,
@@ -9185,7 +9185,7 @@
       "label": "Vitdrakiris y las Doncellas del Viento",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/sturmgard/sturmgard.md",
-      "source_location": "L45",
+      "source_location": "L47",
       "_origin": "ast",
       "id": "sturmgard_sturmgard_vitdrakiris_y_las_doncellas_del_viento",
       "community": 25,
@@ -9195,7 +9195,7 @@
       "label": "Econom\u00eda",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/sturmgard/sturmgard.md",
-      "source_location": "L58",
+      "source_location": "L60",
       "_origin": "ast",
       "id": "sturmgard_sturmgard_econom\u00eda",
       "community": 25,
@@ -9205,7 +9205,7 @@
       "label": "Gobierno",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/sturmgard/sturmgard.md",
-      "source_location": "L65",
+      "source_location": "L67",
       "_origin": "ast",
       "id": "sturmgard_sturmgard_gobierno",
       "community": 25,
@@ -9215,7 +9215,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/sturmgard/sturmgard.md",
-      "source_location": "L71",
+      "source_location": "L73",
       "_origin": "ast",
       "id": "sturmgard_sturmgard_referencias",
       "community": 25,
@@ -9225,7 +9225,7 @@
       "label": "Gu\u00eda de nombres",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/sturmgard/sturmgard.md",
-      "source_location": "L79",
+      "source_location": "L81",
       "_origin": "ast",
       "id": "sturmgard_sturmgard_gu\u00eda_de_nombres",
       "community": 25,
@@ -9295,7 +9295,7 @@
       "label": "Historia",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/veleskaria/veleskaria.md",
-      "source_location": "L37",
+      "source_location": "L40",
       "_origin": "ast",
       "id": "veleskaria_veleskaria_historia",
       "community": 26,
@@ -9305,7 +9305,7 @@
       "label": "Relaciones",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/veleskaria/veleskaria.md",
-      "source_location": "L51",
+      "source_location": "L55",
       "_origin": "ast",
       "id": "veleskaria_veleskaria_relaciones",
       "community": 26,
@@ -9315,7 +9315,7 @@
       "label": "Gu\u00eda de nombres",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/veleskaria/veleskaria.md",
-      "source_location": "L58",
+      "source_location": "L62",
       "_origin": "ast",
       "id": "veleskaria_veleskaria_gu\u00eda_de_nombres",
       "community": 26,
@@ -9325,7 +9325,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/dragma/veleskaria/veleskaria.md",
-      "source_location": "L63",
+      "source_location": "L67",
       "_origin": "ast",
       "id": "veleskaria_veleskaria_referencias",
       "community": 26,
@@ -9438,7 +9438,7 @@
       "source_location": "L36",
       "_origin": "ast",
       "id": "vesperya_vesperya_geograf\u00eda",
-      "community": 8,
+      "community": 297,
       "norm_label": "geografia"
     },
     {
@@ -9448,7 +9448,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "vesperya_vesperya_la_costa",
-      "community": 8,
+      "community": 297,
       "norm_label": "la costa"
     },
     {
@@ -9458,7 +9458,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "vesperya_vesperya_la_tr\u00edada",
-      "community": 8,
+      "community": 297,
       "norm_label": "la triada"
     },
     {
@@ -9468,7 +9468,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "vesperya_vesperya_el_estrecho_de_la_tr\u00edada",
-      "community": 8,
+      "community": 297,
       "norm_label": "el estrecho de la triada"
     },
     {
@@ -9478,7 +9478,7 @@
       "source_location": "L56",
       "_origin": "ast",
       "id": "vesperya_vesperya_concepto",
-      "community": 8,
+      "community": 293,
       "norm_label": "concepto"
     },
     {
@@ -9488,7 +9488,7 @@
       "source_location": "L59",
       "_origin": "ast",
       "id": "vesperya_vesperya_libertad_como_religi\u00f3n",
-      "community": 8,
+      "community": 293,
       "norm_label": "libertad como religion"
     },
     {
@@ -9498,7 +9498,7 @@
       "source_location": "L62",
       "_origin": "ast",
       "id": "vesperya_vesperya_tres_hermanos_tres_juicios",
-      "community": 8,
+      "community": 293,
       "norm_label": "tres hermanos, tres juicios"
     },
     {
@@ -9508,7 +9508,7 @@
       "source_location": "L67",
       "_origin": "ast",
       "id": "vesperya_vesperya_malhablados_entre_ellos_corteses_con_los_dem\u00e1s",
-      "community": 8,
+      "community": 293,
       "norm_label": "malhablados entre ellos, corteses con los demas"
     },
     {
@@ -9518,7 +9518,7 @@
       "source_location": "L70",
       "_origin": "ast",
       "id": "vesperya_vesperya_los_colores_del_verano",
-      "community": 8,
+      "community": 293,
       "norm_label": "los colores del verano"
     },
     {
@@ -9985,7 +9985,7 @@
       "label": "Rebeli\u00f3n del Amanecer",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/edad-de-la-tirania.md",
-      "source_location": "L56",
+      "source_location": "L62",
       "_origin": "ast",
       "id": "stigria_edad_de_la_tirania_rebeli\u00f3n_del_amanecer",
       "community": 93,
@@ -9995,7 +9995,7 @@
       "label": "Ca\u00edda de Valgard",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/edad-de-la-tirania.md",
-      "source_location": "L86",
+      "source_location": "L95",
       "_origin": "ast",
       "id": "stigria_edad_de_la_tirania_ca\u00edda_de_valgard",
       "community": 93,
@@ -10005,7 +10005,7 @@
       "label": "El tercer Stamengherin y Dragma",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/edad-de-la-tirania.md",
-      "source_location": "L98",
+      "source_location": "L112",
       "_origin": "ast",
       "id": "stigria_edad_de_la_tirania_el_tercer_stamengherin_y_dragma",
       "community": 93,
@@ -10015,7 +10015,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/edad-de-la-tirania.md",
-      "source_location": "L119",
+      "source_location": "L133",
       "_origin": "ast",
       "id": "stigria_edad_de_la_tirania_referencias",
       "community": 93,
@@ -10448,7 +10448,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_gheran",
-      "community": 140,
+      "community": 287,
       "norm_label": "gheran.md"
     },
     {
@@ -10458,7 +10458,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_gheran_pueblo_gheran",
-      "community": 140,
+      "community": 287,
       "norm_label": "pueblo gheran"
     },
     {
@@ -10468,7 +10468,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_gheran_tipo",
-      "community": 140,
+      "community": 287,
       "norm_label": "tipo"
     },
     {
@@ -10478,7 +10478,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "stigria_gheran_origen",
-      "community": 140,
+      "community": 287,
       "norm_label": "origen"
     },
     {
@@ -10488,7 +10488,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "stigria_gheran_organizaci\u00f3n_y_cultura",
-      "community": 140,
+      "community": 287,
       "norm_label": "organizacion y cultura"
     },
     {
@@ -10498,7 +10498,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "stigria_gheran_metalurgia",
-      "community": 140,
+      "community": 287,
       "norm_label": "metalurgia"
     },
     {
@@ -10508,7 +10508,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "stigria_gheran_referencias",
-      "community": 140,
+      "community": 287,
       "norm_label": "referencias"
     },
     {
@@ -10658,7 +10658,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_grimm",
-      "community": 112,
+      "community": 139,
       "norm_label": "grimm.md"
     },
     {
@@ -10668,7 +10668,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_grimm_el_grimm",
-      "community": 112,
+      "community": 139,
       "norm_label": "el grimm"
     },
     {
@@ -10678,7 +10678,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_grimm_tipo",
-      "community": 112,
+      "community": 139,
       "norm_label": "tipo"
     },
     {
@@ -10688,7 +10688,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "stigria_grimm_geograf\u00eda",
-      "community": 112,
+      "community": 139,
       "norm_label": "geografia"
     },
     {
@@ -10698,7 +10698,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "stigria_grimm_historia",
-      "community": 112,
+      "community": 139,
       "norm_label": "historia"
     },
     {
@@ -10708,7 +10708,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "stigria_grimm_referencias",
-      "community": 112,
+      "community": 139,
       "norm_label": "referencias"
     },
     {
@@ -10798,7 +10798,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_guerra_del_valle_dorado",
-      "community": 34,
+      "community": 288,
       "norm_label": "guerra-del-valle-dorado.md"
     },
     {
@@ -10808,7 +10808,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_guerra_del_valle_dorado_guerra_del_valle_dorado",
-      "community": 34,
+      "community": 288,
       "norm_label": "guerra del valle dorado"
     },
     {
@@ -10818,7 +10818,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_guerra_del_valle_dorado_inicio",
-      "community": 34,
+      "community": 288,
       "norm_label": "inicio"
     },
     {
@@ -10828,7 +10828,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "stigria_guerra_del_valle_dorado_invasi\u00f3n_de_g\u00fclden",
-      "community": 34,
+      "community": 288,
       "norm_label": "invasion de gulden"
     },
     {
@@ -10838,7 +10838,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "stigria_guerra_del_valle_dorado_contraataque_gheran",
-      "community": 34,
+      "community": 288,
       "norm_label": "contraataque gheran"
     },
     {
@@ -10848,7 +10848,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "stigria_guerra_del_valle_dorado_bloque_de_hierro_y_gran_bloqueo",
-      "community": 34,
+      "community": 288,
       "norm_label": "bloque de hierro y gran bloqueo"
     },
     {
@@ -10858,7 +10858,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "stigria_guerra_del_valle_dorado_referencias",
-      "community": 34,
+      "community": 288,
       "norm_label": "referencias"
     },
     {
@@ -10948,7 +10948,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_kantra",
-      "community": 19,
+      "community": 67,
       "norm_label": "kantra.md"
     },
     {
@@ -10958,7 +10958,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_kantra_kantra",
-      "community": 19,
+      "community": 67,
       "norm_label": "kantra"
     },
     {
@@ -10968,7 +10968,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_kantra_tipo",
-      "community": 19,
+      "community": 67,
       "norm_label": "tipo"
     },
     {
@@ -10978,7 +10978,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "stigria_kantra_ejemplo_documentado",
-      "community": 19,
+      "community": 67,
       "norm_label": "ejemplo documentado"
     },
     {
@@ -10988,7 +10988,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "stigria_kantra_referencias",
-      "community": 19,
+      "community": 67,
       "norm_label": "referencias"
     },
     {
@@ -11138,7 +11138,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_roshdom",
-      "community": 112,
+      "community": 34,
       "norm_label": "roshdom.md"
     },
     {
@@ -11148,7 +11148,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_roshdom_roshdom",
-      "community": 112,
+      "community": 34,
       "norm_label": "roshdom"
     },
     {
@@ -11158,7 +11158,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_roshdom_tipo",
-      "community": 112,
+      "community": 34,
       "norm_label": "tipo"
     },
     {
@@ -11168,7 +11168,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "stigria_roshdom_jaula_negra",
-      "community": 112,
+      "community": 34,
       "norm_label": "jaula negra"
     },
     {
@@ -11178,7 +11178,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "stigria_roshdom_referencias",
-      "community": 112,
+      "community": 34,
       "norm_label": "referencias"
     },
     {
@@ -11638,7 +11638,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_stomur",
-      "community": 114,
+      "community": 139,
       "norm_label": "stomur.md"
     },
     {
@@ -11648,7 +11648,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_stomur_st\u00f6mur",
-      "community": 114,
+      "community": 139,
       "norm_label": "stomur"
     },
     {
@@ -11658,7 +11658,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_stomur_tipo",
-      "community": 114,
+      "community": 139,
       "norm_label": "tipo"
     },
     {
@@ -11668,7 +11668,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "stigria_stomur_descripci\u00f3n",
-      "community": 114,
+      "community": 139,
       "norm_label": "descripcion"
     },
     {
@@ -11678,7 +11678,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "stigria_stomur_origen_tradicional",
-      "community": 114,
+      "community": 139,
       "norm_label": "origen tradicional"
     },
     {
@@ -11688,7 +11688,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "stigria_stomur_referencias",
-      "community": 114,
+      "community": 139,
       "norm_label": "referencias"
     },
     {
@@ -11698,7 +11698,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_suntarys",
-      "community": 67,
+      "community": 246,
       "norm_label": "suntarys.md"
     },
     {
@@ -11708,7 +11708,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "stigria_suntarys_suntarys",
-      "community": 67,
+      "community": 246,
       "norm_label": "suntarys"
     },
     {
@@ -11718,7 +11718,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "stigria_suntarys_tipo",
-      "community": 67,
+      "community": 246,
       "norm_label": "tipo"
     },
     {
@@ -11728,17 +11728,17 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "stigria_suntarys_historia",
-      "community": 67,
+      "community": 246,
       "norm_label": "historia"
     },
     {
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/mundo/stigria/suntarys.md",
-      "source_location": "L29",
+      "source_location": "L35",
       "_origin": "ast",
       "id": "stigria_suntarys_referencias",
-      "community": 67,
+      "community": 246,
       "norm_label": "referencias"
     },
     {
@@ -11852,10 +11852,20 @@
       "norm_label": "revisiones editoriales"
     },
     {
-      "label": "Volcamiento P-04: limpieza editorial y cierre (2026-07-24)",
+      "label": "Volcamiento P-05: restituci\u00f3n de detalle aprobado (2026-07-24)",
       "file_type": "document",
       "source_file": "docs/notas.md",
       "source_location": "L5",
+      "_origin": "ast",
+      "id": "docs_notas_volcamiento_p_05_restituci\u00f3n_de_detalle_aprobado_2026_07_24",
+      "community": 13,
+      "norm_label": "volcamiento p-05: restitucion de detalle aprobado (2026-07-24)"
+    },
+    {
+      "label": "Volcamiento P-04: limpieza editorial y cierre (2026-07-24)",
+      "file_type": "document",
+      "source_file": "docs/notas.md",
+      "source_location": "L23",
       "_origin": "ast",
       "id": "docs_notas_volcamiento_p_04_limpieza_editorial_y_cierre_2026_07_24",
       "community": 13,
@@ -11865,7 +11875,7 @@
       "label": "Volcamiento P-03: casas, personajes y entidades (2026-07-24)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L28",
+      "source_location": "L46",
       "_origin": "ast",
       "id": "docs_notas_volcamiento_p_03_casas_personajes_y_entidades_2026_07_24",
       "community": 13,
@@ -11875,7 +11885,7 @@
       "label": "Volcamiento P-02: territorios e instituciones (2026-07-24)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L47",
+      "source_location": "L65",
       "_origin": "ast",
       "id": "docs_notas_volcamiento_p_02_territorios_e_instituciones_2026_07_24",
       "community": 13,
@@ -11885,7 +11895,7 @@
       "label": "Volcamiento P-01: marco de la Edad de la Tiran\u00eda (2026-07-23)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L70",
+      "source_location": "L88",
       "_origin": "ast",
       "id": "docs_notas_volcamiento_p_01_marco_de_la_edad_de_la_tiran\u00eda_2026_07_23",
       "community": 13,
@@ -11895,7 +11905,7 @@
       "label": "Normalizaci\u00f3n de Solarys (2026-07-23)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L86",
+      "source_location": "L104",
       "_origin": "ast",
       "id": "docs_notas_normalizaci\u00f3n_de_solarys_2026_07_23",
       "community": 13,
@@ -11905,7 +11915,7 @@
       "label": "Gu\u00edas onom\u00e1sticas del Hierro, los Dominios Carmes\u00edes y la Bruma (2026-07-23)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L93",
+      "source_location": "L111",
       "_origin": "ast",
       "id": "docs_notas_gu\u00edas_onom\u00e1sticas_del_hierro_los_dominios_carmes\u00edes_y_la_bruma_2026_07_23",
       "community": 13,
@@ -11915,7 +11925,7 @@
       "label": "Gu\u00eda onom\u00e1stica de los Reinos del Verano (2026-07-22)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L108",
+      "source_location": "L126",
       "_origin": "ast",
       "id": "docs_notas_gu\u00eda_onom\u00e1stica_de_los_reinos_del_verano_2026_07_22",
       "community": 13,
@@ -11925,7 +11935,7 @@
       "label": "L\u00edmite de asentamiento de la Edad de la Tiran\u00eda (2026-07-19)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L129",
+      "source_location": "L147",
       "_origin": "ast",
       "id": "docs_notas_l\u00edmite_de_asentamiento_de_la_edad_de_la_tiran\u00eda_2026_07_19",
       "community": 13,
@@ -11935,7 +11945,7 @@
       "label": "Cierre can\u00f3nico del bloque Plata\u2013Tiran\u00eda (2026-07-19)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L139",
+      "source_location": "L157",
       "_origin": "ast",
       "id": "docs_notas_cierre_can\u00f3nico_del_bloque_plata_tiran\u00eda_2026_07_19",
       "community": 13,
@@ -11945,7 +11955,7 @@
       "label": "Canonizaci\u00f3n de la Edad de Plata (2026-07-19)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L175",
+      "source_location": "L193",
       "_origin": "ast",
       "id": "docs_notas_canonizaci\u00f3n_de_la_edad_de_plata_2026_07_19",
       "community": 13,
@@ -11955,7 +11965,7 @@
       "label": "Custodia de material descanonizado (2026-07-19)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L212",
+      "source_location": "L230",
       "_origin": "ast",
       "id": "docs_notas_custodia_de_material_descanonizado_2026_07_19",
       "community": 13,
@@ -11965,7 +11975,7 @@
       "label": "Canonizaci\u00f3n integral de la Edad de la Podredumbre (2026-07-17)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L221",
+      "source_location": "L239",
       "_origin": "ast",
       "id": "docs_notas_canonizaci\u00f3n_integral_de_la_edad_de_la_podredumbre_2026_07_17",
       "community": 13,
@@ -11975,7 +11985,7 @@
       "label": "Reimaginaci\u00f3n profunda de la Tierra de la Bruma: los Caminantes de la Bruma (2026-07-14)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L256",
+      "source_location": "L274",
       "_origin": "ast",
       "id": "docs_notas_reimaginaci\u00f3n_profunda_de_la_tierra_de_la_bruma_los_caminantes_de_la_bruma_2026_07_14",
       "community": 13,
@@ -11985,7 +11995,7 @@
       "label": "Aclaraci\u00f3n sobre culturas del mapa (2026-07-13)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L284",
+      "source_location": "L302",
       "_origin": "ast",
       "id": "docs_notas_aclaraci\u00f3n_sobre_culturas_del_mapa_2026_07_13",
       "community": 13,
@@ -11995,7 +12005,7 @@
       "label": "Limpieza masiva de referencias culturales (2026-07-13)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L288",
+      "source_location": "L306",
       "_origin": "ast",
       "id": "docs_notas_limpieza_masiva_de_referencias_culturales_2026_07_13",
       "community": 13,
@@ -12005,7 +12015,7 @@
       "label": "Auditor\u00eda de consistencia de nombres (2026-07-14)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L303",
+      "source_location": "L321",
       "_origin": "ast",
       "id": "docs_notas_auditor\u00eda_de_consistencia_de_nombres_2026_07_14",
       "community": 13,
@@ -12015,7 +12025,7 @@
       "label": "Diagn\u00f3stico de la ficha de Inits (2026-07-11)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L313",
+      "source_location": "L331",
       "_origin": "ast",
       "id": "docs_notas_diagn\u00f3stico_de_la_ficha_de_inits_2026_07_11",
       "community": 13,
@@ -12025,7 +12035,7 @@
       "label": "1. \u00bfQu\u00e9 sobra?",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L315",
+      "source_location": "L333",
       "_origin": "ast",
       "id": "docs_notas_1_qu\u00e9_sobra",
       "community": 13,
@@ -12035,7 +12045,7 @@
       "label": "2. \u00bfQu\u00e9 falta?",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L322",
+      "source_location": "L340",
       "_origin": "ast",
       "id": "docs_notas_2_qu\u00e9_falta",
       "community": 13,
@@ -12045,7 +12055,7 @@
       "label": "3. \u00bfQu\u00e9 chirr\u00eda?",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L330",
+      "source_location": "L348",
       "_origin": "ast",
       "id": "docs_notas_3_qu\u00e9_chirr\u00eda",
       "community": 13,
@@ -12055,7 +12065,7 @@
       "label": "4. Qu\u00e9 proteger a toda costa",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L339",
+      "source_location": "L357",
       "_origin": "ast",
       "id": "docs_notas_4_qu\u00e9_proteger_a_toda_costa",
       "community": 13,
@@ -12065,7 +12075,7 @@
       "label": "5. Tarjeta de referencia m\u00ednima (qu\u00e9 quitar / qu\u00e9 dejar)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L347",
+      "source_location": "L365",
       "_origin": "ast",
       "id": "docs_notas_5_tarjeta_de_referencia_m\u00ednima_qu\u00e9_quitar_qu\u00e9_dejar",
       "community": 13,
@@ -12075,7 +12085,7 @@
       "label": "Enriquecimiento conceptual de los Inits (2026-07-11)",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L366",
+      "source_location": "L384",
       "_origin": "ast",
       "id": "docs_notas_enriquecimiento_conceptual_de_los_inits_2026_07_11",
       "community": 13,
@@ -12085,7 +12095,7 @@
       "label": "Implicaciones de esta definici\u00f3n",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L372",
+      "source_location": "L390",
       "_origin": "ast",
       "id": "docs_notas_implicaciones_de_esta_definici\u00f3n",
       "community": 13,
@@ -12095,7 +12105,7 @@
       "label": "Puntos de fricci\u00f3n con la ficha actual",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L380",
+      "source_location": "L398",
       "_origin": "ast",
       "id": "docs_notas_puntos_de_fricci\u00f3n_con_la_ficha_actual",
       "community": 13,
@@ -12105,7 +12115,7 @@
       "label": "Nuevas preguntas que esta definici\u00f3n fuerza a responder",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L390",
+      "source_location": "L408",
       "_origin": "ast",
       "id": "docs_notas_nuevas_preguntas_que_esta_definici\u00f3n_fuerza_a_responder",
       "community": 13,
@@ -12115,7 +12125,7 @@
       "label": "Pendientes",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L399",
+      "source_location": "L417",
       "_origin": "ast",
       "id": "docs_notas_pendientes",
       "community": 121,
@@ -12125,7 +12135,7 @@
       "label": "Decisiones editoriales",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L405",
+      "source_location": "L423",
       "_origin": "ast",
       "id": "docs_notas_decisiones_editoriales",
       "community": 121,
@@ -12135,7 +12145,7 @@
       "label": "Registro de cambios",
       "file_type": "document",
       "source_file": "docs/notas.md",
-      "source_location": "L410",
+      "source_location": "L428",
       "_origin": "ast",
       "id": "docs_notas_registro_de_cambios",
       "community": 121,
@@ -13715,7 +13725,7 @@
       "label": "Relaciones",
       "file_type": "document",
       "source_file": "docs/personajes/historicos/giselra.md",
-      "source_location": "L18",
+      "source_location": "L30",
       "_origin": "ast",
       "id": "historicos_giselra_relaciones",
       "community": 208,
@@ -13725,7 +13735,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/personajes/historicos/giselra.md",
-      "source_location": "L25",
+      "source_location": "L37",
       "_origin": "ast",
       "id": "historicos_giselra_referencias",
       "community": 208,
@@ -13738,7 +13748,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "historicos_kleondras_aetheryon",
-      "community": 128,
+      "community": 283,
       "norm_label": "kleondras-aetheryon.md"
     },
     {
@@ -13748,7 +13758,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "historicos_kleondras_aetheryon_kle\u00f3ndras_aetheryon",
-      "community": 128,
+      "community": 283,
       "norm_label": "kleondras aetheryon"
     },
     {
@@ -13758,7 +13768,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "historicos_kleondras_aetheryon_identidad",
-      "community": 128,
+      "community": 283,
       "norm_label": "identidad"
     },
     {
@@ -13768,7 +13778,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "historicos_kleondras_aetheryon_personalidad",
-      "community": 128,
+      "community": 283,
       "norm_label": "personalidad"
     },
     {
@@ -13778,7 +13788,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "historicos_kleondras_aetheryon_el_pacto_y_la_traici\u00f3n",
-      "community": 128,
+      "community": 283,
       "norm_label": "el pacto y la traicion"
     },
     {
@@ -13788,7 +13798,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "historicos_kleondras_aetheryon_relaciones",
-      "community": 128,
+      "community": 283,
       "norm_label": "relaciones"
     },
     {
@@ -13798,7 +13808,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "historicos_kleondras_aetheryon_referencias",
-      "community": 128,
+      "community": 283,
       "norm_label": "referencias"
     },
     {
@@ -13808,7 +13818,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "historicos_kyros_albyon",
-      "community": 28,
+      "community": 284,
       "norm_label": "kyros-albyon.md"
     },
     {
@@ -13818,7 +13828,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "historicos_kyros_albyon_kyros_albyon",
-      "community": 28,
+      "community": 284,
       "norm_label": "kyros albyon"
     },
     {
@@ -13828,7 +13838,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "historicos_kyros_albyon_identidad",
-      "community": 28,
+      "community": 284,
       "norm_label": "identidad"
     },
     {
@@ -13838,7 +13848,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "historicos_kyros_albyon_personalidad",
-      "community": 28,
+      "community": 284,
       "norm_label": "personalidad"
     },
     {
@@ -13848,7 +13858,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "historicos_kyros_albyon_la_guerra",
-      "community": 28,
+      "community": 284,
       "norm_label": "la guerra"
     },
     {
@@ -13858,7 +13868,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "historicos_kyros_albyon_relaciones",
-      "community": 28,
+      "community": 284,
       "norm_label": "relaciones"
     },
     {
@@ -13868,7 +13878,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "historicos_kyros_albyon_referencias",
-      "community": 28,
+      "community": 284,
       "norm_label": "referencias"
     },
     {
@@ -13965,7 +13975,7 @@
       "label": "Relaciones",
       "file_type": "document",
       "source_file": "docs/personajes/historicos/loryan-solarys.md",
-      "source_location": "L23",
+      "source_location": "L34",
       "_origin": "ast",
       "id": "historicos_loryan_solarys_relaciones",
       "community": 241,
@@ -13975,7 +13985,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/personajes/historicos/loryan-solarys.md",
-      "source_location": "L30",
+      "source_location": "L41",
       "_origin": "ast",
       "id": "historicos_loryan_solarys_referencias",
       "community": 241,
@@ -14305,7 +14315,7 @@
       "label": "Referencias",
       "file_type": "document",
       "source_file": "docs/personajes/historicos/sylas-solarys.md",
-      "source_location": "L16",
+      "source_location": "L21",
       "_origin": "ast",
       "id": "historicos_sylas_solarys_referencias",
       "community": 268,
@@ -14618,7 +14628,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_lauffen",
-      "community": 79,
+      "community": 292,
       "norm_label": "lauffen.md"
     },
     {
@@ -14628,7 +14638,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_lauffen_lauffen",
-      "community": 79,
+      "community": 292,
       "norm_label": "lauffen"
     },
     {
@@ -14638,7 +14648,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "personajes_lauffen_identidad",
-      "community": 79,
+      "community": 292,
       "norm_label": "identidad"
     },
     {
@@ -14648,7 +14658,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "personajes_lauffen_forma_y_conducta",
-      "community": 79,
+      "community": 292,
       "norm_label": "forma y conducta"
     },
     {
@@ -14658,7 +14668,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "personajes_lauffen_referencias",
-      "community": 79,
+      "community": 292,
       "norm_label": "referencias"
     },
     {
@@ -14898,7 +14908,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "monarcas_edrik_mormund",
-      "community": 129,
+      "community": 285,
       "norm_label": "edrik-mormund.md"
     },
     {
@@ -14908,7 +14918,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "monarcas_edrik_mormund_edrik_mormund",
-      "community": 129,
+      "community": 285,
       "norm_label": "edrik mormund"
     },
     {
@@ -14918,7 +14928,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "monarcas_edrik_mormund_identidad",
-      "community": 129,
+      "community": 285,
       "norm_label": "identidad"
     },
     {
@@ -14928,7 +14938,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "monarcas_edrik_mormund_personalidad",
-      "community": 129,
+      "community": 285,
       "norm_label": "personalidad"
     },
     {
@@ -14938,7 +14948,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "monarcas_edrik_mormund_reinado",
-      "community": 129,
+      "community": 285,
       "norm_label": "reinado"
     },
     {
@@ -14948,7 +14958,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "monarcas_edrik_mormund_relaciones",
-      "community": 129,
+      "community": 285,
       "norm_label": "relaciones"
     },
     {
@@ -14958,7 +14968,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "monarcas_edrik_mormund_referencias",
-      "community": 129,
+      "community": 285,
       "norm_label": "referencias"
     },
     {
@@ -15938,7 +15948,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "monarcas_skov_borg",
-      "community": 82,
+      "community": 295,
       "norm_label": "skov-borg.md"
     },
     {
@@ -15948,7 +15958,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "monarcas_skov_borg_skov_borg",
-      "community": 82,
+      "community": 295,
       "norm_label": "skov borg"
     },
     {
@@ -15958,7 +15968,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "monarcas_skov_borg_identidad",
-      "community": 82,
+      "community": 295,
       "norm_label": "identidad"
     },
     {
@@ -15968,7 +15978,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "monarcas_skov_borg_referencias",
-      "community": 82,
+      "community": 295,
       "norm_label": "referencias"
     },
     {
@@ -16308,7 +16318,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_rey_podrido",
-      "community": 79,
+      "community": 178,
       "norm_label": "rey-podrido.md"
     },
     {
@@ -16318,7 +16328,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_rey_podrido_rey_podrido",
-      "community": 79,
+      "community": 178,
       "norm_label": "rey podrido"
     },
     {
@@ -16328,7 +16338,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "personajes_rey_podrido_identidad",
-      "community": 79,
+      "community": 178,
       "norm_label": "identidad"
     },
     {
@@ -16338,7 +16348,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "personajes_rey_podrido_origen_secreto",
-      "community": 79,
+      "community": 178,
       "norm_label": "origen secreto"
     },
     {
@@ -16348,7 +16358,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "personajes_rey_podrido_capacidades",
-      "community": 79,
+      "community": 178,
       "norm_label": "capacidades"
     },
     {
@@ -16358,7 +16368,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "personajes_rey_podrido_gobierno_de_la_podredumbre",
-      "community": 79,
+      "community": 178,
       "norm_label": "gobierno de la podredumbre"
     },
     {
@@ -16368,7 +16378,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "personajes_rey_podrido_katerina_y_sindria",
-      "community": 79,
+      "community": 178,
       "norm_label": "katerina y sindria"
     },
     {
@@ -16378,7 +16388,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "personajes_rey_podrido_apariencia_y_envejecimiento",
-      "community": 79,
+      "community": 178,
       "norm_label": "apariencia y envejecimiento"
     },
     {
@@ -16388,7 +16398,7 @@
       "source_location": "L78",
       "_origin": "ast",
       "id": "personajes_rey_podrido_historia",
-      "community": 79,
+      "community": 178,
       "norm_label": "historia"
     },
     {
@@ -16398,7 +16408,7 @@
       "source_location": "L101",
       "_origin": "ast",
       "id": "personajes_rey_podrido_referencias",
-      "community": 79,
+      "community": 178,
       "norm_label": "referencias"
     },
     {
@@ -16478,7 +16488,7 @@
       "source_location": "L72",
       "_origin": "ast",
       "id": "personajes_rudgar_valgard_declaraciones_y_di\u00e1logos_conservados",
-      "community": 2,
+      "community": 296,
       "norm_label": "declaraciones y dialogos conservados"
     },
     {
@@ -16488,7 +16498,7 @@
       "source_location": "L74",
       "_origin": "ast",
       "id": "personajes_rudgar_valgard_ante_stelian",
-      "community": 2,
+      "community": 296,
       "norm_label": "ante stelian"
     },
     {
@@ -16498,7 +16508,7 @@
       "source_location": "L90",
       "_origin": "ast",
       "id": "personajes_rudgar_valgard_proclamaci\u00f3n_de_los_sangre_de_hierro_carmes\u00ed",
-      "community": 2,
+      "community": 296,
       "norm_label": "proclamacion de los sangre de hierro carmesi"
     },
     {
@@ -16508,7 +16518,7 @@
       "source_location": "L113",
       "_origin": "ast",
       "id": "personajes_rudgar_valgard_respuesta_a_frosthain",
-      "community": 2,
+      "community": 296,
       "norm_label": "respuesta a frosthain"
     },
     {
@@ -16848,7 +16858,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_strigor",
-      "community": 79,
+      "community": 286,
       "norm_label": "strigor.md"
     },
     {
@@ -16858,7 +16868,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_strigor_strigor",
-      "community": 79,
+      "community": 286,
       "norm_label": "strigor"
     },
     {
@@ -16868,7 +16878,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "personajes_strigor_identidad",
-      "community": 79,
+      "community": 286,
       "norm_label": "identidad"
     },
     {
@@ -16878,7 +16888,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "personajes_strigor_capacidades",
-      "community": 79,
+      "community": 286,
       "norm_label": "capacidades"
     },
     {
@@ -16888,7 +16898,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "personajes_strigor_relaci\u00f3n_con_los_sangheskios",
-      "community": 79,
+      "community": 286,
       "norm_label": "relacion con los sangheskios"
     },
     {
@@ -16898,7 +16908,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "personajes_strigor_fusi\u00f3n",
-      "community": 79,
+      "community": 286,
       "norm_label": "fusion"
     },
     {
@@ -16908,7 +16918,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "personajes_strigor_referencias",
-      "community": 79,
+      "community": 286,
       "norm_label": "referencias"
     },
     {
@@ -17158,7 +17168,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_wolfram_el_bardo",
-      "community": 41,
+      "community": 289,
       "norm_label": "wolfram-el-bardo.md"
     },
     {
@@ -17168,7 +17178,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "personajes_wolfram_el_bardo_wolfram_el_bardo",
-      "community": 41,
+      "community": 289,
       "norm_label": "wolfram el bardo"
     },
     {
@@ -17178,7 +17188,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "personajes_wolfram_el_bardo_identidad",
-      "community": 41,
+      "community": 289,
       "norm_label": "identidad"
     },
     {
@@ -17188,7 +17198,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "personajes_wolfram_el_bardo_historia",
-      "community": 41,
+      "community": 289,
       "norm_label": "historia"
     },
     {
@@ -17198,7 +17208,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "personajes_wolfram_el_bardo_legado",
-      "community": 41,
+      "community": 289,
       "norm_label": "legado"
     },
     {
@@ -17208,7 +17218,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "personajes_wolfram_el_bardo_referencias",
-      "community": 41,
+      "community": 289,
       "norm_label": "referencias"
     },
     {
@@ -18298,7 +18308,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "procesos_de_volcamiento_agents_fases",
-      "community": 90,
+      "community": 290,
       "norm_label": "fases"
     },
     {
@@ -18308,7 +18318,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "procesos_de_volcamiento_agents_1_acumulaci\u00f3n",
-      "community": 90,
+      "community": 290,
       "norm_label": "1. acumulacion"
     },
     {
@@ -18318,7 +18328,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "procesos_de_volcamiento_agents_2_auditor\u00eda_previa_al_volcamiento",
-      "community": 90,
+      "community": 290,
       "norm_label": "2. auditoria previa al volcamiento"
     },
     {
@@ -18328,7 +18338,7 @@
       "source_location": "L59",
       "_origin": "ast",
       "id": "procesos_de_volcamiento_agents_3_acumulaci\u00f3n_de_resoluciones",
-      "community": 90,
+      "community": 290,
       "norm_label": "3. acumulacion de resoluciones"
     },
     {
@@ -18338,24 +18348,24 @@
       "source_location": "L71",
       "_origin": "ast",
       "id": "procesos_de_volcamiento_agents_4_auditor\u00eda_de_cierre_y_plan_de_volcamiento",
-      "community": 90,
+      "community": 290,
       "norm_label": "4. auditoria de cierre y plan de volcamiento"
     },
     {
       "label": "5. Volcamiento autorizado",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/AGENTS.md",
-      "source_location": "L81",
+      "source_location": "L100",
       "_origin": "ast",
       "id": "procesos_de_volcamiento_agents_5_volcamiento_autorizado",
-      "community": 90,
+      "community": 290,
       "norm_label": "5. volcamiento autorizado"
     },
     {
       "label": "Reglas de control",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/AGENTS.md",
-      "source_location": "L93",
+      "source_location": "L114",
       "_origin": "ast",
       "id": "procesos_de_volcamiento_agents_reglas_de_control",
       "community": 90,
@@ -18365,7 +18375,7 @@
       "label": "Convenci\u00f3n de archivos",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/AGENTS.md",
-      "source_location": "L105",
+      "source_location": "L126",
       "_origin": "ast",
       "id": "procesos_de_volcamiento_agents_convenci\u00f3n_de_archivos",
       "community": 90,
@@ -18375,7 +18385,7 @@
       "label": "Condici\u00f3n de salida",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/AGENTS.md",
-      "source_location": "L117",
+      "source_location": "L138",
       "_origin": "ast",
       "id": "procesos_de_volcamiento_agents_condici\u00f3n_de_salida",
       "community": 90,
@@ -18405,7 +18415,7 @@
       "label": "N-01. Graf\u00eda de la Casa Solarys",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L15",
+      "source_location": "L17",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_01_graf\u00eda_de_la_casa_solarys",
       "community": 0,
@@ -18415,7 +18425,7 @@
       "label": "N-02. Se\u00f1or del Dominio frente a senescal",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L27",
+      "source_location": "L29",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_02_se\u00f1or_del_dominio_frente_a_senescal",
       "community": 0,
@@ -18425,7 +18435,7 @@
       "label": "N-03. Castigos del Verano y la Bruma",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L49",
+      "source_location": "L51",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_03_castigos_del_verano_y_la_bruma",
       "community": 0,
@@ -18435,7 +18445,7 @@
       "label": "N-04. Sturmgard: adscripci\u00f3n oficial y rebeli\u00f3n interna tard\u00eda",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L74",
+      "source_location": "L76",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_04_sturmgard_adscripci\u00f3n_oficial_y_rebeli\u00f3n_interna_tard\u00eda",
       "community": 0,
@@ -18445,7 +18455,7 @@
       "label": "N-05. Formaci\u00f3n de los doce reinos",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L107",
+      "source_location": "L109",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_05_formaci\u00f3n_de_los_doce_reinos",
       "community": 0,
@@ -18455,7 +18465,7 @@
       "label": "N-06. Confirmaci\u00f3n sucesoria antes de la Concordia",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L129",
+      "source_location": "L131",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_06_confirmaci\u00f3n_sucesoria_antes_de_la_concordia",
       "community": 0,
@@ -18465,7 +18475,7 @@
       "label": "N-07. Pacto del Stamengherin y Concordia",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L150",
+      "source_location": "L152",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_07_pacto_del_stamengherin_y_concordia",
       "community": 0,
@@ -18475,7 +18485,7 @@
       "label": "N-08. Justicia y poder de los gobernantes",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L165",
+      "source_location": "L167",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_08_justicia_y_poder_de_los_gobernantes",
       "community": 0,
@@ -18485,7 +18495,7 @@
       "label": "N-09. Casas y clanes de Sturmgard",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L179",
+      "source_location": "L181",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_09_casas_y_clanes_de_sturmgard",
       "community": 0,
@@ -18495,7 +18505,7 @@
       "label": "Definiciones transversales de Sturmgard",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L201",
+      "source_location": "L203",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_definiciones_transversales_de_sturmgard",
       "community": 0,
@@ -18505,7 +18515,7 @@
       "label": "Hermanos de Khalos y Hermanos de la Ciudadela",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L252",
+      "source_location": "L254",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_hermanos_de_khalos_y_hermanos_de_la_ciudadela",
       "community": 0,
@@ -18515,7 +18525,7 @@
       "label": "Denominaci\u00f3n del Bloque del Verano",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L258",
+      "source_location": "L260",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_denominaci\u00f3n_del_bloque_del_verano",
       "community": 0,
@@ -18525,7 +18535,7 @@
       "label": "N-10. Nombre de Dragma",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L264",
+      "source_location": "L266",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_10_nombre_de_dragma",
       "community": 0,
@@ -18535,7 +18545,7 @@
       "label": "N-40. Formaci\u00f3n de Eldengaria",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L282",
+      "source_location": "L284",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_40_formaci\u00f3n_de_eldengaria",
       "community": 0,
@@ -18545,7 +18555,7 @@
       "label": "N-19. Pesca y presencia de Grimmen en Sturmgard",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L306",
+      "source_location": "L308",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_19_pesca_y_presencia_de_grimmen_en_sturmgard",
       "community": 0,
@@ -18555,7 +18565,7 @@
       "label": "N-11. Foso de la Calamidad y apertura de Esteria",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L338",
+      "source_location": "L340",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_11_foso_de_la_calamidad_y_apertura_de_esteria",
       "community": 0,
@@ -18565,7 +18575,7 @@
       "label": "N-12. Autoridad de Esteria durante Grimar",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L366",
+      "source_location": "L368",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_12_autoridad_de_esteria_durante_grimar",
       "community": 0,
@@ -18575,7 +18585,7 @@
       "label": "N-13. Lamya y el l\u00edmite de Stigria",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L392",
+      "source_location": "L394",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_13_lamya_y_el_l\u00edmite_de_stigria",
       "community": 0,
@@ -18585,7 +18595,7 @@
       "label": "N-14. Puertas Rojas del Paso de Dresk: ubicaci\u00f3n, funci\u00f3n y control",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L410",
+      "source_location": "L412",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_14_puertas_rojas_del_paso_de_dresk_ubicaci\u00f3n_funci\u00f3n_y_control",
       "community": 0,
@@ -18595,7 +18605,7 @@
       "label": "N-15. Lamya y los Grimmen al sur del Paso de Dresk",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L448",
+      "source_location": "L450",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_15_lamya_y_los_grimmen_al_sur_del_paso_de_dresk",
       "community": 0,
@@ -18605,7 +18615,7 @@
       "label": "N-16. Se\u00f1or cautivo de Veleskgard",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L471",
+      "source_location": "L473",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_16_se\u00f1or_cautivo_de_veleskgard",
       "community": 0,
@@ -18615,7 +18625,7 @@
       "label": "N-17. Sindgard, Zorven Drazar y la promesa sobre Esteria",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L489",
+      "source_location": "L491",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_17_sindgard_zorven_drazar_y_la_promesa_sobre_esteria",
       "community": 0,
@@ -18625,7 +18635,7 @@
       "label": "N-18. Masacre Mormund",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L536",
+      "source_location": "L538",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_18_masacre_mormund",
       "community": 0,
@@ -18635,7 +18645,7 @@
       "label": "N-20. Muerte de Grimar y naturaleza de Katerina",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L575",
+      "source_location": "L577",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_20_muerte_de_grimar_y_naturaleza_de_katerina",
       "community": 0,
@@ -18645,7 +18655,7 @@
       "label": "N-21. Embarazo de Katerina y descendencia Valgard",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L622",
+      "source_location": "L624",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_21_embarazo_de_katerina_y_descendencia_valgard",
       "community": 0,
@@ -18655,7 +18665,7 @@
       "label": "N-22. Ragnela Valgard y la continuidad de la casa",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L654",
+      "source_location": "L656",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_22_ragnela_valgard_y_la_continuidad_de_la_casa",
       "community": 0,
@@ -18665,7 +18675,7 @@
       "label": "N-23. Ca\u00edda de los Valgard y legitimidad del nuevo pacto",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L682",
+      "source_location": "L684",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_23_ca\u00edda_de_los_valgard_y_legitimidad_del_nuevo_pacto",
       "community": 0,
@@ -18675,7 +18685,7 @@
       "label": "N-24. N\u00facleo del Edicto del Amanecer",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L715",
+      "source_location": "L717",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_24_n\u00facleo_del_edicto_del_amanecer",
       "community": 0,
@@ -18685,7 +18695,7 @@
       "label": "N-25. Fin de la Triple Corona de Suntarys",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L752",
+      "source_location": "L754",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_25_fin_de_la_triple_corona_de_suntarys",
       "community": 0,
@@ -18695,7 +18705,7 @@
       "label": "N-26. Sylas de Suntarys y Dyas, antepasado de Sandor",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L769",
+      "source_location": "L771",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_26_sylas_de_suntarys_y_dyas_antepasado_de_sandor",
       "community": 0,
@@ -18705,7 +18715,7 @@
       "label": "N-27. Seud\u00f3nimo de Loryan y amante de la Triple Corona",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L792",
+      "source_location": "L794",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_27_seud\u00f3nimo_de_loryan_y_amante_de_la_triple_corona",
       "community": 0,
@@ -18715,7 +18725,7 @@
       "label": "N-28. Renuncia de Casa en ciertas T\u00e1buras",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L813",
+      "source_location": "L815",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_28_renuncia_de_casa_en_ciertas_t\u00e1buras",
       "community": 0,
@@ -18725,7 +18735,7 @@
       "label": "N-29. Herencia del Blesk y escala de la demostraci\u00f3n de Loryan",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L839",
+      "source_location": "L841",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_29_herencia_del_blesk_y_escala_de_la_demostraci\u00f3n_de_loryan",
       "community": 0,
@@ -18735,7 +18745,7 @@
       "label": "N-30. Suntarys y la formaci\u00f3n posterior de Alessya",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L878",
+      "source_location": "L880",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_30_suntarys_y_la_formaci\u00f3n_posterior_de_alessya",
       "community": 0,
@@ -18745,7 +18755,7 @@
       "label": "N-31. Erebia, Astria y la Diarqu\u00eda del Sol y la Sombra",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L904",
+      "source_location": "L906",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_31_erebia_astria_y_la_diarqu\u00eda_del_sol_y_la_sombra",
       "community": 0,
@@ -18755,7 +18765,7 @@
       "label": "N-32. Aceptaci\u00f3n de la Triple Corona y responsabilidad de Loryan",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L966",
+      "source_location": "L968",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_32_aceptaci\u00f3n_de_la_triple_corona_y_responsabilidad_de_loryan",
       "community": 0,
@@ -18765,7 +18775,7 @@
       "label": "N-33. Brandulf Valgard y la cronolog\u00eda familiar",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L986",
+      "source_location": "L988",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_33_brandulf_valgard_y_la_cronolog\u00eda_familiar",
       "community": 0,
@@ -18775,7 +18785,7 @@
       "label": "N-34. Revisi\u00f3n onom\u00e1stica de las coronas fundadoras",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1006",
+      "source_location": "L1008",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_34_revisi\u00f3n_onom\u00e1stica_de_las_coronas_fundadoras",
       "community": 0,
@@ -18785,7 +18795,7 @@
       "label": "N-35. T\u00edtulo de Guldengard",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1032",
+      "source_location": "L1034",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_35_t\u00edtulo_de_guldengard",
       "community": 0,
@@ -18795,7 +18805,7 @@
       "label": "N-37. Sucesi\u00f3n de las casas fundadoras",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1041",
+      "source_location": "L1043",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_37_sucesi\u00f3n_de_las_casas_fundadoras",
       "community": 0,
@@ -18805,7 +18815,7 @@
       "label": "N-38. Los tres se\u00f1or\u00edos del Hierro en la Bruma",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1076",
+      "source_location": "L1078",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_38_los_tres_se\u00f1or\u00edos_del_hierro_en_la_bruma",
       "community": 0,
@@ -18815,7 +18825,7 @@
       "label": "N-39. Se\u00f1or\u00edos, coronas fundadoras y coronas de oro del Verano",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1115",
+      "source_location": "L1117",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_39_se\u00f1or\u00edos_coronas_fundadoras_y_coronas_de_oro_del_verano",
       "community": 0,
@@ -18825,7 +18835,7 @@
       "label": "N-36. Katerina y el secreto del trono de Sindria",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1162",
+      "source_location": "L1164",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_n_36_katerina_y_el_secreto_del_trono_de_sindria",
       "community": 0,
@@ -18835,7 +18845,7 @@
       "label": "Resoluciones finales dispuestas",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1199",
+      "source_location": "L1201",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_resoluciones_finales_dispuestas",
       "community": 14,
@@ -18845,7 +18855,7 @@
       "label": "S-01. Cronolog\u00eda de Suntarys, Ragnela y Brandulf",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1211",
+      "source_location": "L1213",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_01_cronolog\u00eda_de_suntarys_ragnela_y_brandulf",
       "community": 14,
@@ -18855,7 +18865,7 @@
       "label": "S-02. Stamengherin anteriores al primer registro",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1223",
+      "source_location": "L1225",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_02_stamengherin_anteriores_al_primer_registro",
       "community": 14,
@@ -18865,7 +18875,7 @@
       "label": "S-03. Composici\u00f3n de la Triple Corona",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1239",
+      "source_location": "L1241",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_03_composici\u00f3n_de_la_triple_corona",
       "community": 14,
@@ -18875,7 +18885,7 @@
       "label": "S-04. Blesk de Loryan y l\u00edmite de los Portadores",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1244",
+      "source_location": "L1246",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_04_blesk_de_loryan_y_l\u00edmite_de_los_portadores",
       "community": 14,
@@ -18885,7 +18895,7 @@
       "label": "S-05. Katerina, los Emisarios y Lamya",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1252",
+      "source_location": "L1254",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_05_katerina_los_emisarios_y_lamya",
       "community": 14,
@@ -18895,7 +18905,7 @@
       "label": "S-06. Grimmen y descendencia de Katerina",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1260",
+      "source_location": "L1262",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_06_grimmen_y_descendencia_de_katerina",
       "community": 14,
@@ -18905,7 +18915,7 @@
       "label": "S-07. Supervivencia de la sangre Valgard",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1267",
+      "source_location": "L1269",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_07_supervivencia_de_la_sangre_valgard",
       "community": 14,
@@ -18915,7 +18925,7 @@
       "label": "S-08. Promesa de Esteria y Casa Frosthain",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1275",
+      "source_location": "L1277",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_08_promesa_de_esteria_y_casa_frosthain",
       "community": 14,
@@ -18925,7 +18935,7 @@
       "label": "S-09. Giselra y la masacre Mormund",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1282",
+      "source_location": "L1284",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_09_giselra_y_la_masacre_mormund",
       "community": 14,
@@ -18935,7 +18945,7 @@
       "label": "S-10. Casas reales de la Edad de Oro",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1292",
+      "source_location": "L1294",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_10_casas_reales_de_la_edad_de_oro",
       "community": 14,
@@ -18945,7 +18955,7 @@
       "label": "S-11. Ausencia de culto p\u00fablico al Dios Negro en Sindria",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1313",
+      "source_location": "L1315",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_11_ausencia_de_culto_p\u00fablico_al_dios_negro_en_sindria",
       "community": 14,
@@ -18955,7 +18965,7 @@
       "label": "S-12. Eldengaria y la antigua Eldengard",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1323",
+      "source_location": "L1325",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_12_eldengaria_y_la_antigua_eldengard",
       "community": 14,
@@ -18965,7 +18975,7 @@
       "label": "S-13. Historia remota de Astria y Erebia",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1338",
+      "source_location": "L1340",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_13_historia_remota_de_astria_y_erebia",
       "community": 14,
@@ -18975,7 +18985,7 @@
       "label": "S-14. Nombre de la era imperial",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1346",
+      "source_location": "L1348",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_14_nombre_de_la_era_imperial",
       "community": 14,
@@ -18985,7 +18995,7 @@
       "label": "S-15. Cazadores de Grimmen",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1351",
+      "source_location": "L1353",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_15_cazadores_de_grimmen",
       "community": 14,
@@ -18995,7 +19005,7 @@
       "label": "S-16. Alcance de la Grien T\u00e1bura",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1361",
+      "source_location": "L1363",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_16_alcance_de_la_grien_t\u00e1bura",
       "community": 14,
@@ -19005,7 +19015,7 @@
       "label": "S-17. J\u00f6ten",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1367",
+      "source_location": "L1369",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_17_j\u00f6ten",
       "community": 14,
@@ -19015,7 +19025,7 @@
       "label": "S-18. Vitdrakiris",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1373",
+      "source_location": "L1375",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_18_vitdrakiris",
       "community": 14,
@@ -19025,7 +19035,7 @@
       "label": "S-19. Giselra y las Doncellas del Viento",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1381",
+      "source_location": "L1383",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_19_giselra_y_las_doncellas_del_viento",
       "community": 14,
@@ -19035,7 +19045,7 @@
       "label": "S-20. Voluntad de la Sal y Voluntad del Hierro",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1388",
+      "source_location": "L1390",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_20_voluntad_de_la_sal_y_voluntad_del_hierro",
       "community": 14,
@@ -19045,7 +19055,7 @@
       "label": "S-21. Se\u00f1or de Sindgard y Weissen",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1395",
+      "source_location": "L1397",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_21_se\u00f1or_de_sindgard_y_weissen",
       "community": 14,
@@ -19055,7 +19065,7 @@
       "label": "S-22. Revisi\u00f3n de cierre",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1401",
+      "source_location": "L1403",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_s_22_revisi\u00f3n_de_cierre",
       "community": 14,
@@ -19065,7 +19075,7 @@
       "label": "Plan de volcamiento",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1408",
+      "source_location": "L1410",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_plan_de_volcamiento",
       "community": 154,
@@ -19075,7 +19085,7 @@
       "label": "P-01. Estructura hist\u00f3rica e institucional",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1414",
+      "source_location": "L1416",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_p_01_estructura_hist\u00f3rica_e_institucional",
       "community": 154,
@@ -19085,7 +19095,7 @@
       "label": "P-02. Territorios e instituciones",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1433",
+      "source_location": "L1435",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_p_02_territorios_e_instituciones",
       "community": 154,
@@ -19095,7 +19105,7 @@
       "label": "P-03. Casas, personajes y entidades",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1454",
+      "source_location": "L1456",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_p_03_casas_personajes_y_entidades",
       "community": 154,
@@ -19105,17 +19115,27 @@
       "label": "P-04. Limpieza editorial y secuencia de ejecuci\u00f3n",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1475",
+      "source_location": "L1477",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_p_04_limpieza_editorial_y_secuencia_de_ejecuci\u00f3n",
       "community": 154,
       "norm_label": "p-04. limpieza editorial y secuencia de ejecucion"
     },
     {
+      "label": "P-05. Restituci\u00f3n y trazabilidad de detalle aprobado",
+      "file_type": "document",
+      "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
+      "source_location": "L1492",
+      "_origin": "ast",
+      "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_p_05_restituci\u00f3n_y_trazabilidad_de_detalle_aprobado",
+      "community": 154,
+      "norm_label": "p-05. restitucion y trazabilidad de detalle aprobado"
+    },
+    {
       "label": "Secuencia segura para un volcamiento futuro",
       "file_type": "document",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
-      "source_location": "L1490",
+      "source_location": "L1522",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_secuencia_segura_para_un_volcamiento_futuro",
       "community": 154,
@@ -19218,7 +19238,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_propuestas_de_estados_generales",
-      "community": 139,
+      "community": 10,
       "norm_label": "propuestas de estados generales"
     },
     {
@@ -19228,7 +19248,7 @@
       "source_location": "L178",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_la_voluntad_de_la_sal_y_sturmgard",
-      "community": 139,
+      "community": 10,
       "norm_label": "la voluntad de la sal y sturmgard"
     },
     {
@@ -19238,7 +19258,7 @@
       "source_location": "L238",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_estado_de_d\u00fcrr_del_verano_y_de_unland_durante_grimar",
-      "community": 139,
+      "community": 10,
       "norm_label": "estado de durr, del verano y de unland durante grimar"
     },
     {
@@ -19248,7 +19268,7 @@
       "source_location": "L312",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_muerte_de_la_reina_de_suntarys",
-      "community": 139,
+      "community": 10,
       "norm_label": "muerte de la reina de suntarys"
     },
     {
@@ -19258,7 +19278,7 @@
       "source_location": "L342",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_golpe_de_estado_en_suntarys",
-      "community": 139,
+      "community": 10,
       "norm_label": "golpe de estado en suntarys"
     },
     {
@@ -19268,7 +19288,7 @@
       "source_location": "L391",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_refugio_de_loryan_en_khalos",
-      "community": 139,
+      "community": 10,
       "norm_label": "refugio de loryan en khalos"
     },
     {
@@ -19278,7 +19298,7 @@
       "source_location": "L443",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_recuperaci\u00f3n_del_trono_de_suntarys",
-      "community": 139,
+      "community": 10,
       "norm_label": "recuperacion del trono de suntarys"
     },
     {
@@ -19288,7 +19308,7 @@
       "source_location": "L469",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_la_triple_corona_de_suntarys",
-      "community": 139,
+      "community": 10,
       "norm_label": "la triple corona de suntarys"
     },
     {
@@ -19298,7 +19318,7 @@
       "source_location": "L482",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_antecedente_de_la_diarqu\u00eda_del_sol_y_la_sombra",
-      "community": 139,
+      "community": 10,
       "norm_label": "antecedente de la diarquia del sol y la sombra"
     },
     {
@@ -19308,7 +19328,7 @@
       "source_location": "L504",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_el_edicto_del_amanecer",
-      "community": 139,
+      "community": 10,
       "norm_label": "el edicto del amanecer"
     },
     {
@@ -19318,7 +19338,7 @@
       "source_location": "L562",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_invasi\u00f3n_y_ca\u00edda_de_suntarys",
-      "community": 139,
+      "community": 10,
       "norm_label": "invasion y caida de suntarys"
     },
     {
@@ -19328,7 +19348,7 @@
       "source_location": "L591",
       "_origin": "ast",
       "id": "edad_de_la_tirania_acumulacion_edad_de_la_tirania_irrupci\u00f3n_de_lamya_y_primer_alzamiento",
-      "community": 139,
+      "community": 10,
       "norm_label": "irrupcion de lamya y primer alzamiento"
     },
     {
@@ -35779,8 +35799,18 @@
       "source_file": "docs/notas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_notas_revisiones_editoriales",
-      "target": "docs_notas_volcamiento_p_04_limpieza_editorial_y_cierre_2026_07_24",
+      "target": "docs_notas_volcamiento_p_04_limpieza_editorial_y_cierre_2026_07_24"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/notas.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "docs_notas_revisiones_editoriales",
+      "target": "docs_notas_volcamiento_p_05_restituci\u00f3n_de_detalle_aprobado_2026_07_24",
       "confidence_score": 1.0
     },
     {
@@ -42967,11 +42997,31 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
+      "source_location": "L1492",
+      "weight": 1.0,
+      "source": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_plan_de_volcamiento",
+      "target": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_p_05_restituci\u00f3n_y_trazabilidad_de_detalle_aprobado",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
       "source_location": "L1479",
       "weight": 1.0,
       "confidence_score": 1.0,
       "source": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_p_04_limpieza_editorial_y_secuencia_de_ejecuci\u00f3n",
       "target": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_secuencia_segura_para_un_volcamiento_futuro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md",
+      "source_location": "L1522",
+      "weight": 1.0,
+      "source": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_p_05_restituci\u00f3n_y_trazabilidad_de_detalle_aprobado",
+      "target": "edad_de_la_tirania_acumulacion_de_resolucion_de_la_edad_de_la_tirania_secuencia_segura_para_un_volcamiento_futuro",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -44365,5 +44415,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "b737b6f3d011d7bcf962b6cb7f23a7547fa374aa"
+  "built_at_commit": "04d2d52171724ceda484d2298ec3f4a07f371d6d"
 }

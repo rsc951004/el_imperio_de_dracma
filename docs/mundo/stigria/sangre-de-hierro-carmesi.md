@@ -13,7 +13,7 @@ ejército temporal formado para cumplir esa función. Su emancipación legal que
 vinculada a la reunificación completa del Gherin y se produjo cuando el Raikim
 alcanzó ese dominio.
 
-La declaración puso Dresk y Weissen bajo su dominio y potestad. En el año 27,
+La declaración puso Dresk y Weissen bajo su dominio y potestad. En el año **-203**,
 los dos territorios recibieron los nombres de **Veleskgard** y **Sindgard**.
 
 Stelian Therin recibió el título de señor y Guardián del Paso del Oriente. El

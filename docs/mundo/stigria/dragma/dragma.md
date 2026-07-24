@@ -6,7 +6,8 @@ Imperio compuesto. Estado soberano que abarca la práctica totalidad de El Gheri
 ## Naturaleza
 Dragma **no es un estado unitario**. Es un imperio formado por entidades políticas con distintos grados de soberanía y sus propios sistemas de gobierno. La unidad la provee la corona imperial, pero cada componente conserva autonomía en sus asuntos internos.
 
-El nombre del Imperio procede de la altura de Dragma, situada en el Gherin al
+El Imperio fue fundado en el **año 0**, cuando el tercer Stamengherin eligió a
+Harald Mormund como primer emperador. El nombre del Imperio procede de la altura de Dragma, situada en el Gherin al
 este de Eldenheim. Una tradición oral atribuye la elección del nombre a un joven
 que pidió mover la reunión fundadora antes de que la sombra de la montaña
 cubriera la planicie; no es una decisión oficial conservada por el
@@ -72,6 +73,11 @@ Territorios sin dueño dentro del Gherin que no pertenecen a ningún reino ni pr
 ## Dinastías imperiales
 
 Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes, electas por el Stamengherin. Las tres regresaron a su estatus nobiliario previo al dejar la corona.
+
+La Casa Mormund ocupó la corona desde el año **0** hasta el año **+400**. La
+Casa Amschel gobernó desde el año **+400** hasta el año **+1350**. La Casa Pavel
+ocupa el trono desde el año **+1350** y es la dinastía reinante en el presente,
+situado en el año **+1680**.
 
 | # | Dinastía | Origen | Emperadores | Estado |
 |---|----------|--------|-------------|--------|

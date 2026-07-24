@@ -15,8 +15,8 @@ en la Casa, no su apellido ni su vínculo genealógico. Esa exigencia no se
 extendió a todas las Táburas y se disolvió cuando Khalos quedó integrado al
 Imperio.
 
-Después de la destrucción de Suntarys rescató los cuerpos de la Triple Corona y
-actuó como portavoz en el tercer Stamengherin documentado.
+Después de la destrucción de Suntarys, en el año **-80**, rescató los cuerpos de
+la Triple Corona y actuó como portavoz en el tercer Stamengherin documentado.
 
 ## Referencias
 

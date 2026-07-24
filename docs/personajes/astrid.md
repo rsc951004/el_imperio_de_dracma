@@ -6,8 +6,10 @@ Esposa desaparecida de **Rudgar Valgard**.
 
 ## Historia
 
-Rudgar la contemplaba cerca del Riss el día en que se abrió la Puerta Negra. Años
-después se casaron y Astrid quedó embarazada de un hijo suyo.
+Rudgar la contemplaba cerca del Riss el día en que se abrió la Puerta Negra, en
+el año **-230**. Cinco años después, en el año **-225**, se produjo la caída de
+la fortaleza de Sturm; para entonces Astrid ya se había casado con Rudgar y
+estaba embarazada de un hijo suyo.
 
 Durante la conquista del Gherin buscó refugio en una fortaleza de Sturm
 custodiada por vasallos de la Casa Valgard. La fortaleza fue destruida por las

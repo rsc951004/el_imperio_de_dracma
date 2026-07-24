@@ -7,7 +7,7 @@ Fortaleza Negra de Rauven, levantada por Sanghesk.
 ## Jaula Negra
 
 Después de la caída de Sanghesk, Roshdom pasó a ser llamada también la **Jaula
-Negra**. Diez años después de la proclamación de los Sangre de Hierro Carmesí,
+Negra**. En el año **-193**, diez años después de la proclamación de los Sangre de Hierro Carmesí,
 Stelian Therin entró en Rauven con guardianes del norte de Esteria e intentó
 sellar la fortaleza con minerales de Stömur.
 

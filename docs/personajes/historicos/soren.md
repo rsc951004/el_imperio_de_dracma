@@ -12,7 +12,7 @@ extranjeros fue rechazada especialmente por las casas nobles suntraryas.
 
 La disposición sucesoria del Edicto del Amanecer estableció que la primera
 muerte entre los tres terminaría la monarquía. Soren cayó con Loryan y Sweyn
-durante la destrucción de Suntarys.
+durante la destrucción de Suntarys, en el año **-80**.
 
 ## Relaciones
 

@@ -6,8 +6,8 @@ Segundo Raik de la Casa Valgard e hijo de Rudgar Valgard.
 
 ## Historia
 
-Drakar heredó el Raikim tras la muerte de Rudgar, en el año 67 desde la apertura
-de la Puerta Negra. Fue el primero de los dieciséis Raiks posteriores a Rudgar,
+Drakar heredó el Raikim tras la muerte de Rudgar, en el año **-163**. Fue el
+primero de los dieciséis Raiks posteriores a Rudgar,
 serie que concluyó con Grimar Valgard. Todos esos reinados pertenecen a la Edad
 de la Tiranía.
 

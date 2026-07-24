@@ -7,7 +7,7 @@ Unland**.
 
 ## Preludio
 
-Diez años después del segundo Stamengherin documentado, el Gran Consejo de
+En el año **-204**, diez años después del segundo Stamengherin documentado, el Gran Consejo de
 señores de Dominio se reunió en el Gran Salón de Eldengard y declaró la campaña.
 Los asentamientos levantados por los brumenses junto al Riss Menor, dentro de
 Unland, habían precipitado el conflicto.
