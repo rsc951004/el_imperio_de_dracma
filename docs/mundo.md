@@ -138,7 +138,7 @@ Los tres reinos de la Tierra de la Bruma son **Kyst** —puerto pesquero—, **L
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Eldengaria | Capital imperial | Capital del Imperio de Dragma. Construida sobre las ruinas de Eldengard. | Pendiente |
+| Eldengaria | Capital imperial | Capital del Imperio de Dragma. Fundada a los pies de Dragma e integrada gradualmente con la antigua Eldengard. | Pendiente |
 
 #### Protectorados del Imperio
 

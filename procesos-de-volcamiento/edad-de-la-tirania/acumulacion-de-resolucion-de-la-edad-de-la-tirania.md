@@ -1,7 +1,8 @@
 # Acumulación de resoluciones de la Edad de la Tiranía
 
-> **Estado:** planificación cerrada; plan de volcamiento preparado y pendiente
-> de autorización humana.
+> **Estado:** P-01, estructura histórica e institucional, fue transferido al
+> canon el 23 de julio de 2026. Los bloques posteriores requieren autorización
+> humana específica.
 >
 > **Naturaleza:** documento no canónico. Registra las decisiones humanas para
 > resolver los nudos de la auditoría y sus consecuencias antes de cualquier
@@ -1411,14 +1412,17 @@ humana antes de ejecutarse.
 
 ### P-01. Estructura histórica e institucional
 
+> **Estado del bloque:** transferido al canon el 23 de julio de 2026.
+
 | Operación prevista | Archivo canónico | Resoluciones de origen | Alcance del futuro cambio |
 |---|---|---|---|
-| Reescribir | `docs/mundo/stigria/edad-de-la-tirania.md` | S-01, S-05 a S-12, S-15, S-18 a S-21 | Incorporar los grandes hitos, estados políticos y relaciones territoriales aprobados, sin convertir la ficha en relato continuo. |
+| Reescribir | `docs/mundo/stigria/edad-de-la-tirania.md` | N-02 a N-08, N-17 a N-25, N-30, N-38 a N-40, S-01 a S-03, S-05 a S-12, S-14, S-15 y S-18 a S-21 | Incorporar los grandes hitos, estados políticos y relaciones territoriales aprobados, sin convertir la ficha en relato continuo. |
 | Modificar | `docs/cronologia.md` | S-01, S-07, S-12 y S-14 | Ajustar los hitos incompatibles, en especial la supervivencia de la línea de Astrid, y conservar solo la denominación Edad de Oro. |
-| Reescribir | `docs/mundo/stigria/dragma/stamengherin.md` | S-02, S-05 a S-08 | Sustituir la enumeración de los Stamengherin documentados y reflejar el régimen electivo anterior a la Concordia. |
-| Modificar | `docs/mundo/stigria/valgard.md` | S-07 y S-10 | Ajustar la caída pública de Valgard y evitar que la extinción política se formule como extinción biológica. |
+| Reescribir | `docs/mundo/stigria/dragma/stamengherin.md` | S-02 y N-05 a N-08 | Sustituir la enumeración de los Stamengherin documentados y reflejar el régimen electivo anterior a la Concordia. |
+| Modificar | `docs/mundo/stigria/valgard.md` | S-07 | Ajustar la caída pública de Valgard y evitar que la extinción política se formule como extinción biológica. |
 | Revisar y modificar solo si procede | `docs/mundo/stigria/edad-de-plata.md` | S-02 y S-08 | Alinear el cierre de la Edad de Plata y los antecedentes de Esteria con el nuevo cómputo de Stamengherin y la promesa Frosthain. |
-| Revisar y modificar solo si procede | `docs/mundo/stigria/dragma/dragma.md` y `docs/mundo.md` | S-05, S-12 y S-14 | Comprobar que los resúmenes de fundación, capital y era imperial no contradigan las resoluciones. |
+| Revisar y modificar solo si procede | `docs/mundo/stigria/dragma/dragma.md` y `docs/mundo.md` | N-02, N-05 a N-08, N-17, N-40, S-08, S-12 y S-14 | Comprobar que los resúmenes de gobierno, fundación, capital, reclamación de Esteria y era imperial no contradigan las resoluciones. |
+| Modificar por dependencia directa | `docs/mundo/stigria/edad-de-la-podredumbre.md`, `docs/personajes/astrid.md` y `docs/personajes/rudgar-valgard.md` | S-07 | Retirar la premisa sustituida sobre el hijo de Astrid y registrar únicamente su supervivencia velada, sin desarrollar su historia. |
 | Modificar al ejecutar cualquier transferencia | `docs/notas.md` | Todas las resoluciones transferidas | Registrar cada cambio canónico realizado y sus sustituciones. |
 
 **Límite del bloque:** las biografías individuales, las casas, los reinos y las
@@ -1448,7 +1452,7 @@ procedente cuando se ejecute el volcamiento aprobado.
 
 | Operación prevista | Archivo canónico | Resoluciones de origen | Alcance del futuro cambio |
 |---|---|---|---|
-| Modificar | `docs/personajes/astrid.md`, `docs/personajes/rudgar-valgard.md` y `docs/personajes/grimar-valgard.md` | S-05 a S-07 | Ajustar la supervivencia velada de las dos líneas Valgard, la condición de Katerina y el destino final de Grimar. |
+| Modificar | `docs/personajes/grimar-valgard.md` | S-05 a S-07 | Ajustar la condición de Katerina, la continuidad velada de su línea con Grimar y el destino final del último Raik. Las correcciones directas de Astrid y Rudgar quedaron transferidas en P-01. |
 | Crear | Fichas históricas de Loryan Solarys, Sweyn, Soren, Caelyon, Ragnela, Brandulf, Katerina y Giselra | S-01, S-03, S-05, S-07 y S-09 | Registrar solo la identidad, los vínculos y los hechos mínimos ya aprobados; las escenas y biografías extensas quedan reservadas. |
 | Modificar | `docs/personajes/rey-podrido.md` | S-05, S-06, S-11 y S-16 | Alinear su relación con Katerina, Lamya y la Grien Tábura, usando canon velado cuando corresponda. |
 | Crear | `docs/entidades/lamya.md`, `docs/entidades/joten.md` y `docs/entidades/vitdrakiris.md` | S-05, S-17 y S-18 | Fichas mínimas para Lamya, los Jöten y Vitdrakiris. No desarrollarán todavía su naturaleza completa ni las diferencias entre los Grimmen. |
@@ -1483,7 +1487,7 @@ una decisión expresa y no se inferirá a partir de la documentación vigente.
    con una decisión expresa sobre cada una.
 6. Ejecutar una auditoría textual final antes de considerar cerrado el bloque.
 
-**Estado del plan:** P-01 a P-04 identifican el alcance del volcamiento. La
-planificación está cerrada, pero no constituye autorización para realizarlo.
-Este documento permanece como material no canónico hasta una orden humana
-específica para el bloque correspondiente.
+**Estado del plan:** P-01 fue transferido al canon el 23 de julio de 2026.
+P-02 a P-04 identifican el alcance pendiente; la planificación de esos bloques
+no constituye autorización para realizarla. Este documento sigue siendo
+material no canónico.

@@ -16,9 +16,13 @@ mismo día se abrió la Puerta Negra y las hordas del Rey Podrido entraron en
 Flemmen y Eisen.
 
 Astrid se convirtió en su esposa y quedó embarazada de un hijo suyo. Cinco años
-después desapareció durante la caída de una fortaleza de Sturm; el hijo que
-esperaba no llegó a nacer. Rudgar formó después otra familia, cuyos integrantes
-no están nombrados.
+después desapareció durante la caída de una fortaleza de Sturm. Rudgar formó
+después otra familia, cuyos integrantes no están nombrados.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->
+El hijo de Astrid y Rudgar sobrevivió. La continuidad de esa línea durante la
+Edad de Oro permanece oculta.
+<!-- CANON-VELADO: FIN -->
 
 ## Stelian Therin y la liberación
 

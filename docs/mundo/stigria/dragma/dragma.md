@@ -12,7 +12,7 @@ El imperio se compone de cuatro tipos de entidad territorial:
 
 | # | Tipo | Cantidad | Naturaleza |
 |---|------|----------|------------|
-| 1 | Capital imperial | 1 | Eldengaria. Ciudadela construida sobre las ruinas de Eldengard. Sede del Emperador. |
+| 1 | Capital imperial | 1 | Eldengaria. Fundada a los pies de Dragma; incorporó gradualmente la antigua Eldengard. Sede del Emperador. |
 | 2 | Reinos | 12 | Soberanos en sus asuntos internos. Cada uno con casa real, título, ejército y reclamos territoriales propios. |
 | 3 | Protectorados | 7 | Semi-soberanos. Bajo protección directa del Emperador. Sin rey y sin pertenencia a ninguno de los 12 Reinos. |
 | 4 | Tierras intermedias | Varias | Territorios sin dueño dentro del Gherin: páramos, costas, tierras entre reinos. Bienes comunes con administración propia autónoma. |
@@ -117,21 +117,23 @@ Durante la fundación del Raikim, todo territorio situado fuera del Gran Valle y
 administrado por un señor recibió la categoría de **Dominio**. Flemmen y Sturm
 fueron los primeros.
 
-Durante la Edad de la Tiranía, los Dominios pasaron a ser propiedades del Raik
-gobernadas por un **Senescal** designado que respondía directamente al tirano.
-Eisengard quedó ligado a la Casa Hammer y al Verilium; Guldengard, a la Casa
-Gilden y al oro. Los Dominios Carmesíes de Dresk y Weissen conservaron los
-nombres de Veleskgard y Sindgard y dieron origen a Veleskaria y Sindria.
+Durante la Edad de la Tiranía, los Dominios fueron propiedades del Raik
+gobernadas por un Señor o una Señora del Dominio perteneciente a la Casa
+dominante. Eisengard quedó ligado a la Casa Hammer y al Verilium; Guldengard, a
+la Casa Gilden y al oro. Los Dominios Carmesíes de Dresk y Weissen conservaron
+los nombres de Veleskgard y Sindgard y dieron origen a Veleskaria y Sindria.
 
-Tras la caída del Raikim, los Dominios no se convirtieron inmediatamente en Reinos. La transición ocurrió gradualmente durante las primeras generaciones del imperio, culminando con las reformas de la Concordia.
+Tras la caída del Raikim, el tercer Stamengherin eligió las primeras coronas de
+los doce reinos. Su consolidación territorial y administrativa continuó durante
+el gobierno del hijo de Harald; la Concordia reformó una estructura ya
+establecida.
 
 ## La reclamación sobre Esteria
 
 El título de **Rey del Foso** que porta el soberano de Sindria expresa una
-reclamación sobre Esteria. La promesa política hecha a Sindgard durante la
-Edad de la Tiranía convirtió esa pretensión en parte de la legitimidad de la
-Casa Goros, pero nunca anuló la carta de Rudgar que declaró inviolable el Paso
-del Oriente.
+reclamación sobre Esteria. La promesa política fue hecha a Raban Frosthain y
+pasó, tras la disolución de su casa, a la Casa Drazar y a Zorven como Señor de
+Sindgard. Nunca anuló la autonomía del Paso del Oriente.
 
 ## Referencias
 - Concordia de Vilem Mormund.

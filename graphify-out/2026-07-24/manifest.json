@@ -1,0 +1,1197 @@
+{
+  "/home/rsc951004/Proyectos/el_imperio/.kilo/package.json": {
+    "mtime": 1783747313.0844898,
+    "ast_hash": "375a4a03317d1ef8a14f28ea880a4705",
+    "semantic_hash": "375a4a03317d1ef8a14f28ea880a4705"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/herramientas/build.sh": {
+    "mtime": 1783745576.8725948,
+    "ast_hash": "98137a9f5358dcc4034829c50e9ee547",
+    "semantic_hash": "98137a9f5358dcc4034829c50e9ee547"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/kilo.json": {
+    "mtime": 1783748674.6644075,
+    "ast_hash": "2d9001fae246bb10327bc1d8e84a04dc",
+    "semantic_hash": "2d9001fae246bb10327bc1d8e84a04dc"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/project.json": {
+    "mtime": 1783748671.7404075,
+    "ast_hash": "51c09fd67fb757529a61bd1368664ae9",
+    "semantic_hash": "51c09fd67fb757529a61bd1368664ae9"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.config/kilo/skills/graphify/SKILL.md": {
+    "mtime": 1783747031.1965098,
+    "ast_hash": "13a3a8a0cf7490d24a5d551cc2699f6f",
+    "semantic_hash": "13a3a8a0cf7490d24a5d551cc2699f6f"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.config/kilo/skills/graphify/references/add-watch.md": {
+    "mtime": 1781827609.3433192,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.config/kilo/skills/graphify/references/exports.md": {
+    "mtime": 1781827609.3433192,
+    "ast_hash": "c04ddf8f1f5ef5e262ebec491a523c74",
+    "semantic_hash": "c04ddf8f1f5ef5e262ebec491a523c74"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.config/kilo/skills/graphify/references/extraction-spec.md": {
+    "mtime": 1781827609.3433192,
+    "ast_hash": "123574cce6059efcc1fad35aa8356154",
+    "semantic_hash": "123574cce6059efcc1fad35aa8356154"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.config/kilo/skills/graphify/references/github-and-merge.md": {
+    "mtime": 1781827609.3433192,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.config/kilo/skills/graphify/references/hooks.md": {
+    "mtime": 1781827609.3433192,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.config/kilo/skills/graphify/references/query.md": {
+    "mtime": 1781827609.3433192,
+    "ast_hash": "7d1ff295a0e0aa1cc9a14e52c3a19202",
+    "semantic_hash": "7d1ff295a0e0aa1cc9a14e52c3a19202"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.config/kilo/skills/graphify/references/transcribe.md": {
+    "mtime": 1781827609.3433192,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.config/kilo/skills/graphify/references/update.md": {
+    "mtime": 1781827609.3473191,
+    "ast_hash": "490df3fb6632ae0da4f74f0d98e1d710",
+    "semantic_hash": "490df3fb6632ae0da4f74f0d98e1d710"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.kilo/command/commit.md": {
+    "mtime": 1783983777.3900785,
+    "ast_hash": "19176b5c584a66d6e42bd54ddfe6116e",
+    "semantic_hash": "19176b5c584a66d6e42bd54ddfe6116e"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.kilo/plans/1783749978244-kind-circuit.md": {
+    "mtime": 1783983777.3940785,
+    "ast_hash": "284383ff0ea032a237e284ac6b7c4d5b",
+    "semantic_hash": "284383ff0ea032a237e284ac6b7c4d5b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.kilo/plans/1783817199649-sunny-otter.md": {
+    "mtime": 1783983777.3900785,
+    "ast_hash": "df00bd5454aacd1fda6007cdae0cf6ac",
+    "semantic_hash": "df00bd5454aacd1fda6007cdae0cf6ac"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.kilo/plans/1783879067344-silent-lagoon.md": {
+    "mtime": 1783983777.3900785,
+    "ast_hash": "2a7ee065436da797aec5f20f45f59096",
+    "semantic_hash": "2a7ee065436da797aec5f20f45f59096"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.kilo/plans/1783887660416-proud-planet.md": {
+    "mtime": 1783983777.3940785,
+    "ast_hash": "6024a17fe29d7f7c4951280dc0acac7b",
+    "semantic_hash": "6024a17fe29d7f7c4951280dc0acac7b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.kilo/plans/1783900285200-cosmic-panda.md": {
+    "mtime": 1783983777.3900785,
+    "ast_hash": "a16fbb643b1de030499a436a9642dda2",
+    "semantic_hash": "a16fbb643b1de030499a436a9642dda2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/.kilo/skills/graphify-novel/SKILL.md": {
+    "mtime": 1783983777.3900785,
+    "ast_hash": "918b6e00ab44daf4df996c650bb8fecd",
+    "semantic_hash": "918b6e00ab44daf4df996c650bb8fecd"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/AGENTS.md": {
+    "mtime": 1784852193.0629175,
+    "ast_hash": "b88ad169010af949481f5ced71c4df8f",
+    "semantic_hash": "b88ad169010af949481f5ced71c4df8f"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/README.md": {
+    "mtime": 1783745706.5405881,
+    "ast_hash": "1d2e58c85f25e56b555cb0ef27ac702b",
+    "semantic_hash": "1d2e58c85f25e56b555cb0ef27ac702b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/cuentos/0001-el-surgimiento/cuento.md": {
+    "mtime": 1784257230.1943133,
+    "ast_hash": "ecb288210782a9c1dafbb406165c51f2",
+    "semantic_hash": "ecb288210782a9c1dafbb406165c51f2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/cuentos/AGENTS.md": {
+    "mtime": 1784260919.2104,
+    "ast_hash": "33582e9a93a542989651810b07184be9",
+    "semantic_hash": "33582e9a93a542989651810b07184be9"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/12-reinos.md": {
+    "mtime": 1784507492.210526,
+    "ast_hash": "abe0578fdfd647a71564f1088a0b4bc6",
+    "semantic_hash": "abe0578fdfd647a71564f1088a0b4bc6"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/AGENTS.md": {
+    "mtime": 1784838493.1786048,
+    "ast_hash": "1c89b0bc2dc86b7ecb12c14627ba988b",
+    "semantic_hash": "1c89b0bc2dc86b7ecb12c14627ba988b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/amschel.md": {
+    "mtime": 1784257696.0263286,
+    "ast_hash": "0338f837dc152b8d4c609494ded977bf",
+    "semantic_hash": "0338f837dc152b8d4c609494ded977bf"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/artema.md": {
+    "mtime": 1784482343.0779483,
+    "ast_hash": "0af81af9b5404c42f8c3ac4d840f5e3d",
+    "semantic_hash": "0af81af9b5404c42f8c3ac4d840f5e3d"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/brandt.md": {
+    "mtime": 1784479394.1298776,
+    "ast_hash": "03095211480702a2fe6ef8ddaf2afc46",
+    "semantic_hash": "03095211480702a2fe6ef8ddaf2afc46"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/cojocaru.md": {
+    "mtime": 1784257230.1823132,
+    "ast_hash": "ee141b38863ab78164614a4e8cfd1967",
+    "semantic_hash": "ee141b38863ab78164614a4e8cfd1967"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/corinthyos.md": {
+    "mtime": 1784864052.77519,
+    "ast_hash": "6d2512318e4245aaea386a7d1f6a54a8",
+    "semantic_hash": "6d2512318e4245aaea386a7d1f6a54a8"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/drussyo.md": {
+    "mtime": 1784257230.1863134,
+    "ast_hash": "79fb77b9f79adb3c26ab82442823d2e0",
+    "semantic_hash": "79fb77b9f79adb3c26ab82442823d2e0"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/enescu.md": {
+    "mtime": 1784864052.77519,
+    "ast_hash": "d2760e37a677b4d9cfa96cc4b4b9b566",
+    "semantic_hash": "d2760e37a677b4d9cfa96cc4b4b9b566"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/falken.md": {
+    "mtime": 1784257230.1823132,
+    "ast_hash": "bb4ba1b4ecbe650a386fe1cfbfef92ab",
+    "semantic_hash": "bb4ba1b4ecbe650a386fe1cfbfef92ab"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/frosthain.md": {
+    "mtime": 1784507054.2505143,
+    "ast_hash": "72a84cb7ad2ce0fcb9aadf2adb204364",
+    "semantic_hash": "72a84cb7ad2ce0fcb9aadf2adb204364"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/gilden.md": {
+    "mtime": 1784507005.6345131,
+    "ast_hash": "87e2f2cc05ef9a1ffd6980ecd711becb",
+    "semantic_hash": "87e2f2cc05ef9a1ffd6980ecd711becb"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/goros.md": {
+    "mtime": 1784864052.77519,
+    "ast_hash": "b195a9f34c254d4682bb50e316aaffa5",
+    "semantic_hash": "b195a9f34c254d4682bb50e316aaffa5"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/gorski.md": {
+    "mtime": 1784257230.1783133,
+    "ast_hash": "0552ebf67bcbb43e32185fb90e20d9ba",
+    "semantic_hash": "0552ebf67bcbb43e32185fb90e20d9ba"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/gueika.md": {
+    "mtime": 1784838493.1866047,
+    "ast_hash": "5c188a75ac2528613e6e3e60cf926f30",
+    "semantic_hash": "5c188a75ac2528613e6e3e60cf926f30"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/hammer.md": {
+    "mtime": 1784507398.670523,
+    "ast_hash": "8550c2b4aa866e5fcad4a6d666d7351a",
+    "semantic_hash": "8550c2b4aa866e5fcad4a6d666d7351a"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/jaeger.md": {
+    "mtime": 1784479394.1298776,
+    "ast_hash": "c6c0f9fdfd0c007b6fff9bb0860b3e0f",
+    "semantic_hash": "c6c0f9fdfd0c007b6fff9bb0860b3e0f"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/meister.md": {
+    "mtime": 1784507398.670523,
+    "ast_hash": "75e7de2b556c293437992c3b9cb2ee91",
+    "semantic_hash": "75e7de2b556c293437992c3b9cb2ee91"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/mormund.md": {
+    "mtime": 1784258263.8023422,
+    "ast_hash": "cd1e5913d860b09b3c3415abc557ff02",
+    "semantic_hash": "cd1e5913d860b09b3c3415abc557ff02"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/ormur.md": {
+    "mtime": 1784258263.8023422,
+    "ast_hash": "e8b65853176becd3046598ae29131033",
+    "semantic_hash": "e8b65853176becd3046598ae29131033"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/pavel.md": {
+    "mtime": 1784838493.1826048,
+    "ast_hash": "9524100526e2bfe65676919d34a3474f",
+    "semantic_hash": "9524100526e2bfe65676919d34a3474f"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/radanescu.md": {
+    "mtime": 1784507054.2505143,
+    "ast_hash": "59b46b02dbe76f91497636fcb5e07b59",
+    "semantic_hash": "59b46b02dbe76f91497636fcb5e07b59"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/reisner.md": {
+    "mtime": 1784864052.77519,
+    "ast_hash": "626074e8dcbe89fb27f86243e6e5294b",
+    "semantic_hash": "626074e8dcbe89fb27f86243e6e5294b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/solarys.md": {
+    "mtime": 1784838536.294606,
+    "ast_hash": "6c537bede0d35f26d351d79f7ac278bf",
+    "semantic_hash": "6c537bede0d35f26d351d79f7ac278bf"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/therin.md": {
+    "mtime": 1784507054.2505143,
+    "ast_hash": "6900f1b87d99086537ab8efbd578fe0f",
+    "semantic_hash": "6900f1b87d99086537ab8efbd578fe0f"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/undavos.md": {
+    "mtime": 1784257230.1863134,
+    "ast_hash": "77b3f503d7374814ee09ee5cda1e5992",
+    "semantic_hash": "77b3f503d7374814ee09ee5cda1e5992"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/valeryus.md": {
+    "mtime": 1784864052.77519,
+    "ast_hash": "637d68ac923eb7aa7d40f568fb87abb1",
+    "semantic_hash": "637d68ac923eb7aa7d40f568fb87abb1"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/valgard.md": {
+    "mtime": 1784507168.2025177,
+    "ast_hash": "2774f0aa9145f17c34f67615724a5c2a",
+    "semantic_hash": "2774f0aa9145f17c34f67615724a5c2a"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/venthyss.md": {
+    "mtime": 1784257230.1823132,
+    "ast_hash": "07dc5a164d4a7c7bd8fb20bf6f417c15",
+    "semantic_hash": "07dc5a164d4a7c7bd8fb20bf6f417c15"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/wolfen.md": {
+    "mtime": 1784257230.1863134,
+    "ast_hash": "c8d0aebc1e1dc7f6b544194c36b1bb60",
+    "semantic_hash": "c8d0aebc1e1dc7f6b544194c36b1bb60"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/yuriev.md": {
+    "mtime": 1784257230.1823132,
+    "ast_hash": "2e4b545dfa3a9066a686229d02569d26",
+    "semantic_hash": "2e4b545dfa3a9066a686229d02569d26"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/casas/zephyryon.md": {
+    "mtime": 1784864052.77519,
+    "ast_hash": "28ae80c6f164c05aec74aa4b467ba22b",
+    "semantic_hash": "28ae80c6f164c05aec74aa4b467ba22b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/cronologia.md": {
+    "mtime": 1784863923.9271858,
+    "ast_hash": "e4852d297d40a3d32f437a29d7eb729e",
+    "semantic_hash": "e4852d297d40a3d32f437a29d7eb729e"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades.md": {
+    "mtime": 1784863923.9271858,
+    "ast_hash": "caa3d2288a5bc9b232b26d29e65347c4",
+    "semantic_hash": "caa3d2288a5bc9b232b26d29e65347c4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades/ghera.md": {
+    "mtime": 1784863923.9271858,
+    "ast_hash": "d26e96108b3cdfadc53ec1a43ffb70e0",
+    "semantic_hash": "d26e96108b3cdfadc53ec1a43ffb70e0"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades/grimmen.md": {
+    "mtime": 1784506677.5145075,
+    "ast_hash": "c3afe58d4435068360da597ccefbf47a",
+    "semantic_hash": "c3afe58d4435068360da597ccefbf47a"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades/inits.md": {
+    "mtime": 1784507920.7985353,
+    "ast_hash": "db1bc17ce447775836a1e78d4a3450c4",
+    "semantic_hash": "db1bc17ce447775836a1e78d4a3450c4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades/invocadores.md": {
+    "mtime": 1784507920.7985353,
+    "ast_hash": "847e5e6a1d5ff77bdf1434254b52cd64",
+    "semantic_hash": "847e5e6a1d5ff77bdf1434254b52cd64"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades/mobius.md": {
+    "mtime": 1784507920.7985353,
+    "ast_hash": "bb6da675f0787b6e58d04605ed983ed8",
+    "semantic_hash": "bb6da675f0787b6e58d04605ed983ed8"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades/plantilla.md": {
+    "mtime": 1784257230.1903133,
+    "ast_hash": "7c60a5ad83064f45a90ee38c19f46dbd",
+    "semantic_hash": "7c60a5ad83064f45a90ee38c19f46dbd"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades/portadores.md": {
+    "mtime": 1784506677.5145075,
+    "ast_hash": "4da4d6333fe8be7e0ae5caf801e92545",
+    "semantic_hash": "4da4d6333fe8be7e0ae5caf801e92545"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades/smurr.md": {
+    "mtime": 1784863923.9271858,
+    "ast_hash": "d5066466c535aa4462a832456ec09198",
+    "semantic_hash": "d5066466c535aa4462a832456ec09198"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/entidades/thalmos.md": {
+    "mtime": 1784844942.2427502,
+    "ast_hash": "0e90814822414ea0aae364b7c837dc34",
+    "semantic_hash": "0e90814822414ea0aae364b7c837dc34"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo.md": {
+    "mtime": 1784844942.2427502,
+    "ast_hash": "a55faef8d08bf682984dd365f4a18a64",
+    "semantic_hash": "a55faef8d08bf682984dd365f4a18a64"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/astria/astria.md": {
+    "mtime": 1784844959.4187505,
+    "ast_hash": "83d4d80d7eac32f8bb63afe7cc8c513d",
+    "semantic_hash": "83d4d80d7eac32f8bb63afe7cc8c513d"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/astria/historia-antigua-de-astria-y-erebia.md": {
+    "mtime": 1784844942.23875,
+    "ast_hash": "2e1135bb0e6d1b5fd4352609ac675409",
+    "semantic_hash": "2e1135bb0e6d1b5fd4352609ac675409"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/plantilla.md": {
+    "mtime": 1784257230.1663132,
+    "ast_hash": "1a84e46361de74e723ce2e969350eaa0",
+    "semantic_hash": "1a84e46361de74e723ce2e969350eaa0"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/acero-del-alba.md": {
+    "mtime": 1784479713.653893,
+    "ast_hash": "3212900538a07be34bb1e9133e3882c7",
+    "semantic_hash": "3212900538a07be34bb1e9133e3882c7"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/artefactos-misticos.md": {
+    "mtime": 1784479697.2218924,
+    "ast_hash": "1794526f2d3ef328457be2891a96779d",
+    "semantic_hash": "1794526f2d3ef328457be2891a96779d"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/costa-del-verano.md": {
+    "mtime": 1784863923.9271858,
+    "ast_hash": "661cbe8c3205eb6c3a62621c87f8d8fb",
+    "semantic_hash": "661cbe8c3205eb6c3a62621c87f8d8fb"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/alessya/alessya.md": {
+    "mtime": 1784863923.9271858,
+    "ast_hash": "1caaf26bf61990d67ac66b2c524275fa",
+    "semantic_hash": "1caaf26bf61990d67ac66b2c524275fa"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/bjorn/bjorn.md": {
+    "mtime": 1784507150.4145174,
+    "ast_hash": "456bdd819978cfc996e77e1bc6df3bff",
+    "semantic_hash": "456bdd819978cfc996e77e1bc6df3bff"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/concordia.md": {
+    "mtime": 1784838493.1826048,
+    "ast_hash": "ea905c6ee422be281ec5d0ea02f7ad30",
+    "semantic_hash": "ea905c6ee422be281ec5d0ea02f7ad30"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/delfos/delfos.md": {
+    "mtime": 1784480886.9019163,
+    "ast_hash": "cce81ead4079c968f33f3f1f75818a21",
+    "semantic_hash": "cce81ead4079c968f33f3f1f75818a21"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/dinastia-amschel.md": {
+    "mtime": 1784480886.9019163,
+    "ast_hash": "ce040a66c74b6d22a046625f8fb651f4",
+    "semantic_hash": "ce040a66c74b6d22a046625f8fb651f4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/dragma.md": {
+    "mtime": 1784863923.9271858,
+    "ast_hash": "1fe6c863ff056f959f379fcc51fc38b2",
+    "semantic_hash": "1fe6c863ff056f959f379fcc51fc38b2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/eisengard/eisengard.md": {
+    "mtime": 1784507005.6305132,
+    "ast_hash": "608f71ec20089732fbab627765937fc7",
+    "semantic_hash": "608f71ec20089732fbab627765937fc7"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/esteria/esteria.md": {
+    "mtime": 1784863923.9271858,
+    "ast_hash": "7225336be6e1d90752500cd74e0d1fac",
+    "semantic_hash": "7225336be6e1d90752500cd74e0d1fac"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/flemmengard/flemmengard.md": {
+    "mtime": 1784258272.7263422,
+    "ast_hash": "08b53c144f81bcc38f5e7b3cdc96fd79",
+    "semantic_hash": "08b53c144f81bcc38f5e7b3cdc96fd79"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/guldengard/guldengard.md": {
+    "mtime": 1784507005.6305132,
+    "ast_hash": "34b7cf598f029c7bb3631121de7ef02c",
+    "semantic_hash": "34b7cf598f029c7bb3631121de7ef02c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/ishbaal/ishbaal.md": {
+    "mtime": 1784257230.1743133,
+    "ast_hash": "0634928d9e917e1e97fdb59fecf83bc2",
+    "semantic_hash": "0634928d9e917e1e97fdb59fecf83bc2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/khalos/khalos.md": {
+    "mtime": 1784506677.5225074,
+    "ast_hash": "c4a2c4037fcfb777d3f7adc783c2f8da",
+    "semantic_hash": "c4a2c4037fcfb777d3f7adc783c2f8da"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/kyst/kyst.md": {
+    "mtime": 1784507150.4145174,
+    "ast_hash": "4ed7568de626510d7d414b85425aa5d5",
+    "semantic_hash": "4ed7568de626510d7d414b85425aa5d5"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/lorka/lorka.md": {
+    "mtime": 1784257230.1703134,
+    "ast_hash": "c669f1992b4955556c9eadf7c0601e62",
+    "semantic_hash": "c669f1992b4955556c9eadf7c0601e62"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/lyng/lyng.md": {
+    "mtime": 1784507150.4145174,
+    "ast_hash": "3455b29f1286b4ced37363e63032e068",
+    "semantic_hash": "3455b29f1286b4ced37363e63032e068"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/lysarya/lysarya.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "06fa3d1aa445597810fc71751fcade94",
+    "semantic_hash": "06fa3d1aa445597810fc71751fcade94"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/nombres-carmesi.md": {
+    "mtime": 1784830767.5504272,
+    "ast_hash": "fa2b1579e65d05aa87793eb7e61d898d",
+    "semantic_hash": "fa2b1579e65d05aa87793eb7e61d898d"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/nombres-de-la-bruma.md": {
+    "mtime": 1784830767.5504272,
+    "ast_hash": "bc168dc2673b8b2ebb75479bf0f7385e",
+    "semantic_hash": "bc168dc2673b8b2ebb75479bf0f7385e"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/nombres-del-hierro.md": {
+    "mtime": 1784830767.5504272,
+    "ast_hash": "13b7b3bb0045049973d315caa542e260",
+    "semantic_hash": "13b7b3bb0045049973d315caa542e260"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/nombres-del-verano.md": {
+    "mtime": 1784833843.3344967,
+    "ast_hash": "6d99692ec02184ac41405d8c11c4e6ee",
+    "semantic_hash": "6d99692ec02184ac41405d8c11c4e6ee"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/paicel/paicel.md": {
+    "mtime": 1784257230.1743133,
+    "ast_hash": "a81f47da9438acafdb708fb60e373fa2",
+    "semantic_hash": "a81f47da9438acafdb708fb60e373fa2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/sindria/sindria.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "80f9bb88dedeab406f01f0c8e990807a",
+    "semantic_hash": "80f9bb88dedeab406f01f0c8e990807a"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/stamengherin.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "1253ff1cd1dd76b658413d7619e2e590",
+    "semantic_hash": "1253ff1cd1dd76b658413d7619e2e590"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/sturmgard/sturmgard.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "bfce9e972ab7c61046b8c3cf99a7b4db",
+    "semantic_hash": "bfce9e972ab7c61046b8c3cf99a7b4db"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/veleskaria/veleskaria.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "902d9a039ec31323d979ee804b9f7b48",
+    "semantic_hash": "902d9a039ec31323d979ee804b9f7b48"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/vesperya/vesperya.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "bbc0347bc482abb4d3a7d75e3335ee35",
+    "semantic_hash": "bbc0347bc482abb4d3a7d75e3335ee35"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/dragma/zephyrya/zephyrya.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "10a5368cb58f371d9130870d265e7dba",
+    "semantic_hash": "10a5368cb58f371d9130870d265e7dba"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/edad-de-la-podredumbre.md": {
+    "mtime": 1784844942.24675,
+    "ast_hash": "076779c553e493c2af1b85b3f7040a69",
+    "semantic_hash": "076779c553e493c2af1b85b3f7040a69"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/edad-de-la-tirania.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "e135a09f496d65c0a320e2bd2220f6b3",
+    "semantic_hash": "e135a09f496d65c0a320e2bd2220f6b3"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/edad-de-plata.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "6911af7fe137f6e59556f7c037de221d",
+    "semantic_hash": "6911af7fe137f6e59556f7c037de221d"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/edad-del-hierro.md": {
+    "mtime": 1784506819.7065105,
+    "ast_hash": "09bc21bd517ab8dc34a250083dc9b88f",
+    "semantic_hash": "09bc21bd517ab8dc34a250083dc9b88f"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/emisarios-de-la-ruina.md": {
+    "mtime": 1784480934.5259168,
+    "ast_hash": "95950ab14fd5f2d332b294d5d08bc767",
+    "semantic_hash": "95950ab14fd5f2d332b294d5d08bc767"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/foso-de-la-calamidad.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "7d586ad350a972d0c4b8ccee1f417f17",
+    "semantic_hash": "7d586ad350a972d0c4b8ccee1f417f17"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/gente-de-la-bruma.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "d196b0e885d89e65398bb6ee38b4094d",
+    "semantic_hash": "d196b0e885d89e65398bb6ee38b4094d"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/gheran.md": {
+    "mtime": 1784258263.8023422,
+    "ast_hash": "a0b2f413dd238bb88d8e7e7f3b9f5c18",
+    "semantic_hash": "a0b2f413dd238bb88d8e7e7f3b9f5c18"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/gherin.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "51c18dd465633a777188b6fa6a6fc14f",
+    "semantic_hash": "51c18dd465633a777188b6fa6a6fc14f"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/ghild.md": {
+    "mtime": 1784479697.2218924,
+    "ast_hash": "623a8d03f9b07762f7b7b503df4fc9a4",
+    "semantic_hash": "623a8d03f9b07762f7b7b503df4fc9a4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/grimm.md": {
+    "mtime": 1784506677.5185075,
+    "ast_hash": "743b8bdda544c39a5155cd5ae6325ac9",
+    "semantic_hash": "743b8bdda544c39a5155cd5ae6325ac9"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/guerra-de-unland.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "6566fa4faec783fc13bdba271c69412e",
+    "semantic_hash": "6566fa4faec783fc13bdba271c69412e"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/guerra-del-valle-dorado.md": {
+    "mtime": 1784506677.5265074,
+    "ast_hash": "e7a37d29b2bdd7bdb48f66b794d0bde6",
+    "semantic_hash": "e7a37d29b2bdd7bdb48f66b794d0bde6"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/historia-antigua.md": {
+    "mtime": 1784506677.5265074,
+    "ast_hash": "9bb0a33f187037656c90311391205010",
+    "semantic_hash": "9bb0a33f187037656c90311391205010"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/kantra.md": {
+    "mtime": 1784506677.5265074,
+    "ast_hash": "9d06c1661884d0e18ae18d3af0934b52",
+    "semantic_hash": "9d06c1661884d0e18ae18d3af0934b52"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/llave-de-durr.md": {
+    "mtime": 1784479697.2218924,
+    "ast_hash": "deee1d5b75925aa83de3c9cfeb98a74b",
+    "semantic_hash": "deee1d5b75925aa83de3c9cfeb98a74b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/pacto-de-durr.md": {
+    "mtime": 1784506677.5265074,
+    "ast_hash": "1917674e9077c8293040c0370edeccc7",
+    "semantic_hash": "1917674e9077c8293040c0370edeccc7"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/roshdom.md": {
+    "mtime": 1784508695.6625528,
+    "ast_hash": "fb2882de36430f3f1ed16bc5180f0189",
+    "semantic_hash": "fb2882de36430f3f1ed16bc5180f0189"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/rugido-mordaz.md": {
+    "mtime": 1784479697.2218924,
+    "ast_hash": "a637364a5d63f5a17a8b42830768ebab",
+    "semantic_hash": "a637364a5d63f5a17a8b42830768ebab"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/sanghesk.md": {
+    "mtime": 1784506748.2145095,
+    "ast_hash": "b85d715cd07944806d070bef2de8d79c",
+    "semantic_hash": "b85d715cd07944806d070bef2de8d79c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/sangheskios.md": {
+    "mtime": 1784508774.5025535,
+    "ast_hash": "0c02c161209647270641e9ed6ab11e46",
+    "semantic_hash": "0c02c161209647270641e9ed6ab11e46"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/sangre-de-hierro-carmesi.md": {
+    "mtime": 1784508749.8185527,
+    "ast_hash": "ca362a3476500ce6bb9a7782084a2a76",
+    "semantic_hash": "ca362a3476500ce6bb9a7782084a2a76"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/sangre-de-hierro.md": {
+    "mtime": 1784508695.6625528,
+    "ast_hash": "65cf842ddbe9d8b126d1c10807292723",
+    "semantic_hash": "65cf842ddbe9d8b126d1c10807292723"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/stigria.md": {
+    "mtime": 1784507693.658531,
+    "ast_hash": "9852bbae95577e517af0497261f61c78",
+    "semantic_hash": "9852bbae95577e517af0497261f61c78"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/stomur.md": {
+    "mtime": 1784319517.199862,
+    "ast_hash": "8f1b6e885e2aef64225035f94ce92d50",
+    "semantic_hash": "8f1b6e885e2aef64225035f94ce92d50"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/suntarys.md": {
+    "mtime": 1784480554.0059063,
+    "ast_hash": "b926ae91ac38fed39c61abe413cac85d",
+    "semantic_hash": "b926ae91ac38fed39c61abe413cac85d"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/mundo/stigria/valgard.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "c86b814c43d0e4a5f96bf0a9953a82c2",
+    "semantic_hash": "c86b814c43d0e4a5f96bf0a9953a82c2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/notas.md": {
+    "mtime": 1784863923.9311857,
+    "ast_hash": "b9635e3d5923c6446f8907ca48d4332a",
+    "semantic_hash": "b9635e3d5923c6446f8907ca48d4332a"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/organizaciones.md": {
+    "mtime": 1784844942.24675,
+    "ast_hash": "592ad039e51248ae15e160447a8567ca",
+    "semantic_hash": "592ad039e51248ae15e160447a8567ca"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/organizaciones/banda-de-la-piedra-mohosa.md": {
+    "mtime": 1784507749.9785287,
+    "ast_hash": "f408583c6606fcb330a30a5dc3f9ceaa",
+    "semantic_hash": "f408583c6606fcb330a30a5dc3f9ceaa"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/organizaciones/bloque-de-hierro.md": {
+    "mtime": 1784258272.7263422,
+    "ast_hash": "6e26b37d7977f7a25624762d3ab284f4",
+    "semantic_hash": "6e26b37d7977f7a25624762d3ab284f4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/organizaciones/guardia-amarilla.md": {
+    "mtime": 1784863923.935186,
+    "ast_hash": "8d29081bd48df65b87c1fddff10e1af6",
+    "semantic_hash": "8d29081bd48df65b87c1fddff10e1af6"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/organizaciones/guardia-del-norte.md": {
+    "mtime": 1784508749.8145528,
+    "ast_hash": "354dfaf3e3c22bb65936fd4b0c6ce3d1",
+    "semantic_hash": "354dfaf3e3c22bb65936fd4b0c6ce3d1"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/organizaciones/peregrinos-negros.md": {
+    "mtime": 1784844942.24675,
+    "ast_hash": "bff5763a21dd5e934a85de480714c8c8",
+    "semantic_hash": "bff5763a21dd5e934a85de480714c8c8"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/pendientes.md": {
+    "mtime": 1784844942.24675,
+    "ast_hash": "821137335cb661ecc5296ce67d4a93e4",
+    "semantic_hash": "821137335cb661ecc5296ce67d4a93e4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes.md": {
+    "mtime": 1784863923.935186,
+    "ast_hash": "46e281835d94baf7ce39d2467a7a514c",
+    "semantic_hash": "46e281835d94baf7ce39d2467a7a514c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/alastor-ormur.md": {
+    "mtime": 1784258263.8063421,
+    "ast_hash": "8ef4ae135958a8bf33c9d98c44574c99",
+    "semantic_hash": "8ef4ae135958a8bf33c9d98c44574c99"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/andrey-radanescu.md": {
+    "mtime": 1784508695.6625528,
+    "ast_hash": "a5386022a2399fb6e03f8f9ccb1a207f",
+    "semantic_hash": "a5386022a2399fb6e03f8f9ccb1a207f"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/armin-mormund.md": {
+    "mtime": 1784838493.1826048,
+    "ast_hash": "a9dcfc7660473d6b189297734478204b",
+    "semantic_hash": "a9dcfc7660473d6b189297734478204b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/astrid.md": {
+    "mtime": 1784863923.935186,
+    "ast_hash": "9b2212b9206682171a39620ac5020ff0",
+    "semantic_hash": "9b2212b9206682171a39620ac5020ff0"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/baldur-valgard.md": {
+    "mtime": 1784294215.5112717,
+    "ast_hash": "faf957ebe3027756e3f9518d5865f548",
+    "semantic_hash": "faf957ebe3027756e3f9518d5865f548"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/drakar-valgard.md": {
+    "mtime": 1784507398.666523,
+    "ast_hash": "9a3cbe3834cfe4ecd48b785e4b148cce",
+    "semantic_hash": "9a3cbe3834cfe4ecd48b785e4b148cce"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/eirik-valgard.md": {
+    "mtime": 1784507082.3465152,
+    "ast_hash": "958fb935eaa891a4b7b8147705d22be4",
+    "semantic_hash": "958fb935eaa891a4b7b8147705d22be4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/grimar-valgard.md": {
+    "mtime": 1784863923.935186,
+    "ast_hash": "a5cd63f15ed49bb7c40646ed7ef3a1ec",
+    "semantic_hash": "a5cd63f15ed49bb7c40646ed7ef3a1ec"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/historicos/astryon-aetheryon.md": {
+    "mtime": 1784295010.1192858,
+    "ast_hash": "5c82aa75488bdc2dcce31b04413a888e",
+    "semantic_hash": "5c82aa75488bdc2dcce31b04413a888e"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/historicos/daryon-coralyss.md": {
+    "mtime": 1784295010.1192858,
+    "ast_hash": "613698942c9f0d703f21c3ec66f30970",
+    "semantic_hash": "613698942c9f0d703f21c3ec66f30970"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/historicos/eryk-albyon.md": {
+    "mtime": 1784506677.5225074,
+    "ast_hash": "556ad25c8dabaf3cc7d4473ac5db908a",
+    "semantic_hash": "556ad25c8dabaf3cc7d4473ac5db908a"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/historicos/kleondras-aetheryon.md": {
+    "mtime": 1784295010.1192858,
+    "ast_hash": "5cf35ecd5db51474532487fc4a546677",
+    "semantic_hash": "5cf35ecd5db51474532487fc4a546677"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/historicos/kyros-albyon.md": {
+    "mtime": 1784506677.5225074,
+    "ast_hash": "8acedcb3554b6e3cad739ff39cafff7c",
+    "semantic_hash": "8acedcb3554b6e3cad739ff39cafff7c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/historicos/thalyssa-coralyss.md": {
+    "mtime": 1784506677.5225074,
+    "ast_hash": "67c7434db658372ff48c41973baa4a41",
+    "semantic_hash": "67c7434db658372ff48c41973baa4a41"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/lauffen.md": {
+    "mtime": 1784506677.5185075,
+    "ast_hash": "e7e77722c56be9eecbbdcb9e334d7d17",
+    "semantic_hash": "e7e77722c56be9eecbbdcb9e334d7d17"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/lumino-therin.md": {
+    "mtime": 1784507082.3465152,
+    "ast_hash": "47b7f33948e724fec599d60c2ac1fdb5",
+    "semantic_hash": "47b7f33948e724fec599d60c2ac1fdb5"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/cassyus-zephyryon.md": {
+    "mtime": 1784864052.77919,
+    "ast_hash": "79f041552a656b93fa64a4dc89442d12",
+    "semantic_hash": "79f041552a656b93fa64a4dc89442d12"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/celesthya-drussyo.md": {
+    "mtime": 1784257230.1623132,
+    "ast_hash": "de567b63528a31b87f8f9b32a17940c2",
+    "semantic_hash": "de567b63528a31b87f8f9b32a17940c2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/ecaterina-cojocaru.md": {
+    "mtime": 1784257230.1583133,
+    "ast_hash": "56d7afc72bb321473ce61044c14b99aa",
+    "semantic_hash": "56d7afc72bb321473ce61044c14b99aa"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/edrik-mormund.md": {
+    "mtime": 1784295010.1152859,
+    "ast_hash": "1a2a8da23787fb96333c67a2f7f191c0",
+    "semantic_hash": "1a2a8da23787fb96333c67a2f7f191c0"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/freda-brandt.md": {
+    "mtime": 1784479394.1298776,
+    "ast_hash": "0f9a61073440521267f1d972555edafd",
+    "semantic_hash": "0f9a61073440521267f1d972555edafd"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/godric-mormund.md": {
+    "mtime": 1784257230.1623132,
+    "ast_hash": "606b9761ead1cf70f02d817ba71f2246",
+    "semantic_hash": "606b9761ead1cf70f02d817ba71f2246"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/harald-mormund.md": {
+    "mtime": 1784479394.1338775,
+    "ast_hash": "76a3e6a0edd70ee4d03d60ecf75004b5",
+    "semantic_hash": "76a3e6a0edd70ee4d03d60ecf75004b5"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/helyo-venthyss.md": {
+    "mtime": 1784257230.1583133,
+    "ast_hash": "05fe880789ce1b0f9f28d2b0333ce0b5",
+    "semantic_hash": "05fe880789ce1b0f9f28d2b0333ce0b5"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/ileana-enescu.md": {
+    "mtime": 1784864052.77919,
+    "ast_hash": "7b603b93289c93971f2455fdc08b33db",
+    "semantic_hash": "7b603b93289c93971f2455fdc08b33db"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/ilena-mormund.md": {
+    "mtime": 1784257230.1623132,
+    "ast_hash": "aaa8dd6eaf042677517294f3e938fe01",
+    "semantic_hash": "aaa8dd6eaf042677517294f3e938fe01"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/jorin-reisner.md": {
+    "mtime": 1784864052.77919,
+    "ast_hash": "527bcb815789556925691670b2c93b46",
+    "semantic_hash": "527bcb815789556925691670b2c93b46"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/kaspar-wolfen.md": {
+    "mtime": 1784257230.1623132,
+    "ast_hash": "232344d19b97b6a6af22521337862d2c",
+    "semantic_hash": "232344d19b97b6a6af22521337862d2c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/marcus-valeryus.md": {
+    "mtime": 1784864052.77919,
+    "ast_hash": "800a10b188227d5a87bab67c41fdf058",
+    "semantic_hash": "800a10b188227d5a87bab67c41fdf058"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/marlo-falken.md": {
+    "mtime": 1784257230.1623132,
+    "ast_hash": "9dcffbc0e2eda8c03efc7f2c8da1e7f3",
+    "semantic_hash": "9dcffbc0e2eda8c03efc7f2c8da1e7f3"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/mijail-mormund.md": {
+    "mtime": 1784319517.199862,
+    "ast_hash": "58cd32ee430d03643cb41f6ff51fa0f3",
+    "semantic_hash": "58cd32ee430d03643cb41f6ff51fa0f3"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/neryssa-undavos.md": {
+    "mtime": 1784480886.9019163,
+    "ast_hash": "ce06dea6fa5a1f149fc8b036cf86a5a2",
+    "semantic_hash": "ce06dea6fa5a1f149fc8b036cf86a5a2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/octavya-corinthyos.md": {
+    "mtime": 1784864052.77919,
+    "ast_hash": "b7967c4b1f5c6b3a7d4d464a2cc509a2",
+    "semantic_hash": "b7967c4b1f5c6b3a7d4d464a2cc509a2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/ravn-korn.md": {
+    "mtime": 1784864052.77919,
+    "ast_hash": "66093ae7829a8288c489d9ffae8348ba",
+    "semantic_hash": "66093ae7829a8288c489d9ffae8348ba"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/roderic-mormund.md": {
+    "mtime": 1784257230.1583133,
+    "ast_hash": "3477b7885ab7b20e92ddc8856864d533",
+    "semantic_hash": "3477b7885ab7b20e92ddc8856864d533"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/sabina-jaeger.md": {
+    "mtime": 1784479394.1298776,
+    "ast_hash": "ef217423b4f8b84fbe62edf3c68119a9",
+    "semantic_hash": "ef217423b4f8b84fbe62edf3c68119a9"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/skaer-fjord.md": {
+    "mtime": 1784864052.77919,
+    "ast_hash": "7b50166292aa95cbc905ea9659d86588",
+    "semantic_hash": "7b50166292aa95cbc905ea9659d86588"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/skov-borg.md": {
+    "mtime": 1784864052.77919,
+    "ast_hash": "629fc15581aa0fa030ea4d786f0afe39",
+    "semantic_hash": "629fc15581aa0fa030ea4d786f0afe39"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/uriel-goros.md": {
+    "mtime": 1784864052.77919,
+    "ast_hash": "a89da5087a7790142fb084584f5c7463",
+    "semantic_hash": "a89da5087a7790142fb084584f5c7463"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/vilem-mormund.md": {
+    "mtime": 1784257230.1583133,
+    "ast_hash": "1f92578bda4f8a1134b31d0a166cffe2",
+    "semantic_hash": "1f92578bda4f8a1134b31d0a166cffe2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/monarcas/yelena-gorski.md": {
+    "mtime": 1784257230.1623132,
+    "ast_hash": "1faf77b34a2c1967f2a10ba0c9c3da71",
+    "semantic_hash": "1faf77b34a2c1967f2a10ba0c9c3da71"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/odalric-valgard.md": {
+    "mtime": 1784506677.5185075,
+    "ast_hash": "abaa38172e6a6636549af18c67e0a09c",
+    "semantic_hash": "abaa38172e6a6636549af18c67e0a09c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/plantilla.md": {
+    "mtime": 1784257230.1543133,
+    "ast_hash": "b4ec23a9e7f1e1646bd9cc009a4422ea",
+    "semantic_hash": "b4ec23a9e7f1e1646bd9cc009a4422ea"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/radu.md": {
+    "mtime": 1784506748.2145095,
+    "ast_hash": "8bb38e94c2f0a85150869a960ef23ed4",
+    "semantic_hash": "8bb38e94c2f0a85150869a960ef23ed4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/rey-podrido.md": {
+    "mtime": 1784863923.935186,
+    "ast_hash": "127a744c9cd920088b81d76e08374c5b",
+    "semantic_hash": "127a744c9cd920088b81d76e08374c5b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/rudgar-valgard.md": {
+    "mtime": 1784863923.935186,
+    "ast_hash": "0ad07a679d55fac10ee5dd068ed1ed10",
+    "semantic_hash": "0ad07a679d55fac10ee5dd068ed1ed10"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/sandor-solarys.md": {
+    "mtime": 1784838536.298606,
+    "ast_hash": "79e1e3c612505ac0f6094a6fec1eac7e",
+    "semantic_hash": "79e1e3c612505ac0f6094a6fec1eac7e"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/sigmar-valgard.md": {
+    "mtime": 1784507082.3465152,
+    "ast_hash": "459d3bb2c02c18acc54a24ede9a5b04b",
+    "semantic_hash": "459d3bb2c02c18acc54a24ede9a5b04b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/stancu-radanescu.md": {
+    "mtime": 1784507082.3465152,
+    "ast_hash": "45d35a4b2f178b40b1b7ca8ab5922a7c",
+    "semantic_hash": "45d35a4b2f178b40b1b7ca8ab5922a7c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/stelian-therin.md": {
+    "mtime": 1784506748.2145095,
+    "ast_hash": "d0404eb02e1cef84067d661bce7ac075",
+    "semantic_hash": "d0404eb02e1cef84067d661bce7ac075"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/strigor.md": {
+    "mtime": 1784506748.2145095,
+    "ast_hash": "7c2139bdaba3c29f3972db0539e5401b",
+    "semantic_hash": "7c2139bdaba3c29f3972db0539e5401b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/tanyaro-mano-de-serpiente.md": {
+    "mtime": 1784262675.1864388,
+    "ast_hash": "bc9bfbf6dcf7f77160b2aa64543643d2",
+    "semantic_hash": "bc9bfbf6dcf7f77160b2aa64543643d2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/uther-boca-de-sal.md": {
+    "mtime": 1784319583.731866,
+    "ast_hash": "9e2e59d86fb201588fb58d1b8974342b",
+    "semantic_hash": "9e2e59d86fb201588fb58d1b8974342b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/val-el-terrible.md": {
+    "mtime": 1784506677.5185075,
+    "ast_hash": "303af491864db8d60d821eb9271daba4",
+    "semantic_hash": "303af491864db8d60d821eb9271daba4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/vedrik-frosthain.md": {
+    "mtime": 1784507082.3465152,
+    "ast_hash": "4a3ed164c6e6ca0f1573afe595f1c3cb",
+    "semantic_hash": "4a3ed164c6e6ca0f1573afe595f1c3cb"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/wolfram-el-bardo.md": {
+    "mtime": 1784506677.5185075,
+    "ast_hash": "20059f614686e8195622596375081559",
+    "semantic_hash": "20059f614686e8195622596375081559"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/personajes/yanos-gueika.md": {
+    "mtime": 1784838493.1786048,
+    "ast_hash": "7cec354676ea12c4bb17288518e90ebd",
+    "semantic_hash": "7cec354676ea12c4bb17288518e90ebd"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/taburas.md": {
+    "mtime": 1784863923.935186,
+    "ast_hash": "72cf377cdb1d30bd3faaf08a90e1c3f1",
+    "semantic_hash": "72cf377cdb1d30bd3faaf08a90e1c3f1"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/taburas/dex-tabura.md": {
+    "mtime": 1784294057.4712658,
+    "ast_hash": "b5fd8d39f881195e9d44d48547db5856",
+    "semantic_hash": "b5fd8d39f881195e9d44d48547db5856"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/taburas/kys-tabura.md": {
+    "mtime": 1784844942.2427502,
+    "ast_hash": "3965a0ab815300d28c05a6a178e627ea",
+    "semantic_hash": "3965a0ab815300d28c05a6a178e627ea"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/taburas/mort-tabura.md": {
+    "mtime": 1784257230.1943133,
+    "ast_hash": "6d4b0588f3017fe08411c5967bc21b42",
+    "semantic_hash": "6d4b0588f3017fe08411c5967bc21b42"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/taburas/sish-tabura.md": {
+    "mtime": 1784838493.1866047,
+    "ast_hash": "cb337d92603e17a17e421670937a78e1",
+    "semantic_hash": "cb337d92603e17a17e421670937a78e1"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/taburas/tabura.md": {
+    "mtime": 1784294670.291277,
+    "ast_hash": "baa17c0f758c0a24cd39a805051c82ea",
+    "semantic_hash": "baa17c0f758c0a24cd39a805051c82ea"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/docs/taburas/vex-tabura.md": {
+    "mtime": 1784507920.7985353,
+    "ast_hash": "8dcd7b2aca25e5f636a9d9fa076a086b",
+    "semantic_hash": "8dcd7b2aca25e5f636a9d9fa076a086b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/herramientas/AGENTS.md": {
+    "mtime": 1783983777.3860784,
+    "ast_hash": "c8c19d2df4ebab60254156d052bed659",
+    "semantic_hash": "c8c19d2df4ebab60254156d052bed659"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/herramientas/mapa-estigria/index.html": {
+    "mtime": 1783983777.3860784,
+    "ast_hash": "6a78fc6457d8d1b6d34624d3210ac018",
+    "semantic_hash": "6a78fc6457d8d1b6d34624d3210ac018"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/herramientas/prompt-mapa-estigria.md": {
+    "mtime": 1783985090.2620034,
+    "ast_hash": "e3b76ece6ae22f027a00d938edd566ac",
+    "semantic_hash": "e3b76ece6ae22f027a00d938edd566ac"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/mesa-de-trabajo/README.md": {
+    "mtime": 1784852206.7029178,
+    "ast_hash": "4a9981b4d2e7494720e2d561412699f4",
+    "semantic_hash": "4a9981b4d2e7494720e2d561412699f4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/procesos-de-volcamiento/AGENTS.md": {
+    "mtime": 1784852206.7029178,
+    "ast_hash": "451bd3824cb125585ae56d45d398feb7",
+    "semantic_hash": "451bd3824cb125585ae56d45d398feb7"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/procesos-de-volcamiento/edad-de-la-tirania/acumulacion-de-resolucion-de-la-edad-de-la-tirania.md": {
+    "mtime": 1784864504.6991973,
+    "ast_hash": "489282f9815aff57a5c621647a7ed116",
+    "semantic_hash": "489282f9815aff57a5c621647a7ed116"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/procesos-de-volcamiento/edad-de-la-tirania/acumulacion-edad-de-la-tirania.md": {
+    "mtime": 1784864504.1311972,
+    "ast_hash": "9c04549e6cb7513a4ecd07e9e7572fb0",
+    "semantic_hash": "9c04549e6cb7513a4ecd07e9e7572fb0"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/procesos-de-volcamiento/edad-de-la-tirania/auditoria-previa-al-volcamiento-edad-de-la-tirania.md": {
+    "mtime": 1784864504.4071972,
+    "ast_hash": "0eaf8db37cffe3c87bd5893f3f15d090",
+    "semantic_hash": "0eaf8db37cffe3c87bd5893f3f15d090"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/AGENTS.md": {
+    "mtime": 1783974919.5905983,
+    "ast_hash": "fca36563ea66bb03dd630dfccd9bb359",
+    "semantic_hash": "fca36563ea66bb03dd630dfccd9bb359"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/00 - Ideas rescatadas de proto_v1.md": {
+    "mtime": 1783749137.1163824,
+    "ast_hash": "10826236d723af5298574bedb3273ebc",
+    "semantic_hash": "10826236d723af5298574bedb3273ebc"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/1 - La edad de la maravilla.md": {
+    "mtime": 1783746176.7805562,
+    "ast_hash": "24fb4420cfaefdee78dbfcca24f3b9e1",
+    "semantic_hash": "24fb4420cfaefdee78dbfcca24f3b9e1"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/10 - Carta de Sandor Solaris a Ianos Guieska.md": {
+    "mtime": 1783746176.7925563,
+    "ast_hash": "71be3fc7c0b1b0897873b62c5355c64e",
+    "semantic_hash": "71be3fc7c0b1b0897873b62c5355c64e"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/11 - Respuesta de Ianos Guieska a Sandor Solaris.md": {
+    "mtime": 1783746176.8045561,
+    "ast_hash": "262aa93fc9f96b03b21426151d7a49c3",
+    "semantic_hash": "262aa93fc9f96b03b21426151d7a49c3"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/12 - El Nacimiento de la Naci\u00f3n de la Luz.md": {
+    "mtime": 1783746176.8485563,
+    "ast_hash": "3704a6fb32376e38788969edd405435b",
+    "semantic_hash": "3704a6fb32376e38788969edd405435b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/13 - El Sabio Triste.md": {
+    "mtime": 1783746176.9685562,
+    "ast_hash": "435e707f2cf606d28b83f030d1bb1ca0",
+    "semantic_hash": "435e707f2cf606d28b83f030d1bb1ca0"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/14 - El Invocador del Sol.md": {
+    "mtime": 1783746177.104556,
+    "ast_hash": "2f8faeb2687d21cc363933d29b38a8d1",
+    "semantic_hash": "2f8faeb2687d21cc363933d29b38a8d1"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/15 - De Luz y de Sombra.md": {
+    "mtime": 1783746177.1685562,
+    "ast_hash": "7718b8aff5dc3e2bb4cf702ce067a2bf",
+    "semantic_hash": "7718b8aff5dc3e2bb4cf702ce067a2bf"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/16 - El Bello Rey Sombra.md": {
+    "mtime": 1783746177.2285562,
+    "ast_hash": "7715682bfded8e6a3bb66e9684064cda",
+    "semantic_hash": "7715682bfded8e6a3bb66e9684064cda"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/17 - El Buen Rey Sol.md": {
+    "mtime": 1783746177.3005562,
+    "ast_hash": "3ea6f232eaf938a7669ae0307e851dfa",
+    "semantic_hash": "3ea6f232eaf938a7669ae0307e851dfa"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/2 - El Heraldo de la Ruina.md": {
+    "mtime": 1783746177.3405561,
+    "ast_hash": "81a47f170a61ebbf78b8f53ec8d97afb",
+    "semantic_hash": "81a47f170a61ebbf78b8f53ec8d97afb"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/3 - La Guerra del Monte Lumari.md": {
+    "mtime": 1783746177.4045563,
+    "ast_hash": "f04a096a88da73662439d6322c0796c6",
+    "semantic_hash": "f04a096a88da73662439d6322c0796c6"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/4 - La edad del sol devorado.md": {
+    "mtime": 1783746177.4605563,
+    "ast_hash": "2725dc88dd2bdc764869279e9651595f",
+    "semantic_hash": "2725dc88dd2bdc764869279e9651595f"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/5 - La Jaula Azul.md": {
+    "mtime": 1783746177.5405562,
+    "ast_hash": "c6ab7081d20a0835b67268fd7b706ef2",
+    "semantic_hash": "c6ab7081d20a0835b67268fd7b706ef2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/6 - Los Errantes del Yermo.md": {
+    "mtime": 1783746177.624556,
+    "ast_hash": "13171dad99947244be6c17e229056ca2",
+    "semantic_hash": "13171dad99947244be6c17e229056ca2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/7 - El Testigo en la Oscuridad.md": {
+    "mtime": 1783746177.7205563,
+    "ast_hash": "9d7d1f5c086e518bd0d47bfa7b12cf9c",
+    "semantic_hash": "9d7d1f5c086e518bd0d47bfa7b12cf9c"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/8 - El Renacer del Sol.md": {
+    "mtime": 1783746177.8525562,
+    "ast_hash": "487efb4464deb0013b2a383aaf350338",
+    "semantic_hash": "487efb4464deb0013b2a383aaf350338"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/9 - El \u00c9xodo de los Marcados.md": {
+    "mtime": 1783746177.9525561,
+    "ast_hash": "76f99c7aa1f9877098a32b178a3cb2c9",
+    "semantic_hash": "76f99c7aa1f9877098a32b178a3cb2c9"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/Act\u00faa como editor literario.md": {
+    "mtime": 1783746177.9885561,
+    "ast_hash": "a3737e266851fe741fc223baaa2c4cfb",
+    "semantic_hash": "a3737e266851fe741fc223baaa2c4cfb"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/Anexo I.md": {
+    "mtime": 1783746178.1005561,
+    "ast_hash": "9b4feb95dbe11536cb88222e5bd19012",
+    "semantic_hash": "9b4feb95dbe11536cb88222e5bd19012"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/proto_v2/Anexo II.md": {
+    "mtime": 1783746178.1685562,
+    "ast_hash": "ac0a11ea2757c4f3b895f9270b7b4164",
+    "semantic_hash": "ac0a11ea2757c4f3b895f9270b7b4164"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/referencias-visuales/README.md": {
+    "mtime": 1783974920.1265984,
+    "ast_hash": "0dba404e9acdc6aa96d8a2876834adc4",
+    "semantic_hash": "0dba404e9acdc6aa96d8a2876834adc4"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/referencias-visuales/AGENTS.md": {
+    "mtime": 1784223342.049536,
+    "ast_hash": "e4a00e5f863afbf19ff96b3fd1f22b3b",
+    "semantic_hash": "e4a00e5f863afbf19ff96b3fd1f22b3b"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/referencias-visuales/stigria/README.md": {
+    "mtime": 1784258263.8063421,
+    "ast_hash": "282af8073ebd96c94ac5585f0d9baeee",
+    "semantic_hash": "282af8073ebd96c94ac5585f0d9baeee"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/protoversiones/referencias-visuales/mapa-tentativo-estigria.png": {
+    "mtime": 1783974931.3425982,
+    "ast_hash": "bdd39debc06d27f1ac57a52c2e6426c2",
+    "semantic_hash": "bdd39debc06d27f1ac57a52c2e6426c2"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/referencias-visuales/stigria/boceto-invasion-bruma.png": {
+    "mtime": 1784266957.132647,
+    "ast_hash": "84f02faa54198a7a865278000de860c3",
+    "semantic_hash": "84f02faa54198a7a865278000de860c3"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/referencias-visuales/stigria/boceto-orda-podredumbre.png": {
+    "mtime": 1784272565.5120656,
+    "ast_hash": "a2c05fc7bd99cf87073c4068a84ee356",
+    "semantic_hash": "a2c05fc7bd99cf87073c4068a84ee356"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/referencias-visuales/stigria/boceto-puerta-carmesi.png": {
+    "mtime": 1784816516.0123906,
+    "ast_hash": "2a3d880397934534e4c5a606afd4102e",
+    "semantic_hash": "2a3d880397934534e4c5a606afd4102e"
+  },
+  "/home/rsc951004/Proyectos/el_imperio/referencias-visuales/stigria/boceto-stigria.png": {
+    "mtime": 1784504545.6504562,
+    "ast_hash": "d262c174f9cc156267535ed5f348ed91",
+    "semantic_hash": "d262c174f9cc156267535ed5f348ed91"
+  }
+}

@@ -31,7 +31,8 @@ Negra se expresan también en años relativos a ese acontecimiento.
 | **Edad de la Podredumbre** | Unos ciento veinte refugiados astrianos llegan a Unland. Junto con la Gente de la Bruma fundan Khalos y la Kys Tábura. Los esclavos liberados de Astria transforman el litoral de Dürr y forman la Costa del Verano. |
 | **Edad de la Podredumbre** | Artemis descubre Delfos. Los habitantes de Unland construyen los tres arcos colosales de la futura Tríada. |
 | **Año 0 de la Puerta Negra** | La Puerta Negra se abre cuando Rudgar Valgard tiene dieciséis años. Las hordas del Reino Podrido conquistan casi todo el Gherin durante los cinco años siguientes. |
-| **Año 5 de la Puerta Negra** | Astrid desaparece en una fortaleza de Sturm y el hijo que esperaba no llega a nacer. Rudgar, ya de veintiún años, encuentra a Stelian Therin, de catorce años. Stelian hiere al Rey Podrido mediante su fulgor solar. |
+| **Año 5 de la Puerta Negra** | Astrid desaparece en una fortaleza de Sturm. Rudgar, ya de veintiún años, encuentra a Stelian Therin, de catorce años. Stelian hiere al Rey Podrido mediante su fulgor solar. |
+| **Año 5 de la Puerta Negra** | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->El hijo de Astrid y Rudgar sobrevive; la continuidad de esa línea permanece oculta durante la Edad de Oro.<!-- CANON-VELADO: FIN --> |
 | **Año 6 de la Puerta Negra** | La campaña de Rudgar y Stelian obliga al Rey Podrido a retroceder hasta Rauven. Los Portadores abren el Foso de la Calamidad en el Riegel y derrumban el conducto sumergido del Rost. El confinamiento inicial del Rey Podrido cierra la Edad de la Podredumbre. |
 | **Año 16 de la Puerta Negra** | El segundo Stamengherin documentado proclama a Rudgar primer Raik y funda el Raikim. Comienza la **Edad de Plata**. |
 | **Año 19 de la Puerta Negra** | Ante el incumplimiento de Frosthain, Stelian funda Esteria junto al Foso y dirige la limpieza del norte. |
@@ -42,8 +43,9 @@ Negra se expresan también en años relativos a ese acontecimiento.
 | **Año 67 de la Puerta Negra** | Muere Rudgar. Termina la Edad de Plata. |
 | **Año 67 de la Puerta Negra** | Comienza la **Edad de la Tiranía** con la sucesión de Drakar Valgard, segundo Raik. La edad comprende los dieciséis Raiks posteriores a Rudgar, hasta Grimar. |
 | **Reinado de Grimar** | Para entonces, el Raikim ya es una tiranía hereditaria y corrupta. |
-| **Final de la Edad de la Tiranía** | La Rebelión del Amanecer derrota a Grimar Valgard y abre el camino para la fundación del Imperio de Dragma. |
-| **Edad de Oro** | Fundación del Imperio de Dragma. Harald Mormund es elegido primer emperador. |
+| **Final de la Edad de la Tiranía** | La Rebelión del Amanecer derrota a Grimar Valgard. El tercer Stamengherin elige a Harald Mormund como primer emperador y funda Dragma. |
+| **Final de la Edad de la Tiranía** | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluidos los dos descendientes -->La caída de los Valgard es pública y política; también sobrevive una línea procedente de Grimar y Katerina.<!-- CANON-VELADO: FIN --> |
+| **Edad de Oro** | La fundación de Dragma inaugura la Edad de Oro. |
 | **Presente** | El Imperio de Dragma continúa en la Edad de Oro. |
 
 ## Eras de Stigria

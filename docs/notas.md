@@ -2,6 +2,22 @@
 
 ## Revisiones editoriales
 
+### Volcamiento P-01: marco de la Edad de la Tiranía (2026-07-23)
+
+Se completó el volcamiento autorizado de la Edad de la Tiranía con el bloque
+histórico e institucional. Se reescribió su ficha de periodo y se ajustaron la
+cronología, el Stamengherin, Valgard, Dragma y el índice del mundo. Se fijaron
+el régimen de Señoríos del Dominio, la elección fundadora de las doce coronas,
+el sistema electivo anterior a la Concordia y la fundación gradual de
+Eldengaria desde el campamento del tercer Stamengherin.
+
+Se sustituyó la extinción biológica de Valgard por su caída pública y política,
+y la supervivencia de las líneas de Astrid-Rudgar y Grimar-Katerina quedó
+delimitada con marcas de canon velado. La corrección alcanzó las fichas directas
+de Astrid, Rudgar y la Edad de la Podredumbre para evitar referencias
+incompatibles. Las casas, personajes, entidades y territorios que requieren
+fichas propias permanecen para los bloques posteriores del plan.
+
 ### Normalización de Solarys (2026-07-23)
 
 Se establece `Solarys` como la única grafía de la casa y del linaje. La regla

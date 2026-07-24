@@ -47,7 +47,12 @@ En cinco años ocuparon casi todo el Gherin. Los principales refugios que perman
 
 ## Rudgar y Stelian
 
-A los veintiún años, Rudgar respondió a la petición de auxilio enviada desde una fortaleza de Sturm custodiada por vasallos de la Casa Valgard. Allí se refugiaba su esposa **Astrid**, embarazada de un hijo suyo. Cuando llegó, la fortaleza estaba destruida y sus habitantes habían aceptado al Rey Podrido. Astrid había desaparecido y el hijo que esperaba nunca llegó a nacer.
+A los veintiún años, Rudgar respondió a la petición de auxilio enviada desde una fortaleza de Sturm custodiada por vasallos de la Casa Valgard. Allí se refugiaba su esposa **Astrid**, embarazada de un hijo suyo. Cuando llegó, la fortaleza estaba destruida y sus habitantes habían aceptado al Rey Podrido. Astrid había desaparecido.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->
+El hijo de Astrid y Rudgar sobrevivió. La continuidad de su línea queda velada
+durante la Edad de Oro.
+<!-- CANON-VELADO: FIN -->
 
 Entre los escombros, Rudgar encontró a un joven sangheskio esclavizado de catorce
 años: **Stelian Therin**. Lo llevó consigo hacia Eldengard, pero durante su

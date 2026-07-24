@@ -37,7 +37,15 @@ puso fin a la Edad de Plata.
 
 Drakar Valgard sucedió a Rudgar como segundo Raik. Fue el primero de los
 dieciséis Raiks posteriores a Rudgar, incluido Grimar Valgard. La caída final
-del Raikim pertenece a la Edad de la Tiranía.
+del Raikim pertenece a la Edad de la Tiranía. Tras la derrota de Grimar, la
+Casa Valgard dejó de existir como poder público y como fuente reconocida de
+reclamaciones sobre el Gherin.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluidos los dos descendientes -->
+La sangre Valgard sobrevivió por dos líneas ocultas: una procedente del hijo de
+Astrid y Rudgar, y otra procedente de Grimar y Katerina. Ninguno de sus
+descendientes conoce esa ascendencia.
+<!-- CANON-VELADO: FIN -->
 
 ## Referencias
 
