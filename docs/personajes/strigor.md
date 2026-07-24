@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Grimmen incorpóreo de Rauven.
+Grimm incorpóreo de Rauven.
 
 ## Capacidades
 
@@ -27,4 +27,4 @@ dejaron de existir como individuos. De esa unión nació el Rey Podrido.
 
 - `docs/personajes/radu.md`
 - `docs/personajes/rey-podrido.md`
-- `docs/entidades/grimmen.md`
+- `docs/entidades/grimm.md`

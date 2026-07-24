@@ -9,7 +9,7 @@ inicialmente en Rauven; un segundo sellado fue intentado después en Roshdom.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->
 El Rey Podrido nació de la unión entre **Radu**, un Portador Sombrío sangheskio de
-unos diez años, y **Strigor**, un Grimmen incorpóreo de Rauven. Radu llamó a
+unos diez años, y **Strigor**, un Grimm incorpóreo de Rauven. Radu llamó a
 Strigor pidiendo ayuda después del ataque de la Banda de la Piedra Mohosa contra
 su familia. Ambos se fusionaron por una causa desconocida y dejaron de existir
 como individuos. El ser resultante fue una identidad nueva.
@@ -23,7 +23,7 @@ directamente y necesita encontrarse físicamente cerca de la persona. El estado
 de la voluntad o del alma después de esa entrega no está establecido.
 
 También heredó la capacidad de Strigor para utilizar cadáveres. No puede poseer
-a los Grimmen, aunque sí puede subyugarlos.
+a los Grimm, aunque sí puede subyugarlos.
 
 Su presencia pudre el territorio.
 
@@ -32,7 +32,7 @@ Su poder se extiende bajo la superficie como una red invisible y le permite
 percibir transformaciones ocurridas lejos de su cuerpo.
 <!-- CANON-VELADO: FIN -->
 
-El Rey Podrido, los Grimmen y sus poseídos están ligados a Stigria y no pueden
+El Rey Podrido, los Grimm y sus poseídos están ligados a Stigria y no pueden
 abandonar el continente. Se desconoce qué ocurriría si intentaran cruzar ese
 límite.
 
@@ -43,8 +43,8 @@ rendición voluntaria de sus habitantes.
 ## Gobierno de la Podredumbre
 
 El Rey Podrido busca convertir a los habitantes de Stigria en súbditos, no
-exterminarlos. Utiliza Grimmen, poseídos e infiltrados para cercar, aterrorizar
-y quebrar a quienes todavía rechazan su dominio. Los Grimmen atacan directamente
+exterminarlos. Utiliza Grimm, poseídos e infiltrados para cercar, aterrorizar
+y quebrar a quienes todavía rechazan su dominio. Los Grimm atacan directamente
 cuando lo considera necesario.
 
 Para quienes aceptan, el Reino Podrido promete una existencia sin hambre, frío
@@ -54,12 +54,12 @@ ni guerra, a cambio de entregar la voluntad.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto el Rey Podrido, Katerina y la Grien Tábura -->
 Katerina es una Emisaria de la Ruina vinculada al Rey Podrido desde la niñez.
-Conserva apariencia humana y actúa como agente activo. Muchos de los Grimmen
+Conserva apariencia humana y actúa como agente activo. Muchos de los Grimm
 del Norte nacieron de la unión entre ambos; Lamya nació del vientre de
 Katerina.
 
 La Grien Tábura reúne en Sindria a seguidores y servidores del Rey Podrido. Sus
-integrantes conocen la naturaleza de Katerina y el origen de esos Grimmen.
+integrantes conocen la naturaleza de Katerina y el origen de esos Grimm.
 <!-- CANON-VELADO: FIN -->
 
 ## Apariencia y envejecimiento
@@ -77,7 +77,7 @@ El Rey Podrido envejece con una lentitud extraordinaria.
 ## Historia
 
 Tomó la Fortaleza Negra de Roshdom, en Rauven, reunió seres vivos poseídos y
-Grimmen subyugados, atravesó Grimheim y destruyó Sanghesk Occidental.
+Grimm subyugados, atravesó Grimheim y destruyó Sanghesk Occidental.
 
 Después cerró Velesk y permaneció detrás de las Murallas Carmesí durante
 generaciones. Cuando Rudgar tenía dieciséis años, abrió la Puerta Negra e inició
@@ -89,13 +89,13 @@ miles de voces humanas. La causa de este fenómeno no está establecida.
 
 En el año **-224**, Rudgar, Stelian y sus aliados
 lo hirieron y obligaron a retroceder hasta Rauven. La apertura del Foso de la
-Calamidad y el derrumbe del conducto del Rost aislaron el Grimm del Gherin.
+Calamidad y el derrumbe del conducto del Rost aislaron el Grimmen del Gherin.
 
 En el año **-193**, Stelian y los Guardianes de Esteria entraron en Rauven y alcanzaron
 la Jaula Negra de Roshdom. Intentaron sellar la estructura con minerales de
 Stömur, pero una horda atacó la expedición. Se desconoce si el segundo sellado
 confinó definitivamente al Rey Podrido. Desde entonces su presencia no volvió a
-percibirse cerca del Paso del Oriente y los Grimmen disminuyeron en número.
+percibirse cerca del Paso del Oriente y los Grimm disminuyeron en número.
 
 ## Referencias
 

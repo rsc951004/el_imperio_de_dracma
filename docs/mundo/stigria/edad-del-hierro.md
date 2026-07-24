@@ -13,9 +13,9 @@ dominio de la forja del hierro superaba al de los Gheran, que todavía dependía
 principalmente del bronce. También contaban con Portadores, llamados Maegis en
 su lengua.
 
-Los recién llegados mataron a Lauffen, una Grimmen conocida por los Gheran como
+Los recién llegados mataron a Lauffen, una Grimm conocida por los Gheran como
 la Doncella Errante, y levantaron en Rauven la fortaleza de Roshdom. No
-consiguieron someter Grimheim, donde los Grimmen impidieron un dominio estable.
+consiguieron someter Grimheim, donde los Grimm impidieron un dominio estable.
 
 ## Sanghesk
 
@@ -32,7 +32,7 @@ el año **-540**.
 
 La guerra entre Sanghesk y los Gheran todavía no había concluido cuando nació
 el Rey Podrido, en el año **-435**. La nueva entidad tomó Roshdom, sometió
-Grimheim y cruzó el Riegel con un ejército de criaturas vivas y Grimmen
+Grimheim y cruzó el Riegel con un ejército de criaturas vivas y Grimm
 subyugados.
 
 El Rey Podrido destruyó Sanghesk Occidental en el año **-420**. La caída del

@@ -39,8 +39,8 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Uther Boca de Sal | Caudillo antiguo | Primer gobernante conocido por utilizar el título de Raik. | [Ver ficha](personajes/uther-boca-de-sal.md) |
 | Stelian Therin | Personaje histórico | Portador del Sol, fundador de Esteria y Guardián del Paso del Oriente. Desaparecido en Rauven. | [Ver ficha](personajes/stelian-therin.md) |
 | Radu | Personaje histórico | Niño sangheskio de Rauven y Portador Sombrío. | [Ver ficha](personajes/radu.md) |
-| Strigor | Grimmen | Ser incorpóreo de Rauven capaz de ocupar cadáveres recientes. | [Ver ficha](personajes/strigor.md) |
-| Lauffen | Grimmen | Doncella Errante muerta por los primeros Sangheskios llegados a Stigria. | [Ver ficha](personajes/lauffen.md) |
+| Strigor | Grimm | Ser incorpóreo de Rauven capaz de ocupar cadáveres recientes. | [Ver ficha](personajes/strigor.md) |
+| Lauffen | Grimm | Doncella Errante muerta por los primeros Sangheskios llegados a Stigria. | [Ver ficha](personajes/lauffen.md) |
 | Tanyaro Mano de Serpiente | Personaje legendario | Contenido reservado a su ficha de canon velado. | [Ver ficha](personajes/tanyaro-mano-de-serpiente.md) |
 | Alastor Ormur | Personaje histórico | Miembro de la Casa Ormur pendiente de reubicación histórica. | [Ver ficha](personajes/alastor-ormur.md) |
 | Rey Podrido | Entidad soberana | Gobernante del Reino Podrido. Confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |
@@ -48,7 +48,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Lumino Therin | Personaje histórico | Último señor de la Casa Therin en Esteria. Despojado durante el Gran Concilio del Hielo. | [Ver ficha](personajes/lumino-therin.md) |
 | Stancu Radanescu | Personaje histórico | Señor de Sindgard durante el Gran Concilio del Hielo. | [Ver ficha](personajes/stancu-radanescu.md) |
 | Andrey Radanescu | Personaje histórico | Heredero de Sindgard y aprendiz de la Guardia Amarilla. | [Ver ficha](personajes/andrey-radanescu.md) |
-| Vedrik Frosthain | Personaje histórico | Último señor de la Casa Frosthain. Condenado al Grimm. | [Ver ficha](personajes/vedrik-frosthain.md) |
+| Vedrik Frosthain | Personaje histórico | Último señor de la Casa Frosthain. Condenado al Grimmen. | [Ver ficha](personajes/vedrik-frosthain.md) |
 | Eirik Valgard | Personaje histórico | Cuarto Raik y convocante del Gran Concilio del Hielo. | [Ver ficha](personajes/eirik-valgard.md) |
 | Sigmar Valgard | Personaje histórico | Sexto Raik y autor del decreto que dejó Esteria sin señor. | [Ver ficha](personajes/sigmar-valgard.md) |
 | Katerina | Noble de Weissen | <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto el Rey Podrido, Katerina y la Grien Tábura -->Emisaria de la Ruina que opera desde las sombras en la Edad de Oro.<!-- CANON-VELADO: FIN --> | [Ver ficha](personajes/katerina.md) |

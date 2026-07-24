@@ -10,7 +10,7 @@ Al final de la Edad de la Podredumbre, Rudgar Valgard, Stelian Therin y sus alia
 
 Los Portadores que acompañaban la campaña abrieron una enorme grieta seca dentro del Riegel. El corte destruyó la continuidad terrestre del paso y aisló Rauven del Gherin.
 
-En la misma operación derrumbaron por completo el conducto sumergido por el que el Rost atravesaba Stömur. El lago dejó de alimentar el río que separaba Rauven de Grimheim; el cauce se secó y ambos territorios quedaron unidos. Las dos rutas entre el Grimm y el Gherin quedaron cerradas.
+En la misma operación derrumbaron por completo el conducto sumergido por el que el Rost atravesaba Stömur. El lago dejó de alimentar el río que separaba Rauven de Grimheim; el cauce se secó y ambos territorios quedaron unidos. Las dos rutas entre el Grimmen y el Gherin quedaron cerradas.
 
 ## Esteria y el Paso del Oriente
 
@@ -21,7 +21,7 @@ Riegel.
 
 Esteria no forma parte de los doce Dominios. Es la Gran Barrera del Gherin ante la Ruina y ningún señor ni Raik puede reclamarla o atacarla como heredad propia.
 
-El Foso dificulta el cruce de Grimmen y poseídos, pero no constituye una
+El Foso dificulta el cruce de Grimm y poseídos, pero no constituye una
 barrera infalible. El modo en que los Amigos del Oriente consiguieron
 atravesarlo permanece sin resolver.
 

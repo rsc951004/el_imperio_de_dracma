@@ -6,7 +6,7 @@ Continente conocido por los astrianos como la tierra del invierno.
 
 ## Geografía
 
-Stigria está dividida en dos grandes mitades: **el Gherin**, al oeste, y **el Grimm**, al este. Entre ambas se alza **Stömur**, continua en el centro y el sur y fracturada en el norte.
+Stigria está dividida en dos grandes mitades: **el Gherin**, al oeste, y **el Grimmen**, al este. Entre ambas se alza **Stömur**, continua en el centro y el sur y fracturada en el norte.
 
 La reconstrucción geográfica antigua registra regiones físicas, no reinos ni fronteras políticas. Los Gheran reconocían nueve regiones en el Gherin: Flemmen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim.
 
@@ -51,7 +51,7 @@ Durante la Edad del Bronce, los Gheran levantaron Eldengard en Eldenheim. La for
 ## Referencias
 
 - `docs/mundo/stigria/gherin.md`
-- `docs/mundo/stigria/grimm.md`
+- `docs/mundo/stigria/grimmen.md`
 - `docs/mundo/stigria/stomur.md`
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`

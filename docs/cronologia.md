@@ -17,8 +17,8 @@ números positivos:
 
 | Fecha | Evento |
 |-------|--------|
-| **Año -2500** | **Gran Devoración.** Los Grimmen persiguen a los seres humanos durante siglos. |
-| **Año -2000** | Según la tradición, Ghera y Smürr expulsan a la mayoría de los Grimmen hacia el oriente y forman Stömur. |
+| **Año -2500** | **Gran Devoración.** Los Grimm persiguen a los seres humanos durante siglos. |
+| **Año -2000** | Según la tradición, Ghera y Smürr expulsan a la mayoría de los Grimm hacia el oriente y forman Stömur. |
 | **Año -1950** | Los supervivientes forman el pueblo Gheran. Comienza la **Edad del Bronce**. |
 | **Año -1500** | **Surgimiento.** La fractura septentrional de Stömur forma el Riegel y se abre el conducto subterráneo del Rost. |
 | **Año -900** | Los Sangheskios llegan por mar a Rauven. Comienza la **Edad del Hierro**. |

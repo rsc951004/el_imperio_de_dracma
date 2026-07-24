@@ -14,7 +14,7 @@ es una poseída: conserva gran parte de su individualidad, apariencia humana y
 capacidad de actuar por voluntad propia. Su degradación física y espiritual
 quedó detenida y continúa operando desde las sombras durante la Edad de Oro.
 
-Katerina engendra Grimmen. Muchos nacieron de su unión con el Rey Podrido, y
+Katerina engendra Grimm. Muchos nacieron de su unión con el Rey Podrido, y
 Lamya nació de su vientre. Katerina la llevó personalmente a las Costas del
 Verano para desestabilizar el Raikim.
 <!-- CANON-VELADO: FIN -->
@@ -38,7 +38,7 @@ el destino del objeto permanecen reservados.
 - **Rey Podrido:** soberano al que sirve.
 - **Zorven Drazar:** consorte que desconocía su naturaleza.
 - **Grimar Valgard:** padre de una de sus líneas de descendencia.
-- **Lamya:** Grimmen nacido de su vientre.
+- **Lamya:** Grimm nacido de su vientre.
 - **Grien Tábura:** sociedad clandestina que conoce su naturaleza.
 
 ## Referencias

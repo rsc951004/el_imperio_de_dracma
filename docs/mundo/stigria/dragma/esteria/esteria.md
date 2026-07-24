@@ -51,7 +51,7 @@ El Gran Faro fue construido después de la Edad de Plata y emite luz amarilla.
 La Guardia Amarilla mantiene sus salas, sus depósitos de materiales y la
 barrera que protege el Paso.
 
-El Foso dificulta el cruce de Grimmen y poseídos, pero no es una barrera
+El Foso dificulta el cruce de Grimm y poseídos, pero no es una barrera
 infalible. Durante la Rebelión del Amanecer, Grimar pretendió obligar a Esteria
 a «abrirse». No se ha establecido si buscaba retirar la vigilancia y apagar el
 Faro o cerrar el Foso y reconectar ambos territorios. El comandante de la

@@ -72,7 +72,7 @@ primer rey de Zephyrya. La Casa Falkvar permaneció en el Verano como casa noble
 menor, sin conservar el señorío ni reclamar la corona.
 
 Los Portadores esclavizados recuperaron la libertad con la caída del régimen.
-Quienes continuaron cazando Grimmen lo hicieron voluntariamente; otros
+Quienes continuaron cazando Grimm lo hicieron voluntariamente; otros
 permanecieron en el Norte y muchos formaron la Möes Tábura.
 
 Zephyrya alberga a la **Casa Solarys** como casa noble sin corona. En sus

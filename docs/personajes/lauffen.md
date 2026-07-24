@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Grimmen de Rauven muerta por los primeros Sangheskios llegados a Stigria.
+Grimm de Rauven muerta por los primeros Sangheskios llegados a Stigria.
 
 ## Forma y conducta
 
@@ -12,5 +12,5 @@ Los Gheran la conocían como **la Doncella Errante**.
 
 ## Referencias
 
-- `docs/entidades/grimmen.md`
+- `docs/entidades/grimm.md`
 - `docs/mundo/stigria/edad-del-hierro.md`

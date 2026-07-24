@@ -8,7 +8,7 @@ Todo el lore confirmado sobre Tanyaro Mano de Serpiente durante este hilo se reg
 
 ## Identidad
 
-Figura legendaria. Padre y origen de los Grimmen. Portador Siniestro.
+Figura legendaria. Padre y origen de los Grimm. Portador Siniestro.
 
 ## Naturaleza de los portadores
 
@@ -26,13 +26,13 @@ Nació en un lugar desconocido, fuera de Astria y Erebia.
 
 Tanyaro y Genjari huían de Kaimaro, padre de ambos. Tanyaro llegó a Stigria montado en una gran bestia acuática, acompañado por su hermana. Kaimaro los persiguió y también entró en Stigria.
 
-Para defenderse de su padre, Tanyaro llevó su poder al extremo y contaminó con él la tierra de Stigria. Como consecuencia de esa contaminación y de los miedos y terrores de los propios habitantes del continente, nacieron involuntariamente los Grimmen.
+Para defenderse de su padre, Tanyaro llevó su poder al extremo y contaminó con él la tierra de Stigria. Como consecuencia de esa contaminación y de los miedos y terrores de los propios habitantes del continente, nacieron involuntariamente los Grimm.
 
 ## Muerte y consecuencias
 
 Kaimaro asesinó a Tanyaro. Genjari mató después a Kaimaro.
 
-Genjari permaneció durante décadas en el Gherin, tratando de eliminar a los Grimmen. Finalmente abandonó la tierra contaminada por el poder de su hermano y dejó Stigria. Se desconoce qué fue de ella y cómo erradicar a los Grimmen.
+Genjari permaneció durante décadas en el Gherin, tratando de eliminar a los Grimm. Finalmente abandonó la tierra contaminada por el poder de su hermano y dejó Stigria. Se desconoce qué fue de ella y cómo erradicar a los Grimm.
 
 ## Relaciones
 

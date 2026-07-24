@@ -19,7 +19,7 @@ Podrido al Gherin; prometieron que permanecería solo en el Gran Valle.
 
 El alcance real de esa promesa y los demás términos del pacto no están documentados.
 
-Durante la Guerra de Unland, algunos Emisarios dirigieron Grimmen de manera
+Durante la Guerra de Unland, algunos Emisarios dirigieron Grimm de manera
 consciente. El temor que mostraron ante el Acero del Alba permitió reconocerlos.
 
 ## Referencias

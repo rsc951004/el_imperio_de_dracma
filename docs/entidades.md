@@ -37,10 +37,10 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Portadores | Condición humana | Humanos que heredan un Blesk natural: puente unidireccional a un Init en Irij. | [Ver ficha](entidades/portadores.md) |
 | Invocadores | Condición humana | Humanos que roban y alteran un Blesk ajeno para conectarse a múltiples Inits. | [Ver ficha](entidades/invocadores.md) |
 | Rey Podrido | Entidad soberana | Gobernante del Reino Podrido, confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |
-| Ghera | Deidad (tradición gheran) | Diosa que habría expulsado a los Grimmen y formado Stömur junto con Smürr. | [Ver ficha](entidades/ghera.md) |
+| Ghera | Deidad (tradición gheran) | Diosa que habría expulsado a los Grimm y formado Stömur junto con Smürr. | [Ver ficha](entidades/ghera.md) |
 | Smürr | Criatura mítica | Serpiente Plateada y montura de Ghera en la tradición gheran. | [Ver ficha](entidades/smurr.md) |
-| Grimmen | Criaturas terrestres | Seres de formas y capacidades diversas surgidos de la tierra de Stigria. | [Ver ficha](entidades/grimmen.md) |
+| Grimm | Criaturas terrestres | Seres de formas y capacidades diversas surgidos de la tierra de Stigria. | [Ver ficha](entidades/grimm.md) |
 | Thalmos | Deidad o figura religiosa | Dios Negro adorado por los Peregrinos Negros de Astria. Naturaleza desconocida para el mundo actual. | [Ver ficha](entidades/thalmos.md) |
-| Lamya | Grimmen individual | Criatura de proporciones extraordinarias cuya irrupción desencadenó el primer alzamiento armado del Amanecer. | [Ver ficha](entidades/lamya.md) |
+| Lamya | Grimm individual | Criatura de proporciones extraordinarias cuya irrupción desencadenó el primer alzamiento armado del Amanecer. | [Ver ficha](entidades/lamya.md) |
 | Jöten | Clase de criaturas | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->Clase confirmada a la que pertenecen Vitdrakiris y Smürr.<!-- CANON-VELADO: FIN --> | [Ver ficha](entidades/joten.md) |
 | Vitdrakiris | Protector mítico de la Tormenta | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->Jöten encerrado bajo el archipiélago de Sturmgard.<!-- CANON-VELADO: FIN --> | [Ver ficha](entidades/vitdrakiris.md) |

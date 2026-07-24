@@ -28,7 +28,7 @@ brumenses les impidieron volver.
 
 ## Edad de la Podredumbre y Khalos
 
-Circuló el rumor de que Unland permaneció casi libre de Grimmen y poseídos
+Circuló el rumor de que Unland permaneció casi libre de Grimm y poseídos
 durante la Edad de la Podredumbre. La Gente de la Bruma conocía formas de
 combatir esas criaturas desde Grimheim, pero no está documentado cómo mantuvo
 alejado al propio Rey Podrido.
@@ -49,7 +49,7 @@ Bruma.
 
 En el año **-204**, diez años después del segundo Stamengherin documentado, el Raikim emprendió la
 Campaña de Recuperación de Unland. Los brumenses atacaron primero por la noche,
-acompañados por Grimmen dirigidos de forma consciente. La batalla terminó esa
+acompañados por Grimm dirigidos de forma consciente. La batalla terminó esa
 misma noche con la derrota de Unland.
 
 Los tres jarls fueron decapitados. El Raikim creó los Dominios de Kystgard,

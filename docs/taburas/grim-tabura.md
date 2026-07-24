@@ -6,7 +6,7 @@ Tábura independiente de Khalos.
 
 ## Función
 
-La Grim Tábura está vinculada a la caza de Grimmen. Durante el Raikim, los
+La Grim Tábura está vinculada a la caza de Grimm. Durante el Raikim, los
 Portadores esclavizados del Verano fueron destinados a esas fuerzas de caza.
 
 Con la caída del régimen recuperaron su libertad. Quienes decidieron continuar

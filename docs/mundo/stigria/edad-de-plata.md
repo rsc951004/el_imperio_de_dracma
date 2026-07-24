@@ -44,7 +44,7 @@ de Dürr, celebrado entre Rudgar y Aurethyron, reguló de forma pública el
 asentamiento y el comercio de los Hijos del Sol en Dürr.
 
 La guerra de Unland comenzó en el año **-204**, cuando los brumenses atacaron primero
-con Grimmen bajo su control. El conflicto reveló a los **Emisarios de la Ruina**:
+con Grimm bajo su control. El conflicto reveló a los **Emisarios de la Ruina**:
 personas entregadas voluntariamente al Rey Podrido que podían ocultarse entre la
 población. Stelian regresó desde Esteria y combatió junto a Rudgar.
 
@@ -57,7 +57,7 @@ la muerte.
 
 Los Hijos del Sol compartieron con los aliados de Stelian materiales y saberes
 de Portadores. De esa colaboración nació el **Acero del Alba**, aleación de
-metales y minerales de Stömur cuyo contacto causa dolor intenso a Grimmen y
+metales y minerales de Stömur cuyo contacto causa dolor intenso a Grimm y
 poseídos.
 
 Rudgar recibió de Aurethyron el artefacto místico **Rugido Mordaz** y entregó a
@@ -78,7 +78,7 @@ solo unos pocos Guardianes regresaron y Stelian no volvió.
 El confinamiento de Rauven ya existía desde la campaña de liberación. El intento
 de Roshdom fue un segundo sellado. Se desconoce si logró confinar definitivamente
 al Rey Podrido, pero desde entonces su presencia dejó de percibirse cerca del
-Paso del Oriente y los Grimmen disminuyeron en número.
+Paso del Oriente y los Grimm disminuyeron en número.
 
 ## Los doce Dominios
 

@@ -20,7 +20,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Portadores Sombríos** | Definir su naturaleza, herencia, capacidades y relación con otros Portadores. |
 | **Nombres y voluntad** | Determinar el alcance de los efectos observados en Strigor y el Rey Podrido. |
 | **Entrega al Rey Podrido** | Resolver las consecuencias metafísicas de la posesión sobre la voluntad o el alma. |
-| **Límite de Stigria** | Determinar qué ocurre si el Rey Podrido, un Grimmen o un poseído intenta abandonar el continente. |
+| **Límite de Stigria** | Determinar qué ocurre si el Rey Podrido, un Grimm o un poseído intenta abandonar el continente. |
 | **Voces del Rey Podrido** | Determinar la naturaleza de las miles de voces perceptibles en su grito. |
 | **Astrid** | Resolver el destino de Astrid y <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->el desarrollo posterior de la línea superviviente de su hijo con Rudgar.<!-- CANON-VELADO: FIN --> |
 | **Fortaleza de Sturm** | Fijar el nombre de la fortaleza donde desapareció Astrid y Rudgar encontró a Stelian. |

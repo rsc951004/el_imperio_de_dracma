@@ -28,7 +28,7 @@ Bruma, en cambio, permaneció sometida a una penitencia perpetua en Unland, con
 prohibición de abandonar el territorio y pena de muerte por el contacto con el
 Verano.
 
-En Weissen y Dresk, la amenaza de los Grimmen mantuvo cerradas las Puertas Rojas
+En Weissen y Dresk, la amenaza de los Grimm mantuvo cerradas las Puertas Rojas
 del Paso de Dresk. El Norte comprendía ambos territorios: Weissen carecía de
 salida terrestre directa al sur porque Dorn lo separaba del resto del Gherin, y
 el paso entre Dresk y el sur quedaba bloqueado entre el Espolón de Dunkel y el
@@ -67,7 +67,7 @@ armado de Lamya en el año **-10**.
 ## Rebelión del Amanecer
 
 La aparición de Lamya en las Costas del Verano, en el año **-10**, desencadenó el
-primer alzamiento armado contra el Raikim. La criatura fue vista por el mundo como un Grimmen
+primer alzamiento armado contra el Raikim. La criatura fue vista por el mundo como un Grimm
 gestado en Zephyrya.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->

@@ -2,7 +2,7 @@
 
 ## Naturaleza
 
-Grimmen individual de proporciones extraordinarias. No fue el primer Grimmen
+Grimm individual de proporciones extraordinarias. No fue el primer Grimm
 presente al sur de las Puertas Rojas, pero sí el primero en siglos que atacó
 abiertamente un lugar y el primero de una magnitud semejante que irrumpió en el
 territorio.

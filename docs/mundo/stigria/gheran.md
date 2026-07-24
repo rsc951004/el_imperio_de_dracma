@@ -10,7 +10,7 @@ Los Gheran surgieron durante la Edad del Bronce de la unión progresiva de los c
 
 ## Organización y cultura
 
-Se organizaban en familias y clanes. Sus guerras contra los Grimmen dieron forma a una cultura guerrera, pero sus nueve regiones geográficas no constituían divisiones políticas profundas.
+Se organizaban en familias y clanes. Sus guerras contra los Grimm dieron forma a una cultura guerrera, pero sus nueve regiones geográficas no constituían divisiones políticas profundas.
 
 Durante la mayor parte de la Edad del Hierro no existió una autoridad común. El Stamengherin reunía a los clanes cuando una amenaza o una decisión afectaba al conjunto del Gherin.
 

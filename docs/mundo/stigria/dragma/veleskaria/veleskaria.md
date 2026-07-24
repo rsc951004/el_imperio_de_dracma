@@ -32,7 +32,7 @@ Las dos Puertas Rojas del Paso de Dresk se apoyan en esas formaciones y bloquean
 físicamente el tránsito.
 
 Durante el Raikim permanecían normalmente cerradas y solo se abrían con
-autorización del Raik, por el temor a un avance de los Grimmen hacia el sur.
+autorización del Raik, por el temor a un avance de los Grimm hacia el sur.
 La custodia había pertenecido antes a los sangheskianos del Dominio Carmesí.
 Nunca fueron destruidas: durante la Rebelión cambió en ocasiones el bando que
 las custodiaba. En la Edad de Oro permanecen abiertas.

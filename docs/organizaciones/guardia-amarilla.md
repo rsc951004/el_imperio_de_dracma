@@ -23,7 +23,7 @@ La Guardia mantiene la ley del Paso, administra Esteria, custodia el Gran Faro
 y vigila el Foso de la Calamidad. No responde a Sindria ni reconoce su
 reclamación territorial sobre la ciudad.
 
-Antes del decreto de Sigmar, la Guardia entregó Grimmen al señor deficiente de
+Antes del decreto de Sigmar, la Guardia entregó Grimm al señor deficiente de
 Esteria una generación después del Gran Concilio del Hielo. Desde entonces,
 ningún señor puede ordenarle abrir el Paso y ninguna autoridad exterior puede
 disolverla sin el consentimiento de sus capitanes.

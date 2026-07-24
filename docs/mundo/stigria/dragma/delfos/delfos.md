@@ -4,10 +4,10 @@
 Protectorado del Imperio de Dragma. Isla. Conocida como **Delfos la Solitaria**.
 
 ## Ubicación
-Isla en el mar oriental, al este del Grimm. Alejada lo suficiente de la Costa Negra para ser segura, lo bastante próxima para que sus habitantes crucen a cazar al continente maldito.
+Isla en el mar oriental, al este del Grimmen. Alejada lo suficiente de la Costa Negra para ser segura, lo bastante próxima para que sus habitantes crucen a cazar al continente maldito.
 
 ## Geografía y clima
-Isla tropical. Selvas densas, acantilados de roca oscura, grutas minerales, playas de arena negra. El clima cálido y húmedo contrasta con las tierras frías del norte de Stigria y con la aridez muerta del Grimm.
+Isla tropical. Selvas densas, acantilados de roca oscura, grutas minerales, playas de arena negra. El clima cálido y húmedo contrasta con las tierras frías del norte de Stigria y con la aridez muerta del Grimmen.
 
 ## Historia
 
@@ -46,8 +46,8 @@ Delfos es un refugio. A lo largo de los siglos, la isla ha recibido a quienes hu
 ### Minerales extraños
 Las grutas de Delfos albergan **tierras extrañas**, minerales con propiedades ofensivas contra espectros, poseídos y criaturas sometidas por el Rey Podrido. A diferencia del **Verilium** de las montañas de Stömur, los minerales de Delfos potencian armas, pociones y ungüentos. Su naturaleza exacta y su procesamiento son secretos celosamente guardados por los Artema.
 
-### Caza en el Grimm
-Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **el Grimm** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stömur.
+### Caza en el Grimmen
+Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **el Grimmen** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stömur.
 
 ### Relación con Esteria
 La relación histórica entre Delfos y el Gran Faro de Esteria permanece pendiente. Los materiales y el funcionamiento del Faro no están documentados.

@@ -17,7 +17,7 @@ El Rey Podrido permaneció detrás de las antiguas Murallas Carmesí. Su inactiv
 El encierro era voluntario. Bajo la superficie de Stigria, su poder se extendía como la parte invisible de un hongo y le permitía percibir los cambios ocurridos en las tierras que consideraba suyas. Durante décadas se preparó para gobernar y aprendió a quebrar la resistencia de quienes todavía rechazaban su dominio. La transformación de Dürr y otros cambios del continente adelantaron una invasión que ya consideraba inevitable.
 <!-- CANON-VELADO: FIN -->
 
-Fuera de las murallas, Stigria enfermó lentamente. Los días se acortaron, la hierba dejó de crecer incluso en Eldenheim y las aguas comenzaron a estancarse. Aumentaron los avistamientos de Grimmen y aparecieron poseídos capaces de mezclarse entre los Gheran.
+Fuera de las murallas, Stigria enfermó lentamente. Los días se acortaron, la hierba dejó de crecer incluso en Eldenheim y las aguas comenzaron a estancarse. Aumentaron los avistamientos de Grimm y aparecieron poseídos capaces de mezclarse entre los Gheran.
 
 ## La Gente de la Bruma
 
@@ -43,7 +43,7 @@ Los liberados se asentaron en Dürr. Sus Portadores emplearon sus facultades par
 Cinco generaciones separaron a Val el Terrible de **Odalric Valgard**. Para cuando Odalric alcanzó la edad adulta, la oscuridad había terminado de cubrir Velesk, convertida en la **Puerta Negra del Reino Podrido**. Odalric fue abuelo de Rudgar; su hijo **Baldur Valgard** fue el padre del futuro Raik.
 
 En el año **-230**, cuando **Rudgar Valgard** tenía dieciséis años, la Puerta
-Negra se abrió. Las hordas de Grimmen y poseídos entraron en Flemmen y Eisen.
+Negra se abrió. Las hordas de Grimm y poseídos entraron en Flemmen y Eisen.
 
 En cinco años ocuparon casi todo el Gherin. Los principales refugios que
 permanecieron en Stigria fueron Khalos y Eldengard. El confinamiento inicial
@@ -92,7 +92,7 @@ posteriormente llamada **Foso de la Calamidad**. También derrumbó por completo
 el conducto sumergido del Rost bajo Stömur.
 
 El Rost dejó de alimentar el río que separaba Rauven de Grimheim. El cauce se
-secó y ambos territorios quedaron unidos, mientras el Grimm en su conjunto
+secó y ambos territorios quedaron unidos, mientras el Grimmen en su conjunto
 quedó aislado del Gherin.
 
 El confinamiento del Rey Podrido en Rauven, en el año **-224**, puso fin a la

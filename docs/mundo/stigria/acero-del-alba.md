@@ -12,7 +12,7 @@ para enfrentar a la Podredumbre. De esa alianza surgió el Acero del Alba.
 
 ## Efecto
 
-El contacto con el Acero del Alba provoca dolor intenso en Grimmen y poseídos.
+El contacto con el Acero del Alba provoca dolor intenso en Grimm y poseídos.
 Las armas hechas con esta aleación permitieron a los Sangre de Hierro combatirlos
 y destruirlos de forma definitiva.
 

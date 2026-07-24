@@ -14,7 +14,7 @@ Jamás le dijo a nadie lo que realmente sentía por su hermana menor, Ilena. Des
 Una noche de verano, desde su balcón, vio a Ilena en el balcón contiguo abrazada a un joven desnudo, sonriendo. Degolló a ambos. Cuando Vilem, de diez años, entró en la habitación alertado por los gritos, Mijail se abalanzó sobre él llamándolo traidor. Le clavó la daga en el ligamento y le hundió las manos en los ojos. Uno estalló. Los guardias los separaron.
 
 Fue condenado a muerte públicamente. Pero en secreto, su padre Godric lo exilió a
-la isla de Delfos, frente al Grimm, en el año **+80**. Los Artema ya gobernaban
+la isla de Delfos, frente al Grimmen, en el año **+80**. Los Artema ya gobernaban
 la isla; Mijail desposó a una hija de la casa y su sangre Mormund se fusionó con
 el linaje isleño. Sus descendientes —que son también descendientes de Artemis—
 han gobernado Delfos desde entonces. El origen Mormund de los Artema es un

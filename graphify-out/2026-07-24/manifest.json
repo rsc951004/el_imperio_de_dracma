@@ -475,8 +475,8 @@
     "semantic_hash": "a81f47da9438acafdb708fb60e373fa2"
   },
   "docs/mundo/stigria/dragma/sindria/sindria.md": {
-    "mtime": 1784901463.5075495,
-    "ast_hash": "ed1dfb74ee1d478d0c56eab40df78339",
+    "mtime": 1784910152.435747,
+    "ast_hash": "de2bf8f5a61ae8caa43abdd979afca95",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/stamengherin.md": {
@@ -500,8 +500,8 @@
     "semantic_hash": ""
   },
   "docs/mundo/stigria/dragma/zephyrya/zephyrya.md": {
-    "mtime": 1784901497.09555,
-    "ast_hash": "111dd55d252dd22c82a3aa90bb39c719",
+    "mtime": 1784910020.3237445,
+    "ast_hash": "f60fec667e83e393c8268e0ed2961b3e",
     "semantic_hash": ""
   },
   "docs/mundo/stigria/edad-de-la-podredumbre.md": {
@@ -640,8 +640,8 @@
     "semantic_hash": ""
   },
   "docs/notas.md": {
-    "mtime": 1784907544.387688,
-    "ast_hash": "903e85813f1c8a8e12c8db0a3cb63b86",
+    "mtime": 1784910152.4397469,
+    "ast_hash": "23d8cfbcfabae8f524fd4f1d4a80b948",
     "semantic_hash": ""
   },
   "docs/organizaciones.md": {
@@ -905,8 +905,8 @@
     "semantic_hash": "8bb38e94c2f0a85150869a960ef23ed4"
   },
   "docs/personajes/rey-podrido.md": {
-    "mtime": 1784906831.8996735,
-    "ast_hash": "d6ee49b9136c619fd8e603782e804491",
+    "mtime": 1784910152.435747,
+    "ast_hash": "043db0a560f572d0ee9e18572e464f63",
     "semantic_hash": ""
   },
   "docs/personajes/rudgar-valgard.md": {
@@ -970,8 +970,8 @@
     "semantic_hash": "7cec354676ea12c4bb17288518e90ebd"
   },
   "docs/taburas.md": {
-    "mtime": 1784866815.5872512,
-    "ast_hash": "703eb553eb0c78a87de3471d5e929cf5",
+    "mtime": 1784910152.435747,
+    "ast_hash": "80659821e4818d87381ed1c23366ce16",
     "semantic_hash": ""
   },
   "docs/taburas/dex-tabura.md": {
@@ -985,9 +985,9 @@
     "semantic_hash": "3965a0ab815300d28c05a6a178e627ea"
   },
   "docs/taburas/mort-tabura.md": {
-    "mtime": 1784257230.1943133,
-    "ast_hash": "6d4b0588f3017fe08411c5967bc21b42",
-    "semantic_hash": "6d4b0588f3017fe08411c5967bc21b42"
+    "mtime": 1784910198.695748,
+    "ast_hash": "efa3f0123b61cc91e68dc4311e78035a",
+    "semantic_hash": ""
   },
   "docs/taburas/sish-tabura.md": {
     "mtime": 1784838493.1866047,
@@ -1200,8 +1200,8 @@
     "semantic_hash": ""
   },
   "docs/taburas/grien-tabura.md": {
-    "mtime": 1784866910.4272532,
-    "ast_hash": "1f845693098c06111ec0e6d12dad42c4",
+    "mtime": 1784910152.431747,
+    "ast_hash": "57a4625e8074ca2cea9313738fb83131",
     "semantic_hash": ""
   },
   "docs/taburas/grim-tabura.md": {

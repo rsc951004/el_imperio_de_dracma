@@ -15,7 +15,7 @@ mundo/
     ├── edad-de-plata.md
     ├── edad-de-la-tirania.md
     ├── gherin.md
-    ├── grimm.md
+    ├── grimmen.md
     ├── stomur.md
     ├── valgard.md
     └── dragma/
@@ -29,7 +29,7 @@ mundo/
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Stigria | Continente | Continente del invierno, dividido entre el Gherin y el Grimm por Stömur. Hogar del Imperio de Dragma. | [Ver ficha](mundo/stigria/stigria.md) |
+| Stigria | Continente | Continente del invierno, dividido entre el Gherin y el Grimmen por Stömur. Hogar del Imperio de Dragma. | [Ver ficha](mundo/stigria/stigria.md) |
 | Erebia | Continente | Tierra de origen de los primeros Portadores. Su historia remota se conserva de forma fragmentaria. | [Ver ficha](mundo/astria/historia-antigua-de-astria-y-erebia.md) |
 | Astria | Nación extinta | Nación de la Luz y lugar de origen del culto de Thalmos. | [Ver ficha](mundo/astria/astria.md) |
 
@@ -43,9 +43,9 @@ Esta reconstrucción representa regiones físicas históricas. No contiene reino
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Stömur | Cordillera | Gran barrera entre el Gherin y el Grimm. Continua en el centro y el sur; quebrada en el norte. | [Ver ficha](mundo/stigria/stomur.md) |
+| Stömur | Cordillera | Gran barrera entre el Gherin y el Grimmen. Continua en el centro y el sur; quebrada en el norte. | [Ver ficha](mundo/stigria/stomur.md) |
 | El Gherin | Macrorregión occidental | Mitad occidental dividida por los Gheran en nueve regiones geográficas. | [Ver ficha](mundo/stigria/gherin.md) |
-| El Grimm | Macrorregión oriental | Mitad oriental de Stigria. Comprende Rauven al noreste y Grimheim al este de Stömur. | [Ver ficha](mundo/stigria/grimm.md) |
+| El Grimmen | Macrorregión oriental | Mitad oriental de Stigria. Comprende Rauven al noreste y Grimheim al este de Stömur. | [Ver ficha](mundo/stigria/grimmen.md) |
 
 ### Historia
 
@@ -69,7 +69,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Artefactos místicos | Concepto | Objetos creados con saberes de Portadores y efectos definidos. | [Ver ficha](mundo/stigria/artefactos-misticos.md) |
 | Rugido Mordaz | Artefacto místico | Conjunto entregado por Aurethyron a Rudgar durante el Pacto de Dürr. | [Ver ficha](mundo/stigria/rugido-mordaz.md) |
 | Llave de Dürr | Insignia histórica | Diadema entregada por Rudgar a Aurethyron. | [Ver ficha](mundo/stigria/llave-de-durr.md) |
-| Acero del Alba | Material | Aleación que hiere a Grimmen y poseídos. | [Ver ficha](mundo/stigria/acero-del-alba.md) |
+| Acero del Alba | Material | Aleación que hiere a Grimm y poseídos. | [Ver ficha](mundo/stigria/acero-del-alba.md) |
 | Kantra | Técnica de Portadores | Palabra o acción usada para canalizar el Blesk. | [Ver ficha](mundo/stigria/kantra.md) |
 | Guerra de Unland | Conflicto | Campaña de Recuperación de Unland y origen de Kystgard, Lynggard y Bjorngard. | [Ver ficha](mundo/stigria/guerra-de-unland.md) |
 | Emisarios de la Ruina | Servidores del Rey Podrido | Personas entregadas voluntariamente al Rey Podrido. | [Ver ficha](mundo/stigria/emisarios-de-la-ruina.md) |

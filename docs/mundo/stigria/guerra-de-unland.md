@@ -18,14 +18,14 @@ espaldas de su pueblo con los Emisarios de la Ruina.
 ## Ofensiva nocturna
 
 Antes de que los ejércitos Sangre de Hierro cruzaran el Riss, los brumenses
-atacaron durante la noche acompañados por Grimmen dirigidos de forma consciente.
+atacaron durante la noche acompañados por Grimm dirigidos de forma consciente.
 Quienes los guiaban parecían personas normales. Su temor al Acero del Alba
 reveló que eran Emisarios de la Ruina.
 
 Rudgar sostuvo el orden de sus ejércitos. Stelian Therin apareció siete años
 después de la última vez que Rudgar lo había visto, descendió envuelto en fulgor
 solar y empleó la Kantra «Ta-besh». La batalla terminó esa misma noche: Stelian
-quemó con su fulgor a casi todos los Grimmen de Unland, los Emisarios huyeron y
+quemó con su fulgor a casi todos los Grimm de Unland, los Emisarios huyeron y
 algunos fueron capturados.
 
 Los Sangre de Hierro alcanzaron el Fenn, el fiordo al este del Riss al que

@@ -35,7 +35,7 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 | Protectorados con consejo | **Gran Consejo** | Ejemplo: Khalos. |
 | Protectorado de Esteria | **Guardia Amarilla** | Custodia el Gran Faro, la ciudad y la frontera oriental. |
 | Territorios de ultramar | **Príncipe Regente** | Salvo Delfos. |
-| Delfos | **Regente** (Casa Artema) | Isla al este, frente al Grimm. Gobernada por la Casa Artema desde la Edad de la Podredumbre. |
+| Delfos | **Regente** (Casa Artema) | Isla al este, frente al Grimmen. Gobernada por la Casa Artema desde la Edad de la Podredumbre. |
 | Tierras intermedias | **Gran Señor de los Caminos** | Administra todo lo que sobra donde se pueda pisar. |
 
 ## Los 12 Reinos
@@ -63,7 +63,7 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 | 2 | Esteria | Ciudad fortaleza | Guardia Amarilla | Enclave protector al borde del Foso de la Calamidad. La carta de Rudgar lo separó de los doce Dominios. |
 | 3 | Ishbaal | Territorio de ultramar | Príncipe Regente | Isla al noroeste. |
 | 4 | Alessya | Protectorado insular | Príncipe Guardián | Isla al suroeste, vinculada históricamente con los Hijos del Sol. Principado rico e inalienable. |
-| 5 | Delfos | Territorio de ultramar | Regente (Casa Artema) | Isla tropical frente al Grimm. Gobernada por la Casa Artema. Los Artema portan en secreto sangre Mormund desde el exilio de Mijail. |
+| 5 | Delfos | Territorio de ultramar | Regente (Casa Artema) | Isla tropical frente al Grimmen. Gobernada por la Casa Artema. Los Artema portan en secreto sangre Mormund desde el exilio de Mijail. |
 | 6 | Lorka | Territorio de ultramar | Príncipe Regente | Isla al norte de Ishbaal. |
 | 7 | Paicel | Territorio de ultramar | Príncipe Regente | Isla al sureste de Delfos. |
 
