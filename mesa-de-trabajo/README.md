@@ -8,3 +8,6 @@ Antes de utilizar una nota, hay que contrastarla con el canon vigente. Una
 instrucción concreta del humano define el trabajo activo y su destino. Los
 materiales que dejen de ser necesarios se retiran de esta carpeta; los
 asuntos aún abiertos que deban conservarse se registran en `docs/pendientes.md`.
+
+Los procesos de acumulación, auditoría y volcamiento se guardan exclusivamente
+en las [instrucciones de procesos de volcamiento](../procesos-de-volcamiento/AGENTS.md).

@@ -154,9 +154,25 @@ La revisión retroactiva no autoriza a etiquetar posibilidades como hechos. Si e
 | `cuentos/` | Cuentos terminados, uno por subcarpeta | ✅ Sí | ✅ Sí |
 | `docs/` | Lore, personajes, mundo, notas editoriales | ✅ Sí | ✅ Sí |
 | `mesa-de-trabajo/` | Ayudas memoria, bocetos y asuntos opcionales pendientes de revisión | ❌ No | Solo bajo instrucción |
+| `procesos-de-volcamiento/` | Acumulaciones, auditorías, resoluciones y planes previos al volcamiento | ❌ No | Solo bajo instrucción |
 | `referencias-visuales/` | Mapas y bocetos visuales vigentes que apoyan el desarrollo del canon escrito | ❌ No por sí solos | ✅ Sí |
 | `protoversiones/` | Borradores antiguos y referencias visuales como cantera de rescate | ❌ No | Solo imágenes en `referencias-visuales/` |
 | `herramientas/` | Scripts auxiliares (build.sh) | N/A | Solo bajo orden |
+
+---
+
+## Método para desarrollos de alcance amplio
+
+Cuando una tarea pueda modificar de forma relacionada varios elementos del lore
+—personajes, territorios, instituciones, cronologías o cuentos—, el agente debe
+consultar y aplicar la
+[instrucciones de procesos de volcamiento](procesos-de-volcamiento/AGENTS.md)
+antes de proponer un volcamiento hacia el canon. El método separa acumulación,
+auditoría, resolución, plan de transferencia y ejecución autorizada.
+
+No se exige para correcciones aisladas de alcance claro. Su consulta no
+autoriza cambios en `docs/` o `cuentos/`: cada volcamiento requiere una orden
+humana explícita.
 
 ---
 
