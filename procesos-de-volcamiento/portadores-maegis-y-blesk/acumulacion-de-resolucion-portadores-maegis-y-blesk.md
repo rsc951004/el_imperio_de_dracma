@@ -523,6 +523,11 @@ proceso.
 No se alimentan simplemente de una manifestación activa de un don ni de una
 maestría. El vínculo entero es aquello que buscan consumir.
 
+No existe registro de que un Mobius haya conseguido regresar a su mundo, pero
+esa ausencia de registro no demuestra que el regreso sea imposible. Las
+motivaciones de los Mobius son individuales, no colectivas: algunos prefieren
+permanecer en este mundo en vez de buscar el retorno.
+
 ### Estado de resolución
 
 **Cerrada.** Esta resolución reemplaza la formulación de que los Mobius se
@@ -530,6 +535,5 @@ nutren de Blesk activo.
 
 ### Siguiente nudo propuesto
 
-Falta definir si ese intento de los Mobius puede conseguir su objetivo: ¿alguno
-ha logrado volver a vincularse con un Init y regresar a su mundo, o el consumo
-del vínculo solo produce un intento fallido?
+Falta definir qué persiguen los Mobius que eligen permanecer en este mundo y si
+también consumen vínculos con una finalidad distinta del retorno.
