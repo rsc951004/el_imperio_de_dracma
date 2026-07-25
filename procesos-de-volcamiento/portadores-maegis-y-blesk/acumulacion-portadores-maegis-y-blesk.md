@@ -215,18 +215,21 @@ del Imperio nació ya como Invocador, al heredar un vínculo creado artificialme
 La creación de nuevos Invocadores es infrecuente porque su práctica es críptica
 y exige conocimientos que no son de dominio público.
 
-La diferencia funcional es que un Portador posee normalmente un solo don,
-mientras que un Invocador puede poseer múltiples dones y maestrías. Puede
-combinarlos si su habilidad y entrenamiento se lo permiten.
+La diferencia funcional es que un Portador posee normalmente un vínculo natural,
+estable y enfocado en un solo don. Un Invocador posee un vínculo artificial de
+alcance abierto: no se reduce necesariamente a una cantidad fija de dones, sino
+que puede aprender a acceder a un repertorio potencial mucho más amplio y
+complejo de manifestaciones, y combinarlas si su habilidad y entrenamiento se lo
+permiten.
 
 Por eso, un Invocador bien entrenado puede lograr efectos mucho más abstractos
 que la manipulación del viento u otro elemento; en términos de nuestro mundo,
 muchas de esas manifestaciones se considerarían magia.
 
-En la mayoría de los casos, los Invocadores se concentran en uno o pocos dones.
-Quien busca ser realmente bueno y poderoso suele especializarse, pero no existe
-un límite fijo: hay excepciones capaces de manejar una cantidad extraordinaria
-de dones y de ser sobresalientes en todos ellos.
+Muchos Invocadores eligen concentrarse en una parte de ese repertorio para
+desarrollarla con profundidad. No existe un límite numérico fijo: hay
+excepciones capaces de ordenar una gama extraordinariamente amplia de
+manifestaciones y de sobresalir en todas ellas.
 
 La única forma de saber que una persona es Invocador y no Portador es que
 manifieste al menos un don adicional. Mientras solo manifieste un don, no puede
@@ -262,20 +265,21 @@ artificial del vínculo.
 - Separar la herencia predominante de vínculos creados artificialmente de las
   escasas creaciones nuevas, sin divulgar ni inventar el conocimiento críptico
   que estas requieren.
-- Distinguir la pluralidad de dones y maestrías de un Invocador de las diversas
-  maestrías que puede desarrollar un Portador con un único don.
+- Distinguir el repertorio potencial abierto de un Invocador de las diversas
+  maestrías que puede desarrollar un Portador con un único don, sin convertirlo
+  en un inventario fijo de dones.
 - Delimitar los efectos abstractos que puede alcanzar un Invocador entrenado sin
-  convertirlos en resultados ilimitados ni en una nueva lista de dones.
-- Distinguir la concentración en uno o pocos dones como norma práctica de las
-  excepciones capaces de dominar una cantidad extraordinaria de ellos.
+  convertirlos en resultados ilimitados ni reducirlos a una lista de dones.
+- Distinguir la especialización voluntaria en parte del repertorio de la
+  capacidad excepcional de ordenar una gama muy amplia de manifestaciones.
 - Separar el estigma social contra los Invocadores de su igualdad jurídica con
   los Portadores, y no tratar el ideal público de las casas nobles como una
   descripción completa de su historia privada.
 
 ## Próximo nudo propuesto
 
-Definir cómo el enfoque en uno o pocos dones condiciona las maestrías y las
-combinaciones de un Invocador, y qué distingue a las excepciones capaces de
-dominar muchos. Después, precisar cómo conviven su igualdad jurídica y el
+Definir qué límites internos ordenan el repertorio abierto de un Invocador y
+cómo se diferencia una manifestación aprendida de una combinación de
+manifestaciones. Después, precisar cómo conviven su igualdad jurídica y el
 estigma social antes de abordar el conocimiento de creación conservado por
 Khalos, la Möes Tábura u otra instancia.
