@@ -26,10 +26,11 @@ de cuánto potencial de ese vínculo consiga desarrollar cada persona.
 - Alinear la naturaleza y función de los Inits con la condición de que materializar deseos sea una capacidad y no su fin.
 - Definir un vocabulario que distinga el vínculo con un Init de la manifestación que este permite.
 - Determinar cómo se expresa la herencia sin convertir la disminución de personas vinculadas por mezcla en una regla matemática o automática, ni atribuirle una merma del alcance del vínculo.
-- Contrastar la denominación erebia «Portadores» con la denominación sangheskia «Maegys», que nombra la misma condición a través de una trayectoria cultural distinta.
+- Distinguir las denominaciones históricas de Portador, Maegis y Maegys sin
+  confundir condición vinculada, esclavitud sangheskia y certificación imperial.
 - Revisar las consecuencias sobre los Inits, Portadores, Invocadores y los casos particulares ya documentados, sin alterar sus reservas narrativas ni sus marcas de canon velado.
 
-## A-02. Renombre sangheskio: Maegys
+## A-02. Maegis sangheskios y Maegys imperiales
 
 **Estado:** acordado por el humano.
 
@@ -39,23 +40,17 @@ Erebia. Durante los siglos que permanecieron allí desarrollaron costumbres y
 una lengua propias.
 
 Más tarde abandonaron la isla, llegaron directamente a Stigria y desembarcaron
-en Rauven. A causa de su evolución cultural y lingüística, dejaron de llamar
-**Portadores** a las personas vinculadas con un Init y las renombraron
-**Maegys**.
+en Rauven. Los **Maegis** son los Portadores esclavizados por los Sangheskios.
 
-Un Portador y un Maegys son la misma condición. La diferencia es únicamente de
-denominación: «Portador» procede de la ruta Erebia → Astria → Stigria, mientras
-que «Maegys» procede de los Sangheskios llegados desde la isla a Stigria.
+**Maegys**, tanto en singular como en plural, es la denominación imperial para
+un Portador o Invocador que cuenta con certificación imperial. No es un renombre
+sangheskio ni una condición equivalente a cualquier persona vinculada.
 
 ### Consecuencias que deberán auditarse
 
-- Distinguir las rutas Erebia → Astria → Stigria y la trayectoria sangheskia
-  Erebia → isla cercana → Stigria, sin atribuir una diferencia de naturaleza al
-  vínculo.
-- Localizar las referencias a «Maegys» para normalizarlas con esa grafía cuando
-  un volcamiento autorizado lo requiera.
-- Revisar las fichas históricas sangheskias para que el renombre sea consecuencia
-  de su evolución cultural y lingüística, no una condición distinta.
+- Localizar las referencias a Maegis para relacionarlas con la esclavitud
+  sangheskia y no con la certificación imperial.
+- Reservar Maegys para Portadores e Invocadores certificados por el Imperio.
 
 ## A-03. Vínculo y don
 
@@ -132,18 +127,18 @@ abandonó ese intento casi al iniciarlo.
 
 **Estado:** acordado por el humano.
 
-Todo Portador que se encuentre en territorio del Imperio debe estar registrado
+Toda persona vinculada que se encuentre en territorio del Imperio debe estar registrado
 como tal. Si tiene menos de dieciséis años, la responsabilidad de ese registro
 recae en su casa y sus padres; desde los dieciséis años, recae en el propio
 Portador.
 
-Un Portador puede usar libremente su don. Sin embargo, no puede ganarse la vida
+Una persona vinculada puede usar libremente su don. Sin embargo, no puede ganarse la vida
 ni prestar servicios relacionados con ese don, salvo que obtenga la designación
-de **Maegy Imperial** para la actividad que desea ejercer.
+de **Maegys Imperial** para la actividad que desea ejercer.
 
-Para solicitarla, el Portador debe acudir a la **Möes Tábura** y superar los
+Para solicitarla, la persona vinculada debe acudir a la **Möes Tábura** y superar los
 cursos y pruebas correspondientes a la licencia de esa actividad. Al aprobar,
-recibe la designación de Maegy Imperial y queda autorizado para realizar la
+recibe la designación de Maegys Imperial y queda autorizado para realizar la
 actividad solicitada.
 
 La formación, evaluación y licencia constituyen la función básica de la Möes
@@ -163,7 +158,7 @@ nombres de los Portadores se empleaban de otra manera.
 - Incorporar el papel de la Möes Tábura en la formación, evaluación y licencia
   de cada actividad, así como en el estudio y desarrollo intergeneracional de
   dones y maestrías, antes de deducir derechos, deberes o excepciones
-  adicionales de un Maegy Imperial.
+adicionales de un Maegys Imperial.
 - Separar las normas imperiales de los usos preimperiales en las fichas y
   marcos históricos afectados.
 
@@ -171,25 +166,25 @@ nombres de los Portadores se empleaban de otra manera.
 
 **Estado:** acordado por el humano.
 
-Al recibir cualquier certificación, por elemental que sea, un Portador queda
-clasificado y recibe un título de naturaleza provisional, como «Portador de
-Sanación», «Portador Tempestuoso» o «Portador de Fuego». El título puede cambiar
-si el Portador continúa desarrollando su maestría y demuestra aplicaciones que
-justifiquen otra denominación. También puede no cambiar: Leondras Solarys fue
+Al obtener una licencia, un Portador o Invocador recibe una clasificación
+profesional, como «Portador de Sanación», «Portador Tempestuoso» o «Portador de
+Fuego». El primer título es uno; las clasificaciones posteriores pueden
+solicitarse y acumularse durante la vida académica. Leondras Solarys fue
 clasificado siempre como Portador Tempestuoso.
 
-Los **Maegys**, Portadores de oficio, trabajan en ámbitos diversos. Los
+Los **Maegys**, Portadores o Invocadores certificados para ejercer un oficio,
+trabajan en ámbitos diversos. Los
 principales son el ejercicio independiente —donde se encuentra la mayoría de
 los curanderos—, la milicia, la Grim Tábura como cazadores de Grimm y la propia
 Möes Tábura como maestros o en cualquiera de sus estructuras internas. Ejercer
-cualquiera de esos oficios exige ser Maegy.
+cualquiera de esos oficios exige ser Maegys.
 
 ### Consecuencias que deberán auditarse
 
-- Diferenciar el registro de un Portador, la certificación que le asigna un
-  título provisional y la licencia que autoriza un oficio concreto.
-- Tratar los títulos como denominaciones revisables según la maestría demostrada,
-  no como una identidad fija ni como una clase ontológica.
+- Diferenciar el registro de una persona vinculada, la certificación que le
+  asigna un título y la licencia que autoriza un oficio concreto.
+- Tratar los títulos como clasificaciones acumulables según la maestría
+  demostrada, no como una identidad fija ni como una clase ontológica.
 - Delimitar los ámbitos de oficio de los Maegys sin reducirlos a una lista
   cerrada ni extender sus licencias fuera de la actividad autorizada.
 
@@ -258,8 +253,8 @@ artificial del vínculo.
 - Definir las circunstancias extremas y la autoridad competente para autorizar
   una creación nueva que despoja a otro Portador de su vínculo, sin anticipar
   permisos no acordados.
-- Verificar que el registro, las certificaciones, los títulos provisionales y
-  las licencias de Maegy Imperial se apliquen sin excepción a los Invocadores.
+- Verificar que el registro, las certificaciones, los títulos y las licencias
+  de Maegys Imperial se apliquen sin excepción a los Invocadores.
 - Evitar que el registro, un título o una única manifestación de don se usen
   para identificar a una persona como Invocador.
 - Separar la herencia predominante de vínculos creados artificialmente de las

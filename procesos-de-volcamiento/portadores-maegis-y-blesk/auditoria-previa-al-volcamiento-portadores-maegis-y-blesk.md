@@ -65,24 +65,20 @@ el alcance esencial del vínculo.
 reexpresan señal, coste, Kantras y herencia sin confundir vínculo, don y
 aplicación.
 
-### N-04. Maegys, Maegy y trayectoria sangheskia
+### N-04. Maegys imperiales y Maegis sangheskios
 
 **Estado:** contradicción terminológica y ampliación histórica.
 
-El canon usa Maegis y Maegi como denominaciones sangheskias. A-02 fija Maegys y
-establece que Portador y Maegys nombran la misma condición: la primera
-denominación llegó por Erebia → Astria → Stigria, y la segunda procede de la
-trayectoria sangheskia Erebia → isla cercana → Stigria.
-
-La ruta sangheskia es compatible en lo básico con la estancia de siglos en
-Rukeresh y la llegada a Rauven, pero la nueva explicación del renombre y la
-grafía deben incorporarse sin alterar la marca de canon velado sobre su origen.
+El canon usa Maegis y Maegi como denominaciones sangheskias. La resolución
+vigente fija que Maegis nombra a los Portadores esclavizados por los
+Sangheskios, mientras que Maegys, invariable en singular y plural, designa a
+un Portador o Invocador certificado por el Imperio.
 
 **Archivos afectados:** fichas sangheskias, Edad del Hierro, Stelian,
 referencias a Maegis/Maegi e índices relacionados.
 
-**Decisión necesaria:** confirmar que Maegy sea la forma singular y Maegys la
-plural, y fijar el alcance de la normalización de grafías.
+**Decisión necesaria:** revisar cada uso canónico para separar esclavitud
+sangheskia y certificación imperial, sin alterar el canon velado relacionado.
 
 ### N-05. Invocadores: herencia, creación y repertorio
 
@@ -126,7 +122,7 @@ público y la historia privada de las casas.
 La ficha vigente define la Möes Tábura como independiente, nacida tras la caída
 del Raikim, con función, jerarquía y organización reservadas. A-05 y A-06 le
 atribuyen registro, formación, investigación, certificaciones, licencias de
-Maegy Imperial y desarrollo intergeneracional de dones y maestrías.
+Maegys Imperial y desarrollo intergeneracional de dones y maestrías.
 
 La acumulación crea además un régimen de títulos provisionales y oficios para
 Maegys durante la Edad de Oro. Este régimen no debe proyectarse hacia periodos
@@ -186,7 +182,7 @@ transferido.
 | Bloque | Archivos canónicos que deberán revisarse |
 |---|---|
 | Inits y terminología | entidades, cuento El Surgimiento, Kantras e índices |
-| Sanghesk y Maegys | Sangheskios, Edad del Hierro, Stelian y referencias históricas |
+| Sanghesk y Maegis | Sangheskios, Edad del Hierro, Stelian y referencias históricas |
 | Régimen imperial | Möes Tábura, Táburas, marcos de Dragma, índices y pendientes |
 | Casos personales | Stelian, Radu, Rey Podrido, Leondras y Sandor Solarys |
 | Vocabulario operativo | Edad de Plata, Veleskaria, 12 Reinos, instrucciones de cuentos y referencias cruzadas |
@@ -197,7 +193,7 @@ transferido.
 2. Cerrar el modelo del vínculo artificial de los Invocadores y decidir qué
    detalles vigentes se descartan o se reservan.
 3. Definir, al nivel propio del asentamiento, la Möes Tábura y las licencias de
-   Maegy Imperial.
+   Maegys Imperial.
 4. Determinar el alcance de la clasificación imperial sin extenderla
    retroactivamente.
 5. Preparar una trazabilidad de detalle aprobado antes de cualquier plan final.

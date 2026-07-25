@@ -228,16 +228,16 @@ vinculada reciba entrenamiento.
 
 Falta precisar la frontera entre formación y habilitación profesional: ¿aprobar
 una formación de la Möes Tábura basta para ejercer un oficio con un don, o la
-designación de Maegy Imperial sigue siendo una licencia distinta?
+designación de Maegys Imperial sigue siendo una licencia distinta?
 
-## R-08. Formación y licencia de Maegy Imperial
+## R-08. Formación y licencia de Maegys Imperial
 
 **Nudo de origen:** N-06 y N-07 de la auditoría previa.
 
 ### Resolución final
 
 La formación de la Möes Tábura es el camino para obtener una licencia de
-**Maegy Imperial**. Todo Portador o Invocador que desee vivir de su don debe
+**Maegys Imperial**. Todo Portador o Invocador que desee vivir de su don debe
 contar con esa licencia.
 
 La formación prepara para la actividad concreta que se busca desempeñar; la
@@ -254,3 +254,282 @@ limita a la Edad de Oro.
 Falta resolver la clasificación que acompaña a una certificación: ¿el título
 provincial de Portador de Sanación, Portador Tempestuoso u otro equivalente se
 otorga al iniciar la formación, al obtener una licencia o en ambos momentos?
+
+## R-09. Título profesional y licencia
+
+**Nudo de origen:** N-08 de la auditoría previa.
+
+### Resolución final
+
+El título profesional de un Portador o Invocador se obtiene al recibir la
+licencia de **Maegys Imperial**. No se otorga por el mero inicio de la formación.
+
+La licencia clasifica al Maegys según la actividad y la maestría que acreditó,
+con denominaciones provinciales como Portador de Sanación o Portador
+Tempestuoso. Esos títulos no forman una taxonomía universal y solo rigen en el
+marco imperial de la Edad de Oro.
+
+### Estado de resolución
+
+**Cerrada.** Esta resolución sustituye la idea de que cualquier certificación
+preliminar otorgue por sí misma un título profesional.
+
+### Siguiente nudo propuesto
+
+La acumulación prevé que el título puede mutar si el Maegys amplía su maestría.
+Falta decidir si esa actualización requiere una nueva licencia, una evaluación
+de la Möes Tábura o solo el reconocimiento de la práctica demostrada.
+
+## R-10. Alcance de los títulos de Maegys
+
+**Nudo de origen:** N-08 de la auditoría previa.
+
+### Resolución final
+
+Los títulos otorgados con una licencia de Maegys Imperial son clasificaciones
+administrativas de la Möes Tábura: sirven para situar a una persona dentro de
+una casilla institucional, pero no agotan su maestría ni definen su valor.
+
+Un instructor puede advertir a sus alumnos que no se apeguen al título que se
+les asigna. Ser Maegys es precisamente lo que permite ejercer y desarrollarse
+más allá de esa clasificación. Fuera de la sede de la Möes Tábura, el título
+tiene poca importancia.
+
+### Estado de resolución
+
+**Cerrada en cuanto al alcance del título.**
+
+### Punto aún pendiente
+
+Un Maegys puede solicitar clasificaciones adicionales cuando amplía su maestría.
+El título inicial es siempre uno, pero las clasificaciones posteriores se
+acumulan a lo largo de su vida académica. La posibilidad de actualizar el
+registro existe, aunque posee poca relevancia práctica en la Edad de Oro.
+
+### Estado de actualización
+
+**Cerrada.** No se fija el trámite interno de la solicitud.
+
+### Siguiente nudo propuesto
+
+Falta definir qué determina el título inicial de una licencia: ¿la actividad
+profesional para la que el Maegys se habilita, la naturaleza de su don o la
+maestría concreta que acreditó? Esa regla permitirá distinguir, por ejemplo,
+entre un don relacionado con el viento y una clasificación de Portador
+Tempestuoso.
+
+## R-11. Actividad habilitada y libertad de oficio
+
+**Nudo de origen:** N-07 y N-08 de la auditoría previa.
+
+### Resolución final
+
+El título inicial se vincula, por lo general, con la actividad específica para
+la que se obtiene la licencia. Quien quiere ejercer como sanador mediante su
+don, sea Portador o Invocador, debe obtener una acreditación de **Maegys de
+Sanación**.
+
+La acreditación no obliga a trabajar de por vida en el oficio estudiado ni
+limita el uso lícito del don a esa actividad. Un Maegys de Sanación puede
+integrar la Grim Tábura si aprende a aplicar su don en combate o defensa.
+También puede abandonar ese ámbito y dedicarse a otro oficio, como la
+construcción o la pesca.
+
+### Estado de resolución
+
+**Cerrada.** El título nombra una habilitación profesional, no una identidad
+laboral exclusiva ni una clasificación absoluta del don.
+
+### Siguiente nudo propuesto
+
+Falta cerrar el registro imperial: la acumulación establece que toda persona
+vinculada debe registrarse, con responsabilidad de padres o casa antes de los
+dieciséis años y propia después. ¿Confirmamos esa regla y definimos si el
+registro es independiente de pedir una licencia de Maegys Imperial?
+
+## R-12. Registro de personas vinculadas
+
+**Nudo de origen:** N-06 de la auditoría previa.
+
+### Resolución final
+
+Toda persona vinculada que se encuentre en territorio imperial debe registrarse
+como tal. Antes de cumplir dieciséis años, la responsabilidad corresponde a sus
+padres o a su casa; desde esa edad, corresponde a la propia persona.
+
+El registro es obligatorio e independiente de la licencia de Maegys Imperial.
+Una persona registrada puede usar libremente su don, pero necesita licencia si
+pretende vivir de él o prestar servicios profesionales relacionados con él.
+
+### Estado de resolución
+
+**Cerrada.** Esta regla se limita al régimen imperial de la Edad de Oro y no
+crea una clasificación oficial retroactiva para las eras preimperiales.
+
+### Siguiente nudo propuesto
+
+Portadores e Invocadores comparten registro, régimen jurídico y licencias, pero
+un Invocador puede ocultar su origen mientras solo se observe un don. Falta
+decidir si el registro imperial consigna la condición de Invocador cuando se
+conoce, o si registra a toda persona únicamente como vinculada.
+
+## R-13. Condición de Invocador en el registro
+
+**Nudo de origen:** N-06 de la auditoría previa.
+
+### Resolución final
+
+El registro imperial especifica si una persona vinculada es Portador o
+Invocador cuando esa condición puede determinarse. La distinción puede ser
+difícil, pues un Invocador que solo haya manifestado un don no siempre puede
+diferenciarse de un Portador.
+
+Registrar a alguien como Portador siendo Invocador, o a la inversa, no es una
+falta grave cuando responde a esa dificultad. Falsear deliberadamente la
+condición, sabiéndola, sí es ilegal.
+
+### Estado de resolución
+
+**Cerrada.** La obligación de registrar no convierte la condición de Invocador
+en una revelación automática ni presume mala fe ante una clasificación errónea.
+
+### Siguiente nudo propuesto
+
+Falta cerrar el estigma social: la acumulación vincula a los Invocadores con
+atajos, aspiracionismo y vergüenza nobiliaria, aunque algunas casas recurrieron
+en secreto a la práctica. ¿Confirmamos ese contraste y definimos si afecta sus
+derechos legales o solo su reputación?
+
+## R-14. Estigma de los Invocadores y Segunda Dinastía
+
+**Nudo de origen:** N-06 de la auditoría previa.
+
+### Resolución final
+
+El estigma contra los Invocadores es exclusivamente social: no limita sus
+derechos legales, su registro ni el acceso a una licencia de Maegys Imperial.
+
+Ese prejuicio se relaciona con un conflicto interno de la **Segunda Dinastía**,
+periodo en que se originó la mayor parte de los linajes de Invocadores presentes
+en la época actual de Sandor. Fue un conflicto que casi destruyó por completo al
+Imperio.
+
+### Reserva de desarrollo
+
+No se desarrollan las causas, bandos, secuencia ni consecuencias concretas de
+ese conflicto. Su relación detallada con casas nobles y con la creación de
+Invocadores queda reservada para una etapa posterior.
+
+### Estado de resolución
+
+**Cerrada con reserva narrativa.**
+
+### Siguiente nudo propuesto
+
+Corresponde cerrar la distinción entre Maegis sangheskios y Maegys imperiales.
+
+## R-15. Forma y alcance de «Maegys»
+
+**Nudo de origen:** N-04 de la auditoría previa.
+
+### Resolución final
+
+**Maegys** es la forma definitiva e invariable, tanto en singular como en
+plural, para un Portador o Invocador certificado por el Imperio. No designa a
+toda persona vinculada.
+
+Los **Maegis** son los Portadores esclavizados por los Sangheskios. Maegis no
+es una grafía alternativa de Maegys ni una denominación imperial.
+
+### Estado de resolución
+
+**Cerrada.** Esta resolución sustituye la equivalencia entre Maegys, Maegis y
+Portador. Maegis conserva su uso histórico específico; Maegy y Maeghis quedan
+descartadas.
+
+### Siguiente nudo propuesto
+
+La acumulación fija que materializar deseos es una capacidad de los Inits, no
+su finalidad. Falta decidir si la finalidad de los Inits está definida y queda
+reservada, o si se mantiene sencillamente como desconocida.
+
+## R-16. Finalidad de los Inits
+
+**Nudo de origen:** N-02 de la auditoría previa.
+
+### Resolución final
+
+La finalidad de los Inits es desconocida e incierta. Materializar los deseos de
+los seres pensantes es una capacidad que poseen, no una función ni un propósito
+conocido.
+
+Muchas personas creen que los Inits son dioses, entre ellas los seguidores del
+Dios Negro. Esa creencia no confirma su naturaleza ni permite atribuirles una
+finalidad.
+
+### Estado de resolución
+
+**Cerrada con reserva narrativa.** No se infiere una finalidad a partir de su
+capacidad, su origen interdimensional ni su relación con los vínculos.
+
+### Siguiente nudo propuesto
+
+Falta preparar la sustitución precisa de Blesk en el canon: según el contexto,
+el término actual puede referirse al vínculo, al don, a una maestría o a una
+premisa que deba descartarse. Conviene resolver primero los usos vinculados a
+Portadores e Invocadores antes de revisar Mobius, Kantras y el Surgimiento.
+
+## R-17. Sustitución contextual de «Blesk»
+
+**Nudo de origen:** N-01 y N-03 de la auditoría previa.
+
+### Resolución final
+
+El término **Blesk** se retirará del canon durante un volcamiento autorizado.
+Su sustitución no será mecánica:
+
+- cuando nombre la conexión entre una persona y un Init, se reexpresará como
+  **vínculo**;
+- cuando nombre una capacidad manifestable, se reexpresará como **don**;
+- cuando nombre las aplicaciones aprendidas y desarrolladas de un don, se
+  reexpresará como **maestría**.
+
+Si una aparición de Blesk no corresponde a ninguno de esos sentidos, deberá
+recibir una resolución específica o quedar descartada; no se le asignará un
+equivalente por conveniencia.
+
+### Estado de resolución
+
+**Cerrada.** Esta es una regla de lectura y transferencia, no una autorización
+para reemplazar todavía términos en archivos canónicos.
+
+### Siguiente nudo propuesto
+
+En la ficha vigente, los Mobius se alimentan de Blesk activo. Falta definir qué
+consumen bajo la nueva terminología: ¿el vínculo mientras está en uso, la
+manifestación de un don, u otra cosa distinta?
+
+## R-18. Mobius y consumo del vínculo
+
+**Nudo de origen:** N-01 de la auditoría previa.
+
+### Resolución final
+
+La mayoría de los Mobius intenta desesperadamente volver a vincularse con los
+Inits y regresar a su mundo. En ese intento, consume por completo el vínculo de
+una persona como si fuera combustible y destruye al Portador o Invocador en el
+proceso.
+
+No se alimentan simplemente de una manifestación activa de un don ni de una
+maestría. El vínculo entero es aquello que buscan consumir.
+
+### Estado de resolución
+
+**Cerrada.** Esta resolución reemplaza la formulación de que los Mobius se
+nutren de Blesk activo.
+
+### Siguiente nudo propuesto
+
+Falta definir si ese intento de los Mobius puede conseguir su objetivo: ¿alguno
+ha logrado volver a vincularse con un Init y regresar a su mundo, o el consumo
+del vínculo solo produce un intento fallido?
