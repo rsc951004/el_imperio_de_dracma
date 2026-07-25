@@ -193,8 +193,89 @@ cualquiera de esos oficios exige ser Maegy.
 - Delimitar los ámbitos de oficio de los Maegys sin reducirlos a una lista
   cerrada ni extender sus licencias fuera de la actividad autorizada.
 
+## A-07. Invocadores
+
+**Estado:** acordado por el humano.
+
+Un **Invocador** es una persona cuyo vínculo de Portador fue creado
+artificialmente o que heredó un vínculo creado de ese modo.
+
+En la Edad de Oro, crear nuevos Invocadores está fuertemente regulado y casi
+prohibido, pues exige despojar a un Portador de su vínculo. Solo puede
+autorizarse en circunstancias extremas y con permisos específicos dentro de la
+jerarquía imperial.
+
+Es un secreto a voces que muchas casas nobles pagan sumas exorbitantes para
+convertir a integrantes de sus familias en Invocadores. Por este motivo, no es
+común que un Invocador revele que lo es y no se presente simplemente como un
+Portador.
+
+Según la documentación reunida en Khalos, la mayoría de los Invocadores actuales
+del Imperio nació ya como Invocador, al heredar un vínculo creado artificialmente.
+La creación de nuevos Invocadores es infrecuente porque su práctica es críptica
+y exige conocimientos que no son de dominio público.
+
+La diferencia funcional es que un Portador posee normalmente un solo don,
+mientras que un Invocador puede poseer múltiples dones y maestrías. Puede
+combinarlos si su habilidad y entrenamiento se lo permiten.
+
+Por eso, un Invocador bien entrenado puede lograr efectos mucho más abstractos
+que la manipulación del viento u otro elemento; en términos de nuestro mundo,
+muchas de esas manifestaciones se considerarían magia.
+
+En la mayoría de los casos, los Invocadores se concentran en uno o pocos dones.
+Quien busca ser realmente bueno y poderoso suele especializarse, pero no existe
+un límite fijo: hay excepciones capaces de manejar una cantidad extraordinaria
+de dones y de ser sobresalientes en todos ellos.
+
+La única forma de saber que una persona es Invocador y no Portador es que
+manifieste al menos un don adicional. Mientras solo manifieste un don, no puede
+distinguirse de un Portador.
+
+Ser Invocador conlleva una carga estigmatizante, especialmente para quien
+pertenece a una casa noble. De esas familias se espera que no sigan atajos y
+que obren de acuerdo con su estatus; saber que un linaje recurrió alguna vez a
+una práctica prohibida se considera motivo de vergüenza. En el ideal público,
+las buenas familias nobles solo tienen Portadores entre sus miembros.
+
+Los Invocadores se asocian generalmente con el pueblo llano y con quienes no se
+conforman con lo que tienen, son aspiracionistas o desclasados. Sin embargo,
+en la antigüedad muchas casas nobles con escasez de Portadores en su linaje
+convirtieron en secreto a miembros de sus familias en Invocadores.
+
+Ser Invocador no crea un régimen jurídico separado: la persona queda sometida a
+las mismas leyes, registros, clasificaciones y condiciones de ejercicio que un
+Portador. Esa igualdad jurídica no obliga a revelar públicamente el origen
+artificial del vínculo.
+
+### Consecuencias que deberán auditarse
+
+- Sustituir las formulaciones incompatibles sobre el origen, alteración o
+  herencia de los Invocadores, sin conservarlas como explicación alternativa.
+- Definir las circunstancias extremas y la autoridad competente para autorizar
+  una creación nueva que despoja a otro Portador de su vínculo, sin anticipar
+  permisos no acordados.
+- Verificar que el registro, las certificaciones, los títulos provisionales y
+  las licencias de Maegy Imperial se apliquen sin excepción a los Invocadores.
+- Evitar que el registro, un título o una única manifestación de don se usen
+  para identificar a una persona como Invocador.
+- Separar la herencia predominante de vínculos creados artificialmente de las
+  escasas creaciones nuevas, sin divulgar ni inventar el conocimiento críptico
+  que estas requieren.
+- Distinguir la pluralidad de dones y maestrías de un Invocador de las diversas
+  maestrías que puede desarrollar un Portador con un único don.
+- Delimitar los efectos abstractos que puede alcanzar un Invocador entrenado sin
+  convertirlos en resultados ilimitados ni en una nueva lista de dones.
+- Distinguir la concentración en uno o pocos dones como norma práctica de las
+  excepciones capaces de dominar una cantidad extraordinaria de ellos.
+- Separar el estigma social contra los Invocadores de su igualdad jurídica con
+  los Portadores, y no tratar el ideal público de las casas nobles como una
+  descripción completa de su historia privada.
+
 ## Próximo nudo propuesto
 
-Precisar qué criterios permiten a la **Möes Tábura** otorgar o cambiar un título
-provisional y cómo se relaciona ese título con una licencia de Maegy Imperial.
-Después, confirmar o sustituir el nombre provisional **maestría**.
+Definir cómo el enfoque en uno o pocos dones condiciona las maestrías y las
+combinaciones de un Invocador, y qué distingue a las excepciones capaces de
+dominar muchos. Después, precisar cómo conviven su igualdad jurídica y el
+estigma social antes de abordar el conocimiento de creación conservado por
+Khalos, la Möes Tábura u otra instancia.
