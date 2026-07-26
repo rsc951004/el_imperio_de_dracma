@@ -528,6 +528,11 @@ esa ausencia de registro no demuestra que el regreso sea imposible. Las
 motivaciones de los Mobius son individuales, no colectivas: algunos prefieren
 permanecer en este mundo en vez de buscar el retorno.
 
+Permanecer en este mundo permite a un Mobius desarrollar una personalidad que
+va más allá de sus deseos inherentes. Por ello, sus ansias y motivaciones pueden
+diferir profundamente entre individuos, incluso respecto del consumo de
+vínculos.
+
 ### Estado de resolución
 
 **Cerrada.** Esta resolución reemplaza la formulación de que los Mobius se
@@ -535,5 +540,84 @@ nutren de Blesk activo.
 
 ### Siguiente nudo propuesto
 
-Falta definir qué persiguen los Mobius que eligen permanecer en este mundo y si
-también consumen vínculos con una finalidad distinta del retorno.
+Corresponde revisar ahora Kantras y sus usos actuales de Blesk, para decidir si
+se refieren a un vínculo, a un don, a una maestría o a una regla que debe
+descartarse.
+
+## R-19. Kantras como ayuda de maestría
+
+**Nudo de origen:** N-01 de la auditoría previa.
+
+### Resolución final
+
+Una **Kantra** es una ayuda mental enseñada durante el proceso de aprender una
+maestría. Sirve para canalizar con mayor precisión aquello que la persona busca
+manifestar mediante su don.
+
+Puede consistir en una acción, un conjunto de acciones, una palabra, un
+conjunto de palabras o una combinación de ambos recursos. No es un vínculo ni
+un don independiente: es una herramienta de la maestría.
+
+El don existe con o sin Kantra. Una Kantra no crea un don ni lo activa; ayuda a
+canalizarlo durante el aprendizaje y el uso de una maestría. Los Sangheskios no
+supieron distinguir esta diferencia y, como consecuencia, creyeron que los
+sacrificios de sangre eran necesarios para activar o manipular dones.
+
+### Estado de resolución
+
+**Cerrada.** Las referencias canónicas que presenten una Kantra como forma de
+activar o canalizar Blesk deberán reexpresarse desde la maestría.
+
+### Siguiente nudo propuesto
+
+Falta determinar si una Kantra es elegida de manera individual por quien la
+aprende, enseñada como una fórmula compartida o ambas cosas según la maestría y
+el maestro.
+
+## R-20. Elección de la Kantra
+
+**Nudo de origen:** N-01 de la auditoría previa.
+
+### Resolución final
+
+La Kantra se elige a gusto de quien la utiliza. Una persona puede crear una
+propia o adoptar la que emplea su maestro. No existe una fórmula obligatoria ni
+una Kantra única exigida por una maestría.
+
+### Estado de resolución
+
+**Cerrada.** La enseñanza puede transmitir Kantras, pero no vuelve universal ni
+necesaria una fórmula particular.
+
+### Siguiente nudo propuesto
+
+La ficha vigente atribuye la creación del primer Invocador a Zoroastro, a un
+rito con elementos ya descartados y al origen de Tarok. Falta decidir si ese
+episodio histórico se reescribe desde las reglas actuales o queda enteramente
+como reserva narrativa mientras se conserva solo que el método existe.
+
+## R-21. Primer Invocador registrado
+
+**Nudo de origen:** N-05 de la auditoría previa.
+
+### Resolución final
+
+Durante una crisis familiar de Astria, el padre de **Therin** lo convirtió en
+Invocador. Therin es el primer Invocador del que se tiene registro.
+
+### Reserva de desarrollo
+
+No se definen aquí los nombres adicionales, el motivo, el contenido del rito,
+los materiales utilizados, sus consecuencias inmediatas ni otros hechos
+vinculados a ese episodio.
+
+### Estado de resolución
+
+**Cerrada con reserva narrativa.** Esta regla no afirma que Therin haya sido el
+primer Invocador existente, sino el primero registrado.
+
+### Siguiente nudo propuesto
+
+La futura explicación de este episodio queda reservada para un desarrollo
+posterior de Astria, que requerirá una transferencia explícitamente autorizada
+desde proto_v2.
