@@ -621,3 +621,90 @@ primer Invocador existente, sino el primero registrado.
 La futura explicación de este episodio queda reservada para un desarrollo
 posterior de Astria, que requerirá una transferencia explícitamente autorizada
 desde proto_v2.
+
+## R-22. Verilium, Grimmen, Mobius y Lumbre del Faro Amarillo
+
+**Nudo de origen:** N-01 y N-05 de la auditoría previa.
+
+### Resolución final
+
+El Verilium no daña por sí mismo a un Portador o Invocador. Si se emplea en un
+objeto que forme una circunferencia cerrada alrededor de alguna parte de su
+cuerpo —como un anillo o un collar—, bloquea el uso de sus dones mientras se
+mantiene esa condición.
+
+El Verilium puede bloquear o encerrar a los Mobius y a sus derivados, pero no
+herirlos. Con los Grimmen ocurre lo contrario: puede herirlos e incluso
+matarlos, pero no contenerlos ni bloquearlos.
+
+La **Lumbre del Faro Amarillo** posee efectos más amplios que el Verilium. La
+luz proyectada por sus combustibles al arder es mortal para los Grimmen y para
+los poseídos. Frente a los Emisarios de la Ruina, sus efectos varían desde la
+ausencia de efecto hasta la letalidad.
+
+### Reserva de desarrollo
+
+No se desarrollan aquí la composición, fabricación u origen de los materiales,
+de los combustibles ni de la Lumbre del Faro Amarillo.
+
+### Estado de resolución
+
+**Cerrada con reserva narrativa.** Esta resolución descarta el Verilium como
+ingrediente de creación de Invocadores y como sustancia que los daña por mero
+contacto.
+
+### Siguiente nudo propuesto
+
+El cuento vigente del Surgimiento atribuye a los Inits una razón concreta para
+haber llegado al mundo: escapar de algo que los perseguía. Esa afirmación
+contradice la finalidad desconocida e incierta ya resuelta. Falta decidir si se
+descarta esa razón y qué mínimo se conserva del encuentro accidental.
+
+## R-23. Causa del Surgimiento
+
+**Nudo de origen:** N-02 de la auditoría previa.
+
+### Resolución final
+
+La causa de la llegada de los Inits a este mundo se ignora por completo dentro
+del mundo. El encuentro entre humanos e Inits durante el Surgimiento fue
+accidental.
+
+Como verdad velada destinada a su futura transferencia canónica, los Inits
+intentaban desprenderse de los Mobius. Durante ese intento cruzaron nuestro
+plano, lograron dejar a los Mobius en él y regresaron a su propio mundo.
+
+### Estado de resolución
+
+**Cerrada con reserva de canon velado.** Durante una transferencia autorizada,
+la verdad anterior deberá marcarse como desconocida para el mundo en general;
+no se expondrá como conocimiento histórico ordinario.
+
+### Siguiente nudo propuesto
+
+El cuento vigente afirma que la luz solar directa destruye a los Mobius. Falta
+decidir si esa debilidad se conserva, se modifica o queda reservada, pues afecta
+su presencia en el mundo después del Surgimiento.
+
+## R-24. Luz solar y forma inmaterial de los Mobius
+
+**Nudo de origen:** N-01 de la auditoría previa.
+
+### Resolución final
+
+La luz solar directa destruye a los Mobius.
+
+La primera luz que recibieron durante el Surgimiento les hizo perder su forma
+material. Desde entonces, los Mobius habitan este mundo de forma inmaterial.
+
+### Estado de resolución
+
+**Cerrada.** La regla no atribuye el mismo efecto a una luz indirecta ni
+desarrolla todavía las formas concretas en que un Mobius inmaterial interactúa
+con el mundo.
+
+### Siguiente nudo propuesto
+
+Falta definir cómo actúa un Mobius inmaterial en el mundo: el canon actual le
+atribuye posesión de cuerpos vivos y uso temporal de cadáveres. ¿Conservamos
+esas dos formas de interacción y bajo qué límites?
