@@ -27,6 +27,8 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Kys Tábura** | Resolver las circunstancias de su desaparición antes de la Edad de Oro. |
 | **Peregrinos Negros** | Resolver el destino de los emisarios que persiguieron a los refugiados astrianos hasta Stigria. |
 | **Emisarios de la Ruina** | Precisar el alcance de su red después de la guerra de Unland y el destino de los capturados. |
+| **Capacidades de los Mobius** | Definir el catálogo y los límites técnicos de sus formas de interacción sin convertirlas en capacidades universales. |
+| **Excepciones entre Portadores** | Definir, cuando corresponda, casos concretos capaces de alcanzar a más de un Init. |
 
 ## Instituciones y territorios
 
@@ -39,6 +41,9 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Edicto del Amanecer** | Fijar su forma, texto y circunstancias detalladas. |
 | **Casas fundadoras** | Completar la historia de las casas fundadoras de los doce reinos. |
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
+| **Möes Tábura** | Desarrollar su jerarquía, organización y trámites internos de clasificación. |
+| **Creación de Invocadores** | Definir la autoridad, los permisos, el procedimiento, los materiales y los riesgos concretos del rito, actualmente casi prohibido. |
+| **Lumbre del Gran Faro** | Definir la composición, fabricación y origen del material sin alterar sus efectos ya establecidos. |
 
 ## Misterios y desarrollos posteriores
 
@@ -48,3 +53,4 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Astria, Thalmos y Erebia** | Desarrollar las fechas, nombres, campañas y trayectorias particulares de la historia remota ya asentada. |
 | **Protectorados y ultramar** | Desarrollar Ishbaal, Lorka, Paicel y las relaciones históricas entre los protectorados. |
 | **Príncipes Perdidos** | Resolver el destino de Eryk Albyon y Thalyssa Coralyss. |
+| **Invocadores y Segunda Dinastía** | Desarrollar las causas, bandos y secuencia del conflicto que consolidó su estigma social y casi destruyó el Imperio. |

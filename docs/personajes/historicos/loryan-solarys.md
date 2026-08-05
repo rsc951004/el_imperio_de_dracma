@@ -24,8 +24,8 @@ a Suntarys, y esa comprensión dio al Edicto del Amanecer su sentido de
 responsabilidad política.
 
 Como gran Portador, Loryan había recibido formación en Khalos desde los diez
-años. En una demostración posterior hizo volar un autómata: el acto tuvo un
-coste real, pero no lo agotó de manera relevante.
+años. En una demostración posterior hizo volar un autómata, una manifestación
+extraordinaria de su maestría.
 
 El Edicto del Amanecer dispuso que la muerte de cualquiera de los tres reyes
 pondría fin a la monarquía y devolvería al pueblo la elección de sus

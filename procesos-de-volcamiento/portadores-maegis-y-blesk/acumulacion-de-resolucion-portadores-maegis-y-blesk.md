@@ -1,4 +1,4 @@
-# Acumulación de resoluciones: Portadores, Maegys y vínculos
+# Acumulación de resoluciones: Portadores, Maeggis y vínculos
 
 ## Estado y autoridad
 
@@ -227,20 +227,20 @@ vinculada reciba entrenamiento.
 
 Falta precisar la frontera entre formación y habilitación profesional: ¿aprobar
 una formación de la Möes Tábura basta para ejercer un oficio con un don, o la
-designación de Maegys Imperial sigue siendo una licencia distinta?
+designación de Maeggi Imperial sigue siendo una licencia distinta?
 
-## R-08. Formación y licencia de Maegys Imperial
+## R-08. Formación y licencia de Maeggi Imperial
 
 **Nudo de origen:** N-06 y N-07 de la auditoría previa.
 
 ### Resolución final
 
 La formación de la Möes Tábura es el camino para obtener una licencia de
-**Maegys Imperial**. Todo Portador o Invocador que desee vivir de su don debe
+**Maeggi Imperial**. Todo Portador o Invocador que desee vivir de su don debe
 contar con esa licencia.
 
 La formación inicial prepara para la primera actividad acreditada. Al aprobar,
-la licencia concede la condición general de Maegys y habilita el ejercicio
+la licencia concede la condición general de Maeggi y habilita el ejercicio
 profesional del don. Recibir instrucción sin obtenerla no basta para prestar
 servicios relacionados con un don.
 
@@ -262,9 +262,9 @@ otorga al iniciar la formación, al obtener una licencia o en ambos momentos?
 ### Resolución final
 
 El título profesional de un Portador o Invocador se obtiene al recibir la
-licencia de **Maegys Imperial**. No se otorga por el mero inicio de la formación.
+licencia de **Maeggi Imperial**. No se otorga por el mero inicio de la formación.
 
-La primera licencia clasifica al Maegys según la actividad y la maestría que
+La primera licencia clasifica al Maeggi según la actividad y la maestría que
 acreditó, con denominaciones provinciales como Portador de Sanación o Portador
 Tempestuoso. Esos títulos no forman una taxonomía universal y solo rigen en el
 marco imperial de la Edad de Oro.
@@ -276,22 +276,22 @@ preliminar otorgue por sí misma un título profesional.
 
 ### Siguiente nudo propuesto
 
-La acumulación prevé que el título puede mutar si el Maegys amplía su maestría.
+La acumulación prevé que el título puede mutar si el Maeggi amplía su maestría.
 El nudo exigía decidir si esa actualización requería una nueva licencia, una evaluación
 de la Möes Tábura o solo el reconocimiento de la práctica demostrada.
 
-## R-10. Alcance de los títulos de Maegys
+## R-10. Alcance de los títulos de Maeggis
 
 **Nudo de origen:** N-08 de la auditoría previa.
 
 ### Resolución final
 
-Los títulos otorgados con una licencia de Maegys Imperial son clasificaciones
+Los títulos otorgados con una licencia de Maeggi Imperial son clasificaciones
 administrativas de la Möes Tábura: sirven para situar a una persona dentro de
 una casilla institucional, pero no agotan su maestría ni definen su valor.
 
 Un instructor puede advertir a sus alumnos que no se apeguen al título que se
-les asigna. Ser Maegys es precisamente lo que permite ejercer y desarrollarse
+les asigna. Ser Maeggi es precisamente lo que permite ejercer y desarrollarse
 más allá de esa clasificación. Fuera de la sede de la Möes Tábura, el título
 tiene poca importancia.
 
@@ -301,7 +301,7 @@ tiene poca importancia.
 
 ### Clasificaciones posteriores
 
-Un Maegys puede solicitar clasificaciones adicionales cuando amplía su maestría.
+Un Maeggi puede solicitar clasificaciones adicionales cuando amplía su maestría.
 El título inicial es siempre uno, pero las clasificaciones posteriores se
 acumulan a lo largo de su vida académica. La posibilidad de actualizar el
 registro existe, aunque posee poca relevancia práctica en la Edad de Oro.
@@ -313,7 +313,7 @@ registro existe, aunque posee poca relevancia práctica en la Edad de Oro.
 ### Siguiente nudo propuesto
 
 El nudo exigía definir qué determina el título inicial de una licencia: ¿la actividad
-profesional para la que el Maegys se habilita, la naturaleza de su don o la
+profesional para la que el Maeggi se habilita, la naturaleza de su don o la
 maestría concreta que acreditó? Esa regla permitirá distinguir, por ejemplo,
 entre un don relacionado con el viento y una clasificación de Portador
 Tempestuoso.
@@ -326,18 +326,18 @@ Tempestuoso.
 
 El título inicial se vincula, por lo general, con la actividad específica para
 la que se obtiene la primera licencia. Quien se forma como sanador mediante su
-don, sea Portador o Invocador, puede recibir la clasificación de **Maegys de
+don, sea Portador o Invocador, puede recibir la clasificación de **Maeggi de
 Sanación**.
 
 La licencia no obliga a trabajar de por vida en el oficio estudiado ni limita
-el uso profesional del don a esa actividad. Un Maegys de Sanación puede
+el uso profesional del don a esa actividad. Un Maeggi de Sanación puede
 integrar la Grim Tábura si aprende a aplicar su don en combate o defensa, sin
 necesidad de obtener otra licencia. También puede abandonar ese ámbito y
 dedicarse a otro oficio, como la construcción o la pesca.
 
 ### Estado de resolución
 
-**Cerrada.** La licencia concede la condición general de Maegys; el título
+**Cerrada.** La licencia concede la condición general de Maeggi; el título
 nombra una clasificación administrativa, no una habilitación separada, una
 identidad laboral exclusiva ni una clasificación absoluta del don.
 
@@ -346,7 +346,7 @@ identidad laboral exclusiva ni una clasificación absoluta del don.
 El nudo exigía cerrar el registro imperial: la acumulación establece que toda persona
 vinculada debe registrarse, con responsabilidad de padres o casa antes de los
 dieciséis años y propia después. ¿Confirmamos esa regla y definimos si el
-registro es independiente de pedir una licencia de Maegys Imperial?
+registro es independiente de pedir una licencia de Maeggi Imperial?
 
 ## R-12. Registro de personas vinculadas
 
@@ -358,7 +358,7 @@ Toda persona vinculada que se encuentre en territorio imperial debe registrarse
 como tal. Antes de cumplir dieciséis años, la responsabilidad corresponde a sus
 padres o a su casa; desde esa edad, corresponde a la propia persona.
 
-El registro es obligatorio e independiente de la licencia de Maegys Imperial.
+El registro es obligatorio e independiente de la licencia de Maeggi Imperial.
 Una persona registrada puede usar libremente su don, pero necesita licencia si
 pretende vivir de él o prestar servicios profesionales relacionados con él.
 
@@ -408,7 +408,7 @@ derechos legales o solo su reputación?
 ### Resolución final
 
 El estigma contra los Invocadores es exclusivamente social: no limita sus
-derechos legales, su registro ni el acceso a una licencia de Maegys Imperial.
+derechos legales, su registro ni el acceso a una licencia de Maeggi Imperial.
 
 Ese prejuicio se relaciona con un conflicto interno de la **Segunda Dinastía**,
 periodo en que se originó la mayor parte de los linajes de Invocadores presentes
@@ -427,27 +427,26 @@ Invocadores queda reservada para una etapa posterior.
 
 ### Siguiente nudo propuesto
 
-Corresponde cerrar la distinción entre Maeggi/Maeggis sangheskios y Maegys
-imperial.
+Corresponde cerrar la distinción entre Maeyis/Maeyiss sangheskios y
+Maeggi/Maeggis imperiales.
 
-## R-15. Forma y alcance de «Maeggi», «Maeggis» y «Maegys»
+## R-15. Formas sangheskianas e imperiales
 
 **Nudo de origen:** N-04 de la auditoría previa.
 
 ### Resolución final
 
-**Maegys** es la forma definitiva e invariable, tanto en singular como en
-plural, para un Portador o Invocador certificado por el Imperio. No designa a
-toda persona vinculada.
+**Maeggi** es el singular y **Maeggis** el plural para Portadores o Invocadores
+certificados por el Imperio. No designan a toda persona vinculada.
 
-**Maeggi** es el singular y **Maeggis** el plural para los Portadores
+**Maeyis** es el singular y **Maeyiss** el plural para los Portadores
 esclavizados por los Sangheskios. Ninguna de las dos formas es una grafía
-alternativa de Maegys ni una denominación imperial.
+alternativa de Maeggi/Maeggis ni una denominación imperial.
 
 ### Estado de resolución
 
-**Cerrada.** Esta resolución sustituye la equivalencia entre Maegys y las
-denominaciones sangheskias. Maegi, Maegis, Maegy y Maeghis quedan descartadas.
+**Cerrada.** Esta resolución separa Maeyis/Maeyiss de Maeggi/Maeggis. Maegi,
+Maegis, Maegy, Maeghis y Maegys quedan descartadas.
 
 ### Siguiente nudo propuesto
 
@@ -874,13 +873,13 @@ habilitantes ni procedimiento.
 **Cerrada con reserva narrativa.** La restricción es transferible al canon; la
 regulación concreta queda reservada.
 
-## R-32. Alcance general de la licencia Maegys
+## R-32. Alcance general de la licencia Maeggi
 
 **Nudo de origen:** N-07 y N-08 de la auditoría previa.
 
 ### Resolución final
 
-La primera licencia concede la condición general de Maegys. Su clasificación
+La primera licencia concede la condición general de Maeggi. Su clasificación
 inicial refleja la formación y la actividad acreditadas en ese momento, pero
 cambiar de oficio no exige otra licencia. La persona debe aprender lo necesario
 para la nueva actividad sin que este proceso formalice trámites adicionales.

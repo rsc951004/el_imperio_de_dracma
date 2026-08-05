@@ -19,6 +19,6 @@ Una Tábura es una asociación formal con estructura, jerarquía y propósito de
 | Dex Tábura | Oficial de Khalos | Gestión de cambios de estamento entre Casas y venia de sucesión. | [Ver ficha](taburas/dex-tabura.md) |
 | Kys Tábura | Histórica de Khalos | Extinta Tábura de la Liberación. Rescató esclavos de Astria durante la Edad de la Podredumbre. | [Ver ficha](taburas/kys-tabura.md) |
 | Grim Tábura | Independiente | Cazadores de Grimm desvinculados de Khalos. | [Ver ficha](taburas/grim-tabura.md) |
-| Möes Tábura | Independiente | Formada por antiguos Portadores esclavizados; su función permanece reservada. | [Ver ficha](taburas/moes-tabura.md) |
+| Möes Tábura | Independiente | Forma y certifica Portadores e Invocadores; estudia sus dones y maestrías. | [Ver ficha](taburas/moes-tabura.md) |
 | Grien Tábura | Clandestina | <!-- CANON-VELADO: INICIO | desconocido-por: la población de Sindria y los monarcas no iniciados -->Sociedad secreta de seguidores y servidores del Rey Podrido en Sindria.<!-- CANON-VELADO: FIN --> | [Ver ficha](taburas/grien-tabura.md) |
 | Mort Tábura | Clandestina | Seguidores del Dios Negro supervivientes de la caída de Astria. | [Ver ficha](taburas/mort-tabura.md) |

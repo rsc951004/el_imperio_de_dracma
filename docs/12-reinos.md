@@ -64,7 +64,7 @@ Dragma.
 | Flemmengard | Volcanes, actividad geotérmica y piromancia |
 | Sturmgard | Fiordos, tormentas y clima extremo |
 | Lysarya | Pastoreo, piedad y trabajo |
-| Veleskaria | Blesk, refugio de Portadores y protección de Khalos |
+| Veleskaria | Estudio de dones y maestrías, refugio de Portadores y protección de Khalos |
 | Zephyrya | Belleza, serenidad y costas violetas |
 | Kyst | Puerto Gris, pesca y cielos nublados |
 | Lyng | Brezales, viñedos y agricultura |

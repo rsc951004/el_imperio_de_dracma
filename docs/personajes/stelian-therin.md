@@ -17,7 +17,7 @@ Stelian no desciende del Primer Rey Sol Therin.
 ## Origen
 
 Stelian nació entre los Sangheskios esclavizados después de la caída de
-Sanghesk. Sus padres ocultaron que era un Maegi. Cuando tenía catorce años,
+Sanghesk. Sus padres ocultaron que era un Maeyis. Cuando tenía catorce años,
 Rudgar lo encontró en una fortaleza de Sturm destruida por las fuerzas del Rey
 Podrido.
 
@@ -25,8 +25,8 @@ Podrido.
 
 Stelian fue el único Portador del Sol vivo conocido en su tiempo. Proyectaba
 fulgor solar desde sus manos y pudo herir al Rey Podrido cuando este intentó
-poseer a Rudgar. Usó la Kantra **«Ta-besh»** para canalizar su Blesk durante la
-Guerra de Unland.
+poseer a Rudgar. Usó la Kantra **«Ta-besh»** como ayuda mental para una de sus
+maestrías durante la Guerra de Unland.
 
 ## Historia
 

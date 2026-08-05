@@ -2,13 +2,14 @@
 
 ## Tipo
 
-Palabra o acción utilizada por algunos Portadores para activar o canalizar con
-mayor precisión su Blesk.
+Palabra o acción que una persona vinculada elige o crea como ayuda mental para
+una maestría. Puede adoptar la utilizada por su maestro o desarrollar una
+propia. No activa el don, no es obligatoria y no existe una fórmula universal.
 
 ## Ejemplo documentado
 
-Durante la Guerra de Unland, Stelian Therin empleó la Kantra **«Ta-besh»** al
-manifestar su fulgor solar.
+Durante la Guerra de Unland, Stelian Therin empleó la Kantra **«Ta-besh»** como
+apoyo al manifestar su fulgor solar.
 
 ## Referencias
 

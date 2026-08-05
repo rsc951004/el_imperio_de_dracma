@@ -64,9 +64,9 @@ Rudgar recibió de Aurethyron el artefacto místico **Rugido Mordaz** y entregó
 este la **Llave de Dürr**. El metal de Rugido Mordaz permanece sin nombre y no
 es Acero del Alba.
 
-Una **Kantra** es una palabra o una acción que algunos Portadores emplean para
-activar o canalizar mejor su Blesk. Stelian utilizó la Kantra «Ta-besh» durante
-la guerra de Unland.
+Una **Kantra** es una palabra o una acción elegida o creada como ayuda mental
+para una maestría. No activa el don ni es obligatoria. Stelian utilizó la
+Kantra «Ta-besh» durante la guerra de Unland.
 
 ## El segundo sellado
 

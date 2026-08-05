@@ -1,4 +1,4 @@
-# Acumulación: Portadores, Maegys y vínculos
+# Acumulación: Portadores, Maeggis y vínculos
 
 ## Estado y límite de autoridad
 
@@ -29,12 +29,12 @@ de cuánto potencial de ese vínculo consiga desarrollar cada persona.
 - Alinear la naturaleza y función de los Inits con la condición de que materializar deseos sea una capacidad y no su fin.
 - Definir un vocabulario que distinga el vínculo con un Init de la manifestación que este permite.
 - Determinar cómo se expresa la herencia sin convertir la disminución de personas vinculadas por mezcla en una regla matemática o automática, ni atribuirle una merma del alcance del vínculo.
-- Distinguir las denominaciones históricas de Portador, Maeggi, Maeggis y
-  Maegys sin
+- Distinguir las denominaciones históricas de Portador, Maeyis, Maeyiss,
+  Maeggi y Maeggis sin
   confundir condición vinculada, esclavitud sangheskia y certificación imperial.
 - Revisar las consecuencias sobre los Inits, Portadores, Invocadores y los casos particulares ya documentados, sin alterar sus reservas narrativas ni sus marcas de canon velado.
 
-## A-02. Maeggi y Maeggis sangheskios; Maegys imperiales
+## A-02. Maeyis y Maeyiss sangheskios; Maeggi y Maeggis imperiales
 
 **Estado:** acordado por el humano.
 
@@ -44,19 +44,21 @@ Erebia. Durante los siglos que permanecieron allí desarrollaron costumbres y
 una lengua propias.
 
 Más tarde abandonaron la isla, llegaron directamente a Stigria y desembarcaron
-en Rauven. **Maeggi** es el singular y **Maeggis** el plural para los Portadores
+en Rauven. **Maeyis** es el singular y **Maeyiss** el plural para los Portadores
 esclavizados por los Sangheskios.
 
-**Maegys**, tanto en singular como en plural, es la denominación imperial para
-un Portador o Invocador que cuenta con certificación imperial. No es un renombre
-sangheskio ni una condición equivalente a cualquier persona vinculada.
+**Maeggi** es el singular y **Maeggis** el plural de la denominación imperial
+para Portadores o Invocadores que cuentan con certificación imperial. No son
+renombres sangheskios ni una condición equivalente a cualquier persona
+vinculada.
 
 ### Consecuencias que deberán auditarse
 
-- Localizar las referencias a Maegi y Maegis para sustituirlas por Maeggi o
-  Maeggis según el número y relacionarlas con la esclavitud sangheskia, no con
+- Localizar las referencias sangheskias para sustituirlas por Maeyis o Maeyiss
+  según el número y relacionarlas con la esclavitud sangheskia, no con
   la certificación imperial.
-- Reservar Maegys para Portadores e Invocadores certificados por el Imperio.
+- Reservar Maeggi y Maeggis para Portadores e Invocadores certificados por el
+  Imperio.
 
 ## A-03. Vínculo y don
 
@@ -139,11 +141,11 @@ Portador.
 
 Una persona vinculada puede usar libremente su don. Sin embargo, no puede
 ganarse la vida ni prestar servicios relacionados con ese don, salvo que
-obtenga la designación de **Maegys Imperial**.
+obtenga la designación de **Maeggi Imperial**.
 
 Para solicitarla, la persona vinculada debe acudir a la **Möes Tábura** y
 superar los cursos y pruebas correspondientes a su primera formación. Al
-aprobar, recibe la licencia y la condición de Maegys Imperial. Esa primera
+aprobar, recibe la licencia y la condición de Maeggi Imperial. Esa primera
 licencia basta para el ejercicio profesional posterior: cambiar de oficio no
 exige otra licencia, aunque la persona debe aprender lo necesario para la nueva
 actividad.
@@ -165,11 +167,11 @@ nombres de los Portadores se empleaban de otra manera.
 - Incorporar el papel de la Möes Tábura en la formación, evaluación y primera
   licencia, así como en el estudio y desarrollo intergeneracional de
   dones y maestrías, antes de deducir derechos, deberes o excepciones
-adicionales de un Maegys Imperial.
+adicionales de un Maeggi Imperial.
 - Separar las normas imperiales de los usos preimperiales en las fichas y
   marcos históricos afectados.
 
-## A-06. Clasificación provincial y oficios de los Maegys
+## A-06. Clasificación provincial y oficios de los Maeggis
 
 **Estado:** acordado por el humano.
 
@@ -179,21 +181,21 @@ Fuego». El primer título es uno; las clasificaciones posteriores pueden
 solicitarse y acumularse durante la vida académica. Leondras Solarys fue
 clasificado siempre como Portador Tempestuoso.
 
-Los **Maegys**, Portadores o Invocadores certificados para ejercer un oficio,
+Los **Maeggis**, Portadores o Invocadores certificados para ejercer un oficio,
 trabajan en ámbitos diversos. Los
 principales son el ejercicio independiente —donde se encuentra la mayoría de
 los curanderos—, la milicia, la Grim Tábura como cazadores de Grimm y la propia
 Möes Tábura como maestros o en cualquiera de sus estructuras internas. Ejercer
-cualquiera de esos oficios exige ser Maegys.
+cualquiera de esos oficios exige ser Maeggi.
 
 ### Consecuencias que deberán auditarse
 
 - Diferenciar el registro de una persona vinculada, la primera licencia que le
-  concede la condición de Maegys y las clasificaciones administrativas que
+  concede la condición de Maeggi y las clasificaciones administrativas que
   describen su formación.
 - Tratar los títulos como clasificaciones acumulables según la maestría
   demostrada, no como una identidad fija ni como una clase ontológica.
-- Delimitar los ámbitos de oficio de los Maegys sin reducirlos a una lista
+- Delimitar los ámbitos de oficio de los Maeggis sin reducirlos a una lista
   cerrada ni convertir las clasificaciones en licencias separadas.
 
 ## A-07. Invocadores
@@ -260,7 +262,7 @@ artificial del vínculo.
 - Conservar como reserva la autoridad, los permisos y el procedimiento de una
   creación nueva que despoja a otro Portador de su vínculo.
 - Verificar que el registro, las certificaciones, los títulos y las licencias
-  de Maegys Imperial se apliquen sin excepción a los Invocadores.
+  de Maeggi Imperial se apliquen sin excepción a los Invocadores.
 - Evitar que el registro, un título o una única manifestación de don se usen
   para identificar a una persona como Invocador.
 - Separar la herencia predominante de vínculos creados artificialmente de las

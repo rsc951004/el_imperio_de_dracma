@@ -31,7 +31,10 @@ Las Puertas Rojas bloquean el paso entre el Espolón de Dunkel y Dorn.
 
 ## Faro posterior
 
-El Gran Faro de Esteria es posterior a la Edad de Plata. Su luz es amarilla. La construcción del Faro, sus materiales y su funcionamiento permanecen pendientes.
+El Gran Faro de Esteria es posterior a la Edad de Plata. En él se quema la
+**Lumbre**, un material fabricado cuya combustión produce la luz amarilla y sus
+efectos. La composición, la fabricación y el origen del material permanecen
+reservados.
 
 ## Reclamación de Sindria
 

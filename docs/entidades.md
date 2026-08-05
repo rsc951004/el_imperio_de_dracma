@@ -33,9 +33,9 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
 | Inits | Entidad primordial | Entidades interdimensionales. Canales vivos entre la voluntad y la realidad. | [Ver ficha](entidades/inits.md) |
-| Mobius | Entidad parásita | Entidades interdimensionales parásitas. Se alimentan de Blesk. Desarrollaron individualidad al quedar atrapados en este plano. | [Ver ficha](entidades/mobius.md) |
-| Portadores | Condición humana | Humanos que heredan un Blesk natural: puente unidireccional a un Init en Irij. | [Ver ficha](entidades/portadores.md) |
-| Invocadores | Condición humana | Humanos que roban y alteran un Blesk ajeno para conectarse a múltiples Inits. | [Ver ficha](entidades/invocadores.md) |
+| Mobius | Entidad interdimensional | Presencias inmateriales de Irij que pueden consumir por completo el vínculo de una persona. | [Ver ficha](entidades/mobius.md) |
+| Portadores | Condición humana | Personas que heredan un vínculo con los Inits y manifiestan normalmente un don. | [Ver ficha](entidades/portadores.md) |
+| Invocadores | Condición humana | Personas que reciben o heredan un vínculo adquirido y ampliado originalmente mediante un rito. | [Ver ficha](entidades/invocadores.md) |
 | Rey Podrido | Entidad soberana | Gobernante del Reino Podrido, confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |
 | Ghera | Deidad (tradición gheran) | Diosa que habría expulsado a los Grimm y formado Stömur junto con Smürr. | [Ver ficha](entidades/ghera.md) |
 | Smürr | Criatura mítica | Serpiente Plateada y montura de Ghera en la tradición gheran. | [Ver ficha](entidades/smurr.md) |

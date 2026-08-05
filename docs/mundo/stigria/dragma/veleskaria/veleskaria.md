@@ -18,11 +18,11 @@ Reino del Imperio de Dragma y protector de Khalos.
 
 ## Concepto
 
-Veleskaria es el epicentro místico de Stigria. Sus academias estudian y
-practican el Blesk, sus refugios reciben a Portadores perseguidos y sus
-caravanas abastecen Esteria. La minería del Verilium pertenece a Eisengard; la
-identidad de Veleskaria se organiza alrededor del saber y la defensa, no de la
-extracción minera.
+Veleskaria es el principal centro de estudio de vínculos, dones y maestrías de
+Stigria. Sus academias forman a personas vinculadas, sus refugios reciben a
+Portadores perseguidos y sus caravanas abastecen Esteria. La minería del
+Verilium pertenece a Eisengard; la identidad de Veleskaria se organiza alrededor
+del saber y la defensa, no de la extracción minera.
 
 ## Acceso al Norte
 

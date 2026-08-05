@@ -18,12 +18,10 @@ y condujo a los supervivientes hasta un conjunto de islas. Allí fundaron Astria
 la Nación de la Luz.
 
 Astria fue durante largo tiempo una nación próspera de Portadores. Su decadencia
-comenzó con la colonización y esclavización de islas vecinas. En una de ellas,
-Soroastro Zorana intentó convertir a su hijo adoptivo y esclavo, Thalmos, en
-Portador mediante el vínculo con un Init de destrucción. El resultado que dio
-origen a Thalmos no se produjo como una creación deliberada: pudo haber sido un
-accidente. Para contenerlo, Soroastro sacrificó su propio Blesk y convirtió a
-Therin, su otro hijo adoptivo, en el primer Invocador.
+comenzó con la colonización y esclavización de islas vecinas. Durante una crisis
+familiar, el padre de Therin lo convirtió en Invocador. Therin es el primer
+Invocador del que se tiene registro. El rito, sus circunstancias concretas y el
+relato completo de aquella crisis permanecen reservados.
 
 Therin llevó a Thalmos a su isla de origen, todavía sin nombre establecido. Allí
 se unió a un joven Portador Sombrío procedente de Erebia. Juntos liberaron la
@@ -33,8 +31,9 @@ arma durante esa liberación.
 
 La diarquía perduró por generaciones. Su caída llegó cuando el último Rey Sombra
 traicionó al último Rey Sol y Astria invadió la isla. Años después, cautivo en
-la capital astriana, el último Rey Sol liberó todo su Blesk. La explosión hundió
-la isla central de Astria y las demás islas de la Nación de la Luz. Para
+la capital astriana, el último Rey Sol manifestó su don con toda su amplitud.
+La explosión hundió la isla central de Astria y las demás islas de la Nación de
+la Luz. Para
 entonces, Khalos ya había evacuado a los esclavos que pudo rescatar de las islas
 vecinas.
 <!-- CANON-VELADO: FIN -->

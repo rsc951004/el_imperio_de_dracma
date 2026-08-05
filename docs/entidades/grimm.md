@@ -20,11 +20,18 @@ Durante la Edad de la Podredumbre, el Rey Podrido subyugó a numerosos Grimm. No
 
 Los Grimm están ligados a Stigria por un vínculo relacionado con su origen y no pueden abandonar el continente. Se desconoce qué ocurriría si intentaran hacerlo.
 
+## Verilium
+
+El Verilium hiere a los Grimm. Este efecto no equivale a la contención que el
+material ejerce sobre los Mobius ni al bloqueo de dones mediante una
+circunferencia cerrada.
+
 ## Relaciones
 
 - **Stigrios:** sus principales víctimas durante la Gran Devoración.
 - **Ghera:** deidad que, según la tradición, los expulsó hacia el oriente.
 - **Gheran:** pueblo formado por los supervivientes que se organizaron para combatirlos.
+- **Verilium:** material capaz de herirlos.
 
 ## Referencias
 

@@ -50,7 +50,9 @@ Las grutas de Delfos albergan **tierras extrañas**, minerales con propiedades o
 Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **el Grimmen** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stömur.
 
 ### Relación con Esteria
-La relación histórica entre Delfos y el Gran Faro de Esteria permanece pendiente. Los materiales y el funcionamiento del Faro no están documentados.
+La relación histórica entre Delfos y el Gran Faro de Esteria permanece
+pendiente. El Faro quema Lumbre, pero no se ha establecido relación alguna
+entre Delfos y la composición, fabricación u origen de ese material.
 
 ## Referencias
 - `docs/mundo.md`

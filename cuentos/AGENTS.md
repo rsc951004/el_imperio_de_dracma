@@ -11,7 +11,8 @@ Todo lo que aquí se escribe es lore oficial del universo.
 2. **Un cuento por carpeta.** Cada cuento vive en `cuentos/<nombre-del-cuento>/cuento.md`.
 3. **Sin protoversiones aquí.** Las protoversiones viven en `protoversiones/`, nunca en `cuentos/`.
 4. **Leer docs/ antes de escribir.** Antes de crear o modificar un cuento, el agente debe leer:
-   - `docs/entidades/` — para no romper la naturaleza de Inits, Mobius, Blesk, Portadores, Invocadores.
+   - `docs/entidades/` — para no romper la naturaleza de Inits, Mobius,
+     vínculos, dones, Portadores e Invocadores.
    - `docs/taburas.md` y `docs/organizaciones.md` — para no romper grupos y asociaciones establecidos.
    - `docs/personajes.md` — para no romper personajes establecidos.
    - `docs/mundo.md` — para no romper ambientación ni reglas del mundo.
@@ -34,9 +35,11 @@ Todo lo que aquí se escribe es lore oficial del universo.
 - La emoción se dramatiza, no se explica. Mostrar, no glosar.
 
 ### Worldbuilding
-- **No se explica. Se muestra.** Nada de párrafos describiendo cómo funciona Blesk. El lector lo entiende al ver a un portador usarlo.
+- **No se explica. Se muestra.** Nada de párrafos que funcionen como manual del
+  vínculo, el don o las maestrías. El lector los entiende mediante las acciones.
 - **No hay manuales de magia dentro de la narración.** Si un personaje no entiende algo, el lector tampoco. Si lo entiende, lo vemos a través de sus acciones y consecuencias.
-- Los términos canónicos (Blesk, Mobius, Irij, Inits) se introducen con naturalidad, no con definiciones de diccionario.
+- Los términos canónicos (vínculo, don, maestría, Mobius, Irij e Inits) se
+  introducen con naturalidad, no con definiciones de diccionario.
 
 ### Ritmo
 - Las escenas importantes merecen espacio. No se despacha un combate o una revelación en tres líneas.
@@ -51,16 +54,18 @@ Todo lo que aquí se escribe es lore oficial del universo.
 | Término desechado | Término canónico |
 |---|---|
 | Sombra / los Sombra | Mobius |
-| La luz de los Inits | Blesk o fulgor |
+| La luz de los Inits | Fulgor o manifestación del don, según el contexto |
 | Orilquin | Irij |
 | Portadores de la Luz | Portadores |
-| La lumbre | Describir sin nombrar: claridad tenue en el iris |
-| Don / dones / poderes | Blesk (el puente), manifestación de voluntad |
+| Denominaciones especiales de la señal ocular | Describir directamente el brillo de los ojos |
+| Poder / poderes | Don, dones o maestrías, según el contexto |
 
 ### Lo que NUNCA debe aparecer
 - «Los Sombra» como nombre de entidad.
 - «Portadores de la Luz» como título.
-- «La lumbre» como sustantivo poético.
+- Un término único que confunda vínculo, don y maestría.
+- Un nombre especial para la señal ocular. **Lumbre** designa únicamente el
+  material fabricado que arde en el Gran Faro de Esteria.
 - Explicaciones didácticas de mecánicas de magia.
 - Arcaísmos forzados.
 - Prosa inflada que intente sonar «épica» y pierda claridad.
@@ -85,4 +90,4 @@ cuentos/
 
 ---
 
-_Versión: 2.1.0 | Solo contenido canónico. Prosa moderna, fantasía oscura._
+_Versión: 2.2.0 | Solo contenido canónico. Prosa moderna, fantasía oscura._

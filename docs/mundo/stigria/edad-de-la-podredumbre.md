@@ -69,8 +69,8 @@ tétrica, aunque sus facciones eran las de un joven hermoso.
 
 Rudgar bajó su espada y comenzó a aceptar la rendición. Antes de que el Rey
 pudiera tocarlo, Stelian extendió las manos y proyectó contra él una descarga de
-fulgor solar. Rudgar creyó oír que gritaba **«Ta-besh»**, una Kantra usada para
-canalizar su Blesk.
+fulgor solar. Rudgar creyó oír que gritaba **«Ta-besh»**, una Kantra que Stelian
+usaba como ayuda mental para aquella maestría.
 
 El fulgor quemó las ropas y el cuerpo del Rey Podrido. Mientras huía entre la bruma, su grito sonó como miles de voces humanas al mismo tiempo. Stelian volvió a manifestar su poder ante Rudgar, quien reaccionó con desconfianza por su condición de Portador sangheskio. Después de numerosos desacuerdos, Rudgar terminó aceptando su ayuda. Los detalles de esa reconciliación permanecen desconocidos.
 

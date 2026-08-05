@@ -4,75 +4,100 @@ Nombre común: **Portadores**.
 
 ## Naturaleza
 
-Humano que hereda por sangre un Blesk natural: un puente unidireccional entre su
-voluntad y un Init en Irij. El portador no obtiene poderes distintos: obtiene la
-capacidad de manifestar su voluntad en la realidad. Su cuerpo, su cultura y su
-entrenamiento traducen esa capacidad en formas concretas, como fuego, curación o
-viento.
+Un Portador es una persona que hereda por sangre un vínculo permanente con los
+Inits. Ese vínculo le permite manifestar un **don**, mientras que las
+**maestrías** son las aplicaciones que aprende y desarrolla a partir de ese
+don.
 
-El Blesk natural no es recíproco. El Init al otro lado del puente probablemente
-ignora la existencia del portador. El portador es el único extremo activo de la
-conexión.
+Un Portador posee normalmente un solo don y alcanza normalmente a un Init. Esto
+no constituye una imposibilidad absoluta, pero las excepciones concretas
+permanecen reservadas. El Init alcanzado no puede identificarse de forma fiable
+ni permite deducir de antemano la naturaleza del don.
 
 ## Origen
 
-El primer portador de cada linaje tocó a un Init durante el Surgimiento. Ese
-contacto accidental abrió el Blesk. Desde entonces se hereda de forma
-impredecible: en ciertos linajes salta generaciones; en otros aparece con
-fuerza; en algunos se extingue sin aviso.
-
-Todos los portadores descienden de alguien que estuvo cerca de un Init la noche
-del Surgimiento. No hay otra fuente de Blesk natural.
+Los primeros vínculos de Portadores surgieron durante el encuentro accidental
+entre humanos e Inits en el Surgimiento. La denominación **Portadores** nació en
+Erebia, fue transmitida a Astria y llegó después a Stigria.
 
 ## Herencia
 
-El Blesk es único por linaje. Un hijo no recibe un puente nuevo: hereda el mismo
-que abrió su ancestro hacia el mismo Init. Por eso los linajes tienden a
-manifestar el poder de formas similares y por eso ciertos linajes son más
-potentes o estables que otros.
+El vínculo se hereda, pero no conecta a cada linaje con un Init fijo. Su
+manifestación puede saltar generaciones y no depende de la voluntad de nadie.
 
-La herencia no sigue reglas fijas. Puede dormir generaciones y despertar en un
-descendiente lejano. No depende de la voluntad de nadie.
+La mezcla de linajes reduce la cantidad de descendientes en quienes se
+manifiesta el vínculo, no el alcance del vínculo cuando aparece. Las formas de
+manifestar un don dependen de la persona y de las maestrías que haya
+desarrollado.
 
-## Señal física
+## Señal ocular
 
-Los portadores muestran una claridad tenue en el iris, visible al caer la tarde.
-En adultos suele permanecer oculta y solo reaparece cuando el portador exige el
-Blesk al límite.
+Durante la infancia, los ojos de Portadores e Invocadores presentan un brillo
+tenue e involuntario. Después de esa etapa, brillan mientras la persona utiliza
+su don o sus dones. No existe una edad exacta ni una escala formal de
+intensidad para esta señal.
 
-## Coste
+## Esfuerzo
 
-Usar el Blesk consume al portador, pero ese coste no sigue una medida exacta ni
-idéntica entre personas. La magnitud de un acto importa, aunque un gran
-Portador puede sostener una manifestación extraordinaria con un agotamiento
-mucho menor que otro Portador. El puente no se gasta, pero el cuerpo humano
-tiene un límite para sostenerlo activo.
+No existe una regla universal de desgaste por utilizar un don. El esfuerzo
+depende de la persona y de lo realizado, sin escala, proporcionalidad, síntomas
+obligatorios ni coste sobrenatural común a todos los Portadores.
+
+## Registro, licencia y denominaciones
+
+Toda persona vinculada que se encuentre en territorio imperial debe
+registrarse. Antes de los dieciséis años responden sus padres o su casa; desde
+esa edad, la responsabilidad recae en la propia persona. El registro no concede
+por sí mismo una licencia. Una persona registrada puede usar libremente su don,
+pero necesita licencia para vivir de él o prestar servicios profesionales
+relacionados.
+
+La primera licencia imperial concede la condición de **Maeggi**, cuyo plural es
+**Maeggis**. Las clasificaciones asociadas a la formación
+son administrativas y no forman una taxonomía universal de dones. Cambiar de
+oficio no exige una licencia nueva, aunque la persona debe aprender lo necesario
+para ejercerlo.
+
+Erebia, Astria y los sabios de Khalos rechazaron históricamente una taxonomía
+universal. Los nombres de Portadores dependen del contexto, la actividad o la
+maestría observada y no definen categorías absolutas.
+
+En la lengua de los Sangheskios, **Maeyis** es el singular y **Maeyiss** el
+plural para los Portadores esclavizados por ellos. Estas denominaciones no
+equivalen a la certificación imperial.
+
+## Verilium
+
+El mero contacto con Verilium no daña a un Portador. El material bloquea sus
+dones cuando forma una circunferencia cerrada alrededor de una parte de su
+cuerpo.
 
 ## Relaciones
 
-- **Init:** destino involuntario del puente, sin contacto con el portador.
-- **Mobius:** se alimentan del Blesk activo; su presencia cercana puede
-  corromper el puente.
-- **Invocador:** a diferencia del invocador, el portador no necesita ritos. Su
-  Blesk es interno y heredado, no robado ni alterado.
+- **Init:** entidad alcanzada por el vínculo de un Portador.
+- **Mobius:** puede consumir por completo el vínculo y destruir a la persona en
+  el proceso.
+- **Invocador:** persona que recibe o hereda un vínculo adquirido originalmente
+  mediante un rito.
 
 ## Portadores Sombríos
 
 Los **Portadores Sombríos** son una manifestación rara de los Portadores. Radu
 es el único caso antiguo documentado en Stigria. Su naturaleza, herencia y
-capacidades permanecen pendientes.
+capacidades permanecen reservadas.
 
 ## Edad de la Podredumbre y Edad de Plata
 
-Numerosos esclavos liberados de Astria eran Portadores. Utilizaron sus
-facultades para transformar Dürr y crear la Costa del Verano.
+Numerosos esclavos liberados de Astria eran Portadores. Utilizaron sus dones y
+maestrías para transformar Dürr y crear la Costa del Verano.
 
-**Stelian Therin**, descendiente de Sangheskios esclavizados, fue el único Portador
-del Sol vivo conocido durante la Edad de Plata. Su fulgor pudo herir físicamente
-al Rey Podrido. Durante la guerra de Unland usó la Kantra «Ta-besh».
+**Stelian Therin**, descendiente de Sangheskios esclavizados, fue el único
+Portador del Sol vivo conocido durante la Edad de Plata. Su fulgor hirió
+físicamente al Rey Podrido. Durante la guerra de Unland usó la Kantra
+«Ta-besh».
 
-Una **Kantra** es una palabra o una acción que algunos Portadores utilizan para
-activar o canalizar mejor su Blesk.
+Una **Kantra** es una palabra o acción elegida o creada como ayuda mental para
+una maestría. No activa el don ni es obligatoria.
 
 Al final de la Edad de la Podredumbre, un grupo de Portadores abrió el Foso de
 la Calamidad dentro del Riegel y derrumbó completamente el conducto subterráneo
@@ -80,8 +105,8 @@ del Rost.
 
 ## Referencias
 
-- cuentos/0001-el-surgimiento/cuento.md
-- docs/personajes/radu.md
-- docs/personajes/stelian-therin.md
-- docs/mundo/stigria/costa-del-verano.md
-- docs/mundo/stigria/foso-de-la-calamidad.md
+- `docs/personajes/radu.md`
+- `docs/personajes/stelian-therin.md`
+- `docs/mundo/stigria/costa-del-verano.md`
+- `docs/mundo/stigria/foso-de-la-calamidad.md`
+- `docs/mundo/stigria/kantra.md`

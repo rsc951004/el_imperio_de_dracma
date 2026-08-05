@@ -70,7 +70,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Rugido Mordaz | Artefacto místico | Conjunto entregado por Aurethyron a Rudgar durante el Pacto de Dürr. | [Ver ficha](mundo/stigria/rugido-mordaz.md) |
 | Llave de Dürr | Insignia histórica | Diadema entregada por Rudgar a Aurethyron. | [Ver ficha](mundo/stigria/llave-de-durr.md) |
 | Acero del Alba | Material | Aleación que hiere a Grimm y poseídos. | [Ver ficha](mundo/stigria/acero-del-alba.md) |
-| Kantra | Técnica de Portadores | Palabra o acción usada para canalizar el Blesk. | [Ver ficha](mundo/stigria/kantra.md) |
+| Kantra | Ayuda para la maestría | Palabra o acción elegida o creada como apoyo mental para una maestría. | [Ver ficha](mundo/stigria/kantra.md) |
 | Guerra de Unland | Conflicto | Campaña de Recuperación de Unland y origen de Kystgard, Lynggard y Bjorngard. | [Ver ficha](mundo/stigria/guerra-de-unland.md) |
 | Emisarios de la Ruina | Servidores del Rey Podrido | Personas entregadas voluntariamente al Rey Podrido. | [Ver ficha](mundo/stigria/emisarios-de-la-ruina.md) |
 | Roshdom | Fortaleza histórica | Jaula Negra de Rauven y escenario del segundo sellado. | [Ver ficha](mundo/stigria/roshdom.md) |

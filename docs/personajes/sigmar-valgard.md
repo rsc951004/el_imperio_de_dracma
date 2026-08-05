@@ -8,7 +8,7 @@ Sexto Raik de la Casa Valgard y nieto de Eirik Valgard.
 
 Cuando Sindgard llevó su reclamación sobre Esteria al Gran Consejo de Eldengard,
 Sigmar decretó que el protectorado quedaría sin señor hasta la aparición de un
-Maegi Solar. La Guardia Amarilla recibió autorización para autogestionarse.
+Portador Solar. La Guardia Amarilla recibió autorización para autogestionarse.
 
 El decreto dejó a Sindgard una promesa jurídica sin soberanía efectiva y fijó la
 forma duradera de la disputa entre Sindria y Esteria.

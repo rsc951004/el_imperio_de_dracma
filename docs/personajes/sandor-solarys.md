@@ -3,7 +3,8 @@
 ## Identidad
 Cronista y erudito de la Ciudadela de Khalos. Miembro de la Sish Tábura (rama de crónica, archivos e historia). Autor de las *Crónicas de Erebia*, las *Crónicas de Astria* y las *Crónicas de Dragma*. Pertenece a la Casa Solarys, antigua casa noble de Zephyrya.
 
-**No es portador.** Su valor no está en el Blesk, sino en la memoria, la investigación y la palabra.
+**No es portador.** Su valor no está en un don, sino en la memoria, la
+investigación y la palabra.
 
 ## Casa
 **Casa Solarys.** Casa noble de Zephyrya. Su relación histórica con Suntarys
@@ -29,7 +30,11 @@ Joven. Conoció a Yanos a los dieciséis años. En la época de las cartas ya es
 - **Doryan Solarys** (padre): noble muy reconocido en Zephyrya y en todo el Imperio de Dragma.
 - **Vera Pavel** (madre, de soltera Pavel): prima del actual emperador. Al casarse con Doryan, eligió pasar a formar parte de la Casa Solarys, perdiendo con ello cualquier derecho hereditario en la casa imperial. Que una prima del emperador eligiera ser Solarys por encima de Pavel fue un golpe de prestigio para la casa.
 - **Sucesión:** El antiguo cabeza de familia decretó antes de morir que Doryan Solarys fuera el sucesor. Doryan, a su vez, ha decretado que Leondras será el próximo cabeza. Sandor queda fuera de la línea de sucesión.
-- **Leondras Solarys** (hermano mayor): Portador con dominio del viento. Relación de cariño real entre ambos, pero desgastada por quienes usan a Leondras para señalar que Sandor no es portador. Sandor no resiente a su hermano; resiente a quienes los comparan.
+- **Leondras Solarys** (hermano mayor): Maeggi clasificado siempre como
+  **Portador Tempestuoso**, con dominio del viento. Relación de cariño real
+  entre ambos, pero desgastada por quienes usan a Leondras para señalar que
+  Sandor no es portador. Sandor no resiente a su hermano; resiente a quienes
+  los comparan.
 - **Dyas Solarys** (tatarabuelo): explorador e historiador. Visitó Erebia. Su diario permitió a Sandor descubrir la cámara oculta en Khalos y escribir las *Crónicas*.
 
 ## Conflicto interno
@@ -50,5 +55,5 @@ Obra que compila la historia de Erebia, Astria y Dragma a partir de fuentes frag
 - **Sish Tábura:** La rama de crónica de Khalos que respalda y publica su obra.
 
 ## Referencias
-- `cuentos/0001-el-surgimiento/cuento.md`
+
 - `docs/personajes/yanos-gueika.md`

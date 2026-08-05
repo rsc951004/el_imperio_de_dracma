@@ -1,9 +1,8 @@
-# Plan de volcamiento: Portadores, Maegys y vínculos
+# Plan de volcamiento: Portadores, Maeggis y vínculos
 
 ## Estado y límite de autoridad
 
-**Estado:** planificación actualizada; volcamiento autorizado y pendiente de
-ejecución.
+**Estado:** volcamiento ejecutado.
 
 Este documento organiza el futuro traslado de las resoluciones de este proceso
 hacia el canon. No es canon ni constituye por sí mismo una autorización. La
@@ -30,10 +29,10 @@ descartada.
 - **Vínculo:** conexión permanente entre una persona y uno o más Inits.
 - **Don:** capacidad que el vínculo permite manifestar.
 - **Maestría:** aplicaciones aprendidas y desarrolladas de un don.
-- **Maeggi / Maeggis:** singular y plural, respectivamente, para los Portadores
+- **Maeyis / Maeyiss:** singular y plural, respectivamente, para los Portadores
   esclavizados por los Sangheskios.
-- **Maegys:** forma invariable para un Portador o Invocador con licencia
-  imperial.
+- **Maeggi / Maeggis:** singular y plural, respectivamente, para Portadores o
+  Invocadores con licencia imperial.
 - **Blesk:** término descartado; cada aparición se reescribe según su sentido y
   nunca mediante sustitución mecánica.
 - **R-22 sobre R-03:** el Verilium no daña por contacto y bloquea dones solo
@@ -43,43 +42,44 @@ descartada.
 - **R-30 sobre S-04 de la Edad de la Tiranía:** no existe un coste universal por
   usar un don.
 - **R-32 sobre R-08 a R-11:** la primera licencia concede la condición general
-  de Maegys; cambiar de oficio no exige otra licencia.
+  de Maeggi; cambiar de oficio no exige otra licencia.
 
-## Bloques de ejecución futura
+## Bloques ejecutados
 
 | Bloque | Archivos principales | Operación | Resoluciones |
 |---|---|---|---|
 | P-01. Núcleo ontológico | `docs/entidades/portadores.md`, `inits.md`, `invocadores.md`, `mobius.md` y `docs/entidades.md` | Reescribir vínculo, don, maestría, herencia, repertorio, Mobius y relaciones; retirar las mecánicas sustituidas. | R-01 a R-06, R-16 a R-20, R-22 a R-30 |
-| P-02. Terminología sangheskia e imperial | `docs/mundo/stigria/sangheskios.md`, `edad-del-hierro.md`, `docs/personajes/stelian-therin.md`, `sigmar-valgard.md`, `docs/organizaciones/guardia-amarilla.md` y la ficha de Esteria | Normalizar Maeggi/Maeggis y añadir Maegys únicamente donde exista certificación imperial. | A-02, R-15, R-32 |
+| P-02. Terminología sangheskia e imperial | `docs/mundo/stigria/sangheskios.md`, `edad-del-hierro.md`, `docs/personajes/stelian-therin.md`, `sigmar-valgard.md`, `docs/organizaciones/guardia-amarilla.md` y la ficha de Esteria | Normalizar Maeyis/Maeyiss en contextos sangheskios y Maeggi/Maeggis únicamente donde exista certificación imperial. | A-02, R-15, R-32 |
 | P-03. Formación y ejercicio | `docs/taburas/moes-tabura.md`, `docs/taburas/grim-tabura.md`, `docs/taburas.md`, fichas de Portadores e Invocadores y Casa Solarys | Incorporar registro, formación, licencia general, títulos administrativos, oficios y la clasificación de Leondras. | A-04 a A-07, R-07 a R-14, R-31, R-32 |
 | P-04. Kantras y usos contextuales | `docs/mundo/stigria/kantra.md`, Edad de Plata, Edad de la Podredumbre, Stelian y fichas dependientes | Reescribir cada uso de Blesk como vínculo, don o maestría; presentar la Kantra como ayuda elegida para la maestría. | R-17, R-19, R-20 |
 | P-05. Surgimiento, Mobius y Faro | `docs/entidades/inits.md`, `mobius.md`, `portadores.md`, `docs/mundo/stigria/historia-antigua.md`, Esteria, Guardia Amarilla y Foso de la Calamidad | Documentar el encuentro accidental, el canon velado, la primera luz, el efecto solar posterior y la Lumbre material, sin crear un cuento sustituto. | R-16, R-18, R-22 a R-26, R-33 |
 | P-06. Índices y control editorial | `docs/mundo.md`, `docs/12-reinos.md`, `docs/entidades.md`, `docs/pendientes.md`, `cuentos/AGENTS.md` y `docs/notas.md` | Actualizar descripciones, enlaces, glosario y pendientes; añadir una entrada editorial sin reescribir el historial anterior. | R-15, R-17, R-23, R-29, R-33 |
 
-## Inventario confirmado de Blesk activo
+## Inventario revisado durante la ejecución
 
-Cada uno de estos archivos debe revisarse por contexto durante P-01, P-04,
-P-05 o P-06:
+Cada uno de estos archivos fue revisado por contexto durante P-01, P-04, P-05 o
+P-06:
 
 1. `docs/12-reinos.md`
-2. `docs/casas/enescu.md`
-3. `docs/entidades.md`
-4. `docs/entidades/inits.md`
-5. `docs/entidades/invocadores.md`
-6. `docs/entidades/mobius.md`
-7. `docs/entidades/portadores.md`
-8. `docs/mundo.md`
-9. `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`
-10. `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`
-11. `docs/mundo/stigria/edad-de-la-podredumbre.md`
-12. `docs/mundo/stigria/edad-de-plata.md`
-13. `docs/mundo/stigria/kantra.md`
-14. `docs/personajes/sandor-solarys.md`
-15. `docs/personajes/stelian-therin.md`
+2. `docs/entidades.md`
+3. `docs/entidades/inits.md`
+4. `docs/entidades/invocadores.md`
+5. `docs/entidades/mobius.md`
+6. `docs/entidades/portadores.md`
+7. `docs/mundo.md`
+8. `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`
+9. `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`
+10. `docs/mundo/stigria/edad-de-la-podredumbre.md`
+11. `docs/mundo/stigria/edad-de-plata.md`
+12. `docs/mundo/stigria/kantra.md`
+13. `docs/personajes/sandor-solarys.md`
+14. `docs/personajes/stelian-therin.md`
 
-`cuentos/AGENTS.md` también debe corregirse como instrucción operativa. Las
-apariciones históricas de `docs/notas.md` permanecen intactas y no se consideran
-lore activo que deba normalizarse retroactivamente.
+`docs/casas/enescu.md` conserva una aparición bajo la marca editorial
+`DESCANONIZADO`; se excluyó correctamente del lore activo y no fue alterado.
+`cuentos/AGENTS.md` fue corregido como instrucción operativa. Las apariciones
+históricas de `docs/notas.md` permanecen intactas y no se consideran lore activo
+que deba normalizarse retroactivamente.
 
 ## Trazabilidad de detalle aprobado
 
@@ -94,8 +94,8 @@ lore activo que deba normalizarse retroactivamente.
 | No existe un Init fijo por linaje | Canon | Fichas de Portadores e Inits | R-27 |
 | Un Portador alcanza normalmente un Init; no es imposibilidad absoluta | Canon | Ficha de Portadores; excepciones concretas reservadas | R-28 |
 | No puede identificarse de forma fiable el Init alcanzado ni derivar de él un don | Canon | Fichas de Portadores e Inits | R-28 |
-| Maeggi singular y Maeggis plural | Canon | Sangheskios, Edad del Hierro y casos históricos | A-02, R-15 |
-| Maegys invariable para personas con licencia imperial | Canon | Portadores, Invocadores y Möes Tábura | A-02, R-15, R-32 |
+| Maeyis singular y Maeyiss plural | Canon | Sangheskios, Edad del Hierro y casos históricos | A-02, R-15 |
+| Maeggi singular y Maeggis plural para personas con licencia imperial | Canon | Portadores, Invocadores y Möes Tábura | A-02, R-15, R-32 |
 | Vínculo, don y maestría como conceptos distintos | Canon | Fichas de Portadores, Inits e Invocadores | A-03, R-01, R-04 |
 | Blesk retirado sin equivalente mecánico único | Descartado o sustituido | R-17 invalida el término; cada aparición recibe reescritura contextual | R-17 |
 | Un Portador posee normalmente un don, con maestrías diversas | Canon | Ficha de Portadores | A-03, R-01 |
@@ -105,11 +105,11 @@ lore activo que deba normalizarse retroactivamente.
 | Registro independiente de licencia | Canon | Portadores, Invocadores y Möes Tábura | R-12, R-13 |
 | Error de buena fe en la clasificación registral no es grave; falsificación deliberada es ilegal | Canon | Ficha de Invocadores y marco de registro | R-13 |
 | Möes Tábura forma Portadores e Invocadores y estudia dones y maestrías | Canon | Ficha de Möes Tábura | A-05, R-07 |
-| Primera licencia concede condición general de Maegys | Canon | Möes Tábura, Portadores e Invocadores | R-08, R-32 |
+| Primera licencia concede condición general de Maeggi | Canon | Möes Tábura, Portadores e Invocadores | R-08, R-32 |
 | Cambio de oficio sin licencia adicional, sujeto a aprender lo necesario | Canon | Möes Tábura y marco profesional | R-11, R-32 |
 | Títulos como clasificaciones administrativas iniciales y acumulables | Canon | Möes Tábura | A-06, R-09, R-10 |
 | Leondras clasificado siempre como Portador Tempestuoso | Canon | Casa Solarys o ficha personal relacionada | A-06 |
-| Oficios Maegys: ejercicio independiente, milicia, Grim Tábura y Möes Tábura, sin lista cerrada | Canon | Möes Tábura, Grim Tábura y ficha de Portadores | A-06 |
+| Oficios de los Maeggis: ejercicio independiente, milicia, Grim Tábura y Möes Tábura, sin lista cerrada | Canon | Möes Tábura, Grim Tábura y ficha de Portadores | A-06 |
 | Invocador como receptor o heredero de un vínculo adquirido por rito | Canon | Ficha de Invocadores | A-07, R-05 |
 | Vínculo artificial permanente, heredable y ampliado hacia muchos Inits | Canon | Fichas de Invocadores e Inits | R-02, R-04, R-05 |
 | Manifestaciones intrincadas e individuales de los Invocadores | Canon | Ficha de Invocadores | R-02 |
@@ -144,7 +144,7 @@ lore activo que deba normalizarse retroactivamente.
 
 | Premisa que no debe transferirse | Resolución invalidante |
 |---|---|
-| Maegi, Maegis, Maegy o Maeghis como formas válidas | R-15 |
+| Maegi, Maegis, Maegy, Maeghis o Maegys como formas válidas | R-15 |
 | Blesk como término o mecánica unitaria | R-17 |
 | Init fijo heredado por cada linaje | R-27 |
 | Puente temporal nuevo por cada manifestación | R-04 |
@@ -173,13 +173,13 @@ lore activo que deba normalizarse retroactivamente.
 - Naturaleza y capacidades de los Portadores Sombríos, incluida la situación de
   Radu y sus marcas de canon velado.
 
-## Verificación del futuro volcamiento
+## Verificación del volcamiento
 
 1. Buscar `Blesk` en `docs/`, excluyendo el historial de `docs/notas.md`; no
    debe quedar en lore activo ni en `cuentos/AGENTS.md`.
-2. Buscar `Maegi`, `Maegis`, `Maegy` y `Maeghis`; sustituir cada caso activo por
-   Maeggi o Maeggis según el número. Confirmar que Maegys se use únicamente para
-   la licencia imperial.
+2. Buscar `Maegi`, `Maegis`, `Maegy`, `Maeghis` y `Maegys`; no debe quedar
+   ningún caso activo. Confirmar Maeyis/Maeyiss en contextos sangheskios y
+   Maeggi/Maeggis únicamente para la licencia imperial.
 3. Buscar «la lumbre» y «alumbre del ojo» en lore e instrucciones activas; la
    señal ocular debe describirse directamente. No confundirla con la Lumbre del
    Faro Amarillo.
@@ -198,7 +198,14 @@ lore activo que deba normalizarse retroactivamente.
 
 ## Condición de ejecución y salida
 
-El plan está actualizado y la ejecución fue autorizada por el humano. Deberá
-realizarse por bloques, comprobar la trazabilidad antes de cerrar cada uno y
-detenerse si aparece una contradicción no contemplada. La eliminación del
-primer cuento debe preservarse durante todo el volcamiento.
+El volcamiento fue ejecutado por bloques con autorización humana. La eliminación
+del primer cuento se preservó, `proto_v2` permaneció intacto y las reservas
+narrativas fueron registradas en `docs/pendientes.md`.
+
+Las comprobaciones textuales y de estado Git fueron superadas. Las únicas
+apariciones restantes del término retirado están en el historial inalterado de
+`docs/notas.md` y en `docs/casas/enescu.md`, archivo marcado como
+`DESCANONIZADO`. No quedan apariciones en lore activo ni en
+`cuentos/AGENTS.md`.
+
+**Estado final:** proceso de volcamiento terminado.

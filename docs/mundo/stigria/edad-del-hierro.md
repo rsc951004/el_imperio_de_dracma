@@ -10,8 +10,8 @@ del Rey Podrido.
 
 Los Sangheskios arribaron por mar a Rauven y afirmaron proceder de Erebia. Su
 dominio de la forja del hierro superaba al de los Gheran, que todavía dependían
-principalmente del bronce. También contaban con Portadores, llamados Maegis en
-su lengua.
+principalmente del bronce. También contaban con Portadores esclavizados,
+llamados **Maeyiss** en su lengua.
 
 Los recién llegados mataron a Lauffen, una Grimm conocida por los Gheran como
 la Doncella Errante, y levantaron en Rauven la fortaleza de Roshdom. No

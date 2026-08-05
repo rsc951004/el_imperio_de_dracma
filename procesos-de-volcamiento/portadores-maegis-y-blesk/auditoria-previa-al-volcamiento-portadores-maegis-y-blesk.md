@@ -1,4 +1,4 @@
-# Auditoría previa al volcamiento: Portadores, Maegys y vínculos
+# Auditoría previa al volcamiento: Portadores, Maeggis y vínculos
 
 ## Estado y límite de autoridad
 
@@ -66,17 +66,17 @@ el alcance esencial del vínculo.
 reexpresan señal, coste, Kantras y herencia sin confundir vínculo, don y
 aplicación.
 
-### N-04. Maegys imperiales y Maeggi/Maeggis sangheskios
+### N-04. Maeggi/Maeggis imperiales y Maeyis/Maeyiss sangheskios
 
 **Diagnóstico inicial:** contradicción terminológica y ampliación histórica.
 
-El canon usa Maegis y Maegi como denominaciones sangheskias. La resolución
-vigente fija **Maeggi** como singular y **Maeggis** como plural para los
-Portadores esclavizados por los Sangheskios, mientras que Maegys, invariable en
-singular y plural, designa a un Portador o Invocador certificado por el Imperio.
+La resolución vigente fija **Maeyis** como singular y **Maeyiss** como plural
+para los Portadores esclavizados por los Sangheskios. **Maeggi** es el singular
+y **Maeggis** el plural para Portadores o Invocadores certificados por el
+Imperio.
 
 **Archivos afectados:** fichas sangheskias, Edad del Hierro, Stelian,
-referencias a Maegis/Maegi e índices relacionados.
+referencias sangheskias e índices relacionados.
 
 **Decisión necesaria:** revisar cada uso canónico para separar esclavitud
 sangheskia y certificación imperial, sin alterar el canon velado relacionado.
@@ -123,10 +123,10 @@ público y la historia privada de las casas.
 La ficha vigente define la Möes Tábura como independiente, nacida tras la caída
 del Raikim, con función, jerarquía y organización reservadas. A-05 y A-06 le
 atribuyen registro, formación, investigación, certificaciones, licencias de
-Maegys Imperial y desarrollo intergeneracional de dones y maestrías.
+Maeggi Imperial y desarrollo intergeneracional de dones y maestrías.
 
 La acumulación crea además un régimen de títulos provisionales y oficios para
-Maegys durante la Edad de Oro. Este régimen no debe proyectarse hacia periodos
+Maeggis durante la Edad de Oro. Este régimen no debe proyectarse hacia periodos
 preimperiales, donde la clasificación no era oficial ni universal.
 
 **Decisión necesaria:** definir el grado de centralidad de la Möes Tábura y su
@@ -183,7 +183,7 @@ transferido.
 | Bloque | Archivos canónicos que deberán revisarse |
 |---|---|
 | Inits y terminología | entidades, cuento El Surgimiento, Kantras e índices |
-| Sanghesk y Maeggi/Maeggis | Sangheskios, Edad del Hierro, Stelian y referencias históricas |
+| Sanghesk y Maeyis/Maeyiss | Sangheskios, Edad del Hierro, Stelian y referencias históricas |
 | Régimen imperial | Möes Tábura, Táburas, marcos de Dragma, índices y pendientes |
 | Casos personales | Stelian, Radu, Rey Podrido, Leondras y Sandor Solarys |
 | Vocabulario operativo | Edad de Plata, Veleskaria, 12 Reinos, instrucciones de cuentos y referencias cruzadas |
@@ -195,7 +195,7 @@ transferido.
 | N-01 | Cerrado | R-17 a R-20, R-22 a R-26 y R-33 fijan el destino contextual de Blesk, Mobius, Kantras, Verilium, Surgimiento y Lumbre. |
 | N-02 | Cerrado con canon velado | R-16 y R-23 mantienen desconocida la finalidad de los Inits y reservan como verdad velada la causa real del Surgimiento. |
 | N-03 | Cerrado | R-01, R-04, R-27 a R-30 fijan vínculo, don, maestría, herencia, alcance, señal ocular y ausencia de coste universal. |
-| N-04 | Cerrado | R-15 separa Maeggi/Maeggis sangheskios de Maegys imperial y descarta las grafías incompatibles. |
+| N-04 | Cerrado | R-15 separa Maeyis/Maeyiss sangheskios de Maeggi/Maeggis imperiales y descarta las grafías incompatibles. |
 | N-05 | Cerrado con reserva narrativa | R-02 a R-06, R-21, R-22 y R-31 fijan el vínculo artificial, su herencia y repertorio; el rito y su regulación concreta permanecen reservados. |
 | N-06 | Cerrado con reserva narrativa | R-12 a R-14 fijan registro, identificación, igualdad jurídica y estigma; el conflicto de la Segunda Dinastía permanece reservado. |
 | N-07 | Cerrado con reserva institucional | R-07 a R-12 y R-32 fijan formación, primera licencia y ejercicio; jerarquía, trámites y autoridad de creación no se desarrollan. |

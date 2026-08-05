@@ -1,30 +1,95 @@
 # Invocadores
 
 ## Naturaleza
-Humano que obtiene un Blesk alterado mediante un rito de extracción. No hereda el puente: lo roba de un portador y lo modifica.
 
-El Blesk natural es un puente unidireccional (portador → un Init). El Blesk robado y alterado es bidireccional y puede conectarse a múltiples Inits, dependiendo de la voluntad y la fuerza del invocador. Es más potente y más peligroso. No está atado a un solo Init ni limitado por herencia.
+Un Invocador es una persona que recibió o heredó un vínculo adquirido
+originalmente de un Portador mediante un rito. La condición procede de esa
+historia de adquisición, no de una transformación repetida cada vez que se usa
+el vínculo.
+
+El rito transfiere el vínculo propio de un Portador y amplía su alcance hacia
+muchos más Inits. Una vez adquirido, el vínculo es permanente y heredable. La
+mayoría de los Invocadores de la Edad de Oro nació de linajes que ya lo
+heredaban.
 
 ## Origen
-El primer invocador fue creado por Zoroastro Zorana al extraer Blesk de un portador y alterarlo mediante un rito con Verilium, fuego espectral y un plato de oro. El rito, diseñado para fabricar un portador, produjo una forma de Blesk nueva: bidireccional, inestable y ajena a cualquier linaje. El Mobius Tarok nació como efecto secundario de ese mismo rito.
 
-## Mecánica
-El invocador no hereda un canal: lo construye. El Blesk alterado no está limitado a un Init. El invocador puede dirigir su voluntad hacia varios Inits, abriendo puentes temporales según su capacidad. Esto le da acceso a un rango de manifestaciones más amplio que el de un portador, pero sin la estabilidad de un linaje.
+Durante una crisis familiar de Astria, el padre de **Therin** lo convirtió en
+Invocador. Therin es el primer Invocador del que se tiene registro. El relato
+completo y las particularidades del rito permanecen reservados.
 
-## Estabilidad
-El Blesk alterado es inestable. Su efecto depende de tres factores:
+Crear un nuevo Invocador exige despojar a un Portador de su vínculo. En la Edad
+de Oro la práctica está fuertemente restringida y casi prohibida. No se han
+establecido públicamente la autoridad competente, los permisos ni el
+procedimiento.
 
-- **Edad de implantación:** si el Blesk se otorga durante la infancia, el cuerpo se adapta y las posibilidades son ilimitadas. Un invocador creado de niño puede igualar o superar a cualquier portador.
-- **Ascendencia:** descender de invocadores o portadores atenúa el rechazo. Un cuerpo con historia de Blesk en la sangre recibe mejor el implante.
-- **Implantación adulta sin ascendencia:** el cuerpo rechaza el Blesk alterado. El poder es errático, dañino y degenerativo.
+## Don y maestrías
 
-## Coste
-- En invocadores creados en la infancia: desgaste comparable al de un portador. El Blesk está integrado.
-- En invocadores adultos sin ascendencia: degradación progresiva. Agotamiento extremo, hemorragias, temblores, pérdida de memoria, envejecimiento acelerado. Muerte por sobrecarga posible.
+El vínculo ampliado permite alcanzar a muchos Inits y producir manifestaciones
+intrincadas e individuales. Su repertorio potencial no equivale a una lista
+fija. Cada Invocador desarrolla maestrías propias y puede especializarse en una
+parte de lo que su vínculo le permite hacer. Con habilidad y entrenamiento
+puede combinar manifestaciones o alcanzar efectos abstractos. Existen casos
+excepcionales capaces de ordenar una gama extraordinariamente amplia, pero no
+se establece un repertorio ilimitado.
 
-El Blesk alterado no se hereda, pero la ascendencia predispone: un hijo de invocador asimilará mejor el implante si lo recibe.
+## Formación
+
+El peligro se encuentra en la amplitud y complejidad del aprendizaje, tanto
+para quien aprende como para quien enseña. La Möes Tábura estandarizó esa
+formación durante la Edad de Oro. Los detalles técnicos, materiales y riesgos
+concretos del rito permanecen reservados.
+
+## Señal ocular y esfuerzo
+
+Durante la infancia, los ojos de los Invocadores presentan un brillo tenue e
+involuntario. Después brillan mientras utilizan sus dones. No existe una edad
+exacta ni una escala formal de intensidad.
+
+El esfuerzo depende de la persona y de lo realizado. No existe desgaste,
+síntoma ni coste sobrenatural universal por utilizar el vínculo.
+
+## Registro y licencia imperial
+
+Los Invocadores están sujetos al mismo registro y régimen jurídico que los
+Portadores. Antes de los dieciséis años responden sus padres o su casa; desde
+esa edad responde la propia persona. El registro especifica si se trata de un
+Portador o un Invocador cuando la condición puede determinarse. Una sola
+manifestación no basta siempre para distinguirlos. Un error de buena fe al
+registrar la condición no es una falta grave, pero falsificarla deliberadamente
+es ilegal.
+
+La primera licencia concede la condición general de **Maeggi**. Las
+clasificaciones profesionales son administrativas; cambiar de oficio no exige
+otra licencia, aunque requiere aprender la nueva actividad. Una persona
+registrada puede usar libremente sus dones, pero necesita licencia para vivir
+de ellos o prestar servicios profesionales relacionados.
+
+El mero contacto con Verilium no daña a un Invocador. El material bloquea sus
+dones cuando forma una circunferencia cerrada alrededor de una parte de su
+cuerpo.
+
+## Consideración social
+
+El estigma contra los Invocadores es social y no limita sus derechos legales,
+su registro ni su acceso a una licencia. Se relaciona con un conflicto interno
+de la Segunda Dinastía que casi destruyó el Imperio y cuyo desarrollo permanece
+reservado. Algunas casas nobles recurrieron en secreto a la creación de
+Invocadores pese a despreciarla públicamente. Por ello, no es común que una
+persona revele ese origen cuando puede presentarse simplemente como Portador.
 
 ## Relaciones
-- **Portador:** Fuente del Blesk original. Todo rito de invocación requiere extraer Blesk de un portador.
-- **Init:** Destino activo. A diferencia del portador, el invocador puede dirigir su puente hacia múltiples Inits.
-- **Mobius:** Riesgo constante. El rito de alteración del Blesk puede manifestar un Mobius.
+
+- **Portador:** origen del vínculo transferido por el rito inicial.
+- **Init:** entidad alcanzada por el vínculo ampliado.
+- **Möes Tábura:** institución que forma Portadores e Invocadores y estudia sus
+  dones y maestrías.
+- **Mobius:** puede consumir por completo el vínculo y destruir a la persona en
+  el proceso.
+
+## Referencias
+
+- `docs/entidades/portadores.md`
+- `docs/entidades/inits.md`
+- `docs/taburas/moes-tabura.md`
+- `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`

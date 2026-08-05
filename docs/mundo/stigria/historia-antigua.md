@@ -22,7 +22,17 @@ Los Gheran reconocieron nueve regiones: **Flemmen, Weissen, Dresk, Eisen, Gülde
 
 ## El Surgimiento
 
-Durante el **Surgimiento**, situado en el año **-1500**, la sección septentrional de Stömur se fracturó y formó el Riegel. También se abrió bajo la cordillera el conducto inundado por el que el Rost desagua desde el Gherin hacia Rauven.
+Durante el **Surgimiento**, situado en el año **-1500**, humanos e Inits se
+encontraron de forma accidental y surgieron los primeros vínculos que después
+heredarían los Portadores. Los Inits regresaron a Irij antes del amanecer
+siguiente.
+
+La primera luz del Surgimiento quitó a los Mobius su forma material y los dejó
+en este mundo como presencias inmateriales.
+
+La sección septentrional de Stömur se fracturó y formó el Riegel. También se
+abrió bajo la cordillera el conducto inundado por el que el Rost desaguaba desde
+el Gherin hacia Rauven.
 
 ## Fin de la Edad del Bronce
 

@@ -30,12 +30,13 @@ comprobar que podían imponerse.
 ## Cultura material
 
 Los Sangheskios dominaban la forja del hierro y construían fortalezas de piedra
-roja. Sus Portadores recibían el nombre de **Maegis** en su propia lengua.
+roja. En su lengua, **Maeyis** era el singular y **Maeyiss** el plural para los
+Portadores esclavizados.
 
 ## Sociedad de Sanghesk
 
 La sociedad estaba organizada alrededor de una élite religiosa y militar que
-controlaba una población esclavizada. Los Maegis eran tratados como armas
+controlaba una población esclavizada. Los Maeyiss eran tratados como armas
 vivientes y carecían de nombre y reconocimiento legal.
 
 ## Destino
@@ -46,7 +47,7 @@ Portadores descubiertos entre ellos fueron ejecutados por temor a que
 reconstruyeran el Dominio Carmesí.
 
 Stelian Therin nació entre esos descendientes y sus padres ocultaron que era un
-Maegi. Rudgar liberó a los Sangheskios del norte durante la Edad de Plata, los
+Maeyis. Rudgar liberó a los Sangheskios del norte durante la Edad de Plata, los
 convirtió en Sangre de Hierro Carmesí y organizó la Guardia del Norte para la
 Marcha Carmesí.
 

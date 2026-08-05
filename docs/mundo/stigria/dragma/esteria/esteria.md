@@ -35,8 +35,8 @@ Amarilla.
 Después del decreto de Sigmar, los puestos de **Señor de Esteria** y
 **Guardián del Faro** quedaron oficialmente vacantes. El comandante de la
 Guardia Amarilla ejerce provisionalmente las funciones de ambos cargos y
-administra la ciudad. La institución espera la llegada de un nuevo Maegi o
-Portador Solar, que todavía no se ha producido en la Edad de Oro.
+administra la ciudad. La institución espera la llegada de un nuevo Portador
+Solar, que todavía no se ha producido en la Edad de Oro.
 
 ## Roshdom
 
@@ -47,9 +47,12 @@ confinado durante la incursión.
 
 ## Faro y apertura de Esteria
 
-El Gran Faro fue construido después de la Edad de Plata y emite luz amarilla.
-La Guardia Amarilla mantiene sus salas, sus depósitos de materiales y la
-barrera que protege el Paso.
+El Gran Faro fue construido después de la Edad de Plata. En él se quema la
+**Lumbre**, un material fabricado cuya combustión produce la luz amarilla y sus
+efectos. La composición y la fabricación de la Lumbre permanecen reservadas.
+
+La Guardia Amarilla mantiene las salas del Faro, los depósitos del material y
+la barrera que protege el Paso.
 
 El Foso dificulta el cruce de Grimm y poseídos, pero no es una barrera
 infalible. Durante la Rebelión del Amanecer, Grimar pretendió obligar a Esteria
