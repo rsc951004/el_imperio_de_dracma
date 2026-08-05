@@ -18,8 +18,9 @@ canon durante un futuro volcamiento autorizado.
 
 ### A-02. Título del rey de Flemmengard
 
-El título de la corona de Flemmengard es **Rey de la Ceniza** o **Reina de la
-Ceniza**.
+El título oficial de la corona de Flemmengard es **Reikar de la Ceniza**. En
+lengua común se utiliza **Rey de la Ceniza**, con independencia del género de
+quien ocupe el cargo.
 
 ### A-03. Formas breves de los títulos entre reyes
 
@@ -35,20 +36,20 @@ Por ejemplo, un rey puede saludar a otros monarcas llamándolos **Ocaso** o
 
 Las formas breves utilizadas entre reyes son:
 
-| Reino | Título formal | Forma breve |
+| Reino | Título oficial | Forma breve |
 |---|---|---|
-| Eisengard | Rey o Reina del Valle de Hierro | **Hierro** |
-| Guldengard | Rey o Reina del Valle Dorado | **Dorado** |
-| Flemmengard | Rey o Reina de la Ceniza | **Ceniza** |
-| Sturmgard | Rey o Reina de la Tormenta | **Tormenta** |
-| Lysarya | Rey o Reina de la Colina del Verano | **Colina** |
-| Veleskaria | Rey o Reina de la Puerta Carmesí | **Carmesí** |
-| Zephyrya | Rey o Reina del Ocaso | **Ocaso** |
-| Kyst | Rey o Reina de la Costa Gris | **Gris** |
-| Lyng | Rey o Reina de los Campos Esmeralda | **Esmeralda** |
-| Vesperya | Rey o Reina del Tridente | **Tridente** |
-| Sindria | Rey o Reina del Foso | **Foso** |
-| Bjorn | Rey o Reina del Bosque | **Bosque** |
+| Eisengard | Reikar del Valle de Hierro | **Hierro** |
+| Guldengard | Reikar del Valle Dorado | **Dorado** |
+| Flemmengard | Reikar de la Ceniza | **Ceniza** |
+| Sturmgard | Reikar de la Tormenta | **Tormenta** |
+| Lysarya | Reikar de la Colina del Verano | **Colina** |
+| Veleskaria | Reikar de la Puerta Carmesí | **Carmesí** |
+| Zephyrya | Reikar del Ocaso | **Ocaso** |
+| Kyst | Reikar de la Costa Gris | **Gris** |
+| Lyng | Reikar de los Campos Esmeralda | **Esmeralda** |
+| Vesperya | Reikar del Tridente | **Tridente** |
+| Sindria | Reikar del Foso | **Foso** |
+| Bjorn | Reikar del Bosque | **Bosque** |
 
 ### A-05. Contexto de Eisengard
 
@@ -488,3 +489,113 @@ desarrollar vello facial.
 
 Su rasgo más extraordinario era la estatura. Los gheran eran incluso más altos
 que los brumenses originarios.
+
+### A-24. Títulos de Reikar y Kaisrik
+
+El título de quienes encabezan los doce reinos es **Reikar**. El título de
+quien encabeza el Imperio es **Kaisrik**. Ambos términos son invariables y se
+aplican con independencia del género de la persona elegida.
+
+En lengua común, **Kaisrik** se expresa siempre como **Emperador** y **Reikar**
+se expresa siempre como **Rey**, con independencia del género de quien ocupe
+el cargo. Estas son las formas exclusivas de ambas dignidades en lengua común.
+
+Las formas completas siguen la estructura correspondiente a cada corona:
+
+- **Kaisrik de Dragma**.
+- **Reikar del Valle de Hierro**.
+- **Reikar de la Ceniza**.
+- **Reikar de la Tormenta**.
+- **Reikar del Ocaso**.
+- **Reikar del Bosque**.
+
+La denominación colectiva de quienes encabezan los doce reinos es **los doce
+Reikar**. Las formas breves registradas para el trato entre ellos —como
+**Hierro**, **Ceniza**, **Tormenta**, **Ocaso** y **Bosque**— se mantienen.
+
+### A-25. Gard y Sirgard
+
+**Gard** es el término oficial de origen preimperial utilizado para designar
+la unidad territorial que en lengua común se denomina **dominio**. Su presencia
+permanece en nombres territoriales como Eisengard, Guldengard, Flemmengard,
+Sturmgard, Veleskgard y Sindgard.
+
+**Sirgard** es el título oficial e invariable de quien gobierna un Gard. En
+lengua común, el mismo cargo recibe la denominación **Señor del Dominio**. El
+título Sirgard se aplica con independencia del género de quien lo ocupa.
+
+Esta distinción entre el registro oficial y la lengua común ya existía durante
+el Raikim: sus documentos y ceremonias utilizaban **Gard** y **Sirgard**,
+mientras que la población hablaba de **dominios** y **Señores del Dominio**.
+Ninguna de las dos parejas sustituye a la otra; pertenecen a registros
+distintos.
+
+Puede utilizarse con el nombre del territorio, como **Sirgard de Rostheim**,
+**Sirgard de Eldenfeld** o **Sirgard de Drakenau**. La denominación colectiva
+es **los Sirgard**.
+
+### A-26. Víer como denominación territorial imperial
+
+Durante el Imperio, la denominación oficial de la unidad administrativa que
+en lengua común se llama dominio es **Víer**. El término es invariable tanto en
+singular como en plural.
+
+La sucesión de denominaciones territoriales queda organizada de esta manera:
+
+| Periodo o registro | Denominación |
+|---|---|
+| Tradición preimperial y Raikim | **Gard** |
+| Administración imperial | **Víer** |
+| Lengua común | **Dominio** |
+
+En la denominación oficial, el nombre propio del territorio precede a la
+palabra Víer. Los cinco territorios de Eldenheim son **Rostheim Víer**,
+**Eldenfeld Víer**, **Rissbruck Víer**, **Drakenau Víer** y **Vesterfeld
+Víer**. Su denominación colectiva es **los cinco Víer de Eldenheim**.
+
+La autoridad oficial e invariable de un Víer recibe el título de
+**Landwalt**. Su forma oficial completa combina el título con la denominación
+territorial, como **Landwalt de Rostheim Víer**. En lengua común, la misma
+persona es llamada **Señor del Dominio de Rostheim**.
+
+La correspondencia entre periodos y registros queda de esta manera:
+
+| Periodo o registro | Territorio | Autoridad |
+|---|---|---|
+| Tradición preimperial y Raikim | **Gard** | **Sirgard** |
+| Administración imperial | **Víer** | **Landwalt** |
+| Lengua común | **Dominio** | **Señor del Dominio** |
+
+### A-27. Jefatura de las casas
+
+Las casas nobles y las casas comunes poseen una misma clase de jefatura y
+utilizan para ella el mismo título oficial. La diferencia de estatus entre una
+casa noble y una común no altera la denominación de quien la encabeza.
+
+En lengua común, esa persona recibe la denominación **Cabeza de la Casa**. La
+forma completa sigue la construcción **Cabeza de la Casa Hammer**.
+
+En la lengua del Hierro, el título equivalente es **Herskar** y el nombre de la
+casa lo precede. La construcción correspondiente es **Hammer Herskar**. Esta
+misma estructura se aplica a las demás casas.
+
+En la Tormenta, la forma cultural equivalente utilizada en la vida cotidiana
+es **Jefe de clan**.
+
+### A-28. Tratamiento personal de la nobleza
+
+Todos los integrantes reconocidos de las casas nobles reciben un tratamiento
+personal de estamento. Este tratamiento es diferente de **Cabeza de la Casa**
+y **Herskar**, que corresponden exclusivamente a la persona que encabeza una
+casa.
+
+En la lengua del Hierro, el tratamiento nobiliario personal e invariable es
+**Frey**. Siempre precede al nombre personal completo, como en **Frey Sandor
+Solarys**. No se aplica al apellido aislado: las construcciones «Frey Solarys»
+y «Solarys Frey» no corresponden a este tratamiento.
+
+En lengua común, los tratamientos nobiliarios equivalentes son **Señor** y
+**Señora**. También preceden al nombre personal, como en **Señor Sandor
+Solarys** o **Señora Katerina**. En este caso se conserva la variación de
+género porque se trata de un tratamiento social cotidiano, no del nombre de
+una magistratura o soberanía.
