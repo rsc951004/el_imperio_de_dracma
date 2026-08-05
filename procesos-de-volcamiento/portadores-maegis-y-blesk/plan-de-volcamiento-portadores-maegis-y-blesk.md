@@ -2,16 +2,28 @@
 
 ## Estado y límite de autoridad
 
-**Estado:** planificación terminada y lista para ejecución autorizada.
+**Estado:** planificación actualizada; volcamiento autorizado y pendiente de
+ejecución.
 
 Este documento organiza el futuro traslado de las resoluciones de este proceso
-hacia el canon. No es canon y no autoriza modificaciones en `docs/`, `cuentos/`
-ni `proto_v2`. El volcamiento solo podrá comenzar mediante una orden humana
-independiente y explícita.
+hacia el canon. No es canon ni constituye por sí mismo una autorización. La
+orden humana independiente para ejecutar el volcamiento ya fue otorgada;
+`proto_v2` permanece fuera del alcance.
 
 El alcance mantiene la etapa de asentamiento: transfiere definiciones, grandes
 hitos, estados institucionales, relaciones y reservas necesarias, sin crear
 cuentos nuevos ni desarrollar relatos completos.
+
+## Ajuste de alcance por descarte del primer cuento
+
+El humano eliminó `cuentos/0001-el-surgimiento/cuento.md` y lo declaró
+descartado por conservar demasiado material trasladado desde `proto_v2`. El
+volcamiento no debe restaurarlo, reescribirlo ni crear un cuento sustituto.
+
+Los hechos aprobados sobre el Surgimiento se trasladarán a las fichas y marcos
+documentales de `docs/`. `cuentos/AGENTS.md` permanece en el alcance únicamente
+como instrucción operativa que debe dejar de reproducir la terminología
+descartada.
 
 ## Contratos terminológicos y de precedencia
 
@@ -41,7 +53,7 @@ cuentos nuevos ni desarrollar relatos completos.
 | P-02. Terminología sangheskia e imperial | `docs/mundo/stigria/sangheskios.md`, `edad-del-hierro.md`, `docs/personajes/stelian-therin.md`, `sigmar-valgard.md`, `docs/organizaciones/guardia-amarilla.md` y la ficha de Esteria | Normalizar Maeggi/Maeggis y añadir Maegys únicamente donde exista certificación imperial. | A-02, R-15, R-32 |
 | P-03. Formación y ejercicio | `docs/taburas/moes-tabura.md`, `docs/taburas/grim-tabura.md`, `docs/taburas.md`, fichas de Portadores e Invocadores y Casa Solarys | Incorporar registro, formación, licencia general, títulos administrativos, oficios y la clasificación de Leondras. | A-04 a A-07, R-07 a R-14, R-31, R-32 |
 | P-04. Kantras y usos contextuales | `docs/mundo/stigria/kantra.md`, Edad de Plata, Edad de la Podredumbre, Stelian y fichas dependientes | Reescribir cada uso de Blesk como vínculo, don o maestría; presentar la Kantra como ayuda elegida para la maestría. | R-17, R-19, R-20 |
-| P-05. Surgimiento, Mobius y Faro | `cuentos/0001-el-surgimiento/cuento.md`, fichas de Inits y Mobius, Esteria, Guardia Amarilla y Foso de la Calamidad | Reescribir el encuentro accidental, el canon velado, la primera luz, el efecto solar posterior y la Lumbre material. | R-16, R-18, R-22 a R-26, R-33 |
+| P-05. Surgimiento, Mobius y Faro | `docs/entidades/inits.md`, `mobius.md`, `portadores.md`, `docs/mundo/stigria/historia-antigua.md`, Esteria, Guardia Amarilla y Foso de la Calamidad | Documentar el encuentro accidental, el canon velado, la primera luz, el efecto solar posterior y la Lumbre material, sin crear un cuento sustituto. | R-16, R-18, R-22 a R-26, R-33 |
 | P-06. Índices y control editorial | `docs/mundo.md`, `docs/12-reinos.md`, `docs/entidades.md`, `docs/pendientes.md`, `cuentos/AGENTS.md` y `docs/notas.md` | Actualizar descripciones, enlaces, glosario y pendientes; añadir una entrada editorial sin reescribir el historial anterior. | R-15, R-17, R-23, R-29, R-33 |
 
 ## Inventario confirmado de Blesk activo
@@ -49,22 +61,21 @@ cuentos nuevos ni desarrollar relatos completos.
 Cada uno de estos archivos debe revisarse por contexto durante P-01, P-04,
 P-05 o P-06:
 
-1. `cuentos/0001-el-surgimiento/cuento.md`
-2. `docs/12-reinos.md`
-3. `docs/casas/enescu.md`
-4. `docs/entidades.md`
-5. `docs/entidades/inits.md`
-6. `docs/entidades/invocadores.md`
-7. `docs/entidades/mobius.md`
-8. `docs/entidades/portadores.md`
-9. `docs/mundo.md`
-10. `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`
-11. `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`
-12. `docs/mundo/stigria/edad-de-la-podredumbre.md`
-13. `docs/mundo/stigria/edad-de-plata.md`
-14. `docs/mundo/stigria/kantra.md`
-15. `docs/personajes/sandor-solarys.md`
-16. `docs/personajes/stelian-therin.md`
+1. `docs/12-reinos.md`
+2. `docs/casas/enescu.md`
+3. `docs/entidades.md`
+4. `docs/entidades/inits.md`
+5. `docs/entidades/invocadores.md`
+6. `docs/entidades/mobius.md`
+7. `docs/entidades/portadores.md`
+8. `docs/mundo.md`
+9. `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`
+10. `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`
+11. `docs/mundo/stigria/edad-de-la-podredumbre.md`
+12. `docs/mundo/stigria/edad-de-plata.md`
+13. `docs/mundo/stigria/kantra.md`
+14. `docs/personajes/sandor-solarys.md`
+15. `docs/personajes/stelian-therin.md`
 
 `cuentos/AGENTS.md` también debe corregirse como instrucción operativa. Las
 apariciones históricas de `docs/notas.md` permanecen intactas y no se consideran
@@ -75,7 +86,7 @@ lore activo que deba normalizarse retroactivamente.
 | Detalle aprobado | Destino | Archivo o reserva | Fundamento |
 |---|---|---|---|
 | Portadores como denominación nacida en Erebia y transmitida por Astria a Stigria | Canon | Ficha de Portadores y marco antiguo de Astria/Erebia | A-01 |
-| Encuentro accidental entre humanos e Inits | Canon | Fichas de Inits y Portadores; cuento del Surgimiento | A-01, R-23 |
+| Encuentro accidental entre humanos e Inits | Canon | Fichas de Inits y Portadores; marco histórico del Surgimiento en `docs/mundo/stigria/historia-antigua.md` | A-01, R-23 |
 | Materializar deseos como capacidad, no finalidad de los Inits | Canon | Ficha de Inits | A-01, R-16 |
 | Finalidad de los Inits desconocida e incierta | Canon | Ficha de Inits | R-16 |
 | Mezcla de linajes reduce la manifestación del vínculo, no su alcance | Canon | Ficha de Portadores | A-01, R-27 |
@@ -117,9 +128,9 @@ lore activo que deba normalizarse retroactivamente.
 | Kantra como ayuda mental elegida o creada para una maestría | Canon | Ficha de Kantra y Portadores | R-19, R-20 |
 | Verilium bloquea dones mediante circunferencia cerrada, sin daño por contacto | Canon | Portadores, Invocadores y Verilium | R-22 |
 | Verilium contiene Mobius, hiere Grimmen y no intercambia esos efectos | Canon | Mobius, Grimmen y Verilium | R-22 |
-| Causa real del Surgimiento: los Inits dejaron atrás a los Mobius y regresaron | Canon velado | Cuento del Surgimiento y ficha de Inits; desconocido por el mundo en general | R-23 |
-| Primera luz del Surgimiento volvió inmateriales a los Mobius | Canon | Cuento del Surgimiento y ficha de Mobius | R-24 |
-| Luz solar hiere, reduce y deshace manifestaciones de Mobius sin destruirlos | Canon | Cuento del Surgimiento y ficha de Mobius | R-24 |
+| Causa real del Surgimiento: los Inits dejaron atrás a los Mobius y regresaron | Canon velado | Ficha de Inits; desconocido por el mundo en general | R-23 |
+| Primera luz del Surgimiento volvió inmateriales a los Mobius | Canon | Ficha de Mobius y marco histórico del Surgimiento | R-24 |
+| Luz solar hiere, reduce y deshace manifestaciones de Mobius sin destruirlos | Canon | Ficha de Mobius | R-24 |
 | Capacidades de los Mobius individuales, no universales | Canon | Ficha de Mobius | R-25, R-26 |
 | Catálogo y límites técnicos de capacidades Mobius | Reserva narrativa | Reserva en la ficha de Mobius | R-25, R-26 |
 | Brillo ocular infantil tenue e involuntario; brillo posterior durante el uso | Canon | Portadores e Invocadores | R-29 |
@@ -164,8 +175,8 @@ lore activo que deba normalizarse retroactivamente.
 
 ## Verificación del futuro volcamiento
 
-1. Buscar `Blesk` en `docs/` y `cuentos/`, excluyendo el historial de
-   `docs/notas.md`; no debe quedar en lore activo ni en `cuentos/AGENTS.md`.
+1. Buscar `Blesk` en `docs/`, excluyendo el historial de `docs/notas.md`; no
+   debe quedar en lore activo ni en `cuentos/AGENTS.md`.
 2. Buscar `Maegi`, `Maegis`, `Maegy` y `Maeghis`; sustituir cada caso activo por
    Maeggi o Maeggis según el número. Confirmar que Maegys se use únicamente para
    la licencia imperial.
@@ -187,7 +198,7 @@ lore activo que deba normalizarse retroactivamente.
 
 ## Condición de ejecución y salida
 
-El plan está terminado. Una futura ejecución deberá realizarse por bloques,
-comprobar la trazabilidad antes de cerrar cada uno y detenerse si aparece una
-contradicción no contemplada. Solo una orden humana explícita de volcamiento
-autoriza a modificar el canon.
+El plan está actualizado y la ejecución fue autorizada por el humano. Deberá
+realizarse por bloques, comprobar la trazabilidad antes de cerrar cada uno y
+detenerse si aparece una contradicción no contemplada. La eliminación del
+primer cuento debe preservarse durante todo el volcamiento.
