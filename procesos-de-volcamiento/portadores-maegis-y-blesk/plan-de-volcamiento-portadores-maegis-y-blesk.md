@@ -2,88 +2,192 @@
 
 ## Estado y límite de autoridad
 
-**Estado:** preparación abierta. Este documento organiza el análisis previo; no es canon, no resuelve ningún nudo y no autoriza modificaciones en `docs/` ni en `cuentos/`.
+**Estado:** planificación terminada y lista para ejecución autorizada.
 
-El alcance busca fijar de manera coherente qué son los **Portadores**, qué designa **Maegys**, cómo se distinguen el vínculo con un Init y el don que este permite manifestar, y qué consecuencias tienen esas definiciones sobre sus relaciones ya documentadas. El término «Blesk» se retirará del canon únicamente durante un volcamiento autorizado. El resultado respetará la etapa de asentamiento: definiciones consultables, estados históricos y vínculos necesarios, sin desarrollar relatos completos ni campañas.
+Este documento organiza el futuro traslado de las resoluciones de este proceso
+hacia el canon. No es canon y no autoriza modificaciones en `docs/`, `cuentos/`
+ni `proto_v2`. El volcamiento solo podrá comenzar mediante una orden humana
+independiente y explícita.
 
-## Alcance
+El alcance mantiene la etapa de asentamiento: transfiere definiciones, grandes
+hitos, estados institucionales, relaciones y reservas necesarias, sin crear
+cuentos nuevos ni desarrollar relatos completos.
 
-### Núcleo que se analizará
+## Contratos terminológicos y de precedencia
 
-- Portador: naturaleza, origen, herencia, límites, señal, vínculo y dones.
-- Vínculo natural y vínculo alterado: conexión con los Inits, extracción, alteración e inestabilidad.
-- Maegys: certificación imperial de Portadores e Invocadores; Maegis: Portadores esclavizados por los Sangheskios.
-- Relaciones con Inits, Mobius, Invocadores y Kantras.
-- Casos que tensionan la regla general: Stelian Therin, Radu y los Portadores Sombríos.
-- Consecuencias institucionales ya afirmadas: Sanghesk, Sangre de Hierro Carmesí, Veleskaria, Khalos, Esteria y la situación de los Portadores tras la caída del Raikim.
+- **Vínculo:** conexión permanente entre una persona y uno o más Inits.
+- **Don:** capacidad que el vínculo permite manifestar.
+- **Maestría:** aplicaciones aprendidas y desarrolladas de un don.
+- **Maeggi / Maeggis:** singular y plural, respectivamente, para los Portadores
+  esclavizados por los Sangheskios.
+- **Maegys:** forma invariable para un Portador o Invocador con licencia
+  imperial.
+- **Blesk:** término descartado; cada aparición se reescribe según su sentido y
+  nunca mediante sustitución mecánica.
+- **R-22 sobre R-03:** el Verilium no daña por contacto y bloquea dones solo
+  cuando forma una circunferencia cerrada alrededor de parte del cuerpo.
+- **R-24 vigente:** la luz solar no destruye a los Mobius; los hiere, los reduce
+  a su mínima expresión y deshace sus manifestaciones.
+- **R-30 sobre S-04 de la Edad de la Tiranía:** no existe un coste universal por
+  usar un don.
+- **R-32 sobre R-08 a R-11:** la primera licencia concede la condición general
+  de Maegys; cambiar de oficio no exige otra licencia.
 
-### Fuera del alcance inicial
+## Bloques de ejecución futura
 
-- La narración completa del Surgimiento, la caída de Sanghesk, la Edad de la Tiranía o la Rebelión del Amanecer.
-- La historia individual de cada Maegys, Portador o Invocador.
-- Resolver sin decisión humana los misterios de los Portadores Sombríos, la fusión de Radu y Strigor o las voces del Rey Podrido.
-- Convertir saber velado o reservas narrativas en conocimiento público.
+| Bloque | Archivos principales | Operación | Resoluciones |
+|---|---|---|---|
+| P-01. Núcleo ontológico | `docs/entidades/portadores.md`, `inits.md`, `invocadores.md`, `mobius.md` y `docs/entidades.md` | Reescribir vínculo, don, maestría, herencia, repertorio, Mobius y relaciones; retirar las mecánicas sustituidas. | R-01 a R-06, R-16 a R-20, R-22 a R-30 |
+| P-02. Terminología sangheskia e imperial | `docs/mundo/stigria/sangheskios.md`, `edad-del-hierro.md`, `docs/personajes/stelian-therin.md`, `sigmar-valgard.md`, `docs/organizaciones/guardia-amarilla.md` y la ficha de Esteria | Normalizar Maeggi/Maeggis y añadir Maegys únicamente donde exista certificación imperial. | A-02, R-15, R-32 |
+| P-03. Formación y ejercicio | `docs/taburas/moes-tabura.md`, `docs/taburas/grim-tabura.md`, `docs/taburas.md`, fichas de Portadores e Invocadores y Casa Solarys | Incorporar registro, formación, licencia general, títulos administrativos, oficios y la clasificación de Leondras. | A-04 a A-07, R-07 a R-14, R-31, R-32 |
+| P-04. Kantras y usos contextuales | `docs/mundo/stigria/kantra.md`, Edad de Plata, Edad de la Podredumbre, Stelian y fichas dependientes | Reescribir cada uso de Blesk como vínculo, don o maestría; presentar la Kantra como ayuda elegida para la maestría. | R-17, R-19, R-20 |
+| P-05. Surgimiento, Mobius y Faro | `cuentos/0001-el-surgimiento/cuento.md`, fichas de Inits y Mobius, Esteria, Guardia Amarilla y Foso de la Calamidad | Reescribir el encuentro accidental, el canon velado, la primera luz, el efecto solar posterior y la Lumbre material. | R-16, R-18, R-22 a R-26, R-33 |
+| P-06. Índices y control editorial | `docs/mundo.md`, `docs/12-reinos.md`, `docs/entidades.md`, `docs/pendientes.md`, `cuentos/AGENTS.md` y `docs/notas.md` | Actualizar descripciones, enlaces, glosario y pendientes; añadir una entrada editorial sin reescribir el historial anterior. | R-15, R-17, R-23, R-29, R-33 |
 
-## Punto de partida canónico que deberá contrastarse
+## Inventario confirmado de Blesk activo
 
-| Materia | Fuente vigente | Hecho que se debe preservar o verificar |
-|---|---|---|
-| Portadores y terminología a sustituir | `docs/entidades/portadores.md` | Contrastar el vínculo hereditario con un Init y retirar el término «Blesk». |
-| Inits | `docs/entidades/inits.md` | Los Inits son canales entre voluntad y realidad; el vínculo no los ata al humano. |
-| Invocadores | `docs/entidades/invocadores.md` | Revisar la extracción y alteración de vínculos sin confundirlos con los dones. |
-| Maegis sangheskios | `docs/mundo/stigria/sangheskios.md`, `docs/mundo/stigria/edad-del-hierro.md` | Los Maegis son Portadores esclavizados por los Sangheskios. |
-| Casos históricos | `docs/personajes/stelian-therin.md`, `docs/personajes/radu.md` | Revisar la terminología histórica de Stelian; Radu es un Portador Sombrío cuya naturaleza sigue pendiente. |
-| Orden territorial actual | `docs/mundo/stigria/dragma/veleskaria/veleskaria.md` | Veleskaria forma Portadores, protege a Khalos y abastece Esteria. |
+Cada uno de estos archivos debe revisarse por contexto durante P-01, P-04,
+P-05 o P-06:
 
-Las resoluciones S-04 y el bloque N-29 de `procesos-de-volcamiento/edad-de-la-tirania/` son antecedentes no canónicos de precedencia dentro de ese proceso. Se consultarán para no reabrir el coste no uniforme de la manifestación ni la condición excepcional de Loryan; este alcance no los sustituye sin una resolución posterior expresa.
+1. `cuentos/0001-el-surgimiento/cuento.md`
+2. `docs/12-reinos.md`
+3. `docs/casas/enescu.md`
+4. `docs/entidades.md`
+5. `docs/entidades/inits.md`
+6. `docs/entidades/invocadores.md`
+7. `docs/entidades/mobius.md`
+8. `docs/entidades/portadores.md`
+9. `docs/mundo.md`
+10. `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`
+11. `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`
+12. `docs/mundo/stigria/edad-de-la-podredumbre.md`
+13. `docs/mundo/stigria/edad-de-plata.md`
+14. `docs/mundo/stigria/kantra.md`
+15. `docs/personajes/sandor-solarys.md`
+16. `docs/personajes/stelian-therin.md`
 
-## Nudos de auditoría
+`cuentos/AGENTS.md` también debe corregirse como instrucción operativa. Las
+apariciones históricas de `docs/notas.md` permanecen intactas y no se consideran
+lore activo que deba normalizarse retroactivamente.
 
-1. **Nombre y condición.** Separar Portador, Maegis y Maegys: condición vinculada, esclavitud sangheskia y certificación imperial, respectivamente.
-2. **Vínculo y don.** Sustituir la terminología descartada y comprobar que las fichas de Portadores, Inits e Invocadores distinguen vínculo, herencia, don, extracción, alteración y alcance.
-3. **Manifestación y límites.** Distinguir la regla general de los casos excepcionales, incluido el don solar de Stelian y la condición de gran Portador prevista para Loryan. No se creará una escala rígida de poderes sin una decisión humana.
-4. **Portadores Sombríos.** Separar lo confirmado sobre Radu de lo reservado. Decidir qué información general puede fijarse sin explicar por anticipado su fusión con Strigor.
-5. **Huella histórica e institucional.** Revisar cómo Sanghesk, el Raikim, Veleskaria, Khalos y Esteria nombran, protegen, explotan o forman a estas personas. Comprobar que la libertad llega con la caída del Raikim, no por el mero transcurso de cien años.
-6. **Índices, pendientes y canon velado.** Identificar duplicaciones, enlaces rotos, misterios que deben continuar pendientes y marcas que deban conservarse o ajustarse tras una resolución aprobada.
+## Trazabilidad de detalle aprobado
 
-## Secuencia de trabajo
+| Detalle aprobado | Destino | Archivo o reserva | Fundamento |
+|---|---|---|---|
+| Portadores como denominación nacida en Erebia y transmitida por Astria a Stigria | Canon | Ficha de Portadores y marco antiguo de Astria/Erebia | A-01 |
+| Encuentro accidental entre humanos e Inits | Canon | Fichas de Inits y Portadores; cuento del Surgimiento | A-01, R-23 |
+| Materializar deseos como capacidad, no finalidad de los Inits | Canon | Ficha de Inits | A-01, R-16 |
+| Finalidad de los Inits desconocida e incierta | Canon | Ficha de Inits | R-16 |
+| Mezcla de linajes reduce la manifestación del vínculo, no su alcance | Canon | Ficha de Portadores | A-01, R-27 |
+| Analogía recesiva solo como diseño interno, sin genética dentro del mundo | Reserva narrativa | Regla interna del proceso; no se traslada al canon como explicación genética | R-27 |
+| No existe un Init fijo por linaje | Canon | Fichas de Portadores e Inits | R-27 |
+| Un Portador alcanza normalmente un Init; no es imposibilidad absoluta | Canon | Ficha de Portadores; excepciones concretas reservadas | R-28 |
+| No puede identificarse de forma fiable el Init alcanzado ni derivar de él un don | Canon | Fichas de Portadores e Inits | R-28 |
+| Maeggi singular y Maeggis plural | Canon | Sangheskios, Edad del Hierro y casos históricos | A-02, R-15 |
+| Maegys invariable para personas con licencia imperial | Canon | Portadores, Invocadores y Möes Tábura | A-02, R-15, R-32 |
+| Vínculo, don y maestría como conceptos distintos | Canon | Fichas de Portadores, Inits e Invocadores | A-03, R-01, R-04 |
+| Blesk retirado sin equivalente mecánico único | Descartado o sustituido | R-17 invalida el término; cada aparición recibe reescritura contextual | R-17 |
+| Un Portador posee normalmente un don, con maestrías diversas | Canon | Ficha de Portadores | A-03, R-01 |
+| Nombres de Portadores contextuales, no taxonomía universal | Canon | Ficha de Portadores | A-04, R-09, R-10 |
+| Rechazo histórico de Erebia, Astria y sabios de Khalos a una taxonomía universal | Canon | Sección de clasificaciones en la ficha de Portadores | A-04 |
+| Registro obligatorio desde los dieciséis años; antes responde la casa o los padres | Canon | Fichas de Portadores, Invocadores y marco institucional | A-05, R-12 |
+| Registro independiente de licencia | Canon | Portadores, Invocadores y Möes Tábura | R-12, R-13 |
+| Error de buena fe en la clasificación registral no es grave; falsificación deliberada es ilegal | Canon | Ficha de Invocadores y marco de registro | R-13 |
+| Möes Tábura forma Portadores e Invocadores y estudia dones y maestrías | Canon | Ficha de Möes Tábura | A-05, R-07 |
+| Primera licencia concede condición general de Maegys | Canon | Möes Tábura, Portadores e Invocadores | R-08, R-32 |
+| Cambio de oficio sin licencia adicional, sujeto a aprender lo necesario | Canon | Möes Tábura y marco profesional | R-11, R-32 |
+| Títulos como clasificaciones administrativas iniciales y acumulables | Canon | Möes Tábura | A-06, R-09, R-10 |
+| Leondras clasificado siempre como Portador Tempestuoso | Canon | Casa Solarys o ficha personal relacionada | A-06 |
+| Oficios Maegys: ejercicio independiente, milicia, Grim Tábura y Möes Tábura, sin lista cerrada | Canon | Möes Tábura, Grim Tábura y ficha de Portadores | A-06 |
+| Invocador como receptor o heredero de un vínculo adquirido por rito | Canon | Ficha de Invocadores | A-07, R-05 |
+| Vínculo artificial permanente, heredable y ampliado hacia muchos Inits | Canon | Fichas de Invocadores e Inits | R-02, R-04, R-05 |
+| Manifestaciones intrincadas e individuales de los Invocadores | Canon | Ficha de Invocadores | R-02 |
+| Entrenamiento peligroso por complejidad, estandarizado en la Edad de Oro | Canon | Invocadores y Möes Tábura | R-06, R-07 |
+| Técnica, materiales y riesgos concretos del rito | Reserva narrativa | Reserva en la ficha de Invocadores | R-05, R-06 |
+| Creación nueva casi prohibida y fuertemente restringida | Canon | Ficha de Invocadores | A-07, R-31 |
+| Autoridad, permisos y procedimiento de creación | Reserva narrativa | Reserva institucional de Invocadores | R-31 |
+| Mayoría de Invocadores actuales nacidos de linajes heredados | Canon | Ficha de Invocadores | A-07 |
+| Prácticas secretas de casas nobles y estigma social | Canon | Ficha de Invocadores | A-07, R-14 |
+| Conflicto de la Segunda Dinastía que casi destruyó el Imperio | Canon | Ficha de Invocadores, sin desarrollar la reserva histórica | R-14 |
+| Causas, bandos y secuencia del conflicto de la Segunda Dinastía | Reserva narrativa | Reserva histórica en la ficha de Invocadores | R-14 |
+| Therin convertido por su padre y primer Invocador registrado | Canon | Historia antigua de Astria/Erebia e Invocadores | R-21 |
+| Relato completo de Therin y materiales de proto_v2 | Reserva narrativa | Futura transferencia autorizada de Astria; proto_v2 permanece intacto | R-21 |
+| Mobius consume el vínculo completo y destruye a la persona | Canon | Fichas de Mobius, Portadores e Invocadores | R-18 |
+| Motivaciones individuales de los Mobius; retorno no demostrado imposible | Canon | Ficha de Mobius | R-18 |
+| Kantra como ayuda mental elegida o creada para una maestría | Canon | Ficha de Kantra y Portadores | R-19, R-20 |
+| Verilium bloquea dones mediante circunferencia cerrada, sin daño por contacto | Canon | Portadores, Invocadores y Verilium | R-22 |
+| Verilium contiene Mobius, hiere Grimmen y no intercambia esos efectos | Canon | Mobius, Grimmen y Verilium | R-22 |
+| Causa real del Surgimiento: los Inits dejaron atrás a los Mobius y regresaron | Canon velado | Cuento del Surgimiento y ficha de Inits; desconocido por el mundo en general | R-23 |
+| Primera luz del Surgimiento volvió inmateriales a los Mobius | Canon | Cuento del Surgimiento y ficha de Mobius | R-24 |
+| Luz solar hiere, reduce y deshace manifestaciones de Mobius sin destruirlos | Canon | Cuento del Surgimiento y ficha de Mobius | R-24 |
+| Capacidades de los Mobius individuales, no universales | Canon | Ficha de Mobius | R-25, R-26 |
+| Catálogo y límites técnicos de capacidades Mobius | Reserva narrativa | Reserva en la ficha de Mobius | R-25, R-26 |
+| Brillo ocular infantil tenue e involuntario; brillo posterior durante el uso | Canon | Portadores e Invocadores | R-29 |
+| «La lumbre», «alumbre del ojo» y nombres equivalentes de la señal ocular | Descartado o sustituido | Descripción directa del brillo; R-29 | R-29 |
+| Ausencia de coste universal del don | Canon | Portadores, Invocadores y caso de Loryan | R-30 |
+| Lumbre como material quemado en el Gran Faro de Esteria | Canon | Esteria, Guardia Amarilla y Faro | R-22, R-33 |
+| Composición, fabricación y origen de la Lumbre | Reserva narrativa | Reserva en la ficha de Esteria o del Faro | R-33 |
+| Radu, Portadores Sombríos, fusión con Strigor y Rey Podrido | Reserva narrativa | Mantener las reservas y marcas de canon velado vigentes | N-09 |
 
-### Fase 1: acumulación
+## Premisas descartadas o sustituidas
 
-Crear `acumulacion-portadores-maegis-y-blesk.md` con cada evidencia, pregunta, alternativa y consecuencia. Cada entrada llevará una marca de **acordado**, **pendiente**, **reserva narrativa** o **fuera del alcance**. El material de procesos previos no se tratará como canon por sí solo.
+| Premisa que no debe transferirse | Resolución invalidante |
+|---|---|
+| Maegi, Maegis, Maegy o Maeghis como formas válidas | R-15 |
+| Blesk como término o mecánica unitaria | R-17 |
+| Init fijo heredado por cada linaje | R-27 |
+| Puente temporal nuevo por cada manifestación | R-04 |
+| Vínculo de Invocador no heredable | R-05 |
+| Vínculo artificial bidireccional por naturaleza | R-05 |
+| Rechazo corporal, implantación infantil y degeneración progresiva | R-06 |
+| Verilium como ingrediente del rito o daño por contacto | R-22 |
+| Zoroastro, Tarok, fuego espectral y plato de oro como origen confirmado del primer Invocador | R-21 |
+| Kantra como activador necesario del don | R-19, R-20 |
+| Mobius alimentado por una manifestación activa | R-18 |
+| Luz solar como destrucción del Mobius | R-24 |
+| Coste o agotamiento universal y proporcional por usar un don | R-30 |
+| Claridad permanente o crepuscular del iris | R-29 |
+| «La lumbre» o «alumbre del ojo» como concepto ocular | R-29, R-33 |
+| Licencias independientes obligatorias para cada oficio | R-32 |
 
-### Fase 2: auditoría previa
+## Reservas que no bloquean el volcamiento
 
-Crear `auditoria-previa-al-volcamiento-portadores-maegis-y-blesk.md`. Contrastará la acumulación con el canon fuente, localizará contradicciones y enumerará el efecto potencial sobre entidades, personajes, territorios, instituciones, cronología, índices y pendientes. No propondrá soluciones como si ya estuvieran aprobadas.
+- Técnica, materiales, riesgos concretos y regulación del rito de creación de
+  Invocadores.
+- Desarrollo del conflicto de la Segunda Dinastía.
+- Relato completo de Therin y cualquier rescate futuro de `proto_v2`.
+- Excepciones concretas de Portadores capaces de alcanzar más de un Init.
+- Catálogo y límites técnicos de capacidades de Mobius.
+- Composición, fabricación y origen de la Lumbre del Faro Amarillo.
+- Naturaleza y capacidades de los Portadores Sombríos, incluida la situación de
+  Radu y sus marcas de canon velado.
 
-### Fase 3: acumulación de resoluciones
+## Verificación del futuro volcamiento
 
-Crear `acumulacion-de-resolucion-portadores-maegis-y-blesk.md`. Resolver los nudos en el orden anterior, declarar que toda resolución final prevalece sobre las formulaciones incompatibles de la acumulación y proponer el siguiente nudo al cerrar cada punto. Las respuestas insuficientes quedarán como preguntas humanas, no como inferencias.
+1. Buscar `Blesk` en `docs/` y `cuentos/`, excluyendo el historial de
+   `docs/notas.md`; no debe quedar en lore activo ni en `cuentos/AGENTS.md`.
+2. Buscar `Maegi`, `Maegis`, `Maegy` y `Maeghis`; sustituir cada caso activo por
+   Maeggi o Maeggis según el número. Confirmar que Maegys se use únicamente para
+   la licencia imperial.
+3. Buscar «la lumbre» y «alumbre del ojo» en lore e instrucciones activas; la
+   señal ocular debe describirse directamente. No confundirla con la Lumbre del
+   Faro Amarillo.
+4. Buscar destrucción solar de Mobius, coste universal, claridad adulta
+   permanente, puentes temporales, vínculo no heredable, bidireccionalidad y
+   degeneración física de Invocadores.
+5. Comprobar que la causa real del Surgimiento esté delimitada como
+   `CANON-VELADO` y desconocida por el mundo en general.
+6. Verificar enlaces, índices, reservas protegidas y el destino de cada fila de
+   trazabilidad.
+7. Añadir a `docs/notas.md` una entrada del bloque efectivamente ejecutado, sin
+   reescribir sus menciones históricas anteriores.
+8. Realizar una auditoría anti-fantasmeo sobre todos los archivos modificados.
+9. Ejecutar `git diff --check` y revisar `git status --short`. No ejecutar
+   `build.sh`.
 
-### Fase 4: cierre y plan ejecutable
+## Condición de ejecución y salida
 
-Clasificar cada nudo como **cerrado**, **cerrado con reserva** o **pendiente de decisión humana**. Solo entonces se preparará el inventario definitivo de archivos, operaciones y trazabilidad de cada detalle aprobado.
-
-## Inventario provisional de futuro impacto
-
-Este inventario es una guía de auditoría, no una orden de modificar archivos. Cada entrada deberá confirmarse mediante una resolución y una decisión de destino antes del volcamiento autorizado.
-
-| Bloque potencial | Archivos a revisar | Operación posible tras autorización |
-|---|---|---|
-| Definiciones ontológicas | `docs/entidades/portadores.md`, `docs/entidades/inits.md`, `docs/entidades/invocadores.md`, `docs/entidades/mobius.md` | Reescribir o alinear reglas y relaciones. |
-| Terminología e índices | `docs/entidades.md`, `docs/mundo.md`, `docs/pendientes.md` | Normalizar nombres, enlaces y reservas. |
-| Historia sangheskia | `docs/mundo/stigria/edad-del-hierro.md`, `docs/mundo/stigria/sangheskios.md`, `docs/mundo/stigria/edad-de-la-podredumbre.md` | Precisar el uso histórico de Maegis. |
-| Instituciones posteriores | Fichas de Veleskaria, Khalos, Esteria y Guardia del Norte | Ajustar formación, refugio, protección o servicio voluntario. |
-| Casos personales | Fichas de Stelian, Radu y Rey Podrido | Revisar solo lo necesario; preservar reservas y canon velado. |
-| Edad de la Tiranía | Fichas afectadas por sus resoluciones vigentes | Coordinar, no duplicar ni contradecir, sus resoluciones y reservas. |
-| Registro editorial | `docs/notas.md` | Registrar únicamente un bloque ejecutado con autorización humana. |
-
-## Trazabilidad exigida antes de ejecutar
-
-Por cada detalle aprobado se declarará un único destino:
-
-- **Canon:** ficha o marco canónico concreto que lo recibirá.
-- **Reserva narrativa:** qué parte queda sin desarrollar y dónde se mantendrá registrada.
-- **Descartado o sustituido:** resolución que lo invalida, sin conservarlo como premisa indirecta.
-
-La ejecución futura exigirá una orden humana explícita, actualización de `docs/notas.md`, revisión de enlaces y una auditoría anti-fantasmeo. Hasta esa orden, este plan y los documentos derivados permanecen fuera del canon.
+El plan está terminado. Una futura ejecución deberá realizarse por bloques,
+comprobar la trazabilidad antes de cerrar cada uno y detenerse si aparece una
+contradicción no contemplada. Solo una orden humana explícita de volcamiento
+autoriza a modificar el canon.

@@ -2,7 +2,10 @@
 
 ## Estado y límite de autoridad
 
-Documento de trabajo no canónico. Reúne los acuerdos humanos y las preguntas que deberán auditarse antes de cualquier resolución o traslado a `docs/` o `cuentos/`.
+Documento de trabajo no canónico. Reúne los acuerdos humanos que alimentaron la
+auditoría y las resoluciones de este alcance. Las formulaciones finales de la
+acumulación de resoluciones prevalecen sobre cualquier redacción incompatible
+de este documento. No autoriza ningún traslado a `docs/` o `cuentos/`.
 
 ## A-01. Denominación, origen y persistencia del vínculo
 
@@ -26,11 +29,12 @@ de cuánto potencial de ese vínculo consiga desarrollar cada persona.
 - Alinear la naturaleza y función de los Inits con la condición de que materializar deseos sea una capacidad y no su fin.
 - Definir un vocabulario que distinga el vínculo con un Init de la manifestación que este permite.
 - Determinar cómo se expresa la herencia sin convertir la disminución de personas vinculadas por mezcla en una regla matemática o automática, ni atribuirle una merma del alcance del vínculo.
-- Distinguir las denominaciones históricas de Portador, Maegis y Maegys sin
+- Distinguir las denominaciones históricas de Portador, Maeggi, Maeggis y
+  Maegys sin
   confundir condición vinculada, esclavitud sangheskia y certificación imperial.
 - Revisar las consecuencias sobre los Inits, Portadores, Invocadores y los casos particulares ya documentados, sin alterar sus reservas narrativas ni sus marcas de canon velado.
 
-## A-02. Maegis sangheskios y Maegys imperiales
+## A-02. Maeggi y Maeggis sangheskios; Maegys imperiales
 
 **Estado:** acordado por el humano.
 
@@ -40,7 +44,8 @@ Erebia. Durante los siglos que permanecieron allí desarrollaron costumbres y
 una lengua propias.
 
 Más tarde abandonaron la isla, llegaron directamente a Stigria y desembarcaron
-en Rauven. Los **Maegis** son los Portadores esclavizados por los Sangheskios.
+en Rauven. **Maeggi** es el singular y **Maeggis** el plural para los Portadores
+esclavizados por los Sangheskios.
 
 **Maegys**, tanto en singular como en plural, es la denominación imperial para
 un Portador o Invocador que cuenta con certificación imperial. No es un renombre
@@ -48,8 +53,9 @@ sangheskio ni una condición equivalente a cualquier persona vinculada.
 
 ### Consecuencias que deberán auditarse
 
-- Localizar las referencias a Maegis para relacionarlas con la esclavitud
-  sangheskia y no con la certificación imperial.
+- Localizar las referencias a Maegi y Maegis para sustituirlas por Maeggi o
+  Maeggis según el número y relacionarlas con la esclavitud sangheskia, no con
+  la certificación imperial.
 - Reservar Maegys para Portadores e Invocadores certificados por el Imperio.
 
 ## A-03. Vínculo y don
@@ -68,10 +74,9 @@ concepto. Los dones más comunes y abundantes se relacionan con la manipulación
 de un elemento, pero un Portador posee un don, no varios. De ahí proceden
 denominaciones como Portador Tempestuoso o Portador del Sol.
 
-Las cosas que un Portador puede hacer con su don se llamarán provisionalmente
-**maestría**. La maestría permite aplicaciones distintas de un mismo don, no la
-adquisición de dones adicionales. Este nombre queda pendiente de confirmación
-humana antes de emplearse como terminología definitiva.
+Las cosas que un Portador puede hacer con su don se llaman **maestría**. La
+maestría permite aplicaciones distintas de un mismo don, no la adquisición de
+dones adicionales.
 
 Por ejemplo, los Portadores Tempestuosos no comparten una misma maestría: no
 todos pueden volar o deslizarse por el aire, algunos ni siquiera lo utilizan de
@@ -91,8 +96,8 @@ flechas.
   las otras.
 - Distinguir un don de sus maestrías: aplicaciones diversas de una misma idea no
   constituyen dones adicionales.
-- Confirmar o sustituir «maestría» antes de normalizar el nombre de las acciones
-  que un Portador puede realizar con su don.
+- Normalizar «maestría» como nombre de las acciones que un Portador puede
+  realizar con su don.
 - Replantear los términos de los Invocadores y sus ritos solo después de fijar
   cómo se altera o transfiere un vínculo, sin asumir que un don pueda extraerse
   como si fuera el vínculo mismo.
@@ -132,14 +137,16 @@ como tal. Si tiene menos de dieciséis años, la responsabilidad de ese registro
 recae en su casa y sus padres; desde los dieciséis años, recae en el propio
 Portador.
 
-Una persona vinculada puede usar libremente su don. Sin embargo, no puede ganarse la vida
-ni prestar servicios relacionados con ese don, salvo que obtenga la designación
-de **Maegys Imperial** para la actividad que desea ejercer.
+Una persona vinculada puede usar libremente su don. Sin embargo, no puede
+ganarse la vida ni prestar servicios relacionados con ese don, salvo que
+obtenga la designación de **Maegys Imperial**.
 
-Para solicitarla, la persona vinculada debe acudir a la **Möes Tábura** y superar los
-cursos y pruebas correspondientes a la licencia de esa actividad. Al aprobar,
-recibe la designación de Maegys Imperial y queda autorizado para realizar la
-actividad solicitada.
+Para solicitarla, la persona vinculada debe acudir a la **Möes Tábura** y
+superar los cursos y pruebas correspondientes a su primera formación. Al
+aprobar, recibe la licencia y la condición de Maegys Imperial. Esa primera
+licencia basta para el ejercicio profesional posterior: cambiar de oficio no
+exige otra licencia, aunque la persona debe aprender lo necesario para la nueva
+actividad.
 
 La formación, evaluación y licencia constituyen la función básica de la Möes
 Tábura. Su labor central es el estudio y la aplicación de los dones y las
@@ -155,8 +162,8 @@ nombres de los Portadores se empleaban de otra manera.
 - Delimitar qué institución registra a los Portadores y cómo se acredita la
   responsabilidad de la casa, los padres o la persona registrada, sin inventar
   todavía el procedimiento.
-- Incorporar el papel de la Möes Tábura en la formación, evaluación y licencia
-  de cada actividad, así como en el estudio y desarrollo intergeneracional de
+- Incorporar el papel de la Möes Tábura en la formación, evaluación y primera
+  licencia, así como en el estudio y desarrollo intergeneracional de
   dones y maestrías, antes de deducir derechos, deberes o excepciones
 adicionales de un Maegys Imperial.
 - Separar las normas imperiales de los usos preimperiales en las fichas y
@@ -181,12 +188,13 @@ cualquiera de esos oficios exige ser Maegys.
 
 ### Consecuencias que deberán auditarse
 
-- Diferenciar el registro de una persona vinculada, la certificación que le
-  asigna un título y la licencia que autoriza un oficio concreto.
+- Diferenciar el registro de una persona vinculada, la primera licencia que le
+  concede la condición de Maegys y las clasificaciones administrativas que
+  describen su formación.
 - Tratar los títulos como clasificaciones acumulables según la maestría
   demostrada, no como una identidad fija ni como una clase ontológica.
 - Delimitar los ámbitos de oficio de los Maegys sin reducirlos a una lista
-  cerrada ni extender sus licencias fuera de la actividad autorizada.
+  cerrada ni convertir las clasificaciones en licencias separadas.
 
 ## A-07. Invocadores
 
@@ -195,10 +203,9 @@ cualquiera de esos oficios exige ser Maegys.
 Un **Invocador** es una persona cuyo vínculo de Portador fue creado
 artificialmente o que heredó un vínculo creado de ese modo.
 
-En la Edad de Oro, crear nuevos Invocadores está fuertemente regulado y casi
-prohibido, pues exige despojar a un Portador de su vínculo. Solo puede
-autorizarse en circunstancias extremas y con permisos específicos dentro de la
-jerarquía imperial.
+En la Edad de Oro, crear nuevos Invocadores está fuertemente restringido y casi
+prohibido, pues exige despojar a un Portador de su vínculo. La autoridad, los
+permisos y el procedimiento no se especifican en este alcance.
 
 Es un secreto a voces que muchas casas nobles pagan sumas exorbitantes para
 convertir a integrantes de sus familias en Invocadores. Por este motivo, no es
@@ -250,9 +257,8 @@ artificial del vínculo.
 
 - Sustituir las formulaciones incompatibles sobre el origen, alteración o
   herencia de los Invocadores, sin conservarlas como explicación alternativa.
-- Definir las circunstancias extremas y la autoridad competente para autorizar
-  una creación nueva que despoja a otro Portador de su vínculo, sin anticipar
-  permisos no acordados.
+- Conservar como reserva la autoridad, los permisos y el procedimiento de una
+  creación nueva que despoja a otro Portador de su vínculo.
 - Verificar que el registro, las certificaciones, los títulos y las licencias
   de Maegys Imperial se apliquen sin excepción a los Invocadores.
 - Evitar que el registro, un título o una única manifestación de don se usen
@@ -271,10 +277,8 @@ artificial del vínculo.
   los Portadores, y no tratar el ideal público de las casas nobles como una
   descripción completa de su historia privada.
 
-## Próximo nudo propuesto
+## Estado de la acumulación
 
-Definir qué límites internos ordenan el repertorio abierto de un Invocador y
-cómo se diferencia una manifestación aprendida de una combinación de
-manifestaciones. Después, precisar cómo conviven su igualdad jurídica y el
-estigma social antes de abordar el conocimiento de creación conservado por
-Khalos, la Möes Tábura u otra instancia.
+**Cerrada.** Los nudos derivados de A-01 a A-07 fueron resueltos o reservados en
+la acumulación de resoluciones. Este documento conserva el punto de partida del
+proceso y no sustituye la formulación final de aquellas resoluciones.

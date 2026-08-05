@@ -2,14 +2,14 @@
 
 ## Estado y autoridad
 
-**Estado:** abierta. Este documento reúne decisiones humanas destinadas a
-resolver los nudos de la auditoría previa. No es canon y no autoriza cambios en
-`docs/` ni en `cuentos/`.
+**Estado:** cerrada. Este documento reúne las decisiones humanas que resuelven
+o reservan todos los nudos de la auditoría previa. No es canon y no autoriza
+cambios en `docs/` ni en `cuentos/`.
 
-Cada resolución cerrada sustituirá, para este proceso, las formulaciones
-incompatibles de la acumulación inicial. Al final deberá existir una
-trazabilidad de cada detalle aprobado hacia canon, reserva narrativa o
-descartado/sustituido antes de preparar un plan de transferencia.
+Cada resolución cerrada sustituye, para este proceso, las formulaciones
+incompatibles de la acumulación inicial y de las resoluciones anteriores. El
+plan de volcamiento contiene la trazabilidad de cada detalle aprobado hacia
+canon, reserva narrativa o descartado/sustituido.
 
 ## R-01. Nombre de las aplicaciones de un don
 
@@ -88,14 +88,14 @@ qué relación conserva con los Inits.
 ### Resolución final
 
 El Verilium no interviene como ingrediente ni como medio de creación de un
-vínculo artificial. Su contacto físico afecta negativamente a los Portadores y
-bloquea sus dones.
+vínculo artificial. Sus efectos sobre Portadores e Invocadores quedan fijados
+por R-22, que prevalece sobre cualquier formulación anterior de este punto.
 
 ### Estado de resolución
 
-**Cerrada.** Esta resolución descarta la participación del Verilium en el rito
-atribuido al primer Invocador y exige revisar sus referencias como recurso de
-alteración de vínculos.
+**Cerrada con precedencia posterior.** Se descarta la participación del
+Verilium en el rito atribuido al primer Invocador. R-22 establece que el mero
+contacto no daña y que el bloqueo exige una circunferencia cerrada.
 
 ### Siguiente nudo propuesto
 
@@ -130,7 +130,7 @@ manifestación.
 
 ### Siguiente nudo propuesto
 
-Falta definir la transformación inicial: al extraer el vínculo de un Portador,
+El nudo exigía definir la transformación inicial: al extraer el vínculo de un Portador,
 ¿el conocimiento especializado y el rito lo reconfiguran en un vínculo
 artificial, o la propia extracción produce esa reconfiguración?
 
@@ -163,9 +163,8 @@ público y que la creación actual está fuertemente regulada.
 
 ### Siguiente nudo propuesto
 
-El canon vigente atribuye al vínculo adquirido un daño físico progresivo según
-la edad y la ascendencia de quien lo recibe. Falta decidir si esa inestabilidad
-se descarta por completo o si el rito conserva algún riesgo físico concreto.
+El nudo exigía decidir si el vínculo adquirido conservaba algún riesgo físico
+concreto o si la inestabilidad pertenecía únicamente al aprendizaje.
 
 ## R-06. Entrenamiento de Invocadores y estandarización imperial
 
@@ -240,9 +239,10 @@ La formación de la Möes Tábura es el camino para obtener una licencia de
 **Maegys Imperial**. Todo Portador o Invocador que desee vivir de su don debe
 contar con esa licencia.
 
-La formación prepara para la actividad concreta que se busca desempeñar; la
-licencia habilita su ejercicio profesional. Por tanto, recibir instrucción no
-equivale por sí solo a poder prestar servicios relacionados con un don.
+La formación inicial prepara para la primera actividad acreditada. Al aprobar,
+la licencia concede la condición general de Maegys y habilita el ejercicio
+profesional del don. Recibir instrucción sin obtenerla no basta para prestar
+servicios relacionados con un don.
 
 ### Estado de resolución
 
@@ -264,8 +264,8 @@ otorga al iniciar la formación, al obtener una licencia o en ambos momentos?
 El título profesional de un Portador o Invocador se obtiene al recibir la
 licencia de **Maegys Imperial**. No se otorga por el mero inicio de la formación.
 
-La licencia clasifica al Maegys según la actividad y la maestría que acreditó,
-con denominaciones provinciales como Portador de Sanación o Portador
+La primera licencia clasifica al Maegys según la actividad y la maestría que
+acreditó, con denominaciones provinciales como Portador de Sanación o Portador
 Tempestuoso. Esos títulos no forman una taxonomía universal y solo rigen en el
 marco imperial de la Edad de Oro.
 
@@ -277,7 +277,7 @@ preliminar otorgue por sí misma un título profesional.
 ### Siguiente nudo propuesto
 
 La acumulación prevé que el título puede mutar si el Maegys amplía su maestría.
-Falta decidir si esa actualización requiere una nueva licencia, una evaluación
+El nudo exigía decidir si esa actualización requería una nueva licencia, una evaluación
 de la Möes Tábura o solo el reconocimiento de la práctica demostrada.
 
 ## R-10. Alcance de los títulos de Maegys
@@ -299,7 +299,7 @@ tiene poca importancia.
 
 **Cerrada en cuanto al alcance del título.**
 
-### Punto aún pendiente
+### Clasificaciones posteriores
 
 Un Maegys puede solicitar clasificaciones adicionales cuando amplía su maestría.
 El título inicial es siempre uno, pero las clasificaciones posteriores se
@@ -312,7 +312,7 @@ registro existe, aunque posee poca relevancia práctica en la Edad de Oro.
 
 ### Siguiente nudo propuesto
 
-Falta definir qué determina el título inicial de una licencia: ¿la actividad
+El nudo exigía definir qué determina el título inicial de una licencia: ¿la actividad
 profesional para la que el Maegys se habilita, la naturaleza de su don o la
 maestría concreta que acreditó? Esa regla permitirá distinguir, por ejemplo,
 entre un don relacionado con el viento y una clasificación de Portador
@@ -325,24 +325,25 @@ Tempestuoso.
 ### Resolución final
 
 El título inicial se vincula, por lo general, con la actividad específica para
-la que se obtiene la licencia. Quien quiere ejercer como sanador mediante su
-don, sea Portador o Invocador, debe obtener una acreditación de **Maegys de
+la que se obtiene la primera licencia. Quien se forma como sanador mediante su
+don, sea Portador o Invocador, puede recibir la clasificación de **Maegys de
 Sanación**.
 
-La acreditación no obliga a trabajar de por vida en el oficio estudiado ni
-limita el uso lícito del don a esa actividad. Un Maegys de Sanación puede
-integrar la Grim Tábura si aprende a aplicar su don en combate o defensa.
-También puede abandonar ese ámbito y dedicarse a otro oficio, como la
-construcción o la pesca.
+La licencia no obliga a trabajar de por vida en el oficio estudiado ni limita
+el uso profesional del don a esa actividad. Un Maegys de Sanación puede
+integrar la Grim Tábura si aprende a aplicar su don en combate o defensa, sin
+necesidad de obtener otra licencia. También puede abandonar ese ámbito y
+dedicarse a otro oficio, como la construcción o la pesca.
 
 ### Estado de resolución
 
-**Cerrada.** El título nombra una habilitación profesional, no una identidad
-laboral exclusiva ni una clasificación absoluta del don.
+**Cerrada.** La licencia concede la condición general de Maegys; el título
+nombra una clasificación administrativa, no una habilitación separada, una
+identidad laboral exclusiva ni una clasificación absoluta del don.
 
 ### Siguiente nudo propuesto
 
-Falta cerrar el registro imperial: la acumulación establece que toda persona
+El nudo exigía cerrar el registro imperial: la acumulación establece que toda persona
 vinculada debe registrarse, con responsabilidad de padres o casa antes de los
 dieciséis años y propia después. ¿Confirmamos esa regla y definimos si el
 registro es independiente de pedir una licencia de Maegys Imperial?
@@ -395,7 +396,7 @@ en una revelación automática ni presume mala fe ante una clasificación errón
 
 ### Siguiente nudo propuesto
 
-Falta cerrar el estigma social: la acumulación vincula a los Invocadores con
+El nudo exigía cerrar el estigma social: la acumulación vincula a los Invocadores con
 atajos, aspiracionismo y vergüenza nobiliaria, aunque algunas casas recurrieron
 en secreto a la práctica. ¿Confirmamos ese contraste y definimos si afecta sus
 derechos legales o solo su reputación?
@@ -426,9 +427,10 @@ Invocadores queda reservada para una etapa posterior.
 
 ### Siguiente nudo propuesto
 
-Corresponde cerrar la distinción entre Maegis sangheskios y Maegys imperiales.
+Corresponde cerrar la distinción entre Maeggi/Maeggis sangheskios y Maegys
+imperial.
 
-## R-15. Forma y alcance de «Maegys»
+## R-15. Forma y alcance de «Maeggi», «Maeggis» y «Maegys»
 
 **Nudo de origen:** N-04 de la auditoría previa.
 
@@ -438,19 +440,19 @@ Corresponde cerrar la distinción entre Maegis sangheskios y Maegys imperiales.
 plural, para un Portador o Invocador certificado por el Imperio. No designa a
 toda persona vinculada.
 
-Los **Maegis** son los Portadores esclavizados por los Sangheskios. Maegis no
-es una grafía alternativa de Maegys ni una denominación imperial.
+**Maeggi** es el singular y **Maeggis** el plural para los Portadores
+esclavizados por los Sangheskios. Ninguna de las dos formas es una grafía
+alternativa de Maegys ni una denominación imperial.
 
 ### Estado de resolución
 
-**Cerrada.** Esta resolución sustituye la equivalencia entre Maegys, Maegis y
-Portador. Maegis conserva su uso histórico específico; Maegy y Maeghis quedan
-descartadas.
+**Cerrada.** Esta resolución sustituye la equivalencia entre Maegys y las
+denominaciones sangheskias. Maegi, Maegis, Maegy y Maeghis quedan descartadas.
 
 ### Siguiente nudo propuesto
 
 La acumulación fija que materializar deseos es una capacidad de los Inits, no
-su finalidad. Falta decidir si la finalidad de los Inits está definida y queda
+su finalidad. El nudo exigía decidir si la finalidad de los Inits estaba definida y quedaba
 reservada, o si se mantiene sencillamente como desconocida.
 
 ## R-16. Finalidad de los Inits
@@ -505,9 +507,8 @@ para reemplazar todavía términos en archivos canónicos.
 
 ### Siguiente nudo propuesto
 
-En la ficha vigente, los Mobius se alimentan de Blesk activo. Falta definir qué
-consumen bajo la nueva terminología: ¿el vínculo mientras está en uso, la
-manifestación de un don, u otra cosa distinta?
+El nudo exigía definir qué consumen los Mobius bajo la nueva terminología: ¿el
+vínculo mientras está en uso, la manifestación de un don u otra cosa distinta?
 
 ## R-18. Mobius y consumo del vínculo
 
@@ -591,10 +592,9 @@ necesaria una fórmula particular.
 
 ### Siguiente nudo propuesto
 
-La ficha vigente atribuye la creación del primer Invocador a Zoroastro, a un
-rito con elementos ya descartados y al origen de Tarok. Falta decidir si ese
-episodio histórico se reescribe desde las reglas actuales o queda enteramente
-como reserva narrativa mientras se conserva solo que el método existe.
+El nudo exigía decidir cuánto conservar del episodio del primer Invocador y
+cuánto mantener como reserva narrativa, sin transferir elementos incompatibles
+con las reglas resueltas.
 
 ## R-21. Primer Invocador registrado
 
@@ -637,15 +637,16 @@ El Verilium puede bloquear o encerrar a los Mobius y a sus derivados, pero no
 herirlos. Con los Grimmen ocurre lo contrario: puede herirlos e incluso
 matarlos, pero no contenerlos ni bloquearlos.
 
-La **Lumbre del Faro Amarillo** posee efectos más amplios que el Verilium. La
-luz proyectada por sus combustibles al arder es mortal para los Grimmen y para
-los poseídos. Frente a los Emisarios de la Ruina, sus efectos varían desde la
-ausencia de efecto hasta la letalidad.
+La **Lumbre del Faro Amarillo** es un material fabricado que se quema en el Gran
+Faro de Esteria. Su combustión produce la luz amarilla, cuyos efectos son más
+amplios que los del Verilium: es mortal para los Grimmen y para los poseídos.
+Frente a los Emisarios de la Ruina, sus efectos varían desde la ausencia de
+efecto hasta la letalidad.
 
 ### Reserva de desarrollo
 
-No se desarrollan aquí la composición, fabricación u origen de los materiales,
-de los combustibles ni de la Lumbre del Faro Amarillo.
+No se desarrollan aquí la composición, fabricación ni origen de la Lumbre del
+Faro Amarillo.
 
 ### Estado de resolución
 
@@ -655,10 +656,9 @@ contacto.
 
 ### Siguiente nudo propuesto
 
-El cuento vigente del Surgimiento atribuye a los Inits una razón concreta para
-haber llegado al mundo: escapar de algo que los perseguía. Esa afirmación
-contradice la finalidad desconocida e incierta ya resuelta. Falta decidir si se
-descarta esa razón y qué mínimo se conserva del encuentro accidental.
+El nudo exigía fijar qué mínimo conservar del encuentro accidental y separar el
+conocimiento disponible dentro del mundo de la causa real reservada como canon
+velado.
 
 ## R-23. Causa del Surgimiento
 
@@ -682,9 +682,9 @@ no se expondrá como conocimiento histórico ordinario.
 
 ### Siguiente nudo propuesto
 
-El cuento vigente afirma que la luz solar directa destruye a los Mobius. Falta
-decidir si esa debilidad se conserva, se modifica o queda reservada, pues afecta
-su presencia en el mundo después del Surgimiento.
+Corresponde precisar cómo afectan a los Mobius la primera luz del Surgimiento y
+la exposición solar posterior, pues ambas inciden en su presencia material o
+inmaterial en el mundo.
 
 ## R-24. Luz solar y forma inmaterial de los Mobius
 
@@ -692,21 +692,24 @@ su presencia en el mundo después del Surgimiento.
 
 ### Resolución final
 
-La luz solar directa destruye a los Mobius.
-
 La primera luz que recibieron durante el Surgimiento les hizo perder su forma
 material. Desde entonces, los Mobius habitan este mundo de forma inmaterial.
 
+La luz solar directa no destruye a un Mobius. Lo hiere gravemente, lo debilita
+hasta su mínima expresión y deshace cualquier cuerpo, forma o manifestación que
+esté utilizando, devolviéndolo a su presencia inmaterial.
+
 ### Estado de resolución
 
-**Cerrada.** La regla no atribuye el mismo efecto a una luz indirecta ni
-desarrolla todavía las formas concretas en que un Mobius inmaterial interactúa
-con el mundo.
+**Cerrada.** Esta resolución sustituye toda formulación que presente la luz
+solar como destrucción del Mobius. No atribuye el mismo efecto a una luz
+indirecta ni desarrolla las formas concretas en que un Mobius inmaterial
+interactúa con el mundo.
 
 ### Siguiente nudo propuesto
 
-Falta definir cómo actúa un Mobius inmaterial en el mundo: el canon actual le
-atribuye posesión de cuerpos vivos y uso temporal de cadáveres. ¿Conservamos
+El nudo exigía definir cómo actúa un Mobius inmaterial en el mundo: el canon
+actual le atribuye posesión de cuerpos vivos y uso temporal de cadáveres. ¿Conservamos
 esas dos formas de interacción y bajo qué límites?
 
 ## R-25. Capacidades individuales de los Mobius
@@ -751,8 +754,9 @@ origen ni se establece una proporción entre ambos factores.
 
 Corresponde volver a la herencia de los Portadores: está acordado que el
 vínculo se hereda y que la mezcla de linajes reduce la cantidad de personas en
-quienes se manifiesta, sin reducir su alcance. Falta decidir si cada linaje
-conserva la conexión con un mismo Init o si ese aspecto queda desconocido.
+quienes se manifiesta, sin reducir su alcance. El nudo exigía decidir si cada
+linaje conservaba la conexión con un mismo Init o si ese aspecto quedaba
+desconocido.
 
 ## R-27. Lógica hereditaria de los vínculos
 
@@ -813,8 +817,107 @@ No es posible identificar de forma fiable qué Init alcanza una persona ni usar
 esa relación para explicar o clasificar sus dones. Por ello no se fijará una
 correspondencia entre un Init concreto y un don.
 
-### Siguiente nudo propuesto
+## R-29. Señal ocular de Portadores e Invocadores
 
-El canon vigente atribuye a los Portadores una claridad en el iris y agotamiento
-al usar sus dones. Falta decidir qué señal física y qué coste observable se
-conservan, modifican o reservan bajo las reglas nuevas.
+**Nudo de origen:** N-03 de la auditoría previa.
+
+### Resolución final
+
+Durante la infancia, los ojos de Portadores e Invocadores presentan un brillo
+tenue e involuntario. Después brillan mientras utilizan su don o sus dones. No
+se fijan una edad exacta, una intensidad, una escala ni otra mecánica adicional.
+
+El brillo se describe directamente. «La lumbre», «alumbre del ojo» y cualquier
+denominación especial equivalente quedan descartados.
+
+### Estado de resolución
+
+**Cerrada.** Esta resolución sustituye la claridad permanente o crepuscular del
+iris y cualquier nombre autónomo para la señal ocular.
+
+## R-30. Ausencia de un coste universal del don
+
+**Nudo de origen:** N-03 de la auditoría previa y S-04 del proceso de la Edad de
+la Tiranía.
+
+### Resolución final
+
+No existe una regla universal de desgaste por utilizar un don. El esfuerzo
+depende de la persona y de lo que haga, sin una escala, proporcionalidad,
+síntomas obligatorios ni coste sobrenatural aplicable a todos los Portadores e
+Invocadores.
+
+La demostración de Loryan permanece como un hecho extraordinario, pero no se
+explica mediante una regla general de coste real ni mediante su resistencia a
+un agotamiento obligatorio.
+
+### Estado de resolución
+
+**Cerrada con precedencia transversal.** Sustituye la regla de coste universal
+de S-04 en el proceso de la Edad de la Tiranía y cualquier formulación derivada
+de ella. El documento anterior se conserva como historial de aquel proceso,
+pero ya no rige esta materia.
+
+## R-31. Restricción de nuevas creaciones de Invocadores
+
+**Nudo de origen:** N-05 y N-07 de la auditoría previa.
+
+### Resolución final
+
+La creación de nuevos Invocadores en la Edad de Oro permanece fuertemente
+restringida y casi prohibida porque exige despojar a un Portador de su vínculo.
+Este alcance no especifica una autoridad competente, permisos, circunstancias
+habilitantes ni procedimiento.
+
+### Estado de resolución
+
+**Cerrada con reserva narrativa.** La restricción es transferible al canon; la
+regulación concreta queda reservada.
+
+## R-32. Alcance general de la licencia Maegys
+
+**Nudo de origen:** N-07 y N-08 de la auditoría previa.
+
+### Resolución final
+
+La primera licencia concede la condición general de Maegys. Su clasificación
+inicial refleja la formación y la actividad acreditadas en ese momento, pero
+cambiar de oficio no exige otra licencia. La persona debe aprender lo necesario
+para la nueva actividad sin que este proceso formalice trámites adicionales.
+
+### Estado de resolución
+
+**Cerrada.** Esta resolución prevalece sobre cualquier lectura de R-08 a R-11
+que convierta cada clasificación u oficio en una licencia independiente.
+
+## R-33. Naturaleza de la Lumbre del Faro Amarillo
+
+**Nudo de origen:** cierre de R-22 y N-10 de la auditoría previa.
+
+### Resolución final
+
+La Lumbre del Faro Amarillo es el material fabricado que se quema en el Gran
+Faro de Esteria. La luz amarilla es el efecto de su combustión, no un nombre
+para el brillo ocular de las personas vinculadas.
+
+### Estado de resolución
+
+**Cerrada con reserva narrativa.** Su composición, fabricación y origen no se
+desarrollan.
+
+## Precedencias finales
+
+1. R-22 prevalece sobre R-03 respecto del contacto y bloqueo del Verilium.
+2. La formulación vigente de R-24 sustituye la destrucción solar de los Mobius.
+3. R-29 sustituye las señales o denominaciones oculares incompatibles.
+4. R-30 sustituye S-04 del proceso de la Edad de la Tiranía respecto del coste.
+5. R-32 prevalece sobre cualquier lectura de R-08 a R-11 que exija licencias
+   independientes por oficio.
+6. R-33 precisa la naturaleza material de la Lumbre del Faro Amarillo.
+
+## Estado final del proceso de resolución
+
+**Cerrado.** Todas las decisiones necesarias para preparar el volcamiento están
+resueltas o reservadas expresamente. La auditoría de cierre y el plan de
+volcamiento registran la clasificación de los nudos, los archivos afectados y
+el destino de cada detalle aprobado. Este cierre no autoriza cambios canónicos.
