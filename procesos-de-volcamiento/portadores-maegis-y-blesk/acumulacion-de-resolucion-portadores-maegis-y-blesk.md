@@ -708,3 +708,113 @@ con el mundo.
 Falta definir cómo actúa un Mobius inmaterial en el mundo: el canon actual le
 atribuye posesión de cuerpos vivos y uso temporal de cadáveres. ¿Conservamos
 esas dos formas de interacción y bajo qué límites?
+
+## R-25. Capacidades individuales de los Mobius
+
+**Nudo de origen:** N-01 de la auditoría previa.
+
+### Resolución final
+
+No todos los Mobius poseen las mismas capacidades. La posesión de cuerpos vivos
+o el uso temporal de cadáveres corresponde solo a algunos; no es una facultad
+universal de los Mobius inmateriales.
+
+Sus capacidades son individuales. Algunas pueden parecerse o coincidir entre
+Mobius distintos, mientras que otras son singulares.
+
+### Estado de resolución
+
+**Cerrada con reserva narrativa.** No se crea un catálogo de capacidades ni se
+fijan límites técnicos para cada una.
+
+### Siguiente nudo propuesto
+
+Falta resolver la relación entre las capacidades de un Mobius y su permanencia
+en este mundo: ¿esas capacidades provienen de sus deseos inherentes, de la
+personalidad desarrollada aquí o de ambas cosas?
+
+## R-26. Origen de las capacidades de los Mobius
+
+**Nudo de origen:** N-01 de la auditoría previa.
+
+### Resolución final
+
+Las capacidades de un Mobius proceden tanto de sus deseos inherentes como de la
+personalidad que desarrolla durante su permanencia en este mundo.
+
+### Estado de resolución
+
+**Cerrada con reserva narrativa.** No se asigna una capacidad concreta a cada
+origen ni se establece una proporción entre ambos factores.
+
+### Siguiente nudo propuesto
+
+Corresponde volver a la herencia de los Portadores: está acordado que el
+vínculo se hereda y que la mezcla de linajes reduce la cantidad de personas en
+quienes se manifiesta, sin reducir su alcance. Falta decidir si cada linaje
+conserva la conexión con un mismo Init o si ese aspecto queda desconocido.
+
+## R-27. Lógica hereditaria de los vínculos
+
+**Nudo de origen:** N-03 de la auditoría previa.
+
+### Resolución final
+
+Para el diseño interno del lore, la condición de Portador o Invocador se
+comporta de manera semejante a un rasgo recesivo. Esta analogía permite ordenar
+la herencia y entender por qué la mezcla de linajes reduce la cantidad de
+personas en quienes se manifiesta un vínculo.
+
+No existe en el mundo del Imperio una ciencia aplicada equivalente ni se
+explicará la condición mediante genética, cálculos o terminología científica.
+
+### Estado de resolución
+
+**Cerrada.** Se conserva que la mezcla no reduce el alcance esencial del
+vínculo que llega a manifestarse.
+
+### Alcance complementario
+
+No existe un Init fijo por linaje. Lo que se hereda es el vínculo; de cada
+individuo depende qué Init alcanza a través de él.
+
+### Estado de actualización
+
+**Cerrada.** Esta regla descarta que la herencia obligue a un linaje a conservar
+conexión con un Init determinado.
+
+### Siguiente nudo propuesto
+
+Falta precisar la regla individual: ¿un Portador normalmente alcanza a un solo
+Init, mientras que un Invocador puede alcanzar a muchos, o un Portador también
+podría alcanzar varios aunque solo manifieste un don?
+
+## R-28. Alcance habitual de un Portador
+
+**Nudo de origen:** N-03 y N-05 de la auditoría previa.
+
+### Resolución final
+
+Un Portador alcanza normalmente a un solo Init. Un Invocador, por el alcance
+ampliado de su vínculo transferido, puede alcanzar a muchos más.
+
+La regla del Portador es habitual, no absoluta. La ausencia de registros de un
+caso distinto no prueba que sea imposible: durante un tiempo tampoco hubo
+registro de los Invocadores, aunque existieran.
+
+### Estado de resolución
+
+**Cerrada con reserva narrativa.** No se definen excepciones concretas ni se
+crea una escala de rareza.
+
+### Límite de conocimiento
+
+No es posible identificar de forma fiable qué Init alcanza una persona ni usar
+esa relación para explicar o clasificar sus dones. Por ello no se fijará una
+correspondencia entre un Init concreto y un don.
+
+### Siguiente nudo propuesto
+
+El canon vigente atribuye a los Portadores una claridad en el iris y agotamiento
+al usar sus dones. Falta decidir qué señal física y qué coste observable se
+conservan, modifican o reservan bajo las reglas nuevas.
