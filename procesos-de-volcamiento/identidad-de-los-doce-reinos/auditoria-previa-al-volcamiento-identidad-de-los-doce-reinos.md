@@ -41,6 +41,29 @@ La regla anti-fantasmeo exige que cada sustitución se aplique a la premisa
 anterior y a todas sus consecuencias. No bastará con añadir negaciones o
 conservar simultáneamente las dos versiones.
 
+## Precisión aprobada durante la auditoría: registros de uso
+
+Los términos conservados en lengua del Hierro no son simples traducciones
+ornamentales. Constituyen el registro ceremonial oficial del Imperio y su uso es
+obligatorio en las ceremonias oficiales. Esta regla comprende las
+denominaciones imperiales vigentes **Kaisrik**, **Reikar**, **Víer**,
+**Landwalt**, **Herskar** y **Frey**.
+
+Fuera del ceremonial, las formas de la lengua del Hierro continúan siendo de
+uso cotidiano principalmente en Eisengard, Guldengard y Flemmengard, así como
+en **Eldengaria**, la capital imperial. Sturmgard constituye la excepción entre
+los reinos del Hierro debido a su identidad cultural propia. En los demás
+territorios predominan en la vida diaria las equivalencias de la lengua común:
+**Emperador**, **Rey**, **dominio**, **Señor del Dominio**, **Cabeza de la
+Casa**, **Jefe de clan** y **Señor/Señora**, según corresponda.
+
+**Gard** y **Sirgard** se conservan como términos históricos preimperiales y no
+quedan convertidos por esta regla en denominaciones del ceremonial imperial
+vigente.
+
+La referencia a la capital debe escribirse **Eldengaria**. **Eldengard** designa
+la fortaleza antigua y no es el nombre de la capital contemporánea.
+
 ## Nudos de auditoría
 
 ### N-01. Elección y sucesión del Kaisrik y los Reikar
@@ -166,6 +189,11 @@ La regla se formula específicamente para Kaisrik y Reikar, por lo que no
 autoriza a alterar títulos extranjeros. Sí permanece sin precisar si ambos
 términos se aplican de manera retroactiva a todas las coronas históricas de
 Dragma o solo al régimen imperial en el que nacieron.
+
+La precisión de registros posterior a la acumulación confirma que Kaisrik y
+Reikar son obligatorios en las ceremonias oficiales. En la vida cotidiana son
+habituales sobre todo en los reinos del Hierro —excepto Sturmgard— y en
+Eldengaria; en el resto del Imperio predominan Emperador y Rey.
 
 **Decisión necesaria:** precisar el alcance histórico y el efecto sobre los
 títulos de consorte antes de ejecutar una sustitución global.
@@ -343,14 +371,20 @@ compatible con la Concordia. En lengua común la denomina **Cabeza de la Casa** 
 en Sturmgard **Jefe de clan**; en lengua del Hierro introduce **Herskar** con la
 construcción «Hammer Herskar».
 
+La precisión aprobada durante esta auditoría conserva Herskar como forma
+obligatoria del ceremonial oficial. Su uso cotidiano se concentra en los
+reinos del Hierro distintos de Sturmgard y en Eldengaria. Por ello no duplica de
+manera innecesaria a Cabeza de la Casa: cada forma pertenece a un registro y a
+una distribución cultural definidos.
+
 La Concordia concede al cónyuge de la jefatura el título de Consorte de la casa.
 La acumulación no define cómo se expresa ese título junto a Herskar ni si la Dex
 Tábura registra la forma común, la forma vernácula o ambas. Tampoco aclara si
 Jefe de clan posee una forma invariable por género, como sí se acordó para Rey
 y Emperador.
 
-**Decisión necesaria:** cerrar únicamente las equivalencias administrativas y
-las fórmulas de consorte necesarias para evitar títulos incompatibles.
+**Decisión necesaria:** cerrar únicamente las equivalencias de registro y las
+fórmulas de consorte necesarias para evitar títulos incompatibles.
 
 ### N-16. Frey y Señor/Señora
 
@@ -362,10 +396,15 @@ integrante de una casa noble. Fija **Frey** delante del nombre personal completo
 y **Señor/Señora** en lengua común. El ejemplo «Frey Sandor Solarys» aplica una
 forma de la lengua del Hierro a un integrante de una casa del Verano.
 
-**Decisión necesaria:** precisar si Frey es un tratamiento nobiliario imperial
-originado en el Hierro o si solo corresponde a situaciones en que efectivamente
-se habla esa lengua. No se requiere crear tratamientos propios para cada reino
-dentro de este alcance.
+La precisión aprobada resuelve esa duda: Frey es obligatorio para toda la
+nobleza en las ceremonias oficiales del Imperio, con independencia del origen
+cultural de la persona. Fuera del ceremonial es de uso cotidiano principalmente
+en los reinos del Hierro distintos de Sturmgard y en Eldengaria. En los demás
+territorios predominan Señor y Señora. Por ello «Frey Sandor Solarys» es correcto
+en una ceremonia imperial aunque Sandor pertenezca al Verano.
+
+**Condición de transferencia:** conservar esta diferencia de registro sin
+crear tratamientos regionales adicionales dentro de este alcance.
 
 ### N-17. Nombres, capitales, casas y gobernantes no modificados
 
@@ -425,8 +464,8 @@ geográfico coherente y autorizado.
 | A-23 | Ampliación fenotípica con taxonomía pendiente y reservas causales | N-13, N-14 |
 | A-24 | Sustitución transversal con alcance y consortes pendientes | N-01, N-06 |
 | A-25 y A-26 | Terminología histórica e imperial con incompatibilidad temporal interna | N-03 |
-| A-27 | Ampliación compatible con dependencias de registro y consortes | N-15 |
-| A-28 | Ampliación compatible con alcance lingüístico pendiente | N-16 |
+| A-27 | Ampliación compatible; registro resuelto y consortes pendientes | N-15 |
+| A-28 | Ampliación compatible con registro ceremonial y cotidiano resuelto | N-16 |
 
 ## Dependencias de archivos para un futuro plan
 
@@ -464,8 +503,9 @@ volcamiento.
 
 1. Resolver N-01 a N-04, porque contienen contradicciones directas o internas
    que afectarían la estructura política y geográfica.
-2. Precisar el alcance de los títulos y de sus fórmulas dependientes en N-06,
-   N-15 y N-16.
+2. Precisar el alcance histórico de las coronas y sus fórmulas de consorte en
+   N-06 y N-15. La distribución ceremonial y cotidiana de los términos ya está
+   resuelta, incluido Frey en N-16.
 3. Cerrar el destino de las economías incompatibles de Sturmgard y Lysarya.
 4. Clasificar los nombres étnicos y la forma de uso de dravos/dravosi; los
    mecanismos causales y las fechas más precisas pueden permanecer reservados.
