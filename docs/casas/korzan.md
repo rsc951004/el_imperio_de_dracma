@@ -7,7 +7,7 @@
 | **Tipo** | Casa real de la Edad de Oro |
 | **Reino** | Veleskaria |
 | **Posición dinástica** | Casa presente definitiva |
-| **Título** | Rey o Reina de la Puerta Carmesí |
+| **Título** | Reikar de la Puerta Carmesí |
 
 ## Historia
 

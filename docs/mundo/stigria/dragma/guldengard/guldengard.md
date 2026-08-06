@@ -13,7 +13,9 @@ establecido durante la Edad de Plata.
 | **Casa fundadora** | Gilden |
 | **Casa real** | Reginvar |
 | **Gobernante** | Pendiente |
-| **Título** | Rey o Reina del Valle Dorado |
+| **Título oficial** | Reikar del Valle Dorado |
+| **Lengua común** | Rey del Valle Dorado |
+| **Forma breve** | Dorado |
 | **Región** | Valle de Hierro |
 
 ## Descripción

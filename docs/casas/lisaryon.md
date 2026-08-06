@@ -7,7 +7,7 @@
 | **Tipo** | Casa real fundadora |
 | **Reino** | Lysarya |
 | **Posición dinástica** | Casa fundadora |
-| **Título** | Rey o Reina de la Colina del Verano |
+| **Título** | Reikar de la Colina del Verano |
 
 ## Historia
 

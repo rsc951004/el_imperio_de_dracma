@@ -1,7 +1,8 @@
 # Acumulación de resoluciones: identidad de los doce reinos
 
-> **Estado:** N-01 a N-18 cerrados. Corresponde realizar la auditoría breve de
-> cierre y preparar el plan de volcamiento.
+> **Estado:** N-01 a N-18 cerrados y transferidos al canon el 5 de agosto de
+> 2026 por autorización humana expresa. La auditoría breve y el plan quedan
+> conservados como trazabilidad no canónica del proceso.
 >
 > **Naturaleza:** documento no canónico. Registra las decisiones humanas para
 > resolver los nudos de la auditoría antes de preparar un plan de volcamiento.

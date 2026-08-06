@@ -7,7 +7,7 @@
 | **Tipo** | Casa real de la Edad de Oro |
 | **Reino** | Guldengard |
 | **Posición dinástica** | Casa presente definitiva |
-| **Título** | Rey/Reina del Valle Dorado |
+| **Título** | Reikar del Valle Dorado |
 
 ## Historia
 

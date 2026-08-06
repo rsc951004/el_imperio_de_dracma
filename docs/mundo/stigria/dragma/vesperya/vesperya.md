@@ -14,13 +14,21 @@ Talasya
 - Actual: **Valiryos**
 
 ## Título del gobernante
-**Rey del Tridente** o **Reina del Tridente**. Forma abreviada entre monarcas: Rey Tridente o Reina Tridente. Las tres puntas del tridente representan los tres arcos de **La Tríada**, la entrada al estrecho que Vesperya custodia. El tridente es la llave que cierra la puerta de Eldengaria.
+**Reikar del Tridente**. En lengua común se utiliza **Rey del Tridente**, sin
+variación según el género. La forma breve entre monarcas es **Tridente**. El
+título nace de los tres canales que forman la entrada marítima custodiada por
+Vesperya.
 
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard. El cambio de Vespergard a Vesperya no fue uniforme con el resto del Amanecer: cada grupo de reinos tuvo su propia transformación. En el caso del Verano, la raíz y el sufijo mutaron juntos (Vespergard → Vesperya, no una simple supresión).
 
 ## Afiliación geográfica
-**Costas del Verano.** El más oriental y el más pequeño en extensión de los tres reinos del Verano, al este de Zephyrya. Su costa sur da a mar abierto; su flanco este bordea el **Estrecho de la Tríada**, que separa Vesperya de Kyst (Tierra de la Bruma). El estrecho conduce al norte hacia la **Bahía de los Reyes**, donde se encuentra el puerto de Eldengaria. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
+**Costas del Verano.** El más oriental y el más pequeño en extensión de los tres
+reinos del Verano, al este de Zephyrya. Su costa sur da a mar abierto; su flanco
+este bordea el **Estrecho del Tridente**, que separa Vesperya de Kyst. Los
+canales conducen hacia la **Bahía de los Reyes**, donde se encuentra el puerto
+de Eldengaria. Nombres de sonoridad grecolatina (convención de escritura, no
+cultura del mundo).
 
 ## Origen
 Vesperya es uno de los tres reinos de los **Hijos del Sol**, descendientes de
@@ -38,20 +46,17 @@ ofensa grave.
 ### La costa
 Vesperya tiene el clima más cálido de los tres reinos del Verano. Su costa es rocosa, salpicada de puertos naturales, con el sol batiendo contra los muelles de piedra. No tiene las playas violetas de Zephyrya ni los acantilados inaccesibles de Lysarya: tiene **muelles, astilleros y caletas**. Cada ensenada es un fondeadero. Cada roca, un embarcadero improvisado.
 
-### La Tríada
-En el punto más angosto del estrecho, donde Vesperya casi toca Kyst, se alzan **tres arcos de piedra colosales** construidos por los habitantes de Unland durante la Edad de la Podredumbre. Uno sigue en pie; los otros dos están medio derrumbados. Nadie cruza por arriba —peligro de derrumbe—, pero los barcos pasan **por debajo**: la entrada al estrecho está bajo los arcos.
+### El Estrecho del Tridente
 
-En la cara inferior de las bóvedas hay **grabados de bestias y batallas** que
-los navegantes admiran al pasar. Es el umbral entre el mar abierto y el corazón
-del imperio. Las tres puntas del tridente real representan estos tres arcos.
+El río se divide en tres canales antes de desembocar en el mar del sur. Los
+canales dibujan un tridente y constituyen el acceso marítimo controlado por
+Vesperya hacia la **Bahía de los Reyes** y Eldengaria. Talasya se encuentra en
+la ribera del Tridente, sobre la costa sureste de Dürr.
 
-### El Estrecho de la Tríada
-El estrecho se ensancha tierra adentro hasta desembocar en la **Bahía de los Reyes**, donde está el puerto de Eldengaria. Vesperya controla el acceso desde el mar. **Ningún barco entra al imperio sin autorización vesperiana.** Del otro lado del estrecho, la Tierra de la Bruma está protegida por un cordón montañoso. La capital solo es vulnerable por agua. Y en el agua está Vesperya.
-
-Río arriba de la Bahía de los Reyes, el estrecho continúa en diagonal hacia
-Lysarya, el interior del Valle de Hierro y Veleskaria, pero esa parte es **poco
-profunda y está llena de rocas**. No es navegable. Solo importa el tramo
-marítimo.
+Kyst ocupa la orilla opuesta. Sus acantilados occidentales miran hacia los
+canales, mientras Vesperya controla el acceso desde el mar. Ningún barco entra
+al Imperio sin autorización vesperiana. El trazado, la anchura, la profundidad
+y la disposición cartográfica exacta de los canales permanecen sin definir.
 
 ## Concepto
 **El reino del desafío.** Vesperya es el polo opuesto de Lysarya y el extremo de Zephyrya. Donde Lysarya reza y trabaja, Vesperya goza. Donde Zephyrya contempla y se deja admirar, Vesperya actúa, toma, se ríe. Son el corazón hedonista del Verano.
@@ -60,22 +65,33 @@ marítimo.
 Los vespirios no creen en la monogamia. No les importa el deber del linaje. En un imperio donde la homosexualidad se tolera pero se mira con recelo —porque pone en riesgo la continuidad de los apellidos, incluso los comunes—, Vesperya responde con un encogimiento de hombros. Mientras haya **cerveza fría y una cama caliente**, un vespirio es feliz. Con hombre, con mujer, con ambos.
 
 ### Tres hermanos, tres juicios
-- **A Lysarya la ven como aburrida y estirada.** Pastores serios. Sin gracia. Demasiado parecidos a los del Hierro.
-- **A Zephyrya la adoran.** Los zefiryanos tienen para ellos una especie de perfección seductora. El impulso vespirio no es venerarlos: es **morder la manzana perfectamente redonda y brillante**. No para destruirla. Para saborearla. La mordida es admiración llevada al acto. El zefiryano sigue siendo perfecto después; solo que ahora tiene la marca del vespirio que no pudo resistirse.
-- Hay quien dice que esta atracción desproporcionada —que los vespirios sienten especialmente hacia los **hombres zefiryanos**, y que se extiende al resto del imperio— es otro efecto de la **magia antinatural que los Portadores** ejercieron sobre las costas del Verano. Por deseo o por accidente, los zefiryanos quedaron tocados con un don de seducción que ni ellos mismos controlan.
+- **A Lysarya la ven como aburrida y estirada.** Gente piadosa de huertos y
+  viñedos. Sin gracia. Demasiado parecida a los del Hierro.
+- **A Zephyrya la adoran.** Los zephyrios tienen para ellos una especie de
+  perfección seductora. El impulso vespirio no es venerarlos: es **morder la
+  manzana perfectamente redonda y brillante**. No para destruirla. Para
+  saborearla. La mordida es admiración llevada al acto. El zephyrio sigue siendo
+  perfecto después; solo que ahora tiene la marca del vespirio que no pudo
+  resistirse.
+- La atracción desproporcionada que muchos vespirios sienten hacia los **hombres
+  zephyrios** también se manifiesta en personas de otros territorios. Nace del
+  encanto sobrenatural variable de muchos de ellos, aunque el mundo desconoce
+  su causa.
 
 ### Malhablados entre ellos, corteses con los demás
-Los vespirios son **brutalmente sinceros entre sí**. Se insultan, se gritan, se dicen las verdades en la cara. Pero con los extranjeros —especialmente con los zefiryanos— guardan las formas. Hasta que se beben un trago o dos.
+Los vespirios son **brutalmente sinceros entre sí**. Se insultan, se gritan, se
+dicen las verdades en la cara. Pero con los extranjeros —especialmente con los
+zephyrios— guardan las formas. Hasta que se beben un trago o dos.
 
 ### Los colores del Verano
 Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
-- **Lysarya:** amarillo y blanco hueso — la tierra, los pastos, el hueso del ganado.
+- **Lysarya:** amarillo y blanco.
 - **Zephyrya:** violeta — los atardeceres de la costa, la flor del Verano.
 - **Vesperya:** azul profundo — el mar, la aventura, el estrecho.
 
 ## Gobierno
 Regido por la Casa Valiryos. El soberano de la Edad de Oro es **Oryphos
-Valiryos**, Rey del Tridente.
+Valiryos**, Rey del Tridente en lengua común.
 
 ## Historia
 Durante el Raikim, el territorio recibió el nombre de **Vespergard** y quedó
@@ -103,21 +119,33 @@ La flota de Vesperya conserva la tradición marítima de la Costa del Verano y e
 propósito de proteger a los Hijos del Sol frente a las expediciones astrianas.
 
 ### La Guerra de los Hermanos
-Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), estalló la **Guerra de los Hermanos** entre Zephyrya y Lysarya. Vesperya fue el único de los tres reinos del Verano que **no combatió**. El emperador Edrik le prohibió entrar en guerra: su deber era defender el Estrecho de la Tríada y la entrada a Eldengaria. No podía distraerse en rencillas entre hermanos.
+Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), estalló
+la **Guerra de los Hermanos** entre Zephyrya y Lysarya. Vesperya fue el único de
+los tres reinos del Verano que **no combatió**. El emperador Edrik le prohibió
+entrar en guerra: su deber era defender el Estrecho del Tridente y la entrada a
+Eldengaria. No podía distraerse en rencillas entre hermanos.
 
 La guerra dejó una cicatriz entre los tres reinos. Vesperya fue testigo —cercano, implicado, pero con las manos atadas por orden imperial— de cómo sus dos hermanos se desangraban. Hoy mantiene relaciones cordiales con ambos.
 
 ### Deber estratégico
-Vesperya es el **guardián marítimo de Eldengaria**. La Tríada es la única vía de agua hacia la Bahía de los Reyes y la capital imperial. Cualquier barco que quiera entrar al imperio debe fondear en Vesperya y recibir autorización. El reino controla el contrabando, supervisa las rutas comerciales y cobra el peaje del estrecho. Eldengaria solo es vulnerable por mar. Y en el mar está Vesperya.
+Vesperya es el **guardián marítimo de Eldengaria**. Los canales del Tridente son
+la vía de agua hacia la Bahía de los Reyes y la capital imperial. Cualquier
+barco que quiera entrar al Imperio debe fondear en Vesperya y recibir
+autorización. El reino controla el contrabando, supervisa las rutas comerciales
+y cobra el peaje del estrecho.
 
 ## Economía
-Comercio marítimo. Peaje del estrecho. Control de contrabando. Muchos barcos descansan en sus costas antes de internarse en la Tríada. Astilleros y muelles.
+Comercio marítimo, peaje del estrecho, control de contrabando, abastecimiento de
+naves, astilleros y muelles. Muchos barcos descansan en sus costas antes de
+internarse en los canales del Tridente.
 
 ## Flota
 Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; **naves rápidas** patrullan mar abierto, ligeras como avispas. No es la flota más numerosa del imperio, pero es la mejor posicionada.
 
 ## Relaciones exteriores
-- **Zephyrya:** hermano del oeste. Adoración y deseo. Los vespirios veneran a los zefiryanos pero no pueden evitar querer morder la manzana. Relación intensa y complicada.
+- **Zephyrya:** hermano del oeste. Adoración y deseo. Los vespirios veneran a
+  los zephyrios pero no pueden evitar querer morder la manzana. Relación intensa
+  y complicada.
 - **Lysarya:** hermano del norte. Aburridos y estirados. Demasiado parecidos al Hierro. Cordialidad sin entusiasmo.
 - **Alessya:** cuna sagrada de los Hijos del Sol y protectorado vinculado a la historia del Verano.
 - **Eldengaria:** la capital que protegen. Relación de dependencia mutua.

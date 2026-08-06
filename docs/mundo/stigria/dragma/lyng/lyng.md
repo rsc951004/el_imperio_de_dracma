@@ -13,19 +13,27 @@ Reino del Imperio de Dragma.
 | **Casa fundadora** | Kjarven |
 | **Casa real** | Kjarven |
 | **Gobernante** | Pendiente |
-| **Título** | Rey o Reina de los Campos Esmeralda |
+| **Título oficial** | Reikar de los Campos Esmeralda |
+| **Lengua común** | Rey de los Campos Esmeralda |
+| **Forma breve** | Esmeralda |
 | **Bloque** | Amanecer |
 | **Región** | Tierra de la Bruma |
 
 ## Geografía
 
-Lyng ocupa el corazón agrícola de la Tierra de la Bruma. Sus llanuras fértiles, brezales, viñedos y campos de trigo abastecen a Kyst, Bjorn y parte de Eldengaria.
+Lyng ocupa el corazón agrícola de la Tierra de la Bruma. Sus llanuras fértiles,
+brezales, pasturas, campos de trigo y otros cultivos compatibles con el clima
+abastecen a Kyst, Bjorn y parte de Eldengaria.
 
 ## Cultura
 
 La familia es el pilar de la sociedad lyngardesa. Los vínculos por sangre, matrimonio y adopción son motivo de orgullo. Sus habitantes son hospitalarios, trabajadores y especialmente protectores de sus cosechas.
 
 Las casas, silos y templos se construyen tradicionalmente con madera salvaje endurecida.
+
+Como brumenses actuales conservan una alta continuidad fenotípica con sus
+antepasados, aunque su cultura difiere profundamente de la de los guerreros
+llegados desde Grimheim.
 
 ## Historia
 
@@ -37,11 +45,23 @@ Edad de Oro.
 Los antepasados de los lyngardeses pertenecían a la Gente de la Bruma llegada
 desde Grimheim durante la Edad de la Podredumbre. Durante la penitencia del
 Raikim, las aldeas del interior se agruparon alrededor de Brekk y adoptaron Lyng
-como nombre político. La agricultura y los viñedos definieron su identidad.
+como nombre político. La ganadería, el pastoreo y la agricultura definieron su
+identidad.
 
 ## Economía
 
-Agricultura, viñedos y pastoreo.
+Ganadería, pastoreo, cereales —incluido el trigo— y otros cultivos compatibles
+con su clima. Bjorn fija los precios y organiza la comercialización y la
+distribución de esta producción. Esa dependencia mercantil no reduce la
+independencia política de Lyng.
+
+## Relaciones en la Bruma
+
+Lyng coopera habitualmente con Kyst y Bjorn. Las fronteras internas de los tres
+reinos son poco rígidas, pero cada uno conserva su propia corona. Sus Reikar
+actuales son primos. La comparación popular con una Triple Corona les desagrada
+por la relación amorosa que unió a los integrantes de la antigua Triple Corona
+de Suntarys.
 
 ## Referencias
 

@@ -4,6 +4,11 @@
 
 Protectorado del Imperio de Dragma. Conocida como la **Ciudadela de Khalos**.
 
+Khalos conserva autonomía política y se encuentra bajo la garantía directa del
+Kaisrik. No pertenece a ninguno de los doce reinos. Su relación con Bjorn y
+Veleskaria facilita rutas, abastecimiento e intercambio de saberes, pero no
+concede autoridad sobre la ciudadela a ninguno de ellos.
+
 ## Ubicación
 
 Fortaleza circular situada en la península meridional de Stigria, junto al extremo sur de Stömur.

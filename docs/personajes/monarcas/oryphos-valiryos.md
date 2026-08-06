@@ -2,8 +2,9 @@
 
 ## Identidad
 
-Soberano de Vesperya durante la Edad de Oro y miembro de la Casa Valiryos.
-Porta el título de Rey del Tridente.
+Soberano de Vesperya durante la Edad de Oro y miembro de la Casa Valiryos. Porta
+el título oficial de **Reikar del Tridente** y, en lengua común, Rey del
+Tridente.
 
 ## Alcance
 

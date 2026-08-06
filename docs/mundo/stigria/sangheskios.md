@@ -56,10 +56,19 @@ Marcha Carmesí.
 Los nombres sangheskios tienen sonoridad rumana como convención externa de
 escritura. Esa cultura real no existe dentro del mundo.
 
+La denominación preferida es **Sangheskios**. Para individuos se utilizan **un
+Sangheskio** y **una Sangheskia**.
+
+## Fenotipo histórico
+
+Como tendencias frecuentes, los Sangheskios poseían piel clara y mate, cabello
+desde cobrizo intenso hasta castaño rojizo oscuro y ojos en múltiples
+tonalidades de verde. Estos rasgos no determinaban por sí solos la pertenencia.
+
 ## Referencias
 
 - `docs/mundo/stigria/sanghesk.md`
 - `docs/mundo/stigria/edad-del-hierro.md`
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`
-- `docs/mundo/stigria/sangre-de-hierro-carmesi.md`
+- `docs/mundo/stigria/sangre-carmesi.md`
 - `docs/personajes/stelian-therin.md`

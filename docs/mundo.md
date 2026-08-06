@@ -60,7 +60,8 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Pueblo Sangheskios | Pueblo histórico | Fundadores de Sanghesk y portadores de una metalurgia avanzada del hierro. | [Ver ficha](mundo/stigria/sangheskios.md) |
 | Guerra del Valle Dorado | Conflicto | Guerra entre Sanghesk y los clanes gheran. | [Ver ficha](mundo/stigria/guerra-del-valle-dorado.md) |
 | Sangre de Hierro | Identidad sociocultural | Guerreros del antiguo Bloque de Hierro y sus descendientes. | [Ver ficha](mundo/stigria/sangre-de-hierro.md) |
-| Sangre de Hierro Carmesí | Identidad política | Comunidad surgida de los Sangheskios durante la Edad de Plata. Su ejército temporal fue la Guardia del Norte. | [Ver ficha](mundo/stigria/sangre-de-hierro-carmesi.md) |
+| Sangre Carmesí | Pueblo contemporáneo | Descendientes de la comunidad proclamada durante la Edad de Plata como Sangre de Hierro Carmesí. | [Ver ficha](mundo/stigria/sangre-carmesi.md) |
+| Dravosi | Pueblo contemporáneo | Quinto pueblo de Dragma, surgido de la mezcla de los grandes pueblos del Imperio. | [Ver ficha](mundo/stigria/dravosi.md) |
 | Edad de la Podredumbre | Periodo histórico | Desde la caída de Sanghesk hasta el confinamiento del Rey Podrido por la campaña de Rudgar y Stelian. | [Ver ficha](mundo/stigria/edad-de-la-podredumbre.md) |
 | Edad de Plata | Periodo histórico | Desde el segundo Stamengherin documentado hasta la muerte de Rudgar Valgard. | [Ver ficha](mundo/stigria/edad-de-plata.md) |
 | Edad de la Tiranía | Periodo histórico | Desde la muerte de Rudgar hasta la Rebelión del Amanecer y la fundación de Dragma. | [Ver ficha](mundo/stigria/edad-de-la-tirania.md) |
@@ -88,6 +89,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Dragma | Imperio | Arquitectura completa del imperio: estructura territorial, dinastías, sistema de gobierno. | [Ver ficha](mundo/stigria/dragma/dragma.md) |
 | La Concordia | Reformas | Cuerpo de reformas de Vilem Mormund que refundaron el pacto social del imperio. | [Ver ficha](mundo/stigria/dragma/concordia.md) |
 | Stamengherin | Institución | Asamblea extraordinaria que resuelve cambios dinásticos y puede reformar la estructura territorial o política del imperio. | [Ver ficha](mundo/stigria/dragma/stamengherin.md) |
+| Cinco Víer de Eldenheim | Divisiones administrativas | Rostheim, Eldenfeld, Rissbruck, Drakenau y Vesterfeld, subordinados al Kaisrik. | [Ver ficha](mundo/stigria/dragma/vier-de-eldenheim.md) |
 | Nombres de los Reinos del Verano | Guía onomástica | Reglas fonéticas, gráficas y cantera común de nombres para las tierras del Verano. | [Ver ficha](mundo/stigria/dragma/nombres-del-verano.md) |
 | Nombres del Valle de Hierro | Guía onomástica | Sonoridad germánica y reglas de transformación para los territorios del Hierro. | [Ver ficha](mundo/stigria/dragma/nombres-del-hierro.md) |
 | Nombres de los Dominios Carmesíes | Guía onomástica | Sonoridad rumana con aportes búlgaros y reglas de transformación para los territorios Carmesíes. | [Ver ficha](mundo/stigria/dragma/nombres-carmesi.md) |
@@ -98,22 +100,27 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 
 | # | Reino | Región | Casa | Título | Gobernante ★ | Ficha |
 |---|-------|------|------|-------|-------------|-------|
-| 1 | Eisengard | Hierro | Eberwulf | Rey/Reina del Valle de Hierro | Pendiente | [Ver ficha](mundo/stigria/dragma/eisengard/eisengard.md) |
-| 2 | Guldengard | Hierro | Reginvar | Rey/Reina del Valle Dorado | Pendiente | [Ver ficha](mundo/stigria/dragma/guldengard/guldengard.md) |
-| 3 | Flemmengard | Hierro | Gundrek | Rey/Reina de la Montaña Ardiente | Pendiente | [Ver ficha](mundo/stigria/dragma/flemmengard/flemmengard.md) |
-| 4 | Sturmgard | Hierro | Fridvar | Rey/Reina de la Tormenta | Pendiente | [Ver ficha](mundo/stigria/dragma/sturmgard/sturmgard.md) |
-| 5 | Lysarya | Costas del Verano | Mirandys | Rey/Reina de la Colina del Verano | Rey Lykandros Mirandys | [Ver ficha](mundo/stigria/dragma/lysarya/lysarya.md) |
-| 6 | Veleskaria | Dresk | Korzan | Rey/Reina de la Puerta Carmesí | Pendiente | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
-| 7 | Zephyrya | Costas del Verano | Kalistrys | Rey/Reina del Ocaso | Rey Dimethys Kalistrys | [Ver ficha](mundo/stigria/dragma/zephyrya/zephyrya.md) |
-| 8 | Kyst | Tierra de la Bruma | Fjolvar | Rey/Reina de la Costa Gris | Pendiente | [Ver ficha](mundo/stigria/dragma/kyst/kyst.md) |
-| 9 | Lyng | Tierra de la Bruma | Kjarven | Rey/Reina de los Campos Esmeralda | Pendiente | [Ver ficha](mundo/stigria/dragma/lyng/lyng.md) |
-| 10 | Vesperya | Costas del Verano | Valiryos | Rey/Reina del Tridente | Rey Oryphos Valiryos | [Ver ficha](mundo/stigria/dragma/vesperya/vesperya.md) |
-| 11 | Sindria | Weissen | Velkar | Rey/Reina del Foso | Pendiente | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
-| 12 | Bjorn | Tierra de la Bruma | Hjorven | Rey/Reina del Bosque | Pendiente | [Ver ficha](mundo/stigria/dragma/bjorn/bjorn.md) |
+| 1 | Eisengard | Hierro | Eberwulf | Reikar del Valle de Hierro | Pendiente | [Ver ficha](mundo/stigria/dragma/eisengard/eisengard.md) |
+| 2 | Guldengard | Hierro | Reginvar | Reikar del Valle Dorado | Pendiente | [Ver ficha](mundo/stigria/dragma/guldengard/guldengard.md) |
+| 3 | Flemmengard | Hierro | Gundrek | Reikar de la Ceniza | Pendiente | [Ver ficha](mundo/stigria/dragma/flemmengard/flemmengard.md) |
+| 4 | Sturmgard | Hierro | Fridvar | Reikar de la Tormenta | Pendiente | [Ver ficha](mundo/stigria/dragma/sturmgard/sturmgard.md) |
+| 5 | Lysarya | Costas del Verano | Mirandys | Reikar de la Colina del Verano | Rey Lykandros Mirandys | [Ver ficha](mundo/stigria/dragma/lysarya/lysarya.md) |
+| 6 | Veleskaria | Dresk | Korzan | Reikar de la Puerta Carmesí | Pendiente | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
+| 7 | Zephyrya | Costas del Verano | Kalistrys | Reikar del Ocaso | Rey Dimethys Kalistrys | [Ver ficha](mundo/stigria/dragma/zephyrya/zephyrya.md) |
+| 8 | Kyst | Tierra de la Bruma | Fjolvar | Reikar de la Costa Gris | Pendiente | [Ver ficha](mundo/stigria/dragma/kyst/kyst.md) |
+| 9 | Lyng | Tierra de la Bruma | Kjarven | Reikar de los Campos Esmeralda | Pendiente | [Ver ficha](mundo/stigria/dragma/lyng/lyng.md) |
+| 10 | Vesperya | Costas del Verano | Valiryos | Reikar del Tridente | Rey Oryphos Valiryos | [Ver ficha](mundo/stigria/dragma/vesperya/vesperya.md) |
+| 11 | Sindria | Weissen | Velkar | Reikar del Foso | Pendiente | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
+| 12 | Bjorn | Tierra de la Bruma | Hjorven | Reikar del Bosque | Pendiente | [Ver ficha](mundo/stigria/dragma/bjorn/bjorn.md) |
 
 **Valle de Hierro** (1-4): Eisengard, Guldengard, Flemmengard y Sturmgard. Eisengard concentra el Verilium y la forja; Guldengard concentra el oro y la acuñación del Ghild.
 
-**Costas del Verano** (5, 7, 10): Descendientes de esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron Dürr; los tres reinos comparten origen, sangre y lengua. Su evolución posterior se desarrollará fuera de la Edad de Plata.
+**Costas del Verano** (5, 7, 10): Sus raíces históricas se encuentran en los
+Hijos del Sol, descendientes de esclavos liberados de Astria por la Kys Tábura.
+Hijos del Sol es una identidad etnocultural; verano y verana indican procedencia
+geográfica. Sus antepasados transformaron Dürr y los tres reinos comparten una
+tradición lingüística. Su evolución posterior se desarrollará fuera de la Edad
+de Plata.
 
 **Dresk y Weissen** (6, 11): Veleskaria ocupa Dresk y Sindria ocupa Weissen. Sus nombres durante el Raikim fueron Veleskgard y Sindgard. El **Paso del Oriente** nombra exclusivamente a Esteria, el Foso y el Riegel.
 
@@ -122,10 +129,10 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 La Rebelión del Amanecer pertenece a la Edad de la Tiranía. Derrotó a Grimar Valgard y precedió a la fundación de Dragma.
 
 Los tres reinos del Verano comparten una raíz en los Hijos del Sol y en la
-Costa del Verano: **Lysarya** (el más septentrional, pastoreo y puente con el
+Costa del Verano: **Lysarya** (el más septentrional, frutas dulces, vinos y puente con el
 Hierro), **Zephyrya** (planicies del suroeste, flor del Verano, Casa Solarys
 sin corona y técnica de Loryan) y **Vesperya** (el más oriental y más pequeño,
-guardián del Estrecho de la Tríada y la Bahía de los Reyes). Durante la Edad de
+guardián del Estrecho del Tridente y la Bahía de los Reyes). Durante la Edad de
 Plata, Rudgar dividió Dürr en Lysgard, Zephyrgard y Vespergard. La evolución de
 esos Dominios hasta los reinos actuales pertenece a la Edad de la Tiranía y a
 los primeros periodos imperiales. Suntarys legó el Edicto del Amanecer y una

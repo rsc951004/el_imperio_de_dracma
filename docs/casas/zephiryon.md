@@ -7,7 +7,7 @@
 | **Tipo** | Casa real fundadora |
 | **Reino** | Zephyrya |
 | **Posición dinástica** | Casa fundadora |
-| **Título** | Rey o Reina del Ocaso |
+| **Título** | Reikar del Ocaso |
 
 ## Historia
 

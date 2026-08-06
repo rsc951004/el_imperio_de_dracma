@@ -4,18 +4,23 @@
 
 | # | Reino | Casa | Región | Título | Gobernante |
 |---|-------|-------|--------|--------|------------|
-| 1 | Eisengard | Eberwulf | Valle de Hierro | Rey/Reina del Valle de Hierro | Pendiente |
-| 2 | Guldengard | Reginvar | Valle de Hierro | Rey/Reina del Valle Dorado | Pendiente |
-| 3 | Flemmengard | Gundrek | Valle de Hierro | Rey/Reina de la Montaña Ardiente | Pendiente |
-| 4 | Sturmgard | Fridvar | Valle de Hierro | Rey/Reina de la Tormenta | Pendiente |
-| 5 | Lysarya | Mirandys | Costas del Verano | Rey/Reina de la Colina del Verano | Lykandros Mirandys |
-| 6 | Veleskaria | Korzan | Dresk | Rey/Reina de la Puerta Carmesí | Pendiente |
-| 7 | Zephyrya | Kalistrys | Costas del Verano | Rey/Reina del Ocaso | Dimethys Kalistrys |
-| 8 | Kyst | Fjolvar | Tierra de la Bruma | Rey/Reina de la Costa Gris | Pendiente |
-| 9 | Lyng | Kjarven | Tierra de la Bruma | Rey/Reina de los Campos Esmeralda | Pendiente |
-| 10 | Vesperya | Valiryos | Costas del Verano | Rey/Reina del Tridente | Oryphos Valiryos |
-| 11 | Sindria | Velkar | Weissen | Rey/Reina del Foso | Pendiente |
-| 12 | Bjorn | Hjorven | Tierra de la Bruma | Rey/Reina del Bosque | Pendiente |
+| 1 | Eisengard | Eberwulf | Valle de Hierro | Reikar del Valle de Hierro | Pendiente |
+| 2 | Guldengard | Reginvar | Valle de Hierro | Reikar del Valle Dorado | Pendiente |
+| 3 | Flemmengard | Gundrek | Valle de Hierro | Reikar de la Ceniza | Pendiente |
+| 4 | Sturmgard | Fridvar | Valle de Hierro | Reikar de la Tormenta | Pendiente |
+| 5 | Lysarya | Mirandys | Costas del Verano | Reikar de la Colina del Verano | Lykandros Mirandys |
+| 6 | Veleskaria | Korzan | Dresk | Reikar de la Puerta Carmesí | Pendiente |
+| 7 | Zephyrya | Kalistrys | Costas del Verano | Reikar del Ocaso | Dimethys Kalistrys |
+| 8 | Kyst | Fjolvar | Tierra de la Bruma | Reikar de la Costa Gris | Pendiente |
+| 9 | Lyng | Kjarven | Tierra de la Bruma | Reikar de los Campos Esmeralda | Pendiente |
+| 10 | Vesperya | Valiryos | Costas del Verano | Reikar del Tridente | Oryphos Valiryos |
+| 11 | Sindria | Velkar | Weissen | Reikar del Foso | Pendiente |
+| 12 | Bjorn | Hjorven | Tierra de la Bruma | Reikar del Bosque | Pendiente |
+
+**Reikar** es el título ceremonial invariable de las doce coronas. En lengua
+común se utiliza siempre **Rey**, también con independencia del género. Los
+campos de gobernante que permanecen pendientes no autorizan a crear identidades
+nuevas.
 
 ## Regiones políticas
 
@@ -27,8 +32,11 @@ Acero del Alba. Guldengard concentra el oro y la acuñación del Ghild.
 
 ### Costas del Verano
 
-Lysarya, Zephyrya y Vesperya descienden de los Hijos del Sol. Comparten sangre,
-lengua y una tradición de nombres con sonoridad grecolatina. La evolución entre
+Lysarya, Zephyrya y Vesperya poseen raíces históricas en los Hijos del Sol.
+**Hijos del Sol** es una identidad etnocultural, mientras **verano** y
+**verana** expresan procedencia geográfica y no implican por sí solas esa
+pertenencia. Los reinos comparten lengua y una tradición de nombres con
+sonoridad grecolatina. La evolución entre
 los Dominios impuestos en Dürr y estos reinos pertenece a la Edad de la Tiranía
 y a los primeros periodos imperiales.
 
@@ -61,16 +69,16 @@ Dragma.
 |-------|----------|
 | Eisengard | Verilium, forja y Acero del Alba |
 | Guldengard | Oro, tesorería y acuñación del Ghild |
-| Flemmengard | Volcanes, actividad geotérmica y piromancia |
-| Sturmgard | Fiordos, tormentas y clima extremo |
-| Lysarya | Pastoreo, piedad y trabajo |
-| Veleskaria | Estudio de dones y maestrías, refugio de Portadores y protección de Khalos |
-| Zephyrya | Belleza, serenidad y costas violetas |
+| Flemmengard | Ceniza, volcanes, actividad geotérmica y piromancia |
+| Sturmgard | Fiordos, saqueo, pillaje y supervivencia bajo la Tormenta |
+| Lysarya | Frutas dulces, vinos, piedad y trabajo |
+| Veleskaria | Principal centro de dones y maestrías; formación Maeggi y de cazadores de Grimm |
+| Zephyrya | Belleza, serenidad, costas violetas y segundo núcleo místico |
 | Kyst | Puerto Gris, pesca y cielos nublados |
-| Lyng | Brezales, viñedos y agricultura |
-| Vesperya | Libertad, navegación y Estrecho de la Tríada |
-| Sindria | Reclamación sobre Esteria y frontera de Weissen |
-| Bjorn | Comercio del sur y último bosque sagrado |
+| Lyng | Pastoreo, ganadería, brezales, cereales y agricultura |
+| Vesperya | Libertad, navegación y Estrecho del Tridente |
+| Sindria | Herencia carmesí, hielo, nieve, Grimm y frontera de Weissen |
+| Bjorn | Comercio del sur, ruta a Khalos, bosques reforestados y bosque sagrado |
 
 ## Claves históricas
 

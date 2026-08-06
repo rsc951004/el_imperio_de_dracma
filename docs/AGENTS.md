@@ -110,7 +110,7 @@ Cada reino tiene su variante:
 
 | Reino | Sufijos típicos | Razón |
 |-------|-----------------|-------|
-| **Lysarya** | -ón, -yk, -os | Sobriedad pastoral, puente con el Hierro |
+| **Lysarya** | -ón, -yk, -os | Sobriedad rural, puente con el Hierro |
 | **Zephyrya** | -yon, -yss, -yas | Elegancia, belleza, la flor del Verano |
 | **Vesperya** | -yus, -yss, -yos | Marcialidad, desafío, guardián del estrecho |
 

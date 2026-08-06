@@ -7,7 +7,7 @@
 | **Tipo** | Casa real de la Edad de Oro |
 | **Reino** | Vesperya |
 | **Posición dinástica** | Casa presente definitiva |
-| **Título** | Rey o Reina del Tridente |
+| **Título** | Reikar del Tridente |
 
 ## Historia
 

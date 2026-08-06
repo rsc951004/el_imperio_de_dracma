@@ -14,7 +14,8 @@ Anemora
 - Actual: **Kalistrys**
 
 ## Título del gobernante
-**Rey del Ocaso** o **Reina del Ocaso**. Forma abreviada entre monarcas: Rey Ocaso o Reina Ocaso.
+**Reikar del Ocaso**. En lengua común se utiliza **Rey del Ocaso**, sin
+variación según el género. La forma breve entre monarcas es **Ocaso**.
 
 ## Afiliación en la rebelión
 **Bloque del Amanecer.** Reino Rebelde. Se alzó contra Grimar Valgard y abandonó el sufijo -gard. El cambio de Zephyrgard a Zephyrya no fue uniforme con el resto del Amanecer: cada grupo de reinos tuvo su propia transformación. En el caso del Verano, la raíz y el sufijo mutaron juntos (Zephyrgard → Zephyrya, no una simple supresión).
@@ -34,21 +35,43 @@ La memoria de la esclavitud astriana hace que los Hijos del Sol llamen a Astria
 ofensa grave.
 
 ## Geografía
-Zephyrya ocupa la esquina suroeste del continente. Su costa es una sucesión de **playas hermosas y atardeceres violetas** —tan característicos que el violeta se ha convertido en el color identitario del reino. Muchos zefiryanos tiñen sus ropas con pigmentos extraídos de la flora costera para emular esos tonos.
+Zephyrya ocupa la esquina suroeste del continente. Su costa es una sucesión de **playas hermosas y atardeceres violetas** —tan característicos que el violeta se ha convertido en el color identitario del reino. Muchos zephyrios tiñen sus ropas con pigmentos extraídos de la flora costera para emular esos tonos.
 
-El clima es el más benigno de los tres reinos del Verano: cálido sin ser sofocante, con brisas constantes que recorren las planicies del sur. Las ciudades y aldeas zefiryanas son **prósperas, ordenadas y cuidadas**: calles decoradas, vegetación cultivada, desarrollo urbano notable.
+El clima es el más benigno de los tres reinos del Verano: cálido sin ser sofocante, con brisas constantes que recorren las planicies del sur. Las ciudades y aldeas zephyrias son **prósperas, ordenadas y cuidadas**: calles decoradas, vegetación cultivada, desarrollo urbano notable.
 
 ## Concepto
 **La flor del Verano.** Zephyrya es el reino más conocido y representativo de las Costas del Verano. Su belleza, su clima y sus playas —a las que se atribuyen **propiedades curativas**— atraen a nobles y comunes de todo el imperio. Es el destino turístico por excelencia de Dragma.
 
-Se cree que las propiedades curativas de las costas zefiryanas —y en general los cambios «antinaturales» que embellecieron el litoral del Verano— fueron obra de los **Portadores** en tiempos antiguos, ya fuera por deseo deliberado o por accidente. La ciencia imperial no ha confirmado ni refutado esta teoría.
+Se cree que las propiedades curativas de las costas zephyrias —y en general los cambios «antinaturales» que embellecieron el litoral del Verano— fueron obra de los **Portadores** en tiempos antiguos, ya fuera por deseo deliberado o por accidente. La ciencia imperial no ha confirmado ni refutado esta teoría.
 
-### Filosofía zefiryana
-La vida en Zephyrya es **simple y libre**. Sus gentes no se estresan por lo que no pueden controlar: el sol siempre está ahí, el viento siempre corre. Son **orgullosos de sus ancestros y de su origen** como Hijos del Sol, pero llevan ese orgullo sin solemnidad. El zefiryano típico es hospitalario, sereno y poco dado al drama.
+Zephyrya alberga el segundo gran núcleo de enseñanza mística de Dragma. Sus
+escuelas se especializan en usos curativos, contemplativos y artísticos de los
+dones y las maestrías. La formación regional no sustituye la licencia Maeggi de
+la Möes Tábura.
+
+### El encanto zephyrio
+
+Muchos hombres zephyrios poseen un encanto sobrenatural de intensidad variable.
+Puede provocar atracción con independencia de la orientación sexual, aunque no
+aparece con la misma fuerza en todos. Algunos lo aprovechan para obtener
+favores u oportunidades o para ejercer la prostitución.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->
+Muchos zephyrios descienden de esclavos sexuales modificados por los astrianos
+para volverlos artificialmente atractivos y deseables. El encanto contemporáneo
+es una consecuencia heredada de aquella intervención. La razón histórica fue
+olvidada.
+<!-- CANON-VELADO: FIN -->
+
+La piel que no se broncea es una tendencia frecuente y separada entre los
+habitantes de Zephyrya. Su mecanismo permanece desconocido.
+
+### Filosofía zephyria
+La vida en Zephyrya es **simple y libre**. Sus gentes no se estresan por lo que no pueden controlar: el sol siempre está ahí, el viento siempre corre. Son **orgullosos de sus ancestros y de su origen** como Hijos del Sol, pero llevan ese orgullo sin solemnidad. El zephyrio típico es hospitalario, sereno y poco dado al drama.
 
 ### Los colores del Verano
 Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
-- **Lysarya:** amarillo y blanco hueso — la tierra, los pastos, el hueso del ganado.
+- **Lysarya:** amarillo y blanco.
 - **Zephyrya:** violeta — los atardeceres de la costa, la flor del Verano.
 - **Vesperya:** azul profundo — el mar, la aventura, el estrecho.
 
@@ -86,7 +109,7 @@ Lo que Kleóndras no sabía era que Thalyssa ya era amante en secreto de **Eryk 
 
 La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Khalos. **Nunca llegaron.** Su desaparición es un misterio hasta hoy —el cuento de los **Príncipes Perdidos**—.
 
-Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de asesinato. Estalló la **Guerra de los Hermanos**: zefirios y alessyanos contra lisarios. Lysarya logró invadir Zephyrya.
+Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de asesinato. Estalló la **Guerra de los Hermanos**: zephyrios y alessyanos contra lisarios. Lysarya logró invadir Zephyrya.
 
 Cuando Sturmgard amenazó con intervenir, el emperador Edrik contuvo la escalada. Al final, ejecutó a ambos reyes —Kleóndras y Kyros Albyon— y proscribió a sus casas del **Dex Códice**. La casa Aetheryon fue borrada de la historia.
 
@@ -99,7 +122,7 @@ todo.
 Turismo de todo el imperio. Agricultura de planicie y ganadería. Comercio de pigmentos y textiles teñidos de violeta. Propiedades curativas de sus playas como atractivo para visitantes acaudalados.
 
 ## Relaciones exteriores
-- **Lysarya:** hermano del norte. Relación cordial pero cargada tras la Guerra de los Hermanos. Los zefirios acusaron a los lisarios de secuestro; los lisarios invadieron Zephyrya. La reconciliación ha sido lenta.
+- **Lysarya:** hermano del norte. Relación cordial pero cargada tras la Guerra de los Hermanos. Los zephyrios acusaron a los lisarios de secuestro; los lisarios invadieron Zephyrya. La reconciliación ha sido lenta.
 - **Vesperya:** hermano del sureste. Relación cordial. Fue el único de los tres que no combatió en la Guerra de los Hermanos.
 - **Resto del imperio:** destino turístico por excelencia. Gentes de los doce reinos y protectorados visitan sus playas.
 

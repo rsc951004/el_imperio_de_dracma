@@ -7,7 +7,7 @@
 | **Tipo** | Casa real de la Edad de Oro |
 | **Reino** | Sindria |
 | **Posición dinástica** | Casa presente definitiva |
-| **Título** | Rey o Reina del Foso |
+| **Título** | Reikar del Foso |
 
 ## Historia
 

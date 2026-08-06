@@ -19,6 +19,19 @@ suroeste de Dürr hasta casi alcanzar Sturm. Recibió el nombre de **Costa del
 Verano** y las antiguas Tierras del Yermo pasaron a ser las **Tierras del
 Verano**.
 
+## Hijos del Sol y habitantes del Verano
+
+**Hijos del Sol** es la identidad etnocultural nacida entre los esclavos
+liberados de Astria y conservada por sus descendientes. **verano** y **verana**
+expresan, en cambio, la procedencia geográfica de las Costas del Verano. Una
+persona puede ser verana sin pertenecer a los Hijos del Sol, y los descendientes
+mezclados pueden continuar identificándose como Hijos del Sol.
+
+Como tendencias heredadas, los Hijos del Sol presentan piel clara y lechosa,
+ojos azules intensos, cabello entre castaño claro y rubio oscuro —con ondas o
+rizos frecuentes—, facciones finas y poca barba. Estos rasgos no se atribuyen a
+toda persona verana ni determinan la identidad.
+
 ## El Pacto de Dürr
 
 Después de la campaña que confinó al Rey Podrido, los Hijos del Sol se

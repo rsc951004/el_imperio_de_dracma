@@ -12,11 +12,17 @@ Rey de **Lysarya** durante el reinado del emperador Edrik Mormund. Casa Albyon. 
 Pendiente.
 
 ## La guerra
-Kyros Albyon era rey de Lysarya —el reino pastoril del norte, el más grande del Verano pero el menos rico— cuando su hijo **Eryk Albyon** se enamoró en secreto de **Thalyssa Coralyss**, la hija del noble Daryón Coralyss de Alessya. Thalyssa estaba prometida al príncipe de Zephyrya, **Astryón Aetheryon**, como parte de un pacto para unir Alessya a Zephyrya.
+Kyros Albyon era rey de Lysarya —el reino de huertos y viñedos del norte, el
+más grande del Verano— cuando su hijo **Eryk Albyon** se enamoró en secreto de
+**Thalyssa Coralyss**, la hija del noble Daryón Coralyss de Alessya. Thalyssa
+estaba prometida al príncipe de Zephyrya, **Astryón Aetheryon**, como parte de
+un pacto para unir Alessya a Zephyrya.
 
 La noche anterior al compromiso, Thalyssa huyó. Eryk la esperaba en la costa de Kyst. Juntos partieron hacia Khalos. Nunca llegaron.
 
-Cuando Alessya y Zephyrya acusaron a Lysarya de secuestro, Kyros respondió acusándolos a ellos de asesinato. Estalló la **Guerra de los Hermanos**. Kyros lideró a Lysarya en una invasión exitosa de Zephyrya —los pastores del norte penetrando en la flor del Verano—. Miles murieron.
+Cuando Alessya y Zephyrya acusaron a Lysarya de secuestro, Kyros respondió
+acusándolos a ellos de asesinato. Estalló la **Guerra de los Hermanos**. Kyros
+lideró a Lysarya en una invasión exitosa de Zephyrya. Miles murieron.
 
 Cuando Sturmgard anunció su apoyo a Lysarya, el emperador Edrik Mormund
 intervino. Ejecutó a Kyros y proscribió a la Casa Albyon del **Dex Códice**. Su

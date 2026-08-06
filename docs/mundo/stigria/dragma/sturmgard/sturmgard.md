@@ -13,7 +13,9 @@ Reino del Imperio de Dragma.
 | **Casa fundadora** | Falken |
 | **Casa real** | Fridvar |
 | **Gobernante** | Pendiente |
-| **Título** | Rey o Reina de la Tormenta |
+| **Título oficial** | Reikar de la Tormenta |
+| **Lengua común** | Rey de la Tormenta |
+| **Forma breve** | Tormenta |
 | **Región histórica** | Sturm |
 
 ## Territorio
@@ -38,11 +40,17 @@ esposa de Harald e hija del Señor de Sturmgard.
 
 ## Identidades de la Tormenta
 
-La **Voluntad de la Sal** y la **Voluntad del Hierro** son identidades
-socioculturales, no organizaciones ni bandos políticos. La Voluntad de la Sal
+Los sturmgardianos son Sangre de Hierro. La **Voluntad de la Sal** y la
+**Voluntad del Hierro** son identidades socioculturales, no organizaciones ni
+bandos políticos. En la época de Sandor predomina la Voluntad de la Sal, que
 privilegia la adaptación, la supervivencia y el pillaje bajo las condiciones de
-la Tormenta. La Voluntad del Hierro privilegia la guardia y el honor de los
-Sangre de Hierro.
+la Tormenta. La Voluntad del Hierro, centrada en la guardia y el honor, sobrevive
+como tradición minoritaria. La cultura sturmgardiana posee una identidad propia
+que no se reduce por completo a ninguna de las dos voluntades.
+
+Entre los Sangre de Hierro de Sturmgard son frecuentes los ojos amarillo oscuro
+y destaca la belleza de muchas mujeres. Son tendencias regionales, no
+condiciones de pertenencia.
 
 ## Vitdrakiris y las Doncellas del Viento
 
@@ -59,10 +67,12 @@ alcance completo de ese vínculo permanecen reservados.
 
 ## Economía
 
-La pesca existe como actividad de subsistencia, pero es escasa, insegura e
-insuficiente como sustento principal por el clima extremo y las criaturas de
-los archipiélagos. La ganadería de altura y la forja de armas complementan la
-economía.
+El saqueo y el pillaje constituyen la principal fuente de recursos del reino,
+aunque Sturmgard no proclama oficialmente esa dependencia.
+
+La pesca se concentra en determinados asentamientos y clanes y no sostiene por
+sí sola al reino. La ganadería de altura y la forja son actividades locales y
+marginales, destinadas principalmente al consumo interno.
 
 ## Gobierno
 

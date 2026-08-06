@@ -27,7 +27,7 @@ Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el no
 
 Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya. Y estaba embarazada. La noche anterior al compromiso, Thalyssa huyó con Eryk hacia Khalos. **Nunca llegaron.** Su destino es un misterio hasta hoy.
 
-Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de asesinato. Estalló la **Guerra de los Hermanos**: zefirios y alessyanos contra lisarios. Hijos del Sol contra Hijos del Sol.
+Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de asesinato. Estalló la **Guerra de los Hermanos**: zephyrios y alessyanos contra lisarios. Hijos del Sol contra Hijos del Sol.
 
 Cuando Sturmgard amenazó con intervenir a favor de Lysarya, el emperador Edrik Mormund contuvo la escalada. Declaró que **Vesperya** —cuyo deber era defender la entrada a Eldengaria— no podía combatir. La guerra quedó contenida entre Zephyrya y Lysarya.
 

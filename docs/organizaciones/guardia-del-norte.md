@@ -34,7 +34,7 @@ custodiar el Paso, pero es una institución distinta.
 
 ## Referencias
 
-- `docs/mundo/stigria/sangre-de-hierro-carmesi.md`
+- `docs/mundo/stigria/sangre-carmesi.md`
 - `docs/mundo/stigria/edad-de-plata.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
 - `docs/organizaciones/guardia-amarilla.md`

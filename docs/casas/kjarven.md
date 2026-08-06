@@ -7,7 +7,7 @@
 | **Tipo** | Casa real |
 | **Reino** | Lyng |
 | **Posición dinástica** | Casa fundadora y presente definitiva |
-| **Título** | Rey o Reina de los Campos Esmeralda |
+| **Título** | Reikar de los Campos Esmeralda |
 
 ## Historia
 

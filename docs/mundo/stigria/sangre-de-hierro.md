@@ -50,6 +50,16 @@ protegieron el Paso del Oriente, limitado al Foso y al Riegel.
 
 El Bloque de Hierro moderno recuperó deliberadamente el nombre de la alianza antigua. No es la continuación institucional de aquella coalición.
 
+Los Sangre de Hierro actuales conservan como tendencias la piel clara, el
+cabello oscuro, grueso y abundante, los ojos generalmente marrones, los cuerpos
+fornidos y la poca barba. En Sturmgard son frecuentes los ojos amarillo oscuro
+y destaca la belleza de muchas mujeres. Son variaciones regionales y ningún
+rasgo físico determina la pertenencia.
+
+Los sturmgardianos continúan siendo Sangre de Hierro. En su cultura actual
+predomina la Voluntad de la Sal y la Voluntad del Hierro permanece como
+tradición minoritaria.
+
 ## Referencias
 
 - `docs/organizaciones/bloque-de-hierro.md`
@@ -57,6 +67,6 @@ El Bloque de Hierro moderno recuperó deliberadamente el nombre de la alianza an
 - `docs/personajes/val-el-terrible.md`
 - `docs/personajes/wolfram-el-bardo.md`
 - `docs/personajes/stelian-therin.md`
-- `docs/mundo/stigria/sangre-de-hierro-carmesi.md`
+- `docs/mundo/stigria/sangre-carmesi.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
 - `docs/mundo/stigria/edad-de-plata.md`

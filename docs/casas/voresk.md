@@ -7,7 +7,7 @@
 | **Tipo** | Casa real fundadora |
 | **Reino** | Veleskaria |
 | **Posición dinástica** | Casa fundadora |
-| **Título** | Rey o Reina de la Puerta Carmesí |
+| **Título** | Reikar de la Puerta Carmesí |
 
 ## Historia
 

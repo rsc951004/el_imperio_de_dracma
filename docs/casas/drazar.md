@@ -7,7 +7,7 @@
 | **Tipo** | Casa real fundadora |
 | **Reino** | Sindria |
 | **Posición dinástica** | Casa fundadora |
-| **Título** | Rey o Reina del Foso |
+| **Título** | Reikar del Foso |
 
 ## Historia
 

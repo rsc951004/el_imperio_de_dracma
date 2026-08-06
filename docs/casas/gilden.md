@@ -8,7 +8,7 @@
 | **Tipo** | Casa real fundadora |
 | **Reino** | Guldengard |
 | **Posición dinástica** | Casa fundadora |
-| **Título** | Rey/Reina del Valle Dorado |
+| **Título** | Reikar del Valle Dorado |
 
 ## Historia y descripción
 

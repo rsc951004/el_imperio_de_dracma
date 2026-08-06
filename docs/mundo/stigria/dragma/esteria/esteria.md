@@ -84,6 +84,6 @@ Esteria hubieran realizado todavía una declaración formal.
 
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
 - `docs/mundo/stigria/roshdom.md`
-- `docs/mundo/stigria/sangre-de-hierro-carmesi.md`
+- `docs/mundo/stigria/sangre-carmesi.md`
 - `docs/mundo/stigria/dragma/sindria/sindria.md`
 - `docs/organizaciones/guardia-amarilla.md`

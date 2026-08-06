@@ -62,6 +62,14 @@ el río oriental se secó y Rauven quedó unido territorialmente a Grimheim.
 
 El **Riss** nace en Stömur, bordea el sur de Eldenheim y desciende en zigzag hacia el mar meridional. Su curso separa Dürr de Unland.
 
+## Eldenheim imperial
+
+Durante el Imperio, Eldenheim se divide administrativamente en cinco Víer.
+Rostheim se relaciona con el norte y el lago Rost; Eldenfeld, con las campiñas
+centrales; Rissbruck, con el sur y los pasos del Riss; Drakenau, con el oriente
+junto a Dragma y Eldengaria; y Vesterfeld, con el occidente y los caminos hacia
+Sturm y el Valle de Hierro. Estas orientaciones no definen fronteras precisas.
+
 ## Orden espacial resumido
 
 ```text

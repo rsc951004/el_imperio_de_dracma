@@ -2,7 +2,8 @@
 
 ## Identidad
 
-Primer emperador de Dragma. Miembro de la Casa Mormund y descendiente del linaje de Wolfram el Bardo.
+Primer Kaisrik de Dragma, llamado Emperador en lengua común. Miembro de la Casa
+Mormund y descendiente del linaje de Wolfram el Bardo.
 
 ## Historia
 

@@ -14,9 +14,10 @@ Askenburg
 - Actual: **Gundrek**
 
 ## Título del gobernante
-**Rey de la Montaña Ardiente** o **Reina de la Montaña Ardiente**. Forma
-abreviada entre monarcas: Rey Montaña o Reina Montaña. El título evoca el
-corazón volcánico del noroeste y la tradición piromántica del reino.
+**Reikar de la Ceniza**. En lengua común se utiliza **Rey de la Ceniza**, sin
+variación según el género. La forma breve entre monarcas es **Ceniza**. El
+título representa lo que permanece después del fuego: resistencia, memoria y
+renovación.
 
 ## Afiliación en la rebelión
 **Bloque de Hierro.** Núcleo leal al Raikim. Nunca se rebeló. Conserva el sufijo -gard.

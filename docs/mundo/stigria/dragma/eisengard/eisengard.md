@@ -13,7 +13,9 @@ establecido durante la Edad de Plata.
 | **Casa fundadora** | Hammer |
 | **Casa real** | Eberwulf |
 | **Gobernante** | Pendiente |
-| **Título** | Rey o Reina del Valle de Hierro |
+| **Título oficial** | Reikar del Valle de Hierro |
+| **Lengua común** | Rey del Valle de Hierro |
+| **Forma breve** | Hierro |
 | **Región** | Valle de Hierro |
 
 ## Descripción

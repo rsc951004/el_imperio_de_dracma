@@ -13,7 +13,9 @@ Reino del Imperio de Dragma.
 | **Casa fundadora** | Drazar |
 | **Casa real** | Velkar |
 | **Gobernante** | Pendiente |
-| **Título** | Rey o Reina del Foso |
+| **Título oficial** | Reikar del Foso |
+| **Lengua común** | Rey del Foso |
+| **Forma breve** | Foso |
 | **Región histórica** | Weissen |
 
 ## Territorio
@@ -43,6 +45,30 @@ pero no concede autoridad sobre Esteria, la Guardia Amarilla ni la Ruina.
 
 La Casa Drazar recibió la primera corona de Sindria. En la Edad de Oro gobierna
 la Casa Velkar. El motivo y las etapas del relevo permanecen reservados.
+
+## Identidad contemporánea
+
+Sindria posee una subcultura aislacionista que reúne tres herencias: la
+tradición de la Sangre Carmesí, la disciplina de los Sangre de Hierro y la
+resistencia sturmgardiana.
+
+La Sangre Carmesí de Sindria presenta una mezcla mayor con los Sangre de Hierro
+de Sturmgard. Continúa formando parte del mismo pueblo que la rama de
+Veleskaria; sus diferencias no constituyen una identidad separada.
+
+Hace siglos, numerosas mujeres de Sturmgard migraron hacia Sindria. Sus
+descendientes son plenamente sindrianos y no forman una comunidad sturmgardiana
+separada. En el habla popular circulan las bromas «la Tormenta reformada», «los
+únicos sturmgardianos buenos son los que viven en el hielo» y «el frío
+civiliza». Son expresiones sociales, no afirmaciones objetivas sobre ambos
+pueblos.
+
+## Maestrías
+
+Existen líneas Maeggis especializadas en el uso del hielo y la nieve, además de
+otras que emplean Grimm como herramientas. No representan a toda la población
+ni a todos los Maeggis sindrios. Su existencia no demuestra una relación con la
+Grien Tábura, el Rey Podrido ni un culto oficial del reino.
 
 ## Presencia clandestina
 

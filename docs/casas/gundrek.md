@@ -7,7 +7,7 @@
 | **Tipo** | Casa real de la Edad de Oro |
 | **Reino** | Flemmengard |
 | **Posición dinástica** | Casa presente definitiva |
-| **Título** | Rey o Reina de la Montaña Ardiente |
+| **Título** | Reikar de la Ceniza |
 
 ## Historia
 

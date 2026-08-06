@@ -1,7 +1,8 @@
 # Plan de volcamiento: identidad de los doce reinos
 
-> **Estado:** preparado después del cierre de N-01 a N-18. Pendiente de
-> autorización humana para su ejecución.
+> **Estado:** P-01 a P-07 transferidos al canon el 5 de agosto de 2026 por
+> autorización humana expresa. La validación final quedó superada y el proceso
+> está cerrado.
 >
 > **Naturaleza:** documento no canónico. Organiza una transferencia futura y no
 > autoriza por sí mismo cambios en `docs/`, `cuentos/` ni en las referencias
@@ -227,8 +228,22 @@ resúmenes anteriores:
 | Brumenses originarios: cabello rubio o platinado, ojos grises, gran estatura y mucha barba; los actuales conservan esos rasgos con menor estatura media y alguna mezcla. | `docs/mundo/stigria/gente-de-la-bruma.md`. |
 | Todos los fenotipos son tendencias frecuentes y nunca requisitos de identidad o pertenencia. | Regla transversal en cada ficha de pueblo modificada y síntesis en `docs/mundo.md` solo si el índice necesita expresarla. |
 
-## Condición para ejecutar el plan
+## Registro de ejecución y validación
 
-La ejecución requiere una orden humana explícita de volcamiento. Esa orden
-puede autorizar el plan completo o bloques determinados, pero no se infiere de
-la aprobación de las resoluciones ni de la preparación de este documento.
+El humano autorizó la ejecución completa con la fórmula «vamos en nombre de
+Ghera». P-01 a P-07 se transfirieron el 5 de agosto de 2026.
+
+La auditoría final confirmó:
+
+- ausencia de enlaces canónicos hacia la antigua ruta
+  `sangre-de-hierro-carmesi.md`;
+- correspondencia entre las marcas `CANON-VELADO: INICIO` y
+  `CANON-VELADO: FIN`;
+- permanencia de los gobernantes no definidos como pendientes;
+- ausencia de las premisas sustituidas en las fichas canónicas activas, salvo
+  nombres históricos legítimos y entradas editoriales de `docs/notas.md`;
+- integridad de los enlaces Markdown canónicos, excluido el enlace de ejemplo
+  declarado en `docs/AGENTS.md`;
+- resultado limpio de `git diff --check`.
+
+No se ejecutó `build.sh` y no se realizó commit ni push durante el volcamiento.

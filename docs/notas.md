@@ -2,6 +2,53 @@
 
 ## Revisiones editoriales
 
+### Volcamiento: identidad de los doce reinos (2026-08-05)
+
+Se ejecutó el volcamiento autorizado de las resoluciones N-01 a N-18. La
+titulatura ceremonial imperial quedó fijada en **Kaisrik**, **Reikar**,
+**Landwalt**, **Herskar** y **Frey**, con sus equivalentes comunes y regionales.
+Las doce coronas adoptaron sus fórmulas invariantes; Flemmengard pasó a
+**Reikar de la Ceniza**. Se corrigieron las fórmulas de consorte de corona y se
+retiró todo título derivado del matrimonio con la jefatura de una casa.
+
+Se creó la ficha de los cinco Víer de Eldenheim —Rostheim, Eldenfeld,
+Rissbruck, Drakenau y Vesterfeld— con sus orientaciones generales y reservas
+cartográficas. Eldengaria permanece fuera de ellos. La sucesión de los
+Landwalts es hereditaria mientras la Dex Tábura no se oponga; las competencias
+y procedimientos todavía no definidos pasaron a `docs/pendientes.md`.
+
+Las identidades territoriales se reconstruyeron desde las decisiones vigentes:
+el saqueo y el pillaje sostienen Sturmgard; Lysarya concentra de forma exclusiva
+las frutas dulces y los vinos; Lyng es pastoril y agrario; Bjorn comercializa su
+producción y distingue el bosque sagrado de los bosques modernos reforestados;
+Veleskaria es el principal centro místico y Zephyrya el segundo; Sindria reúne
+herencias carmesíes, del Hierro y sturmgardianas. Khalos quedó asentado como
+protectorado autónomo bajo garantía directa del Kaisrik.
+
+El **Estrecho del Tridente** pasó a explicarse mediante los tres canales del río.
+Se retiraron del canon activo los arcos y la construcción de la antigua Tríada,
+se conservaron Talasya, las orillas opuestas de Vesperya y Kyst y el deber
+vesperiano de proteger la entrada marítima a Eldengaria. La geometría exacta
+permanece reservada.
+
+Se crearon `dravosi.md` y `sangre-carmesi.md`. La segunda conserva **Sangre de
+Hierro Carmesí** como nombre histórico y utiliza **Sangre Carmesí** para el
+pueblo contemporáneo. Se documentaron la taxonomía vigente, las mezclas y los
+fenotipos probabilísticos de Gheran, Sangheskios, Sangre de Hierro, Sangre
+Carmesí, Hijos del Sol, brumenses y dravosi. Hijos del Sol quedó separado como
+identidad etnocultural de verano/verana como procedencia geográfica.
+
+El encanto sobrenatural de muchos hombres zephyrios quedó confirmado. Su origen
+en esclavos sexuales modificados por los astrianos se incorporó como
+`CANON-VELADO`, desconocido por el mundo en general, sin inventar técnica,
+agente, procedimiento ni relación causal con los Portadores. La ausencia de
+bronceado quedó separada como tendencia de mecanismo desconocido.
+
+La auditoría anti-fantasmeo retiró las premisas sustituidas de las fichas
+activas, mantuvo intactas las fichas bajo marca `DESCANONIZADO`, preservó los
+nombres históricos legítimos y no inventó los gobernantes que continúan
+pendientes.
+
 ### Volcamiento P-06: reformulación cronológica imperial (2026-07-24)
 
 Se sustituyó el calendario canónico anterior por el cómputo imperial anclado en

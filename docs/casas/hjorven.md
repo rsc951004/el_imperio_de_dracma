@@ -7,7 +7,7 @@
 | **Tipo** | Casa real |
 | **Reino** | Bjorn |
 | **Posición dinástica** | Casa fundadora y presente definitiva |
-| **Título** | Rey o Reina del Bosque |
+| **Título** | Reikar del Bosque |
 
 ## Historia
 

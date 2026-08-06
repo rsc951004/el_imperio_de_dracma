@@ -7,7 +7,7 @@
 | **Tipo** | Casa real |
 | **Reino** | Kyst |
 | **Posición dinástica** | Casa fundadora y presente definitiva |
-| **Título** | Rey o Reina de la Costa Gris |
+| **Título** | Reikar de la Costa Gris |
 
 ## Historia
 

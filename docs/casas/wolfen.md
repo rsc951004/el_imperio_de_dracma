@@ -12,7 +12,7 @@
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
 | **Fundador** | Pendiente |
-| **Título** | Rey/Reina de la Montaña Ardiente |
+| **Título** | Reikar de la Ceniza |
 
 ## Historia y descripción
 

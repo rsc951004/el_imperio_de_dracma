@@ -31,7 +31,7 @@ números positivos:
 | **Año -360** | La Gente de la Bruma huye del sur de Grimheim, entra en Unland por el Fenn y desplaza hacia el Gran Valle a parte de la población que habitaba la región. Val el Terrible y sus acompañantes mueren durante la campaña contra los recién llegados. |
 | **Año -345** | Unos ciento veinte refugiados astrianos llegan a Unland. Junto con la Gente de la Bruma fundan Khalos y la Kys Tábura. |
 | **Año -330** | Los esclavos liberados de Astria transforman el litoral de Dürr y forman la **Costa del Verano**. |
-| **Año -300** | Artemis descubre Delfos. Los habitantes de Unland construyen los tres arcos colosales de la futura Tríada. |
+| **Año -300** | Artemis descubre Delfos. |
 | **Año -230** | La Puerta Negra se abre cuando Rudgar Valgard tiene dieciséis años. Las hordas del Reino Podrido conquistan casi todo el Gherin durante los cinco años siguientes. |
 | **Año -225** | Astrid desaparece en una fortaleza de Sturm. Rudgar, ya de veintiún años, encuentra a Stelian Therin, de catorce años. Stelian hiere al Rey Podrido mediante su fulgor solar. |
 | **Año -225** | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->El hijo de Astrid y Rudgar sobrevive; la continuidad de esa línea permanece oculta durante la Edad de Oro.<!-- CANON-VELADO: FIN --> |

@@ -16,6 +16,10 @@ En la Edad de Oro, un Maeggi puede integrarse en la Grim Tábura si aprende a
 aplicar su don y sus maestrías al combate o la defensa. Cambiar a este oficio no
 exige una licencia adicional.
 
+Las escuelas de Veleskaria forman cazadores destinados a la Tábura y también
+cazadores independientes. La formación regional no implica pertenencia
+automática a la institución.
+
 ## Alcance
 
 Sus métodos, jerarquía y organización interna quedan reservados para etapas

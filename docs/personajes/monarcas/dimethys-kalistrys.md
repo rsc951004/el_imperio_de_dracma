@@ -3,7 +3,8 @@
 ## Identidad
 
 Soberano de Zephyrya durante la Edad de Oro y miembro de la Casa Kalistrys.
-Porta el título de Rey del Ocaso.
+Porta el título oficial de **Reikar del Ocaso** y, en lengua común, Rey del
+Ocaso.
 
 ## Alcance
 

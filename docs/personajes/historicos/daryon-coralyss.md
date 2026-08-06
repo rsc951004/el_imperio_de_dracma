@@ -13,7 +13,10 @@ Pendiente.
 ## El reclamo y la traición
 Daryón Coralyss presentó ante la corte de Edrik Mormund un reclamo de **derecho de dominio** sobre Alessya. Pactó en secreto con **Kleóndras Aetheryon**, rey de Zephyrya, el matrimonio entre su hija **Thalyssa Coralyss** y el príncipe **Astryón Aetheryon**. Si el reclamo prosperaba, Alessya pasaría a Zephyrya por herencia y unión matrimonial.
 
-Daryón no quería que su hija y sus nietos fueran pastores de ovejas en Lysarya, temiendo ataques de bandas nómadas sturmgardianas, viviendo entre fortalezas de piedra. Quería para ellos castillos de mármol blanco, sábanas de seda, cubiertos de oro y fruta dulce. Zephyrya —la flor del Verano— era el destino que merecían.
+Daryón no quería que su hija y sus nietos vivieran entre las comunidades
+rurales, huertos y fortalezas de piedra de Lysarya, expuestos a incursiones
+sturmgardianas. Quería para ellos castillos de mármol blanco, sábanas de seda y
+cubiertos de oro. Zephyrya —la flor del Verano— era el destino que merecían.
 
 Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya. Y estaba embarazada.
 

@@ -40,7 +40,7 @@ Dentro de toda Casa Gobernante —imperial o real— la Concordia distingue dos 
 
 **Familia Gobernante:** un subconjunto restringido dentro de la Casa. Solo pertenecen a la Familia:
 
-- El monarca (Emperador o Rey/Reina).
+- El monarca (Kaisrik o Reikar).
 - Sus padres.
 - Sus hermanos y hermanas.
 - Su cónyuge (título de Consorte).
@@ -74,13 +74,23 @@ Todos los ciudadanos tienen libre tránsito entre los 12 Reinos. Las ciudades li
 
 | Entidad | Gobernante |
 |---------|------------|
-| 12 Reinos | Rey o Reina |
+| Capital imperial | Kaisrik; Emperador en lengua común |
+| 12 Reinos | Reikar; Rey en lengua común |
+| Víer de Eldenheim | Landwalt subordinado al Kaisrik |
+| Víer de los reinos | Landwalt subordinado al Reikar correspondiente |
 | Protectorados con consejo (ej. Khalos) | Gran Consejo |
 | Protectorado de Esteria | Señor del Faro |
 | Territorios de ultramar | Príncipe Regente |
 | Tierras intermedias | Gran Señor de los Caminos |
 
-Los cargos de Rey o Reina son hereditarios y accesibles tanto para hombres como para mujeres.
+Las coronas y los cargos de Landwalt son hereditarios y accesibles por igual a
+hombres y mujeres. Kaisrik, Reikar y Landwalt son títulos invariantes.
+
+Kaisrik y Reikar son obligatorios en las ceremonias imperiales. En lengua común
+se utilizan siempre Emperador y Rey, también de forma invariable. Fuera del
+ceremonial, las formas de la lengua del Hierro son cotidianas principalmente en
+Eisengard, Guldengard, Flemmengard y Eldengaria. Sturmgard constituye la
+excepción entre los reinos del Hierro.
 
 ### VII. Sucesión imperial y real
 
@@ -88,7 +98,13 @@ Los cargos de Rey o Reina son hereditarios y accesibles tanto para hombres como 
 
 La sucesión imperial y real no distingue entre hombres y mujeres. Hombres y mujeres heredan por igual.
 
-El trono pertenece **exclusivamente al descendiente aprobado** por la Dex Tábura. No es compartido ni extendido en plenitud a nadie más. El cónyuge del monarca recibe el título de **Consorte** (Emperador Consorte, Emperatriz Consorte, Rey Consorte, Reina Consorte): un título ceremonial que no gobierna, no hereda y no sucede. Si el monarca muere sin heredero aprobado, el Consorte no asume el trono.
+El trono pertenece **exclusivamente al descendiente aprobado** por la Dex
+Tábura. No es compartido ni extendido en plenitud a nadie más. El cónyuge del
+monarca recibe en el ceremonial el título de **Consorte del Kaisrik** o
+**Consorte del Reikar de [título]**. En lengua común se utiliza **Consorte
+Imperial** o **Consorte Real**. Estas fórmulas son invariantes y no gobiernan,
+heredan ni suceden. Si el monarca muere sin heredero aprobado, el Consorte no
+asume el trono.
 
 #### VII.2 Orden de postulación
 
@@ -148,7 +164,18 @@ La Dex Tábura puede aprobar la creación de nuevas casas —comunes o nobles—
 
 #### IX.2 Jefaturas de Casas Nobles y Comunes
 
-El **jefe de casa** es una sola persona. Su cónyuge es Consorte del título de la casa, sin autoridad de gobierno interno.
+La jefatura de una casa corresponde a una sola persona. En el ceremonial
+imperial recibe el título invariable de **Herskar**, con el nombre de la casa
+delante: **Hammer Herskar**. En lengua común se utiliza **Cabeza de la Casa
+Hammer**. En Sturmgard se emplea cotidianamente **Jefe de clan** para hombres y
+mujeres.
+
+El cónyuge de quien ejerce la jefatura es un integrante más de la casa. El
+matrimonio no le concede Herskar, un título de consorte ni autoridad interna.
+
+Fuera del ceremonial, Herskar es cotidiano principalmente en Eisengard,
+Guldengard, Flemmengard y Eldengaria. La Dex Tábura registra su equivalencia
+común o regional junto con el método sucesorio de cada casa.
 
 Cada Casa —noble o común— debe tener registrado ante la Dex Tábura, de forma **explícita y detallada**, su método de sucesión para la jefatura. El reglamento queda archivado como parte del acta fundacional de la Casa. El método de sucesión lo define cada casa según sus propias reglas:
 
@@ -158,6 +185,17 @@ Cada Casa —noble o común— debe tener registrado ante la Dex Tábura, de for
 La Dex Tábura **no aprueba ni rechaza** al nuevo jefe de una Casa noble o común. No otorga venia. La sucesión se resuelve internamente.
 
 Sin embargo, la Dex Tábura **sí interviene si el reglamento registrado no se respeta**. Cualquier persona de la Casa puede presentar una reclamación. Si la Dex Tábura determina que hubo violación del reglamento, **invalida la sucesión** y ordena repetirla conforme a lo registrado.
+
+#### IX.3 Tratamiento de los integrantes nobles
+
+**Frey** es el tratamiento oficial e invariable de quienes integran casas
+nobles. En las ceremonias imperiales precede siempre al nombre personal
+completo, como **Frey Sandor Solarys**, y no se aplica al apellido aislado.
+
+Fuera del ceremonial, Frey es de uso cotidiano principalmente en Eisengard,
+Guldengard, Flemmengard y Eldengaria. En Sturmgard y los demás territorios
+predominan **Señor** y **Señora**. Frey es un tratamiento personal y no sustituye
+a Herskar, Cabeza de la Casa ni Jefe de clan.
 
 ### X. Separación institucional y prohibición de uniones
 
@@ -174,8 +212,8 @@ Si un Emperador hereda o reclama un trono real, debe abdicar uno de los dos. Si 
 
 Quedan prohibidas las uniones matrimoniales entre:
 
-- El Emperador y cualquier Rey o Reina en ejercicio.
-- Un Rey o Reina y otro Rey o Reina de distinto reino en ejercicio.
+- El Kaisrik y cualquier Reikar en ejercicio.
+- Un Reikar y otro Reikar de distinto reino en ejercicio.
 
 #### X.3 Matrimonios restringidos a nivel Familia Gobernante
 

@@ -7,7 +7,7 @@
 | **Tipo** | Casa real de la Edad de Oro |
 | **Reino** | Zephyrya |
 | **Posición dinástica** | Casa presente definitiva |
-| **Título** | Rey o Reina del Ocaso |
+| **Título** | Reikar del Ocaso |
 
 ## Historia
 

@@ -64,9 +64,17 @@ Raikim.
 
 ## Legado
 
-La relación histórica de este pueblo con los habitantes de Kyst, Lyng y Bjorn
-está establecida. La evolución concreta que produjo esas identidades permanece
-pendiente.
+La relación histórica de este pueblo con los brumenses de Kyst, Lyng y Bjorn
+está establecida. Entre los pueblos actuales, los brumenses presentan la mayor
+continuidad fenotípica respecto de sus antepasados y el menor grado relativo de
+mezcla. Sus sociedades contemporáneas, sin embargo, difieren profundamente de
+los guerreros llegados desde Grimheim.
+
+Los brumenses originarios poseían, como tendencias frecuentes, cabello rubio o
+platinado, ojos grises, gran estatura y mucha propensión masculina a desarrollar
+barba. Los actuales conservan buena parte de esos rasgos, aunque su estatura
+media se ha reducido y existe alguna mezcla con otros pueblos. Ningún rasgo
+determina por sí solo la pertenencia.
 
 ## Referencias
 

@@ -23,6 +23,11 @@ El registro obligatorio de una persona vinculada es independiente de la
 licencia. La primera licencia certifica la formación y concede la condición
 general de **Maeggi**. Su plural es **Maeggis**.
 
+Las escuelas regionales forman estudiantes dentro del sistema imperial, pero
+completar sus estudios no concede por sí solo la condición de Maeggi.
+Veleskaria constituye el principal centro de formación y Zephyrya el segundo;
+continúan existiendo escuelas en otros territorios.
+
 ## Clasificaciones y oficios
 
 La primera licencia incorpora una clasificación administrativa vinculada, por

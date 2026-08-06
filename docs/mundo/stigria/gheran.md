@@ -18,6 +18,14 @@ Durante la mayor parte de la Edad del Hierro no existió una autoridad común. E
 
 Al comenzar la Edad del Hierro, los Gheran utilizaban principalmente bronce. Val el Terrible fue uno de los primeros herreros gheran capaces de trabajar el hierro con eficacia.
 
+## Fenotipo histórico
+
+Como tendencias frecuentes, los Gheran poseían piel clara; cabello negro o
+castaño oscuro, grueso y abundante; ojos generalmente marrones; cuerpos
+fornidos; facciones toscas; y poca propensión masculina a desarrollar barba.
+Su estatura superaba incluso la de los brumenses originarios. Estos rasgos no
+constituían requisitos de pertenencia.
+
 ## Referencias
 
 - `docs/mundo/stigria/historia-antigua.md`

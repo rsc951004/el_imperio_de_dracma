@@ -44,6 +44,11 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Möes Tábura** | Desarrollar su jerarquía, organización y trámites internos de clasificación. |
 | **Creación de Invocadores** | Definir la autoridad, los permisos, el procedimiento, los materiales y los riesgos concretos del rito, actualmente casi prohibido. |
 | **Lumbre del Gran Faro** | Definir la composición, fabricación y origen del material sin alterar sus efectos ya establecidos. |
+| **Sucesión de Landwalts** | Definir el procedimiento posterior a una objeción de la Dex Tábura, la compatibilidad con la jefatura de casa, los requisitos personales y las competencias administrativas detalladas. |
+| **Gards históricos** | Fijar nombres propios únicamente cuando exista una decisión histórica; no proyectar hacia el pasado los nombres de los cinco Víer imperiales. |
+| **Cartografía de los Víer** | Definir ubicación exacta, límites, extensión, accidentes internos y composición geográfica de Rostheim, Eldenfeld, Rissbruck, Drakenau y Vesterfeld mediante un soporte autorizado. |
+| **Jefaturas de casas** | Desarrollar los métodos particulares de sucesión de las casas que aún no los tengan definidos. |
+| **Monarcas de la Bruma** | Fijar las identidades personales de los Reikar actuales de Kyst, Lyng y Bjorn, ya establecidos como primos. |
 
 ## Misterios y desarrollos posteriores
 
@@ -54,3 +59,10 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Protectorados y ultramar** | Desarrollar Ishbaal, Lorka, Paicel y las relaciones históricas entre los protectorados. |
 | **Príncipes Perdidos** | Resolver el destino de Eryk Albyon y Thalyssa Coralyss. |
 | **Invocadores y Segunda Dinastía** | Desarrollar las causas, bandos y secuencia del conflicto que consolidó su estigma social y casi destruyó el Imperio. |
+| **Saqueos de Sturmgard** | Desarrollar lugares atacados, campañas concretas y mecanismos de distribución del botín durante una etapa narrativa autorizada. |
+| **Escuelas regionales** | Desarrollar procedimientos internos y particularidades de las escuelas de Veleskaria, Zephyrya y otros territorios. |
+| **Encanto zephyrio** | Mantener sin definir la técnica, el agente y el procedimiento exactos de la modificación astriana, además del mecanismo independiente por el que la piel zephyria no se broncea. |
+| **Maestrías sindrias** | Desarrollar procedimientos, tipos de Grimm utilizados, técnicas concretas y campañas asociadas. |
+| **Dravos Amschel y los dravosi** | Fijar la identidad del Kaisrik hermano de Dravos, las fechas de su vida y tratados y la formación histórica detallada del pueblo. |
+| **Mezclas de los pueblos** | Desarrollar fechas, familias y movimientos concretos de las mezclas posteriores, salvo las migraciones ya asentadas para Sindria. |
+| **Cartografía del Tridente** | Definir el trazado, anchura, profundidad y disposición exacta del río y sus tres canales mediante un soporte geográfico autorizado. |

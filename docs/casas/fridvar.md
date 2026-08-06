@@ -7,7 +7,7 @@
 | **Tipo** | Casa real de la Edad de Oro |
 | **Reino** | Sturmgard |
 | **Posición dinástica** | Casa presente definitiva |
-| **Título** | Rey o Reina de la Tormenta |
+| **Título** | Reikar de la Tormenta |
 
 ## Historia
 

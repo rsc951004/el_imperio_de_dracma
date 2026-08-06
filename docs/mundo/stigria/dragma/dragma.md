@@ -30,8 +30,8 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 
 | Entidad | Gobernante | Notas |
 |---------|------------|-------|
-| Imperio | **Emperador** | Soberano supremo. Reside en Eldengaria. |
-| 12 Reinos | **Rey o Reina** | Título hereditario, aprobado con venia de la Dex Tábura. Hombres y mujeres pueden heredar. |
+| Imperio | **Kaisrik**; Emperador en lengua común | Soberano supremo. Reside en Eldengaria. |
+| 12 Reinos | **Reikar**; Rey en lengua común | Corona hereditaria bajo revisión sucesoria de la Dex Tábura. El título no varía según el género. |
 | Protectorados con consejo | **Gran Consejo** | Ejemplo: Khalos. |
 | Protectorado de Esteria | **Guardia Amarilla** | Custodia el Gran Faro, la ciudad y la frontera oriental. |
 | Territorios de ultramar | **Príncipe Regente** | Salvo Delfos. |
@@ -42,18 +42,18 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 
 | # | Reino | Bloque | Casa actual | Título |
 |---|-------|--------|-------------|--------|
-| 1 | Eisengard | Valle de Hierro | Eberwulf | Rey/Reina del Valle de Hierro |
-| 2 | Guldengard | Valle de Hierro | Reginvar | Rey/Reina del Valle Dorado |
-| 3 | Flemmengard | Valle de Hierro | Gundrek | Rey/Reina de la Montaña Ardiente |
-| 4 | Sturmgard | Valle de Hierro | Fridvar | Rey/Reina de la Tormenta |
-| 5 | Lysarya | Costas del Verano | Mirandys | Rey/Reina de la Colina del Verano |
-| 6 | Veleskaria | Dresk | Korzan | Rey/Reina de la Puerta Carmesí |
-| 7 | Zephyrya | Costas del Verano | Kalistrys | Rey/Reina del Ocaso |
-| 8 | Kyst | Tierra de la Bruma | Fjolvar | Rey/Reina de la Costa Gris |
-| 9 | Lyng | Tierra de la Bruma | Kjarven | Rey/Reina de los Campos Esmeralda |
-| 10 | Vesperya | Costas del Verano | Valiryos | Rey/Reina del Tridente |
-| 11 | Sindria | Weissen | Velkar | Rey/Reina del Foso |
-| 12 | Bjorn | Tierra de la Bruma | Hjorven | Rey/Reina del Bosque |
+| 1 | Eisengard | Valle de Hierro | Eberwulf | Reikar del Valle de Hierro |
+| 2 | Guldengard | Valle de Hierro | Reginvar | Reikar del Valle Dorado |
+| 3 | Flemmengard | Valle de Hierro | Gundrek | Reikar de la Ceniza |
+| 4 | Sturmgard | Valle de Hierro | Fridvar | Reikar de la Tormenta |
+| 5 | Lysarya | Costas del Verano | Mirandys | Reikar de la Colina del Verano |
+| 6 | Veleskaria | Dresk | Korzan | Reikar de la Puerta Carmesí |
+| 7 | Zephyrya | Costas del Verano | Kalistrys | Reikar del Ocaso |
+| 8 | Kyst | Tierra de la Bruma | Fjolvar | Reikar de la Costa Gris |
+| 9 | Lyng | Tierra de la Bruma | Kjarven | Reikar de los Campos Esmeralda |
+| 10 | Vesperya | Costas del Verano | Valiryos | Reikar del Tridente |
+| 11 | Sindria | Weissen | Velkar | Reikar del Foso |
+| 12 | Bjorn | Tierra de la Bruma | Hjorven | Reikar del Bosque |
 
 ## Los 7 Protectorados
 
@@ -70,6 +70,26 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 ## Las Tierras Intermedias
 Territorios sin dueño dentro del Gherin que no pertenecen a ningún reino ni protectorado. Páramos, costas y franjas de tierra entre fronteras. Son considerados bienes comunes del imperio, administrados por el **Gran Señor de los Caminos** con autonomía propia.
 
+## Los Víer
+
+Un **Víer** es una subdivisión administrativa interna del Imperio. Cada reino
+puede dividirse en Víer subordinados a su Reikar. Eldenheim posee cinco Víer
+subordinados al Kaisrik: Rostheim, Eldenfeld, Rissbruck, Drakenau y Vesterfeld.
+Eldengaria constituye una unidad política propia y no forma parte de ninguno de
+ellos. Los protectorados y las Tierras Intermedias conservan sus propias formas
+de administración y no quedan divididos en Víer.
+
+La autoridad hereditaria de un Víer recibe el título oficial e invariable de
+**Landwalt**. En lengua común se la llama Señor o Señora del Dominio. La Dex
+Tábura supervisa la continuidad sucesoria y puede oponerse al sucesor. El cargo
+no concede soberanía, asiento en la Mesa de los Reyes ni autoridad automática
+sobre una casa. Cuando deba establecerse un titular fuera de la continuidad
+hereditaria, lo designa la corona correspondiente bajo supervisión de la Dex
+Tábura.
+
+La organización de los cinco territorios se detalla en
+[`vier-de-eldenheim.md`](vier-de-eldenheim.md).
+
 ## Dinastías imperiales
 
 Dragma ha tenido tres casas imperiales. Las tres eran casas nobles preexistentes, electas por el Stamengherin. Las tres regresaron a su estatus nobiliario previo al dejar la corona.
@@ -78,6 +98,9 @@ La Casa Mormund ocupó la corona desde el año **0** hasta el año **+400**. La
 Casa Amschel gobernó desde el año **+400** hasta el año **+1350**. La Casa Pavel
 ocupa el trono desde el año **+1350** y es la dinastía reinante en el presente,
 situado en el año **+1680**.
+
+La Casa Pavel pertenece al pueblo dravosi, mayoritario en el Gran Valle y
+Eldengaria. Su reino de origen permanece sin definir.
 
 | # | Dinastía | Origen | Emperadores | Estado |
 |---|----------|--------|-------------|--------|

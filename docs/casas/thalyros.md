@@ -7,7 +7,7 @@
 | **Tipo** | Casa real fundadora |
 | **Reino** | Vesperya |
 | **Posición dinástica** | Casa fundadora |
-| **Título** | Rey o Reina del Tridente |
+| **Título** | Reikar del Tridente |
 
 ## Historia
 
