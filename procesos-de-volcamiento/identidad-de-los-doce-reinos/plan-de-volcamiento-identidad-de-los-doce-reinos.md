@@ -43,6 +43,23 @@
 | Revisar | `docs/casas/pavel.md`, `docs/casas/eberwulf.md`, `docs/casas/reginvar.md`, `docs/casas/gundrek.md`, `docs/casas/fridvar.md`, `docs/casas/mirandys.md`, `docs/casas/korzan.md`, `docs/casas/kalistrys.md`, `docs/casas/fjolvar.md`, `docs/casas/kjarven.md`, `docs/casas/valiryos.md`, `docs/casas/velkar.md`, `docs/casas/hjorven.md` | Corregir solo los campos o frases que presenten una forma ceremonial incompatible; no reabrir la continuidad dinástica. |
 | Revisar | `docs/personajes/monarcas/lykandros-mirandys.md`, `docs/personajes/monarcas/dimethys-kalistrys.md`, `docs/personajes/monarcas/oryphos-valiryos.md` | Distinguir el título ceremonial del uso común en las fichas de los soberanos actuales que ya poseen identidad personal. |
 
+Las doce fórmulas que deberán conservarse de manera uniforme son:
+
+| Reino | Ceremonial | Lengua común | Forma breve |
+|---|---|---|---|
+| Eisengard | Reikar del Valle de Hierro | Rey del Valle de Hierro | Hierro |
+| Guldengard | Reikar del Valle Dorado | Rey del Valle Dorado | Dorado |
+| Flemmengard | Reikar de la Ceniza | Rey de la Ceniza | Ceniza |
+| Sturmgard | Reikar de la Tormenta | Rey de la Tormenta | Tormenta |
+| Lysarya | Reikar de la Colina del Verano | Rey de la Colina del Verano | Colina |
+| Veleskaria | Reikar de la Puerta Carmesí | Rey de la Puerta Carmesí | Carmesí |
+| Zephyrya | Reikar del Ocaso | Rey del Ocaso | Ocaso |
+| Kyst | Reikar de la Costa Gris | Rey de la Costa Gris | Gris |
+| Lyng | Reikar de los Campos Esmeralda | Rey de los Campos Esmeralda | Esmeralda |
+| Vesperya | Reikar del Tridente | Rey del Tridente | Tridente |
+| Sindria | Reikar del Foso | Rey del Foso | Foso |
+| Bjorn | Reikar del Bosque | Rey del Bosque | Bosque |
+
 ### P-02. Los cinco Víer de Eldenheim
 
 **Resoluciones:** N-02, N-03 y N-18.
@@ -160,8 +177,8 @@ contenidos durante este bloque.
 | N-04 | `vesperya.md`, `kyst.md`, `lysarya.md`, `12-reinos.md`, `cronologia.md` y `edrik-mormund.md`: Estrecho del Tridente, tres canales, Talasya, orillas opuestas y función defensiva. | Geometría exacta de los canales. | Tríada, arcos pétreos y su construcción histórica. |
 | N-05 | `veleskaria.md`, `khalos.md` y `12-reinos.md`: Khalos como protectorado imperial autónomo garantizado por el Kaisrik. | Ninguna. | Protección o subordinación de Khalos a Veleskaria y sus consecuencias. |
 | N-06 | Marco imperial, doce fichas territoriales y fichas activas de soberanos: Kaisrik, doce Reikar, equivalentes comunes, forma Ceniza, consortes y distribución cotidiana. | Ninguna. | Montaña Ardiente; formas de consorte que atribuyen la corona al cónyuge. |
-| N-07 | `sturmgard.md` y `12-reinos.md`: saqueo y pillaje principales, pesca focalizada, ganadería y forja marginales; identidad propia, Sal predominante e Hierro minoritario. | Lugares, campañas y reparto del botín. | Modelo económico sostenido conjuntamente por pesca, ganadería y forja. |
-| N-08 | `lysarya.md`, `lyng.md`, `bjorn.md` y `12-reinos.md`: frutas dulces y vinos exclusivos de Lysarya; Lyng pastoril y agrario. | Cultivos lyngardeses adicionales solo si se definen posteriormente y son compatibles con el clima. | Viñedos de Lyng y pastoreo como base definitoria de Lysarya. |
+| N-07 | `sturmgard.md` y `12-reinos.md`: saqueo y pillaje principales, pesca focalizada, ganadería y forja marginales; los sturmgardianos son Sangre de Hierro, predomina la Voluntad de la Sal y la Voluntad del Hierro es minoritaria. | Lugares, campañas y reparto del botín. | Modelo económico sostenido conjuntamente por pesca, ganadería y forja. |
+| N-08 | `lysarya.md`, `lyng.md`, `bjorn.md` y `12-reinos.md`: frutas dulces y vinos exclusivos de Lysarya; Lyng pastoril y agrario. | Ninguna. | Viñedos de Lyng y pastoreo como base definitoria de Lysarya. |
 | N-09 | `veleskaria.md`, `zephyrya.md`, `moes-tabura.md` y `grim-tabura.md`: jerarquía de escuelas, licencia Maeggi, encanto variable y causa astriana velada. | Procedimientos escolares y técnica, agente o mecanismo exactos de la modificación. | Encanto como rumor o como consecuencia de Portadores. |
 | N-10 | `sindria.md` y `sangre-carmesi.md`: tres herencias, migración de mujeres sturmgardianas, bromas populares y líneas Maeggis de hielo, nieve y Grimm. | Procedimientos, Grimm concretos y campañas. | Inferencia de culto oficial o dependencia de la Grien Tábura a partir de esas maestrías. |
 | N-11 | `bjorn.md`, `lyng.md`, `kyst.md` y `12-reinos.md`: prosperidad, ruta a Khalos, dos clases de bosque, dependencia mercantil de Lyng, cooperación brumense, fronteras grises y comparación popular. | Nombres personales de los tres Reikar actuales. | Triple Corona como institución o autoridad de Bjorn sobre Khalos o Lyng. |
@@ -172,6 +189,43 @@ contenidos durante este bloque.
 | N-16 | `concordia.md`, `dragma.md` y fichas donde resulte necesario: Frey ceremonial ante nombre completo; uso cotidiano en Hierro salvo Sturmgard y en Eldengaria; Señor/Señora en los demás territorios. | Nuevos tratamientos regionales fuera del alcance. | Frey ante apellido aislado o como título de jefatura. |
 | N-17 | `12-reinos.md`, `dragma.md` y fichas territoriales: conservar nombres, capitales, casas, cadenas y soberanos ya fijados por el volcamiento anterior. | Gobernantes que continúan pendientes. | Uso de fichas descanonizadas como continuidad alternativa. |
 | N-18 | `vier-de-eldenheim.md`, `gherin.md`, `vesperya.md` y `kyst.md`: orientaciones generales de los Víer y relaciones generales del Tridente. | Límites, extensión, accidentes, composición, geometría y nuevo boceto. | Deducciones territoriales tomadas del boceto vigente. |
+
+### Desglose material de la trazabilidad
+
+Esta tabla impide que los detalles aprobados queden absorbidos por los
+resúmenes anteriores:
+
+| Detalle aprobado | Destino explícito |
+|---|---|
+| Sturmgard no proclama oficialmente su dependencia del saqueo, pero el hecho tampoco es canon velado. | Sección económica de `docs/mundo/stigria/dragma/sturmgard/sturmgard.md`. |
+| La pesca sturmgardiana se concentra en ciertos asentamientos y clanes; la ganadería y la forja atienden sobre todo el consumo interno. | Secciones de territorio y economía de `sturmgard.md`. |
+| La Voluntad de la Sal y la Voluntad del Hierro son identidades socioculturales, no organizaciones políticas. | Sección de identidades de `sturmgard.md`. |
+| Lysarya produce huertos, viñedos, fruta fresca, frutos secos, conservas y vinos, con exclusividad imperial para frutas dulces y vinos. | Geografía y economía de `docs/mundo/stigria/dragma/lysarya/lysarya.md`; síntesis en `docs/12-reinos.md`. |
+| Lyng se sostiene con ganadería, pasturas, cereales, trigo y otros cultivos compatibles con su clima. | Geografía e historia económica de `docs/mundo/stigria/dragma/lyng/lyng.md`. |
+| Graduarse de una escuela regional no convierte por sí solo a alguien en Maeggi; la condición comienza con la primera licencia certificada por la Möes Tábura. | `docs/taburas/moes-tabura.md` y sección de escuelas de `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`. |
+| Veleskaria forma Maeggis y cazadores de Grimm de la Grim Tábura o independientes; Zephyrya es el segundo núcleo y se especializa en usos curativos, contemplativos y artísticos. | `veleskaria.md`, `zephyrya.md`, `moes-tabura.md` y `grim-tabura.md`. |
+| El encanto de muchos hombres zephyrios tiene intensidad variable, puede producir atracción sin depender de la orientación sexual y algunos lo emplean para obtener favores, oportunidades o ejercer la prostitución. | Sección social de `docs/mundo/stigria/dragma/zephyrya/zephyrya.md`. |
+| Muchos zephyrios descienden de esclavos sexuales modificados por los astrianos; el encanto es una consecuencia heredada y la razón fue olvidada. | Fragmento exacto con `CANON-VELADO` en `zephyrya.md`. |
+| La piel zephyria que no se broncea es una tendencia independiente del encanto y conserva mecanismo desconocido. | Geografía humana de `zephyrya.md`; mecanismo en `docs/pendientes.md`. |
+| Muchas mujeres de Sturmgard migraron hace siglos a Sindria y sus descendientes son sindrianos, no una comunidad separada. | Historia y población de `docs/mundo/stigria/dragma/sindria/sindria.md`. |
+| «La Tormenta reformada», «los únicos sturmgardianos buenos son los que viven en el hielo» y «el frío civiliza» son bromas populares. | Cultura de `sindria.md`, claramente atribuidas como expresiones sociales. |
+| Las líneas Maeggis sindrias de hielo, nieve y uso instrumental de Grimm no pertenecen a toda la población ni justifican inferir un culto oficial. | Maestrías y separación institucional en `sindria.md`. |
+| Bjorn es el reino más próspero y moderno de la Bruma, paso terrestre inevitable y abastecedor de Khalos, con protección indirecta pero sin garantía formal. | Territorio, economía y relaciones de `docs/mundo/stigria/dragma/bjorn/bjorn.md`; autonomía reiterada en `khalos.md`. |
+| El bosque sagrado es el remanente del bosque antiguo talado por el Raikim; los bosques comerciales son masas modernas reforestadas continuamente. | Geografía e historia de `bjorn.md`. |
+| Bjorn fija precios y distribuye la producción de Lyng sin adquirir soberanía; Kyst, Lyng y Bjorn cooperan con fronteras internas grises. | `bjorn.md`, `lyng.md` y síntesis compatible en `kyst.md`. |
+| Triple Corona moderna es una comparación popular rechazada por los tres Reikar primos debido a la relación amorosa de la Triple Corona de Suntarys. | Relaciones políticas de las tres fichas brumenses, sin presentarla como institución. |
+| Dravosi es invariable; no posee fenotipo exclusivo; muchos se consideran los verdaderos dragmanios y llaman provincianos a los habitantes de los reinos. | `docs/mundo/stigria/dravosi.md`. |
+| El nombre dravosi deriva de la recepción posterior de los tratados de Dravos Amschel, hermano de un Kaisrik y estudioso de Khalos. | Origen nominal de `dravosi.md`; fechas e identidad del hermano en `docs/pendientes.md`. |
+| Sangre Sucia es exclusivamente un insulto de los puristas del Hierro. | `dravosi.md` y, solo si resulta necesario para su perspectiva interna, `sangre-de-hierro.md`. |
+| Sangre de Hierro Carmesí es el nombre histórico; Sangre Carmesí es el contemporáneo. Veleskaria presenta más mezcla con el Verano y Sindria con Sturmgard. | `docs/mundo/stigria/sangre-carmesi.md`, `veleskaria.md` y `sindria.md`. |
+| Hijos del Sol es una identidad etnocultural de esclavos liberados y descendientes; verano/verana expresa procedencia y puede abarcar a quienes no son Hijos del Sol. | `docs/mundo/stigria/costa-del-verano.md` y fichas de Lysarya, Zephyrya y Vesperya. |
+| Los brumenses actuales conservan la mayor continuidad fenotípica entre los pueblos presentes, pero difieren culturalmente de los guerreros llegados desde Grimheim. | `docs/mundo/stigria/gente-de-la-bruma.md` y fichas de Kyst, Lyng y Bjorn. |
+| Gheran: piel clara, cabello oscuro grueso y abundante, ojos normalmente marrones, cuerpos fornidos, facciones toscas, poca barba y estatura superior a la brumense originaria. | Fenotipo histórico de `docs/mundo/stigria/gheran.md`. |
+| Sangre de Hierro: continuidad probabilística del fenotipo gheran; en Sturmgard son frecuentes los ojos amarillo oscuro y destaca la belleza de muchas mujeres. | `docs/mundo/stigria/sangre-de-hierro.md` y síntesis regional en `sturmgard.md`. |
+| Sangheskios: piel clara mate, cabello cobrizo a castaño rojizo oscuro y ojos verdes diversos. | `docs/mundo/stigria/sangheskios.md`. |
+| Hijos del Sol: piel clara lechosa, ojos azules intensos, cabello castaño claro a rubio oscuro frecuentemente ondulado o rizado, facciones finas y poca barba. | `docs/mundo/stigria/costa-del-verano.md`, expresado como tendencia heredada. |
+| Brumenses originarios: cabello rubio o platinado, ojos grises, gran estatura y mucha barba; los actuales conservan esos rasgos con menor estatura media y alguna mezcla. | `docs/mundo/stigria/gente-de-la-bruma.md`. |
+| Todos los fenotipos son tendencias frecuentes y nunca requisitos de identidad o pertenencia. | Regla transversal en cada ficha de pueblo modificada y síntesis en `docs/mundo.md` solo si el índice necesita expresarla. |
 
 ## Condición para ejecutar el plan
 
