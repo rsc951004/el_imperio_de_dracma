@@ -91,6 +91,42 @@ asignan origen, oficio, época ni función narrativa.
 - Mirven
 - Radven
 - Zorik
+- Iulien 
+- Branek
+- Strovan
+- Yardek
+- Bordan
+- Nikrev
+- Vaslor
+- Zdrenik
+- Torvik
+- Dobrek
+- Stevan
+- Vlander
+- Corvin
+- Osrik
+- Adrevan
+- Esloven
+- Ustovar
+- Obrik
+- Novrek
+- Ostren
+- Yarven
+- Brozdan
+- Kostrev
+- Dravlen
+- Nirovek
+- Talven
+- Sorvik
+- Belmar
+- Ustrek
+- Voldan
+- Zenrek
+- Miklor
+- Ostvan
+- Bralek
+- Vondrik
+- Sarnek
 - Casa Vardek
 - Casa Drazar
 - Casa Korven
@@ -106,6 +142,16 @@ asignan origen, oficio, época ni función narrativa.
 - Casa Vorek
 - Casa Drevar
 - Casa Korzan
+- Casa Ostrek
+- Casa Bralvan
+- Casa Nikoren
+- Casa Vosdrek
+- Casa Torzan
+- Casa Dravlor
+- Casa Kresvan
+- Casa Miroven
+- Casa Zdravek
+- Casa Ostmir
 
 ## Restricción social de los nombres territoriales
 
