@@ -2,6 +2,14 @@
 
 ## Revisiones editoriales
 
+### Ampliación: guía de nombres Carmesíes (2026-08-11)
+
+Se amplió `docs/mundo/stigria/dragma/nombres-carmesi.md` con tres nuevas fuentes
+de sonoridad: **serbio/macedonio**, **húngaro** y **ucraniano/rusino**. Se
+añadieron sus patrones fonéticos correspondientes, 45 nombres personales nuevos
+(15 por fuente) y 17 casas nuevas como cantera disponible. Se agregó una sección
+de zona de cuidado para patronímicos eslavos (-enko, -ić/-ich, -ov/-ev).
+
 ### Volcamiento: Gente de la Bruma (2026-08-10)
 
 Se ejecutó el volcamiento autorizado de las resoluciones R-01 a R-24 del

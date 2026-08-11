@@ -6,10 +6,20 @@ Esteria cuando corresponda.
 
 ## Fuente de sonoridad
 
-1. La base principal de los nombres es **rumana**, con aportes **búlgaros**.
-2. Estas fuentes son convenciones de escritura externas; no designan pueblos ni
+1. La base principal de los nombres es **rumana**, con aportes **búlgaros**,
+   **serbios/macedonios**, **húngaros** y **ucranianos/rusinos**.
+2. La combinación serbia y macedonia comparte con el búlgaro patrones
+   consonánticos (-ov, -ić, -an, dr-, vr-) y con el rumano ciertos préstamos
+   léxicos; su integración no produce fricción.
+3. El húngaro no es eslavo ni romance, pero es vecino geográfico de la cuenca
+   rumana y su sonoridad dura y sus combinaciones consonánticas (zs, sz, gy, ty)
+   aportan variedad sin romper el tono.
+4. El ucraniano y el rusino son fonéticamente cercanos al búlgaro y comparten
+   abundancia de patronímicos (-enko, -ov, -ich), que deben emplearse con las
+   precauciones indicadas en la sección de zona de cuidado.
+5. Estas fuentes son convenciones de escritura externas; no designan pueblos ni
    culturas existentes dentro de Stigria.
-3. La sonoridad debe distinguir a los Dominios Carmesíes sin borrar la variedad
+6. La sonoridad debe distinguir a los Dominios Carmesíes sin borrar la variedad
    interna entre sus territorios.
 
 ## Transformación fantástica
@@ -27,9 +37,9 @@ Esteria cuando corresponda.
 Los nombres masculinos pueden combinar los siguientes bloques, sin que la lista
 sea exhaustiva:
 
-- Inicios: `Dr-`, `Vr-`, `Kr-`, `Z-`, `V-`, `R-`, `D-`, `Kor-`, `Mir-`.
-- Centros: `-av-`, `-or-`, `-ar-`, `-ev-`, `-an-`, `-ir-`.
-- Finales: `-ek`, `-en`, `-ar`, `-ev`, `-ik`, `-or`, `-mir`.
+- Inicios: `Dr-`, `Vr-`, `Kr-`, `Z-`, `V-`, `R-`, `D-`, `Kor-`, `Mir-`, `Br-`, `Gr-`, `Sl-`, `St-`, `Ml-`, `N-`, `S-`, `B-`, `G-`, `T-`, `F-`, `L-`, `Y-`, `M-`, `P-`, `O-`, `H-`.
+- Centros: `-av-`, `-or-`, `-ar-`, `-ev-`, `-an-`, `-ir-`, `-ov-`, `-rad-`, `-mil-`, `-en-`, `-ol-`, `-az-`, `-am-`, `-er-`, `-yr-`, `-om-`.
+- Finales: `-ek`, `-en`, `-ar`, `-ev`, `-ik`, `-or`, `-mir`, `-an`, `-ov`, `-rek`, `-ok`, `-osh`, `-enk`, `-enek`, `-iv`, `-yk`, `-ko`.
 
 ## Cantera de nombres y casas
 
@@ -127,6 +137,51 @@ asignan origen, oficio, época ni función narrativa.
 - Bralek
 - Vondrik
 - Sarnek
+- Drakov
+- Grivor
+- Slavor
+- Mladev
+- Zorev
+- Norik
+- Bradov
+- Gorovik
+- Milar
+- Stovan
+- Radoren
+- Vranor
+- Darkov
+- Nebren
+- Zoravik
+- Zoltan
+- Sandren
+- Lazlor
+- Balozhan
+- Gavoren
+- Tamor
+- Andorik
+- Imrik
+- Yanosen
+- Ferendor
+- Belarik
+- Matyash
+- Istvor
+- Ershor
+- Vargal
+- Tareven
+- Mikolav
+- Yarevor
+- Dymtrik
+- Volodren
+- Serhor
+- Olexenek
+- Pavlenek
+- Romoren
+- Ivenko
+- Hryhorik
+- Ostapenik
+- Petrenik
+- Vadimir
+- Venkorev
 - Casa Vardek
 - Casa Drazar
 - Casa Korven
@@ -152,6 +207,22 @@ asignan origen, oficio, época ni función narrativa.
 - Casa Miroven
 - Casa Zdravek
 - Casa Ostmir
+- Casa Dravkov
+- Casa Slavor
+- Casa Gorovek
+- Casa Milorad
+- Casa Zorenik
+- Casa Vranor
+- Casa Zoltan
+- Casa Balozar
+- Casa Tamor
+- Casa Ferendor
+- Casa Yanosh
+- Casa Yarevor
+- Casa Pavlenko
+- Casa Ostaprik
+- Casa Hryhoren
+- Casa Venkorev
 
 ## Restricción social de los nombres territoriales
 
@@ -159,6 +230,22 @@ Adoptar un nombre claramente emparentado con el de un reino se considera vulgar
 si la persona no pertenece a la nobleza ni tiene parentesco reconocido con una
 casa noble o real. No impide su uso legítimo por las familias nobles y reales
 vinculadas al territorio.
+
+## Zona de cuidado para patronímicos eslavos
+
+Los sufijos patronímicos del serbio, macedonio, ucraniano y rusino deben
+transformarse con especial atención para no coincidir con nombres reales:
+
+1. `-enko` (ucraniano/rusino) se transforma preferentemente a `-enek`,
+   `-anek` o `-enk`. Ejemplo: *Ostapenko* → **Ostapenek**.
+2. `-ić` / `-ich` (serbio/macedonio) se transforma a `-ik`, `-ek` o
+   `-rek`. Ejemplo: *Pavlović* → **Pavlorek**.
+3. `-ov` / `-ev` es admisible, pero debe combinarse con una raíz que haya
+   recibido transformación fantástica para no resultar en un nombre real.
+
+Estos sufijos no están prohibidos, pero requieren una alteración visible que
+los aleje de su forma real directa. La cantera de esta guía ya incluye nombres
+con estas transformaciones aplicadas.
 
 ## Aplicación editorial
 
