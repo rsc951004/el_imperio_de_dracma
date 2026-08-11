@@ -84,14 +84,20 @@ de talar los Ravun para el éxodo.
 ### A-06. Ritos sokunar y dominio de los Grimm
 
 Los Sokunar llevaron al Gherin las técnicas rituales que más tarde permitirían
-dominar a los Grimm en Sindria. Fueron los Sokunar quienes transmitieron esos
-ritos a los sindrios.
+dominar a los Grimm en Sindria. En un momento de la historia aún no establecido,
+algunos brumenses transmitieron ese arte a los sindrios.
 
-La técnica volvió a salir a la luz casi hacia la mitad de la dinastía Amschel.
-En la época de Sandor Solarys, son pocos los habitantes de la Bruma que todavía
-preservan esos ritos.
+### A-07. Nombres de los tres reinos de la Bruma
 
-Quedan pendientes la naturaleza concreta del dominio sobre los Grimm, el modo y
-la fecha de transmisión a Sindria, el motivo de su ocultamiento, quién lo hizo
-reaparecer durante la dinastía Amschel y qué comunidades sokunar conservan los
-ritos en el presente.
+Los nombres propuestos para los tres reinos sokunar son:
+
+| Reino actual | Nombre propuesto | Nombre impuesto durante el Raikim |
+|---|---|---|
+| Kyst | **Kystvar** | **Kystgard** |
+| Lyng | **Lyngven** | **Lyngard** |
+| Bjorn | **Biormyr** | **Biorgard** |
+
+Las formas propuestas conservan una sonoridad danesa-islandesa, pero se leen
+con claridad en español: Kystvar, Lyngven y Biormyr. La sustitución de los
+nombres canónicos actuales y de sus formas históricas requiere las fases
+posteriores del proceso y un volcamiento autorizado.
