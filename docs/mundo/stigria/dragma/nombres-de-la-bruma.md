@@ -1,6 +1,6 @@
 # Nombres de la Tierra de la Bruma
 
-Esta guía rige los nombres de personas y casas de Kyst, Lyng, Bjorn y otros
+Esta guía rige los nombres de personas y casas de Kystvar, Lyngven, Biormyr y otros
 territorios vinculados con la Bruma.
 
 ## Fuente de sonoridad

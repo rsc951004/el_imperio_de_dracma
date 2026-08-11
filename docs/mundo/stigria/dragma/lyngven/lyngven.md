@@ -1,4 +1,4 @@
-# Lyng
+# Lyngven
 
 ## Tipo
 
@@ -8,7 +8,7 @@ Reino del Imperio de Dragma.
 
 | Campo | Valor |
 |-------|-------|
-| **Nombre durante el Raikim** | Lynggard |
+| **Nombre durante el Raikim** | Lyngard |
 | **Capital** | Brekk |
 | **Casa fundadora** | Kjarven |
 | **Casa real** | Kjarven |
@@ -21,13 +21,15 @@ Reino del Imperio de Dragma.
 
 ## Geografía
 
-Lyng ocupa el corazón agrícola de la Tierra de la Bruma. Sus llanuras fértiles,
+Lyngven ocupa el corazón agrícola de la Tierra de la Bruma. Sus llanuras fértiles,
 brezales, pasturas, campos de trigo y otros cultivos compatibles con el clima
-abastecen a Kyst, Bjorn y parte de Eldengaria.
+abastecen a Kystvar, Biormyr y parte de Eldengaria.
 
 ## Cultura
 
-La familia es el pilar de la sociedad lyngardesa. Los vínculos por sangre, matrimonio y adopción son motivo de orgullo. Sus habitantes son hospitalarios, trabajadores y especialmente protectores de sus cosechas.
+La familia es el pilar de su sociedad. Los vínculos por sangre, matrimonio y
+adopción son motivo de orgullo. Sus habitantes son hospitalarios, trabajadores
+y especialmente protectores de sus cosechas.
 
 Las casas, silos y templos se construyen tradicionalmente con madera salvaje endurecida.
 
@@ -37,27 +39,27 @@ llegados desde Grimheim.
 
 ## Historia
 
-Lyng existía antes del Raikim. Valgard lo conquistó y le impuso el nombre de Lynggard. Durante la Rebelión del Amanecer recuperó su nombre.
+El Raikim creó Lyngard como Dominio ganadero de Unland. Tras la Rebelión del
+Amanecer, el reino de Lyngven reemplazó aquel nombre.
 
-La Casa Kjarven recibió la primera corona de Lyng y conserva la corona en la
+La Casa Kjarven recibió la primera corona de Lyngven y conserva la corona en la
 Edad de Oro.
 
-Los antepasados de los lyngardeses pertenecían a la Gente de la Bruma llegada
-desde Grimheim durante la Edad de la Podredumbre. Durante la penitencia del
-Raikim, las aldeas del interior se agruparon alrededor de Brekk y adoptaron Lyng
-como nombre político. La ganadería, el pastoreo y la agricultura definieron su
-identidad.
+Los antepasados de sus habitantes pertenecían a la Gente de la Bruma llegada
+desde Grimheim durante la Edad de la Podredumbre. La ganadería y el pastoreo
+definieron la especialización impuesta a Lyngard y la identidad posterior de
+Lyngven.
 
 ## Economía
 
 Ganadería, pastoreo, cereales —incluido el trigo— y otros cultivos compatibles
-con su clima. Bjorn fija los precios y organiza la comercialización y la
+con su clima. Biormyr fija los precios y organiza la comercialización y la
 distribución de esta producción. Esa dependencia mercantil no reduce la
-independencia política de Lyng.
+independencia política de Lyngven.
 
 ## Relaciones en la Bruma
 
-Lyng coopera habitualmente con Kyst y Bjorn. Las fronteras internas de los tres
+Lyngven coopera habitualmente con Kystvar y Biormyr. Las fronteras internas de los tres
 reinos son poco rígidas, pero cada uno conserva su propia corona. Sus Reikar
 actuales son primos. La comparación popular con una Triple Corona les desagrada
 por la relación amorosa que unió a los integrantes de la antigua Triple Corona

@@ -21,9 +21,9 @@ Fuera de las murallas, Stigria enfermó lentamente. Los días se acortaron, la h
 
 ## La Gente de la Bruma
 
-La podredumbre convirtió Grimheim en una costa pantanosa y ponzoñosa. Sus
-habitantes meridionales huyeron por mar, rodearon el extremo sur de Stömur y
-entraron en Unland por el Fenn.
+La podredumbre convirtió Grimheim en una costa pantanosa y ponzoñosa. Los
+Sokunar, llamados Gente de la Bruma por los Gheran, huyeron por mar con semillas
+de Ravun, rodearon el extremo sur de Stömur y entraron en Unland por el Fenn.
 
 Su llegada desplazó hacia el Gran Valle a quienes ya habitaban Unland. Val el
 Terrible y parte del Bloque de Hierro intentaron expulsarlos; la Gente de la

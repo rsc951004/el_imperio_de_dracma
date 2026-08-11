@@ -2,6 +2,30 @@
 
 ## Revisiones editoriales
 
+### Volcamiento: Gente de la Bruma (2026-08-10)
+
+Se ejecutó el volcamiento autorizado de las resoluciones R-01 a R-24 del
+proceso de la Gente de la Bruma. El pueblo quedó documentado con el autónimo
+**Sokunar**; Sokun, Ymir y la bestia de metal se asentaron como tradición
+religiosa no confirmada. Se incorporaron la Bruma como manto de ocultamiento,
+el Ravun, sus efectos sobre los Grimm y su bosque histórico, sin identificar al
+jotun incorpóreo con Sokun.
+
+La Lumbre del Gran Faro quedó definida como una amalgama de hojas secas de
+Ravun y polvo de Stömur. Se mantuvieron reservados la vía, el momento y los
+custodios de la transmisión de ese saber a Esteria. También se incorporó el
+antecedente, sin fecha ni desarrollo adicional, de que algunos brumenses
+enseñaron a Sindria el arte de domar Grimm.
+
+La penitencia de Unland se corrigió como una condena sin plazo dentro del
+Gherin, con retorno individual a Grimheim como alternativa de muerte casi
+segura. El Raikim creó Kystgard, Lyngard y Biorgard como Dominios de trabajo
+forzado dedicados, respectivamente, a pesca, ganadería y agricultura. Tras la
+Rebelión del Amanecer surgieron Kystvar, Lyngven y Biormyr; se renombraron sus
+fichas y rutas, y se actualizaron las referencias activas. La historia oriental
+reservada, la transmisión de la Lumbre y el desarrollo específico de la
+identidad comercial y forestal de Biormyr permanecen fuera del canon.
+
 ### Volcamiento: identidad de los doce reinos (2026-08-05)
 
 Se ejecutó el volcamiento autorizado de las resoluciones N-01 a N-18. La

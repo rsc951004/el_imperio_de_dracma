@@ -25,7 +25,7 @@ Vesperya.
 ## Afiliación geográfica
 **Costas del Verano.** El más oriental y el más pequeño en extensión de los tres
 reinos del Verano, al este de Zephyrya. Su costa sur da a mar abierto; su flanco
-este bordea el **Estrecho del Tridente**, que separa Vesperya de Kyst. Los
+este bordea el **Estrecho del Tridente**, que separa Vesperya de Kystvar. Los
 canales conducen hacia la **Bahía de los Reyes**, donde se encuentra el puerto
 de Eldengaria. Nombres de sonoridad grecolatina (convención de escritura, no
 cultura del mundo).
@@ -53,7 +53,7 @@ canales dibujan un tridente y constituyen el acceso marítimo controlado por
 Vesperya hacia la **Bahía de los Reyes** y Eldengaria. Talasya se encuentra en
 la ribera del Tridente, sobre la costa sureste de Dürr.
 
-Kyst ocupa la orilla opuesta. Sus acantilados occidentales miran hacia los
+Kystvar ocupa la orilla opuesta. Sus acantilados occidentales miran hacia los
 canales, mientras Vesperya controla el acceso desde el mar. Ningún barco entra
 al Imperio sin autorización vesperiana. El trazado, la anchura, la profundidad
 y la disposición cartográfica exacta de los canales permanecen sin definir.
@@ -149,7 +149,7 @@ Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; *
 - **Lysarya:** hermano del norte. Aburridos y estirados. Demasiado parecidos al Hierro. Cordialidad sin entusiasmo.
 - **Alessya:** cuna sagrada de los Hijos del Sol y protectorado vinculado a la historia del Verano.
 - **Eldengaria:** la capital que protegen. Relación de dependencia mutua.
-- **Kyst:** al otro lado del estrecho. Vecinos silenciosos. Se observan desde orillas opuestas.
+- **Kystvar:** al otro lado del estrecho. Vecinos silenciosos. Se observan desde orillas opuestas.
 
 ## Referencias
 - `docs/12-reinos.md`

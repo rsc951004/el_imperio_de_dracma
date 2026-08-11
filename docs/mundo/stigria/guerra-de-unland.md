@@ -37,18 +37,19 @@ Los tres jarls fueron decapitados y reemplazados por señores de Dominio Sangre
 de Hierro. El Raikim estableció tres Dominios en Unland:
 
 - **Kystgard**;
-- **Lynggard**;
-- **Bjorngard**.
+- **Lyngard**;
+- **Biorgard**.
 
 ## Penitencia
 
 Rudgar calificó el pacto de los jarls como una **traición a la vida misma**.
-Los habitantes brumenses quedaron sujetos durante cien años a estas condiciones:
+Los habitantes brumenses quedaron sujetos a estas condiciones mientras
+permanecieran en el Gherin:
 
-- no podían abandonar Unland;
+- no podían abandonar el Gherin;
 - cualquier contacto con el Verano se castigaba con la muerte;
-- cumplido el siglo, podían entrar o salir por mar hacia Grimheim si así lo
-  deseaban.
+- podían regresar individualmente a Grimheim, donde les esperaba una muerte
+  casi segura.
 
 ## Referencias
 

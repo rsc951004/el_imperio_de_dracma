@@ -22,8 +22,9 @@ producido en la Edad de Oro.
 
 La Guardia mantiene la ley del Paso, administra Esteria, custodia el Gran Faro
 y sus reservas de Lumbre, y vigila el Foso de la Calamidad. No responde a
-Sindria ni reconoce su reclamación territorial sobre la ciudad. La composición
-y la fabricación de la Lumbre permanecen reservadas.
+Sindria ni reconoce su reclamación territorial sobre la ciudad. La Lumbre se
+compone de hojas secas de Ravun y polvo de Stömur; la transmisión de ese saber
+hasta Esteria permanece reservada.
 
 Antes del decreto de Sigmar, la Guardia entregó Grimm al señor deficiente de
 Esteria una generación después del Gran Concilio del Hielo. Desde entonces,

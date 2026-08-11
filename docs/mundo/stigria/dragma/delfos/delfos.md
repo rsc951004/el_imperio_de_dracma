@@ -52,7 +52,7 @@ Equipados con sus propios minerales, los cazadores delfitas son los únicos capa
 ### Relación con Esteria
 La relación histórica entre Delfos y el Gran Faro de Esteria permanece
 pendiente. El Faro quema Lumbre, pero no se ha establecido relación alguna
-entre Delfos y la composición, fabricación u origen de ese material.
+entre Delfos y la transmisión a Esteria del saber para prepararla.
 
 ## Referencias
 - `docs/mundo.md`

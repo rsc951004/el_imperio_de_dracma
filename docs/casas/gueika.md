@@ -6,16 +6,16 @@
 |-------|-------|
 | **Nombre** | Gueika |
 | **Tipo** | Casa común |
-| **Reino de origen** | Bjorn (Tierra de la Bruma) |
+| **Reino de origen** | Biormyr (Tierra de la Bruma) |
 | **Lema** | Pendiente |
 | **Escudo** | Pendiente |
 | **Fundador** | Pendiente |
 
 ## Historia y descripción
 
-Casa común originaria de Bjorn, en la Tierra de la Bruma. Sin estatus nobiliario. Residencia humilde comparada con las casas nobles, pero descrita como cálida y llena de vida. Sandor Solarys encontró allí un calor de hogar que nunca había sentido en su propia casa.
+Casa común originaria de Biormyr, en la Tierra de la Bruma. Sin estatus nobiliario. Residencia humilde comparada con las casas nobles, pero descrita como cálida y llena de vida. Sandor Solarys encontró allí un calor de hogar que nunca había sentido en su propia casa.
 
-La casa tiene la particularidad de contar con un matrimonio mixto Bruma-Hierro —Kenvan Gueika (bjornés) y Freya Fenec (sturmgardiana)—, una unión extremadamente rara en Dragma.
+La casa tiene la particularidad de contar con un matrimonio mixto Bruma-Hierro —Kenvan Gueika (brumense de Biormyr) y Freya Fenec (sturmgardiana)—, una unión extremadamente rara en Dragma.
 
 ## Miembros relevantes
 

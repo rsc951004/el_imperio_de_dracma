@@ -32,9 +32,9 @@ Las Puertas Rojas bloquean el paso entre el Espolón de Dunkel y Dorn.
 ## Faro posterior
 
 El Gran Faro de Esteria es posterior a la Edad de Plata. En él se quema la
-**Lumbre**, un material fabricado cuya combustión produce la luz amarilla y sus
-efectos. La composición, la fabricación y el origen del material permanecen
-reservados.
+**Lumbre**, una amalgama de hojas secas de Ravun y polvo de Stömur. Su
+combustión produce una luz amarilla intensa que quema y debilita a Grimm y
+poseídos. La transmisión de ese saber hasta Esteria permanece reservada.
 
 ## Reclamación de Sindria
 

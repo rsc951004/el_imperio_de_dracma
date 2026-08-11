@@ -11,11 +11,11 @@
 | 5 | Lysarya | Mirandys | Costas del Verano | Reikar de la Colina del Verano | Lykandros Mirandys |
 | 6 | Veleskaria | Korzan | Dresk | Reikar de la Puerta Carmesí | Pendiente |
 | 7 | Zephyrya | Kalistrys | Costas del Verano | Reikar del Ocaso | Dimethys Kalistrys |
-| 8 | Kyst | Fjolvar | Tierra de la Bruma | Reikar de la Costa Gris | Pendiente |
-| 9 | Lyng | Kjarven | Tierra de la Bruma | Reikar de los Campos Esmeralda | Pendiente |
+| 8 | Kystvar | Fjolvar | Tierra de la Bruma | Reikar de la Costa Gris | Pendiente |
+| 9 | Lyngven | Kjarven | Tierra de la Bruma | Reikar de los Campos Esmeralda | Pendiente |
 | 10 | Vesperya | Valiryos | Costas del Verano | Reikar del Tridente | Oryphos Valiryos |
 | 11 | Sindria | Velkar | Weissen | Reikar del Foso | Pendiente |
-| 12 | Bjorn | Hjorven | Tierra de la Bruma | Reikar del Bosque | Pendiente |
+| 12 | Biormyr | Hjorven | Tierra de la Bruma | Reikar del Bosque | Pendiente |
 
 **Reikar** es el título ceremonial invariable de las doce coronas. En lengua
 común se utiliza siempre **Rey**, también con independencia del género. Los
@@ -48,14 +48,14 @@ Sindria ocupa Weissen. No forman parte del Paso del Oriente.
 
 ### Tierra de la Bruma
 
-Kyst, Lyng y Bjorn descienden de la Gente de la Bruma llegada desde Grimheim
-durante la Edad de la Podredumbre. Los tres territorios fueron sometidos como
-Kystgard, Lynggard y Bjorngard, y recuperaron sus nombres tras la Rebelión del
-Amanecer.
+Kystvar, Lyngven y Biormyr descienden de la Gente de la Bruma llegada desde
+Grimheim durante la Edad de la Podredumbre. El Raikim creó los Dominios de
+Kystgard, Lyngard y Biorgard; tras la Rebelión del Amanecer nacieron los tres
+reinos actuales.
 Durante la penitencia impuesta por el Raikim, los asentamientos brumenses se
-organizaron alrededor de tres funciones: Kyst conservó los puertos y la pesca,
-Lyng concentró los cultivos y Bjorn protegió las rutas comerciales y el último
-bosque sagrado. Esas funciones dieron forma a sus identidades políticas.
+organizaron alrededor de tres funciones: Kystgard se dedicó a la pesca,
+Lyngard a la ganadería y Biorgard a la agricultura. Las identidades posteriores
+de los reinos se formaron a lo largo de siglos.
 
 ## Rebelión del Amanecer
 
@@ -74,11 +74,11 @@ Dragma.
 | Lysarya | Frutas dulces, vinos, piedad y trabajo |
 | Veleskaria | Principal centro de dones y maestrías; formación Maeggi y de cazadores de Grimm |
 | Zephyrya | Belleza, serenidad, costas violetas y segundo núcleo místico |
-| Kyst | Puerto Gris, pesca y cielos nublados |
-| Lyng | Pastoreo, ganadería, brezales, cereales y agricultura |
+| Kystvar | Puerto Gris, pesca y cielos nublados |
+| Lyngven | Pastoreo, ganadería, brezales, cereales y agricultura |
 | Vesperya | Libertad, navegación y Estrecho del Tridente |
 | Sindria | Herencia carmesí, hielo, nieve, Grimm y frontera de Weissen |
-| Bjorn | Comercio del sur, ruta a Khalos, bosques reforestados y bosque sagrado |
+| Biormyr | Comercio del sur, ruta a Khalos, bosques reforestados y bosque sagrado |
 
 ## Claves históricas
 

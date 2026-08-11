@@ -43,12 +43,12 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
 | **Möes Tábura** | Desarrollar su jerarquía, organización y trámites internos de clasificación. |
 | **Creación de Invocadores** | Definir la autoridad, los permisos, el procedimiento, los materiales y los riesgos concretos del rito, actualmente casi prohibido. |
-| **Lumbre del Gran Faro** | Definir la composición, fabricación y origen del material sin alterar sus efectos ya establecidos. |
+| **Lumbre del Gran Faro** | Definir la vía, el momento y los custodios que transmitieron a Esteria el saber para preparar la Lumbre. |
 | **Sucesión de Landwalts** | Definir el procedimiento posterior a una objeción de la Dex Tábura, la compatibilidad con la jefatura de casa, los requisitos personales y las competencias administrativas detalladas. |
 | **Gards históricos** | Fijar nombres propios únicamente cuando exista una decisión histórica; no proyectar hacia el pasado los nombres de los cinco Víer imperiales. |
 | **Cartografía de los Víer** | Definir ubicación exacta, límites, extensión, accidentes internos y composición geográfica de Rostheim, Eldenfeld, Rissbruck, Drakenau y Vesterfeld mediante un soporte autorizado. |
 | **Jefaturas de casas** | Desarrollar los métodos particulares de sucesión de las casas que aún no los tengan definidos. |
-| **Monarcas de la Bruma** | Fijar las identidades personales de los Reikar actuales de Kyst, Lyng y Bjorn, ya establecidos como primos. |
+| **Monarcas de la Bruma** | Fijar las identidades personales de los Reikar actuales de Kystvar, Lyngven y Biormyr, ya establecidos como primos. |
 
 ## Misterios y desarrollos posteriores
 

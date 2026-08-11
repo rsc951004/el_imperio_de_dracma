@@ -18,7 +18,7 @@ más grande del Verano— cuando su hijo **Eryk Albyon** se enamoró en secreto 
 estaba prometida al príncipe de Zephyrya, **Astryón Aetheryon**, como parte de
 un pacto para unir Alessya a Zephyrya.
 
-La noche anterior al compromiso, Thalyssa huyó. Eryk la esperaba en la costa de Kyst. Juntos partieron hacia Khalos. Nunca llegaron.
+La noche anterior al compromiso, Thalyssa huyó. Eryk la esperaba en la costa de Kystvar. Juntos partieron hacia Khalos. Nunca llegaron.
 
 Cuando Alessya y Zephyrya acusaron a Lysarya de secuestro, Kyros respondió
 acusándolos a ellos de asesinato. Estalló la **Guerra de los Hermanos**. Kyros

@@ -24,9 +24,10 @@ la Bruma, los señoríos habían sido impuestos desde el Hierro.
 La condena formal del Verano al trabajo para el Hierro duró cien años. Al
 concluir, sus consecuencias sociales y políticas persistieron bajo el Raikim:
 los Portadores no recuperaron su libertad mientras el régimen subsistió. La
-Bruma, en cambio, permaneció sometida a una penitencia perpetua en Unland, con
-prohibición de abandonar el territorio y pena de muerte por el contacto con el
-Verano.
+Bruma permaneció sometida a una penitencia sin plazo mientras sus habitantes
+permanecieran en el Gherin. El contacto con el Verano se castigaba con la
+muerte; el único abandono permitido era el regreso individual a Grimheim, una
+elección de muerte casi segura.
 
 En Weissen y Dresk, la amenaza de los Grimm mantuvo cerradas las Puertas Rojas
 del Paso de Dresk. El Norte comprendía ambos territorios: Weissen carecía de

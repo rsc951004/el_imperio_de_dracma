@@ -72,7 +72,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Llave de Dürr | Insignia histórica | Diadema entregada por Rudgar a Aurethyron. | [Ver ficha](mundo/stigria/llave-de-durr.md) |
 | Acero del Alba | Material | Aleación que hiere a Grimm y poseídos. | [Ver ficha](mundo/stigria/acero-del-alba.md) |
 | Kantra | Ayuda para la maestría | Palabra o acción elegida o creada como apoyo mental para una maestría. | [Ver ficha](mundo/stigria/kantra.md) |
-| Guerra de Unland | Conflicto | Campaña de Recuperación de Unland y origen de Kystgard, Lynggard y Bjorngard. | [Ver ficha](mundo/stigria/guerra-de-unland.md) |
+| Guerra de Unland | Conflicto | Campaña de Recuperación de Unland y origen de Kystgard, Lyngard y Biorgard. | [Ver ficha](mundo/stigria/guerra-de-unland.md) |
 | Emisarios de la Ruina | Servidores del Rey Podrido | Personas entregadas voluntariamente al Rey Podrido. | [Ver ficha](mundo/stigria/emisarios-de-la-ruina.md) |
 | Roshdom | Fortaleza histórica | Jaula Negra de Rauven y escenario del segundo sellado. | [Ver ficha](mundo/stigria/roshdom.md) |
 | Gente de la Bruma | Pueblo histórico | Pobladores procedentes de Grimheim que se establecieron en Unland. | [Ver ficha](mundo/stigria/gente-de-la-bruma.md) |
@@ -107,11 +107,11 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | 5 | Lysarya | Costas del Verano | Mirandys | Reikar de la Colina del Verano | Rey Lykandros Mirandys | [Ver ficha](mundo/stigria/dragma/lysarya/lysarya.md) |
 | 6 | Veleskaria | Dresk | Korzan | Reikar de la Puerta Carmesí | Pendiente | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
 | 7 | Zephyrya | Costas del Verano | Kalistrys | Reikar del Ocaso | Rey Dimethys Kalistrys | [Ver ficha](mundo/stigria/dragma/zephyrya/zephyrya.md) |
-| 8 | Kyst | Tierra de la Bruma | Fjolvar | Reikar de la Costa Gris | Pendiente | [Ver ficha](mundo/stigria/dragma/kyst/kyst.md) |
-| 9 | Lyng | Tierra de la Bruma | Kjarven | Reikar de los Campos Esmeralda | Pendiente | [Ver ficha](mundo/stigria/dragma/lyng/lyng.md) |
+| 8 | Kystvar | Tierra de la Bruma | Fjolvar | Reikar de la Costa Gris | Pendiente | [Ver ficha](mundo/stigria/dragma/kystvar/kystvar.md) |
+| 9 | Lyngven | Tierra de la Bruma | Kjarven | Reikar de los Campos Esmeralda | Pendiente | [Ver ficha](mundo/stigria/dragma/lyngven/lyngven.md) |
 | 10 | Vesperya | Costas del Verano | Valiryos | Reikar del Tridente | Rey Oryphos Valiryos | [Ver ficha](mundo/stigria/dragma/vesperya/vesperya.md) |
 | 11 | Sindria | Weissen | Velkar | Reikar del Foso | Pendiente | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
-| 12 | Bjorn | Tierra de la Bruma | Hjorven | Reikar del Bosque | Pendiente | [Ver ficha](mundo/stigria/dragma/bjorn/bjorn.md) |
+| 12 | Biormyr | Tierra de la Bruma | Hjorven | Reikar del Bosque | Pendiente | [Ver ficha](mundo/stigria/dragma/biormyr/biormyr.md) |
 
 **Valle de Hierro** (1-4): Eisengard, Guldengard, Flemmengard y Sturmgard. Eisengard concentra el Verilium y la forja; Guldengard concentra el oro y la acuñación del Ghild.
 
@@ -124,7 +124,7 @@ de Plata.
 
 **Dresk y Weissen** (6, 11): Veleskaria ocupa Dresk y Sindria ocupa Weissen. Sus nombres durante el Raikim fueron Veleskgard y Sindgard. El **Paso del Oriente** nombra exclusivamente a Esteria, el Foso y el Riegel.
 
-**Tierra de la Bruma** (8, 9, 12): Kyst, Lyng y Bjorn descienden de la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. Los tres reinos existían antes del Raikim: fueron conquistados, no creados. Sus funciones históricas quedaron diferenciadas por la pesca, la agricultura y el comercio forestal.
+**Tierra de la Bruma** (8, 9, 12): Kystvar, Lyngven y Biormyr descienden de la Gente de la Bruma llegada desde Grimheim durante la Edad de la Podredumbre. El Raikim creó los Dominios de Kystgard, Lyngard y Biorgard; los reinos actuales nacieron después de la Rebelión del Amanecer. Sus funciones forzadas fueron, respectivamente, pesca, ganadería y agricultura.
 
 La Rebelión del Amanecer pertenece a la Edad de la Tiranía. Derrotó a Grimar Valgard y precedió a la fundación de Dragma.
 
@@ -138,7 +138,7 @@ esos Dominios hasta los reinos actuales pertenece a la Edad de la Tiranía y a
 los primeros periodos imperiales. Suntarys legó el Edicto del Amanecer y una
 base política para la ruptura con el Raikim; su fundación remota y su desarrollo
 narrativo permanecen reservados.
-Los tres reinos de la Tierra de la Bruma son **Kyst** —puerto pesquero—, **Lyng** —corazón agrícola— y **Bjorn** —centro comercial y guardián del bosque sagrado—.
+Los tres reinos de la Tierra de la Bruma son **Kystvar** —puerto pesquero—, **Lyngven** —corazón agrícola— y **Biormyr** —centro comercial y guardián del bosque sagrado—.
 
 #### Capital imperial
 

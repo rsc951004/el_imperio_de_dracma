@@ -48,8 +48,10 @@ confinado durante la incursión.
 ## Faro y apertura de Esteria
 
 El Gran Faro fue construido después de la Edad de Plata. En él se quema la
-**Lumbre**, un material fabricado cuya combustión produce la luz amarilla y sus
-efectos. La composición y la fabricación de la Lumbre permanecen reservadas.
+**Lumbre**, una amalgama de hojas secas de Ravun y polvo de Stömur. Su
+combustión produce una luz amarilla intensa que quema y debilita a Grimm y
+poseídos. La vía, el momento y los custodios que transmitieron este saber a
+Esteria permanecen reservados.
 
 La Guardia Amarilla mantiene las salas del Faro, los depósitos del material y
 la barrera que protege el Paso.

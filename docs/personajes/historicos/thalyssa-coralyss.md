@@ -18,7 +18,7 @@ castillos de mármol blanco y sábanas de seda. Pero Thalyssa ya se había entre
 a **Eryk Albyon**, príncipe de Lysarya —el reino rural de huertos y viñedos del
 norte—. Y estaba **embarazada** de él.
 
-La noche anterior a la gran celebración del compromiso, Thalyssa tomó un bote, cruzó a las costas de Kyst disfrazada de plebeya y se reunió con Eryk. Juntos partieron hacia **Khalos**, la ciudad libre donde ningún rey podía reclamarlos. **Nunca llegaron.** Algo sucedió en el camino.
+La noche anterior a la gran celebración del compromiso, Thalyssa tomó un bote, cruzó a las costas de Kystvar disfrazada de plebeya y se reunió con Eryk. Juntos partieron hacia **Khalos**, la ciudad libre donde ningún rey podía reclamarlos. **Nunca llegaron.** Algo sucedió en el camino.
 
 Su desaparición desencadenó la **Guerra de los Hermanos**. Su padre la declaró secuestrada por Lysarya; Zephyrya se sumó a la acusación. Lysarya respondió acusando a Zephyrya de asesinato. Miles murieron. Dos reyes fueron ejecutados. Tres casas —Coralyss, Aetheryon, Albyon— fueron borradas del Dex Códice.
 

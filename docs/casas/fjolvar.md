@@ -5,19 +5,19 @@
 | Campo | Valor |
 |-------|-------|
 | **Tipo** | Casa real |
-| **Reino** | Kyst |
+| **Reino** | Kystvar |
 | **Posición dinástica** | Casa fundadora y presente definitiva |
 | **Título** | Reikar de la Costa Gris |
 
 ## Historia
 
-Aelvar Fjolvar fue el primer rey de Kyst. La Casa Fjolvar conserva la corona en
+Aelvar Fjolvar fue el primer rey de Kystvar. La Casa Fjolvar conserva la corona en
 la Edad de Oro; no existe una casa intermedia en la continuidad aprobada.
 
 ## Miembros relevantes
 
-- **Aelvar Fjolvar:** primer rey de Kyst.
+- **Aelvar Fjolvar:** primer rey de Kystvar.
 
 ## Referencias
 
-- `docs/mundo/stigria/dragma/kyst/kyst.md`
+- `docs/mundo/stigria/dragma/kystvar/kystvar.md`

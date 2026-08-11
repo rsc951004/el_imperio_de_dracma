@@ -86,7 +86,7 @@ Durante el reinado del emperador **Edrik Mormund** (5.º de la dinastía), el no
 
 Lo que Daryón no sabía era que Thalyssa ya era amante en secreto de **Eryk Albyon**, príncipe de Lysarya e hijo del rey **Kyros Albyon**. Y estaba embarazada.
 
-La noche anterior al compromiso, Thalyssa tomó un bote y huyó. Eryk la esperaba en la costa de Kyst. Juntos partieron hacia **Khalos** —ciudad libre, refugio imposible de allanar—. **Nunca llegaron.** Su desaparición es un misterio hasta hoy: el cuento popular de los **Príncipes Perdidos**.
+La noche anterior al compromiso, Thalyssa tomó un bote y huyó. Eryk la esperaba en la costa de Kystvar. Juntos partieron hacia **Khalos** —ciudad libre, refugio imposible de allanar—. **Nunca llegaron.** Su desaparición es un misterio hasta hoy: el cuento popular de los **Príncipes Perdidos**.
 
 Alessya y Zephyrya acusaron a Lysarya de secuestro. Lysarya acusó a Zephyrya de asesinato. Estalló la **Guerra de los Hermanos**: zephyrios y alessyanos contra lisarios. **Hijos del Sol contra Hijos del Sol.**
 

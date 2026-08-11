@@ -49,11 +49,11 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 | 5 | Lysarya | Costas del Verano | Mirandys | Reikar de la Colina del Verano |
 | 6 | Veleskaria | Dresk | Korzan | Reikar de la Puerta Carmesí |
 | 7 | Zephyrya | Costas del Verano | Kalistrys | Reikar del Ocaso |
-| 8 | Kyst | Tierra de la Bruma | Fjolvar | Reikar de la Costa Gris |
-| 9 | Lyng | Tierra de la Bruma | Kjarven | Reikar de los Campos Esmeralda |
+| 8 | Kystvar | Tierra de la Bruma | Fjolvar | Reikar de la Costa Gris |
+| 9 | Lyngven | Tierra de la Bruma | Kjarven | Reikar de los Campos Esmeralda |
 | 10 | Vesperya | Costas del Verano | Valiryos | Reikar del Tridente |
 | 11 | Sindria | Weissen | Velkar | Reikar del Foso |
-| 12 | Bjorn | Tierra de la Bruma | Hjorven | Reikar del Bosque |
+| 12 | Biormyr | Tierra de la Bruma | Hjorven | Reikar del Bosque |
 
 ## Los 7 Protectorados
 

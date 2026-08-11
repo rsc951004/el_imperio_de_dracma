@@ -49,9 +49,11 @@ personas entregadas voluntariamente al Rey Podrido que podían ocultarse entre l
 población. Stelian regresó desde Esteria y combatió junto a Rudgar.
 
 Tras la guerra, el Raikim estableció en Unland los Dominios de Kystgard,
-Lynggard y Bjorngard. Los brumenses quedaron sometidos a una penitencia de cien
-años: no podían abandonar Unland y todo contacto con el Verano se castigaba con
-la muerte.
+Lyngard y Biorgard. El trabajo forzado organizó Kystgard alrededor de la pesca,
+Lyngard de la ganadería y Biorgard de la agricultura. Los brumenses no podían
+abandonar el Gherin ni mantener contacto con el Verano, castigado con la muerte;
+solo podían regresar individualmente a Grimheim, una elección de muerte casi
+segura.
 
 ## Saberes de la resistencia a la Podredumbre
 
@@ -90,7 +92,7 @@ Gherin:
 |---|---|
 | Hierro | Flemmengard, Sturmgard, Eisengard y Guldengard |
 | Dürr | Lysgard, Zephyrgard y Vespergard |
-| Unland | Kystgard, Lynggard y Bjorngard |
+| Unland | Kystgard, Lyngard y Biorgard |
 | Dresk y Weissen | Veleskgard y Sindgard |
 | Eldenheim | Gran Valle, posesión directa del Raik |
 | Esteria | Enclave de la Casa Therin y origen de la Guardia del Norte; fuera de la cuenta de doce |

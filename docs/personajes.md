@@ -27,7 +27,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
 | Sandor Solarys | Cronista | Erudito de Khalos, autor de las *Crónicas*. No es portador. Noble de la Casa Solarys. | [Ver ficha](personajes/sandor-solarys.md) |
-| Yanos Gueika | Soldado | Guardia de la Ciudadela de Khalos. Casa común Gueika (Bjorn). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |
+| Yanos Gueika | Soldado | Guardia de la Ciudadela de Khalos. Casa común Gueika (Biormyr). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |
 | Rudgar Valgard | Personaje histórico | Vencedor del Rey Podrido, primer Raik y fundador del Raikim unificado. | [Ver ficha](personajes/rudgar-valgard.md) |
 | Astrid | Personaje histórico | Esposa desaparecida de Rudgar durante la conquista del Gherin. | [Ver ficha](personajes/astrid.md) |
 | Odalric Valgard | Personaje histórico | Descendiente de Val el Terrible y abuelo de Rudgar. | [Ver ficha](personajes/odalric-valgard.md) |
@@ -103,7 +103,7 @@ establecido, la identidad permanece pendiente.
 | Valiryos Thalyros | Rey fundador | Primer rey de Vesperya. | [Ver ficha](personajes/historicos/valiryos-thalyros.md) |
 | Valmir Voresk | Rey fundador | Señor de Veleskgard y primer rey de Veleskaria. | [Ver ficha](personajes/historicos/valmir-voresk.md) |
 | Zorven Drazar | Rey fundador | Señor de Sindgard y primer rey de Sindria. | [Ver ficha](personajes/historicos/zorven-drazar.md) |
-| Aelvar Fjolvar | Rey fundador | Primer rey de Kyst. | [Ver ficha](personajes/historicos/aelvar-fjolvar.md) |
+| Aelvar Fjolvar | Rey fundador | Primer rey de Kystvar. | [Ver ficha](personajes/historicos/aelvar-fjolvar.md) |
 | Raban Frosthain | Personaje histórico | Destinatario original de la promesa de incorporar Esteria. | [Ver ficha](personajes/historicos/raban-frosthain.md) |
 | Sylas Solarys | Miembro de Tábura | Tío y tutor de Loryan Solarys; espía de la Sish Tábura. | [Ver ficha](personajes/historicos/sylas-solarys.md) |
 | Dyas Solarys | Explorador histórico | Tatarabuelo de Sandor Solarys y explorador de Erebia. | [Ver ficha](personajes/historicos/dyas-solarys.md) |
