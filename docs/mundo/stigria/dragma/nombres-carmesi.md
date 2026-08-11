@@ -37,15 +37,25 @@ Esteria cuando corresponda.
 Los nombres masculinos pueden combinar los siguientes bloques, sin que la lista
 sea exhaustiva:
 
-- Inicios: `Dr-`, `Vr-`, `Kr-`, `Z-`, `V-`, `R-`, `D-`, `Kor-`, `Mir-`, `Br-`, `Gr-`, `Sl-`, `St-`, `Ml-`, `N-`, `S-`, `B-`, `G-`, `T-`, `F-`, `L-`, `Y-`, `M-`, `P-`, `O-`, `H-`.
-- Centros: `-av-`, `-or-`, `-ar-`, `-ev-`, `-an-`, `-ir-`, `-ov-`, `-rad-`, `-mil-`, `-en-`, `-ol-`, `-az-`, `-am-`, `-er-`, `-yr-`, `-om-`.
-- Finales: `-ek`, `-en`, `-ar`, `-ev`, `-ik`, `-or`, `-mir`, `-an`, `-ov`, `-rek`, `-ok`, `-osh`, `-enk`, `-enek`, `-iv`, `-yk`, `-ko`.
+- Inicios: `Dr-`, `Vr-`, `Kr-`, `Z-`, `V-`, `R-`, `D-`, `Kor-`, `Mir-`,
+  `Br-`, `Gr-`, `Sl-`, `St-`, `Ml-`, `N-`, `S-`, `B-`, `G-`, `T-`, `F-`,
+  `L-`, `Y-`, `M-`, `P-`, `O-`, `H-`.
+- Centros: `-av-`, `-or-`, `-ar-`, `-ev-`, `-an-`, `-ir-`, `-ov-`,
+  `-rad-`, `-mil-`, `-en-`, `-ol-`, `-az-`, `-am-`, `-er-`, `-yr-`,
+  `-om-`.
+- Finales masculinos: `-ek`, `-en`, `-ar`, `-ev`, `-ik`, `-or`, `-mir`,
+  `-an`, `-ov`, `-rek`, `-ok`, `-osh`, `-enk`, `-enek`, `-iv`, `-yk`,
+  `-ko`.
+- Finales femeninos: `-a`, `-ia`, `-ina`, `-ana`, `-eva`, `-ava`, `-oslava`,
+  `-enka`, `-ika`, `-yra`, `-ora`.
 
 ## Cantera de nombres y casas
 
 Los siguientes nombres y casas están disponibles como raíces y modelos. Al
 utilizarlos, se aplican las transformaciones fantásticas de esta guía. No
 asignan origen, oficio, época ni función narrativa.
+
+### Nombres masculinos
 
 - Darven
 - Varek
@@ -101,7 +111,7 @@ asignan origen, oficio, época ni función narrativa.
 - Mirven
 - Radven
 - Zorik
-- Iulien 
+- Iulien
 - Branek
 - Strovan
 - Yardek
@@ -182,6 +192,100 @@ asignan origen, oficio, época ni función narrativa.
 - Petrenik
 - Vadimir
 - Venkorev
+
+### Nombres femeninos
+
+- Darvena
+- Vareka
+- Drazana
+- Rovena
+- Velkara
+- Korvena
+- Zareka
+- Mirdana
+- Odrika
+- Tareva
+- Dravena
+- Koradia
+- Radeka
+- Zorvena
+- Valmira
+- Kresana
+- Voranka
+- Derzaka
+- Vardeka
+- Krazena
+- Zoreva
+- Dragora
+- Veldrana
+- Marnika
+- Draveniya
+- Vorika
+- Kazrena
+- Mireva
+- Zarina
+- Odrana
+- Velisa
+- Zoriana
+- Velkana
+- Dravora
+- Dramira
+- Vareva
+- Korveka
+- Mirdeka
+- Mirvena
+- Radvena
+- Zorika
+- Braneka
+- Strovana
+- Yardeka
+- Nikreva
+- Vaslora
+- Zdrenika
+- Dobreka
+- Steva
+- Vlandera
+- Adrevana
+- Eslovena
+- Ostrena
+- Yarvena
+- Dravlena
+- Nirovena
+- Ustreka
+- Zenreka
+- Miklora
+- Sarneka
+- Slavora
+- Mladeva
+- Milara
+- Radorena
+- Vranora
+- Zoravika
+- Zoltana
+- Sandrena
+- Balozhana
+- Gavorena
+- Tamora
+- Andorika
+- Yanosena
+- Belarika
+- Istvora
+- Ershora
+- Vargala
+- Tarevena
+- Mikolava
+- Yarevora
+- Dymtrika
+- Serhora
+- Olexeneka
+- Romorena
+- Ivenka
+- Hryhorika
+- Petrenika
+- Vadimira
+
+### Casas
+
 - Casa Vardek
 - Casa Drazar
 - Casa Korven
