@@ -183,9 +183,9 @@ considera una forma de sometimiento.
 Después de la dinastía Enescu, Yuriev se convirtió en la segunda dinastía real
 de Valastir. Su último rey fue **Lazlor Yuriev**.
 
-La **Casa Cojocaru** conserva en secreto descendientes de Iulien Therin. Su
-relación pública con la casa real y su actuación durante la guerra civil
-permanecen pendientes.
+La **Casa Cojocaru** es la casa noble de Valastir que más integrantes de la
+Casa Therin recibió como cónyuges. Su relación pública con la casa real y su
+actuación durante la guerra civil permanecen pendientes.
 
 Las antiguas relaciones de Cojocaru con Veleskaria y de Yuriev con Sindria y la
 Casa Goros no se restauran por inferencia.
@@ -259,48 +259,36 @@ Podrido, no de una calamidad distinta.
 Queda pendiente si el término nació en Valastir, en el Gherin o en ambos
 ámbitos, y cómo varía su uso entre ellos.
 
-### A-11. Extinción y restauración pública de la Casa Therin
+### A-11. Dos ramas de la Casa Therin
 
-La **Casa Therin de Valastir** fue considerada aniquilada durante la guerra
-civil. Dentro del reino se cree que la casa quedó extinguida y que no dejó
-descendencia.
-
-Fuera de los registros públicos, el linaje sobrevivió: existen descendientes
-de **Iulien Therin**, llamado **Lux Therin** por los Hijos del Sol, dentro de la
-**Casa Cojocaru**.
-
-Esta continuidad distingue entre dos hechos:
-
-- la Casa Therin dejó de existir públicamente como institución y linaje
-  reconocido en Valastir hasta que Cassyan Therin la restauró;
-- la descendencia biológica de Iulien sobrevivió bajo el nombre Cojocaru.
+La Casa Therin de Valastir dejó de existir como institución reconocida durante
+la guerra civil. La Casa Cojocaru mantuvo una relación matrimonial especialmente
+estrecha con esa casa y recibió más cónyuges Therin que las demás casas nobles
+de Valastir.
 
 La descendencia de Iulien se divide en ramas diferentes:
 
 - una rama pública descendió de la familia que Iulien dejó en el Gherin al
   partir hacia Rauven y condujo hasta **Ostren Therin**;
 - otra rama descendió de la nueva familia que Iulien formó en Rauven después
-  de quedar separado del Gherin. Esta rama fundó la Casa Therin que después
-  perteneció a Valastir, fue considerada aniquilada durante la guerra civil y
-  sobrevivió en secreto dentro de la Casa Cojocaru.
+  de quedar separado del Gherin. Esta rama formó la Casa Therin que después
+  perteneció a Valastir y mantuvo vínculos matrimoniales especialmente fuertes
+  con la Casa Cojocaru.
 
-La extinción pública terminó cuando Osrik Cojocaru abandonó su nombre y su casa
-de nacimiento, adoptó el nombre **Cassyan Therin** y restauró la Casa Therin de
+Siglos después, Cassyan Therin y Parys Therin fundaron una nueva Casa Therin de
 Valastir.
 
 El personaje que todavía figura en el canon como Lumino y que esta acumulación
 renombra **Ostren Therin** fue el último señor Therin de Esteria. Nunca estuvo
-en Rauven ni en Valastir, no perteneció a la rama valastiria oculta en Cojocaru
-y desconocía la existencia de esa segunda Casa Therin.
+en Rauven ni en Valastir y desconocía la existencia de la rama Therin de
+Valastir.
 
 Quedan pendientes:
 
-- cómo los descendientes Therin pasaron a formar parte de Cojocaru;
-- quién organizó u ocultó la supervivencia;
-- qué miembros de Cojocaru conocen su ascendencia;
+- cómo se desarrollaron los vínculos matrimoniales entre Therin y Cojocaru;
 - si la Casa Enescu, la Casa Yuriev o Dragma conocen la verdad;
 - si esa sangre concede una pretensión política, religiosa o simbólica;
-- cómo fue reconocida institucionalmente la restauración de la Casa Therin;
+- cómo fue reconocida institucionalmente la nueva Casa Therin de Valastir;
 - el alcance exacto de la futura marca de canon velado.
 
 ### A-12. Ostren Therin
@@ -361,15 +349,21 @@ Valastir ha tenido tres dinastías reales, en este orden:
 1. **Dinastía Enescu:** primera casa real del reino.
 2. **Dinastía Yuriev:** sucedió a Enescu y terminó con el reinado de Lazlor
    Yuriev.
-3. **Dinastía Velkara:** casa reinante en el presente, fundada por la reina
-   Velkara.
+3. **Dinastía Dravora:** casa reinante en el presente, fundada por la reina
+   Dravora.
 
-La **Casa Velkara** tomó el nombre personal de su fundadora. Velkara nació
+campesina y no tenía apellido. Se cree que descendía de lo que alguna vez fue
+la Casa Enescu, pero la verdad y la conservación de esa línea permanecen
+pendientes de definición.
+La **Casa Dravor** tomó el nombre personal de su fundadora. Dravora nació
+campesina y no tenía apellido. Se cree que descendía de lo que alguna vez fue
+la Casa Enescu, pero la verdad y la conservación de esa línea permanecen
+pendientes de definición.
 campesina y no tenía apellido. Se cree que descendía de lo que alguna vez fue
 la Casa Enescu, pero la verdad y la conservación de esa línea permanecen
 pendientes de definición.
 
-Lazlor Yuriev obligó a Velkara a desposarlo. Durante aquel matrimonio ella
+Lazlor Yuriev obligó a Dravora a desposarlo. Durante aquel matrimonio ella
 descubrió que el rey conspiraba para entregar Valastir a un **Mobius** llegado
 desde la lejana Ishbaal, una entidad que representaba para el reino una amenaza
 aún mayor que el Rey Podrido.
@@ -378,28 +372,28 @@ El origen último del Mobius continúa siendo **Irij**, de acuerdo con la
 naturaleza canónica de estas entidades. Su procedencia desde Ishbaal describe
 el lugar desde el que llegó a Valastir, no su origen como especie.
 
-### A-15. Caída de Lazlor Yuriev y ascenso de Velkara
+### A-15. Caída de Lazlor Yuriev y ascenso de Dravora
 
-Velkara recibió la ayuda de **Imrik**, un Portador Sombrío. Juntos derrotaron a
+Dravora recibió la ayuda de **Imrik**, un Portador Sombrío. Juntos derrotaron a
 Lazlor Yuriev, impidieron la entrega de Valastir al Mobius y pusieron fin a la
-dinastía Yuriev. Velkara tomó el poder, fue reconocida como reina y fundó la
-Casa y dinastía Velkara.
+dinastía Yuriev. Dravora tomó el poder, fue reconocida como reina y fundó la
+Casa Dravor y la dinastía Dravora.
 
 Quedan pendientes:
 
 - la identidad, los deseos y las capacidades particulares del Mobius;
 - por qué se encontraba en Ishbaal y cómo llegó hasta Valastir;
 - qué pretendía recibir Lazlor a cambio de entregar el reino;
-- cómo descubrió Velkara la conspiración;
+- cómo descubrió Dravora la conspiración;
 - la naturaleza y las capacidades concretas de Imrik como Portador Sombrío;
 - cómo fueron derrotados Lazlor y el Mobius y cuál fue el destino de ambos;
 - el fundamento político y social que permitió la coronación de una campesina
   sin apellido;
-- la fecha de la caída de Yuriev y el comienzo de la dinastía Velkara.
+- la fecha de la caída de Yuriev y el comienzo de la dinastía Dravora.
 
-### A-16. Plan de Velkara
+### A-16. Plan de Dravora
 
-Velkara intervino de forma deliberada sobre el linaje de Lux Therin para
+Dravora intervino de forma deliberada sobre el linaje de Lux Therin para
 propiciar el nacimiento de un **Portador del Sol**. El plan culminó con el
 nacimiento de Osrik Cojocaru, el primero desde Lux Therin.
 
@@ -412,14 +406,14 @@ alcance.
 **Osrik Cojocaru** es el primer **Portador del Sol** nacido después de Iulien
 Therin, llamado Lux Therin por los Hijos del Sol.
 
-Al saber que él y sus hermanos habían formado parte del plan de Velkara,
+Al saber que él y sus hermanos habían formado parte del plan de Dravora,
 renunció a la Casa Cojocaru y abandonó su nombre de nacimiento. Adoptó
-**Cassyan Therin** como su nombre y restauró con él la Casa Therin de Valastir.
+**Cassyan Therin** como su nombre y, junto a Parys Therin, fundó una nueva Casa
+Therin de Valastir.
 
 Cassyan tomó esta decisión por dos motivos inseparables:
 
-- revivir la Casa Therin de Valastir, considerada extinta desde la guerra
-  civil;
+- fundar una Casa Therin de Valastir;
 - renegar de la Casa Cojocaru, su casa de origen.
 
 El nombre **Cassyan** sigue la onomástica del Verano para acompañar el apellido
@@ -428,18 +422,18 @@ Therin y remitir al origen de ese nombre entre los Hijos del Sol.
 Quedan pendientes:
 
 - cómo abandonó formalmente la Casa Cojocaru;
-- quién reconoció su nuevo nombre y la restauración de la Casa Therin;
+- quién reconoció su nuevo nombre y la fundación de la Casa Therin;
 - quién conoce su descendencia desde Lux Therin;
 - cuándo y cómo se manifestó su fulgor solar;
 - cuáles son su don, sus maestrías y sus límites concretos;
 - qué función cumplen Cassyan y Parys dentro de la Banda del Colmillo
   Blanco y como armas al servicio de Valastir;
-- su papel durante la dinastía Velkara.
+- su papel durante la dinastía Dravora.
 
 ### A-18. Hermanos Therin de Valastir
 
 Los tres hermanos vinculados con la Casa Therin de Valastir formaron parte del
-plan de Velkara:
+plan de Dravora:
 
 1. **Velisa Cojocaru, nombrada póstumamente Arys Therin:** hija mayor y
    Portadora del Rayo. Murió en combate contra cuatro **Engendros de la Sombra**
@@ -478,12 +472,12 @@ El **Grupo 3** de la **Banda del Colmillo Blanco** está formado por:
 
 - **Cassyan Therin**, nacido Osrik Cojocaru, de dieciséis años;
 - **Parys Therin**, alias de Dramir Cojocaru, de doce años;
-- el **príncipe menor Dymtrik**, hijo bastardo de la reina Velkara, de dieciséis
+- el **príncipe menor Dymtrik**, hijo bastardo de la reina Dravora, de dieciséis
   años;
 - **Milara «Mili»**, conocida como la **Niña Perdida**, de quince años.
 
 El grupo se encuentra a cargo de **Imrik**, de treinta y un años, el Portador
-Sombrío que ayudó a Velkara a derrotar a Lazlor Yuriev y tomar el poder. Imrik
+Sombrío que ayudó a Dravora a derrotar a Lazlor Yuriev y tomar el poder. Imrik
 dirige y tutela a sus integrantes; el entrenamiento de Cassyan y Parys durante
 esta etapa ocurre dentro del Grupo 3.
 
@@ -502,7 +496,7 @@ Quedan pendientes:
 - la identidad del padre de Dymtrik y la posición sucesoria del príncipe;
 - el origen de Milara y la razón por la que es conocida como la Niña Perdida;
 - la relación personal de Imrik con cada integrante;
-- si la banda sirve personalmente a Velkara, a la corona o a Valastir como
+- si la banda sirve personalmente a Dravora, a la corona o a Valastir como
   reino.
 
 ### A-20. Memoria de Lux Therin
@@ -581,8 +575,8 @@ pendiente de auditoría y volcamiento futuro.
 Las casas **Cojocaru** y **Yuriev** serán casas nobles de Valastir. Yuriev será
 la antagonista política de la Casa Enescu y encabezará la oposición a las
 condiciones impuestas por Dragma. Más tarde se convertirá en la segunda
-dinastía real del reino. Cojocaru alberga en secreto a descendientes de Iulien
-Therin.
+dinastía real del reino. Cojocaru será la casa noble que más cónyuges Therin
+recibirá.
 
 **Estado:** cerrado con reservas de desarrollo dentro de la acumulación;
 pendiente de auditoría y volcamiento futuro.
@@ -609,12 +603,11 @@ auditoría y volcamiento futuro.
 
 ### N-09. Supervivencia del linaje Therin
 
-La Casa Therin de Valastir fue considerada aniquilada durante la guerra civil,
-pero la descendencia de Iulien Therin sobrevivió en secreto dentro de la Casa
-Cojocaru. Esta es una rama distinta de la línea del Gherin a la que pertenece
-Ostren Therin. Ostren nunca estuvo en Rauven ni en Valastir y desconocía la
-existencia de aquella rama. La sangre valastiria sobrevivió oculta y Osrik
-Cojocaru restauró después la casa al adoptar el nombre Cassyan Therin.
+La Casa Therin de Valastir mantuvo vínculos matrimoniales especialmente fuertes
+con la Casa Cojocaru, una rama distinta de la línea del Gherin a la que
+pertenece Ostren Therin. Ostren nunca estuvo en Rauven ni en Valastir y
+desconocía la existencia de aquella rama. Cassyan Therin y Parys Therin fundaron
+después una nueva Casa Therin de Valastir.
 
 **Estado:** cerrado con reserva sobre el mecanismo de supervivencia, los
 conocedores de la verdad y el reconocimiento institucional de la casa
@@ -624,7 +617,7 @@ restaurada; pendiente de auditoría y volcamiento futuro.
 
 El personaje se llamará **Ostren Therin**. Pertenece a la rama del Gherin
 vinculada con Esteria, nunca estuvo en Rauven ni en Valastir y desconocía la
-existencia de la rama valastiria oculta en Cojocaru.
+existencia de la rama valastiria.
 
 **Estado:** cerrado dentro de la acumulación; pendiente de auditoría y
 volcamiento futuro.
@@ -645,18 +638,18 @@ pendiente de auditoría y volcamiento futuro.
 ### N-12. Tres dinastías de Valastir
 
 Valastir tuvo primero la dinastía Enescu, después la dinastía Yuriev y por
-último la dinastía Velkara, que gobierna en el presente. Lazlor Yuriev fue el
-último rey de su casa. Velkara, campesina sin apellido y de posible ascendencia
+último la dinastía Dravora, que gobierna en el presente. Lazlor Yuriev fue el
+último rey de su casa. Dravora, campesina sin apellido y de posible ascendencia
 Enescu, fundó la casa reinante con su propio nombre.
 
 **Estado:** cerrado con reservas sobre las transiciones entre Enescu y Yuriev,
-la ascendencia de Velkara y las fechas de cada dinastía; pendiente de auditoría
+la ascendencia de Dravora y las fechas de cada dinastía; pendiente de auditoría
 y volcamiento futuro.
 
 ### N-13. Lazlor, el Mobius e Imrik
 
-Lazlor Yuriev desposó por la fuerza a Velkara y conspiró para entregar Valastir
-a un Mobius llegado desde Ishbaal. Velkara descubrió la conspiración y, con la
+Lazlor Yuriev desposó por la fuerza a Dravora y conspiró para entregar Valastir
+a un Mobius llegado desde Ishbaal. Dravora descubrió la conspiración y, con la
 ayuda del joven Portador Sombrío Imrik, derrotó a Lazlor, impidió la entrega y
 tomó el poder.
 
@@ -664,9 +657,9 @@ tomó el poder.
 mecanismos, las capacidades involucradas y el destino de Lazlor y del Mobius;
 pendiente de auditoría y volcamiento futuro.
 
-### N-14. Plan de Velkara
+### N-14. Plan de Dravora
 
-Velkara actuó sobre el linaje de Lux Therin para propiciar el nacimiento de un
+Dravora actuó sobre el linaje de Lux Therin para propiciar el nacimiento de un
 Portador del Sol. El plan culminó con Osrik Cojocaru, primer Portador del Sol
 desde Lux Therin. Cassyan, Parys y Arys también formaron parte de ese plan.
 
@@ -678,12 +671,12 @@ explícita en el futuro volcamiento.
 
 El primer Portador del Sol nacido después de Lux Therin recibió al nacer el
 nombre **Osrik Cojocaru**. Al conocer su participación y la de sus hermanos en
-el plan de Velkara, abandonó ese nombre, renunció a la Casa Cojocaru y adoptó
-**Cassyan Therin** como su nueva identidad. Con ello restauró la Casa Therin de
-Valastir.
+el plan de Dravora, abandonó ese nombre, renunció a la Casa Cojocaru y adoptó
+**Cassyan Therin** como su nueva identidad. Junto a Parys Therin, fundó una
+nueva Casa Therin de Valastir.
 
 **Estado:** cerrado con reservas sobre el reconocimiento político y jurídico de
-su nombre y de la casa restaurada; pendiente de auditoría y volcamiento futuro.
+su nombre y de la casa fundada; pendiente de auditoría y volcamiento futuro.
 
 ### N-16. Hermanos Therin de Valastir
 
@@ -692,7 +685,7 @@ morir frente a cuatro Engendros de la Sombra; Osrik Cojocaru, que se convirtió
 en Cassyan Therin y fue el primer Portador del Sol después de Lux Therin; y
 Dramir Cojocaru, alias **Parys Therin**, Portador Ígneo y piromante. Durante la
 etapa del Grupo 3, Cassyan tiene dieciséis años y Parys doce; ambos se entrenan
-bajo la tutela de Imrik. Los tres formaron parte del plan de Velkara; Arys
+bajo la tutela de Imrik. Los tres formaron parte del plan de Dravora; Arys
 había pertenecido al extinto Grupo 2.
 
 **Estado:** cerrado con reservas sobre las fechas, los Engendros de la Sombra,
@@ -715,9 +708,9 @@ auditoría y volcamiento futuro.
 
 El **Grupo 3** de la **Banda del Colmillo Blanco** reúne a Cassyan Therin, de
 dieciséis años; Parys Therin, de doce; el príncipe menor Dymtrik, hijo bastardo
-de la reina Velkara, de dieciséis; y Milara «Mili», la Niña Perdida, de quince.
+de la reina Dravora, de dieciséis; y Milara «Mili», la Niña Perdida, de quince.
 El grupo está a cargo de Imrik, Portador Sombrío de treinta y un años que ayudó
-a Velkara a derrotar a Lazlor Yuriev y tomar el poder. Cassyan y Parys se
+a Dravora a derrotar a Lazlor Yuriev y tomar el poder. Cassyan y Parys se
 entrenan bajo su tutela. Arys Therin había pertenecido al extinto **Grupo 2**.
 Estos acontecimientos transcurren en una época mucho más antigua que la de
 Sandor Solarys.
@@ -746,7 +739,7 @@ pendiente de auditoría y volcamiento futuro.
 
 ## Reservas
 
-- El futuro volcamiento recogerá el hecho del plan de Velkara en su nivel
+- El futuro volcamiento recogerá el hecho del plan de Dravora en su nivel
   esencial. Sus mecanismos, motivos y antecedentes personales quedan reservados
   y no requieren desarrollo explícito dentro de este alcance.
 - La expedición completa a Roshdom y sus escenas particulares quedan

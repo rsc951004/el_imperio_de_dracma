@@ -219,7 +219,7 @@ asignan origen, oficio, época ni función narrativa.
 - Dragora
 - Veldrana
 - Marnika
-- Draveniya
+- Dravenya
 - Vorika
 - Kazrena
 - Mireva

@@ -10,9 +10,9 @@ Se auditan las decisiones reunidas en
 `acumulacion-valastir-reino-de-la-calamidad.md`: el destino y la identidad de
 Iulien Therin; Roshdom y el confinamiento del Rey Podrido; Valastir y su
 relación con Dragma; sus casas y dinastías; la rama valastiria de Therin; el
-plan de Velkara; y la Banda del Colmillo Blanco.
+plan de Dravora; y la Banda del Colmillo Blanco.
 
-No se auditan ni se desarrollan mecanismos del plan de Velkara, escenas de la
+No se auditan ni se desarrollan mecanismos del plan de Dravora, escenas de la
 campaña en Roshdom, la guerra civil de Valastir ni historias individuales de la
 banda. Esas materias permanecen como reservas de la acumulación.
 
@@ -74,7 +74,7 @@ restaurada por Cassyan Therin.
 
 La coexistencia de dos casas con el mismo apellido requiere una solución para
 su identificación histórica y para la relación entre la continuidad pública de
-Esteria y los descendientes ocultos en la Casa Cojocaru. También afecta el
+Esteria y los vínculos matrimoniales con la Casa Cojocaru. También afecta el
 hecho canónico de que Lumino/Ostren partió hacia Veleskgard después de perder
 Esteria.
 
@@ -106,8 +106,8 @@ Sus antiguos vínculos con Veleskaria, Sindria, Goros, Ileana, Ecaterina y Uriel
 Goros siguen apareciendo en otras fichas canónicas activas.
 
 La acumulación recupera los tres nombres para Valastir: Enescu como primera
-dinastía, Yuriev como antagonista y segunda dinastía, y Cojocaru como casa que
-oculta la descendencia de Iulien. No transfiere sus redes anteriores, pero un
+dinastía, Yuriev como antagonista y segunda dinastía, y Cojocaru como la casa
+noble con más cónyuges Therin. No transfiere sus redes anteriores, pero un
 volcamiento debe impedir que las referencias activas actuales a esos nombres
 queden incoherentes.
 
@@ -136,7 +136,7 @@ al canon.
 La acumulación dice que Cassyan, Parys, Dymtrik y Mili pertenecen a una época
 muy anterior a Sandor, pero no fija una fecha absoluta. A la vez, Valastir debe
 haber atravesado tres dinastías, el primer contacto con Dragma, una guerra civil
-con más de sesenta años de silencio y el ascenso de Velkara antes del Grupo 3.
+con más de sesenta años de silencio y el ascenso de Dravora antes del Grupo 3.
 
 La cronología vigente solo establece las grandes dinastías imperiales y el
 presente narrativo en +1680. No permite ubicar esos hechos sin determinar al
@@ -166,17 +166,17 @@ Valastir. Esas lagunas no bloquean la conservación como reserva, pero sí
 impiden presentar a Iulien como fundador político sin precisar el nivel de esa
 afirmación.
 
-### T-03. Plan de Velkara y herencia de Portadores
+### T-03. Plan de Dravora y herencia de Portadores
 
-El plan de Velkara propicia el nacimiento de un Portador del Sol en la línea de
+El plan de Dravora propicia el nacimiento de un Portador del Sol en la línea de
 Lux Therin. El canon establece que se hereda el vínculo, no un Init o don fijo,
 y que la manifestación puede saltar generaciones y no depende de la voluntad.
 La acumulación ya reserva mecanismos y motivos, pero debe evitar atribuir al
 plan una garantía genealógica de un don solar.
 
-### T-04. Casa Velkara y la ascendencia Enescu
+### T-04. Casa Dravor y la ascendencia Enescu
 
-La acumulación presenta a Velkara como fundadora sin apellido de la tercera
+La acumulación presenta a Dravora como fundadora sin apellido de la tercera
 dinastía y dice que se cree que descendía de Enescu. El estatus de esa
 ascendencia, el título de la nueva dinastía y la continuidad institucional tras
 la caída de Lazlor no están fijados. No pueden trasladarse como hechos más allá
@@ -199,14 +199,14 @@ no puede redactarse como si esos puntos estuvieran resueltos.
 | Relaciones históricas | fichas de Rudgar, Eirik, Andrey, Casa Valgard, `sangre-de-hierro.md`, `sangheskios.md`, `sangre-carmesi.md`, `guerra-de-unland.md`, `pacto-de-durr.md`, `stigria.md`, `mundo.md` | Actualizar las referencias nominales y verificar las consecuencias cronológicas. |
 | Valastir | `docs/mundo.md`, `dragma.md`, `12-reinos.md`, cronología y nueva ficha territorial | Solo procede después de fijar su estatus frente a Dragma. |
 | Casas recuperadas | fichas Enescu, Cojocaru y Yuriev; Casa Goros y fichas de Ileana, Ecaterina, Uriel y Yelena | Resolver primero las referencias activas a material descanonizado y los nombres homónimos. |
-| Velkara, Cassyan y banda | nuevos archivos de personajes, casas u organización e índices correspondientes | Solo después de fijar periodo, función institucional y alcance del detalle canónico. |
+| Dravora, Cassyan y banda | nuevos archivos de personajes, casas u organización e índices correspondientes | Solo después de fijar periodo, función institucional y alcance del detalle canónico. |
 
 ## Materias fuera de alcance o reservadas
 
 - El mecanismo del confinamiento del Rey Podrido y la causa que impidió el
   regreso de Iulien al Gherin.
 - La naturaleza del peligro de los Supervivientes de la Calamidad.
-- Los mecanismos, motivos y antecedentes personales del plan de Velkara.
+- Los mecanismos, motivos y antecedentes personales del plan de Dravora.
 - Las escenas de la expedición a Roshdom, la guerra civil y la caída de Lazlor.
 - Las capacidades concretas de Imrik, Cassyan, Parys, Arys, Dymtrik y Mili.
 - El origen, composición y final del Grupo 2.
