@@ -397,90 +397,60 @@ Quedan pendientes:
   sin apellido;
 - la fecha de la caída de Yuriev y el comienzo de la dinastía Velkara.
 
-### A-16. El proyecto genealógico de Velkara
+### A-16. Plan de Velkara
 
-Velkara dedicó gran parte de su vida a localizar y casar a los descendientes de
-**Iulien Therin**, llamado **Lux Therin** por los Hijos del Sol, y a reconstruir
-y estudiar sus genealogías. Mediante esos enlaces intervino de manera
-deliberada para **propiciar** el nacimiento de un Portador capaz de manifestar
-fulgor solar, el primero desde Lux Therin. Sus esfuerzos rindieron fruto dentro
-de la Casa Cojocaru con el nacimiento de **Osrik Cojocaru**.
+Velkara intervino de forma deliberada sobre el linaje de Lux Therin para
+propiciar el nacimiento de un **Portador del Sol**. El plan culminó con el
+nacimiento de Osrik Cojocaru, el primero desde Lux Therin.
 
-Quedan pendientes:
-
-- cómo localizó Velkara a los descendientes ocultos dentro de la Casa Cojocaru;
-- qué familias y ramas incluyó en su estudio;
-- cómo eligió y concertó los enlaces destinados a propiciar el nacimiento;
-- si las personas involucradas conocían y consentían su propósito;
-- la fecha de nacimiento y la relación genealógica exacta de Osrik con Lux
-  Therin;
-- por qué su manifestación es solar si el Init alcanzado no se hereda de forma
-  fija dentro de un linaje;
-- quién conoce el proyecto y quién conoce su resultado.
+Los mecanismos, motivos y antecedentes personales del plan quedan reservados:
+no se desarrollarán de forma explícita en el futuro volcamiento de este
+alcance.
 
 ### A-17. Osrik Cojocaru se convierte en Cassyan Therin
 
-**Osrik Cojocaru** nació dentro de la Casa Cojocaru como resultado del proyecto
-genealógico de Velkara. Es el primer **Portador del Sol** nacido después de
-Iulien Therin, llamado Lux Therin por los Hijos del Sol.
+**Osrik Cojocaru** es el primer **Portador del Sol** nacido después de Iulien
+Therin, llamado Lux Therin por los Hijos del Sol.
 
-Al descubrir la verdad sobre su nacimiento, Osrik renunció a la Casa Cojocaru y
-abandonó su nombre de nacimiento. Adoptó **Cassyan Therin** como su nombre y
-restauró con él la Casa Therin de Valastir.
+Al saber que él y sus hermanos habían formado parte del plan de Velkara,
+renunció a la Casa Cojocaru y abandonó su nombre de nacimiento. Adoptó
+**Cassyan Therin** como su nombre y restauró con él la Casa Therin de Valastir.
 
 Cassyan tomó esta decisión por dos motivos inseparables:
 
 - revivir la Casa Therin de Valastir, considerada extinta desde la guerra
   civil;
-- renegar de la Casa Cojocaru y de los padres que entregaron a sus hijos a la
-  reina Velkara.
+- renegar de la Casa Cojocaru, su casa de origen.
 
 El nombre **Cassyan** sigue la onomástica del Verano para acompañar el apellido
 Therin y remitir al origen de ese nombre entre los Hijos del Sol.
 
-Cassyan descubrió que él, Velisa y Dramir habían sido experimentos del proyecto
-genealógico de Velkara. Sus padres, Grivor Cojocaru y Valmira Milorad, los
-habían vendido a la reina para que fueran utilizados como armas.
-
-Cassyan y su hermano menor no se rebelaron contra el propósito para el cual
-fueron preparados. Continuaron sirviendo a Valastir para honrar a su hermana
-Velisa, nombrada póstumamente Arys Therin, y el deseo que ella había tenido de
-servir al reino. Esta continuidad no implicó reconciliación: ambos sentían un
-profundo desprecio por sus padres y por la reina Velkara.
-
 Quedan pendientes:
 
-- cuándo descubrió Cassyan la verdad y quién se la reveló;
 - cómo abandonó formalmente la Casa Cojocaru;
 - quién reconoció su nuevo nombre y la restauración de la Casa Therin;
 - quién conoce su descendencia desde Lux Therin;
 - cuándo y cómo se manifestó su fulgor solar;
 - cuáles son su don, sus maestrías y sus límites concretos;
-- qué relación política mantiene con Velkara después de conocer la verdad;
 - qué función cumplen Cassyan y Parys dentro de la Banda del Colmillo
   Blanco y como armas al servicio de Valastir;
 - su papel durante la dinastía Velkara.
 
-### A-18. Familia de Osrik y resultados del proyecto
+### A-18. Hermanos Therin de Valastir
 
-Osrik fue el segundo descendiente de **Grivor Cojocaru** y su esposa,
-**Valmira Milorad**. Ambos descendían de Lux Therin y su matrimonio formó parte
-del proyecto genealógico de Velkara.
-
-La descendencia de Grivor y Valmira quedó compuesta así:
+Los tres hermanos vinculados con la Casa Therin de Valastir formaron parte del
+plan de Velkara:
 
 1. **Velisa Cojocaru, nombrada póstumamente Arys Therin:** hija mayor y
-   Portadora del Rayo. Al no manifestar fulgor solar fue considerada un fracaso
-   del proyecto. Murió en combate contra cuatro **Engendros de la Sombra** y
-   recibió después de su muerte el nombre Arys Therin. Había pertenecido al
+   Portadora del Rayo. Murió en combate contra cuatro **Engendros de la Sombra**
+   y recibió después de su muerte el nombre Arys Therin. Había pertenecido al
    extinto **Grupo 2** de la Banda del Colmillo Blanco.
-2. **Osrik Cojocaru, después Cassyan Therin:** segundo descendiente y resultado
-   exitoso del proyecto. Fue el primer Portador del Sol después de Lux Therin.
+2. **Osrik Cojocaru, después Cassyan Therin:** segundo hermano y primer Portador
+   del Sol después de Lux Therin.
 3. **Dramir Cojocaru, alias Parys Therin:** hermano menor y Portador Ígneo,
-   conocido también como piromante. Fue considerado otro fracaso del proyecto
-   porque su manifestación no fue solar. Durante la etapa del Grupo 3 se
-   entrena junto a Cassyan Therin bajo la tutela de Imrik, dentro de la Banda
-   del Colmillo Blanco.
+   conocido también como piromante. Durante la etapa del Grupo 3 se entrena
+   junto a Cassyan Therin bajo la tutela de Imrik, dentro de la Banda del
+   Colmillo Blanco.
 
 Los nombres **Cassyan**, **Parys** y **Arys** siguen la onomástica del Verano y
 acompañan el apellido Therin para vincular las nuevas identidades con el origen
@@ -490,8 +460,6 @@ Osrik; Parys es el alias de Dramir; Arys es el nombre póstumo de Velisa.
 Quedan pendientes:
 
 - las fechas de nacimiento de los tres hermanos y la edad de Velisa al morir;
-- quién calificó cada nacimiento como éxito o fracaso y qué consecuencias tuvo
-  esa evaluación;
 - la naturaleza de los cuatro Engendros de la Sombra y las circunstancias del
   combate en que murió la hija mayor;
 - quién eligió el alias Parys Therin;
@@ -536,6 +504,28 @@ Quedan pendientes:
 - la relación personal de Imrik con cada integrante;
 - si la banda sirve personalmente a Velkara, a la corona o a Valastir como
   reino.
+
+### A-20. Memoria de Lux Therin
+
+En la época de Cassyan Therin y Parys Therin, casi nadie recuerda que **Lux
+Therin** se llamaba Iulien ni que era sangheskio. A ambos lados de **Stömur**,
+la memoria popular lo conoce por el nombre Lux Therin. Su apellido Therin y su
+condición de Portador del Sol llevan a muchos a creer que en realidad procedía
+del Verano y que fue un **Hijo del Sol**.
+
+Esta creencia es especialmente fuerte en el Gherin. La Casa Therin de esa
+vertiente se mezcló de manera notable con personas del Verano llegadas
+recientemente a Veleskaria, lo que reforzó la asociación entre Lux Therin y los
+Hijos del Sol.
+
+Quedan pendientes:
+
+- cómo se perdió el uso del nombre Iulien y el conocimiento de su origen
+  sangheskio, y quiénes aún lo conservan;
+- cómo se transmitió la memoria de Lux Therin a ambos lados de Stömur;
+- la cronología y el alcance de la mezcla entre la Casa Therin del Gherin y las
+  personas del Verano llegadas a Veleskaria;
+- cómo se extendió la asociación de Lux Therin con los Hijos del Sol.
 
 ## Nudos de decisión
 
@@ -674,42 +664,36 @@ tomó el poder.
 mecanismos, las capacidades involucradas y el destino de Lazlor y del Mobius;
 pendiente de auditoría y volcamiento futuro.
 
-### N-14. Proyecto genealógico de Velkara
+### N-14. Plan de Velkara
 
-Velkara dedicó gran parte de su vida a localizar y casar a los descendientes de
-Lux Therin y estudiar sus genealogías para **propiciar** el nacimiento de un
-Portador capaz de manifestar fulgor solar. Sus esfuerzos culminaron dentro de
-la Casa Cojocaru con el nacimiento de **Osrik Cojocaru**, primer Portador del
-Sol después de Lux Therin, quien adoptó más tarde el nombre **Cassyan Therin**.
+Velkara actuó sobre el linaje de Lux Therin para propiciar el nacimiento de un
+Portador del Sol. El plan culminó con Osrik Cojocaru, primer Portador del Sol
+desde Lux Therin. Cassyan, Parys y Arys también formaron parte de ese plan.
 
-**Estado:** cerrado con reservas sobre la fecha, la genealogía exacta y el
-procedimiento aplicado por Velkara; pendiente de auditoría y volcamiento
-futuro.
+**Estado:** cerrado como hecho de alto nivel; los mecanismos, motivos y
+antecedentes particulares quedan reservados y no se desarrollarán de forma
+explícita en el futuro volcamiento.
 
 ### N-15. Osrik Cojocaru se convierte en Cassyan Therin
 
 El primer Portador del Sol nacido después de Lux Therin recibió al nacer el
-nombre **Osrik Cojocaru**. Tras descubrir que su vida y las de sus hermanos
-habían sido parte del experimento de Velkara, abandonó ese nombre, renegó de la
-Casa Cojocaru y adoptó **Cassyan Therin** como su nueva identidad. Con ello
-restauró la Casa Therin de Valastir.
+nombre **Osrik Cojocaru**. Al conocer su participación y la de sus hermanos en
+el plan de Velkara, abandonó ese nombre, renunció a la Casa Cojocaru y adoptó
+**Cassyan Therin** como su nueva identidad. Con ello restauró la Casa Therin de
+Valastir.
 
 **Estado:** cerrado con reservas sobre el reconocimiento político y jurídico de
 su nombre y de la casa restaurada; pendiente de auditoría y volcamiento futuro.
 
-### N-16. Familia de Grivor Cojocaru y Valmira Milorad
+### N-16. Hermanos Therin de Valastir
 
-Grivor Cojocaru y Valmira Milorad, ambos descendientes de Lux Therin, tuvieron
-tres descendientes. La hija mayor fue **Velisa Cojocaru**, Portadora del Rayo
-nombrada póstumamente **Arys Therin** después de morir combatiendo a cuatro
-Engendros de la Sombra. El segundo fue Osrik Cojocaru, primer Portador del Sol
-después de Lux, quien posteriormente abandonó ese nombre y se convirtió en
-Cassyan Therin. Durante la etapa del Grupo 3 tiene dieciséis años. El menor fue
-Dramir Cojocaru, alias **Parys Therin**, Portador Ígneo y piromante de doce años
-durante esa misma etapa. Cassyan y Parys se entrenan bajo la tutela de Imrik
-como integrantes del Grupo 3 de la Banda del Colmillo Blanco. Arys había
-pertenecido al extinto Grupo 2. Velisa y Dramir fueron considerados fracasos
-del proyecto genealógico porque sus manifestaciones no fueron solares.
+Los hermanos son Velisa Cojocaru, nombrada póstumamente **Arys Therin** tras
+morir frente a cuatro Engendros de la Sombra; Osrik Cojocaru, que se convirtió
+en Cassyan Therin y fue el primer Portador del Sol después de Lux Therin; y
+Dramir Cojocaru, alias **Parys Therin**, Portador Ígneo y piromante. Durante la
+etapa del Grupo 3, Cassyan tiene dieciséis años y Parys doce; ambos se entrenan
+bajo la tutela de Imrik. Los tres formaron parte del plan de Velkara; Arys
+había pertenecido al extinto Grupo 2.
 
 **Estado:** cerrado con reservas sobre las fechas, los Engendros de la Sombra,
 los responsables de los nombres Therin, el lugar y el propósito del
@@ -727,21 +711,7 @@ apellido Therin.
 cuándo lo hizo y qué personas conocen o utilizan esas identidades; pendiente de
 auditoría y volcamiento futuro.
 
-### N-18. Descubrimiento del experimento y continuidad del servicio
-
-Cassyan y Parys descubrieron que sus padres los habían vendido a Velkara para
-ser utilizados como armas y que los tres hermanos habían sido resultados de su
-proyecto genealógico. Cassyan rompió con la Casa Cojocaru y restauró la Casa
-Therin. Ninguno de los dos hermanos supervivientes abandonó el propósito para
-el que había sido preparado: continuaron sirviendo a Valastir para honrar a
-Velisa, Arys Therin, y su deseo de servir al reino. Ambos conservaron un
-profundo desprecio por Grivor, Valmira y Velkara.
-
-**Estado:** cerrado con reservas sobre el momento del descubrimiento, la forma
-del servicio de los hermanos y su relación política con la reina; pendiente de
-auditoría y volcamiento futuro.
-
-### N-19. Banda del Colmillo Blanco
+### N-18. Banda del Colmillo Blanco
 
 El **Grupo 3** de la **Banda del Colmillo Blanco** reúne a Cassyan Therin, de
 dieciséis años; Parys Therin, de doce; el príncipe menor Dymtrik, hijo bastardo
@@ -759,8 +729,26 @@ de los grupos anteriores, el cometido de la banda, la función de cada miembro
 y su relación institucional con la corona; pendiente de auditoría y volcamiento
 futuro.
 
+### N-19. Memoria de Lux Therin
+
+En la época de Cassyan y Parys, Iulien es un nombre casi perdido y apenas se
+recuerda su origen sangheskio. A ambos lados de Stömur se recuerda
+principalmente a **Lux Therin**. Su apellido Therin y su condición de Portador
+del Sol llevan a muchos a creer que procedía del Verano y que fue un Hijo del
+Sol. Esta creencia tiene especial fuerza en el Gherin, donde la Casa Therin se
+mezcló notablemente con personas del Verano llegadas recientemente a
+Veleskaria.
+
+**Estado:** cerrado como memoria popular y asociación cultural; quedan
+reservados la transmisión de esa memoria, los conocedores del nombre Iulien y
+de su origen sangheskio, y la expansión de la asociación con los Hijos del Sol;
+pendiente de auditoría y volcamiento futuro.
+
 ## Reservas
 
+- El futuro volcamiento recogerá el hecho del plan de Velkara en su nivel
+  esencial. Sus mecanismos, motivos y antecedentes personales quedan reservados
+  y no requieren desarrollo explícito dentro de este alcance.
 - La expedición completa a Roshdom y sus escenas particulares quedan
   reservadas para un desarrollo narrativo posterior.
 - La historia continua de Valastir no se escribirá como cuento ni como relato

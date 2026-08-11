@@ -40,47 +40,76 @@ casa noble o real. Esta restricción alcanza, entre otras, las formas derivadas
 de Lysarya y Zephyrya. No impide su uso legítimo por las familias nobles y
 reales vinculadas al territorio.
 
-## Cantera de nombres
+## Cantera de nombres y casas
 
-Los siguientes nombres están disponibles para personajes y linajes procedentes
-de los Reinos del Verano. Su uso no asigna origen, oficio, época ni función
-narrativa.
+Los siguientes nombres y casas están disponibles para personajes y linajes
+procedentes de los Reinos del Verano. Su uso no asigna origen, oficio, época ni
+función narrativa.
+
+### Nombres femeninos
 
 - Odissya
 - Pinylop
 - Athyna
-- Posidonys
 - Magyssa
 - Kirky
-- Kalypso (hombre)
-- Kalipssya (mujer)
-- Sirynes (hombre)
-- Syrenes (mujer)
+- Kalipssya
+- Syrenes
 - Trya
-- Elenytos (hombre)
-- Elinythys (mujer)
+- Elinythys
+- Skylla
+- Nissythys
+- Kassandrya
+- Arys
+- Elisya
+- Filipya
+- Silvya
+- Delya
+- Tynya
+- Nadya
+- Alynya
+- Sophya
+- Mirya
+- Kirya
+- Lucya
+- Klaudya
+- Yulya
+- Marysa
+- Adrya
+- Selynya
+- Kalystya
+- Andreya (de Andrea)
+- Melyssa (de Melissa)
+- Teresya (de Teresa)
+- Rosya (de Rosa)
+- Amelya
+- Alexya
+- Yasmynya
+- Karolya
+- Estelya
+- Beatryzya
+- Vylma
+- Yolandya
+- Renatya
+
+### Nombres masculinos
+
+- Posidonys
+- Kalypso
+- Sirynes
+- Elenytos
 - Dyas
 - Sylas
-- Skylla
 - Ithakys
 - Ythako
 - Nissytos
-- Nissythys
 - Sparthakys
 - Ektoras
 - Parys
 - Pryamos
 - Andromakys
 - Patrokys
-- Kassandrya
 - Diomydys
-- Arys
-
-## Cantera complementaria
-
-Los siguientes nombres están disponibles como formas ya ajustadas a las reglas
-del Verano. Su uso no asigna origen, oficio, época ni función narrativa.
-
 - Lisaryon
 - Lisarys
 - Lisaryos
@@ -191,6 +220,58 @@ del Verano. Su uso no asigna origen, oficio, época ni función narrativa.
 - Rytheon
 - Soryphos
 - Talyndor
+- Tityo
+- Maryo
+- Daryo
+- Yulyo
+- Klaudyo
+- Fabyo
+- Sergyo
+- Emylyo (de Emilyo)
+- Tulyo
+- Antonyo
+- Marcyo
+- Horacyo
+- Octavyo
+- Flavyo
+- Renatyo
+- Ignacyo
+- Vyktor (de Vyctor)
+- Adryan
+- Alexyo
+- Damyan
+- Estebyo (de Esteban)
+- Yosyf (de Yosef)
+- Yorgo
+- Teodoryo
+- Rodryo (de Rodrigo)
+- Feryo (de Ferio)
+- Kayo
+- Nestoryo
+- Leandyo
+
+### Casas
+
+- Casa Kalyandra
+- Casa Morythos
+- Casa Thalyrion
+- Casa Vendrycos
+- Casa Sylanthar
+- Casa Orythien
+- Casa Dravykos
+- Casa Elyrandon
+- Casa Xantherya
+- Casa Kyrandel
+- Casa Alythorne
+- Casa Nyravos
+- Casa Meryathos
+- Casa Solandryon
+- Casa Verythien
+- Casa Dorascya
+- Casa Ilvandros
+- Casa Rhoenthys
+- Casa Kastalyon
+- Casa Brythandor
 
 ## Aplicación editorial
 
