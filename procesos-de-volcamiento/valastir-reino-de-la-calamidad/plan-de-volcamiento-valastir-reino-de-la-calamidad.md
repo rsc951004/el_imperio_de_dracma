@@ -3,13 +3,18 @@
 Documento de trabajo no canónico. Organiza un posible traslado de las
 resoluciones hacia el canon; no es una autorización para ejecutarlo.
 
-## Condición previa
-
-Resolver el destino de las referencias canónicas activas a Enescu, Cojocaru y
-Yuriev descritas en la auditoría de cierre. Hasta entonces, el bloque 4 queda
-condicionado.
-
 ## Bloques de transferencia
+
+### 0. Retiro definitivo de fichas descanonizadas
+
+- Eliminar `docs/personajes/monarcas/ileana-enescu.md`,
+  `docs/personajes/monarcas/ecaterina-cojocaru.md`,
+  `docs/personajes/monarcas/uriel-goros.md` y
+  `docs/personajes/monarcas/yelena-gorski.md`.
+- Retirar las referencias residuales a esas cuatro fichas sin trasladar sus
+  relaciones, cargos ni matrimonios.
+- Conservar fuera de este retiro las fichas de casas: Enescu, Cojocaru, Yuriev
+  y Goros serán reescritas para Valastir.
 
 ### 1. Identidades y Casa Therin de Dragma
 
@@ -56,19 +61,16 @@ condicionado.
 
 ### 4. Casas y dinastías de Valastir
 
-**Resoluciones:** R-03 y R-04. **Estado:** condicionado por la condición
-previa.
+**Resoluciones:** R-03 y R-04.
 
-- Reescribir las fichas descanonizadas de Enescu, Cojocaru y Yuriev como casas
-  de Valastir: primera dinastía, casa noble de mayor vínculo matrimonial Therin
-  y segunda dinastía, respectivamente.
+- Reescribir las fichas descanonizadas de Enescu, Cojocaru, Yuriev y Goros como
+  casas de Valastir: primera dinastía, casa noble de mayor vínculo matrimonial
+  Therin, segunda dinastía y casa de posición reservada, respectivamente.
 - Crear `docs/casas/dravor.md` para la casa fundada por Dravora y actualizar la
   ficha de Valastir con la secuencia Enescu → Yuriev → Dravora.
 - Crear `docs/casas/therin-valastir.md` para la Casa Therin de Valastir,
   fundada por Cassyan y Parys, distinta de la Casa Therin de Dragma y sin
   validez política o señorial dentro del Imperio.
-- Aplicar la decisión humana pendiente a las referencias activas y personajes
-  asociados a las versiones descanonizadas de Enescu, Cojocaru y Yuriev.
 
 ### 5. Dravora, Cassyan y la Banda del Colmillo Blanco
 
@@ -92,8 +94,9 @@ previa.
 | Supervivencia de Iulien, Roshdom y confinamiento | Canon: Roshdom, Grimmen, Rey Podrido, Edad de Plata y cronología. |
 | Belarik, vínculo imperial y transición jurídica | Canon: ficha de Valastir; reserva de fechas y diplomacia concreta. |
 | Dos casas Therin y jurisdicción imperial | Canon: fichas de ambas casas y Valastir. |
-| Cojocaru como principal casa receptora de cónyuges Therin | Canon: ficha de Cojocaru, condicionado por la decisión pendiente. |
-| Enescu, Yuriev, Dravora y Casa Dravor | Canon: fichas de casas y Valastir, condicionado por la decisión pendiente. |
+| Cojocaru como principal casa receptora de cónyuges Therin | Canon: ficha de Cojocaru. |
+| Enescu, Yuriev, Dravora, Goros y Casa Dravor | Canon: fichas de casas y Valastir; posición interna de Goros en reserva. |
+| Ileana, Ecaterina, Uriel y Yelena | Descartado: eliminación definitiva de sus cuatro fichas y de sus relaciones anteriores. |
 | Valastir independiente en época de Sandor | Canon: ficha de Valastir y referencias geopolíticas necesarias. |
 | Faro como defensa ante la caída de Valastir | Canon: Esteria, Foso y Guardia Amarilla. |
 | Orden temporal durante la dinastía Mormund | Canon: Valastir y cronología, sin años exactos. |
@@ -103,8 +106,8 @@ previa.
 
 ## Verificación posterior al volcamiento autorizado
 
-1. Buscar referencias activas a los nombres sustituidos y a las relaciones
-   descanonizadas que hayan recibido decisión humana.
+1. Buscar referencias activas a los nombres sustituidos y a las cuatro fichas
+   retiradas.
 2. Revisar índices, enlaces y tablas territoriales.
 3. Verificar que Valastir no aparezca como integrante de los doce reinos ni de
    los siete protectorados.

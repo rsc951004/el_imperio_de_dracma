@@ -104,6 +104,9 @@ Tras la caída de Yuriev, la reina **Dravora**, descendiente de Enescu, fundó l
 **Casa Dravor**, casa real de Valastir, e inauguró la dinastía Dravora. La casa
 real conserva su propia continuidad dentro de Valastir.
 
+La **Casa Goros** es una casa de Valastir. Su posición, continuidad y miembros
+relevantes quedan reservados.
+
 El proceso de anexión no se completó. En la época de Sandor, Valastir continúa
 fuera de Dragma y funciona como un Estado independiente, pese a las
 transformaciones culturales y jurídicas producidas por los contactos previos.
