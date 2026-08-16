@@ -3,7 +3,7 @@
 Esta guía rige los nombres de personas y casas de Eisengard, Guldengard,
 Flemmengard, Sturmgard y otros territorios vinculados con el Hierro.
 
-## Fuente de sonoridad
+## Contexto y referencia externa
 
 1. La base de los nombres es **germánica**.
 2. Esta base es una convención de escritura externa; no designa un pueblo ni una
@@ -22,11 +22,22 @@ Flemmengard, Sturmgard y otros territorios vinculados con el Hierro.
    española convencional.
 4. Las casas siguen la misma fuente de sonoridad que los nombres personales.
 
-## Cantera de nombres
+## Prefijos, grupos y sufijos
+
+Los prefijos frecuentes son `Adal-`, `Arn-`, `Ber-`, `Eber-`, `Falk-`,
+`Gund-`, `Hrod-`, `Liut-`, `Regin-`, `Sig-`, `Ulf-` y `Wulf-`. Los grupos
+consonánticos `rd`, `rg`, `lf`, `ld`, `ng` y `th` refuerzan la sonoridad del
+Hierro. Los sufijos masculinos habituales son `-ric`, `-gar`, `-hard`, `-mar`,
+`-mund`, `-ulf` y `-wald`; los femeninos, `-a`, `-ra`, `-hild`, `-garda` y
+`-linde`; y los de casas, `-wald`, `-var`, `-brand`, `-hain` y `-berg`.
+
+## Ejemplos
 
 Los siguientes nombres son raíces y modelos para personajes y linajes vinculados
 con el Hierro. Al utilizarlos, se les aplican las transformaciones fantásticas
 de esta guía. No asignan origen, oficio, época ni función narrativa.
+
+### Nombres masculinos
 
 - Alaric
 - Adalhard
@@ -114,6 +125,47 @@ de esta guía. No asignan origen, oficio, época ni función narrativa.
 - Sieghard
 - Theodulf
 - Wulfstan
+
+### Nombres femeninos
+
+- Adalra
+- Alfruna
+- Arnheida
+- Berhilda
+- Brandela
+- Dagmara
+- Eberlinde
+- Falkhilda
+- Fridgarda
+- Gisela
+- Gundara
+- Halvara
+- Heimira
+- Hrodgarda
+- Irmina
+- Liutlinde
+- Reginra
+- Sighilda
+- Ulfara
+- Waldlinde
+
+### Casas
+
+- Casa Adalvar
+- Casa Arnwald
+- Casa Berhaina
+- Casa Brandberg
+- Casa Eberwald
+- Casa Falkvar
+- Casa Fridbrand
+- Casa Gundrek
+- Casa Hrodhain
+- Casa Irmwald
+- Casa Liutberg
+- Casa Reginvar
+- Casa Sigbrand
+- Casa Ulfhain
+- Casa Wulfberg
 
 ## Restricción social de los nombres territoriales
 

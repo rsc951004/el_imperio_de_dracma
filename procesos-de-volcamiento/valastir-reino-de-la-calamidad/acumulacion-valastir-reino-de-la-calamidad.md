@@ -758,7 +758,7 @@ pendiente de auditoría y volcamiento futuro.
 - `docs/casas/therin.md`
 - `docs/mundo/stigria/roshdom.md`
 - `docs/mundo/stigria/sangheskios.md`
-- `docs/mundo/stigria/dragma/nombres-carmesi.md`
+- `docs/mundo/stigria/cantera-de-nombres/carmesi.md`
 - `docs/mundo/stigria/edad-de-plata.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
 - `docs/cronologia.md`

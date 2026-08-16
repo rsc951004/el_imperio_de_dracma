@@ -24,7 +24,7 @@ conflictos y efectos de un posible volcamiento y no resuelve ninguno de ellos.
 - fichas de Kyst, Lyng, Bjorn y Sindria bajo `docs/mundo/stigria/dragma/`
 - `docs/entidades/joten.md`
 - `docs/mundo/stigria/dragma/dragma.md`
-- `docs/mundo/stigria/dragma/nombres-de-la-bruma.md`
+- `docs/mundo/stigria/cantera-de-nombres/bruma.md`
 
 ## Hallazgos por nudo
 

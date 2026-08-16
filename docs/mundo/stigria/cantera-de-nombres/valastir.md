@@ -2,7 +2,7 @@
 
 Esta guía rige los nombres de personas y linajes de Valastir.
 
-## Origen de la sonoridad
+## Contexto y referencia externa
 
 Valastir nació de una comunidad de supervivientes compuesta, de forma
 aproximada, por un **60 % sangheskio**, un **20 % de Sangre de Hierro**, un
@@ -13,12 +13,18 @@ contactos y descendencias compartidas con las otras tres tradiciones.
 Estas denominaciones son referencias internas al origen de la comunidad. Un
 nombre valastiriano no identifica por sí solo la ascendencia de quien lo lleva.
 
-## Rasgos de la amalgama
+Como convención de escritura externa, su sonoridad combina las referencias
+rumana de los Sangheskios, germánica del Hierro, grecolatina del Verano y
+danesa-islandesa de la Bruma. Ninguna de ellas existe como cultura dentro de
+Stigria.
 
-Los nombres de Valastir funden fragmentos fonéticos de las cuatro
-procedencias, sin trasladar nombres, apellidos ni casas completos. Conservan
-consonantes finales y grupos moderados como `sk`, `rd`, `ld`, `rk`, `-vek` y
-`-ysk`, que dan a la cantera una sonoridad propia.
+## Prefijos, grupos y sufijos
+
+Los prefijos frecuentes son `Arv-`, `Ber-`, `Das-`, `Esh-`, `Fjor-`, `Kel-`,
+`Rot-`, `Sar-`, `Uld-` y `Zel-`. Los nombres funden fragmentos fonéticos de las
+cuatro procedencias sin trasladar nombres, apellidos ni casas completos.
+Conservan grupos moderados como `sk`, `rd`, `ld` y `rk`, y sufijos como `-vek`,
+`-ysk`, `-en`, `-ar`, `-or`, `-ys` y `-eva`.
 
 Se evitan `th`, `phy`, `w` y los cierres de tres consonantes seguidas, porque
 entorpecen la pronunciación sin aportar una distinción necesaria.

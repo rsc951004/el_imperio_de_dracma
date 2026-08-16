@@ -37,7 +37,7 @@ integración política en Dragma no se ha consumado.
 - `docs/personajes/iulien-therin.md`
 - `docs/personajes/belarik-torzan.md`
 - `docs/mundo/stigria/roshdom.md`
-- `docs/mundo/stigria/nombres-de-valastir.md`
+- `docs/mundo/stigria/cantera-de-nombres/valastir.md`
 - `docs/casas/enescu.md`
 - `docs/casas/yuriev.md`
 - `docs/casas/dravor.md`

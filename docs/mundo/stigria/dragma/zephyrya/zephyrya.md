@@ -139,7 +139,7 @@ Turismo de todo el imperio. Agricultura de planicie y ganadería. Comercio de pi
 Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro).
 
 Las reglas fonéticas y gráficas comunes del Verano están en
-[`nombres-del-verano.md`](../nombres-del-verano.md).
+[`verano.md`](../../cantera-de-nombres/verano.md).
 
 **Temas:** amor, luz, sol, primavera, flores, alegría, belleza. Zephyrya es la flor del Verano: nombres elegantes, bellos, floridos. Sufijos típicos: -yon, -yss, -yas.
 

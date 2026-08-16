@@ -3,6 +3,13 @@
 Esta guía rige los nombres de personas y casas de Lysarya, Zephyrya, Vesperya,
 Alessya y otros territorios vinculados con el Verano.
 
+## Contexto y referencia externa
+
+Los Reinos del Verano comparten una tradición surgida de los Hijos del Sol. Su
+referencia externa es **grecolatina**, transformada por la grafía propia del
+Verano. Esta referencia es una convención de escritura y no designa un pueblo
+ni una cultura existentes dentro de Stigria.
+
 ## Reglas fonéticas y gráficas
 
 1. La base de los nombres es **grecolatina**, transformada por la grafía propia
@@ -39,6 +46,14 @@ si la persona no pertenece a la nobleza ni tiene parentesco reconocido con una
 casa noble o real. Esta restricción alcanza, entre otras, las formas derivadas
 de Lysarya y Zephyrya. No impide su uso legítimo por las familias nobles y
 reales vinculadas al territorio.
+
+## Prefijos, raíces y sufijos
+
+- Prefijos y raíces frecuentes: `Ath-`, `Ely-`, `Kal-`, `Lyk-`, `Myr-`,
+  `Nys-`, `Ory-`, `Phae-`, `Rhy-`, `Sel-`, `Thal-`, `Xyph-` y `Zeph-`.
+- Sufijos masculinos: `-on`, `-os`, `-ys`, `-yon`, `-thos` y `-kys`.
+- Sufijos femeninos: `-ya`, `-yss`, `-ythys`, `-elya` y `-enya`.
+- Sufijos de casas: `-ion`, `-yon`, `-os`, `-ys` y `-thar`.
 
 ## Cantera de nombres y casas
 

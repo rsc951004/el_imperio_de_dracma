@@ -3,7 +3,7 @@
 Esta guía rige los nombres de personas y casas de Kystvar, Lyngven, Biormyr y otros
 territorios vinculados con la Bruma.
 
-## Fuente de sonoridad
+## Contexto y referencia externa
 
 1. La base de los nombres combina sonoridades **danesas** e **islandesas**.
 2. Estas fuentes son convenciones de escritura externas; no designan pueblos ni
@@ -20,17 +20,20 @@ territorios vinculados con la Bruma.
    debe conservar una sonoridad fantástica propia.
 4. Las casas siguen la misma fuente de sonoridad que los nombres personales.
 
-## Rasgos fonéticos
+## Prefijos, grupos y sufijos
 
-Los nombres de la Bruma se distinguen por grupos consonánticos como `sk`, `kj`,
-`fj`, `hj`, `ld`, `rn` y `rk`, y por terminaciones como `-rik`, `-var`, `-vik`,
-`-ven`, `-nar` y `-rek`. Estas pautas orientan nombres nuevos sin imponer una
-estructura única.
+Los prefijos frecuentes son `Ael-`, `Bryn-`, `Eld-`, `Fjol-`, `Hjor-`, `Kjar-`,
+`Lynd-`, `Rav-`, `Skal-` y `Val-`. Los nombres se distinguen por grupos como
+`sk`, `kj`, `fj`, `hj`, `ld`, `rn` y `rk`, y por sufijos como `-rik`, `-var`,
+`-vik`, `-ven`, `-nar` y `-rek`. Estas pautas orientan nombres nuevos sin
+imponer una estructura única.
 
-## Cantera de nombres
+## Ejemplos
 
-Los siguientes nombres están disponibles para personajes vinculados con la
-Bruma. No asignan origen, oficio, época ni función narrativa.
+Los siguientes nombres están disponibles para personajes y casas vinculados
+con la Bruma. No asignan origen, oficio, época ni función narrativa.
+
+### Nombres masculinos
 
 - Aelrik
 - Alvor
@@ -92,7 +95,30 @@ Bruma. No asignan origen, oficio, época ni función narrativa.
 - Ylvar
 - Yngrek
 
-## Cantera de casas y clanes
+### Nombres femeninos
+
+- Aelvara
+- Askelda
+- Brynveka
+- Daegira
+- Eldrana
+- Fenrika
+- Fjorva
+- Galdrina
+- Haldreka
+- Hjorvena
+- Kaelvara
+- Kjarveta
+- Lyndara
+- Morkela
+- Ravnera
+- Skalvena
+- Svanrika
+- Valdrika
+- Veldrena
+- Ylvara
+
+### Casas
 
 - Casa Aelrik
 - Casa Arnvek

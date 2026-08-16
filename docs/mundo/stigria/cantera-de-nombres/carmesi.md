@@ -4,7 +4,7 @@ Esta guía rige los nombres de personas y casas de los territorios Carmesíes y
 de sus continuidades históricas, incluidos los ámbitos de Dresk, Weissen y
 Esteria cuando corresponda.
 
-## Fuente de sonoridad
+## Contexto y referencia externa
 
 1. La base principal de los nombres es **rumana**, con aportes **búlgaros**,
    **serbios/macedonios**, **húngaros** y **ucranianos/rusinos**.
@@ -32,7 +32,7 @@ Esteria cuando corresponda.
    debe conservar una sonoridad fantástica propia.
 4. Las casas siguen la misma fuente de sonoridad que los nombres personales.
 
-## Patrones fonéticos
+## Prefijos, raíces y sufijos
 
 Los nombres masculinos pueden combinar los siguientes bloques, sin que la lista
 sea exhaustiva:

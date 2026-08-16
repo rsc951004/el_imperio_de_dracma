@@ -80,7 +80,17 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Foso de la Calamidad | Accidente geográfico | Grieta abierta dentro del Riegel al final de la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/foso-de-la-calamidad.md) |
 | Valgard | Estado histórico | Estado pre-imperial. En su fase Raikim, tiranía que dominó Stigria. Derrocado por los ocho reinos. | [Ver ficha](mundo/stigria/valgard.md) |
 | Valastir | Reino independiente | Reino de Rauven nacido de los supervivientes de Roshdom. | [Ver ficha](mundo/stigria/valastir.md) |
-| Nombres de Valastir | Guía onomástica | Amalgama de raíces sangheskias, del Hierro, el Verano y la Bruma para personas y linajes valastirianos. | [Ver ficha](mundo/stigria/nombres-de-valastir.md) |
+
+### Cantera de nombres
+
+| Nombre | Tipo | Descripción breve | Ficha |
+|--------|------|-------------------|-------|
+| Cantera de nombres de Stigria | Índice | Acceso central a las guías onomásticas y al manual de construcción y revisión. | [Ver índice](mundo/stigria/cantera-de-nombres/indice.md) |
+| Nombres de los Dominios Carmesíes | Guía onomástica | Sonoridad rumana con aportes regionales para los territorios Carmesíes. | [Ver ficha](mundo/stigria/cantera-de-nombres/carmesi.md) |
+| Nombres del Valle de Hierro | Guía onomástica | Sonoridad germánica y ejemplos para los territorios del Hierro. | [Ver ficha](mundo/stigria/cantera-de-nombres/hierro.md) |
+| Nombres de los Reinos del Verano | Guía onomástica | Reglas gráficas y ejemplos para las tierras del Verano. | [Ver ficha](mundo/stigria/cantera-de-nombres/verano.md) |
+| Nombres de la Tierra de la Bruma | Guía onomástica | Sonoridad danesa-islandesa y ejemplos para la Bruma. | [Ver ficha](mundo/stigria/cantera-de-nombres/bruma.md) |
+| Nombres de Valastir | Guía onomástica | Amalgama sangheskia, del Hierro, el Verano y la Bruma. | [Ver ficha](mundo/stigria/cantera-de-nombres/valastir.md) |
 
 ### Dragma (Imperio)
 
@@ -92,10 +102,6 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | La Concordia | Reformas | Cuerpo de reformas de Vilem Mormund que refundaron el pacto social del imperio. | [Ver ficha](mundo/stigria/dragma/concordia.md) |
 | Stamengherin | Institución | Asamblea extraordinaria que resuelve cambios dinásticos y puede reformar la estructura territorial o política del imperio. | [Ver ficha](mundo/stigria/dragma/stamengherin.md) |
 | Cinco Víer de Eldenheim | Divisiones administrativas | Rostheim, Eldenfeld, Rissbruck, Drakenau y Vesterfeld, subordinados al Kaisrik. | [Ver ficha](mundo/stigria/dragma/vier-de-eldenheim.md) |
-| Nombres de los Reinos del Verano | Guía onomástica | Reglas fonéticas, gráficas y cantera común de nombres para las tierras del Verano. | [Ver ficha](mundo/stigria/dragma/nombres-del-verano.md) |
-| Nombres del Valle de Hierro | Guía onomástica | Sonoridad germánica y reglas de transformación para los territorios del Hierro. | [Ver ficha](mundo/stigria/dragma/nombres-del-hierro.md) |
-| Nombres de los Dominios Carmesíes | Guía onomástica | Sonoridad rumana con aportes búlgaros y reglas de transformación para los territorios Carmesíes. | [Ver ficha](mundo/stigria/dragma/nombres-carmesi.md) |
-| Nombres de la Tierra de la Bruma | Guía onomástica | Sonoridad danesa-islandesa y reglas de transformación para los territorios de la Bruma. | [Ver ficha](mundo/stigria/dragma/nombres-de-la-bruma.md) |
 | Tierras Intermedias | Territorio | Territorios sin dueño del Gherin. Páramos, costas y tierras entre reinos. Bienes comunes. | Pendiente |
 
 #### Los 12 Reinos

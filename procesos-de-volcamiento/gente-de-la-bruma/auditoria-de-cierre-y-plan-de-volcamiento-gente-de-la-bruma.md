@@ -113,7 +113,7 @@ Biormyr en centro comercial y forestal, según R-23.
 
 - `docs/12-reinos.md`
 - `docs/mundo.md`
-- `docs/mundo/stigria/dragma/nombres-de-la-bruma.md`
+- `docs/mundo/stigria/cantera-de-nombres/bruma.md`
 - fichas y directorios de `kyst/`, `lyng/` y `bjorn/`
 - casas Fjolvar, Kjarven y Hjorven; personajes, enlaces e índices que los
   mencionan
