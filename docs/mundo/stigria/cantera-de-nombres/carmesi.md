@@ -327,49 +327,28 @@ asignan origen, oficio, época ni función narrativa.
 - Casa Ostaprik
 - Casa Hryhoren
 - Casa Venkorev
-Casa Dravrek
-
-Casa Zolkar
-
-Casa Vranek
-
-Casa Kreskov
-
-Casa Mirlosh
-
-Casa Bozdar
-
-Casa Veldran
-
-Casa Storvan
-
-Casa Nevrek
-
-Casa Slarek
-
-Casa Dobren
-
-Casa Grivar
-
-Casa Korzad
-
-Casa Torvek
-
-Casa Istvor
-
-Casa Hrydek
-
-Casa Pavlor
-
-Casa Zenrek
-
-Casa Ravmir
-
-Casa Voldren
-
-Casa Fernek
-
-Casa Ostrak
+- Casa Dravrek
+- Casa Zolkar
+- Casa Vranek
+- Casa Kreskov
+- Casa Mirlosh
+- Casa Bozdar
+- Casa Veldran
+- Casa Storvan
+- Casa Nevrek
+- Casa Slarek
+- Casa Dobren
+- Casa Grivar
+- Casa Korzad
+- Casa Torvek
+- Casa Istvor
+- Casa Hrydek
+- Casa Pavlor
+- Casa Zenrek
+- Casa Ravmir
+- Casa Voldren
+- Casa Fernek
+- Casa Ostrak
 
 ## Restricción social de los nombres territoriales
 
