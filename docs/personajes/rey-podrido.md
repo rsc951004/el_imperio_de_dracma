@@ -2,8 +2,9 @@
 
 ## Identidad
 
-Entidad soberana del Reino Podrido. La campaña de Rudgar y Stelian lo confinó
-inicialmente en Rauven; un segundo sellado fue intentado después en Roshdom.
+Entidad soberana del Reino Podrido. La campaña de Rudgar e Iulien lo confinó
+inicialmente en Rauven; Iulien lo confinó después en las profundidades del
+Grimmen tras liberar Roshdom.
 
 ## Origen secreto
 
@@ -83,26 +84,25 @@ Después cerró Velesk y permaneció detrás de las Murallas Carmesí durante
 generaciones. Cuando Rudgar tenía dieciséis años, abrió la Puerta Negra e inició
 la conquista del Gherin.
 
-Cinco años después, Stelian Therin lo hirió con fulgor solar cuando intentaba
+Cinco años después, Iulien Therin lo hirió con fulgor solar cuando intentaba
 poseer a Rudgar. El poder quemó sus ropas y su cuerpo; su grito pareció contener
 miles de voces humanas. La causa de este fenómeno no está establecida.
 
-En el año **-224**, Rudgar, Stelian y sus aliados
+En el año **-224**, Rudgar, Iulien y sus aliados
 lo hirieron y obligaron a retroceder hasta Rauven. La apertura del Foso de la
 Calamidad y el derrumbe del conducto del Rost aislaron el Grimmen del Gherin.
 
-En el año **-193**, Stelian y los Guardianes de Esteria entraron en Rauven y alcanzaron
-la Jaula Negra de Roshdom. Intentaron sellar la estructura con minerales de
-Stömur, pero una horda atacó la expedición. Se desconoce si el segundo sellado
-confinó definitivamente al Rey Podrido. Desde entonces su presencia no volvió a
-percibirse cerca del Paso del Oriente y los Grimm disminuyeron en número.
+En el año **-193**, Iulien y los Guardianes de Esteria entraron en Rauven,
+liberaron Roshdom y confinaron al Rey Podrido en las profundidades del Grimmen.
+Desde entonces su presencia no volvió a percibirse cerca del Paso del Oriente y
+los Grimm disminuyeron en número.
 
 ## Referencias
 
 - docs/personajes/radu.md
 - docs/personajes/strigor.md
 - docs/personajes/rudgar-valgard.md
-- docs/personajes/stelian-therin.md
+- docs/personajes/iulien-therin.md
 - docs/mundo/stigria/edad-de-la-podredumbre.md
 - docs/mundo/stigria/edad-de-plata.md
 - docs/personajes/katerina.md

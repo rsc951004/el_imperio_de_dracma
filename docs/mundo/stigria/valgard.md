@@ -51,7 +51,7 @@ descendientes conoce esa ascendencia.
 
 - `docs/personajes/val-el-terrible.md`
 - `docs/personajes/rudgar-valgard.md`
-- `docs/personajes/stelian-therin.md`
+- `docs/personajes/iulien-therin.md`
 - `docs/personajes/odalric-valgard.md`
 - `docs/personajes/baldur-valgard.md`
 - `docs/casas/valgard.md`

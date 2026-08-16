@@ -36,7 +36,7 @@ la Podredumbre, que terminó con el confinamiento inicial de la entidad en el a�
 astrianos fundaron Khalos y los esclavos liberados de Astria formaron la Costa
 del Verano.
 
-La campaña de Rudgar Valgard y Stelian Therin obligó al Rey Podrido a retroceder
+La campaña de Rudgar Valgard e Iulien Therin obligó al Rey Podrido a retroceder
 hasta Rauven y estableció su confinamiento inicial. Después de un periodo de
 transición, el segundo Stamengherin documentado proclamó a Rudgar primer Raik
 en el año **-214**, fundó el Raikim y abrió la Edad de Plata. La muerte de

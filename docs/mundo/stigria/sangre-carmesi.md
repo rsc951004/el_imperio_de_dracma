@@ -17,7 +17,7 @@ se produjo cuando el Raikim alcanzó ese dominio. La declaración puso Dresk y
 Weissen bajo su potestad; en el año **-203**, los territorios recibieron los
 nombres de Veleskgard y Sindgard.
 
-Stelian Therin recibió el título de señor y Guardián del Paso del Oriente. El
+Iulien Therin recibió el título de señor y Guardián del Paso del Oriente. El
 Paso comprende Esteria, el Foso de la Calamidad y el Riegel; ningún señor ni
 Raik puede atacarlo o reclamarlo como heredad propia.
 

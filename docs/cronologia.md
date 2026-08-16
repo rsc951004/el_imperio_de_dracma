@@ -33,14 +33,14 @@ números positivos:
 | **Año -330** | Los esclavos liberados de Astria transforman el litoral de Dürr y forman la **Costa del Verano**. |
 | **Año -300** | Artemis descubre Delfos. |
 | **Año -230** | La Puerta Negra se abre cuando Rudgar Valgard tiene dieciséis años. Las hordas del Reino Podrido conquistan casi todo el Gherin durante los cinco años siguientes. |
-| **Año -225** | Astrid desaparece en una fortaleza de Sturm. Rudgar, ya de veintiún años, encuentra a Stelian Therin, de catorce años. Stelian hiere al Rey Podrido mediante su fulgor solar. |
+| **Año -225** | Astrid desaparece en una fortaleza de Sturm. Rudgar, ya de veintiún años, encuentra a Iulien Therin, de catorce años. Iulien hiere al Rey Podrido mediante su fulgor solar. |
 | **Año -225** | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->El hijo de Astrid y Rudgar sobrevive; la continuidad de esa línea permanece oculta durante la Edad de Oro.<!-- CANON-VELADO: FIN --> |
-| **Año -224** | La campaña de Rudgar y Stelian obliga al Rey Podrido a retroceder hasta Rauven. Los Portadores abren el Foso de la Calamidad en el Riegel y derrumban el conducto sumergido del Rost. El confinamiento inicial del Rey Podrido cierra la Edad de la Podredumbre. |
+| **Año -224** | La campaña de Rudgar e Iulien obliga al Rey Podrido a retroceder hasta Rauven. Los Portadores abren el Foso de la Calamidad en el Riegel y derrumban el conducto sumergido del Rost. El confinamiento inicial del Rey Podrido cierra la Edad de la Podredumbre. |
 | **Año -214** | El segundo Stamengherin documentado proclama a Rudgar primer Raik y funda el Raikim. Comienza la **Edad de Plata**. |
-| **Año -211** | Ante el incumplimiento de Frosthain, Stelian funda Esteria junto al Foso y dirige la limpieza del norte. |
-| **Año -204** | La guerra de Unland revela la intervención de los Emisarios de la Ruina. Stelian vuelve a combatir junto a Rudgar. |
-| **Año -203** | Rudgar proclama a los Sangre de Hierro Carmesí y crea la Guardia del Norte para la Marcha Carmesí. Reconoce a Stelian como señor y Guardián del Paso del Oriente. |
-| **Año -193** | Stelian entra en Rauven con Guardianes de Esteria, alcanza Roshdom e intenta un segundo sellado del Rey Podrido. Desaparece durante la incursión. |
+| **Año -211** | Ante el incumplimiento de Frosthain, Iulien funda Esteria junto al Foso y dirige la limpieza del norte. |
+| **Año -204** | La guerra de Unland revela la intervención de los Emisarios de la Ruina. Iulien vuelve a combatir junto a Rudgar. |
+| **Año -203** | Rudgar proclama a los Sangre de Hierro Carmesí y crea la Guardia del Norte para la Marcha Carmesí. Reconoce a Iulien como señor y Guardián del Paso del Oriente. |
+| **Año -193** | Iulien entra en Rauven con Guardianes de Esteria, libera Roshdom y confina al Rey Podrido en las profundidades del Grimmen. La campaña origina Valastir. |
 | **Año -173** | Rudgar recibe su primera coronación en Eldengard, ante los doce señores de Dominio, tras la unificación del Raikim. |
 | **Año -163** | Muere Rudgar. Termina la **Edad de Plata**. |
 | **Año -163** | Comienza la **Edad de la Tiranía** con la sucesión de Drakar Valgard, segundo Raik. La edad comprende los dieciséis Raiks posteriores a Rudgar, hasta Grimar. |

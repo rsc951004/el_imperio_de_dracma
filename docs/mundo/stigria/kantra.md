@@ -8,7 +8,7 @@ propia. No activa el don, no es obligatoria y no existe una fórmula universal.
 
 ## Ejemplo documentado
 
-Durante la Guerra de Unland, Stelian Therin empleó la Kantra **«Ta-besh»** como
+Durante la Guerra de Unland, Iulien Therin empleó la Kantra **«Ta-besh»** como
 apoyo al manifestar su fulgor solar.
 
 ## Referencias

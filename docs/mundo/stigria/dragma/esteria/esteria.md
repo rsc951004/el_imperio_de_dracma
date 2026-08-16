@@ -16,9 +16,9 @@ cordón de Dorn.
 ## Fundación
 
 En el año **-211**, tres años después del segundo Stamengherin documentado,
-Stelian Therin fundó Esteria como asentamiento de vigilancia. Lo acompañaban Sangheskios y mujeres
+Iulien Therin fundó Esteria como asentamiento de vigilancia. Lo acompañaban Sangheskios y mujeres
 de Sturm. Frosthain no había cumplido su deber de limpiar el norte, de modo que
-Stelian asumió la defensa de la frontera y la limpieza de la región.
+Iulien asumió la defensa de la frontera y la limpieza de la región.
 
 La fortificación creció alrededor de la Guardia del Norte y de las familias
 que llegaron desde el sur. Se convirtió en una ciudad de piedra, depósitos,
@@ -29,7 +29,7 @@ generaciones.
 
 Esteria no perteneció a los doce Dominios y no puede ser heredada por un reino.
 La Casa Therin gobernó el Paso hasta el Gran Concilio del Hielo, cuando Eirik
-Valgard retiró a Lumino Therin y entregó la administración a la Guardia
+Valgard retiró a Ostren Therin y entregó la administración a la Guardia
 Amarilla.
 
 Después del decreto de Sigmar, los puestos de **Señor de Esteria** y
@@ -40,14 +40,15 @@ Solar, que todavía no se ha producido en la Edad de Oro.
 
 ## Roshdom
 
-En el año **-193**, diez años después de la proclamación Carmesí, Stelian partió desde Esteria con
-guardianes del norte hacia Roshdom, en Rauven. Solo unos pocos regresaron y
-Stelian no estaba entre ellos. No se sabe si el Rey Podrido quedó realmente
-confinado durante la incursión.
+En el año **-193**, diez años después de la proclamación Carmesí, Iulien partió desde Esteria con
+guardianes del norte hacia Roshdom, en Rauven. Liberó la fortaleza, confinó al
+Rey Podrido en las profundidades del Grimmen y permaneció en Rauven con los
+supervivientes que formaron el origen de Valastir.
 
 ## Faro y apertura de Esteria
 
-El Gran Faro fue construido después de la Edad de Plata. En él se quema la
+El Gran Faro fue construido después de la Edad de Plata para impedir que los
+Grimm o el Rey Podrido cruzaran desde Rauven si Valastir caía. En él se quema la
 **Lumbre**, una amalgama de hojas secas de Ravun y polvo de Stömur. Su
 combustión produce una luz amarilla intensa que quema y debilita a Grimm y
 poseídos. La vía, el momento y los custodios que transmitieron este saber a

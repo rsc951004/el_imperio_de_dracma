@@ -23,7 +23,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Límite de Stigria** | Determinar qué ocurre si el Rey Podrido, un Grimm o un poseído intenta abandonar el continente. |
 | **Voces del Rey Podrido** | Determinar la naturaleza de las miles de voces perceptibles en su grito. |
 | **Astrid** | Resolver el destino de Astrid y <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->el desarrollo posterior de la línea superviviente de su hijo con Rudgar.<!-- CANON-VELADO: FIN --> |
-| **Fortaleza de Sturm** | Fijar el nombre de la fortaleza donde desapareció Astrid y Rudgar encontró a Stelian. |
+| **Fortaleza de Sturm** | Fijar el nombre de la fortaleza donde desapareció Astrid y Rudgar encontró a Iulien. |
 | **Kys Tábura** | Resolver las circunstancias de su desaparición antes de la Edad de Oro. |
 | **Peregrinos Negros** | Resolver el destino de los emisarios que persiguieron a los refugiados astrianos hasta Stigria. |
 | **Emisarios de la Ruina** | Precisar el alcance de su red después de la guerra de Unland y el destino de los capturados. |

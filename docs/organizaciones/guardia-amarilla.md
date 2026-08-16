@@ -8,7 +8,8 @@ Orden defensiva y autoridad provisional de Esteria.
 
 La Guardia Amarilla nació de la tradición de la Guardia del Norte. Su nombre
 procede de la luz amarilla que protege la barrera. Esa luz se produce al quemar
-la **Lumbre**, material fabricado para el Gran Faro de Esteria. Durante el Gran
+la **Lumbre**, material fabricado para el Gran Faro de Esteria ante la posible
+caída de Valastir. Durante el Gran
 Concilio del Hielo, la Guardia se convirtió en la fuerza encargada de
 administrar la ciudad bajo la autoridad del Raikim.
 

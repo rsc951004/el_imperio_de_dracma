@@ -46,7 +46,7 @@ supervivientes fueron esclavizados por los Gheran. Durante generaciones, los
 Portadores descubiertos entre ellos fueron ejecutados por temor a que
 reconstruyeran el Dominio Carmesí.
 
-Stelian Therin nació entre esos descendientes y sus padres ocultaron que era un
+Iulien Therin nació entre esos descendientes y sus padres ocultaron que era un
 Maeyis. Rudgar liberó a los Sangheskios del norte durante la Edad de Plata, los
 convirtió en Sangre de Hierro Carmesí y organizó la Guardia del Norte para la
 Marcha Carmesí.
@@ -71,4 +71,4 @@ tonalidades de verde. Estos rasgos no determinaban por sí solos la pertenencia.
 - `docs/mundo/stigria/edad-del-hierro.md`
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`
 - `docs/mundo/stigria/sangre-carmesi.md`
-- `docs/personajes/stelian-therin.md`
+- `docs/personajes/iulien-therin.md`

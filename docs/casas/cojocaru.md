@@ -1,5 +1,3 @@
-<!-- DESCANONIZADO | estado: pendiente de revisión para recanonización o eliminación definitiva -->
-
 # Casa Cojocaru
 
 ## Datos generales
@@ -7,16 +5,15 @@
 | Campo | Valor |
 |-------|-------|
 | **Nombre** | Cojocaru |
-| **Tipo** | Casa noble menor |
-| **Reino** | Veleskaria |
-| **Lema** | Pendiente |
-| **Escudo** | Pendiente |
-| **Fundador** | Pendiente |
+| **Tipo** | Casa noble |
+| **Reino** | Valastir |
 
 ## Historia y descripción
 
-Casa noble de Veleskaria. Nombres de sonoridad rumana. Linaje dentro de la Casa Enescu. Casa de origen de la reina consorte de Sindria.
+Casa noble de Valastir. Es la casa que recibió con mayor frecuencia a miembros
+de la Casa Therin de Valastir como cónyuges.
 
 ## Miembros relevantes
 
-- **Ecaterina Cojocaru**. Reina consorte de Sindria. Hermana de Ileana Enescu.
+- **Cassyan Therin:** nacido Osrik Cojocaru.
+- **Arys Therin:** nacida Valmira Cojocaru.

@@ -11,3 +11,4 @@ Cada organización o grupo canónico posee una ficha individual en la carpeta `o
 | Peregrinos Negros | Organización religiosa histórica | Emisarios astrianos de Thalmos que persiguieron a los refugiados acogidos por la Gente de la Bruma. | [Ver ficha](organizaciones/peregrinos-negros.md) |
 | Guardia del Norte | Ejército temporal histórico | Fuerza creada para la Marcha Carmesí y disuelta tras la consolidación de los Dominios y Esteria. | [Ver ficha](organizaciones/guardia-del-norte.md) |
 | Guardia Amarilla | Orden defensiva | Orden que administra Esteria y custodia el Paso del Oriente. | [Ver ficha](organizaciones/guardia-amarilla.md) |
+| Banda del Colmillo Blanco | Grupo valastiriano | Grupo dirigido por el Portador Sombrío Imrik. | [Ver ficha](organizaciones/banda-del-colmillo-blanco.md) |

@@ -37,7 +37,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Val el Terrible | Caudillo y herrero | Jefe gheran de Eisen durante la Guerra del Valle Dorado. Dio nombre al clan Valgard. | [Ver ficha](personajes/val-el-terrible.md) |
 | Wolfram el Bardo | Jefe de clan | Jefe del clan Mormund y voz del antiguo Bloque de Hierro. | [Ver ficha](personajes/wolfram-el-bardo.md) |
 | Uther Boca de Sal | Caudillo antiguo | Primer gobernante conocido por utilizar el título de Raik. | [Ver ficha](personajes/uther-boca-de-sal.md) |
-| Stelian Therin | Personaje histórico | Portador del Sol, fundador de Esteria y Guardián del Paso del Oriente. Desaparecido en Rauven. | [Ver ficha](personajes/stelian-therin.md) |
+| Iulien Therin | Personaje histórico | Sangheskio y Portador del Sol; fundador de Esteria y de la Casa Therin de Dragma. | [Ver ficha](personajes/iulien-therin.md) |
 | Radu | Personaje histórico | Niño sangheskio de Rauven y Portador Sombrío. | [Ver ficha](personajes/radu.md) |
 | Strigor | Grimm | Ser incorpóreo de Rauven capaz de ocupar cadáveres recientes. | [Ver ficha](personajes/strigor.md) |
 | Lauffen | Grimm | Doncella Errante muerta por los primeros Sangheskios llegados a Stigria. | [Ver ficha](personajes/lauffen.md) |
@@ -45,7 +45,15 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Alastor Ormur | Personaje histórico | Miembro de la Casa Ormur pendiente de reubicación histórica. | [Ver ficha](personajes/alastor-ormur.md) |
 | Rey Podrido | Entidad soberana | Gobernante del Reino Podrido. Confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |
 | Armin Mormund | Noble y espadachín | Miembro actual de la Casa Mormund y maestro de Sandor Solarys. | [Ver ficha](personajes/armin-mormund.md) |
-| Lumino Therin | Personaje histórico | Último señor de la Casa Therin en Esteria. Despojado durante el Gran Concilio del Hielo. | [Ver ficha](personajes/lumino-therin.md) |
+| Ostren Therin | Personaje histórico | Último señor de la Casa Therin de Dragma en Esteria. Despojado durante el Gran Concilio del Hielo. | [Ver ficha](personajes/ostren-therin.md) |
+| Dravora | Reina histórica | Fundadora de la Casa Dravor y de su dinastía real en Valastir. | [Ver ficha](personajes/dravora.md) |
+| Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
+| Parys Therin | Personaje histórico | Cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
+| Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro del Grupo 3. | [Ver ficha](personajes/dymtrik.md) |
+| Milara «Mili» | Personaje histórico | Integrante del Grupo 3 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/milara.md) |
+| Imrik | Personaje histórico | Portador Sombrío que dirige el Grupo 3 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/imrik.md) |
+| Arys Therin | Personaje histórico | Hermana mayor de Cassyan y Parys; miembro del extinto Grupo 2. | [Ver ficha](personajes/arys-therin.md) |
+| Belarik Torzan | Personaje histórico | Explorador valastiriano que abrió el primer vínculo duradero con Dragma. | [Ver ficha](personajes/belarik-torzan.md) |
 | Stancu Radanescu | Personaje histórico | Señor de Sindgard durante el Gran Concilio del Hielo. | [Ver ficha](personajes/stancu-radanescu.md) |
 | Andrey Radanescu | Personaje histórico | Heredero de Sindgard y aprendiz de la Guardia Amarilla. | [Ver ficha](personajes/andrey-radanescu.md) |
 | Vedrik Frosthain | Personaje histórico | Último señor de la Casa Frosthain. Condenado al Grimmen. | [Ver ficha](personajes/vedrik-frosthain.md) |

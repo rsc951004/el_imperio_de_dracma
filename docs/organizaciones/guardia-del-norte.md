@@ -17,7 +17,7 @@ La **Marcha Carmesí** fue la campaña de la Guardia del Norte para asegurar los
 territorios del norte, proteger los asentamientos de los Dominios y consolidar
 Esteria como fortaleza del Paso del Oriente.
 
-Stelian Therin recibió el mando del Paso del Oriente, formado por Esteria, el
+Iulien Therin recibió el mando del Paso del Oriente, formado por Esteria, el
 Foso de la Calamidad y el Riegel. Su cargo de Guardián del Paso era personal y
 no convertía a la Casa Therin en soberana de los Dominios.
 

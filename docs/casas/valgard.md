@@ -21,7 +21,7 @@ predominio entre los Sangre de Hierro durante la Edad de la Podredumbre, recibi�
 la custodia de Eldengard durante la transición y se convirtió formalmente en
 casa al fundarse el Raikim.
 
-Rudgar Valgard y Stelian Therin dirigieron la campaña que obligó al Rey Podrido
+Rudgar Valgard e Iulien Therin dirigieron la campaña que obligó al Rey Podrido
 a retroceder hasta Rauven. Los Portadores abrieron el Foso de la Calamidad y
 derribaron el conducto del Rost para establecer su confinamiento inicial.
 Después de un periodo de transición, el segundo Stamengherin documentado

@@ -25,20 +25,20 @@ El hijo de Astrid y Rudgar sobrevivió. La continuidad de esa línea durante la
 Edad de Oro permanece oculta.
 <!-- CANON-VELADO: FIN -->
 
-## Stelian Therin y la liberación
+## Iulien Therin y la liberación
 
-En el año **-225**, Rudgar encontró a **Stelian Therin**, un sangheskio esclavizado de
+En el año **-225**, Rudgar encontró a **Iulien Therin**, un sangheskio esclavizado de
 catorce años, entre los escombros de la fortaleza de Sturm donde había buscado
-a Astrid. Stelian lo salvó de la posesión del Rey Podrido mediante fulgor solar.
+a Astrid. Iulien lo salvó de la posesión del Rey Podrido mediante fulgor solar.
 
 Ambos dirigieron la campaña del año **-224** que obligó al Rey Podrido a retirarse
 hasta Rauven. Los Portadores abrieron el Foso de la Calamidad y derrumbaron el
 conducto sumergido del Rost.
 
-Rudgar vio a Stelian por última vez en el año **-211**, antes de que este partiera
+Rudgar vio a Iulien por última vez en el año **-211**, antes de que este partiera
 al norte. No volvieron a encontrarse hasta el año **-204**, durante la guerra de
 Unland. Fue su último encuentro. Al año siguiente, en el **-203**, Rudgar proclamó a los
-Sangre de Hierro Carmesí y reconoció a Stelian como señor y Guardián del Paso
+Sangre de Hierro Carmesí y reconoció a Iulien como señor y Guardián del Paso
 del Oriente.
 
 ## Raikim
@@ -51,7 +51,7 @@ Oriente.
 
 Rudgar fue coronado en el Gran Salón del nuevo Eldengard ante los doce señores
 de Dominio, las grandes casas Sangre de Hierro, su esposa, sus hijos y sus
-nietos. Stelian ya había desaparecido en Rauven.
+nietos. Iulien ya se había establecido en Rauven.
 
 ## Pacto de Dürr y artefactos
 
@@ -72,12 +72,12 @@ cada señor de Dominio.
 
 ## Declaraciones y diálogos conservados
 
-### Ante Stelian
+### Ante Iulien
 
 > —Si hubiera sabido que traerías para mí un objeto tan magnífico, habría
 > preparado algo mejor.
 
-> —Stelian, querido Stelian, mi único amigo en el mundo, ¿qué haré contigo? Estoy
+> —Iulien, querido Iulien, mi único amigo en el mundo, ¿qué haré contigo? Estoy
 > tentado de prohibirte regresar a esa tierra helada y fría. Quédate a mi lado,
 > cásate con una mujer Sangre de Hierro y te construiré un castillo en la
 > llanura. Tus hijos jugarán con los míos y se casarán; nuestros nietos serán
@@ -105,7 +105,7 @@ cada señor de Dominio.
 > Hoy ha muerto el pueblo sangheskio y han nacido los Sangre de Hierro Carmesí.
 > Entre ellos se forma la Guardia del Norte. Sus gentes son nuestras gentes; a
 > ellas corresponderán
-> el dominio y la potestad sobre Dresk y Weissen. Proclamo, además, que Stelian,
+> el dominio y la potestad sobre Dresk y Weissen. Proclamo, además, que Iulien,
 > Estrella Fugaz, señor de la Casa Therin, será desde ahora señor y Guardián del
 > Paso del Oriente. Tendrá dominio y potestad sobre su fortaleza, la fortaleza
 > que separa nuestro mundo del Reino Podrido. Por tanto, ningún señor ni ningún
@@ -120,7 +120,7 @@ cada señor de Dominio.
 >
 > Dresk y Weissen serán de quienes las habiten, las limpien y derramen su sangre
 > por ellas. El Paso del Oriente no es heredad de ninguna casa: es la Gran
-> Barrera del Gherin. Stelian la guardará por todos nosotros.
+> Barrera del Gherin. Iulien la guardará por todos nosotros.
 >
 > Cuando hayas cruzado las Puertas Rojas, limpiado el norte y sostenido el Foso
 > ante la Ruina, vuelve a hablarme de servicio. Hasta entonces, no confundas la
@@ -130,7 +130,7 @@ cada señor de Dominio.
 ## Relaciones
 
 - **Astrid:** esposa desaparecida.
-- **Stelian Therin:** compañero de armas, señor de la Casa Therin y Guardián del
+- **Iulien Therin:** compañero de armas, señor de la Casa Therin y Guardián del
   Paso del Oriente.
 - **Baldur Valgard:** padre.
 - **Odalric Valgard:** abuelo.
@@ -139,7 +139,7 @@ cada señor de Dominio.
 ## Referencias
 
 - docs/personajes/astrid.md
-- docs/personajes/stelian-therin.md
+- docs/personajes/iulien-therin.md
 - docs/personajes/rey-podrido.md
 - docs/mundo/stigria/edad-de-la-podredumbre.md
 - docs/mundo/stigria/valgard.md

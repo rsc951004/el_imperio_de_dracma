@@ -1,5 +1,3 @@
-<!-- DESCANONIZADO | estado: pendiente de revisión para recanonización o eliminación definitiva -->
-
 # Casa Yuriev
 
 ## Datos generales
@@ -7,16 +5,10 @@
 | Campo | Valor |
 |-------|-------|
 | **Nombre** | Yuriev |
-| **Tipo** | Casa noble menor (rama interna) |
-| **Reino** | Sindria |
-| **Lema** | Pendiente |
-| **Escudo** | Pendiente |
-| **Fundador** | Pendiente |
+| **Tipo** | Casa real histórica |
+| **Reino** | Valastir |
 
 ## Historia y descripción
 
-Linaje noble dentro de la Casa Goros. Nombres de sonoridad rusa.
-
-## Miembros relevantes
-
-- **Uriel Goros** (de linaje Yuriev). Rey del Foso.
+La Casa Yuriev sucedió a los Enescu después de la guerra civil provocada por la
+anexión. Su dinastía rechazó todo contacto con Dragma.

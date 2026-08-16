@@ -7,18 +7,18 @@ Fortaleza Negra de Rauven, levantada por Sanghesk.
 ## Jaula Negra
 
 Después de la caída de Sanghesk, Roshdom pasó a ser llamada también la **Jaula
-Negra**. En el año **-193**, diez años después de la proclamación de los Sangre de Hierro Carmesí,
-Stelian Therin entró en Rauven con guardianes del norte de Esteria e intentó
-sellar la fortaleza con minerales de Stömur.
+Negra**. En el año **-193**, Iulien Therin entró en Rauven con guardianes del
+norte de Esteria. Liberó la fortaleza y confinó al Rey Podrido en las
+profundidades del Grimmen.
 
-Una horda atacó a la expedición. Solo unos pocos Guardianes regresaron y Stelian
-no estaba entre ellos. Se desconoce si el segundo sellado confinó
-definitivamente al Rey Podrido. Después de la incursión, su presencia dejó de
-percibirse cerca del Paso del Oriente y los Grimm disminuyeron en número.
+Los poseídos que habían seguido al Rey Podrido hasta Rauven fueron liberados de
+su dominio. Iulien no regresó al Gherin; los supervivientes de aquella campaña
+formaron el origen de Valastir. Desde entonces la presencia del Rey Podrido dejó
+de percibirse cerca del Paso del Oriente y los Grimm disminuyeron en número.
 
 ## Referencias
 
 - `docs/mundo/stigria/sanghesk.md`
 - `docs/mundo/stigria/grimmen.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
-- `docs/personajes/stelian-therin.md`
+- `docs/personajes/iulien-therin.md`

@@ -22,9 +22,9 @@ atacaron durante la noche acompañados por Grimm dirigidos de forma consciente.
 Quienes los guiaban parecían personas normales. Su temor al Acero del Alba
 reveló que eran Emisarios de la Ruina.
 
-Rudgar sostuvo el orden de sus ejércitos. Stelian Therin apareció siete años
+Rudgar sostuvo el orden de sus ejércitos. Iulien Therin apareció siete años
 después de la última vez que Rudgar lo había visto, descendió envuelto en fulgor
-solar y empleó la Kantra «Ta-besh». La batalla terminó esa misma noche: Stelian
+solar y empleó la Kantra «Ta-besh». La batalla terminó esa misma noche: Iulien
 quemó con su fulgor a casi todos los Grimm de Unland, los Emisarios huyeron y
 algunos fueron capturados.
 

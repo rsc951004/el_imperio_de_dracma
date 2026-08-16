@@ -22,13 +22,13 @@ cuando el Raikim ejerciera control efectivo sobre ellos.
 
 ## Esteria y los Sangre de Hierro Carmesí
 
-En el año **-211**, Frosthain incumplió el encargo de limpiar el norte. Stelian Therin
+En el año **-211**, Frosthain incumplió el encargo de limpiar el norte. Iulien Therin
 partió con refugiados sangheskios y mujeres de Sturm, fundó Esteria junto al Foso y asumió la
 limpieza de Weissen y del paso fronterizo.
 
 En el año **-203**, Rudgar proclamó a los **Sangre de Hierro Carmesí**, Guardianes del
 Norte. La proclamación estableció su identidad política dentro del Raikim y
-conservó la raíz sangheskia como origen histórico y cultural. Stelian, Estrella
+conservó la raíz sangheskia como origen histórico y cultural. Iulien, Estrella
 Fugaz y señor de la Casa Therin, recibió el señorío y la guarda del **Paso del
 Oriente**.
 
@@ -46,7 +46,7 @@ asentamiento y el comercio de los Hijos del Sol en Dürr.
 La guerra de Unland comenzó en el año **-204**, cuando los brumenses atacaron primero
 con Grimm bajo su control. El conflicto reveló a los **Emisarios de la Ruina**:
 personas entregadas voluntariamente al Rey Podrido que podían ocultarse entre la
-población. Stelian regresó desde Esteria y combatió junto a Rudgar.
+población. Iulien regresó desde Esteria y combatió junto a Rudgar.
 
 Tras la guerra, el Raikim estableció en Unland los Dominios de Kystgard,
 Lyngard y Biorgard. El trabajo forzado organizó Kystgard alrededor de la pesca,
@@ -57,7 +57,7 @@ segura.
 
 ## Saberes de la resistencia a la Podredumbre
 
-Los Hijos del Sol compartieron con los aliados de Stelian materiales y saberes
+Los Hijos del Sol compartieron con los aliados de Iulien materiales y saberes
 de Portadores. De esa colaboración nació el **Acero del Alba**, aleación de
 metales y minerales de Stömur cuyo contacto causa dolor intenso a Grimm y
 poseídos.
@@ -67,20 +67,16 @@ este la **Llave de Dürr**. El metal de Rugido Mordaz permanece sin nombre y no
 es Acero del Alba.
 
 Una **Kantra** es una palabra o una acción elegida o creada como ayuda mental
-para una maestría. No activa el don ni es obligatoria. Stelian utilizó la
+para una maestría. No activa el don ni es obligatoria. Iulien utilizó la
 Kantra «Ta-besh» durante la guerra de Unland.
 
-## El segundo sellado
+## Roshdom y el origen de Valastir
 
-En el año **-193**, diez años después de la proclamación Carmesí, Stelian entró en Rauven con
-Guardianes procedentes de Esteria. Alcanzó Roshdom y la Jaula Negra, donde intentó
-sellar la estructura con minerales de Stömur. Una horda atacó a la expedición;
-solo unos pocos Guardianes regresaron y Stelian no volvió.
-
-El confinamiento de Rauven ya existía desde la campaña de liberación. El intento
-de Roshdom fue un segundo sellado. Se desconoce si logró confinar definitivamente
-al Rey Podrido, pero desde entonces su presencia dejó de percibirse cerca del
-Paso del Oriente y los Grimm disminuyeron en número.
+En el año **-193**, diez años después de la proclamación Carmesí, Iulien entró en
+Rauven con Guardianes procedentes de Esteria. Liberó Roshdom, confinó al Rey
+Podrido en las profundidades del Grimmen y liberó a los poseídos que lo habían
+seguido. Iulien permaneció en Rauven; los supervivientes de la campaña
+originaron Valastir.
 
 ## Los doce Dominios
 
@@ -109,6 +105,6 @@ la Rebelión del Amanecer y la fundación del Imperio de Dragma en el año **0**
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`
 - `docs/mundo/stigria/valgard.md`
 - `docs/personajes/rudgar-valgard.md`
-- `docs/personajes/stelian-therin.md`
+- `docs/personajes/iulien-therin.md`
 - `docs/personajes/rey-podrido.md`
 - `docs/entidades/portadores.md`

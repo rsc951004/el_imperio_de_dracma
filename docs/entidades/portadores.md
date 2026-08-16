@@ -91,7 +91,7 @@ capacidades permanecen reservadas.
 Numerosos esclavos liberados de Astria eran Portadores. Utilizaron sus dones y
 maestrías para transformar Dürr y crear la Costa del Verano.
 
-**Stelian Therin**, descendiente de Sangheskios esclavizados, fue el único
+**Iulien Therin**, descendiente de Sangheskios esclavizados, fue el único
 Portador del Sol vivo conocido durante la Edad de Plata. Su fulgor hirió
 físicamente al Rey Podrido. Durante la guerra de Unland usó la Kantra
 «Ta-besh».
@@ -106,7 +106,7 @@ del Rost.
 ## Referencias
 
 - `docs/personajes/radu.md`
-- `docs/personajes/stelian-therin.md`
+- `docs/personajes/iulien-therin.md`
 - `docs/mundo/stigria/costa-del-verano.md`
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
 - `docs/mundo/stigria/kantra.md`

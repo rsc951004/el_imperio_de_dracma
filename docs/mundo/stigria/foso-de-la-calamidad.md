@@ -6,7 +6,7 @@ Grieta terrestre situada dentro del Riegel.
 
 ## Formación
 
-Al final de la Edad de la Podredumbre, Rudgar Valgard, Stelian Therin y sus aliados obligaron al Rey Podrido a retroceder hasta Rauven.
+Al final de la Edad de la Podredumbre, Rudgar Valgard, Iulien Therin y sus aliados obligaron al Rey Podrido a retroceder hasta Rauven.
 
 Los Portadores que acompañaban la campaña abrieron una enorme grieta seca dentro del Riegel. El corte destruyó la continuidad terrestre del paso y aisló Rauven del Gherin.
 
@@ -15,7 +15,7 @@ En la misma operación derrumbaron por completo el conducto sumergido por el que
 ## Esteria y el Paso del Oriente
 
 En el año **-211**, tres años después del segundo Stamengherin documentado,
-Stelian fundó Esteria junto al Foso como asentamiento de vigilancia y dirigió la
+Iulien fundó Esteria junto al Foso como asentamiento de vigilancia y dirigió la
 limpieza del norte. El **Paso del Oriente** comprende Esteria, el Foso y el
 Riegel.
 
@@ -31,7 +31,9 @@ Las Puertas Rojas bloquean el paso entre el Espolón de Dunkel y Dorn.
 
 ## Faro posterior
 
-El Gran Faro de Esteria es posterior a la Edad de Plata. En él se quema la
+El Gran Faro de Esteria es posterior a la Edad de Plata. Fue construido ante la
+posibilidad de que Valastir cayera y los Grimm o el Rey Podrido cruzaran desde
+Rauven. En él se quema la
 **Lumbre**, una amalgama de hojas secas de Ravun y polvo de Stömur. Su
 combustión produce una luz amarilla intensa que quema y debilita a Grimm y
 poseídos. La transmisión de ese saber hasta Esteria permanece reservada.

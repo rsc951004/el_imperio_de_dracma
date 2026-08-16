@@ -32,7 +32,7 @@ de la Podredumbre. Rudgar fue proclamado primer Raik en el mismo Stamengherin.
 
 Los Sangre de Hierro esclavizaron a numerosos supervivientes sangheskios después de la caída de Sanghesk. La asociación entre los Portadores y las campañas del Dominio Carmesí produjo una persecución prolongada: los Portadores descubiertos entre los esclavos sangheskios y sus descendientes eran ejecutados.
 
-Stelian Therin nació dentro de esta población esclavizada. Sus padres lograron
+Iulien Therin nació dentro de esta población esclavizada. Sus padres lograron
 ocultar su condición de Portador del Sol.
 
 Después de la Guerra de Unland, la proclamación de los **Sangre de Hierro
@@ -66,7 +66,7 @@ tradición minoritaria.
 - `docs/mundo/stigria/guerra-del-valle-dorado.md`
 - `docs/personajes/val-el-terrible.md`
 - `docs/personajes/wolfram-el-bardo.md`
-- `docs/personajes/stelian-therin.md`
+- `docs/personajes/iulien-therin.md`
 - `docs/mundo/stigria/sangre-carmesi.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
 - `docs/mundo/stigria/edad-de-plata.md`

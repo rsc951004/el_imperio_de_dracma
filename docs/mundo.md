@@ -62,7 +62,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Sangre de Hierro | Identidad sociocultural | Guerreros del antiguo Bloque de Hierro y sus descendientes. | [Ver ficha](mundo/stigria/sangre-de-hierro.md) |
 | Sangre Carmesí | Pueblo contemporáneo | Descendientes de la comunidad proclamada durante la Edad de Plata como Sangre de Hierro Carmesí. | [Ver ficha](mundo/stigria/sangre-carmesi.md) |
 | Dravosi | Pueblo contemporáneo | Quinto pueblo de Dragma, surgido de la mezcla de los grandes pueblos del Imperio. | [Ver ficha](mundo/stigria/dravosi.md) |
-| Edad de la Podredumbre | Periodo histórico | Desde la caída de Sanghesk hasta el confinamiento del Rey Podrido por la campaña de Rudgar y Stelian. | [Ver ficha](mundo/stigria/edad-de-la-podredumbre.md) |
+| Edad de la Podredumbre | Periodo histórico | Desde la caída de Sanghesk hasta el confinamiento del Rey Podrido por la campaña de Rudgar e Iulien. | [Ver ficha](mundo/stigria/edad-de-la-podredumbre.md) |
 | Edad de Plata | Periodo histórico | Desde el segundo Stamengherin documentado hasta la muerte de Rudgar Valgard. | [Ver ficha](mundo/stigria/edad-de-plata.md) |
 | Edad de la Tiranía | Periodo histórico | Desde la muerte de Rudgar hasta la Rebelión del Amanecer y la fundación de Dragma. | [Ver ficha](mundo/stigria/edad-de-la-tirania.md) |
 | Pacto de Dürr | Acuerdo histórico | Pacto entre Rudgar y Aurethyron que abrió el comercio entre el Hierro y el Verano. | [Ver ficha](mundo/stigria/pacto-de-durr.md) |
@@ -79,6 +79,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Costa del Verano | Región histórica | Territorio de Dürr transformado por los Portadores liberados de Astria. | [Ver ficha](mundo/stigria/costa-del-verano.md) |
 | Foso de la Calamidad | Accidente geográfico | Grieta abierta dentro del Riegel al final de la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/foso-de-la-calamidad.md) |
 | Valgard | Estado histórico | Estado pre-imperial. En su fase Raikim, tiranía que dominó Stigria. Derrocado por los ocho reinos. | [Ver ficha](mundo/stigria/valgard.md) |
+| Valastir | Reino independiente | Reino de Rauven nacido de los supervivientes de Roshdom. | [Ver ficha](mundo/stigria/valastir.md) |
 
 ### Dragma (Imperio)
 
@@ -151,7 +152,7 @@ Los tres reinos de la Tierra de la Bruma son **Kystvar** —puerto pesquero—, 
 | # | Nombre | Tipo | Descripción breve | Ficha |
 |---|--------|------|-------------------|-------|
 | 1 | Khalos | Ciudadela | Fortaleza circular de piedra de Stömur, fundada por la Gente de la Bruma y refugiados astrianos. | [Ver ficha](mundo/stigria/dragma/khalos/khalos.md) |
-| 2 | Esteria | Ciudad fortaleza | Enclave fundado por Stelian Therin junto al Foso. No pertenece a ninguno de los doce reinos. | [Ver ficha](mundo/stigria/dragma/esteria/esteria.md) |
+| 2 | Esteria | Ciudad fortaleza | Enclave fundado por Iulien Therin junto al Foso. No pertenece a ninguno de los doce reinos. | [Ver ficha](mundo/stigria/dragma/esteria/esteria.md) |
 | 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/stigria/dragma/ishbaal/ishbaal.md) |
 | 4 | Alessya | Isla | Isla al suroeste, vinculada históricamente con los Hijos del Sol. Protectorado rico gobernado por un Príncipe Guardián. Inalienable por ley de la Concordia. | [Ver ficha](mundo/stigria/dragma/alessya/alessya.md) |
 | 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por Artemis durante la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/dragma/delfos/delfos.md) |

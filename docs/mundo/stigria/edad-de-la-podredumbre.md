@@ -49,7 +49,7 @@ En cinco años ocuparon casi todo el Gherin. Los principales refugios que
 permanecieron en Stigria fueron Khalos y Eldengard. El confinamiento inicial
 del Rey Podrido en Rauven ocurrió en el año **-224**.
 
-## Rudgar y Stelian
+## Rudgar e Iulien
 
 A los veintiún años, Rudgar respondió a la petición de auxilio enviada desde una fortaleza de Sturm custodiada por vasallos de la Casa Valgard. Allí se refugiaba su esposa **Astrid**, embarazada de un hijo suyo. Cuando llegó, la fortaleza estaba destruida y sus habitantes habían aceptado al Rey Podrido. Astrid había desaparecido.
 
@@ -59,7 +59,7 @@ durante la Edad de Oro.
 <!-- CANON-VELADO: FIN -->
 
 Entre los escombros, Rudgar encontró a un joven sangheskio esclavizado de catorce
-años: **Stelian Therin**. Lo llevó consigo hacia Eldengard, pero durante su
+años: **Iulien Therin**. Lo llevó consigo hacia Eldengard, pero durante su
 ausencia los habitantes de la antigua fortaleza también se habían rendido.
 
 El Rey Podrido apareció ante Rudgar. Aparentaba unos treinta y cinco años,
@@ -68,22 +68,22 @@ semejantes a ramas. Su piel verdosa y sus cuernos le daban una apariencia
 tétrica, aunque sus facciones eran las de un joven hermoso.
 
 Rudgar bajó su espada y comenzó a aceptar la rendición. Antes de que el Rey
-pudiera tocarlo, Stelian extendió las manos y proyectó contra él una descarga de
-fulgor solar. Rudgar creyó oír que gritaba **«Ta-besh»**, una Kantra que Stelian
+podiera tocarlo, Iulien extendió las manos y proyectó contra él una descarga de
+fulgor solar. Rudgar creyó oír que gritaba **«Ta-besh»**, una Kantra que Iulien
 usaba como ayuda mental para aquella maestría.
 
-El fulgor quemó las ropas y el cuerpo del Rey Podrido. Mientras huía entre la bruma, su grito sonó como miles de voces humanas al mismo tiempo. Stelian volvió a manifestar su poder ante Rudgar, quien reaccionó con desconfianza por su condición de Portador sangheskio. Después de numerosos desacuerdos, Rudgar terminó aceptando su ayuda. Los detalles de esa reconciliación permanecen desconocidos.
+El fulgor quemó las ropas y el cuerpo del Rey Podrido. Mientras huía entre la bruma, su grito sonó como miles de voces humanas al mismo tiempo. Iulien volvió a manifestar su poder ante Rudgar, quien reaccionó con desconfianza por su condición de Portador sangheskio. Después de numerosos desacuerdos, Rudgar terminó aceptando su ayuda. Los detalles de esa reconciliación permanecen desconocidos.
 
 ## La campaña de liberación
 
-Rudgar y Stelian reunieron supervivientes y Portadores capaces de combatir al
+Rudgar e Iulien reunieron supervivientes y Portadores capaces de combatir al
 Rey Podrido con el auxilio de Khalos y de los Hijos del Sol.
 
 La contraofensiva reunió fuerzas capaces de perseguir al Rey Podrido y quebrar
 su avance por el Gherin. Las victorias expulsaron a sus fuerzas, pero no
 establecieron un dominio político estable sobre los territorios recorridos.
 
-Rudgar, Stelian y sus aliados hirieron y desfiguraron al Rey Podrido, pero no lograron destruirlo. Solo pudieron obligarlo a retroceder a través del Riegel hasta Rauven.
+Rudgar, Iulien y sus aliados hirieron y desfiguraron al Rey Podrido, pero no lograron destruirlo. Solo pudieron obligarlo a retroceder a través del Riegel hasta Rauven.
 
 ## Final
 
@@ -105,7 +105,7 @@ del Raikim.
 
 - `docs/personajes/rey-podrido.md`
 - `docs/personajes/rudgar-valgard.md`
-- `docs/personajes/stelian-therin.md`
+- `docs/personajes/iulien-therin.md`
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
 - `docs/mundo/stigria/costa-del-verano.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`

@@ -17,7 +17,7 @@ frialdad administrativa de los Raiks posteriores.
 ## Relaciones
 
 - **Sigmar Valgard:** nieto y sexto Raik.
-- **Lumino Therin:** señor al que despojó de Esteria.
+- **Ostren Therin:** señor al que despojó de Esteria.
 
 ## Referencias
 
