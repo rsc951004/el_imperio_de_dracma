@@ -80,6 +80,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Foso de la Calamidad | Accidente geográfico | Grieta abierta dentro del Riegel al final de la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/foso-de-la-calamidad.md) |
 | Valgard | Estado histórico | Estado pre-imperial. En su fase Raikim, tiranía que dominó Stigria. Derrocado por los ocho reinos. | [Ver ficha](mundo/stigria/valgard.md) |
 | Valastir | Reino independiente | Reino de Rauven nacido de los supervivientes de Roshdom. | [Ver ficha](mundo/stigria/valastir.md) |
+| Nombres de Valastir | Guía onomástica | Amalgama de raíces sangheskias, del Hierro, el Verano y la Bruma para personas y linajes valastirianos. | [Ver ficha](mundo/stigria/nombres-de-valastir.md) |
 
 ### Dragma (Imperio)
 

@@ -12,6 +12,10 @@ profundidades del Grimmen y reunió a los poseídos que habían seguido a la Rui
 hasta Rauven. Iulien no regresó al Gherin. Los supervivientes que permanecieron
 con él fundaron la comunidad de la que nació Valastir.
 
+La comunidad fundadora fue aproximadamente 60 % sangheskia, 20 % de Sangre de
+Hierro, 10 % del Verano y 10 % de la Bruma. Su tradición onomástica conserva
+una amalgama de esas cuatro procedencias, con predominio sangheskio.
+
 ## Relaciones con Dragma
 
 El primer contacto entre Valastir y el Imperio se produjo durante el último
@@ -33,6 +37,7 @@ integración política en Dragma no se ha consumado.
 - `docs/personajes/iulien-therin.md`
 - `docs/personajes/belarik-torzan.md`
 - `docs/mundo/stigria/roshdom.md`
+- `docs/mundo/stigria/nombres-de-valastir.md`
 - `docs/casas/enescu.md`
 - `docs/casas/yuriev.md`
 - `docs/casas/dravor.md`
