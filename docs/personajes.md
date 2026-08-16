@@ -48,9 +48,9 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Ostren Therin | Personaje histórico | Último señor de la Casa Therin de Dragma en Esteria. Despojado durante el Gran Concilio del Hielo. | [Ver ficha](personajes/ostren-therin.md) |
 | Dravora | Reina histórica | Fundadora de la Casa Dravor y de su dinastía real en Valastir. | [Ver ficha](personajes/dravora.md) |
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
-| Parys Therin | Personaje histórico | Cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
+| Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
 | Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro del Grupo 3. | [Ver ficha](personajes/dymtrik.md) |
-| Milara «Mili» | Personaje histórico | Integrante del Grupo 3 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/milara.md) |
+| Milara «Mili» | Personaje histórico | Portadora Quimérica e integrante del Grupo 3 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/milara.md) |
 | Imrik | Personaje histórico | Portador Sombrío que dirige el Grupo 3 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/imrik.md) |
 | Arys Therin | Personaje histórico | Hermana mayor de Cassyan y Parys; miembro del extinto Grupo 2. | [Ver ficha](personajes/arys-therin.md) |
 | Belarik Torzan | Personaje histórico | Explorador valastiriano que abrió el primer vínculo duradero con Dragma. | [Ver ficha](personajes/belarik-torzan.md) |
