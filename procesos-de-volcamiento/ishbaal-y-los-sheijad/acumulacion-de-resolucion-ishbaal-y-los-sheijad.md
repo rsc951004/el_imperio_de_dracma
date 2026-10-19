@@ -89,8 +89,50 @@ resolución no determina si esas creencias corresponden a hechos objetivos.
 
 **Estado:** cerrado con reserva.
 
+### R-06. La Aniquilación dentro de las Guerras Místicas
+
+**Nudo abordado:** AU-05, parcialmente.
+
+La Aniquilación fue uno de los conflictos desatados durante las Guerras
+Místicas. Fue, sin lugar a dudas, el mayor y de alcance más amplio de ellos.
+
+R-07 precisa que las Guerras Místicas corresponden al conflicto interno de la
+Segunda Dinastía reservado en el canon, y establece los objetivos de la Orden
+de la Flama Blanca durante la Aniquilación.
+
+**Estado:** cerrado con reserva.
+
+**Reserva:** no se fijan campañas ni cronologías detalladas.
+
+### R-07. Guerras Místicas como conflicto de la Segunda Dinastía
+
+**Nudo abordado:** AU-05.
+
+Las Guerras Místicas son la sucesión de guerras y conflictos internos de la
+Segunda Dinastía mencionada en el canon. Distintas dinastías y reinos de Dragma,
+junto con algunos actores externos, se enfrentarán por el poder y el control de
+los reinos, territorios e incluso el Imperio.
+
+El inicio en territorio de Dragma quedará registrado por el surgimiento del
+primer Invocador allí, **Leandrin Rheiner**, una joven noble de Flamangard. Este
+dato es compatible con que **Therin** sea el primer Invocador del que se tiene
+registro en general. No se fija aquí una fecha ni se desarrolla el surgimiento
+de Leandrin.
+
+La **Aniquilación** será el mayor y de alcance más amplio de los conflictos de
+las Guerras Místicas. Durante ella, un grupo extremista ishbaalano, la **Orden
+de la Flama Blanca**, conspirará para derrocar al emperador, aniquilar a todos
+los Portadores e Invocadores e instaurar una teocracia. La conspiración casi
+alcanzará sus objetivos.
+
+**Estado:** cerrado con reserva.
+
+**Reservas:** quedan sin desarrollar las fechas, campañas, participantes
+individuales, organización y métodos de la Orden de la Flama Blanca, y las
+circunstancias detalladas del conflicto.
+
 ## Orden de continuidad
 
-Después de R-05, la siguiente resolución abordará la relación entre las Guerras
-Místicas, la Aniquilación y el conflicto de la Segunda Dinastía reservado en el
-canon, sin añadir todavía cronologías ni detalles de campañas.
+Después de R-07, la siguiente resolución abordará el alcance del rechazo al
+misticismo y sus consecuencias sociales y políticas, sin inferir prohibiciones
+legales que no hayan sido establecidas.

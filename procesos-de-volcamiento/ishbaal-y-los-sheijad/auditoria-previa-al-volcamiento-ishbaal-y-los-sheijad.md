@@ -86,10 +86,19 @@ que se trata de una creencia de los seguidores del culto a Ishbaal.
 ### AU-05. Guerras Místicas, Aniquilación e Invocadores
 
 El canon reserva un conflicto interno de la Segunda Dinastía que casi destruyó
-el Imperio y consolidó el estigma contra los Invocadores. La acumulación sitúa
-las Guerras Místicas y la Aniquilación durante la dinastía Amschel, es decir,
-la Segunda Dinastía. Pueden ser el mismo conflicto o estar relacionados, pero
-todavía no se ha decidido esa relación.
+el Imperio y consolidó el estigma contra los Invocadores. R-07 identifica ese
+conflicto con la sucesión de guerras internas denominada **Guerras Místicas**.
+Estas enfrentan a dinastías y reinos de Dragma y a algunos actores externos por
+el poder y el control de reinos, territorios y el Imperio. Su inicio en Dragma
+queda asociado al surgimiento de Leandrin Rheiner, primera Invocadora en ese
+territorio y joven noble de Flamangard. Esto no desplaza a Therin como el
+primer Invocador del que se tiene registro en general.
+
+R-06 y R-07 establecen que la **Aniquilación** fue el mayor y de alcance más
+amplio de esos conflictos. La **Orden de la Flama Blanca**, grupo extremista
+ishbaalano, conspiró para derrocar al emperador, aniquilar a todos los Portadores e
+Invocadores e instaurar una teocracia; casi alcanzó sus objetivos. No se
+desarrollan aquí las campañas, fechas ni mecanismos del intento.
 
 Además, el canon fija a Therin como el primer Invocador registrado y sostiene
 que la mayoría de los Invocadores de la Edad de Oro nace en linajes que ya
@@ -99,11 +108,11 @@ altere el origen previo de Therin ni el carácter heredable del vínculo.
 
 ### AU-06. Rechazo al misticismo, estigma y régimen imperial
 
-La acumulación distingue entre la Orden de la Flama Blanca, que busca extinguir
-a los místicos, y seguidores no radicales del culto a Ishbaal que evitan, por
-ejemplo, la curación de un sanador Maeggi. El canon actual establece que el
-estigma contra los Invocadores es social y no limita sus derechos, registro ni
-licencia.
+La acumulación distingue entre la Orden de la Flama Blanca, que busca aniquilar a todos los
+Portadores e Invocadores e instaurar una teocracia durante la Aniquilación, y
+seguidores no radicales del culto a Ishbaal que evitan, por ejemplo, la curación
+de un sanador Maeggi. El canon actual establece que el estigma contra los
+Invocadores es social y no limita sus derechos, registro ni licencia.
 
 Ambas formulaciones pueden coexistir si el rechazo de algunos seguidores del
 culto a Ishbaal no se convierte de forma automática en prohibición imperial,
@@ -158,11 +167,11 @@ Arsul no aparece en el índice de entidades y la Orden de la Flama Blanca no
 aparece en el índice de organizaciones. Ambas entradas requerirían fichas e
 índices propios si fueran trasladadas al canon.
 
-La naturaleza de Arsul permanece sin definir. La Orden, por su objetivo de
-extinguir a los místicos, necesita una delimitación previa de sus métodos,
-estatus legal, presencia temporal y relación con los clérigos del culto a
-Ishbaal; de lo contrario podría contradecir el régimen legal vigente de los
-Maeggis.
+La naturaleza de Arsul permanece sin definir. La Orden, por su objetivo
+de aniquilar a todos los Portadores e Invocadores e instaurar una teocracia,
+necesita una delimitación previa de sus métodos, estatus legal, presencia
+temporal y relación con los clérigos del culto a Ishbaal; de lo contrario
+podría contradecir el régimen legal vigente de los Maeggis.
 
 ## Efectos secundarios y condiciones de salida
 
@@ -170,9 +179,10 @@ Maeggis.
   hechos objetivos. R-05 conserva esta distinción y reserva la existencia o
   naturaleza objetiva de Ishbaal y Arsul, así como la identidad y el origen de
   los restos.
-- La relación entre Guerras Místicas, Aniquilación y el conflicto de la Segunda
-  Dinastía debe resolverse o reservarse de forma expresa antes de tocar las
-  fichas de Invocadores, Amschel o la historia imperial.
+- R-07 relaciona las Guerras Místicas y la Aniquilación con el conflicto interno
+  de la Segunda Dinastía reservado en el canon. Cualquier detalle cronológico o
+  de campaña sobre Leandrin Rheiner, las Guerras Místicas o la Aniquilación
+  requiere desarrollo y resolución posteriores.
 - La primacía del culto en número de adeptos debe conservar el alcance fijado en
   R-03, sin convertirse en una fe imperial ni atribuir adhesión a coronas o
   poblaciones en conjunto.
@@ -184,8 +194,12 @@ Maeggis.
 
 La acumulación de resoluciones está en curso. R-01 y R-03 cierran AU-01 y AU-07;
 R-02 cierra con reserva AU-02; R-04 establece el nombre compartido por la isla y
-la figura venerada como dios; y R-05 cierra AU-03 y AU-04, con reservas sobre
-la verdad objetiva, y aborda parcialmente AU-09 y AU-10. El rito de ungimiento,
-la organización clerical y la Orden de la Flama Blanca aún requieren resolución.
-Antes de preparar un plan de volcamiento, los demás nudos deben cerrarse,
-reservarse expresamente o descartarse.
+la figura venerada como dios; R-05 cierra AU-03 y AU-04, con reservas sobre la
+verdad objetiva, y aborda parcialmente AU-09 y AU-10; R-06 establece la posición
+de la Aniquilación dentro de las Guerras Místicas; R-07 las relaciona con el
+conflicto interno de la Segunda Dinastía y fija el lugar de Leandrin Rheiner y
+la conspiración de la Orden, con detalles reservados. El rito de
+ungimiento, la organización clerical y los efectos sociales y políticos de las
+Guerras Místicas aún requieren resolución. Antes de preparar un plan de
+volcamiento, los demás nudos deben cerrarse, reservarse expresamente o
+descartarse.

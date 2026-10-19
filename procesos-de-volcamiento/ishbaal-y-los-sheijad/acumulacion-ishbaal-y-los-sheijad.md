@@ -77,10 +77,15 @@ auge.
 
 ### A-04. Guerras Místicas y rechazo del misticismo
 
-Las Guerras Místicas serán una serie de guerras civiles ocurridas durante la
-dinastía Amschel. En algunos casos alcanzarán la escala de reinos, pero se
-desarrollarán principalmente entre casas nobles que disputaban supremacía y
-poder; en algunos casos, también autonomía fuera del Imperio.
+Las **Guerras Místicas** serán una sucesión de guerras y conflictos internos
+durante la Segunda Dinastía. En ellos se enfrentarán distintas dinastías y
+reinos de Dragma, junto con algunos actores externos, por el control y el poder
+de los reinos, los territorios e incluso el Imperio.
+
+El inicio de las Guerras Místicas quedará registrado por el surgimiento del
+primer Invocador en territorio de Dragma: **Leandrin Rheiner**, una joven noble
+de Flamangard. La fecha y las circunstancias concretas quedan para desarrollo
+posterior.
 
 Como consecuencia de estos conflictos surgirá la mayoría de los linajes de
 Invocadores actuales.
@@ -104,9 +109,11 @@ alcance de esta postura entre los seguidores del culto a Ishbaal.
 
 ### A-05. La Aniquilación
 
-Casi al finalizar la dinastía Amschel, ocurrirá un enfrentamiento entre
-místicos y seguidores fanáticos del culto a Ishbaal, conocido como la
-**Aniquilación**.
+Casi al finalizar la Segunda Dinastía ocurrirá la **Aniquilación**, el mayor y
+de alcance más amplio de los conflictos de las Guerras Místicas. Un grupo
+extremista ishbaalano, la **Orden de la Flama Blanca**, conspirará para derrocar
+al emperador, aniquilar a todos los Portadores e Invocadores e instaurar una
+teocracia. La conspiración casi alcanzará sus objetivos.
 
 Durante la Aniquilación se perderán muchas doctrinas místicas antiguas.
 
@@ -115,10 +122,9 @@ místicos será bastante menor que durante la dinastía Amschel. En determinadas
 casas o lugares del Imperio, estas personas no serán bien recibidas ni
 admiradas.
 
-Quedan pendientes la ubicación de la Aniquilación dentro de las Guerras
-Místicas, sus participantes concretos, el alcance de las pérdidas doctrinales,
-la causa de la reducción posterior y las casas o lugares donde persiste el
-rechazo.
+Quedan pendientes sus participantes concretos, el alcance de las pérdidas
+doctrinales, la causa de la reducción posterior y las casas o lugares donde
+persiste el rechazo.
 
 ### A-06. Los Moroloth
 
@@ -189,15 +195,16 @@ Quedan pendientes su naturaleza, su relación con Ishbaal dentro de las
 creencias sheijad, su lugar en ese panteón y cualquier otro rasgo no establecido
 de forma expresa.
 
-### A-11. Orden de la Flama Blanca
+### A-11. La Orden de la Flama Blanca
 
-La **Orden de la Flama Blanca** reúne a los seguidores más radicales del culto
-a Ishbaal.
-Busca la extinción de todos los místicos.
+La **Orden de la Flama Blanca** es un grupo extremista ishbaalano que, durante
+la Aniquilación, conspirará para derrocar al emperador, aniquilar a todos los
+Portadores e Invocadores e instaurar una teocracia. La conspiración casi
+alcanzará sus objetivos.
 
 Quedan pendientes su origen, organización, miembros, métodos, presencia
 territorial y relación concreta con el resto de los seguidores del culto a
-Ishbaal y los clérigos.
+Ishbaal y los clérigos, más allá del objetivo ya establecido.
 
 ## Nudos identificados en la auditoría previa
 
@@ -207,25 +214,22 @@ Ishbaal y los clérigos.
    proporcionadas.
 3. Precisar la influencia de la religión centrada en Ishbaal y su convivencia con
    las tradiciones religiosas ya canónicas.
-4. Contrastar las Guerras Místicas con el conflicto de la Segunda Dinastía ya
-   reservado en la ficha de los Invocadores, sin anticipar una identificación
-   ni una diferencia que todavía no se haya decidido.
-5. Precisar la relación entre las Guerras Místicas y la Aniquilación, sin
-   completar su cronología, bandos ni doctrinas perdidas.
-6. Precisar el alcance de la presencia del culto a Ishbaal en el Valle Central
+4. Delimitar las consecuencias sociales y políticas de las Guerras Místicas y
+   la Aniquilación sin desarrollar campañas ni cronologías reservadas.
+5. Precisar el alcance de la presencia del culto a Ishbaal en el Valle Central
    sin inferir instituciones, santuarios, ritos o comunidades concretas.
-7. Definir la organización y el alcance de los clérigos del culto a Ishbaal
+6. Definir la organización y el alcance de los clérigos del culto a Ishbaal
    antes de describir su sede en el Moroloth de Eldengaria.
-8. Distinguir la presencia material del culto en los reinos de la adhesión de
+7. Distinguir la presencia material del culto en los reinos de la adhesión de
    sus coronas y poblaciones, sin inferir una fe imperial.
-9. Precisar el rito de ungimiento sin añadir elementos no establecidos.
-10. Precisar el alcance de la explicación de quienes siguen a Ishbaal sobre los
-    Grimm sin confundirla con su origen objetivo.
-11. Definir la naturaleza y el lugar del Susurrador en la Penumbra dentro del
+8. Precisar el rito de ungimiento sin añadir elementos no establecidos.
+9. Precisar el alcance de la explicación de quienes siguen a Ishbaal sobre los
+   Grimm sin confundirla con su origen objetivo.
+10. Definir la naturaleza y el lugar del Susurrador en la Penumbra dentro del
     panteón sheijad.
-12. Delimitar la Orden de la Flama Blanca sin atribuirle métodos u organización
+11. Delimitar la Orden de la Flama Blanca sin atribuirle métodos u organización
     no establecidos.
-13. Identificar, solo después de resolver los puntos anteriores, las fichas e
+12. Identificar, solo después de resolver los puntos anteriores, las fichas e
    índices canónicos que podrían requerir modificación.
 
 ## Reservas de desarrollo
