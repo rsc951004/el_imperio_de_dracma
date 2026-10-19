@@ -131,8 +131,35 @@ alcanzará sus objetivos.
 individuales, organización y métodos de la Orden de la Flama Blanca, y las
 circunstancias detalladas del conflicto.
 
+### R-08. Rechazo al misticismo y prohibición en Ishbaal
+
+**Nudo abordado:** AU-06.
+
+La doctrina de la Orden de la Flama Blanca considera el misticismo el pecado
+original: el intento humano de imitar a Ishbaal. La Orden sostiene que debe ser
+destruido y erradicado del mundo a cualquier costo.
+
+Los seguidores comunes del culto consideran que el misticismo es una práctica
+ajena a su fe, pero la toleran. Muchos reconocen y agradecen que, en la época
+actual, sea uno de los recursos conocidos para enfrentar a los Grimm y a otras
+fuerzas oscuras con las que conviven los habitantes de Stigria. Aun así, muchos
+no acudirían a un sanador Maeggi.
+
+En la isla de Ishbaal, la práctica del misticismo está completamente prohibida.
+La isla se considera sagrada y, como principado, recibe un tratamiento especial
+que permite esta prohibición territorial. Esta prohibición no se considera un
+obstáculo frente a los Grimm, pues estos no pueden abandonar Stigria ni alcanzar
+la isla.
+
+**Estado:** cerrado con reserva.
+
+**Reserva:** la forma jurídica concreta del tratamiento especial y su alcance
+territorial quedan para desarrollo posterior. La referencia al misticismo como
+uno de los recursos contra los Grimm es compatible con el canon, que también
+establece que el Verilium puede herirlos. Esta resolución no altera el canon
+vigente.
+
 ## Orden de continuidad
 
-Después de R-07, la siguiente resolución abordará el alcance del rechazo al
-misticismo y sus consecuencias sociales y políticas, sin inferir prohibiciones
-legales que no hayan sido establecidas.
+Después de R-08, la siguiente resolución abordará la organización y las
+atribuciones de los clérigos del culto a Ishbaal.

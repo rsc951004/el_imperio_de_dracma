@@ -91,17 +91,18 @@ Como consecuencia de estos conflictos surgirá la mayoría de los linajes de
 Invocadores actuales.
 
 De estas guerras surgirán seguidores del culto a Ishbaal que considerarán
-antinatural el misticismo y lo tendrán por el origen del mal en el mundo.
-
-Para esta corriente religiosa, Portadores e Invocadores son simplemente
+antinatural el misticismo y lo tendrán por el origen del mal en el mundo. Para
+esta corriente religiosa, Portadores e Invocadores son simplemente
 **místicos**. La condición concreta de una persona casi nunca puede
 distinguirse; la diferencia solo adquiere importancia en investigaciones o
 casos específicos relacionados con el misticismo.
 
-No todos los seguidores del culto a Ishbaal comparten una postura radical contra
-los místicos. Sin embargo, muchos de ellos jamás acudirían a un sanador Maeggi
-para curar una enfermedad, aun sin participar en persecuciones ni justificar
-violencia contra esas personas.
+Los seguidores comunes del culto no comparten la postura de la Orden de la Flama
+Blanca. Consideran el misticismo una práctica ajena a su fe, pero la toleran.
+Muchos reconocen y agradecen que, en la época actual, el misticismo sea uno de
+los recursos conocidos para enfrentar a los Grimm y a otras fuerzas oscuras con
+las que conviven los habitantes de Stigria. Aun así, muchos no acudirían a un
+sanador Maeggi para curar una enfermedad.
 
 Quedan pendientes la cantidad, cronología, bandos, casas, reinos, causas,
 desenlaces y consecuencias particulares de las Guerras Místicas, así como el
@@ -202,9 +203,20 @@ la Aniquilación, conspirará para derrocar al emperador, aniquilar a todos los
 Portadores e Invocadores e instaurar una teocracia. La conspiración casi
 alcanzará sus objetivos.
 
+Para la Orden, el misticismo es el **pecado original**: el intento humano de
+imitar a Ishbaal. Considera que debe ser destruido y erradicado del mundo a
+cualquier costo.
+
 Quedan pendientes su origen, organización, miembros, métodos, presencia
 territorial y relación concreta con el resto de los seguidores del culto a
 Ishbaal y los clérigos, más allá del objetivo ya establecido.
+
+### A-12. Prohibición del misticismo en la isla de Ishbaal
+
+En la isla de Ishbaal, la práctica del misticismo está completamente prohibida.
+La isla se considera sagrada y, como principado, recibe un tratamiento especial
+que permite esta prohibición territorial. La prohibición no supone un problema
+frente a los Grimm, pues estos no pueden abandonar Stigria ni alcanzar la isla.
 
 ## Nudos identificados en la auditoría previa
 
@@ -229,7 +241,9 @@ Ishbaal y los clérigos, más allá del objetivo ya establecido.
     panteón sheijad.
 11. Delimitar la Orden de la Flama Blanca sin atribuirle métodos u organización
     no establecidos.
-12. Identificar, solo después de resolver los puntos anteriores, las fichas e
+12. Precisar la forma jurídica del tratamiento especial de Ishbaal y el alcance
+    territorial de la prohibición del misticismo.
+13. Identificar, solo después de resolver los puntos anteriores, las fichas e
    índices canónicos que podrían requerir modificación.
 
 ## Reservas de desarrollo

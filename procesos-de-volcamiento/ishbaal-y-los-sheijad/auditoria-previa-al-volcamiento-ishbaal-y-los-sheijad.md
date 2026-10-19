@@ -11,8 +11,8 @@ Las resoluciones se desarrollan en la acumulación de resoluciones.
 - el panteón sheijad y el culto a Ishbaal;
 - los Moroloth, los clérigos, el Errante sin Nombre y el ungimiento;
 - el alcance del culto a Ishbaal en el Imperio durante la época de Sandor;
-- la relación entre las Guerras Místicas, la Aniquilación y el rechazo
-  de los seguidores del culto a Ishbaal al misticismo;
+- la relación entre las Guerras Místicas, la Aniquilación, el rechazo al
+  misticismo y su prohibición en la isla de Ishbaal;
 - Arsul y la Orden de la Flama Blanca.
 
 ## Fuentes canónicas contrastadas
@@ -108,17 +108,25 @@ altere el origen previo de Therin ni el carácter heredable del vínculo.
 
 ### AU-06. Rechazo al misticismo, estigma y régimen imperial
 
-La acumulación distingue entre la Orden de la Flama Blanca, que busca aniquilar a todos los
-Portadores e Invocadores e instaurar una teocracia durante la Aniquilación, y
-seguidores no radicales del culto a Ishbaal que evitan, por ejemplo, la curación
-de un sanador Maeggi. El canon actual establece que el estigma contra los
-Invocadores es social y no limita sus derechos, registro ni licencia.
+La Orden de la Flama Blanca considera el misticismo el pecado original, pues lo
+entiende como el intento humano de imitar a Ishbaal, y busca erradicarlo a
+cualquier costo. Los seguidores comunes del culto, en cambio, lo consideran
+ajeno a su fe, pero lo toleran. Muchos aprecian su utilidad como uno de los
+recursos para enfrentar a los Grimm y otras fuerzas oscuras, aunque muchos no
+acudirían a un sanador Maeggi.
 
-Ambas formulaciones pueden coexistir si el rechazo de algunos seguidores del
-culto a Ishbaal no se convierte de forma automática en prohibición imperial,
-sanción legal o persecución pública generalizada. Antes de canonizar, debe
-fijarse el alcance social, político y territorial de la Orden y de la
-desconfianza hacia los místicos.
+En la isla de Ishbaal, la práctica del misticismo está completamente prohibida.
+La isla se considera sagrada y su principado recibe un tratamiento especial; ese
+tratamiento permite la prohibición territorial como excepción al régimen general
+del Imperio. La forma jurídica concreta de la excepción y su alcance más allá de
+la prohibición establecida quedan para desarrollo posterior. El canon vigente
+solo consigna la autonomía interna del protectorado; la sacralidad de la isla y
+este tratamiento especial son contenido nuevo para un posible volcamiento. La
+imposibilidad de los Grimm de abandonar Stigria explica por qué no alcanzan la
+isla.
+
+La descripción del misticismo como uno de los recursos contra los Grimm es
+compatible con el canon: el Verilium también puede herirlos.
 
 La doctrina que agrupa a Portadores e Invocadores como «místicos» es compatible
 con que su diferencia rara vez pueda determinarse; no debe borrar la distinción
@@ -191,6 +199,11 @@ podría contradecir el régimen legal vigente de los Maeggis.
 - El tratamiento de los Grimm y de la resurrección debe preservar la diferencia
   entre las creencias de los seguidores del culto a Ishbaal y los hechos
   objetivos del mundo.
+- La prohibición insular del misticismo se justifica por el carácter sagrado de
+  Ishbaal y el tratamiento especial de su principado. El volcamiento debe
+  reflejar esa excepción territorial; los mecanismos jurídicos concretos quedan
+  reservados. La referencia al misticismo como uno de varios recursos contra los
+  Grimm es compatible con el efecto canónico del Verilium.
 
 La acumulación de resoluciones está en curso. R-01 y R-03 cierran AU-01 y AU-07;
 R-02 cierra con reserva AU-02; R-04 establece el nombre compartido por la isla y
@@ -198,8 +211,9 @@ la figura venerada como dios; R-05 cierra AU-03 y AU-04, con reservas sobre la
 verdad objetiva, y aborda parcialmente AU-09 y AU-10; R-06 establece la posición
 de la Aniquilación dentro de las Guerras Místicas; R-07 las relaciona con el
 conflicto interno de la Segunda Dinastía y fija el lugar de Leandrin Rheiner y
-la conspiración de la Orden, con detalles reservados. El rito de
-ungimiento, la organización clerical y los efectos sociales y políticos de las
-Guerras Místicas aún requieren resolución. Antes de preparar un plan de
-volcamiento, los demás nudos deben cerrarse, reservarse expresamente o
-descartarse.
+la conspiración de la Orden, con detalles reservados; R-08 establece las
+posturas ante el misticismo y justifica la prohibición en Ishbaal por su carácter
+sagrado y el tratamiento especial de su principado, con los mecanismos
+jurídicos reservados. El rito de ungimiento y la organización clerical aún
+requieren resolución. Antes de preparar un plan de volcamiento, los demás nudos
+deben cerrarse, reservarse expresamente o descartarse.
