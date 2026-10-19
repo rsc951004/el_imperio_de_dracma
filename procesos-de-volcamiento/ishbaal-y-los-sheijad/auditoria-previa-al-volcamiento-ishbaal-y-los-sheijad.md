@@ -8,11 +8,11 @@ Las resoluciones se desarrollan en la acumulación de resoluciones.
 
 - Ishbaal como protectorado, principado y territorio sheijad;
 - Sarustra y la procedencia sheijad;
-- el panteón sheijad y el culto al dios Ishbaal;
+- el panteón sheijad y el culto a Ishbaal;
 - los Moroloth, los clérigos, el Errante sin Nombre y el ungimiento;
-- el alcance del culto al dios Ishbaal en el Imperio durante la época de Sandor;
+- el alcance del culto a Ishbaal en el Imperio durante la época de Sandor;
 - la relación entre las Guerras Místicas, la Aniquilación y el rechazo
-  de los seguidores del dios Ishbaal al misticismo;
+  de los seguidores del culto a Ishbaal al misticismo;
 - Arsul y la Orden de la Flama Blanca.
 
 ## Fuentes canónicas contrastadas
@@ -52,33 +52,36 @@ Sarustra no aparece en el canon vigente. Su ubicación, el trayecto hacia
 la isla de Ishbaal y la fecha de llegada deben quedar resueltos o reservados
 antes de un volcamiento que la use como antecedente histórico.
 
-### AU-03. El dios Ishbaal, Arsul y el carácter religioso de las afirmaciones
+### AU-03. El culto a Ishbaal, Arsul y el carácter religioso de las afirmaciones
 
 El canon ya trata a Ghera y Thalmos como figuras de tradición o culto cuyo
-estatus ontológico no se da por demostrado. El dios Ishbaal y Arsul pueden
-incorporarse con el mismo cuidado, pero la auditoría debe separar con precisión:
+estatus ontológico no se da por demostrado. La resolución R-05 aplica ese
+cuidado al culto a Ishbaal y a Arsul: establece qué creen sus fieles y reserva
+la existencia o naturaleza objetiva de sus figuras religiosas. Debe separarse:
 
 - la existencia del culto, de sus clérigos y de sus lugares de peregrinación;
-- las creencias sobre el Jardín Eterno, el Errante sin Nombre y la
-  resurrección;
-- la naturaleza objetiva del dios Ishbaal y de Arsul, así como el origen de los
-  restos custodiados en el Moroloth de la isla de Ishbaal.
+- las creencias sobre el Jardín Eterno, el Errante sin Nombre y la resurrección,
+  la identificación de los restos como sus huesos, la explicación de los Grimm
+  y el lugar de Arsul en el panteón sheijad;
+- la existencia o naturaleza objetiva de Ishbaal y Arsul, y la identidad y el
+  origen de los restos custodiados en el Moroloth de la isla de Ishbaal, que
+  quedan reservados para desarrollos posteriores.
 
-La acumulación ya formula como creencias de los seguidores del dios Ishbaal el
+La acumulación formula como creencias de los seguidores del culto a Ishbaal el
 sueño de los muertos y la interpretación de los Grimm. Debe mantener ese
-carácter en todo futuro texto canónico, salvo decisión humana que confirme una
-verdad y determine si requiere canon velado.
+carácter en todo futuro texto canónico, salvo decisión humana posterior que
+confirme una verdad y determine si requiere canon velado.
 
 ### AU-04. Los Grimm y la explicación de los seguidores de Ishbaal
 
 La ficha de los Grimm los define como criaturas terrestres prehistóricas,
 surgidas de la tierra antes del Surgimiento. La explicación de los seguidores
-del dios Ishbaal que los atribuye al pecado humano y a las artes místicas
+del culto a Ishbaal que los atribuye al pecado humano y a las artes místicas
 contradice ese origen si se presenta como hecho objetivo, pero es compatible
 como explicación religiosa.
 
 La condición de seguridad para un volcamiento es conservar de forma inequívoca
-que se trata de una creencia de los seguidores del dios Ishbaal.
+que se trata de una creencia de los seguidores del culto a Ishbaal.
 
 ### AU-05. Guerras Místicas, Aniquilación e Invocadores
 
@@ -97,13 +100,13 @@ altere el origen previo de Therin ni el carácter heredable del vínculo.
 ### AU-06. Rechazo al misticismo, estigma y régimen imperial
 
 La acumulación distingue entre la Orden de la Flama Blanca, que busca extinguir
-a los místicos, y seguidores no radicales del dios Ishbaal que evitan, por
+a los místicos, y seguidores no radicales del culto a Ishbaal que evitan, por
 ejemplo, la curación de un sanador Maeggi. El canon actual establece que el
 estigma contra los Invocadores es social y no limita sus derechos, registro ni
 licencia.
 
 Ambas formulaciones pueden coexistir si el rechazo de algunos seguidores del
-dios Ishbaal no se convierte de forma automática en prohibición imperial,
+culto a Ishbaal no se convierte de forma automática en prohibición imperial,
 sanción legal o persecución pública generalizada. Antes de canonizar, debe
 fijarse el alcance social, político y territorial de la Orden y de la
 desconfianza hacia los místicos.
@@ -114,13 +117,13 @@ técnica ya fijada para registros e investigaciones concretas.
 
 ### AU-07. Mayor número de adeptos sin fe imperial
 
-La acumulación establece que, durante la época de Sandor, el culto al dios
-Ishbaal reúne el mayor número de adeptos del Imperio. Este predominio no
+La acumulación establece que, durante la época de Sandor, el culto a Ishbaal
+reúne el mayor número de adeptos del Imperio. Este predominio no
 establece una fe imperial oficial ni permite inferir adhesión de las coronas o
 de las poblaciones de los reinos en conjunto. La resolución R-03 cierra este
 nudo con ese alcance.
 
-La adhesión casi total de la Casa Pavel al culto al dios Ishbaal es información
+La adhesión casi total de la Casa Pavel al culto a Ishbaal es información
 nueva. Su traslado afectaría la ficha de la casa, la de Dragma, la futura ficha
 de Eldengaria y los marcos religiosos. Debe definirse el alcance de esa
 adhesión para no inferir una posición de cada miembro, de cada Kaisrik o de
@@ -163,9 +166,10 @@ Maeggis.
 
 ## Efectos secundarios y condiciones de salida
 
-- No puede trasladarse el culto al dios Ishbaal como verdad ontológica sin
-  clasificar cada afirmación en práctica, creencia, tradición o hecho
-  confirmado.
+- Las creencias de los seguidores del culto a Ishbaal no deben trasladarse como
+  hechos objetivos. R-05 conserva esta distinción y reserva la existencia o
+  naturaleza objetiva de Ishbaal y Arsul, así como la identidad y el origen de
+  los restos.
 - La relación entre Guerras Místicas, Aniquilación y el conflicto de la Segunda
   Dinastía debe resolverse o reservarse de forma expresa antes de tocar las
   fichas de Invocadores, Amschel o la historia imperial.
@@ -175,10 +179,13 @@ Maeggis.
 - Los Moroloth, clérigos, ungimientos, Arsul y la Orden requieren un inventario
   de fichas nuevas, índices y referencias antes de un plan de volcamiento.
 - El tratamiento de los Grimm y de la resurrección debe preservar la diferencia
-  entre las creencias de los seguidores del dios Ishbaal y los hechos objetivos
-  del mundo.
+  entre las creencias de los seguidores del culto a Ishbaal y los hechos
+  objetivos del mundo.
 
 La acumulación de resoluciones está en curso. R-01 y R-03 cierran AU-01 y AU-07;
-R-02 cierra con reserva AU-02, y R-04 establece el nombre compartido de la isla
-y el dios. Antes de preparar un plan de volcamiento, los demás nudos deben
-cerrarse, reservarse expresamente o descartarse.
+R-02 cierra con reserva AU-02; R-04 establece el nombre compartido por la isla y
+la figura venerada como dios; y R-05 cierra AU-03 y AU-04, con reservas sobre
+la verdad objetiva, y aborda parcialmente AU-09 y AU-10. El rito de ungimiento,
+la organización clerical y la Orden de la Flama Blanca aún requieren resolución.
+Antes de preparar un plan de volcamiento, los demás nudos deben cerrarse,
+reservarse expresamente o descartarse.

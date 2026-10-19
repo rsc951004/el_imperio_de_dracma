@@ -13,9 +13,9 @@ Este proceso abarca:
 - el territorio y las gentes sheijad vinculados a Ishbaal;
 - la procedencia sheijad desde la antigua tierra llamada Sarustra;
 - la influencia de la cultura sheijad en la religiosidad dragmana;
-- el predominio de la religión del dios Ishbaal en el Imperio, con presencia
+- el predominio de la religión centrada en Ishbaal en el Imperio, con presencia
   destacada en el Valle Central;
-- quiénes siguen el culto al dios Ishbaal y el alcance de su rechazo al
+- quiénes siguen el culto a Ishbaal y el alcance de su rechazo al
   misticismo.
 
 No abarca todavía la descripción de la geografía, la organización política,
@@ -38,7 +38,7 @@ particulares mientras no exista una instrucción humana específica para ello.
   organización ni ascendencia.
 - El Gran Valle Central corresponde a Eldenheim dentro del Gherin.
 - El canon vigente documenta otras tradiciones y figuras religiosas, pero no
-  contiene todavía una entrada canónica para el dios Ishbaal ni para Sarustra.
+  contiene todavía una entrada canónica para el culto a Ishbaal ni para Sarustra.
 
 ## Acuerdos iniciales
 
@@ -58,14 +58,14 @@ Quedan pendientes su ubicación, su relación con la isla de Ishbaal, el momento
 y la forma de la llegada sheijad, así como toda otra circunstancia histórica no
 indicada.
 
-### A-03. El dios Ishbaal y la religiosidad dragmana
+### A-03. El culto a Ishbaal y la religiosidad dragmana
 
-La isla de Ishbaal es el origen del culto al dios **Ishbaal**, venerado por los
-Sheijad. La cultura sheijad influirá en la religiosidad de Dragma y, durante la
-época de Sandor, la religión de Ishbaal será la que reúna más adeptos en el
-Imperio.
+La isla de Ishbaal es el origen del culto en el que los Sheijad veneran a
+Ishbaal como dios. La cultura sheijad influirá en la religiosidad de Dragma y,
+durante la época de Sandor, la religión de Ishbaal será la que reúna más
+adeptos en el Imperio.
 
-El culto al dios Ishbaal tendrá una presencia destacada en el Valle Central.
+El culto a Ishbaal tendrá una presencia destacada en el Valle Central.
 
 El surgimiento y auge de esta religión en el Imperio se precipitarán por varios
 antecedentes. Entre los más importantes estará una serie de guerras civiles de
@@ -85,7 +85,7 @@ poder; en algunos casos, también autonomía fuera del Imperio.
 Como consecuencia de estos conflictos surgirá la mayoría de los linajes de
 Invocadores actuales.
 
-De estas guerras surgirán seguidores del dios Ishbaal que considerarán
+De estas guerras surgirán seguidores del culto a Ishbaal que considerarán
 antinatural el misticismo y lo tendrán por el origen del mal en el mundo.
 
 Para esta corriente religiosa, Portadores e Invocadores son simplemente
@@ -93,19 +93,19 @@ Para esta corriente religiosa, Portadores e Invocadores son simplemente
 distinguirse; la diferencia solo adquiere importancia en investigaciones o
 casos específicos relacionados con el misticismo.
 
-No todos los seguidores del dios Ishbaal comparten una postura radical contra
+No todos los seguidores del culto a Ishbaal comparten una postura radical contra
 los místicos. Sin embargo, muchos de ellos jamás acudirían a un sanador Maeggi
 para curar una enfermedad, aun sin participar en persecuciones ni justificar
 violencia contra esas personas.
 
 Quedan pendientes la cantidad, cronología, bandos, casas, reinos, causas,
 desenlaces y consecuencias particulares de las Guerras Místicas, así como el
-alcance de esta postura entre los seguidores del dios Ishbaal.
+alcance de esta postura entre los seguidores del culto a Ishbaal.
 
 ### A-05. La Aniquilación
 
 Casi al finalizar la dinastía Amschel, ocurrirá un enfrentamiento entre
-místicos y seguidores fanáticos del dios Ishbaal, conocido como la
+místicos y seguidores fanáticos del culto a Ishbaal, conocido como la
 **Aniquilación**.
 
 Durante la Aniquilación se perderán muchas doctrinas místicas antiguas.
@@ -122,18 +122,18 @@ rechazo.
 
 ### A-06. Los Moroloth
 
-Los dos Moroloth más importantes del culto al dios Ishbaal son el de la isla de
+Los dos Moroloth más importantes del culto a Ishbaal son el de la isla de
 Ishbaal y el de Eldengaria.
 
 El Moroloth de la isla de Ishbaal se levanta en el centro de la isla. Es una
 edificación a modo de catedral y guarda los restos de un hombre de identidad
-desconocida. Los seguidores del dios Ishbaal los reconocen como los huesos del
-**Errante sin Nombre**, servidor del dios Ishbaal. Para sus creyentes, la muerte
-no es un final: el fiel permanece dormido, cuidado por el Errante sin Nombre,
-hasta que llegue el dios Ishbaal; entonces resucitará y lo seguirá al Jardín
-Eterno.
+desconocida. Los seguidores del culto a Ishbaal creen que esos restos son los
+huesos del **Errante sin Nombre** y que este sirvió a Ishbaal. También creen que
+la muerte no es un final: el fiel permanece dormido, cuidado por el Errante sin
+Nombre, hasta la venida de Ishbaal; entonces resucitará y seguirá a Ishbaal al
+Jardín Eterno.
 
-Muchos seguidores del dios Ishbaal de la época de Sandor tienen como objetivo
+Muchos seguidores del culto a Ishbaal de la época de Sandor tienen como objetivo
 visitar la isla de Ishbaal al menos una vez en la vida.
 
 El Moroloth de Eldengaria es diez veces más grande que el Moroloth de la isla de
@@ -151,7 +151,7 @@ En la época de Sandor existe un Moroloth en cada reino del Imperio y varios en
 el Valle Central.
 
 No existe una fe imperial. Sin embargo, casi toda la Casa Pavel sigue el culto
-al dios Ishbaal. Por esa razón, la influencia de este culto se encuentra muy
+a Ishbaal. Por esa razón, la influencia de este culto se encuentra muy
 arraigada entre la nobleza del Valle Central.
 
 Quedan pendientes la distribución de los Moroloth dentro de cada reino, el
@@ -160,7 +160,7 @@ concreta de cada corona con el culto.
 
 ### A-08. Ungimiento
 
-Un seguidor del dios Ishbaal espera ser ungido tres veces durante su vida.
+Un seguidor del culto a Ishbaal espera ser ungido tres veces durante su vida.
 
 1. Al nacer, a modo de bautismo.
 2. Al llegar a la adultez.
@@ -172,7 +172,7 @@ alcanzan a realizar la tercera unción.
 
 ### A-09. Los Grimm según la fe en Ishbaal
 
-Para los seguidores del dios Ishbaal, los Grimm son una consecuencia de los
+Para los seguidores del culto a Ishbaal, los Grimm son una consecuencia de los
 pecados de los seres humanos. Su existencia deriva de haber desafiado el orden
 natural mediante las artes místicas.
 
@@ -181,23 +181,23 @@ determina por sí misma el origen objetivo de los Grimm.
 
 ### A-10. El Susurrador en la Penumbra
 
-Además del dios Ishbaal, el panteón sheijad incluye una entidad llamada
-**Arsul**. Muchos seguidores del dios Ishbaal no se atreven a pronunciar ese
-nombre y usan el seudónimo **el Susurrador en la Penumbra**.
+En la creencia de los seguidores del culto a Ishbaal, el panteón sheijad
+incluye a **Arsul**. Muchos de ellos no se atreven a pronunciar ese nombre y
+usan el seudónimo **el Susurrador en la Penumbra**.
 
-Quedan pendientes su naturaleza, su relación con el dios Ishbaal, su lugar
-dentro del panteón, su culto y cualquier otro rasgo no establecido de forma
-expresa.
+Quedan pendientes su naturaleza, su relación con Ishbaal dentro de las
+creencias sheijad, su lugar en ese panteón y cualquier otro rasgo no establecido
+de forma expresa.
 
 ### A-11. Orden de la Flama Blanca
 
-La **Orden de la Flama Blanca** reúne a los seguidores más radicales del dios
-Ishbaal.
+La **Orden de la Flama Blanca** reúne a los seguidores más radicales del culto
+a Ishbaal.
 Busca la extinción de todos los místicos.
 
 Quedan pendientes su origen, organización, miembros, métodos, presencia
-territorial y relación concreta con el resto de los seguidores del dios Ishbaal
-y los clérigos.
+territorial y relación concreta con el resto de los seguidores del culto a
+Ishbaal y los clérigos.
 
 ## Nudos identificados en la auditoría previa
 
@@ -205,7 +205,7 @@ y los clérigos.
    Ishbaal y su relación con el Príncipe Regente.
 2. Delimitar Sarustra sin añadir geografía, cronología ni historia no
    proporcionadas.
-3. Precisar la influencia de la religión del dios Ishbaal y su convivencia con
+3. Precisar la influencia de la religión centrada en Ishbaal y su convivencia con
    las tradiciones religiosas ya canónicas.
 4. Contrastar las Guerras Místicas con el conflicto de la Segunda Dinastía ya
    reservado en la ficha de los Invocadores, sin anticipar una identificación

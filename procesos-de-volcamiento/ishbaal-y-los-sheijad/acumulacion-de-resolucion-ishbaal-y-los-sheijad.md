@@ -51,7 +51,7 @@ tierra, quedan para desarrollo posterior.
 
 **Nudo de origen:** AU-07.
 
-Durante la época de Sandor, el culto al dios Ishbaal reúne el mayor número de
+Durante la época de Sandor, el culto a Ishbaal reúne el mayor número de
 adeptos dentro del Imperio. Esta primacía no convierte al culto en una fe
 imperial oficial ni permite inferir adhesión de las coronas o de las poblaciones
 de los reinos en conjunto.
@@ -60,13 +60,37 @@ de los reinos en conjunto.
 
 ### R-04. Nombre compartido por la isla y el dios
 
-La isla y el dios venerado por los Sheijad se llaman **Ishbaal**.
+La isla y la figura que los Sheijad veneran como dios comparten el nombre
+**Ishbaal**.
 
 **Estado:** cerrado.
 
+### R-05. Creencias de los fieles y reservas sobre su verdad objetiva
+
+**Nudos abordados:** AU-03, AU-04 y aspectos doctrinales de AU-09 y AU-10.
+
+Se establece qué creen los fieles del culto a Ishbaal, sin confirmar como
+hechos objetivos la existencia o naturaleza de las figuras y verdades de su fe:
+
+- Veneran a Ishbaal como dios.
+- Creen que los fieles muertos permanecen dormidos, cuidados por el Errante sin
+  Nombre hasta la venida de Ishbaal; entonces resucitarán para seguirlo al
+  Jardín Eterno.
+- Identifican los restos custodiados en el Moroloth de la isla de Ishbaal como
+  los huesos del Errante sin Nombre y lo consideran servidor de Ishbaal.
+- Atribuyen a los pecados humanos y al desafío del orden natural mediante las
+  artes místicas el origen de los Grimm.
+- Incluyen a Arsul en el panteón sheijad. Muchos fieles evitan pronunciar su
+  nombre y lo llaman el Susurrador en la Penumbra.
+
+La existencia o naturaleza objetiva de Ishbaal y Arsul, así como la identidad y
+el origen de los restos, quedan reservados para desarrollos posteriores. La
+resolución no determina si esas creencias corresponden a hechos objetivos.
+
+**Estado:** cerrado con reserva.
+
 ## Orden de continuidad
 
-Después de R-04, la siguiente resolución abordará la distinción entre la
-existencia del culto y las creencias de sus seguidores, por un lado, y la
-naturaleza objetiva del dios Ishbaal, Arsul y los restos custodiados en el
-Moroloth de la isla, por otro.
+Después de R-05, la siguiente resolución abordará la relación entre las Guerras
+Místicas, la Aniquilación y el conflicto de la Segunda Dinastía reservado en el
+canon, sin añadir todavía cronologías ni detalles de campañas.
