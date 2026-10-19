@@ -159,7 +159,29 @@ uno de los recursos contra los Grimm es compatible con el canon, que también
 establece que el Verilium puede herirlos. Esta resolución no altera el canon
 vigente.
 
+### R-09. Función de los clérigos
+
+**Nudo abordado:** AU-08, parcialmente.
+
+Los clérigos del culto a Ishbaal difunden esa fe por todo el Gherin. El Moroloth
+de Eldengaria es su sede.
+
+**Estado:** cerrado.
+
+### R-10. Presencia territorial de los Moroloth
+
+**Nudo abordado:** AU-08, parcialmente.
+
+Durante la época de Sandor hay Moroloth por todos los territorios del Imperio.
+Su mayor concentración está en los dominios del Valle Central. La presencia
+de estos recintos no determina por sí misma la adhesión de las coronas ni de
+las poblaciones locales.
+
+**Estado:** cerrado con reserva.
+
+**Reserva:** no se fijan el número ni la ubicación exacta de los Moroloth en
+cada territorio.
+
 ## Orden de continuidad
 
-Después de R-08, la siguiente resolución abordará la organización y las
-atribuciones de los clérigos del culto a Ishbaal.
+Después de R-10, la siguiente resolución abordará el rito del ungimiento.

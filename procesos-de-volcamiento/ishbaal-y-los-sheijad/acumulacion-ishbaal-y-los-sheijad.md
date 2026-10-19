@@ -145,17 +145,17 @@ visitar la isla de Ishbaal al menos una vez en la vida.
 
 El Moroloth de Eldengaria es diez veces más grande que el Moroloth de la isla de
 Ishbaal. Es la sede de los **clérigos del culto a Ishbaal**, llamados
-simplemente clérigos en el uso cotidiano. Son hombres y mujeres que se unen
-para servir a esa fe.
+simplemente clérigos en el uso cotidiano. Son hombres y mujeres que difunden la
+fe en Ishbaal por todo el Gherin.
 
-Quedan pendientes la organización y las atribuciones de los clérigos, el
-origen histórico de los restos del Errante sin Nombre y todo otro detalle de
-ambos Moroloth que no haya sido establecido de forma expresa.
+Quedan pendientes el origen histórico de los restos del Errante sin Nombre y
+todo otro detalle de ambos Moroloth que no haya sido establecido de forma
+expresa.
 
 ### A-07. Alcance territorial en la época de Sandor
 
-En la época de Sandor existe un Moroloth en cada reino del Imperio y varios en
-el Valle Central.
+En la época de Sandor hay Moroloth por todos los territorios del Imperio. Su
+mayor concentración está en los dominios del Valle Central.
 
 No existe una fe imperial. Sin embargo, casi toda la Casa Pavel sigue el culto
 a Ishbaal. Por esa razón, la influencia de este culto se encuentra muy
@@ -228,22 +228,20 @@ frente a los Grimm, pues estos no pueden abandonar Stigria ni alcanzar la isla.
    las tradiciones religiosas ya canónicas.
 4. Delimitar las consecuencias sociales y políticas de las Guerras Místicas y
    la Aniquilación sin desarrollar campañas ni cronologías reservadas.
-5. Precisar el alcance de la presencia del culto a Ishbaal en el Valle Central
-   sin inferir instituciones, santuarios, ritos o comunidades concretas.
-6. Definir la organización y el alcance de los clérigos del culto a Ishbaal
-   antes de describir su sede en el Moroloth de Eldengaria.
-7. Distinguir la presencia material del culto en los reinos de la adhesión de
+5. Precisar, si resulta necesario para el volcamiento, el número y la ubicación
+   de Moroloth dentro de cada territorio, sin inferir adhesión de sus habitantes.
+6. Distinguir la presencia material del culto en los reinos de la adhesión de
    sus coronas y poblaciones, sin inferir una fe imperial.
-8. Precisar el rito de ungimiento sin añadir elementos no establecidos.
-9. Precisar el alcance de la explicación de quienes siguen a Ishbaal sobre los
+7. Precisar el rito de ungimiento sin añadir elementos no establecidos.
+8. Precisar el alcance de la explicación de quienes siguen a Ishbaal sobre los
    Grimm sin confundirla con su origen objetivo.
-10. Definir la naturaleza y el lugar del Susurrador en la Penumbra dentro del
+9. Definir la naturaleza y el lugar del Susurrador en la Penumbra dentro del
     panteón sheijad.
-11. Delimitar la Orden de la Flama Blanca sin atribuirle métodos u organización
+10. Delimitar la Orden de la Flama Blanca sin atribuirle métodos u organización
     no establecidos.
-12. Precisar la forma jurídica del tratamiento especial de Ishbaal y el alcance
+11. Precisar la forma jurídica del tratamiento especial de Ishbaal y el alcance
     territorial de la prohibición del misticismo.
-13. Identificar, solo después de resolver los puntos anteriores, las fichas e
+12. Identificar, solo después de resolver los puntos anteriores, las fichas e
    índices canónicos que podrían requerir modificación.
 
 ## Reservas de desarrollo

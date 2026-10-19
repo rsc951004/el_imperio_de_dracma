@@ -153,10 +153,14 @@ Eldenheim. La acumulación sitúa allí el Moroloth mayor y varios Moroloth más
 y establece uno en cada reino durante la época de Sandor. El canon no contiene
 fichas ni referencias de estos lugares, por lo que son contenido nuevo.
 
+R-09 establece que los clérigos del culto a Ishbaal difunden la fe por todo el
+Gherin y tienen su sede en el Moroloth de Eldengaria.
+
 Su presencia en los doce reinos no demuestra la adhesión de sus coronas ni de
 sus poblaciones. El futuro plan deberá distinguir el Moroloth de la isla de
-Ishbaal, la sede clerical de Eldengaria y los santuarios territoriales, así como
-los índices y fichas que deben recibir cada referencia.
+Ishbaal, la sede clerical de Eldengaria y los Moroloth territoriales, así como
+los índices y fichas que deben recibir cada referencia. Su distribución
+específica sigue pendiente.
 
 ### AU-09. El Errante sin Nombre y el ungimiento
 
@@ -214,6 +218,7 @@ conflicto interno de la Segunda Dinastía y fija el lugar de Leandrin Rheiner y
 la conspiración de la Orden, con detalles reservados; R-08 establece las
 posturas ante el misticismo y justifica la prohibición en Ishbaal por su carácter
 sagrado y el tratamiento especial de su principado, con los mecanismos
-jurídicos reservados. El rito de ungimiento y la organización clerical aún
-requieren resolución. Antes de preparar un plan de volcamiento, los demás nudos
-deben cerrarse, reservarse expresamente o descartarse.
+jurídicos reservados; R-09 establece la función de los clérigos. El rito de
+ungimiento aún requiere resolución, al igual que la distribución específica de
+los Moroloth. Antes de preparar un plan de volcamiento, los demás nudos deben
+cerrarse, reservarse expresamente o descartarse.
