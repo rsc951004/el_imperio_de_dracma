@@ -167,13 +167,11 @@ cada referencia. Su número y ubicación exactos quedan en reserva.
 ### AU-09. El Errante sin Nombre y el ungimiento
 
 Los restos custodiados en el Moroloth de la isla de Ishbaal, el Errante sin
-Nombre y las tres unciones no están documentados por el canon. No contradicen
-una ficha existente, pero requieren decidir qué componentes son práctica
-comprobable del culto y cuáles son promesa religiosa o tradición.
-
-También deben resolverse o reservarse la administración del rito, la situación
-de quienes no visitan la isla de Ishbaal y la relación entre el tercer
-ungimiento y el acceso social a la peregrinación.
+Nombre y los ungimientos no están documentados por el canon. R-05 establece las
+creencias de los fieles sobre los restos y el Errante. R-11 fija que los
+seguidores esperan tres ungimientos: al nacer, al llegar a la adultez y al
+visitar el Moroloth de la isla. No se considera necesario desarrollar la forma
+del rito ni otros detalles para el alcance actual del proceso.
 
 ### AU-10. Arsul y la Orden de la Flama Blanca
 
@@ -222,6 +220,7 @@ posturas ante el misticismo y justifica la prohibición en Ishbaal por su carác
 sagrado y el tratamiento especial de su principado, con los mecanismos
 jurídicos reservados; R-09 establece la función de los clérigos y R-10 la
 presencia territorial de los Moroloth, con número y ubicaciones exactas en
-reserva. El rito de ungimiento aún requiere resolución. Antes de preparar un
-plan de volcamiento, los demás nudos deben cerrarse, reservarse expresamente o
-descartarse.
+reserva; R-11 cierra el nudo del ungimiento en el nivel de detalle acordado.
+Sigue pendiente precisar la convivencia del culto a Ishbaal con las tradiciones
+religiosas ya documentadas. Antes de preparar un plan de volcamiento, los demás
+nudos deben cerrarse, reservarse expresamente o descartarse.

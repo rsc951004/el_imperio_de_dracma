@@ -182,6 +182,18 @@ las poblaciones locales.
 **Reserva:** no se fijan el número ni la ubicación exacta de los Moroloth en
 cada territorio.
 
+### R-11. Los tres ungimientos
+
+**Nudo abordado:** AU-09, parcialmente.
+
+Los seguidores del culto a Ishbaal esperan recibir tres ungimientos durante su
+vida: al nacer, a modo de bautismo; al llegar a la adultez; y al visitar el
+Moroloth de la isla de Ishbaal. Esta definición basta para el alcance actual del
+proceso.
+
+**Estado:** cerrado.
+
 ## Orden de continuidad
 
-Después de R-10, la siguiente resolución abordará el rito del ungimiento.
+Después de R-11, la siguiente resolución abordará la convivencia del culto a
+Ishbaal con las tradiciones religiosas ya documentadas.

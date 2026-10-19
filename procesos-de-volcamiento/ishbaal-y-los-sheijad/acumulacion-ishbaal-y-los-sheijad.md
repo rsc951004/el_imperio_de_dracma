@@ -173,10 +173,6 @@ Un seguidor del culto a Ishbaal espera ser ungido tres veces durante su vida.
 2. Al llegar a la adultez.
 3. Al visitar el Moroloth de la isla de Ishbaal.
 
-Quedan pendientes la forma concreta del ungimiento, quién puede administrarlo,
-el significado particular de cada momento y las circunstancias de quienes no
-alcanzan a realizar la tercera unción.
-
 ### A-09. Los Grimm según la fe en Ishbaal
 
 Para los seguidores del culto a Ishbaal, los Grimm son una consecuencia de los
@@ -232,16 +228,15 @@ frente a los Grimm, pues estos no pueden abandonar Stigria ni alcanzar la isla.
    de Moroloth dentro de cada territorio, sin inferir adhesión de sus habitantes.
 6. Distinguir la presencia material del culto en los reinos de la adhesión de
    sus coronas y poblaciones, sin inferir una fe imperial.
-7. Precisar el rito de ungimiento sin añadir elementos no establecidos.
-8. Precisar el alcance de la explicación de quienes siguen a Ishbaal sobre los
+7. Precisar el alcance de la explicación de quienes siguen a Ishbaal sobre los
    Grimm sin confundirla con su origen objetivo.
-9. Definir la naturaleza y el lugar del Susurrador en la Penumbra dentro del
+8. Definir la naturaleza y el lugar del Susurrador en la Penumbra dentro del
     panteón sheijad.
-10. Delimitar la Orden de la Flama Blanca sin atribuirle métodos u organización
+9. Delimitar la Orden de la Flama Blanca sin atribuirle métodos u organización
     no establecidos.
-11. Precisar la forma jurídica del tratamiento especial de Ishbaal y el alcance
+10. Precisar la forma jurídica del tratamiento especial de Ishbaal y el alcance
     territorial de la prohibición del misticismo.
-12. Identificar, solo después de resolver los puntos anteriores, las fichas e
+11. Identificar, solo después de resolver los puntos anteriores, las fichas e
    índices canónicos que podrían requerir modificación.
 
 ## Reservas de desarrollo
