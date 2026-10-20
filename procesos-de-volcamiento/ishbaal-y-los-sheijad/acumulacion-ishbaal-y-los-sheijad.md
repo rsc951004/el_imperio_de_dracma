@@ -67,13 +67,33 @@ adeptos en el Imperio.
 
 El culto a Ishbaal tendrá una presencia destacada en el Valle Central.
 
+Durante la época de Sandor, el culto a Ishbaal convive con otras creencias
+religiosas y costumbres sin problemas generalizados. Persisten conflictos
+esporádicos, pero desde el término de las Guerras Místicas se ha avanzado mucho
+en reducirlos.
+
+En Dragma existe libertad religiosa, salvo para el culto a Thalmos, que está
+prohibido.
+
 El surgimiento y auge de esta religión en el Imperio se precipitarán por varios
 antecedentes. Entre los más importantes estará una serie de guerras civiles de
 Dragma durante la dinastía Amschel, conocidas como las **Guerras Místicas**.
 
-Quedan pendientes las prácticas religiosas, la relación con las tradiciones ya
-documentadas y los demás antecedentes y procesos históricos concretos de ese
-auge.
+El atractivo del culto a Ishbaal se sostiene principalmente en dos pilares:
+
+1. **La promesa de salvación.** La fe ofrece a sus seguidores una promesa de
+   salvación, expresada en las creencias ya establecidas sobre la muerte, el
+   retorno de Ishbaal y la resurrección en el Jardín Eterno. Esta promesa llena
+   un espacio distintivo en la religiosidad dragmana y la distingue de
+   tradiciones como la figura mítica de Ghera y los cultos en torno a los Inits,
+   cuyo móvil no está definido.
+2. **La sensación de protección.** Los no místicos pueden sentir que Ishbaal los
+   protege de quienes perciben como peligrosos por su vínculo con el
+   misticismo. Este pilar tendrá especial fuerza en Vesperya al inicio de las
+   Guerras Místicas.
+
+Quedan reservados los antecedentes y procesos históricos concretos que
+condujeron a la difusión de estos pilares.
 
 ### A-04. Guerras Místicas y rechazo del misticismo
 
@@ -161,9 +181,13 @@ No existe una fe imperial. Sin embargo, casi toda la Casa Pavel sigue el culto
 a Ishbaal. Por esa razón, la influencia de este culto se encuentra muy
 arraigada entre la nobleza del Valle Central.
 
-Quedan pendientes la distribución de los Moroloth dentro de cada reino, el
-grado de arraigo del culto a Ishbaal fuera del Valle Central y la relación
-concreta de cada corona con el culto.
+Fuera de los dominios del Valle Central, el culto es popular en Guldengard y
+Eisengard, y no es muy popular en los demás reinos de esa zona. Esta distribución
+no determina la adhesión de cada corona ni la de todos los habitantes de esos
+reinos.
+
+Quedan pendientes el número y la ubicación exacta de los Moroloth dentro de
+cada territorio y la relación concreta de cada corona con el culto.
 
 ### A-08. Ungimiento
 
@@ -220,23 +244,19 @@ frente a los Grimm, pues estos no pueden abandonar Stigria ni alcanzar la isla.
    Ishbaal y su relación con el Príncipe Regente.
 2. Delimitar Sarustra sin añadir geografía, cronología ni historia no
    proporcionadas.
-3. Precisar la influencia de la religión centrada en Ishbaal y su convivencia con
-   las tradiciones religiosas ya canónicas.
-4. Delimitar las consecuencias sociales y políticas de las Guerras Místicas y
+3. Delimitar las consecuencias sociales y políticas de las Guerras Místicas y
    la Aniquilación sin desarrollar campañas ni cronologías reservadas.
-5. Precisar, si resulta necesario para el volcamiento, el número y la ubicación
+4. Precisar, si resulta necesario para el volcamiento, el número y la ubicación
    de Moroloth dentro de cada territorio, sin inferir adhesión de sus habitantes.
-6. Distinguir la presencia material del culto en los reinos de la adhesión de
-   sus coronas y poblaciones, sin inferir una fe imperial.
-7. Precisar el alcance de la explicación de quienes siguen a Ishbaal sobre los
+5. Precisar el alcance de la explicación de quienes siguen a Ishbaal sobre los
    Grimm sin confundirla con su origen objetivo.
-8. Definir la naturaleza y el lugar del Susurrador en la Penumbra dentro del
+6. Definir la naturaleza y el lugar del Susurrador en la Penumbra dentro del
     panteón sheijad.
-9. Delimitar la Orden de la Flama Blanca sin atribuirle métodos u organización
+7. Delimitar la Orden de la Flama Blanca sin atribuirle métodos u organización
     no establecidos.
-10. Precisar la forma jurídica del tratamiento especial de Ishbaal y el alcance
+8. Precisar la forma jurídica del tratamiento especial de Ishbaal y el alcance
     territorial de la prohibición del misticismo.
-11. Identificar, solo después de resolver los puntos anteriores, las fichas e
+9. Identificar, solo después de resolver los puntos anteriores, las fichas e
    índices canónicos que podrían requerir modificación.
 
 ## Reservas de desarrollo

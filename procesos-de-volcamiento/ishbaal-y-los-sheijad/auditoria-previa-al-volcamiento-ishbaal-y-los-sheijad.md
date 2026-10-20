@@ -72,6 +72,24 @@ sueño de los muertos y la interpretación de los Grimm. Debe mantener ese
 carácter en todo futuro texto canónico, salvo decisión humana posterior que
 confirme una verdad y determine si requiere canon velado.
 
+R-12 establece que, en la época de Sandor, el culto a Ishbaal convive con otras
+creencias y costumbres sin conflictos generalizados, aunque persisten conflictos
+esporádicos y desde el término de las Guerras Místicas se ha avanzado mucho en
+reducirlos. También establece libertad religiosa en Dragma, excepto por la
+prohibición del culto a Thalmos. El canon ya documenta que el culto de Thalmos
+sobrevivió fuera de Astria mediante continuidades clandestinas; la prohibición
+en Dragma es compatible con ello, sin que se establezca aquí cuándo ni por qué
+se impuso.
+
+R-13 atribuye el atractivo del culto a dos pilares: la promesa de salvación y la
+sensación de protección de los no místicos frente a quienes perciben como
+peligrosos. El segundo pilar tendrá especial fuerza en Vesperya al inicio de
+las Guerras Místicas. La referencia a Ghera debe conservar su carácter de figura
+de la tradición gheran cuya existencia no está demostrada. El canon establece
+que el propósito de los Inits es desconocido, pero no desarrolla cultos en torno
+a ellos; esa comparación se registra aquí como contexto nuevo, sin asignar un
+móvil común a tales cultos.
+
 ### AU-04. Los Grimm y la explicación de los seguidores de Ishbaal
 
 La ficha de los Grimm los define como criaturas terrestres prehistóricas,
@@ -137,14 +155,16 @@ técnica ya fijada para registros e investigaciones concretas.
 La acumulación establece que, durante la época de Sandor, el culto a Ishbaal
 reúne el mayor número de adeptos del Imperio. Este predominio no
 establece una fe imperial oficial ni permite inferir adhesión de las coronas o
-de las poblaciones de los reinos en conjunto. La resolución R-03 cierra este
-nudo con ese alcance.
+de las poblaciones de los reinos en conjunto. R-03 establece el predominio
+general y R-14 delimita la popularidad fuera del Valle Central. No hace falta
+precisar la adhesión de cada corona ni de poblaciones completas.
 
-La adhesión casi total de la Casa Pavel al culto a Ishbaal es información
-nueva. Su traslado afectaría la ficha de la casa, la de Dragma, la futura ficha
-de Eldengaria y los marcos religiosos. Debe definirse el alcance de esa
-adhesión para no inferir una posición de cada miembro, de cada Kaisrik o de
-toda la nobleza del Valle Central.
+R-14 establece que, fuera de los dominios del Valle Central, el culto es popular
+en Guldengard y Eisengard, y no muy popular en los demás reinos de esa zona. Esta
+distribución de popularidad no determina la adhesión de sus coronas ni de sus
+poblaciones en conjunto. También se conserva el dato de que casi toda la Casa
+Pavel sigue el culto, sin inferir la postura de cada miembro ni de toda la
+nobleza del Valle Central.
 
 ### AU-08. Moroloth, Eldengaria y presencia territorial
 
@@ -157,9 +177,11 @@ estos lugares, por lo que son contenido nuevo.
 R-09 establece que los clérigos del culto a Ishbaal difunden la fe por todo el
 Gherin y tienen su sede en el Moroloth de Eldengaria.
 
-Su presencia en los territorios del Imperio no demuestra la adhesión de sus
-coronas ni de sus poblaciones. R-10 fija el alcance territorial general y su
-concentración principal en los dominios del Valle Central. El futuro plan deberá
+La presencia de Moroloth en los territorios del Imperio no demuestra la adhesión
+de sus coronas ni de sus poblaciones. R-10 fija el alcance territorial general
+y su concentración principal en los dominios del Valle Central. R-14 delimita
+la popularidad del culto fuera de esa zona, sin atribuirla a territorios por la
+sola presencia de Moroloth. El futuro plan deberá
 distinguir el Moroloth de la isla de Ishbaal, la sede clerical de Eldengaria y
 los Moroloth territoriales, así como los índices y fichas que deben recibir
 cada referencia. Su número y ubicación exactos quedan en reserva.
@@ -203,16 +225,24 @@ podría contradecir el régimen legal vigente de los Maeggis.
 - El tratamiento de los Grimm y de la resurrección debe preservar la diferencia
   entre las creencias de los seguidores del culto a Ishbaal y los hechos
   objetivos del mundo.
+- La promesa de salvación y la sensación de protección registradas en R-13 deben
+  mantenerse como creencias y percepciones religiosas, no como confirmación de
+  la existencia o intervención objetiva de Ishbaal.
 - La prohibición insular del misticismo se justifica por el carácter sagrado de
   Ishbaal y el tratamiento especial de su principado. El volcamiento debe
   reflejar esa excepción territorial; los mecanismos jurídicos concretos quedan
   reservados. La referencia al misticismo como uno de varios recursos contra los
   Grimm es compatible con el efecto canónico del Verilium.
+- R-12 establece libertad religiosa en Dragma con la excepción del culto a
+  Thalmos. Esta prohibición es nueva y compatible con la supervivencia clandestina
+  del culto documentada en el canon; no se fijan aquí sus causas ni ubicación.
 
-La acumulación de resoluciones está en curso. R-01 y R-03 cierran AU-01 y AU-07;
-R-02 cierra con reserva AU-02; R-04 establece el nombre compartido por la isla y
-la figura venerada como dios; R-05 cierra AU-03 y AU-04, con reservas sobre la
-verdad objetiva, y aborda parcialmente AU-09 y AU-10; R-06 establece la posición
+La acumulación de resoluciones para este alcance está completa. R-01 cierra
+AU-01; R-03 y R-14 cierran AU-07; R-02 cierra con reserva AU-02; R-04 establece
+el nombre compartido por la isla y la figura venerada como dios; R-05 resuelve el
+componente doctrinal y ontológico
+de AU-03 y AU-04, con reservas sobre la verdad objetiva, y aborda parcialmente
+AU-09 y AU-10; R-06 establece la posición
 de la Aniquilación dentro de las Guerras Místicas; R-07 las relaciona con el
 conflicto interno de la Segunda Dinastía y fija el lugar de Leandrin Rheiner y
 la conspiración de la Orden, con detalles reservados; R-08 establece las
@@ -220,7 +250,11 @@ posturas ante el misticismo y justifica la prohibición en Ishbaal por su carác
 sagrado y el tratamiento especial de su principado, con los mecanismos
 jurídicos reservados; R-09 establece la función de los clérigos y R-10 la
 presencia territorial de los Moroloth, con número y ubicaciones exactas en
-reserva; R-11 cierra el nudo del ungimiento en el nivel de detalle acordado.
-Sigue pendiente precisar la convivencia del culto a Ishbaal con las tradiciones
-religiosas ya documentadas. Antes de preparar un plan de volcamiento, los demás
-nudos deben cerrarse, reservarse expresamente o descartarse.
+reserva; R-11 cierra el nudo del ungimiento en el nivel de detalle acordado;
+R-12 resuelve la convivencia religiosa general y la prohibición del culto a
+Thalmos en Dragma; R-13 fija dos pilares del atractivo del culto, con reserva
+de los procesos históricos concretos de difusión; R-14 completa AU-07 con la
+popularidad en Guldengard y Eisengard fuera del Valle Central, sin inferir
+adhesión de coronas o poblaciones. El alcance de cada corona no requiere mayor
+precisión. Corresponde realizar la auditoría final y preparar el plan de
+volcamiento; las reservas restantes deben clasificarse antes de formularlo.

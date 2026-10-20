@@ -193,7 +193,57 @@ proceso.
 
 **Estado:** cerrado.
 
+### R-12. Convivencia religiosa y libertad de culto
+
+**Nudo abordado:** AU-03, parcialmente.
+
+Durante la época de Sandor, el culto a Ishbaal convive con otras creencias
+religiosas y costumbres sin problemas generalizados. Hay conflictos
+esporádicos, pero desde el término de las Guerras Místicas se ha avanzado mucho
+en reducirlos.
+
+En Dragma existe libertad religiosa, salvo para el culto a Thalmos, que está
+prohibido.
+
+**Estado:** cerrado.
+
+### R-13. Pilares del atractivo del culto a Ishbaal
+
+**Nudo abordado:** AU-03, parcialmente.
+
+El atractivo del culto a Ishbaal se sostiene principalmente en dos pilares:
+
+1. La promesa de salvación en la que creen sus seguidores, desarrollada en las
+   creencias sobre la muerte y la resurrección ya registradas en R-05. Esta
+   promesa ocupa un espacio distintivo frente a otras creencias de Stigria.
+2. La sensación de protección para quienes no son místicos frente a aquellos
+   que perciben como peligrosos por su vínculo con el misticismo. Este pilar
+   tendrá especial fuerza en Vesperya al inicio de las Guerras Místicas.
+
+Según los fieles, Ishbaal les ofrece esta salvación. La promesa distingue el
+culto de tradiciones como la figura mítica de Ghera y de los cultos en torno a
+los Inits, cuyo móvil no está definido. La sensación de protección describe la
+percepción de los fieles, no confirma una intervención objetiva de Ishbaal.
+
+**Estado:** cerrado con reserva.
+
+**Reserva:** no se detallan los procesos históricos concretos que hicieron
+difundirse estos pilares ni otros antecedentes de la expansión del culto.
+
+### R-14. Popularidad del culto fuera del Valle Central
+
+**Nudo abordado:** AU-07.
+
+Fuera de los dominios del Valle Central, el culto a Ishbaal es popular en
+Guldengard y Eisengard, y no es muy popular en los demás reinos de esa zona.
+Esta distribución no determina la adhesión de cada corona ni la de todos los
+habitantes de esos reinos; no hace falta precisar la postura de cada corona.
+
+**Estado:** cerrado.
+
 ## Orden de continuidad
 
-Después de R-11, la siguiente resolución abordará la convivencia del culto a
-Ishbaal con las tradiciones religiosas ya documentadas.
+R-14 cierra las resoluciones de este alcance. Sigue una auditoría final para
+clasificar los nudos como cerrados, cerrados con reserva o pendientes, y la
+preparación de un plan de volcamiento no canónico. Ese plan no autoriza modificar
+el canon.
