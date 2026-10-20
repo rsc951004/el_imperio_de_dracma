@@ -42,6 +42,8 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Casas fundadoras** | Completar la historia de las casas fundadoras de los doce reinos. |
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
 | **Möes Tábura** | Desarrollar su jerarquía, organización y trámites internos de clasificación. |
+| **Orden de la Flama Blanca** | Mantener sin definir su origen preciso, estatus legal, estructura interna, integrantes, métodos, presencia territorial y relación con los clérigos del culto a Ishbaal. |
+| **Prohibición del culto a Thalmos en Dragma** | Mantener sin fijar la fecha y las causas de la prohibición. |
 | **Creación de Invocadores** | Definir la autoridad, los permisos, el procedimiento, los materiales y los riesgos concretos del rito, actualmente casi prohibido. |
 | **Lumbre del Gran Faro** | Definir la vía, el momento y los custodios que transmitieron a Esteria el saber para preparar la Lumbre. |
 | **Sucesión de Landwalts** | Definir el procedimiento posterior a una objeción de la Dex Tábura, la compatibilidad con la jefatura de casa, los requisitos personales y las competencias administrativas detalladas. |
@@ -56,9 +58,11 @@ Plata–Tiranía ya no se mantienen en esta lista.
 |------|-----------|
 | **Artemis y Suntarys** | Precisar la posición cronológica de Artemis, la fundación remota y la trayectoria interna de Suntarys, sin reabrir los hitos ya fijados de su caída. |
 | **Astria, Thalmos y Erebia** | Desarrollar las fechas, nombres, campañas y trayectorias particulares de la historia remota ya asentada. |
-| **Protectorados y ultramar** | Desarrollar Ishbaal, Lorka, Paicel y las relaciones históricas entre los protectorados. |
+| **Expansión del culto a Ishbaal** | Precisar, en una etapa posterior, los procesos históricos concretos que difundieron sus pilares de salvación y protección. |
+| **Figuras del culto a Ishbaal** | Mantener sin definir la existencia o naturaleza objetiva de Ishbaal, Arsul y el Errante sin Nombre, así como la identidad y el origen de los restos custodiados en el Moroloth de la isla. |
+| **Protectorados y ultramar** | Desarrollar la casa gobernante, la sucesión, los órganos internos, las facultades concretas y la historia de Ishbaal; precisar la forma jurídica del tratamiento especial de la isla, la ubicación e historia interna de Sarustra, la llegada sheijad y el número y la ubicación exacta de los Moroloth. Desarrollar Lorka, Paicel y las relaciones históricas entre los protectorados. |
 | **Príncipes Perdidos** | Resolver el destino de Eryk Albyon y Thalyssa Coralyss. |
-| **Invocadores y Segunda Dinastía** | Desarrollar las causas, bandos y secuencia del conflicto que consolidó su estigma social y casi destruyó el Imperio. |
+| **Invocadores y Segunda Dinastía** | Desarrollar, en una etapa narrativa posterior, las causas, campañas, participantes y secuencia detallada de las Guerras Místicas y la Aniquilación. Su marco general, la conspiración de la Orden de la Flama Blanca y el surgimiento de Leandrin Rheiner en Dragma están establecidos; no hay fechas ni campañas concretas aprobadas. |
 | **Saqueos de Sturmgard** | Desarrollar lugares atacados, campañas concretas y mecanismos de distribución del botín durante una etapa narrativa autorizada. |
 | **Escuelas regionales** | Desarrollar procedimientos internos y particularidades de las escuelas de Veleskaria, Zephyrya y otros territorios. |
 | **Encanto zephyrio** | Mantener sin definir la técnica, el agente y el procedimiento exactos de la modificación astriana, además del mecanismo independiente por el que la piel zephyria no se broncea. |

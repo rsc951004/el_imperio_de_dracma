@@ -103,10 +103,18 @@ Al final de la Edad de la Podredumbre, un grupo de Portadores abrió el Foso de
 la Calamidad dentro del Riegel y derrumbó completamente el conducto subterráneo
 del Rost.
 
+## Aniquilación
+
+Durante la **Aniquilación**, la Orden de la Flama Blanca conspiró para
+aniquilar a todos los Portadores e Invocadores e instaurar una teocracia. La
+conspiración casi alcanzó sus objetivos.
+
 ## Referencias
 
 - `docs/personajes/radu.md`
 - `docs/personajes/iulien-therin.md`
 - `docs/mundo/stigria/costa-del-verano.md`
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
+- `docs/mundo/stigria/dragma/guerras-misticas.md`
+- `docs/organizaciones/orden-de-la-flama-blanca.md`
 - `docs/mundo/stigria/kantra.md`

@@ -11,7 +11,7 @@ incompatible de la acumulación inicial y de la auditoría previa. Todo asunto
 que se reserve expresamente queda fuera del volcamiento hasta una decisión
 humana posterior; no se convierte en canon por estar registrado aquí.
 
-## Resoluciones en curso
+## Resoluciones finales
 
 ### R-01. Principado y Príncipe Regente de Ishbaal
 
@@ -21,6 +21,8 @@ Ishbaal es un protectorado imperial administrado como un **principado**. El
 **Príncipe Regente** es el gobernante de ese principado. Ambos términos
 describen, respectivamente, la forma de gobierno de Ishbaal y la autoridad que
 la ejerce; no nombran instituciones distintas.
+
+El territorio y sus gentes son sheijad.
 
 La resolución conserva estos límites:
 
@@ -51,10 +53,17 @@ tierra, quedan para desarrollo posterior.
 
 **Nudo de origen:** AU-07.
 
+La isla de Ishbaal es el origen del culto en que los Sheijad veneran a Ishbaal
+como dios. La cultura sheijad influirá en la religiosidad de Dragma.
+
 Durante la época de Sandor, el culto a Ishbaal reúne el mayor número de
 adeptos dentro del Imperio. Esta primacía no convierte al culto en una fe
 imperial oficial ni permite inferir adhesión de las coronas o de las poblaciones
 de los reinos en conjunto.
+
+El culto tiene una presencia destacada en el Valle Central. Casi toda la Casa
+Pavel lo sigue, y por ello su influencia está muy arraigada entre la nobleza de
+esa región.
 
 **Estado:** cerrado.
 
@@ -113,8 +122,11 @@ Segunda Dinastía mencionada en el canon. Distintas dinastías y reinos de Dragm
 junto con algunos actores externos, se enfrentarán por el poder y el control de
 los reinos, territorios e incluso el Imperio.
 
+Como consecuencia de los conflictos surgirá la mayoría de los linajes actuales
+de Invocadores.
+
 El inicio en territorio de Dragma quedará registrado por el surgimiento del
-primer Invocador allí, **Leandrin Rheiner**, una joven noble de Flamangard. Este
+primer Invocador allí, **Leandrin Rheiner**, una joven noble de Flemmengard. Este
 dato es compatible con que **Therin** sea el primer Invocador del que se tiene
 registro en general. No se fija aquí una fecha ni se desarrolla el surgimiento
 de Leandrin.
@@ -125,11 +137,17 @@ de la Flama Blanca**, conspirará para derrocar al emperador, aniquilar a todos
 los Portadores e Invocadores e instaurar una teocracia. La conspiración casi
 alcanzará sus objetivos.
 
+Durante la Aniquilación se perderán muchas doctrinas místicas antiguas. En la
+época de Sandor, la cantidad de místicos será bastante menor que durante la
+dinastía Amschel, y en determinadas casas o lugares del Imperio no serán bien
+recibidos ni admirados.
+
 **Estado:** cerrado con reserva.
 
 **Reservas:** quedan sin desarrollar las fechas, campañas, participantes
 individuales, organización y métodos de la Orden de la Flama Blanca, y las
-circunstancias detalladas del conflicto.
+circunstancias detalladas del conflicto. No se precisa la posición de la
+Aniquilación dentro de la Segunda Dinastía, más allá de que ocurrió durante ella.
 
 ### R-08. Rechazo al misticismo y prohibición en Ishbaal
 
@@ -138,6 +156,11 @@ circunstancias detalladas del conflicto.
 La doctrina de la Orden de la Flama Blanca considera el misticismo el pecado
 original: el intento humano de imitar a Ishbaal. La Orden sostiene que debe ser
 destruido y erradicado del mundo a cualquier costo.
+
+Entre los seguidores del culto surgirá una corriente que considera antinatural
+el misticismo y lo tiene por origen del mal. Sus integrantes agrupan a Portadores
+e Invocadores bajo el nombre de **místicos**; en la mayoría de los casos no
+reconocen a cuál de las dos condiciones pertenece una persona.
 
 Los seguidores comunes del culto consideran que el misticismo es una práctica
 ajena a su fe, pero la toleran. Muchos reconocen y agradecen que, en la época
@@ -163,8 +186,8 @@ vigente.
 
 **Nudo abordado:** AU-08, parcialmente.
 
-Los clérigos del culto a Ishbaal difunden esa fe por todo el Gherin. El Moroloth
-de Eldengaria es su sede.
+Los clérigos del culto a Ishbaal son hombres y mujeres que difunden esa fe por
+todo el Gherin. El Moroloth de Eldengaria es su sede.
 
 **Estado:** cerrado.
 
@@ -176,6 +199,14 @@ Durante la época de Sandor hay Moroloth por todos los territorios del Imperio.
 Su mayor concentración está en los dominios del Valle Central. La presencia
 de estos recintos no determina por sí misma la adhesión de las coronas ni de
 las poblaciones locales.
+
+Los dos Moroloth más importantes son el de la isla de Ishbaal y el de
+Eldengaria. El de la isla se alza en su centro, tiene forma de catedral y guarda
+los restos de un hombre de identidad desconocida. El Moroloth de Eldengaria es
+diez veces más grande que el de la isla.
+
+Durante la época de Sandor, muchos seguidores del culto tienen como objetivo
+visitar la isla de Ishbaal al menos una vez en su vida.
 
 **Estado:** cerrado con reserva.
 
@@ -243,7 +274,8 @@ habitantes de esos reinos; no hace falta precisar la postura de cada corona.
 
 ## Orden de continuidad
 
-R-14 cierra las resoluciones de este alcance. Sigue una auditoría final para
-clasificar los nudos como cerrados, cerrados con reserva o pendientes, y la
-preparación de un plan de volcamiento no canónico. Ese plan no autoriza modificar
-el canon.
+R-14 cierra las resoluciones de este alcance. La auditoría de cierre consta en
+`auditoria-previa-al-volcamiento-ishbaal-y-los-sheijad.md`; el plan no canónico
+consta en `plan-de-volcamiento-ishbaal-y-los-sheijad.md`. La ejecución del plan
+fue autorizada por separado y se documentó en `docs/notas.md`; estos documentos
+no autorizan modificaciones canónicas adicionales.

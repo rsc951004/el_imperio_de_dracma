@@ -12,11 +12,18 @@ muchos más Inits. Una vez adquirido, el vínculo es permanente y heredable. La
 mayoría de los Invocadores de la Edad de Oro nació de linajes que ya lo
 heredaban.
 
+La mayoría de los linajes actuales de Invocadores surgió como consecuencia de
+las Guerras Místicas.
+
 ## Origen
 
 Durante una crisis familiar de Astria, el padre de **Therin** lo convirtió en
 Invocador. Therin es el primer Invocador del que se tiene registro. El relato
 completo y las particularidades del rito permanecen reservados.
+
+El surgimiento de **Leandrin Rheiner**, joven noble de Flemmengard, registra el
+inicio de las Guerras Místicas en territorio de Dragma. Esto no altera la
+precedencia de Therin como primer Invocador registrado en general.
 
 Crear un nuevo Invocador exige despojar a un Portador de su vínculo. En la Edad
 de Oro la práctica está fuertemente restringida y casi prohibida. No se han
@@ -72,9 +79,9 @@ cuerpo.
 ## Consideración social
 
 El estigma contra los Invocadores es social y no limita sus derechos legales,
-su registro ni su acceso a una licencia. Se relaciona con un conflicto interno
-de la Segunda Dinastía que casi destruyó el Imperio y cuyo desarrollo permanece
-reservado. Algunas casas nobles recurrieron en secreto a la creación de
+su registro ni su acceso a una licencia. Se relaciona con las Guerras Místicas,
+la sucesión de conflictos internos de la Segunda Dinastía que casi destruyó el
+Imperio. Algunas casas nobles recurrieron en secreto a la creación de
 Invocadores pese a despreciarla públicamente. Por ello, no es común que una
 persona revele ese origen cuando puede presentarse simplemente como Portador.
 
@@ -92,4 +99,6 @@ persona revele ese origen cuando puede presentarse simplemente como Portador.
 - `docs/entidades/portadores.md`
 - `docs/entidades/inits.md`
 - `docs/taburas/moes-tabura.md`
+- `docs/mundo/stigria/dragma/guerras-misticas.md`
+- `docs/personajes/historicos/leandrin-rheiner.md`
 - `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`

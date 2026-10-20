@@ -61,11 +61,16 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 |---|--------|------|------------|-------|
 | 1 | Khalos | Ciudadela libre | Gran Consejo | Fundada por la Gente de la Bruma y refugiados astrianos. |
 | 2 | Esteria | Ciudad fortaleza | Guardia Amarilla | Enclave protector al borde del Foso de la Calamidad. La carta de Rudgar lo separó de los doce Dominios. |
-| 3 | Ishbaal | Territorio de ultramar | Príncipe Regente | Isla al noroeste. |
+| 3 | Ishbaal | Territorio de ultramar | Príncipe Regente | Isla sheijad al noroeste, administrada como principado autónomo. |
 | 4 | Alessya | Protectorado insular | Príncipe Guardián | Isla al suroeste, vinculada históricamente con los Hijos del Sol. Principado rico e inalienable. |
 | 5 | Delfos | Territorio de ultramar | Regente (Casa Artema) | Isla tropical frente al Grimmen. Gobernada por la Casa Artema. Los Artema portan en secreto sangre Mormund desde el exilio de Mijail. |
 | 6 | Lorka | Territorio de ultramar | Príncipe Regente | Isla al norte de Ishbaal. |
 | 7 | Paicel | Territorio de ultramar | Príncipe Regente | Isla al sureste de Delfos. |
+
+## Libertad religiosa
+
+El Imperio no tiene una religión oficial y en Dragma existe libertad religiosa,
+salvo por el culto a Thalmos, que está prohibido.
 
 ## Las Tierras Intermedias
 Territorios sin dueño dentro del Gherin que no pertenecen a ningún reino ni protectorado. Páramos, costas y franjas de tierra entre fronteras. Son considerados bienes comunes del imperio, administrados por el **Gran Señor de los Caminos** con autonomía propia.
@@ -173,6 +178,8 @@ Sindgard. Nunca anuló la autonomía del Paso del Oriente.
 ## Referencias
 - Concordia de Vilem Mormund.
 - Stamengherin.
+- `docs/mundo/stigria/dragma/ishbaal/ishbaal.md`
+- `docs/mundo/stigria/dragma/guerras-misticas.md`
 - `docs/mundo/stigria/dragma/sindria/sindria.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
 - `docs/mundo/stigria/valgard.md`

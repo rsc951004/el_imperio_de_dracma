@@ -22,7 +22,11 @@ mundo/
         ├── dragma.md
         ├── concordia.md
         ├── stamengherin.md
+        ├── guerras-misticas.md
         └── [reinos y protectorados]/
+            └── ishbaal/
+                ├── ishbaal.md
+                └── culto-a-ishbaal.md
 ```
 
 ## Continentes
@@ -101,6 +105,8 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Dragma | Imperio | Arquitectura completa del imperio: estructura territorial, dinastías, sistema de gobierno. | [Ver ficha](mundo/stigria/dragma/dragma.md) |
 | La Concordia | Reformas | Cuerpo de reformas de Vilem Mormund que refundaron el pacto social del imperio. | [Ver ficha](mundo/stigria/dragma/concordia.md) |
 | Stamengherin | Institución | Asamblea extraordinaria que resuelve cambios dinásticos y puede reformar la estructura territorial o política del imperio. | [Ver ficha](mundo/stigria/dragma/stamengherin.md) |
+| Guerras Místicas | Conflicto histórico | Sucesión de conflictos internos durante la Segunda Dinastía, culminada por la Aniquilación. | [Ver ficha](mundo/stigria/dragma/guerras-misticas.md) |
+| Culto a Ishbaal | Tradición religiosa | Culto sheijad a la figura que veneran como dios; sus fieles creen en una promesa de salvación. | [Ver ficha](mundo/stigria/dragma/ishbaal/culto-a-ishbaal.md) |
 | Cinco Víer de Eldenheim | Divisiones administrativas | Rostheim, Eldenfeld, Rissbruck, Drakenau y Vesterfeld, subordinados al Kaisrik. | [Ver ficha](mundo/stigria/dragma/vier-de-eldenheim.md) |
 | Tierras Intermedias | Territorio | Territorios sin dueño del Gherin. Páramos, costas y tierras entre reinos. Bienes comunes. | Pendiente |
 
@@ -160,7 +166,7 @@ Los tres reinos de la Tierra de la Bruma son **Kystvar** —puerto pesquero—, 
 |---|--------|------|-------------------|-------|
 | 1 | Khalos | Ciudadela | Fortaleza circular de piedra de Stömur, fundada por la Gente de la Bruma y refugiados astrianos. | [Ver ficha](mundo/stigria/dragma/khalos/khalos.md) |
 | 2 | Esteria | Ciudad fortaleza | Enclave fundado por Iulien Therin junto al Foso. No pertenece a ninguno de los doce reinos. | [Ver ficha](mundo/stigria/dragma/esteria/esteria.md) |
-| 3 | Ishbaal | Isla | Isla al noroeste del continente. | [Ver ficha](mundo/stigria/dragma/ishbaal/ishbaal.md) |
+| 3 | Ishbaal | Protectorado insular | Isla sheijad al noroeste, administrada como principado autónomo por un Príncipe Regente. | [Ver ficha](mundo/stigria/dragma/ishbaal/ishbaal.md) |
 | 4 | Alessya | Isla | Isla al suroeste, vinculada históricamente con los Hijos del Sol. Protectorado rico gobernado por un Príncipe Guardián. Inalienable por ley de la Concordia. | [Ver ficha](mundo/stigria/dragma/alessya/alessya.md) |
 | 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por Artemis durante la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/dragma/delfos/delfos.md) |
 | 6 | Lorka | Isla | Territorio de ultramar al norte de Ishbaal. Aguas frías, costas rocosas. | [Ver ficha](mundo/stigria/dragma/lorka/lorka.md) |

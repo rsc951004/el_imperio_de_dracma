@@ -90,6 +90,7 @@ establecido, la identidad permanece pendiente.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
+| Leandrin Rheiner | Personaje histórico | Joven noble de Flemmengard y primera Invocadora surgida en territorio de Dragma. | [Ver ficha](personajes/historicos/leandrin-rheiner.md) |
 | Daryón Coralyss | Noble histórico | Noble de Alessya. Pactó la unión de la isla con Zephyrya y el matrimonio de su hija. Traicionado por ella. Su casa fue proscrita | [Ver ficha](personajes/historicos/daryon-coralyss.md) |
 | Kleóndras Aetheryon | Rey histórico | Rey de Zephyrya. Pactó con Daryón. Ejecutado tras la Guerra de los Hermanos. Casa proscrita | [Ver ficha](personajes/historicos/kleondras-aetheryon.md) |
 | Kyros Albyon | Rey histórico | Rey de Lysarya. Su hijo Eryk era amante de Thalyssa. Ejecutado tras la guerra. Casa proscrita | [Ver ficha](personajes/historicos/kyros-albyon.md) |

@@ -2,6 +2,30 @@
 
 ## Revisiones editoriales
 
+### Volcamiento: Ishbaal y los Sheijad (2026-10-20)
+
+Ejecutado el plan autorizado de R-01 a R-14. Ishbaal quedó definido como
+protectorado autónomo administrado como principado por el Príncipe Regente; su
+territorio y población son sheijad y la isla es sagrada para el culto que tiene
+allí su origen. Se incorporaron su procedencia desde Sarustra, la difusión del
+culto, sus creencias y prácticas, la distribución de los Moroloth, la
+popularidad religiosa y la libertad de culto en Dragma, con la prohibición del
+culto a Thalmos como excepción.
+
+Se fijaron las Guerras Místicas como los conflictos internos de la Segunda
+Dinastía, con el surgimiento de Leandrin Rheiner en Dragma y la Aniquilación
+como su conflicto más amplio. La Orden de la Flama Blanca quedó documentada
+como el grupo extremista ishbaalano que conspiró durante la Aniquilación. Se
+añadieron las fichas del culto, las Guerras Místicas, Leandrin y la Orden, y se
+actualizaron sus referencias, las fichas de Ishbaal, Dragma, Invocadores,
+Portadores, Thalmos y Casa Pavel, y los pendientes históricos relacionados.
+
+Se mantuvieron reservados la geografía e historia interna de Sarustra, los
+detalles de campañas y cronologías, la ontología de Ishbaal, Arsul y el Errante
+sin Nombre, las ubicaciones exactas de los Moroloth y los mecanismos jurídicos
+concretos del tratamiento especial de Ishbaal. No se crearon cuentos ni se
+atribuyó una fe uniforme a coronas o poblaciones.
+
 ### Ampliación: guía de nombres Carmesíes (2026-08-11)
 
 Se amplió `docs/mundo/stigria/dragma/nombres-carmesi.md` con tres nuevas fuentes
@@ -672,3 +696,4 @@ Definición del autor:
 | 2026-08-16 | **Ajuste fonético de la cantera de Valastir.** Reorganizados sus nombres en masculinos, femeninos y casas; se sustituyeron las grafías que dificultaban la lectura en español y se reservaron grupos consonánticos moderados y consonantes finales como rasgos propios de la sonoridad valastiriana. |
 | 2026-08-16 | **Centralización de la cantera de nombres.** Las guías de Carmesí, Hierro, Verano, Bruma y Valastir se trasladaron a `docs/mundo/stigria/cantera-de-nombres/`. Se creó su índice y el manual `construccion-y-revision.md`; toda guía debe exponer contexto, referencia externa, prefijos y sufijos, y ejemplos separados de nombres masculinos, femeninos y casas. Se actualizaron los índices y las referencias consumidoras. |
 | 2026-08-16 | **Formato de la cantera carmesí.** Restituidas las viñetas faltantes en el tramo final de la lista de casas; no se modificaron las formas disponibles. |
+| 2026-10-20 | **Volcamiento de Ishbaal y los Sheijad.** Ejecutadas las resoluciones R-01–R-14, con las reservas de ontología, geografía, cronología y administración jurídica preservadas. Añadidas fichas para el culto a Ishbaal, las Guerras Místicas, Leandrin Rheiner y la Orden de la Flama Blanca; actualizados los índices, las fichas afectadas y los pendientes. |

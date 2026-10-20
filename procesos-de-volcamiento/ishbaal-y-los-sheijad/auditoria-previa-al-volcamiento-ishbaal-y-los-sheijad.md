@@ -37,6 +37,9 @@ El canon define Ishbaal como isla, protectorado imperial y territorio de
 ultramar bajo un Príncipe Regente. La acumulación añade que el protectorado es
 administrado por un principado. No hay contradicción necesaria, pero falta
 definir la relación institucional entre el principado y el Príncipe Regente.
+R-01 resuelve que el Príncipe Regente gobierna el principado, que Ishbaal sigue
+siendo protectorado autónomo fuera de los doce reinos y que el territorio y sus
+gentes son sheijad.
 
 Un futuro traslado afectaría la ficha de Ishbaal, la tabla de protectorados en
 `dragma.md` y el índice de `mundo.md`.
@@ -109,8 +112,13 @@ conflicto con la sucesión de guerras internas denominada **Guerras Místicas**.
 Estas enfrentan a dinastías y reinos de Dragma y a algunos actores externos por
 el poder y el control de reinos, territorios y el Imperio. Su inicio en Dragma
 queda asociado al surgimiento de Leandrin Rheiner, primera Invocadora en ese
-territorio y joven noble de Flamangard. Esto no desplaza a Therin como el
+territorio y joven noble de Flemmengard. Esto no desplaza a Therin como el
 primer Invocador del que se tiene registro en general.
+
+R-07 establece que de los conflictos surgió la mayoría de los linajes actuales
+de Invocadores. Esto es compatible con el canon, que establece que en la Edad de
+Oro la mayoría de los Invocadores nace en linajes que heredan el vínculo; los
+detalles cronológicos permanecen reservados.
 
 R-06 y R-07 establecen que la **Aniquilación** fue el mayor y de alcance más
 amplio de esos conflictos. La **Orden de la Flama Blanca**, grupo extremista
@@ -118,20 +126,19 @@ ishbaalano, conspiró para derrocar al emperador, aniquilar a todos los Portador
 Invocadores e instaurar una teocracia; casi alcanzó sus objetivos. No se
 desarrollan aquí las campañas, fechas ni mecanismos del intento.
 
-Además, el canon fija a Therin como el primer Invocador registrado y sostiene
-que la mayoría de los Invocadores de la Edad de Oro nace en linajes que ya
-heredaban el vínculo. La formación de la mayoría de esos linajes durante las
-Guerras Místicas es compatible en principio, pero exige una cronología que no
-altere el origen previo de Therin ni el carácter heredable del vínculo.
+R-07 sitúa la Aniquilación durante la Segunda Dinastía, sin fijar una posición
+más precisa dentro de ella.
 
 ### AU-06. Rechazo al misticismo, estigma y régimen imperial
 
 La Orden de la Flama Blanca considera el misticismo el pecado original, pues lo
 entiende como el intento humano de imitar a Ishbaal, y busca erradicarlo a
-cualquier costo. Los seguidores comunes del culto, en cambio, lo consideran
-ajeno a su fe, pero lo toleran. Muchos aprecian su utilidad como uno de los
-recursos para enfrentar a los Grimm y otras fuerzas oscuras, aunque muchos no
-acudirían a un sanador Maeggi.
+cualquier costo. Entre los seguidores también surge una corriente que considera
+antinatural el misticismo y lo tiene por origen del mal; sus integrantes agrupan
+a Portadores e Invocadores bajo el nombre «místicos». Los seguidores comunes,
+en cambio, lo consideran ajeno a su fe, pero lo toleran. Muchos aprecian su
+utilidad como uno de los recursos para enfrentar a los Grimm y otras fuerzas
+oscuras, aunque muchos no acudirían a un sanador Maeggi.
 
 En la isla de Ishbaal, la práctica del misticismo está completamente prohibida.
 La isla se considera sagrada y su principado recibe un tratamiento especial; ese
@@ -175,13 +182,17 @@ los dominios del Valle Central. El canon no contiene fichas ni referencias de
 estos lugares, por lo que son contenido nuevo.
 
 R-09 establece que los clérigos del culto a Ishbaal difunden la fe por todo el
-Gherin y tienen su sede en el Moroloth de Eldengaria.
+Gherin, que son hombres y mujeres, y tienen su sede en el Moroloth de Eldengaria.
 
 La presencia de Moroloth en los territorios del Imperio no demuestra la adhesión
 de sus coronas ni de sus poblaciones. R-10 fija el alcance territorial general
 y su concentración principal en los dominios del Valle Central. R-14 delimita
 la popularidad del culto fuera de esa zona, sin atribuirla a territorios por la
-sola presencia de Moroloth. El futuro plan deberá
+sola presencia de Moroloth. R-10 también establece como más importantes el
+Moroloth de la isla y el de Eldengaria; el de la isla ocupa el centro, tiene
+forma de catedral y guarda restos humanos de identidad desconocida. El de
+Eldengaria es diez veces mayor, y muchos fieles de la época de Sandor aspiran a
+visitar la isla al menos una vez. El futuro plan deberá
 distinguir el Moroloth de la isla de Ishbaal, la sede clerical de Eldengaria y
 los Moroloth territoriales, así como los índices y fichas que deben recibir
 cada referencia. Su número y ubicación exactos quedan en reserva.
@@ -237,24 +248,24 @@ podría contradecir el régimen legal vigente de los Maeggis.
   Thalmos. Esta prohibición es nueva y compatible con la supervivencia clandestina
   del culto documentada en el canon; no se fijan aquí sus causas ni ubicación.
 
-La acumulación de resoluciones para este alcance está completa. R-01 cierra
-AU-01; R-03 y R-14 cierran AU-07; R-02 cierra con reserva AU-02; R-04 establece
-el nombre compartido por la isla y la figura venerada como dios; R-05 resuelve el
-componente doctrinal y ontológico
-de AU-03 y AU-04, con reservas sobre la verdad objetiva, y aborda parcialmente
-AU-09 y AU-10; R-06 establece la posición
-de la Aniquilación dentro de las Guerras Místicas; R-07 las relaciona con el
-conflicto interno de la Segunda Dinastía y fija el lugar de Leandrin Rheiner y
-la conspiración de la Orden, con detalles reservados; R-08 establece las
-posturas ante el misticismo y justifica la prohibición en Ishbaal por su carácter
-sagrado y el tratamiento especial de su principado, con los mecanismos
-jurídicos reservados; R-09 establece la función de los clérigos y R-10 la
-presencia territorial de los Moroloth, con número y ubicaciones exactas en
-reserva; R-11 cierra el nudo del ungimiento en el nivel de detalle acordado;
-R-12 resuelve la convivencia religiosa general y la prohibición del culto a
-Thalmos en Dragma; R-13 fija dos pilares del atractivo del culto, con reserva
-de los procesos históricos concretos de difusión; R-14 completa AU-07 con la
-popularidad en Guldengard y Eisengard fuera del Valle Central, sin inferir
-adhesión de coronas o poblaciones. El alcance de cada corona no requiere mayor
-precisión. Corresponde realizar la auditoría final y preparar el plan de
-volcamiento; las reservas restantes deben clasificarse antes de formularlo.
+La acumulación de resoluciones para este alcance está completa. La auditoría de
+cierre clasifica los nudos así:
+
+| Nudo | Estado | Resolución y límite vigente |
+|------|--------|-----------------------------|
+| AU-01. Protectorado y principado | Cerrado | R-01 define al Príncipe Regente como gobernante del principado sheijad y mantiene a Ishbaal como protectorado autónomo fuera de los doce reinos. |
+| AU-02. Procedencia sheijad y Sarustra | Cerrado con reserva | R-02 establece el origen en Sarustra; ubicación, trayecto, llegada e historia interna quedan reservados. |
+| AU-03. Culto, tradiciones y religiosidad | Cerrado con reserva | R-03, R-04, R-05, R-12 y R-13 fijan la devoción, convivencia, creencias y pilares de atractivo. No se confirma la verdad objetiva de las figuras religiosas ni se detallan los procesos históricos de difusión. |
+| AU-04. Grimm y doctrina | Cerrado | R-05 y R-08 dejan claro que la explicación del origen de los Grimm es una creencia de seguidores de Ishbaal, distinta de su origen objetivo. |
+| AU-05. Guerras Místicas y Aniquilación | Cerrado con reserva | R-06 y R-07 establecen el conflicto de la Segunda Dinastía, Leandrin Rheiner, la posición y los objetivos de la Orden. Fechas, secuencias y campañas quedan reservadas. |
+| AU-06. Rechazo, misticismo y régimen | Cerrado con reserva | R-08 define la doctrina radical, la tolerancia común y la prohibición insular. La forma jurídica precisa del tratamiento especial queda reservada. |
+| AU-07. Popularidad sin fe imperial | Cerrado | R-03 y R-14 fijan el predominio general, la popularidad regional y la no necesidad de precisar la adhesión de cada corona. |
+| AU-08. Moroloth y clérigos | Cerrado con reserva | R-09 y R-10 fijan función clerical y distribución general. Recuento y ubicaciones exactas de los recintos quedan reservados. |
+| AU-09. Errante y ungimiento | Cerrado con reserva | R-05, R-10 y R-11 fijan las creencias y los tres momentos del ungimiento. Identidad y origen de los restos, y naturaleza objetiva del Errante, quedan reservados; no hacen falta más detalles rituales. |
+| AU-10. Arsul y Orden | Cerrado con reserva | R-05 establece el lugar de Arsul en las creencias; R-07 y R-08 definen el objetivo y la doctrina de la Orden. Naturaleza de Arsul y detalles internos de la Orden quedan reservados. |
+
+No quedan decisiones humanas pendientes para este alcance. Las materias no
+desarrolladas tienen destino de reserva explícito. El plan de volcamiento
+identifica los archivos y operaciones ejecutados tras la autorización humana del
+2026-10-20. La ejecución se registró en `docs/notas.md`; las reservas de esta
+auditoría continúan vigentes.

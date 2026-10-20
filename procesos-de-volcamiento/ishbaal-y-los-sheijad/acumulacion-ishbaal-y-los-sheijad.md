@@ -104,7 +104,7 @@ de los reinos, los territorios e incluso el Imperio.
 
 El inicio de las Guerras Místicas quedará registrado por el surgimiento del
 primer Invocador en territorio de Dragma: **Leandrin Rheiner**, una joven noble
-de Flamangard. La fecha y las circunstancias concretas quedan para desarrollo
+de Flemmengard. La fecha y las circunstancias concretas quedan para desarrollo
 posterior.
 
 Como consecuencia de estos conflictos surgirá la mayoría de los linajes de
@@ -130,7 +130,7 @@ alcance de esta postura entre los seguidores del culto a Ishbaal.
 
 ### A-05. La Aniquilación
 
-Casi al finalizar la Segunda Dinastía ocurrirá la **Aniquilación**, el mayor y
+Durante la Segunda Dinastía ocurrirá la **Aniquilación**, el mayor y
 de alcance más amplio de los conflictos de las Guerras Místicas. Un grupo
 extremista ishbaalano, la **Orden de la Flama Blanca**, conspirará para derrocar
 al emperador, aniquilar a todos los Portadores e Invocadores e instaurar una
