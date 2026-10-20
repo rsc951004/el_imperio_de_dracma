@@ -65,9 +65,27 @@ sucesión y cambios de Casa, y la Dex Tábura el registro y la gestión de los
 cambios de estamento. Esta separación se propone para estudio; no altera la
 ubicación ni la redacción actual de ninguna regla canónica.
 
+## Primera decisión de acumulación: títulos y equivalencias
+
+Las siguientes decisiones quedan acordadas dentro de esta acumulación de trabajo.
+No son todavía cambios canónicos:
+
+| Término o uso de partida | Decisión para la nueva titulatura | Equivalente en lengua común |
+|---|---|---|
+| Kaisrik | Sustituir por **Kaizer** para la corona imperial. | Emperador. |
+| Reikar en la tiranía valgardiana | Conservar **Reikar** para ese periodo. | Rey. |
+| Reyes de los reinos del Imperio | Usar **Koning** como título. | Rey. |
+| Landwalt | Eliminar el término; la autoridad del dominio llevará el título **Jhar**. | Señor del Dominio. |
+| Herskar | Eliminar la denominación. | Pendiente para la jefatura de Casa. |
+
+La eliminación de las denominaciones **Herskar** y **Landwalt** no suprime por
+sí sola sus funciones. Esta entrada no establece cambios en las competencias de
+la autoridad del dominio. Queda pendiente una denominación ceremonial para la
+jefatura de Casa. La decisión no modifica la titulatura **Frey**.
+
 ## Registro de acumulación
 
-Todavía no se han incorporado propuestas ni decisiones específicas sobre nuevos
-títulos o cambios de uso. La propuesta de organización anterior sigue pendiente
-de decisión. Las próximas entradas distinguirán entre hechos acordados, asuntos
-pendientes, reservas y materias fuera del alcance.
+La decisión anterior es el primer acuerdo de trabajo sobre la titulatura. La
+propuesta de organización documental descrita arriba sigue pendiente. Todo cambio
+en `docs/` requiere completar el proceso y una autorización expresa de
+volcamiento.
