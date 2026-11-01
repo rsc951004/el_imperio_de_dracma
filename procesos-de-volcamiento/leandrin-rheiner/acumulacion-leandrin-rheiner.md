@@ -86,34 +86,44 @@ Rheiner en Drommdurr. Su estatus y grafía quedan pendientes de confirmación.
 ### 2. La vida anterior de Sirene
 
 La mujer que más tarde se presentará como **Lysandra Vilen** es en realidad
-**Sirene**, nacida en Astria y vinculada a la casa **Zorana**, que en el hilo se
-presenta como descendiente de una fundadora de Astria. Zorana tenía prestigio,
-pero no gobernaba la nación. Al llegar a Flemmengard, Sirene adopta la identidad
-de "Lysandra Vilen" y construye para ella una biografía de Hija del Sol,
-descendiente de esclavos astrianos retenidos en Vilen, que escapó de la
-esclavitud mediante sus poderes. Esa identidad le sirve de cobertura; la
-apariencia que adopta es juvenil, de una belleza extraordinaria y de unos
-diecisiete años.
+**Sirene**, nacida en Astria y miembro de la Casa **Zorana**. La Casa desciende
+de la fundadora de Astria y es uno de sus linajes de mayor tradición. En tiempos
+de Sirene su influencia era reducida, por la escasez de miembros y la
+fragmentación en ramas.
 
-Sirene se casó joven con un miembro del culto que aspiraba a ascender a un
-rango sacerdotal. Ambos tenían tres hijos y una esclava llamada Lysandra. La
-pareja quería que sus hijos se convirtieran en avatares o vehículos de Thalmos,
-con la expectativa de que ello favoreciera su posición en el culto. Los
-experimentos
-fracasaron: los hijos quedaron catatónicos y dejaron de servir a ese propósito.
-La joven esclava Lysandra, de unos diecisiete años, los cuidaba y llegó a sentir
-afecto por ellos. Esta Lysandra y la identidad pública que Sirene adopta después
-son figuras distintas del relato.
+Sirene pertenece a una rama menor de la isla de **Viel**, llamada **Vielitas**
+o **Zorana de Viel**; ambas denominaciones son válidas. Esta rama se dedicaba a
+la esclavitud y tenía poca relación con las artes místicas.
+
+Sirene y Zoroastro comparten un antepasado, pero ella no desciende directamente
+de él. Zoroastro no tuvo hijos biológicos. **Calris Zorana** pertenecía a la
+misma rama que Zoroastro, sin ser descendiente suyo.
+
+Sirene se casó joven con un Zorana de la rama de Garken, cuyo vínculo con la
+Casa venía por vía materna. Garken era un barrio de eruditos místicos; con el
+tiempo, sus corrientes convergieron con el culto a Thalmos. Ese entorno explica
+la aspiración del esposo de ascender en la jerarquía del culto. Sirene y su
+esposo tuvieron tres hijos y una esclava llamada Lysandra. La pareja quería que
+sus hijos se convirtieran en avatares o vehículos de Thalmos, con la expectativa
+de que ello favoreciera su posición en el culto. Los experimentos fracasaron:
+los hijos quedaron catatónicos y dejaron de servir a ese propósito. La joven
+esclava Lysandra, de unos diecisiete años, los cuidaba y llegó a sentir afecto
+por ellos. Esta Lysandra y la identidad pública que Sirene adopta después son
+figuras distintas del relato.
 
 El esposo culpó a Sirene de no haberle permitido ascender y la denunció como
-hereje, atribuyéndole su fracaso. La acusación alcanzó a la familia Zorana. Los
-Inquisidores detuvieron a Sirene y a Lysandra; los hijos fueron sacrificados y
-Sirene, su esposo, la esclava y otros miembros de la familia fueron condenados.
-La persecución, la tortura y las ejecuciones se describen como violentas, pero
-esta acumulación no las reproduce de forma gráfica.
+hereje, atribuyéndole su fracaso. El juicio se dirigió a la rama de Viel y al
+núcleo familiar de Sirene, no a toda la Casa Zorana de Astria. Su esposo, de la
+rama de Garken, fue juzgado junto con ella; esto no implica una persecución de
+toda esa rama. Los Inquisidores detuvieron a Sirene y a Lysandra; los hijos
+fueron sacrificados y Sirene, su esposo, la esclava y otros miembros de su
+entorno fueron condenados. La persecución, la tortura y las ejecuciones se
+describen como violentas, pero esta acumulación no las reproduce de forma
+gráfica.
 
-La ejecución se lleva a cabo ante una pira de fuego verde asociado a **Calris**,
-presentado en el hilo como un místico astriano de la época anterior al culto.
+La ejecución se lleva a cabo ante una pira de fuego verde asociado a **Calris
+Zorana**, presentado en el hilo como un místico astriano de la época anterior
+al culto.
 Ese fuego destruye lo inmaterial, incluida el alma, mientras que el fuego
 fatuo violeta asociado a Zorana altera materia física. Esta distinción mágica
 queda como propuesta pendiente de contraste.
@@ -261,12 +271,11 @@ conocimiento, mientras conduce a Sirene sin que ella lo advierta hacia el
 resultado que él desea. La manipulación de Ose refleja la que Sirene ha
 ejercido sobre Leandrin. El motivo de Ose permanece sin decidir.
 
-Sirene teme que el rito convierta a Leandrin en un avatar de Thalmos. Sus
-antepasados, en particular **Zoroastro**, habrían intentado crear un Portador
-artificial y producido por accidente un Invocador y la primera manifestación
-del Dios Negro. El hilo presenta a Zoroastro como antepasado de Sirene y
-miembro de Zorana. Sirene no conoce la técnica necesaria; Ose revela cómo
-realizar el rito.
+Sirene teme que el rito convierta a Leandrin en un avatar de Thalmos. El hilo
+menciona a Zoroastro y Thalmos como trasfondo de esa inquietud; sus historias
+completas quedan fuera del alcance de esta acumulación, según R-02. También pesa
+en el temor de Sirene lo ocurrido con sus propios hijos. Sirene no conoce la
+técnica necesaria para el rito; Ose revela cómo realizarlo.
 
 Crear a la Invocadora exige sacrificar el vínculo de una Portadora. Sirene
 entrega el suyo para que Leandrin adquiera un vínculo artificial y ampliado.

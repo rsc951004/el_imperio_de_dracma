@@ -62,19 +62,21 @@ de la caravana a Fernigard.
 
 **Nudo de origen:** AU-02.
 
-Según la aclaración del usuario, los nombres de Zoroastro, Therin y Thalmos se
-mencionaron solo como referencia contextual para el agente. Sus historias están
-definidas en `protoversiones/`, pero no forman parte de lo que se resuelve en
-este alcance. No se evalúa ni se resume su contenido.
+Según la aclaración del usuario, las historias completas de Zoroastro, Therin y
+Thalmos están definidas en `protoversiones/` y quedan fuera de este alcance. No
+se consultan ni se incorporan protoversiones.
 
-La mención se conserva únicamente para señalar ese contexto. No se consultan ni
-se incorporan protoversiones, y esta resolución no añade ni modifica hechos
-canónicos sobre esos nombres.
+Para establecer la genealogía de la Casa Zorana se registran solo los datos que
+el usuario proporcionó directamente en esta conversación: Sirene comparte un
+antepasado con Zoroastro, pero no desciende directamente de él; Zoroastro no
+tuvo hijos biológicos; Calris pertenece a la misma rama que Zoroastro, sin ser
+su descendiente. Estos datos limitados no reconstruyen la historia más amplia
+de Zoroastro ni reabren AU-02.
 
 **Estado:** fuera del alcance de esta resolución; cerrado con reserva.
 
-**Reserva:** cualquier consulta, adaptación o traslado de material de
-`protoversiones/` requiere una instrucción humana explícita e independiente.
+**Reserva:** cualquier consulta, adaptación o traslado de la historia completa
+de `protoversiones/` requiere una instrucción humana explícita e independiente.
 
 ### R-03. La identidad de Ose como misterio
 
@@ -118,15 +120,139 @@ Leandrin.
 **Reserva:** se conserva el marco canónico general del rito. Los detalles y la
 terminología de la historia de Leandrin no se trasladan ni se redefinen aquí.
 
+### R-05. Drommdurr y la autoridad de Sirene
+
+**Nudo de origen:** AU-05.
+
+Como marco de trabajo, durante el Raikim el Gherin estaba dividido en dominios
+regidos por Landwalt en nombre del Raik. Al fundarse el Imperio, esos
+territorios dieron lugar a reinos semiautónomos bajo protección imperial, y los
+reinos volvieron a subdividirse en dominios o Víer, cada uno bajo un Landwalt.
+El título Landwalt continúa siendo oficial en lengua de Hierro, aunque su uso
+cotidiano es poco frecuente.
+
+Drommdurr es un Víer de Flemmengard. Gunther Rheiner es su Landwalt por derecho
+sucesorio y reconocimiento de la Dex Tábura. El Landwalt es la autoridad
+política formal del Víer.
+
+Sirene, como cónyuge de Gunther, puede recibir en el habla común el tratamiento
+de Señora o Dueña de Drommdurr. Ese tratamiento no es un cargo ni le concede
+autoridad política formal sobre el Víer o autoridad interna sobre la Casa
+Rheiner. Su matrimonio sí puede darle prestigio e influencia práctica.
+
+**Estado:** cerrado con reserva.
+
+**Reservas:** la secuencia histórica de transformación de dominios en reinos y
+de subdivisión posterior queda como marco de trabajo, sin transferencia al
+canon en esta fase. La influencia práctica de Sirene no se define en detalle.
+
+### R-06. Las casas Rheiner, Mhaister, Meister y Zorana
+
+**Nudo de origen:** AU-06.
+
+Los fundadores de las casas Rheiner y Mhaister comparten una madre; su relación
+es sanguínea. La Casa Meister de Eisengard y la Casa Mhaister son distintas y
+no se relacionan por sangre. La semejanza de sus nombres procede del origen de
+los nombres de sus fundadores, vinculados a la figura del Talamister. Según la
+aclaración del usuario, esta clase de semejanza nominal no es inusual en el
+Imperio.
+
+La Casa Meister conserva raíces ancestrales en Flemmen, mientras que su hogar y
+desarrollo se relacionan con Eisengard. La Casa Mhaister pertenece a la región
+de Flemmengard descrita en la acumulación.
+
+La Casa Zorana desciende de la fundadora de Astria y es uno de sus linajes de
+mayor tradición. En la época de Sirene había perdido influencia debido a la
+escasez de miembros y a su fragmentación en ramas. Sirene pertenecía a la rama
+menor de Viel, llamada Vielitas o Zorana de Viel. Esa rama se dedicaba a la
+esclavitud y tenía poca relación con las artes místicas. Su esposo era Zorana
+por vía materna, de la rama de Garken, barrio de eruditos místicos que luego
+convergió con el culto a Thalmos; ese entorno explica su aspiración a ascender
+en el culto.
+
+El juicio de Sirene se dirigió a la rama de Viel y su entorno familiar, no a
+toda la Casa Zorana. Su esposo de la rama Garken fue juzgado con ella; esto no
+implica la persecución de toda esa rama.
+
+Sirene comparte un antepasado con Zoroastro, pero no desciende directamente de
+él. Zoroastro no tuvo hijos biológicos. Calris Zorana pertenecía a su misma
+rama, pero tampoco era descendiente suyo.
+
+En el material de trabajo se conserva la creencia de que el Talamister fue
+probablemente un Jöten de Flemmen. Su naturaleza y la fuente de esa creencia no
+se establecen aquí. No se lo identifica con Vitdrakiris ni se añade como Jöten
+confirmado al canon.
+
+**Estado:** cerrado con reserva.
+
+**Reservas:** la naturaleza del Talamister y el origen completo de esta
+tradición siguen pendientes. Las grafías de otros nombres y topónimos quedan
+para una revisión onomástica posterior; no se normalizan por inferencia.
+
+### R-07. Leandrin como futura consorte
+
+**Nudo de origen:** AU-07.
+
+El proyecto de Sirene es que Leandrin llegue a ser la consorte del futuro
+Reikar de Flemmengard, no la soberana por derecho propio. En la historia, el
+príncipe es un Príncipe Coronado, reconocido como heredero por la Dex Tábura.
+Leandrin solo adquiriría el título de Consorte si él llegara a ocupar la corona;
+el matrimonio por sí solo no le concede soberanía ni autoridad política formal.
+
+La edad de Leandrin durante esta etapa se mantiene en el intervalo de quince a
+diecisiete años, sin fijar una edad exacta para cada episodio.
+
+El hijo del señor vecino cree que Leandrin también está enamorada de él y que el
+rey puede mediar para unirlos. Esa reciprocidad existe en su interpretación,
+alimentada por los agentes del rey. No se establece aquí una ley imperial
+general que permita casarse sin permiso parental: la pareja es interceptada
+antes de que el joven presente su petición y el rey no llega a mediar.
+
+El intento posterior de Leandrin se define en grandes rasgos como una guerra de
+usurpación. No se especifican sus campañas, participantes, procedimiento ni
+desenlace, que quedan reservados para los cuentos canónicos.
+
+**Estado:** cerrado con reserva.
+
+**Reservas:** se mantienen el intervalo de edad, sin años por episodio; no se
+establece una ley matrimonial general ni una mediación efectiva del rey. El
+desarrollo de la guerra de usurpación permanece reservado para la etapa
+narrativa posterior.
+
+### R-08. Persecución astriana y percepción de los místicos
+
+**Nudo de origen:** AU-08.
+
+Los Peregrinos Negros son emisarios del culto de Thalmos enviados fuera de
+Astria en busca de nuevos adeptos. La Inquisición astriana es una institución
+interna distinta: persigue a disidentes y a quienes considera indignos o malos
+practicantes. No se la identifica con los Peregrinos Negros ni con la Orden de
+la Flama Blanca.
+
+En el caso de Sirene, el juicio recae sobre la rama de Viel y su entorno
+familiar, no sobre toda la Casa Zorana. Su esposo pertenece a la rama de
+Garken; que sea juzgado junto con ella no convierte la persecución en una
+acción contra toda esa rama.
+
+Antes del surgimiento de Leandrin, entre los Sangre de Hierro no había una
+distinción social marcada entre Portadores e Invocadores: ambos tipos eran
+vistos como extranjeros y ajenos a la vida de Stigria. Después de fundarse el
+Imperio, la población de Portadores se integró progresivamente en los pueblos
+del Gherin a lo largo de las generaciones. Con las Guerras Místicas, la
+percepción volvió a ser negativa, en particular hacia los Invocadores, por su
+participación en conflictos de gran escala, algunos devastadores.
+
+La prohibición oficial del culto a Thalmos en Dragma se instauró al final de
+las Guerras Místicas. El motivo de la prohibición permanece sin decidir.
+
+**Estado:** cerrado con reserva.
+
+**Reservas:** no se fijan la causa de la prohibición, el año exacto, la
+responsabilidad de una organización concreta ni los procedimientos completos
+de la Inquisición astriana.
+
 ## Nudos pendientes
 
-- **AU-05.** Estatus de Drommdurr y autoridades de Gunther y Sirene.
-- **AU-06.** Casas propuestas, relación entre Mhaister y Meister, y
-  revisión de nombres y topónimos.
-- **AU-07.** Sucesión del príncipe, matrimonio, condición de Leandrin como reina
-  o consorte y legalidad de la campaña por Flemmengard.
-- **AU-08.** Percepción social de Portadores e Invocadores y relación de los
-  Inquisidores astrianos con organizaciones existentes.
 - **AU-09.** Fuego de Calris, fuego violeta de Zorana y consecuencias
   metafísicas de Thalmos y del rito.
 - **AU-10.** Naturaleza y destino de los dragones y relación de este hito con
@@ -134,13 +260,11 @@ terminología de la historia de Leandrin no se trasladan ni se redefinen aquí.
 
 ## Siguiente nudo propuesto
 
-### AU-05. Drommdurr y la autoridad de Sirene
+### AU-09. Calris y las consecuencias metafísicas
 
-El siguiente paso es precisar qué se establece sobre Drommdurr: su condición
-territorial y la autoridad de Gunther. También debe aclararse qué significa que
-Sirene pase a ser su señora y cómo se relaciona ese título con su incorporación
-a la Casa Rheiner. El canon distingue el gobierno territorial de la jefatura de
-Casa, así que no se presupone que un cargo implique el otro.
+El siguiente punto es revisar la propuesta sobre el fuego verde de Calris, el
+fuego violeta de Zorana, la posesión por Thalmos y sus efectos sobre cuerpo,
+identidad y alma. Estos detalles siguen sin estar confirmados en el canon.
 
 No se ha creado una auditoría de cierre ni un plan de volcamiento. Cualquier
 transferencia al canon requiere una autorización humana independiente.
