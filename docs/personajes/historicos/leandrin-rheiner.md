@@ -12,7 +12,7 @@ Hija de Gunther Rheiner y Alruna Mhaister, nació después de sus dieciséis
 hermanos. Su madre murió en el parto. Creció en Fernigard, Drommdurr, entre
 piedra, ceniza, montañas humeantes y escasa vegetación. A los
 seis años conoció a Sirene, presentada como Lysandra Vilen con la caravana de
-Rasmus; Sirene se casó con Gunther y la crio como madrastra.
+Rasmus Galenor; Sirene se casó con Gunther y la crio como madrastra.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: Leandrin -->
 Sirene consideraba a Leandrin un proyecto personal: la educó y modificó su

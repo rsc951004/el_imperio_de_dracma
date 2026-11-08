@@ -107,6 +107,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Stamengherin | Institución | Asamblea extraordinaria que resuelve cambios dinásticos y puede reformar la estructura territorial o política del imperio. | [Ver ficha](mundo/stigria/dragma/stamengherin.md) |
 | Guerras Místicas | Conflicto histórico | Sucesión de conflictos internos durante la Segunda Dinastía, culminada por la Aniquilación. | [Ver ficha](mundo/stigria/dragma/guerras-misticas.md) |
 | Casa Rheiner | Casa noble | Linaje de Drommdurr al que perteneció Leandrin. | [Ver ficha](casas/rheiner.md) |
+| Casa Galenor | Casa común | Familia comerciante numerosa y ramificada a la que perteneció Rasmus Galenor. | [Ver ficha](casas/galenor.md) |
 | Casa Mhaister | Casa noble | Linaje de Uldengyrk emparentado con los Rheiner. | [Ver ficha](casas/mhaister.md) |
 | Casa Zorana | Casa astriana | Linaje de Sirene, Zoroastro y Calris. | [Ver ficha](casas/zorana.md) |
 | Culto a Ishbaal | Tradición religiosa | Culto sheijad a la figura que veneran como dios; sus fieles creen en una promesa de salvación. | [Ver ficha](mundo/stigria/dragma/ishbaal/culto-a-ishbaal.md) |

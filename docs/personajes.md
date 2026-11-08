@@ -94,7 +94,7 @@ establecido, la identidad permanece pendiente.
 | Sirene Zorana | Portadora histórica | Astriana, esposa de Gunther y madrastra de Leandrin. | [Ver ficha](personajes/historicos/sirene-zorana.md) |
 | Gunther Rheiner | Noble histórico | Landwalt de Drommdurr y padre de Leandrin. | [Ver ficha](personajes/historicos/gunther-rheiner.md) |
 | Alruna Mhaister | Noble histórica | Madre de Leandrin y sus dieciséis hermanos. | [Ver ficha](personajes/historicos/alruna-mhaister.md) |
-| Rasmus | Itinerante | Conductor de la caravana que llevó a Sirene a Fernigard. | [Ver ficha](personajes/historicos/rasmus.md) |
+| Rasmus Galenor | Itinerante | Conductor de la caravana que llevó a Sirene a Fernigard. | [Ver ficha](personajes/historicos/rasmus-galenor.md) |
 | Lysandra | Astriana | Joven esclavizada en el hogar de Sirene. | [Ver ficha](personajes/historicos/lysandra.md) |
 | Calris Zorana | Místico astriano | Erudito que desarrolló el fuego verde. | [Ver ficha](personajes/historicos/calris-zorana.md) |
 | Zoroastro Zorana | Místico astriano | Miembro de la Casa Zorana que manifestó el don del caos. | [Ver ficha](personajes/historicos/zoroastro-zorana.md) |

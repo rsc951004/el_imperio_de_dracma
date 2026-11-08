@@ -23,7 +23,7 @@ pira de fuego verde asociado a Calris Zorana. Sirene escapó y llegó a Zephyrya
 
 Para protegerse por su origen y su vínculo con el culto, inventó la identidad de
 Lysandra Vilen, una supuesta Hija del Sol escapada de la esclavitud. Con esa
-identidad se unió a la caravana de Rasmus. Llegó a
+identidad se unió a la caravana de Rasmus Galenor. Llegó a
 Fernigard cuando Leandrin tenía seis años, permaneció y se casó con Gunther.
 El tratamiento de señora de Drommdurr no era un cargo ni le concedía autoridad
 política formal o autoridad interna sobre la Casa Rheiner. Su matrimonio podía

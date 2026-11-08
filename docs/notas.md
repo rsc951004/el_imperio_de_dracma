@@ -2,6 +2,22 @@
 
 ## Revisiones editoriales
 
+### Identidad de Rasmus Galenor (2026-11-07)
+
+Se identificó a Rasmus como Hijo del Sol. La ascendencia en esclavos liberados
+de Astria corresponde a los Hijos del Sol en general.
+
+### Casa Galenor: familia comerciante (2026-11-07)
+
+Se definió a los Galenor como una casa común de comerciantes, numerosa y
+ramificada. Rasmus nunca conoció a la persona que encabezaba su familia.
+
+### Rasmus Galenor y su casa (2026-11-07)
+
+Se asignó a Rasmus el apellido Galenor, elegido de la cantera del Verano, y se
+documentó su pertenencia a la Casa Galenor. Se actualizaron su ficha, los
+índices y las referencias a su caravana.
+
 ### Sustitución: cantera de nombres del Verano (2026-11-07)
 
 Se reemplazó la cantera de la guía del Verano por la selección consolidada,
