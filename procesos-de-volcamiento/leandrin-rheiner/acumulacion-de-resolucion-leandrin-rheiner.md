@@ -251,20 +251,88 @@ las Guerras Místicas. El motivo de la prohibición permanece sin decidir.
 responsabilidad de una organización concreta ni los procedimientos completos
 de la Inquisición astriana.
 
+### R-09. Los fuegos de Zorana y el rito de Leandrin
+
+**Nudo de origen:** AU-09.
+
+La fundadora de la Casa Zorana poseía el don del caos, que comprende distintas
+capacidades. Una de sus manifestaciones es el fuego fatuo violeta, capaz de
+destruir cualquier materia física, incluidos la piedra y el metal. Algunos de
+sus descendientes manifestaron el don del caos, entre ellos Zoroastro y Calris.
+El vínculo con los Inits se hereda, pero los dones no necesariamente pasan de
+una generación a otra.
+
+Calris Zorana fue un erudito místico astriano. Mediante sus estudios transformó
+el fuego fatuo en una variante verde más destructiva, capaz de destruir tanto
+la materia física como el alma de una persona. Calris afirmaba que su fuego
+podía destruir el alma y esa afirmación es verdadera. Algunos de sus
+descendientes pueden manifestar el fuego verde.
+
+Durante el rito que convierte a Leandrin en Invocadora, Sirene pierde su
+vínculo y Leandrin adquiere uno ampliado. Thalmos intenta poseer a Leandrin y
+habla a través de ella, pero no logra conservar el control. Leandrin conserva
+su cuerpo, su identidad, sus recuerdos y su alma.
+
+**Estado:** cerrado.
+
+La historia completa de Zoroastro, Therin y Thalmos permanece fuera del alcance
+de esta resolución, conforme a R-02. La identidad de Ose sigue reservada según
+R-03.
+
+### Don de la Forja
+
+El don de la Forja permite a un místico transformar su propio cuerpo y el de
+otras criaturas vivas. Puede reproducir formas existentes o crear formas
+nuevas, combinando o imaginando características. Los cambios permanecen sin
+intervención continua y pueden revertirse.
+
+Cuando una criatura adopta una forma con menor capacidad de razonamiento, su
+mente se adapta gradualmente a la nueva forma. Si permanece así durante un
+tiempo prolongado, el cambio mental puede volverse irreversible, aunque el
+cuerpo pueda recuperar su forma anterior.
+
+Sirene es una Portadora con un don y un vínculo que alcanza a un Init.
+Leandrin, como Invocadora, tiene un vínculo ampliado que alcanza a múltiples
+Inits y posee otros dones. La Forja es el más poderoso de sus dones y aquel por
+el que será recordada.
+
+**Estado:** definición general consolidada como resolución de trabajo.
+
+### R-10. Los dragones y la Aniquilación
+
+**Nudo de origen:** AU-10.
+
+Leandrin transforma a sus dieciséis hermanos en dragones mediante el don de la
+Forja. Para crear su forma se inspira en la leyenda del Tamurak de la vieja
+Erebia. La transformación de sus hermanos introduce dragones en el Imperio.
+
+Los hermanos parten por voluntad propia en su nueva forma. Al principio
+conservan sus recuerdos e identidad; con el tiempo, su mente se adapta a la
+forma de dragón y pierden el raciocinio por permanecer transformados durante
+demasiado tiempo. Los dragones siembran el caos por todo el Imperio. El destino
+individual de los hermanos queda reservado.
+
+La devastación causada por los dragones, junto con el surgimiento de Leandrin
+y de más Portadores, contribuye a un rechazo generalizado hacia los dones
+místicos. La Orden de la Flama Blanca aprovecha ese rechazo para intentar
+alzarse con el poder y destruir a los místicos del Imperio. Este contexto
+vincula los acontecimientos con la Aniquilación y la conspiración de la Orden.
+
+**Estado:** cerrado con reserva.
+
+**Reservas:** quedan sin desarrollar la leyenda del Tamurak, los destinos
+individuales de los hermanos y las campañas y la secuencia detallada de las
+Guerras Místicas y la Aniquilación. La existencia de otros dragones, sus
+capacidades y su posible descendencia quedan fuera del alcance por ahora.
+
 ## Nudos pendientes
 
-- **AU-09.** Fuego de Calris, fuego violeta de Zorana y consecuencias
-  metafísicas de Thalmos y del rito.
-- **AU-10.** Naturaleza y destino de los dragones y relación de este hito con
-  la Aniquilación.
+No quedan nudos de la auditoría previa pendientes de resolución en este
+documento. Las reservas expresas de cada resolución permanecen para desarrollo
+posterior.
 
-## Siguiente nudo propuesto
+## Siguiente fase
 
-### AU-09. Calris y las consecuencias metafísicas
-
-El siguiente punto es revisar la propuesta sobre el fuego verde de Calris, el
-fuego violeta de Zorana, la posesión por Thalmos y sus efectos sobre cuerpo,
-identidad y alma. Estos detalles siguen sin estar confirmados en el canon.
-
-No se ha creado una auditoría de cierre ni un plan de volcamiento. Cualquier
+La auditoría de cierre y el plan con trazabilidad se encuentran en
+`auditoria-de-cierre-y-plan-de-volcamiento-leandrin-rheiner.md`. Cualquier
 transferencia al canon requiere una autorización humana independiente.
