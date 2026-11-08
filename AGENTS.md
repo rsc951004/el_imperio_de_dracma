@@ -8,38 +8,18 @@ Kilo (y sus agentes) son los autores, editores y mantenedores del lore.
 Todo contenido — cuentos, personajes, mundo, documentación — será generado,
 depurado y versionado por agentes IA bajo supervisión humana.
 
-## Etapa actual: asentamiento y consolidación del mundo
+## Etapa actual: desarrollo narrativo
 
-El proyecto se encuentra en una etapa de **asentamiento del mundo**. Durante
-esta etapa no se crean cuentos completos ni acumulaciones narrativas cerradas
-sobre los periodos en desarrollo.
+La etapa de asentamiento del mundo ha concluido por decisión humana. Pueden
+desarrollarse cuentos completos, crónicas, otras obras independientes y
+fragmentos en fichas, respetando el canon y las decisiones pendientes de cada
+período. La escritura de cuentos completos requiere autorización humana
+explícita para el período correspondiente.
 
-Sí está permitido desarrollar relatos, escenas, antecedentes y otros
-fragmentos dentro de fichas de personajes, casas, territorios o acontecimientos.
-En `docs/`, esas piezas son canónicas cuando han sido aprobadas y documentadas
-según estas reglas. En `mesa-de-trabajo/`, son materiales provisionales y no
-canónicos que sirven para explorar, ordenar o revisar el mundo. Estos relatos en
-fichas no equivalen a cuentos terminados ni autorizan a crear cuentos.
-
-La redacción de cuentos completos, acumulaciones narrativas cerradas o relatos
-consolidados como obras independientes solo comenzará cuando el proyecto haya
-salido de esta etapa y el humano lo autorice de forma explícita para el periodo
-correspondiente.
-
-### Aplicación a la Edad de la Tiranía
-
-Mientras el proyecto permanezca en la etapa de asentamiento, la Edad de la
-Tiranía se registrará mediante grandes hitos, estados políticos y relaciones
-territoriales, que podrán apoyarse en piezas narrativas dentro de fichas. No se
-desarrollarán todavía una narración continua de la edad, las historias
-individuales completas de los dieciséis Raiks, las campañas concretas de cada
-reinado ni el proceso detallado por el que el Raikim se convirtió en una
-tiranía hereditaria.
-
-Para el reinado de Grimar solo queda establecido que el Raikim ya era una
-tiranía hereditaria y corrupta. La Rebelión del Amanecer, el Edicto del
-Amanecer y la fundación de Dragma podrán figurar como grandes hitos, pero su
-desarrollo narrativo y detallado queda reservado para una etapa posterior.
+Las piezas en `docs/` y `cuentos/` son canónicas cuando se incorporan conforme
+a estas reglas. En `mesa-de-trabajo/`, los materiales son provisionales y no
+canónicos. Los desarrollos amplios siguen el método de volcamiento y requieren
+autorización independiente para su incorporación al canon.
 
 ---
 

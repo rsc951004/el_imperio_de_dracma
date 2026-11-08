@@ -56,13 +56,13 @@ Todo lo que aquí se escribe es lore oficial del universo.
 | Sombra / los Sombra | Mobius |
 | La luz de los Inits | Fulgor o manifestación del don, según el contexto |
 | Orilquin | Irij |
-| Portadores de la Luz | Portadores |
+| Portadores de la Luz | Portadores; el nombre histórico «Portadores de la Luz de los Inits» puede usarse al tratar la antigua Erebia |
 | Denominaciones especiales de la señal ocular | Describir directamente el brillo de los ojos |
 | Poder / poderes | Don, dones o maestrías, según el contexto |
 
 ### Lo que NUNCA debe aparecer
 - «Los Sombra» como nombre de entidad.
-- «Portadores de la Luz» como título.
+- «Portadores de la Luz» como denominación general; se admite el nombre histórico completo «Portadores de la Luz de los Inits» en su contexto.
 - Un término único que confunda vínculo, don y maestría.
 - Un nombre especial para la señal ocular. **Lumbre** designa únicamente el
   material fabricado que arde en el Gran Faro de Esteria.

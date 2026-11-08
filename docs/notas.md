@@ -2,6 +2,27 @@
 
 ## Revisiones editoriales
 
+### Nombre del primer relato de las Crónicas de Erebia (2026-11-08)
+
+Renombrado el archivo del primer relato a `1-la-edad-de-la-maravilla.md` y
+actualizadas sus referencias en las fichas canónicas.
+
+### La Edad de la Maravilla (2026-11-08)
+
+Incorporado el primer relato de las Crónicas de Erebia, adaptado de la
+protoversión indicada. Se conservaron Sintar y Lumari, la ciudad suspendida y
+sus místicos, las duraciones acordadas y el nombre antiguo de los Portadores;
+se ajustaron los Mobius y la señal ocular al canon. La historia conocida por
+Sandor se distingue de los acontecimientos posteriores que siguen velados. Se
+añadieron las fichas de los hermanos y sus entradas en el índice de personajes.
+
+### Fin de la etapa de asentamiento (2026-11-08)
+
+Por decisión humana concluyó la etapa de asentamiento del mundo. El proyecto
+entra en desarrollo narrativo; los cuentos completos requieren autorización
+humana explícita para el período correspondiente. Se mantienen el canon, las
+decisiones pendientes y el método de volcamiento para desarrollos amplios.
+
 ### Ajuste cronológico: Surgimiento, Leandrin y Astria (2026-11-08)
 
 El Surgimiento se sitúa en -3046; Leandrin se convierte en Invocadora en +1214

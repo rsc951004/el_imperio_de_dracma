@@ -17,8 +17,11 @@ ni permite deducir de antemano la naturaleza del don.
 ## Origen
 
 Los primeros vínculos de Portadores surgieron durante el encuentro accidental
-entre humanos e Inits en el Surgimiento. La denominación **Portadores** nació en
-Erebia, fue transmitida a Astria y llegó después a Stigria.
+entre humanos e Inits en el Surgimiento. En la antigua Erebia se utilizó la
+denominación **Portadores de la Luz de los Inits**. Con el tiempo cayó en desuso
+por su posible confusión con denominaciones particulares; **Portadores** se
+transmitió a Astria y llegó después a Stigria. Algunos Portadores dedicaban su
+vida al estudio y la práctica de sus dones y eran llamados místicos.
 
 ## Herencia
 
@@ -130,3 +133,4 @@ conspiración casi alcanzó sus objetivos.
 - `docs/mundo/stigria/dragma/guerras-misticas.md`
 - `docs/organizaciones/orden-de-la-flama-blanca.md`
 - `docs/mundo/stigria/kantra.md`
+- `cuentos/cronicas-de-erebia/1-la-edad-de-la-maravilla.md`

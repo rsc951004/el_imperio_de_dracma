@@ -26,6 +26,8 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
+| Sintar | Pastor histórico | Hermano de Lumari y uno de los primeros vinculados. | [Ver ficha](personajes/sintar.md) |
+| Lumari | Pastora histórica | Hermana de Sintar y una de las primeras vinculadas. | [Ver ficha](personajes/lumari.md) |
 | Sandor Solarys | Cronista | Erudito de Khalos, autor de las *Crónicas*. No es portador. Noble de la Casa Solarys. | [Ver ficha](personajes/sandor-solarys.md) |
 | Yanos Gueika | Soldado | Guardia de la Ciudadela de Khalos. Casa común Gueika (Biormyr). Amigo cercano de Sandor. | [Ver ficha](personajes/yanos-gueika.md) |
 | Rudgar Valgard | Personaje histórico | Vencedor del Rey Podrido, primer Raik y fundador del Raikim unificado. | [Ver ficha](personajes/rudgar-valgard.md) |

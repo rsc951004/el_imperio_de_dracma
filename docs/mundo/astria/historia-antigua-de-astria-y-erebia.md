@@ -7,7 +7,6 @@ remota anterior a la llegada de los astrianos a Stigria. Los nombres
 de la isla de origen de Therin y Thalmos, las campañas y las vidas particulares
 quedan reservados para desarrollos posteriores.
 
-<!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->
 ## Erebia y el origen de Astria
 
 Erebia fue la tierra donde surgieron los primeros Portadores. El Surgimiento
@@ -17,8 +16,14 @@ Su caída dio paso a la Edad del Sol Devorado, que se prolongó unos trescientos
 años. Astria fue fundada aproximadamente hacia el año **-1746**, después del
 éxodo y el viaje por mar.
 
-Durante la Edad
-del Sol Devorado, uno de los Mobius tomó el continente y los Portadores fueron
+Sintar y Lumari fueron hermanos pastores y los primeros humanos que tocaron a
+un Init. La ciudad recibió el nombre de Sintar y el monte desde el que partía
+el de Lumari. Los Místicos de las Nubes la sostenían en el aire; viajaba por
+Erebia y regresaba ocasionalmente al monte. Molok y Zorak se refugiaron bajo
+ese monte tras el Surgimiento.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->
+Durante la Edad del Sol Devorado, uno de los Mobius tomó el continente y los Portadores fueron
 perseguidos como responsables de la catástrofe. Al final de esa edad, una
 Portadora destruyó a Tamurak, el Mobius transformado en una criatura gigantesca,
 y condujo a los supervivientes hasta un conjunto de islas. Allí fundaron Astria,
@@ -59,3 +64,4 @@ conocimiento público.
 - `docs/entidades/thalmos.md`
 - `docs/entidades/invocadores.md`
 - `docs/taburas/kys-tabura.md`
+- `cuentos/cronicas-de-erebia/1-la-edad-de-la-maravilla.md`
