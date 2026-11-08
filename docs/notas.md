@@ -2,6 +2,22 @@
 
 ## Revisiones editoriales
 
+### Reformulación: nombres femeninos del Hierro (2026-11-07)
+
+Se renovó la lista femenina a partir de las propuestas de sonoridad elegidas,
+con cinco opciones por inicial y sin cambios a personajes existentes.
+
+### Ajuste: nombres femeninos del Hierro (2026-11-07)
+
+Se revisó la cantera femenina a partir de las referencias de sonoridad
+entregadas para el Hierro, conservando cinco opciones por inicial.
+
+### Renovación: cantera de nombres del Hierro (2026-11-07)
+
+Se sustituyeron los modelos de la guía por una cantera de 130 nombres
+masculinos, 130 femeninos y 130 casas, con cinco opciones por inicial en cada
+categoría. Se conservaron las reglas y los nombres canónicos ya asignados.
+
 ### Identidad de Rasmus Galenor (2026-11-07)
 
 Se identificó a Rasmus como Hijo del Sol. La ascendencia en esclavos liberados
