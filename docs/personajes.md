@@ -91,6 +91,19 @@ establecido, la identidad permanece pendiente.
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
 | Leandrin Rheiner | Personaje histórico | Joven noble de Flemmengard y primera Invocadora surgida en territorio de Dragma. | [Ver ficha](personajes/historicos/leandrin-rheiner.md) |
+| Sirene Zorana | Portadora histórica | Astriana, esposa de Gunther y madrastra de Leandrin. | [Ver ficha](personajes/historicos/sirene-zorana.md) |
+| Gunther Rheiner | Noble histórico | Landwalt de Drommdurr y padre de Leandrin. | [Ver ficha](personajes/historicos/gunther-rheiner.md) |
+| Alruna Mhaister | Noble histórica | Madre de Leandrin y sus dieciséis hermanos. | [Ver ficha](personajes/historicos/alruna-mhaister.md) |
+| Rasmus | Itinerante | Conductor de la caravana que llevó a Sirene a Fernigard. | [Ver ficha](personajes/historicos/rasmus.md) |
+| Lysandra | Astriana | Joven esclavizada en el hogar de Sirene. | [Ver ficha](personajes/historicos/lysandra.md) |
+| Calris Zorana | Místico astriano | Erudito que desarrolló el fuego verde. | [Ver ficha](personajes/historicos/calris-zorana.md) |
+| Zoroastro Zorana | Místico astriano | Miembro de la Casa Zorana que manifestó el don del caos. | [Ver ficha](personajes/historicos/zoroastro-zorana.md) |
+| Ose | Identidad incierta | Figura vinculada a la historia de Sirene y Leandrin. | [Ver ficha](personajes/historicos/ose.md) |
+| Esposo de Sirene | Astriano | Miembro de la rama Zorana de Garken. | [Ver ficha](personajes/historicos/esposo-de-sirene.md) |
+| Príncipe Coronado de Flemmengard | Príncipe histórico | Heredero enamorado de Leandrin. | [Ver ficha](personajes/historicos/principe-de-flemmengard.md) |
+| Rey de Flemmengard en tiempos de Leandrin | Rey histórico | Padre del Príncipe Coronado. | [Ver ficha](personajes/historicos/rey-de-flemmengard-en-tiempos-de-leandrin.md) |
+| Hijo del señor vecino | Noble histórico | Amigo de infancia de Leandrin. | [Ver ficha](personajes/historicos/hijo-del-senor-vecino.md) |
+| Fundadora de la Casa Zorana | Fundadora histórica | Fundadora de Astria y portadora del don del caos. | [Ver ficha](personajes/historicos/fundadora-de-zorana.md) |
 | Daryón Coralyss | Noble histórico | Noble de Alessya. Pactó la unión de la isla con Zephyrya y el matrimonio de su hija. Traicionado por ella. Su casa fue proscrita | [Ver ficha](personajes/historicos/daryon-coralyss.md) |
 | Kleóndras Aetheryon | Rey histórico | Rey de Zephyrya. Pactó con Daryón. Ejecutado tras la Guerra de los Hermanos. Casa proscrita | [Ver ficha](personajes/historicos/kleondras-aetheryon.md) |
 | Kyros Albyon | Rey histórico | Rey de Lysarya. Su hijo Eryk era amante de Thalyssa. Ejecutado tras la guerra. Casa proscrita | [Ver ficha](personajes/historicos/kyros-albyon.md) |

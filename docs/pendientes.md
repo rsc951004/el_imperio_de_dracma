@@ -25,7 +25,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Astrid** | Resolver el destino de Astrid y <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente -->el desarrollo posterior de la línea superviviente de su hijo con Rudgar.<!-- CANON-VELADO: FIN --> |
 | **Fortaleza de Sturm** | Fijar el nombre de la fortaleza donde desapareció Astrid y Rudgar encontró a Iulien. |
 | **Kys Tábura** | Resolver las circunstancias de su desaparición antes de la Edad de Oro. |
-| **Peregrinos Negros** | Resolver el destino de los emisarios que persiguieron a los refugiados astrianos hasta Stigria. |
+| **Peregrinos Negros** | Resolver el destino de los emisarios que llegaron a Stigria durante la Edad de la Podredumbre. |
 | **Emisarios de la Ruina** | Precisar el alcance de su red después de la guerra de Unland y el destino de los capturados. |
 | **Capacidades de los Mobius** | Definir el catálogo y los límites técnicos de sus formas de interacción sin convertirlas en capacidades universales. |
 | **Excepciones entre Portadores** | Definir, cuando corresponda, casos concretos capaces de alcanzar a más de un Init. |
@@ -43,7 +43,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
 | **Möes Tábura** | Desarrollar su jerarquía, organización y trámites internos de clasificación. |
 | **Orden de la Flama Blanca** | Mantener sin definir su origen preciso, estatus legal, estructura interna, integrantes, métodos, presencia territorial y relación con los clérigos del culto a Ishbaal. |
-| **Prohibición del culto a Thalmos en Dragma** | Mantener sin fijar la fecha y las causas de la prohibición. |
+| **Prohibición del culto a Thalmos en Dragma** | Mantener sin fijar el año exacto y las causas de la prohibición, establecida al final de las Guerras Místicas. |
 | **Creación de Invocadores** | Definir la autoridad, los permisos, el procedimiento, los materiales y los riesgos concretos del rito, actualmente casi prohibido. |
 | **Lumbre del Gran Faro** | Definir la vía, el momento y los custodios que transmitieron a Esteria el saber para preparar la Lumbre. |
 | **Sucesión de Landwalts** | Definir el procedimiento posterior a una objeción de la Dex Tábura, la compatibilidad con la jefatura de casa, los requisitos personales y las competencias administrativas detalladas. |
@@ -62,7 +62,8 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Figuras del culto a Ishbaal** | Mantener sin definir la existencia o naturaleza objetiva de Ishbaal, Arsul y el Errante sin Nombre, así como la identidad y el origen de los restos custodiados en el Moroloth de la isla. |
 | **Protectorados y ultramar** | Desarrollar la casa gobernante, la sucesión, los órganos internos, las facultades concretas y la historia de Ishbaal; precisar la forma jurídica del tratamiento especial de la isla, la ubicación e historia interna de Sarustra, la llegada sheijad y el número y la ubicación exacta de los Moroloth. Desarrollar Lorka, Paicel y las relaciones históricas entre los protectorados. |
 | **Príncipes Perdidos** | Resolver el destino de Eryk Albyon y Thalyssa Coralyss. |
-| **Invocadores y Segunda Dinastía** | Desarrollar, en una etapa narrativa posterior, las causas, campañas, participantes y secuencia detallada de las Guerras Místicas y la Aniquilación. Su marco general, la conspiración de la Orden de la Flama Blanca y el surgimiento de Leandrin Rheiner en Dragma están establecidos; no hay fechas ni campañas concretas aprobadas. |
+| **Invocadores y Segunda Dinastía** | Desarrollar posteriormente las campañas y la secuencia detallada de las Guerras Místicas y la Aniquilación; quedan sin fijar las fechas, el desenlace de la guerra de Leandrin y el destino individual de sus hermanos. El surgimiento de Leandrin, los dragones y el rechazo aprovechado por la Orden de la Flama Blanca están establecidos. |
+| **Sirene y Leandrin** | Resolver la identidad y el propósito de Ose, el cambio de rostro y voz de Leandrin, la leyenda que inspiró a Leandrin sobre Tamurak y los aspectos del rito y las vidas de los personajes que permanecen abiertos. |
 | **Saqueos de Sturmgard** | Desarrollar lugares atacados, campañas concretas y mecanismos de distribución del botín durante una etapa narrativa autorizada. |
 | **Escuelas regionales** | Desarrollar procedimientos internos y particularidades de las escuelas de Veleskaria, Zephyrya y otros territorios. |
 | **Encanto zephyrio** | Mantener sin definir la técnica, el agente y el procedimiento exactos de la modificación astriana, además del mecanismo independiente por el que la piel zephyria no se broncea. |

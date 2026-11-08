@@ -32,6 +32,13 @@ de la Podredumbre. Rudgar fue proclamado primer Raik en el mismo Stamengherin.
 
 Los Sangre de Hierro esclavizaron a numerosos supervivientes sangheskios después de la caída de Sanghesk. La asociación entre los Portadores y las campañas del Dominio Carmesí produjo una persecución prolongada: los Portadores descubiertos entre los esclavos sangheskios y sus descendientes eran ejecutados.
 
+Entre los Sangre de Hierro, Portadores e Invocadores fueron vistos como
+extranjeros y ajenos a la vida de Stigria, sin una distinción social marcada
+entre ambos. Tras la fundación del Imperio, los Portadores se integraron
+progresivamente en los pueblos del Gherin durante generaciones. Las Guerras
+Místicas renovaron el rechazo, especialmente hacia los Invocadores por su
+participación en conflictos devastadores.
+
 Iulien Therin nació dentro de esta población esclavizada. Sus padres lograron
 ocultar su condición de Portador del Sol.
 

@@ -13,13 +13,14 @@ conocimiento público.
 ## Historia conocida
 
 La aparición de su culto precedió por siglos a la fundación de la Kys Tábura.
-Durante la Edad de la Podredumbre, los Peregrinos Negros perseguían en su nombre
-a disidentes astrianos.
+Los Peregrinos Negros fueron enviados fuera de Astria en busca de adeptos. La
+Inquisición astriana perseguía dentro de Astria a disidentes y a quienes
+consideraba indignos o malos practicantes.
 
 ## Culto en Dragma
 
-El culto a Thalmos está prohibido en Dragma. No se han establecido la fecha ni
-el motivo de esta prohibición.
+El culto a Thalmos fue prohibido en Dragma al final de las Guerras Místicas.
+No se han establecido el año exacto ni el motivo de esta prohibición.
 
 ## Referencias
 

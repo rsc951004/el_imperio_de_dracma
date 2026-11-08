@@ -16,6 +16,9 @@ Durante la Aniquilación, la Orden conspiró para derrocar al emperador, aniquil
 a todos los Portadores e Invocadores e instaurar una teocracia. La conspiración
 casi alcanzó sus objetivos.
 
+La Orden aprovechó el rechazo a los dones místicos alimentado por la devastación
+de los dragones de Leandrin y el surgimiento de nuevos místicos.
+
 ## Referencias
 
 - `docs/mundo/stigria/dragma/guerras-misticas.md`

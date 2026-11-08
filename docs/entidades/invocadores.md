@@ -25,6 +25,10 @@ El surgimiento de **Leandrin Rheiner**, joven noble de Flemmengard, registra el
 inicio de las Guerras Místicas en territorio de Dragma. Esto no altera la
 precedencia de Therin como primer Invocador registrado en general.
 
+Sirene entregó su vínculo para convertir a Leandrin en Invocadora. Leandrin
+introdujo después la creación de Invocadores como recurso bélico, lo que
+suscitó una pugna por controlar la práctica.
+
 Crear un nuevo Invocador exige despojar a un Portador de su vínculo. En la Edad
 de Oro la práctica está fuertemente restringida y casi prohibida. No se han
 establecido públicamente la autoridad competente, los permisos ni el

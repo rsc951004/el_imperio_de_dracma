@@ -80,8 +80,8 @@ Un grupo reducido de brumenses participó en la campaña final de Rudgar contra
 el Rey Podrido. Esa ayuda no produjo integración: después del confinamiento, la
 Gente de la Bruma se recluyó en Unland y no colaboró con la limpieza del Gherin.
 
-También acogió a casi ciento veinte refugiados astrianos perseguidos por los
-Peregrinos Negros y los ayudó a levantar Khalos con piedra de Stömur. Esa ayuda
+También acogió a casi ciento veinte refugiados astrianos que huían de una purga
+y los ayudó a levantar Khalos con piedra de Stömur. Esa ayuda
 explica el vínculo que los Hijos del Sol conservaron con Unland.
 
 ## Pacto de los jarls y derrota

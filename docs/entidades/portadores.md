@@ -30,6 +30,18 @@ manifiesta el vínculo, no el alcance del vínculo cuando aparece. Las formas de
 manifestar un don dependen de la persona y de las maestrías que haya
 desarrollado.
 
+## Don de la Forja
+
+La Forja permite transformar el cuerpo propio y el de otras criaturas vivas,
+reproducir formas existentes o crear otras mediante la combinación o
+imaginación de características. Los cambios persisten sin intervención
+continua y pueden revertirse. Si una criatura adopta una forma de menor
+capacidad de razonamiento, su mente se adapta gradualmente; tras mucho tiempo,
+el cambio mental puede ser irreversible aunque recupere su cuerpo anterior.
+
+La Invocadora Leandrin Rheiner destacó por este don y transformó a sus
+dieciséis hermanos en dragones.
+
 ## Señal ocular
 
 Durante la infancia, los ojos de Portadores e Invocadores presentan un brillo

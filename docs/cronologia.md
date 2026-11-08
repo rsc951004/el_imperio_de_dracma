@@ -55,6 +55,7 @@ números positivos:
 | **Año +80** | Mijail Mormund es exiliado y funda la rama que da origen a la Casa Artema en Delfos. |
 | **Año +120** | Vilem Mormund promulga la **Concordia**. |
 | **Año +400** | Comienza la dinastía Amschel. Termina la dinastía Mormund. |
+| **Alrededor de +1113** | Sirene Zorana llega a las costas de Zephyrya después de escapar de Astria; la fecha es aproximada. |
 | **Año +1350** | Comienza la dinastía Pavel. Termina la dinastía Amschel. |
 | **Año +1680** | Presente narrativo. El Imperio de Dragma continúa en la Edad de Oro bajo la dinastía Pavel. |
 

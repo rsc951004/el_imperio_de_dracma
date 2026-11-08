@@ -34,6 +34,10 @@ relevo permanecen pendientes.
 ## Historia
 Flemmengard fue uno de los cuatro reinos del Bloque de Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada al fuego, la actividad geotérmica y la piromancia.
 
+En el noreste se encuentra Drommdurr, Víer de la Casa Rheiner, cuya residencia
+es Fernigard. El dominio vecino de Uldengyrk pertenece a la Casa Mhaister. El
+Landwalt ejerce la autoridad política del Víer.
+
 ## Concepto
 Noroeste volcánico, piromancia. Región de actividad geotérmica y tradición ígnea.
 

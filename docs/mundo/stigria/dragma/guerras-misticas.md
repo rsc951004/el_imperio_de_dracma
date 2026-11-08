@@ -15,6 +15,18 @@ se tiene registro en general.
 Como consecuencia de los conflictos surgirá la mayoría de los linajes actuales
 de Invocadores.
 
+Leandrin intentó tomar Flemmengard en una guerra de usurpación e introdujo la
+creación de Invocadores como recurso bélico. Transformó a sus dieciséis
+hermanos en dragones inspirándose en la leyenda del Tamurak de la vieja Erebia.
+Ellos partieron voluntariamente y perdieron el raciocinio con el tiempo que
+permanecieron transformados. Los dragones sembraron el caos por el Imperio.
+
+La devastación, junto con el surgimiento de Leandrin y de más Portadores,
+contribuyó a un rechazo generalizado de los dones místicos. La Orden de la
+Flama Blanca aprovechó ese rechazo en su intento de tomar el poder y destruir
+a los místicos imperiales. El culto a Thalmos fue prohibido en Dragma al final
+de las Guerras Místicas; la causa de la prohibición permanece sin determinar.
+
 ## Aniquilación
 
 La **Aniquilación** es el mayor y de alcance más amplio de los conflictos de

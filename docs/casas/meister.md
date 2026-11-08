@@ -16,6 +16,10 @@ refugiadas hacia Eisen. No ocupa la corona, pero administra talleres y escuelas
 de metalurgia bajo la autoridad de Hammer. Su trabajo sostiene la producción
 del Acero del Alba.
 
+Conserva raíces ancestrales en Flemmen. Su nombre y el de la Casa Mhaister se
+vinculan a los nombres de sus fundadores y a la figura del Talamister; son
+casas distintas sin parentesco sanguíneo.
+
 ## Referencias
 
 - `docs/casas/hammer.md`

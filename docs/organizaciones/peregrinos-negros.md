@@ -2,7 +2,7 @@
 
 ## Tipo
 
-Emisarios y perseguidores religiosos procedentes de Astria.
+Emisarios del culto de Thalmos enviados fuera de Astria en busca de adeptos.
 
 ## Creencias
 
@@ -10,7 +10,7 @@ Adoraban a **Thalmos**, a quien llamaban el Dios Negro. Consideraban herejes a q
 
 ## Llegada a Stigria
 
-Durante la Edad de la Podredumbre, una gran nave de Peregrinos Negros llegó desde el sur, más allá del Mar Oscuro. Sus ocupantes afirmaron ser emisarios de Astria, la Nación de la Luz, pero perseguían una flota de disidentes.
+Durante la Edad de la Podredumbre, una gran nave de Peregrinos Negros llegó desde el sur, más allá del Mar Oscuro. Sus ocupantes se presentaron como emisarios de Astria, la Nación de la Luz.
 
 La Gente de la Bruma los recibió con desconfianza. Los Peregrinos rechazaron la comida y el agua ofrecidas y preguntaron insistentemente por fenómenos extraños. Después de conocer la historia del Rey Podrido, abandonaron el lugar con rumbo a Dürr.
 

@@ -115,3 +115,45 @@ inicial se agrupan por sus secciones para que sus detalles no se pierdan.
 
 Revisar este plan y obtener una orden humana explícita antes de modificar el
 canon. Las decisiones reservadas no se incorporan sin resolución posterior.
+
+## Ejecución y revisión de cierre
+
+El humano autorizó el volcamiento y aprobó los diez puntos presentados después
+de este plan, incluida la documentación de los personajes y los detalles de
+familia, territorios, vida anterior de Sirene, caravana, proyecto, secuestro y
+rescate. También aprobó mantener en reserva el cambio de rostro y voz de
+Leandrin y el desenlace de su guerra. Esa decisión posterior prevalece sobre
+las reservas de traslado correspondientes de la tabla anterior.
+
+- **Canon trasladado:** identidad y familia de Leandrin; historia de Sirene en
+  Astria y Flemmengard; casas y territorios; rito según R-09; Forja; guerra en
+  términos generales; dragones y rechazo aprovechado por la Flama Blanca.
+  Fichas, índices, marcos y notas se actualizaron en `docs/`.
+- **Fichas de personajes:** Leandrin, Sirene, Gunther, Alruna, Rasmus,
+  Lysandra, Calris, Zoroastro, Ose, el esposo de Sirene, el príncipe, el rey,
+  el joven vecino y la fundadora de Zorana tienen entradas y fichas. Los tres
+  hijos de Sirene y los dieciséis hermanos de Leandrin están identificados en
+  las fichas familiares: carecen de nombres y rasgos individuales que permitan
+  distinguir a cada uno sin inventar datos; sus historias individuales quedan
+  reservadas.
+- **Reservas vigentes:** identidad y propósito de Ose y detalles de su presencia;
+  cambio de rostro y voz de Leandrin; secuencia técnica del rito; destino
+  individual de los hermanos; desenlace y campañas de la usurpación; desarrollo
+  de la leyenda del Tamurak; causa y año preciso de la prohibición del culto.
+  Las escenas concretas de la caravana y de la fiesta se conservan en la
+  acumulación inicial para desarrollo posterior, conforme a las propuestas
+  aceptadas. La historia completa de Zoroastro, Therin y Thalmos sigue fuera
+  del alcance.
+- **Canon velado:** la antigua historia de Astria y Erebia identifica a Tamurak
+  dentro de un pasaje desconocido por el mundo actual. La inspiración de
+  Leandrin se registra como leyenda sin revelar esa identidad en las fichas
+  públicas. Las intenciones de Sirene hacia Leandrin se marcan como
+  desconocidas por Leandrin.
+- **Anti-fantasmeo:** la partida voluntaria de los hermanos sustituye la versión
+  anterior de control; el fuego verde destruye materia y alma; la usurpación no
+  recibe un desenlace; las referencias canónicas a la persecución de refugiados
+  por Peregrinos Negros se reconstruyeron según R-08.
+
+La presente revisión documenta los destinos y las reservas del alcance
+autorizado. Los materiales acumulados reservados continúan en este proceso y
+no se convierten en canon por su conservación.

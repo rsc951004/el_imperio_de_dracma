@@ -15,7 +15,7 @@ Fortaleza circular situada en la península meridional de Stigria, junto al extr
 
 ## Fundación
 
-Durante la Edad de la Podredumbre, la Gente de la Bruma acogió a casi ciento veinte refugiados astrianos perseguidos por los Peregrinos Negros. Muchos de ellos eran Portadores.
+Durante la Edad de la Podredumbre, la Gente de la Bruma acogió a casi ciento veinte refugiados astrianos que escapaban de una purga. Muchos de ellos eran Portadores.
 
 Ambos pueblos construyeron una fortaleza redonda con piedra extraída de Stömur y la llamaron **Khalos**. Esta piedra impedía que el Rey Podrido entrara físicamente en la ciudadela.
 
