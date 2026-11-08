@@ -6,7 +6,7 @@ Deidad de la tradición oral gheran. Su existencia no está demostrada.
 
 ## Origen
 
-Los relatos la sitúan en una época anterior al Surgimiento, durante la Gran Devoración. Por ello, Ghera no puede identificarse con los Inits llegados al mundo durante el Surgimiento.
+Los relatos la sitúan durante la Gran Devoración.
 
 ## Forma
 

@@ -3,14 +3,21 @@
 ## Alcance
 
 Esta ficha reúne únicamente los rasgos generales establecidos de la historia
-remota anterior a la llegada de los astrianos a Stigria. Las fechas, los nombres
+remota anterior a la llegada de los astrianos a Stigria. Los nombres
 de la isla de origen de Therin y Thalmos, las campañas y las vidas particulares
 quedan reservados para desarrollos posteriores.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->
 ## Erebia y el origen de Astria
 
-Erebia fue la tierra donde surgieron los primeros Portadores. Durante la Edad
+Erebia fue la tierra donde surgieron los primeros Portadores. El Surgimiento
+ocurrió en el año **-3046**. Unos trescientos años después se levantó Sintar,
+ciudad flotante que surcó los cielos de Erebia durante unos setecientos años.
+Su caída dio paso a la Edad del Sol Devorado, que se prolongó unos trescientos
+años. Astria fue fundada aproximadamente hacia el año **-1746**, después del
+éxodo y el viaje por mar.
+
+Durante la Edad
 del Sol Devorado, uno de los Mobius tomó el continente y los Portadores fueron
 perseguidos como responsables de la catástrofe. Al final de esa edad, una
 Portadora destruyó a Tamurak, el Mobius transformado en una criatura gigantesca,

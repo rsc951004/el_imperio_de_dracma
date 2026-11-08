@@ -18,15 +18,14 @@ La naturaleza de Thalmos y el desarrollo profundo de su culto no están establec
 Durante la Edad de la Podredumbre, una gran purga obligó a casi ciento veinte astrianos a huir hacia Stigria. La Gente de la Bruma los ocultó de los Peregrinos Negros y los ayudó a fundar Khalos.
 
 Sirene Zorana escapó de Astria y llegó a Zephyrya alrededor de +1113, por lo
-que Astria existía aún poco antes de esa fecha. Su año de destrucción permanece
-sin determinar.
+que Astria existía aún poco antes de esa fecha.
 
 Desde Khalos, la Kys Tábura regresó repetidamente a Astria para liberar
 esclavos. Los liberados se asentaron en Dürr y fundaron la Costa del Verano.
 
 ## Destrucción
 
-Astria fue destruida en una época posterior. Las causas y circunstancias de su
+Astria fue destruida en el año **+1254**. Las causas y circunstancias de su
 desaparición permanecen desconocidas para el mundo actual.
 
 ## Legado

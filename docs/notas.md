@@ -2,6 +2,15 @@
 
 ## Revisiones editoriales
 
+### Ajuste cronológico: Surgimiento, Leandrin y Astria (2026-11-08)
+
+El Surgimiento se sitúa en -3046; Leandrin se convierte en Invocadora en +1214
+y Astria es destruida en +1254. La fractura de Stömur y la apertura del conducto
+del Rost conservan la fecha -1500, separadas del Surgimiento. Se ajustaron las
+referencias temporales de Ghera y Smürr y los documentos relacionados. Se
+registraron las duraciones aproximadas de Sintar y la Edad del Sol Devorado y
+la fundación aproximada de Astria hacia -1746.
+
 ### Reformulación: nombres femeninos del Hierro (2026-11-07)
 
 Se renovó la lista femenina a partir de las propuestas de sonoridad elegidas,

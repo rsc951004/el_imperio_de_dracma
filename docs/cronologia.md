@@ -17,10 +17,11 @@ números positivos:
 
 | Fecha | Evento |
 |-------|--------|
+| **Año -3046** | **Surgimiento.** El encuentro de humanos e Inits origina los primeros vínculos de Portadores. |
 | **Año -2500** | **Gran Devoración.** Los Grimm persiguen a los seres humanos durante siglos. |
 | **Año -2000** | Según la tradición, Ghera y Smürr expulsan a la mayoría de los Grimm hacia el oriente y forman Stömur. |
 | **Año -1950** | Los supervivientes forman el pueblo Gheran. Comienza la **Edad del Bronce**. |
-| **Año -1500** | **Surgimiento.** La fractura septentrional de Stömur forma el Riegel y se abre el conducto subterráneo del Rost. |
+| **Año -1500** | La fractura septentrional de Stömur forma el Riegel y se abre el conducto subterráneo del Rost. |
 | **Año -900** | Los Sangheskios llegan por mar a Rauven. Comienza la **Edad del Hierro**. |
 | **Año -880** | Los Sangheskios fundan Sanghesk, ocupan Weissen y Dresk y levantan las Murallas Carmesí. |
 | **Año -550** | Tiene lugar el primer Stamengherin documentado, en la Edad del Hierro. |
@@ -56,6 +57,8 @@ números positivos:
 | **Año +120** | Vilem Mormund promulga la **Concordia**. |
 | **Año +400** | Comienza la dinastía Amschel. Termina la dinastía Mormund. |
 | **Alrededor de +1113** | Sirene Zorana llega a las costas de Zephyrya después de escapar de Astria; la fecha es aproximada. |
+| **Año +1214** | Leandrin Rheiner se convierte en Invocadora y comienza la etapa de las Guerras Místicas en Dragma. |
+| **Año +1254** | Astria es destruida. |
 | **Año +1350** | Comienza la dinastía Pavel. Termina la dinastía Amschel. |
 | **Año +1680** | Presente narrativo. El Imperio de Dragma continúa en la Edad de Oro bajo la dinastía Pavel. |
 

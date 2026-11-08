@@ -8,7 +8,7 @@ Cordillera que separa el Gherin del Grimmen.
 
 Stömur forma una barrera continua en el centro y el sur de Stigria. En el norte, el **Riegel** reunía una zona quebrada y ramificada que permitió el tránsito terrestre entre ambas mitades hasta el final de la Edad de la Podredumbre.
 
-El desagüe del Rost atravesaba la cordillera por un conducto completamente inundado. El túnel se formó durante el Surgimiento y nunca constituyó un paso terrestre ordinario.
+El desagüe del Rost atravesaba la cordillera por un conducto completamente inundado. El túnel se formó en el año -1500, durante la fractura que originó el Riegel, y nunca constituyó un paso terrestre ordinario.
 
 Al final de la Edad de la Podredumbre, los Portadores abrieron el Foso de la Calamidad dentro del Riegel y derrumbaron completamente el conducto del Rost. Desde entonces, el Grimmen permanece aislado del Gherin.
 

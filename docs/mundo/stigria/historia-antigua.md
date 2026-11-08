@@ -1,5 +1,13 @@
 # Historia antigua de Stigria
 
+## El Surgimiento
+
+Durante el **Surgimiento**, situado en el año **-3046**, humanos e Inits se
+encontraron de forma accidental y surgieron los primeros vínculos que después
+heredarían los Portadores. Los Inits regresaron a Irij antes del amanecer
+siguiente. La primera luz del Surgimiento quitó a los Mobius su forma material
+y los dejó en este mundo como presencias inmateriales.
+
 ## Los stigrios y la Gran Devoración
 
 Los relatos orales denominan **stigrios** a los habitantes prehistóricos de Stigria. Eran comunidades dispersas, sin lengua unificada, escritura, organización común ni asentamientos permanentes.
@@ -20,17 +28,9 @@ Con el paso de las generaciones, los clanes unificaron su lengua, costumbres y f
 
 Los Gheran reconocieron nueve regiones: **Flemmen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim**. Su mayor concentración habitaba Eldenheim, donde levantaron la fortaleza de Eldengard.
 
-## El Surgimiento
+## Formación del Riegel
 
-Durante el **Surgimiento**, situado en el año **-1500**, humanos e Inits se
-encontraron de forma accidental y surgieron los primeros vínculos que después
-heredarían los Portadores. Los Inits regresaron a Irij antes del amanecer
-siguiente.
-
-La primera luz del Surgimiento quitó a los Mobius su forma material y los dejó
-en este mundo como presencias inmateriales.
-
-La sección septentrional de Stömur se fracturó y formó el Riegel. También se
+En el año **-1500**, la sección septentrional de Stömur se fracturó y formó el Riegel. También se
 abrió bajo la cordillera el conducto inundado por el que el Rost desaguaba desde
 el Gherin hacia Rauven.
 

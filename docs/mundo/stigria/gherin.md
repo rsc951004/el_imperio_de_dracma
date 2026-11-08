@@ -56,7 +56,7 @@ territoriales comunes:
 El **Rost** es un gran lago situado al norte de Eldenheim. Su desagüe oriental
 entraba en un conducto completamente inundado bajo Stömur y alimentaba el río
 que separaba Rauven de Grimheim antes de alcanzar el mar oriental. El conducto
-se formó durante el Surgimiento y fue derrumbado completamente por los
+se formó en el año -1500, durante la fractura que originó el Riegel, y fue derrumbado completamente por los
 Portadores al final de la Edad de la Podredumbre. Al interrumpirse el caudal,
 el río oriental se secó y Rauven quedó unido territorialmente a Grimheim.
 

@@ -11,7 +11,7 @@ Smürr existe y pertenece a la clase de criaturas denominada Jöten.
 
 ## Origen
 
-Los relatos la sitúan junto a Ghera durante la Gran Devoración, antes del Surgimiento.
+Los relatos la sitúan junto a Ghera durante la Gran Devoración.
 
 ## Forma
 

@@ -40,7 +40,7 @@ de su madrastra; Sirene le advirtió que, si elegía la venganza, dejaría de
 tratarla como hija. Leandrin eligió el poder y la venganza a pesar de perder
 la aceptación maternal que creía tener.
 
-En el rito que la convirtió en Invocadora, Sirene perdió su vínculo y Leandrin
+En el año **+1214**, durante el rito que la convirtió en Invocadora, Sirene perdió su vínculo y Leandrin
 recibió uno ampliado, capaz de alcanzar a múltiples Inits. Además de la Forja,
 poseía otros dones. Thalmos intentó poseerla y habló a través de ella sin
 conservar el control; Leandrin mantuvo cuerpo, identidad, recuerdos y alma.

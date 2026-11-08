@@ -7,7 +7,7 @@ durante la Segunda Dinastía de Dragma. En ellos se enfrentan distintas
 dinastías y reinos de Dragma, junto con algunos actores externos, por el control
 y el poder de los reinos, los territorios e incluso el Imperio.
 
-El inicio de las Guerras Místicas en territorio de Dragma queda registrado por
+El inicio de las Guerras Místicas en territorio de Dragma queda registrado en el año **+1214** por
 el surgimiento de **Leandrin Rheiner**, primera Invocadora surgida allí y joven
 noble de Flemmengard. Esto no desplaza a Therin como el primer Invocador del que
 se tiene registro en general.
