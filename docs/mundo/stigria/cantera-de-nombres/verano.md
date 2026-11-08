@@ -102,7 +102,7 @@ función narrativa.
 - Yasmynya
 - Karolya
 - Estelya
-- Beatryzya
+- Beatrizya
 - Vylma
 - Yolandya
 - Renatya
@@ -191,8 +191,8 @@ función narrativa.
 - Kyryadon
 - Kalistrys
 - Lykaryos
-- Lysandyr
-- Lysyphor
+- Lisandyr
+- Lissyphor
 - Mirandys
 - Myryon
 - Myrthys
@@ -215,7 +215,6 @@ función narrativa.
 - Xanthyr
 - Xyryan
 - Zepharyos
-- Zephyryon
 - Ilyndros
 - Irythos
 - Iphyryon

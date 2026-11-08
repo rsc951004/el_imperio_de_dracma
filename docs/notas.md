@@ -2,6 +2,12 @@
 
 ## Revisiones editoriales
 
+### Revisión: cantera de nombres del Verano (2026-11-07)
+
+Se ajustaron grafías de la cantera para respetar la distribución de `i` y `y`
+y se retiró una forma personal territorial que duplicaba otra ya disponible.
+La revisión se limita a la cantera y no modifica nombres canónicos en uso.
+
 ### Volcamiento: Ishbaal y los Sheijad (2026-10-20)
 
 Ejecutado el plan autorizado de R-01 a R-14. Ishbaal quedó definido como
