@@ -2,6 +2,12 @@
 
 ## Revisiones editoriales
 
+### Sustitución: cantera de nombres del Verano (2026-11-07)
+
+Se reemplazó la cantera de la guía del Verano por la selección consolidada,
+con 130 nombres femeninos, 130 masculinos y 130 casas. Se conservaron las
+reglas de la guía y los nombres canónicos ya asignados.
+
 ### Revisión: cantera de nombres del Verano (2026-11-07)
 
 Se ajustaron grafías de la cantera para respetar la distribución de `i` y `y`
