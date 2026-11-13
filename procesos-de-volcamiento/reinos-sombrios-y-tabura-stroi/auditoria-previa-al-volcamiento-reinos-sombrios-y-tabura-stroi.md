@@ -86,8 +86,8 @@ propuesta pertenece a esta revisión y no autoriza su ejecución en el canon.
   canon de `docs/casas/zorana.md` admite ramas de ese linaje; `docs/personajes/imrik.md`
   no establece la identidad anterior. **Ampliación**, salvo la cronología de
   la Mort tratada en A-11. La genealogía intermedia queda reservada por A-10.
-  Acción: no identificar a los tres con la expedición de la Podredumbre por
-  compartir denominación. D-07, D-09, I-05, I-08, R-02–R-04.
+  La decisión posterior de R-02 distingue su migración de la expedición de la
+  Podredumbre. D-07, D-09, I-05, I-08, R-02–R-04.
 - **A-11:** los tres fundan Mort, esta crece en Dragma y sus supervivientes
   llegan a Rauven; Armand infiltra la Stroi y Loras hereda dos dones. El canon
   `docs/taburas/mort-tabura.md` la define como seguidores supervivientes de la
@@ -98,15 +98,17 @@ propuesta pertenece a esta revisión y no autoriza su ejecución en el canon.
   aún no fijada**, no contradicción demostrada entre expediciones. Si la
   fundación se ubicara antes de +1254, habría que conciliarla con la descripción
   canónica de Mort; el documento no fija esa fecha. Acción: no imponer una
-  migración posterior ni exigir fechar todos los hitos. D-09, R-02.
+  fecha respecto de la caída de Astria ni exigir fechar todos los hitos. R-02
+  confirmó que la migración fue posterior a la expedición de la Podredumbre.
+  D-09, R-02.
 - **A-12:** el Viejo Imrik protege, cría y entrena a Loras; Loras adopta el
   nombre Imrik tras su muerte. A los 14 años Loras integra una célula dirigida
   por el Viejo. `docs/personajes/imrik.md` describe al Imrik de Mili y Arystan;
   no menciona al protector. **Ampliación de identidad y trayectoria**. A-03,
   A-08, A-10 y A-23 vinculan al Imrik actual con Mili, Arystan y Loras: la
-  lectura continua atribuye a Loras las células 1378, 1432 y 1466; el nombre
-  anterior o posterior de cada episodio no está fechado. Acción: no trasladar
-  automáticamente la célula dirigida por el Viejo a una de las numeradas.
+  lectura continua atribuye a Loras las células 1378, 1432 y 1466. La decisión
+  humana posterior identifica la célula dirigida por el Viejo como la 1378 y
+  fija la secuencia de nombres en R-03. Acción: aplicar esa decisión.
   I-04–I-05, I-08, R-03.
 - **A-13:** Valkyren, apellido elegido por Loras, y futuro reconocimiento de
   la casa con Mili, quien conserva Rosamund. `docs/personajes/millicent-rosamund.md`
@@ -139,13 +141,10 @@ propuesta pertenece a esta revisión y no autoriza su ejecución en el canon.
   `docs/personajes/katerina.md` y `grimar-valgard.md` confirman un hijo y una
   línea sobreviviente velada que desconoce su ascendencia; no identifican al
   descendiente ni prohíben ramificaciones. **Ampliación**, con una tensión
-  concreta que exige comprobar cómo se cumple la formulación canónica de las
-  dos líneas y el desconocimiento de su descendiente si los príncipes son
-  descendientes de Grimar. A-19 no identifica si la línea velada es otra rama:
-  no fijarlo por inferencia. El paradero desconocido no equivale a muerte o
+  concreta resuelta por la decisión posterior R-04: los gemelos originan las
+  ramas respectivas de la línea velada y los príncipes. El paradero desconocido no equivale a muerte o
   inactividad; la actividad de Katerina en la Edad de Oro es compatible si se
-  conserva. Acción: decisión humana sobre la relación necesaria con la línea
-  velada, sin dar por probada separación. D-04–D-06, R-04.
+  conserva. Acción: respetar la relación familiar decidida. D-04–D-06, R-04.
 - **A-20:** identidades, casas y naturaleza de los siete monarcas, incluido
   Aesh unido a un Möbius. `docs/entidades/mobius.md` reserva capacidades
   particulares; `docs/entidades/grimm.md` impide al Rey Podrido poseer Grimm,
@@ -172,9 +171,9 @@ propuesta pertenece a esta revisión y no autoriza su ejecución en el canon.
   la campaña de Iulien. **Tensión textual concreta:** A-22 refiere a quienes
   siguieron al Rey, los mantiene cautivos y les atribuye una liberación distinta;
   la formulación canónica puede leerse como inclusiva de ese mismo conjunto.
-  No se demuestra una fecha posterior a -193 ni se justifica imponerla. Acción:
-  pedir decisión sobre cómo conciliar el alcance de ambos conjuntos y hechos;
-  no convertir la influencia reservada en control o herencia establecidos.
+  La decisión posterior R-05 distingue el grupo de Rauven liberado por Iulien
+  del grupo de Grimheim liberado por el Rey tras su confinamiento. Acción:
+  respetar la distinción; la influencia residual y su herencia son reservas.
   D-10, I-07, R-05.
 - **A-23:** tras morir el Viejo, Arystan transforma a Loras a pedido suyo.
   `docs/personajes/arystan-khan.md` confirma que Arystan poseía Forja y murió
@@ -191,15 +190,15 @@ propuesta pertenece a esta revisión y no autoriza su ejecución en el canon.
 | D-02 / I-01 | **Error de lectura:** A-15 define Velkhar como macrorregión y sustituye Drauvhen; cambio real respecto del nombre canónico Grimmen. | A-00, A-09, A-14–A-15. |
 | D-03 / D-12 / I-07 | **Falso positivo por ausencia:** A-21 fija la doctrina, su falsedad, ausencia de disidencia y conocimiento de instruidos de Dragma; A-22 añade desconocimiento del origen. No son incompatibles entre sí. | A-21–A-22; `docs/entidades/ghera.md`; R-07 no borra lo ya decidido. |
 | D-04 | **Falso conflicto:** paradero desconocido no implica cese de actividad. | A-19; `docs/personajes/katerina.md`. |
-| D-05 | **Tensión concreta, sin solución acreditada:** hay descendencia de Grimar entre príncipes y una línea velada; su relación y el alcance de la formulación canónica requieren decisión. | A-19–A-20; `docs/casas/valgard.md`; R-04 no acredita separación. |
+| D-05 | **Resuelto:** los gemelos originan ramas distintas, según decisión humana posterior. | A-19–A-20; `docs/casas/valgard.md`; R-04. |
 | D-06 | **Ampliación compatible:** existencia de príncipes y Grimm descendientes de Katerina no contradice la ficha. | A-19–A-20; `docs/personajes/katerina.md`. |
 | D-07 | **Mixto:** identidad y genealogía son ampliaciones; la ficha llama Portador a Imrik y A-11 Invocador, clasificación diferente según el origen del vínculo. La identidad de ambos está documentada por A-10–A-12; no es pendiente. | `docs/personajes/imrik.md`, `docs/entidades/invocadores.md`, `portadores.md`; reconocer cambio de clasificación, no inventar imposibilidad de dos dones. |
 | D-08 | **Falso impedimento cronológico:** A-23 ya ordena muerte del Viejo, transformación por Arystan y, por necesidad, muerte posterior de Arystan. | A-12, A-23; `docs/personajes/arystan-khan.md`. |
-| D-09 | **Conflicto afirmado sin prueba:** Peregrino es una función, no una expedición única. Mort es posterior a la caída en su descripción canónica; A-10–A-11 no fijan todas las fechas relativas. | `docs/organizaciones/peregrinos-negros.md`, `docs/taburas/mort-tabura.md`, `docs/cronologia.md`; R-02 carece de respaldo independiente. |
-| D-10 | **Tensión real limitada:** alcance de los poseídos de Roshdom frente a los de A-22, no necesidad de fechar la liberación exactamente. | A-22; `docs/mundo/stigria/roshdom.md`; R-05 no acredita el orden posterior. |
+| D-09 | **Conflicto afirmado sin prueba:** Peregrino es una función, no una expedición única. R-02 confirma una migración distinta y posterior a la expedición documentada; la fecha respecto de la caída no está fijada. | `docs/organizaciones/peregrinos-negros.md`, `docs/taburas/mort-tabura.md`, `docs/cronologia.md`; R-02. |
+| D-10 | **Resuelto:** la decisión posterior distingue los grupos de Rauven y Grimheim y confirma el orden de las liberaciones. | A-22; `docs/mundo/stigria/roshdom.md`; R-05. |
 | D-11 | **Falso positivo por novedad:** persecución y control individual son aportes; la mecánica universal no está decidida. | A-21; `docs/entidades/mobius.md`, `portadores.md`. |
 | I-03 / I-06 | **Ya resuelto:** A-20 fija monarcas y A-18 su orden; los pendientes anteriores son residuos. | A-02, A-16, A-19–A-20. |
-| I-04 / I-05 / I-08 | **Sobredimensionado:** A-10–A-13 y A-23 identifican Loras, Viejo Imrik y sucesión del nombre; A-03 y A-08 enlazan al Imrik actual con episodios. La célula del Viejo no tiene número asignado y las fechas exactas están reservadas. | Conservar atribución y reservas sin crear confusión artificial. |
+| I-04 / I-05 / I-08 | **Resuelto:** A-10–A-13 y A-23 identifican a Loras y al Viejo Imrik; la decisión humana posterior de R-03 identifica la célula del Viejo como la 1378 y fija la secuencia de nombres. La fecha exacta de su muerte queda reservada. | Aplicar R-03 sin volver a plantear pendiente esa secuencia. |
 
 Además, A-03 y A-06 sí sustituyen la estructura pública de la banda en
 `docs/organizaciones/banda-del-colmillo-blanco.md`; esta incompatibilidad de
@@ -220,19 +219,19 @@ nueva decisión; ninguna coincidencia acredita el resto de su párrafo.
 |---|---|
 | R-01 | Grimheim ya está decidido en A-14; A-09 y A-15 fijan Velkhar, Rauven y Valastir. La reserva de esos puntos es errónea. La atribución de una respuesta humana nueva no está verificada. |
 | R-02 | A-10–A-11 no fijaban la relación con la expedición documentada. El humano confirmó posteriormente que los Peregrinos viajaron muchas veces a Stigria durante la existencia de Astria y que la migración de los tres Zorana fue posterior y distinta de aquella expedición. La fecha concreta sigue sin fijarse; véanse las resoluciones posteriores de R-02. |
-| R-03 | La trayectoria del Viejo y el cambio de nombre se apoyan en A-12–A-13; A-03, A-08, A-10 y A-23 permiten atribuir los episodios del Imrik actual a Loras. No hay transcripción independiente de una decisión adicional de R-03. Las fechas exactas no son necesarias para mantener las relaciones ya fijadas. |
-| R-04 | La separación de la línea velada respecto de los siete príncipes no está decidida en A-19–A-20 ni respaldada independientemente. Permanece pendiente la conciliación concreta descrita en A-19. |
+| R-03 | Decisión humana posterior: Loras integró la Célula 1378 con su nombre de nacimiento, bajo el liderazgo del Viejo Imrik. Tras la muerte de este adoptó Imrik Valkyren y luego integró y lideró la Célula 1432. La fecha exacta de la muerte queda reservada. Esta decisión corrige la atribución anterior del nombre Imrik a ambas etapas. |
+| R-04 | Decisión humana posterior: los gemelos originan las ramas de la línea velada y los príncipes; el gemelo llevado a Oriente es el noveno receptáculo y Katerina engendró con él a los príncipes. Véase R-04. |
 | R-05 | A-22 distingue liberaciones y reserva fecha y mecanismos. El humano confirmó posteriormente que la liberación del grupo de Grimheim por el Rey ocurrió después de la campaña de Iulien y del confinamiento; véanse las resoluciones posteriores de R-05. |
 | R-06 | La unión literal y sus circunstancias reservadas ya constan en A-19–A-20. No existe respaldo independiente para una respuesta humana nueva; no es necesario definir mecánica. |
-| R-07 | La ignorancia de la naturaleza de los monarcas se apoya en A-02 y la fe en A-21. R-07 reserva el conocimiento de instruidos de Dragma pese a que A-21 lo afirma para hechos históricos concretos. La atribución de la formulación adicional no está verificada. |
+| R-07 | Decisión humana posterior: se conserva A-21. Para cualquier dracmés alfabetizado con conocimientos históricos son evidentes las falsificaciones de la Revelación, sin que ello implique conocer la naturaleza de los Eternos, el origen de Anuir o los secretos del Rey. Los habitantes de Grimheim creen la historia de sus monarcas. El conocimiento específico de la Stroi queda reservado. Véase R-07 corregida. |
 | R-08 | A-03 dejaba pendiente qué integrantes conocen su pertenencia a Stroi. Una confirmación humana posterior establece que Imrik, Millicent, Cassyan, Dymtrik y Parys lo saben; véase R-08 en las resoluciones posteriores. |
 | R-09 | La precedencia cronológica es una regla metodológica expresamente establecida en `procesos-de-volcamiento/AGENTS.md` y en la solicitud actual; no requiere atribuir una nueva decisión narrativa al humano. |
 
 La ausencia de evidencia independiente no invalida automáticamente todo el
 contenido de R-01–R-08 ni demuestra que el humano no lo haya decidido. Impide
 presentar sus adiciones como decisiones humanas comprobadas. El documento de
-resoluciones conserva el texto anterior como registro histórico bajo una
-advertencia correctiva.
+resoluciones fue ordenado conforme a la acumulación y a las confirmaciones
+posteriores; los hallazgos anteriores se conservan identificados aquí.
 
 ## Cuestiones que sí requieren decisión y reservas
 
@@ -250,20 +249,16 @@ advertencia correctiva.
    liberación del segundo grupo y la influencia residual permanecen reservadas.
    El humano confirmó que esa liberación ocurrió después de la campaña de
    Iulien y del confinamiento del Rey Podrido.
-3. **Atribuciones de la primera ronda de R-04:** si se pretende usar como decisiones
-   nuevas las frases no respaldadas por A-01–A-23, recuperar evidencia humana o
-   someterlas a decisión. Las reservas anteriores siguen en vigor mientras no
-   exista ese respaldo. Las demás atribuciones de R-01–R-08 tampoco se consideran
-   comprobadas por su etiqueta, aunque partes coincidan con la acumulación. El
-   conocimiento de los integrantes de la Célula 1466 fue confirmado después por
-   el humano y consta en R-08. La relación entre la migración de los tres
-   Zorana y la expedición documentada también fue confirmada después en R-02;
-   el orden de las liberaciones fue confirmado después en R-05.
+3. **Casa Cojocaru: pendiente de decisión.** A-11 dice que la casa fue despojada
+   de su posición tras la traición de Armand, mientras `docs/casas/cojocaru.md`
+   la presenta como casa noble de Valastir e identifica a Arys y Cassyan como
+   nacidos Cojocaru. No se ha establecido la relación entre ambas formulaciones;
+   se requiere decidir cómo conciliarlas sin presuponer una solución.
 
 Las fechas precisas, genealogías intermedias, mecánica de la unión de Aesh,
 ritos, fronteras y procedimientos de Forja son reservas de desarrollo, no
-conflictos demostrados. La correspondencia de la primera célula de Loras con
-alguna numerada tampoco está fijada y no se inventa. Las condiciones de salida
+conflictos demostrados. La primera célula de Loras, dirigida por el Viejo Imrik,
+es la 1378 según la decisión posterior de R-03. Las condiciones de salida
 de la primera auditoría que exigían resolver esos detalles quedan retiradas.
 
 **Estado:** revisión correctiva de la auditoría previa y de la atribución de las
