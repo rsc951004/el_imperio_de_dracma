@@ -373,7 +373,7 @@ pendiente de las fases posteriores del proceso.
 
 El personaje actualmente conocido como Imrik nació con el nombre **Loras
 Cojocaru**. Después de la muerte de su protector, el Viejo Colmillo Blanco,
-adoptó el nombre **Imrik** y un apellido nuevo que todavía permanece pendiente.
+adoptó el nombre **Imrik Valkyren**.
 La Mort Tábura lo denominaba **Loras Zorana** por su ascendencia paterna, pero él
 rechazaba ese nombre.
 
@@ -412,7 +412,6 @@ genealógicas concretas entre los distintos descendientes.
 Permanecen sin definir:
 
 - la trayectoria personal de Armand Zorana;
-- las circunstancias en que Loras adoptó el nombre Imrik y el nuevo apellido;
 - las generaciones intermedias del linaje Zorana.
 
 ### A-11. La Mort Tábura, Armand Zorana y los orígenes de Imrik
@@ -496,7 +495,7 @@ Permanecen sin definir:
 - el desarrollo del ataque contra el Consejo y sus consecuencias internas;
 - las circunstancias de la condena y el destino definitivo de Armand;
 - el proceso mediante el cual la Stroi acogió y formó a Loras;
-- las circunstancias en que adoptó el nombre Imrik y el nuevo apellido;
+- las circunstancias en que adoptó el nombre Imrik Valkyren;
 - la manifestación y evolución de sus dos dones.
 
 ### A-12. El Viejo Colmillo Blanco y la verdadera identidad de Loras
@@ -534,7 +533,7 @@ pero él rechazaba ese nombre.
 
 Tras la caída de su familia, fue protegido, criado y entrenado por el Viejo
 Colmillo Blanco. Después de la muerte de su protector, Loras decidió adoptar el
-nombre **Imrik**, acompañado de un nuevo apellido todavía por determinar.
+nombre **Imrik Valkyren**.
 
 #### El origen del nuevo apellido
 
@@ -544,8 +543,8 @@ que utilizaría para esa nueva familia, aunque consideraba que ya era demasiado
 viejo para cumplir aquel sueño.
 
 Tras su muerte, Loras decidió adoptar tanto el nombre Imrik como aquel apellido,
-honrando así la memoria del hombre que lo había criado. El apellido definitivo
-permanece pendiente de elección.
+honrando así la memoria del hombre que lo había criado. El apellido elegido fue
+**Valkyren**.
 
 #### Precisión sobre las identidades
 
@@ -554,7 +553,7 @@ La acumulación distingue siempre entre:
 - **Imrik, el Viejo Colmillo Blanco:** guerrero veterano de la Stroi, bastardo
   de la Casa Cojocaru y protector de Loras;
 - **Loras Cojocaru:** hijo de Armand Zorana y Dhalma Cojocaru, posteriormente
-  conocido como Imrik, con un nuevo apellido todavía pendiente.
+  conocido como **Imrik Valkyren**.
 
 Los acontecimientos de uno no se atribuyen al otro. Las referencias anteriores
 que usen únicamente «Imrik» deberán conservar esta distinción y no permiten por
@@ -566,14 +565,48 @@ Permanecen sin definir:
 
 - el parentesco exacto entre el Viejo Imrik y Loras;
 - las circunstancias de la muerte del Viejo Imrik;
-- el apellido definitivo que adoptará Loras;
-- las circunstancias en que Loras adoptó el nombre Imrik;
+- las circunstancias exactas en que Loras adoptó el nombre Imrik Valkyren;
 - la manifestación y evolución de los dones de Loras.
 
-## Propuestas no canónicas de apellido
+### A-13. Imrik Valkyren y el reconocimiento de la Casa Valkyren
 
-Estas alternativas se presentan únicamente para decisión humana posterior. No
-se elige ninguna, no se asignan a Loras y no se incorporan al canon.
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+El apellido **Valkyren** fue concebido por el Viejo Imrik en honor a **Valkyr,
+el Jotten conocido como la Montaña Negra**, como nombre de la casa que soñaba
+fundar.
+
+Loras adopta el apellido junto con el nombre Imrik para honrar al hombre que lo
+crio y continuar simbólicamente su sueño.
+
+**Valkyren** no es un apellido heredado por sangre, sino elegido en memoria del
+Viejo Colmillo Blanco.
+
+#### La Casa Valkyren
+
+Con el tiempo, la **Casa Valkyren** sería reconocida en Valastir por su reina y
+sus miembros. Entre los integrantes reconocidos de esta casa se cuentan:
+
+- **Imrik Valkyren**, anteriormente Loras Cojocaru;
+- **Millicent «Mili» Rosamund**.
+
+El reconocimiento de la Casa Valkyren honra también la memoria del Viejo
+Colmillo Blanco, cuyo deseo de fundar una casa encuentra continuidad a través de
+Imrik.
+
+Las circunstancias, la fecha y las condiciones de este reconocimiento
+permanecen sin desarrollar.
+
+El Viejo Colmillo Blanco conserva el nombre **Imrik**, sin el apellido Valkyren.
+**Imrik Valkyren** es la identidad definitiva adoptada por Loras. Millicent
+conserva su nombre **Millicent Rosamund**. El reconocimiento futuro de la Casa
+Valkyren no implica cambiar los apellidos de sus integrantes.
+
+## Propuestas no elegidas de apellido
+
+Estas alternativas fueron consideradas antes de la elección de **Valkyren**. No
+se asignan a Loras ni se incorporan al canon.
 
 La guía de Valastir combina sonoridades sangheskias, del Hierro, del Verano y de
 la Bruma; admite grupos moderados como `sk`, `rd`, `ld` y `rk`, y sufijos como
@@ -611,7 +644,7 @@ monarcas actúen coordinadamente o reconozcan una autoridad común.
 ### N-02. Tábura Stroi
 
 **Estado:** decisión humana de alto nivel incorporada mediante A-01 y A-04 a
-A-12; no es canon.
+A-13; no es canon.
 
 Se fija que es una sociedad secreta, integrada por hombres y mujeres entre los
 que hay Portadores e Invocadores, organizada en células clandestinas aisladas,
@@ -691,8 +724,7 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 - ¿Cuál fue la trayectoria personal de Armand Zorana?
 - ¿Cuál es el parentesco exacto entre el Viejo Imrik y Loras?
 - ¿En qué circunstancias murió el Viejo Imrik?
-- ¿Cuál es el apellido definitivo que adoptará Loras?
-- ¿En qué circunstancias adoptó Loras el nombre Imrik y el nuevo apellido?
+- ¿En qué circunstancias exactas adoptó Loras el nombre Imrik Valkyren?
 - ¿Cuáles fueron las circunstancias exactas de la infiltración de Armand en la
   corte de Valastir?
 - ¿Cómo ascendió Armand hasta el rango de Custodio?
@@ -705,6 +737,8 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 - ¿Cómo se manifestaron y evolucionaron sus dos dones?
 - ¿Cuáles son las generaciones intermedias del linaje Zorana y sus relaciones
   genealógicas concretas?
+- ¿Cuáles son las circunstancias, la fecha y las condiciones del reconocimiento
+  de la Casa Valkyren en Valastir?
 - ¿Cuál es la identidad individual de cada uno de los Siete Monarcas de la
   Sombra o Siete Príncipes Podridos?
 - ¿Cómo se distribuyen entre seres poseídos por el Rey Podrido, Grimm y el
@@ -720,7 +754,7 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 
 ## Aportaciones humanas incorporadas
 
-Las decisiones humanas A-01 a A-12 quedaron registradas en la sección
+Las decisiones humanas A-01 a A-13 quedaron registradas en la sección
 «Decisiones humanas acumuladas». Las futuras aportaciones se incorporarán en
 secciones separadas y se clasificarán como decisiones, propuestas o asuntos
 pendientes.
