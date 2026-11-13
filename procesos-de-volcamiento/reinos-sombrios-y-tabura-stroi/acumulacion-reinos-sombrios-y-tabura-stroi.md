@@ -121,6 +121,33 @@ a deducir que Stroi sea una rama, rival, antecedente, sucesora o aliada.
 
 ## Decisiones humanas acumuladas
 
+### A-00. Nueva denominación de la macrorregión oriental
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+La macrorregión oriental de Stigria, denominada **el Grimmen** en los
+antecedentes canónicos, pasa a llamarse **Drauvhen** dentro de las decisiones de
+este proceso.
+
+Por tanto, la división geográfica de Stigria queda formulada así para esta
+acumulación:
+
+- **El Gherin:** macrorregión occidental.
+- **El Drauvhen:** macrorregión oriental, que comprende Rauven y Grimheim.
+
+El cambio afecta exclusivamente a la denominación de la macrorregión. Se
+conservan su geografía, historia, divisiones territoriales y demás características
+previamente establecidas. **Rauven y Grimheim siguen siendo territorios
+distintos dentro de Drauvhen**; Drauvhen no sustituye ni renombra ninguno de los
+dos.
+
+Esta decisión no modifica todavía los archivos canónicos. En consecuencia,
+`docs/mundo/stigria/grimmen.md` y las demás referencias de `docs/` conservan por
+ahora la denominación canónica anterior. La sustitución sistemática de
+«Grimmen» por «Drauvhen» queda reservada para un eventual plan de volcamiento
+autorizado.
+
 ### A-01. Naturaleza, propósito y organización de la Stroi Tábura
 
 **Estado:** decisión humana incorporada a la acumulación; no es canon y queda
@@ -140,8 +167,8 @@ organización.
 Existen células itinerantes y otras establecidas en territorios fijos con
 tareas específicas.
 
-La Stroi Tábura opera en todos los reinos de Rauven, pero concentra gran parte
-de sus actividades fuera de Valastir.
+La Stroi Tábura opera en Rauven y en los siete reinos de Grimheim, pero concentra
+gran parte de sus actividades fuera de Valastir.
 
 Para cumplir su propósito, sus integrantes han jurado **derrocar a los Siete
 Monarcas de la Sombra**.
@@ -170,8 +197,8 @@ alternativa de los siete monarcas quedan registradas en A-02.
 
 ### A-02. Los Siete Monarcas de la Sombra o Siete Príncipes Podridos
 
-**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
-pendiente de las fases posteriores del proceso.
+**Estado:** decisión humana incorporada a la acumulación; su denominación
+geográfica queda sustituida por A-15; no es canon.
 
 Los **Siete Monarcas de la Sombra**, también conocidos como los **Siete
 Príncipes Podridos**, son siete seres que constituyen el principal objetivo de la
@@ -190,7 +217,7 @@ esta decisión.
 #### Los Siete Reinos Sombríos
 
 Los Siete Monarcas de la Sombra gobiernan **siete reinos independientes**,
-situados en Rauven. Estos siete reinos constituyen los denominados **Reinos
+situados en Grimheim, dentro de Velkhar. Estos siete reinos constituyen los denominados **Reinos
 Sombríos**.
 
 Cada monarca gobierna su propio reino. Todavía no se han definido los nombres,
@@ -355,14 +382,20 @@ Aceptó continuar únicamente con la condición de que le permitieran abandonar 
 sur de Rauven. Posteriormente quedó al mando de la Célula 1466, conocida
 públicamente como la Banda del Colmillo Blanco.
 
-### A-09. Distribución del peligro en Rauven
+### A-09. Distribución geográfica de Valastir y los Siete Reinos Podridos
 
 **Estado:** decisión humana incorporada a la acumulación; no es canon y queda
 pendiente de las fases posteriores del proceso.
 
-**Valastir se encuentra en el norte de Rauven.** Los Reinos Sombríos se vuelven
-progresivamente más terribles conforme se avanza hacia el sur y aumenta la
-distancia respecto de Valastir.
+**Velkhar comprende dos regiones geográficas:**
+
+- **Rauven:** región donde se encuentra el reino independiente de **Valastir**.
+- **Grimheim:** región donde se encuentran los **Siete Reinos Podridos**,
+  gobernados por los Siete Monarcas de la Sombra.
+
+Esta decisión sustituye la ubicación anterior de los Siete Reinos Podridos en
+Rauven por **Grimheim**. Rauven y Grimheim siguen siendo regiones distintas de
+Velkhar.
 
 ### A-10. Identidad y ascendencia de Imrik
 
@@ -628,6 +661,47 @@ a **Imrik**:
 10. **Zelvoryk** — inicio distintivo y cierre `-yk`, de sonoridad seca y
     valastiriana.
 
+### A-14. Corrección de la ubicación de los Reinos Sombríos
+
+**Estado:** decisión humana incorporada a la acumulación; su denominación
+geográfica queda sustituida por A-15; no es canon.
+
+La ubicación de los Siete Reinos Sombríos, también llamados Siete Reinos
+Podridos, queda fijada en **Grimheim**, no en Rauven. Los siete reinos son
+independientes entre sí y están gobernados, uno por uno, por los Siete Monarcas
+de la Sombra.
+
+**Valastir** permanece en **Rauven** como reino independiente. Rauven y
+Grimheim son las dos regiones geográficas de **Velkhar**.
+
+Esta corrección sustituye toda formulación anterior de esta acumulación que
+ubicara los Siete Reinos Sombríos o Siete Reinos Podridos en Rauven. No modifica
+todavía ningún archivo canónico.
+
+### A-15. Nueva denominación de la macrorregión oriental
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+La macrorregión oriental de Stigria pasa a denominarse **Velkhar**, sustituyendo
+las denominaciones anteriores **Grimmen** y **Drauvhen**.
+
+La división geográfica de Stigria queda formulada así:
+
+- **Gherin:** macrorregión occidental.
+- **Velkhar:** macrorregión oriental.
+
+Velkhar comprende **Rauven**, donde se encuentra el reino independiente de
+**Valastir**, y **Grimheim**, donde se ubican los **Siete Reinos Podridos**.
+
+El cambio afecta exclusivamente a la denominación de la macrorregión. Se
+conservan la geografía, la historia, las divisiones territoriales y los demás
+antecedentes establecidos. Rauven y Grimheim siguen siendo regiones distintas.
+
+Esta decisión sustituye las formulaciones A-00 y A-14 en lo relativo al nombre
+de la macrorregión. No modifica todavía ningún archivo canónico; las referencias
+de `docs/` conservan por ahora la denominación **Grimmen**.
+
 ## Estado de los nombres del proceso
 
 ### N-01. Los Reinos Sombríos
@@ -635,7 +709,8 @@ a **Imrik**:
 **Estado:** decisión humana de alto nivel incorporada mediante A-02; no es
 canon.
 
-Los Reinos Sombríos son los siete reinos independientes situados en Rauven y
+Los Reinos Sombríos son los siete reinos independientes situados en Grimheim,
+región de Velkhar, y
 gobernados, uno por uno, por los Siete Monarcas de la Sombra. Sus nombres,
 territorios, sistemas de gobierno y relaciones políticas permanecen sin definir.
 No forman por decisión acumulada una unidad política ni se presupone que sus
@@ -649,8 +724,8 @@ A-13; no es canon.
 Se fija que es una sociedad secreta, integrada por hombres y mujeres entre los
 que hay Portadores e Invocadores, organizada en células clandestinas aisladas,
 incluidas células itinerantes y células establecidas en territorios fijos con
-tareas específicas, activa en todos los reinos de Rauven y especialmente fuera
-de Valastir, y
+tareas específicas, activa en Rauven y en los Siete Reinos Podridos de Grimheim,
+especialmente fuera de Valastir, y
 comprometida con el derrocamiento de los Siete Monarcas de la Sombra. La mayoría
 de sus miembros se encuentra diseminada por los Siete Reinos Sombríos, desde
 donde conspira, espía y desarrolla acciones de contención y preparación para la
@@ -693,7 +768,7 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 
 - ¿Cuáles son los nombres y las características de los siete Reinos Sombríos?
 - ¿Cuáles son sus territorios y sistemas de gobierno?
-- ¿Qué relación, si alguna, tienen con Rauven, Valastir, el Grimmen, los Grimm,
+- ¿Qué relación, si alguna, tienen con Rauven, Valastir, Velkhar, los Grimm,
   el Reino Podrido o Dragma?
 - ¿Qué significa o de dónde procede «Stroi»?
 - ¿Cuál es la fundación, historia, duración y estatus de la Stroi Tábura, y qué
