@@ -702,6 +702,34 @@ Esta decisión sustituye las formulaciones A-00 y A-14 en lo relativo al nombre
 de la macrorregión. No modifica todavía ningún archivo canónico; las referencias
 de `docs/` conservan por ahora la denominación **Grimmen**.
 
+### A-16. Nombres de los Siete Reinos Sombríos
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+Quedan establecidos los nombres de los siete reinos independientes situados en
+**Grimheim**, dentro de **Velkhar**. También se denominan **Siete Reinos
+Podridos**:
+
+1. **Strygoria**
+2. **Upyria**
+3. **Kymoria**
+4. **Naskeria**
+5. **Vilkorath**
+6. **Veskarna**
+7. **Morysk**
+
+Las inspiraciones nominales son, respectivamente, **strigoi**, **upir**,
+**kikimora**, **nachzehrer**, **vilkacis**, **veshtitsa** y **mara**. Estas
+referencias son convenciones externas de creación de nombres: no implican que
+esas criaturas existan en el universo de Dracma ni determinan la naturaleza de
+los monarcas.
+
+Cada reino está gobernado por uno de los **Siete Monarcas de la Sombra**, también
+llamados **Siete Príncipes Podridos**. Permanecen sin definir las identidades de
+los monarcas, la distribución geográfica individual de los reinos, sus
+características, su historia y sus relaciones políticas.
+
 ## Estado de los nombres del proceso
 
 ### N-01. Los Reinos Sombríos
@@ -710,9 +738,10 @@ de `docs/` conservan por ahora la denominación **Grimmen**.
 canon.
 
 Los Reinos Sombríos son los siete reinos independientes situados en Grimheim,
-región de Velkhar, y
+región de Velkhar, y reciben los nombres fijados en A-16. Están
 gobernados, uno por uno, por los Siete Monarcas de la Sombra. Sus nombres,
-territorios, sistemas de gobierno y relaciones políticas permanecen sin definir.
+características, territorios, sistemas de gobierno, historia y relaciones
+políticas permanecen sin definir.
 No forman por decisión acumulada una unidad política ni se presupone que sus
 monarcas actúen coordinadamente o reconozcan una autoridad común.
 
@@ -766,7 +795,7 @@ Estas propuestas organizan el trabajo y no añaden lore:
 
 Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 
-- ¿Cuáles son los nombres y las características de los siete Reinos Sombríos?
+- ¿Cuáles son las características de los siete Reinos Sombríos?
 - ¿Cuáles son sus territorios y sistemas de gobierno?
 - ¿Qué relación, si alguna, tienen con Rauven, Valastir, Velkhar, los Grimm,
   el Reino Podrido o Dragma?
