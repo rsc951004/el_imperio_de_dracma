@@ -236,10 +236,7 @@ sobrenatural de los monarcas permanece oculta tras una apariencia humana.
 
 Quedan pendientes:
 
-- los nombres y características de los siete reinos;
-- la identidad individual de los siete monarcas;
-- la identidad del príncipe unido al Möbius y las circunstancias de esa unión;
-- la identidad de los dos Grimm que sustituyeron a los príncipes caídos;
+- las circunstancias de la unión de Aesh Vulkresk con el Möbius;
 - la identidad y el destino del noveno receptáculo como individuo;
 - cuál de los monarcas, si alguno, posee actualmente la corona negra de Grimar;
 - las razones y mecanismos por los que mantienen oculta su verdadera naturaleza;
@@ -750,8 +747,8 @@ Cada casa constituye la dinastía gobernante de su respectivo reino y está
 vinculada a uno de los **Siete Monarcas de la Sombra**, también llamados
 **Siete Príncipes Podridos**.
 
-Permanecen sin definir los nombres individuales de los monarcas, la antigüedad
-de las casas, sus fundadores, genealogías, sucesiones e historias particulares.
+Permanecen sin definir la antigüedad de las casas, sus fundadores, genealogías,
+sucesiones e historias particulares.
 
 ### A-18. El Bosque Negro y la distribución geográfica de los Reinos Sombríos
 
@@ -839,14 +836,164 @@ Monarcas de la Sombra.
 
 Permanecen sin definir:
 
-- los nombres individuales de los siete monarcas;
-- qué reino gobierna cada uno;
 - cuáles fueron los dos príncipes asesinados por la Stroi Tábura;
-- la identidad de los dos Grimm que los reemplazaron;
-- la identidad del príncipe unido al Möbius y las circunstancias de esa unión;
+- las circunstancias de la unión de Aesh Vulkresk con el Möbius;
 - las circunstancias de la desaparición de Katerina y del Rey Podrido;
 - la identidad y el destino del noveno receptáculo como individuo;
 - cuál de los monarcas, si alguno, posee actualmente la corona negra de Grimar.
+
+### A-20. Identidad de los Siete Monarcas de la Sombra
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+Los nombres definitivos de los siete monarcas, ordenados de norte a sur, son:
+
+| Reino | Monarca | Casa real |
+|---|---|---|
+| **Naskeria** | **Akhor Nährvald** | Nährvald |
+| **Veskarna** | **Arhûn Zorveth** | Zorveth |
+| **Morysk** | **Vazek Malkorin** | Malkorin |
+| **Upyria** | **Nasyr Drazek** | Drazek |
+| **Kymoria** | **Vizar Morvaska** | Morvaska |
+| **Strygoria** | **Astor Vârdescu** | Vârdescu |
+| **Vilkorath** | **Aesh Vulkresk** | Vulkresk |
+
+#### Naturaleza y jerarquía
+
+**Akhor Nährvald** y **Arhûn Zorveth** son los dos Grimm superiores nacidos de
+Katerina que reemplazaron a los príncipes originales asesinados por la Stroi
+Tábura. Son considerados los hermanos menores de los demás monarcas.
+
+**Vazek Malkorin**, **Nasyr Drazek**, **Vizar Morvaska** y **Astor Vârdescu**
+son cuatro de los Siete Príncipes Podridos originales, hijos de Katerina y del
+noveno receptáculo del Rey Podrido. Se encuentran ordenados del más joven al más
+viejo, y cada uno es más poderoso que el anterior.
+
+**Aesh Vulkresk** es el quinto príncipe original superviviente, unido a un
+Möbius. Gobierna Vilkorath, el reino más meridional de los siete.
+
+#### Inspiración de los nombres
+
+Los nombres personales se inspiran libremente en figuras de la demonología
+zoroástrica. Estas referencias son exclusivamente inspiraciones externas para
+la creación de nombres: no implican que las figuras religiosas originales
+existan dentro del universo de Dracma ni atribuyen sus características a los
+monarcas.
+
+| Monarca | Inspiración |
+|---|---|
+| Akhor | Akoman |
+| Arhûn | Ahriman |
+| Vazek | Vazak |
+| Nasyr | Nasu |
+| Vizar | Vizaresha |
+| Astor | Asto Vidatu |
+| Aesh | Aeshma |
+
+Permanecen sin definir las personalidades, los poderes específicos, las
+historias individuales y las circunstancias en que asumieron sus respectivos
+tronos.
+
+### A-21. Los Siete Eternos y la Revelación de los Siete
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+#### Los Siete Eternos
+
+En Grimheim, los Siete Monarcas de la Sombra son conocidos públicamente como
+**los Siete Eternos**.
+
+Sus súbditos no conocen su verdadera naturaleza ni los consideran monstruos.
+Según la religión de los reinos, los Siete Eternos son hijos de **Anuir**,
+hermano de Ghera. Son semidioses inmortales que gobiernan desde el inicio de los
+tiempos.
+
+Su misión divina consiste en purgar a la humanidad de su individualidad, el
+sufrimiento, la guerra, el hambre y la muerte.
+
+#### La Revelación de los Siete
+
+La religión dominante de los siete reinos recibe el nombre de **Revelación de
+los Siete**.
+
+Sus seguidores consideran que:
+
+- Anuir expulsó a los antiguos gheran hacia occidente por ser criaturas viles
+  que adoraban la magia impía de los Inits;
+- los valastirianos son invasores paganos;
+- Valastir representa una sociedad profundamente corrupta;
+- Dragma es una civilización todavía más abominable;
+- los Siete Eternos poseen autoridad divina sobre sus pueblos.
+
+#### El verdadero origen de Anuir
+
+**Anuir es una divinidad completamente inventada por los Siete Eternos.** No
+procede de ninguna tradición antigua de Stigria.
+
+Los monarcas crearon su figura y la presentaron como hermano de Ghera para
+vincular su religión con la cosmovisión tradicional del continente.
+
+La Revelación de los Siete constituye una falsificación deliberada de la
+historia. Sus afirmaciones contradicen hechos históricos conocidos por los
+habitantes instruidos de Dragma:
+
+- los antiguos gheran occidentales desconocían las artes místicas hasta la
+  llegada de los sangheskios y, posteriormente, de los astrianos y erebianos;
+- los Siete Reinos Sombríos fueron fundados después del nacimiento del Imperio
+  de Dragma;
+- los Siete Eternos no gobiernan desde el inicio de los tiempos.
+
+#### La situación de los habitantes de Grimheim
+
+Los habitantes de los Siete Reinos Sombríos siguen fervorosamente la Revelación
+de los Siete. En la práctica, son prisioneros de sus propios reinos.
+
+No existe disidencia ni circulación de versiones alternativas de la historia.
+Para sus habitantes, el mundo siempre ha sido como sus monarcas les han
+enseñado. La autoridad de los Siete Eternos determina aquello que sus súbditos
+consideran verdadero.
+
+La fe de la población es genuina, aunque los fundamentos de su religión sean
+falsos.
+
+#### La prohibición del misticismo
+
+Las artes místicas están completamente prohibidas en los Siete Reinos
+Sombríos. Los linajes con herencia mística fueron perseguidos y diezmados
+sistemáticamente.
+
+En la época de Imrik, la herencia mística entre los habitantes de Grimheim se
+considera extinguida. Es casi seguro que los únicos practicantes de artes
+místicas presentes en esos territorios sean los infiltrados de la Stroi Tábura.
+
+#### El verdadero propósito de la persecución
+
+La prohibición del misticismo responde al temor de los Siete Eternos hacia los
+dones capaces de amenazarlos. Entre los dones especialmente peligrosos para
+ellos se encuentran:
+
+- **Fuego Solar:** presente en la Casa Therin y particularmente temido por los
+  monarcas;
+- **Don Sombrío:** permite controlar Möbius, como ocurre con Imrik;
+- **Forja:** posee posibilidades de transformación y creación extraordinariamente
+  diversas.
+
+Los Siete Eternos crearon la religión de Anuir para justificar la persecución y
+eliminación de los linajes místicos, presentándola como un deber religioso. De
+este modo, la Revelación de los Siete cumple una doble función: legitimar el
+dominio de los monarcas y eliminar a quienes podrían amenazar su poder.
+
+#### Aspectos reservados
+
+Permanecen sin definir:
+
+- los ritos y ceremonias de la Revelación de los Siete;
+- su organización sacerdotal y sus instituciones religiosas;
+- las prácticas concretas de persecución del misticismo;
+- los mecanismos de vigilancia y control de la población;
+- las particularidades religiosas y culturales de cada reino.
 
 ## Estado de los nombres del proceso
 
@@ -857,18 +1004,18 @@ canon.
 
 Los Reinos Sombríos son los siete reinos independientes situados en Grimheim,
 región de Velkhar, y reciben los nombres fijados en A-16. Están gobernados, uno
-por uno, por los Siete Monarcas de la Sombra y sus casas reales son las fijadas
-en A-17. Su orden geográfico general de norte a sur queda fijado en A-18. Los
-nombres individuales de los monarcas, las características, las fronteras,
-superficies, distancias, sistemas de gobierno, historia y relaciones políticas
-permanecen sin definir.
+por uno, por los Siete Monarcas de la Sombra, cuyas identidades, casas reales y
+naturalezas quedan fijadas en A-17 y A-20. Su orden geográfico general de norte a
+sur queda fijado en A-18. Sus características, fronteras, superficies,
+distancias, sistemas de gobierno, historia y relaciones políticas permanecen sin
+definir.
 No forman por decisión acumulada una unidad política ni se presupone que sus
 monarcas actúen coordinadamente o reconozcan una autoridad común.
 
 ### N-02. Tábura Stroi
 
 **Estado:** decisión humana de alto nivel incorporada mediante A-01 y A-04 a
-A-19; no es canon.
+A-21; no es canon.
 
 Se fija que es una sociedad secreta, integrada por hombres y mujeres entre los
 que hay Portadores e Invocadores, organizada en células clandestinas aisladas,
@@ -963,16 +1110,20 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
   genealógicas concretas?
 - ¿Cuáles son las circunstancias, la fecha y las condiciones del reconocimiento
   de la Casa Valkyren en Valastir?
-- ¿Cuál es la identidad individual de cada uno de los Siete Monarcas de la
-  Sombra o Siete Príncipes Podridos?
 - ¿Cuáles fueron los dos príncipes asesinados por la Stroi Tábura?
-- ¿Cuál es la identidad de los dos Grimm hijos de Katerina que los reemplazaron?
-- ¿Cuál es la identidad del príncipe unido al Möbius y cuáles fueron las
-  circunstancias de esa unión?
+- ¿Cuáles fueron las circunstancias de la unión de Aesh Vulkresk con el Möbius?
 - ¿Cuáles fueron las circunstancias de la desaparición de Katerina y del Rey
   Podrido?
 - ¿Cuál es la identidad y el destino del noveno receptáculo como individuo?
 - ¿Cuál de los monarcas, si alguno, posee actualmente la corona negra de Grimar?
+- ¿Cuáles son las personalidades, los poderes específicos y las historias
+  individuales de los siete monarcas?
+- ¿En qué circunstancias asumieron sus respectivos tronos?
+- ¿Cuáles son los ritos y ceremonias de la Revelación de los Siete?
+- ¿Cómo se organiza su sacerdocio y cuáles son sus instituciones religiosas?
+- ¿Cuáles son las prácticas concretas de persecución del misticismo?
+- ¿Qué mecanismos de vigilancia y control de la población existen?
+- ¿Cuáles son las particularidades religiosas y culturales de cada reino?
 - ¿Qué razones y mecanismos permiten a los monarcas ocultar su verdadera
   naturaleza?
 - ¿Qué relaciones políticas existen entre los siete reinos?
@@ -983,7 +1134,7 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 
 ## Aportaciones humanas incorporadas
 
-Las decisiones humanas A-01 a A-19 quedaron registradas en la sección
+Las decisiones humanas A-01 a A-21 quedaron registradas en la sección
 «Decisiones humanas acumuladas». Las futuras aportaciones se incorporarán en
 secciones separadas y se clasificarán como decisiones, propuestas o asuntos
 pendientes.
