@@ -79,6 +79,15 @@ siete reinos en `docs/mundo/stigria/` y de sus casas en `docs/casas/`, con
 rutas basadas en sus nombres. La ficha general de los reinos y las fichas
 individuales deben enlazarse sin duplicar información.
 
+Rutas propuestas para crear: `docs/personajes/akhor-nahrvald.md`,
+`docs/personajes/arhun-zorveth.md`, `docs/personajes/vazek-malkorin.md`,
+`docs/personajes/nasyr-drazek.md`, `docs/personajes/vizar-morvaska.md`,
+`docs/personajes/astor-vardescu.md`, `docs/personajes/aesh-vulkresk.md`;
+`docs/mundo/stigria/naskeria.md`, `veskarna.md`, `morysk.md`, `upyria.md`,
+`kymoria.md`, `strygoria.md`, `vilkorath.md` en la misma carpeta;
+`docs/casas/nahrvald.md`, `zorveth.md`, `malkorin.md`, `drazek.md`,
+`morvaska.md`, `vardescu.md`, `vulkresk.md` en la carpeta `docs/casas/`.
+
 Modificar `docs/personajes/katerina.md`, `docs/personajes/grimar-valgard.md`,
 `docs/personajes/rey-podrido.md`, `docs/casas/valgard.md`,
 `docs/mundo/stigria/edad-de-la-tirania.md`, `docs/mundo/stigria/roshdom.md`,
@@ -127,6 +136,16 @@ caída de Dragomir. Revisar `docs/personajes/cerbero.md`,
 relaciones y secretos existentes. Crear el registro de Valkyr en
 `docs/entidades/` y revisar `docs/entidades/joten.md` y `docs/entidades.md`,
 limitándose a su nombre, condición y apelativo aprobados.
+
+Rutas de creación propuestas: `docs/personajes/armand-zorana.md`,
+`docs/personajes/dhalma-dragomir.md`, `docs/personajes/pelhia.md`,
+`docs/personajes/rhuan.md`, `docs/personajes/viejo-imrik.md`,
+`docs/personajes/historicos/verna-zorana.md`,
+`docs/personajes/historicos/elio-zorana.md`,
+`docs/personajes/historicos/narissa-zorana.md`,
+`docs/personajes/historicos/dante-zorana.md` y `docs/entidades/valkyr.md`.
+Los nombres de archivo de Pelhia y Rhuan son identificadores provisionales de
+planificación; no establecen sus apellidos, que no se han decidido.
 
 Depende de la estructura de células y nombres del bloque 3. No convertir el
 reconocimiento futuro de Valkyren en un hecho anterior a su fecha no definida.
