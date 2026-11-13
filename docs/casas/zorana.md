@@ -18,6 +18,12 @@ Calris desarrolló una variante verde del fuego capaz de destruir materia y
 alma; algunos de sus descendientes pueden manifestarla. Sirene pertenecía a la
 rama de Viel y su esposo a la de Garken por vía materna.
 
+Verna Zorana fue sacerdote de Thalmos en Astria. Sus hijos Elio, Narissa y
+Dante viajaron a Stigria como Peregrinos Negros y fundaron la Mort Tábura. Sus
+descendientes establecieron uniones entre las ramas durante generaciones e
+incorporaron periódicamente personas ajenas al linaje. Armand Zorana y su hijo
+Loras descienden de los tres hermanos; Armand desciende directamente de Elio.
+
 ## Referencias
 
 - `docs/personajes/historicos/sirene-zorana.md`

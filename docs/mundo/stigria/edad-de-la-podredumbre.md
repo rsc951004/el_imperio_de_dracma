@@ -92,7 +92,7 @@ posteriormente llamada **Foso de la Calamidad**. También derrumbó por completo
 el conducto sumergido del Rost bajo Stömur.
 
 El Rost dejó de alimentar el río que separaba Rauven de Grimheim. El cauce se
-secó y ambos territorios quedaron unidos, mientras el Grimmen en su conjunto
+secó y ambos territorios quedaron unidos, mientras Velkhar en su conjunto
 quedó aislado del Gherin.
 
 El confinamiento del Rey Podrido en Rauven, en el año **-224**, puso fin a la

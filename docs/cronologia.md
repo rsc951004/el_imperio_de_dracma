@@ -41,7 +41,7 @@ números positivos:
 | **Año -211** | Ante el incumplimiento de Frosthain, Iulien funda Esteria junto al Foso y dirige la limpieza del norte. |
 | **Año -204** | La guerra de Unland revela la intervención de los Emisarios de la Ruina. Iulien vuelve a combatir junto a Rudgar. |
 | **Año -203** | Rudgar proclama a los Sangre de Hierro Carmesí y crea la Guardia del Norte para la Marcha Carmesí. Reconoce a Iulien como señor y Guardián del Paso del Oriente. |
-| **Año -193** | Iulien entra en Rauven con Guardianes de Esteria, libera Roshdom y confina al Rey Podrido en las profundidades del Grimmen. La campaña origina Valastir. |
+| **Año -193** | Iulien entra en Rauven con Guardianes de Esteria, libera Roshdom y confina al Rey Podrido en las profundidades de Velkhar. La campaña origina Valastir. |
 | **Año -173** | Rudgar recibe su primera coronación en Eldengard, ante los doce señores de Dominio, tras la unificación del Raikim. |
 | **Año -163** | Muere Rudgar. Termina la **Edad de Plata**. |
 | **Año -163** | Comienza la **Edad de la Tiranía** con la sucesión de Drakar Valgard, segundo Raik. La edad comprende los dieciséis Raiks posteriores a Rudgar, hasta Grimar. |

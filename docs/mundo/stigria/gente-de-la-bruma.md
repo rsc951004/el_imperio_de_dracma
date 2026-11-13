@@ -18,7 +18,7 @@ sur de Stömur y entraron en Unland por **el Fenn**, un pequeño fiordo situado
 al este del Riss. Llevaban pocas pertenencias, entre ellas semillas de Ravun.
 Esperaban encontrar en el Gherin horrores mayores que los Grimm de Grimheim,
 pero descubrieron que las criaturas occidentales no se comparaban con la amenaza
-que conocían en el Grimmen.
+que conocían en Velkhar.
 
 La **Bruma** es un manto de ocultamiento originado por un jotun incorpóreo que
 siguió a los Sokunar hasta el Gherin. No impide por sí misma el paso de los
@@ -30,7 +30,7 @@ La tradición sokunar cuenta que **Sokun**, la bestia de la Bruma, persiguió a
 su pueblo hasta que un joven llamado **Ymir** ofreció su cuerpo para calmarla.
 Desde entonces, Sokun habría protegido a los Sokunar. La misma tradición
 atribuye a Ymir una maldición: al occidente de Stömur hallarían un horror mayor
-que los Grimm y, si abandonaban las costas del Grimmen, serían consumidos y
+que los Grimm y, si abandonaban las costas de Velkhar, serían consumidos y
 doblegados por una bestia de metal.
 
 Algunos Sokunar entienden esa bestia como el Raikim y la esclavitud bajo los
@@ -72,7 +72,7 @@ conscientes de su entorno y poseen ese instinto. Bajo la influencia del Rey
 Podrido, parecían ignorarlo y cruzaban la Bruma incluso cuando ello los llevaba
 a la muerte; la naturaleza y el alcance de aquella influencia son inciertos.
 
-La concentración de Grimm en el Grimmen era mucho mayor que en el Gherin: las
+La concentración de Grimm en Velkhar era mucho mayor que en el Gherin: las
 criaturas ocupaban un espacio mucho menor y constituían una amenaza superior
 para los Sokunar de Grimheim.
 

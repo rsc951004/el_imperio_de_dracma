@@ -4,7 +4,7 @@
 
 Entidad soberana del Reino Podrido. La campaña de Rudgar e Iulien lo confinó
 inicialmente en Rauven; Iulien lo confinó después en las profundidades del
-Grimmen tras liberar Roshdom.
+Velkhar tras liberar Roshdom.
 
 ## Origen secreto
 
@@ -90,12 +90,19 @@ miles de voces humanas. La causa de este fenómeno no está establecida.
 
 En el año **-224**, Rudgar, Iulien y sus aliados
 lo hirieron y obligaron a retroceder hasta Rauven. La apertura del Foso de la
-Calamidad y el derrumbe del conducto del Rost aislaron el Grimmen del Gherin.
+Calamidad y el derrumbe del conducto del Rost aislaron Velkhar del Gherin.
 
 En el año **-193**, Iulien y los Guardianes de Esteria entraron en Rauven,
-liberaron Roshdom y confinaron al Rey Podrido en las profundidades del Grimmen.
+liberaron Roshdom y confinaron al Rey Podrido en las profundidades de Velkhar.
 Desde entonces su presencia no volvió a percibirse cerca del Paso del Oriente y
 los Grimm disminuyeron en número.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: los habitantes de los Siete Reinos Sombríos -->
+Después del confinamiento, el Rey liberó a los antiguos poseídos que mantenía
+cautivos en Grimheim. Recuperaron su voluntad y permanecieron susceptibles a su
+influencia. Sus descendientes constituyen la mayor parte de la población de los
+Siete Reinos Sombríos.
+<!-- CANON-VELADO: FIN -->
 
 ## Referencias
 

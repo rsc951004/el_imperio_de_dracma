@@ -15,7 +15,7 @@ mundo/
     ├── edad-de-plata.md
     ├── edad-de-la-tirania.md
     ├── gherin.md
-    ├── grimmen.md
+    ├── velkhar.md
     ├── stomur.md
     ├── valgard.md
     └── dragma/
@@ -33,7 +33,7 @@ mundo/
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Stigria | Continente | Continente del invierno, dividido entre el Gherin y el Grimmen por Stömur. Hogar del Imperio de Dragma. | [Ver ficha](mundo/stigria/stigria.md) |
+| Stigria | Continente | Continente del invierno, dividido entre el Gherin y Velkhar por Stömur. Hogar del Imperio de Dragma. | [Ver ficha](mundo/stigria/stigria.md) |
 | Erebia | Continente | Tierra de origen de los primeros Portadores. Su historia remota se conserva de forma fragmentaria. | [Ver ficha](mundo/astria/historia-antigua-de-astria-y-erebia.md) |
 | Astria | Nación extinta | Nación de la Luz y lugar de origen del culto de Thalmos. | [Ver ficha](mundo/astria/astria.md) |
 
@@ -47,9 +47,9 @@ Esta reconstrucción representa regiones físicas históricas. No contiene reino
 
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
-| Stömur | Cordillera | Gran barrera entre el Gherin y el Grimmen. Continua en el centro y el sur; quebrada en el norte. | [Ver ficha](mundo/stigria/stomur.md) |
+| Stömur | Cordillera | Gran barrera entre el Gherin y Velkhar. Continua en el centro y el sur; quebrada en el norte. | [Ver ficha](mundo/stigria/stomur.md) |
 | El Gherin | Macrorregión occidental | Mitad occidental dividida por los Gheran en nueve regiones geográficas. | [Ver ficha](mundo/stigria/gherin.md) |
-| El Grimmen | Macrorregión oriental | Mitad oriental de Stigria. Comprende Rauven al noreste y Grimheim al este de Stömur. | [Ver ficha](mundo/stigria/grimmen.md) |
+| Velkhar | Macrorregión oriental | Mitad oriental de Stigria. Comprende Rauven al noreste y Grimheim al este de Stömur. | [Ver ficha](mundo/stigria/velkhar.md) |
 
 ### Historia
 
@@ -84,6 +84,25 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Foso de la Calamidad | Accidente geográfico | Grieta abierta dentro del Riegel al final de la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/foso-de-la-calamidad.md) |
 | Valgard | Estado histórico | Estado pre-imperial. En su fase Raikim, tiranía que dominó Stigria. Derrocado por los ocho reinos. | [Ver ficha](mundo/stigria/valgard.md) |
 | Valastir | Reino independiente | Reino de Rauven nacido de los supervivientes de Roshdom. | [Ver ficha](mundo/stigria/valastir.md) |
+| Reinos Sombríos | Reinos independientes | Siete reinos de Grimheim, gobernados por los Siete Eternos. | [Ver ficha](mundo/stigria/reinos-sombrios.md) |
+| Bosque Negro | Región boscosa | Barrera natural entre Valastir y Naskeria. | [Ver ficha](mundo/stigria/bosque-negro.md) |
+| Revelación de los Siete | Religión | Religión dominante de los Reinos Sombríos. | [Ver ficha](mundo/stigria/revelacion-de-los-siete.md) |
+| Naskeria | Reino | Reino septentrional de Grimheim. | [Ver ficha](mundo/stigria/naskeria.md) |
+| Veskarna | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/veskarna.md) |
+| Morysk | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/morysk.md) |
+| Upyria | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/upyria.md) |
+| Kymoria | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/kymoria.md) |
+| Strygoria | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/strygoria.md) |
+| Vilkorath | Reino | Reino meridional de Grimheim. | [Ver ficha](mundo/stigria/vilkorath.md) |
+| Casa Dragomir | Casa histórica | Antigua casa noble de Valastir. | [Ver ficha](casas/dragomir.md) |
+| Casa Valkyren | Casa de Valastir | Casa vinculada a Imrik y Millicent. | [Ver ficha](casas/valkyren.md) |
+| Casa Nährvald | Casa real | Casa gobernante de Naskeria. | [Ver ficha](casas/nahrvald.md) |
+| Casa Zorveth | Casa real | Casa gobernante de Veskarna. | [Ver ficha](casas/zorveth.md) |
+| Casa Malkorin | Casa real | Casa gobernante de Morysk. | [Ver ficha](casas/malkorin.md) |
+| Casa Drazek | Casa real | Casa gobernante de Upyria. | [Ver ficha](casas/drazek.md) |
+| Casa Morvaska | Casa real | Casa gobernante de Kymoria. | [Ver ficha](casas/morvaska.md) |
+| Casa Vârdescu | Casa real | Casa gobernante de Strygoria. | [Ver ficha](casas/vardescu.md) |
+| Casa Vulkresk | Casa real | Casa gobernante de Vilkorath. | [Ver ficha](casas/vulkresk.md) |
 
 ### Cantera de nombres
 

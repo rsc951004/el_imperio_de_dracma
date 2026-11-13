@@ -3,7 +3,7 @@
 ## Identidad
 
 Príncipe menor de Valastir e hijo de Dravora. Tiene dieciséis años cuando
-integra el Grupo 13 de la Banda del Colmillo Blanco.
+integra la Célula 1466 de la Banda del Colmillo Blanco.
 
 ## Referencias
 

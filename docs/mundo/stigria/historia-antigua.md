@@ -18,7 +18,7 @@ Los **Grimm**, criaturas surgidas de la tierra, comenzaron a perseguir y devorar
 
 Según la tradición oral dominante, la diosa **Ghera** descendió del cielo montada sobre **Smürr**, la Serpiente Plateada, en torno al año **-2000**. Ambas abrasaron a los Grimm y los obligaron a retirarse hacia el oriente.
 
-Ghera y Smürr se fundieron después con la tierra. De ellas habría surgido **Stömur**, que dividió el continente entre el Gherin y el Grimmen. Esta intervención divina es una tradición religiosa, no un hecho demostrado.
+Ghera y Smürr se fundieron después con la tierra. De ellas habría surgido **Stömur**, que dividió el continente entre el Gherin y Velkhar. Esta intervención divina es una tradición religiosa, no un hecho demostrado.
 
 ## Edad del Bronce
 

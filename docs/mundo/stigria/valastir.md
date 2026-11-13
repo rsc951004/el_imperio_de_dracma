@@ -8,7 +8,7 @@ podredumbre de Roshdom.
 ## Origen
 
 En el año **-193**, Iulien Therin liberó Roshdom, confinó al Rey Podrido en las
-profundidades del Grimmen y reunió a los poseídos que habían seguido a la Ruina
+profundidades de Velkhar y reunió a los poseídos que habían seguido a la Ruina
 hasta Rauven. Iulien no regresó al Gherin. Los supervivientes que permanecieron
 con él fundaron la comunidad de la que nació Valastir.
 

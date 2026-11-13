@@ -24,6 +24,10 @@ Los testimonios describieron ojos saltones, dientes grises, sonrisas retorcidas 
 
 Su destino después de partir hacia Dürr no está documentado.
 
+Los Peregrinos viajaron muchas veces a Stigria durante la existencia de Astria.
+Elio, Narissa y Dante Zorana llegaron en una migración posterior y distinta de
+la expedición de la Edad de la Podredumbre; fundaron la Mort Tábura.
+
 ## Referencias
 
 - `docs/mundo/astria/astria.md`

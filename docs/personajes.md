@@ -51,19 +51,19 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Dravora | Reina histórica | Fundadora de la Casa Dravor y de su dinastía real en Valastir. | [Ver ficha](personajes/dravora.md) |
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
 | Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
-| Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro del Grupo 13. | [Ver ficha](personajes/dymtrik.md) |
-| Millicent Rosamund «Mili» | Personaje histórico | Invocadora y forjadora del Grupo 13 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/millicent-rosamund.md) |
-| Imrik | Personaje histórico | Portador Sombrío que dirige el Grupo 13 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/imrik.md) |
-| Arystan Khan | Personaje histórico | Invocador y forjador del Grupo 7 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/arystan-khan.md) |
+| Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro de la Célula 1466. | [Ver ficha](personajes/dymtrik.md) |
+| Millicent Rosamund «Mili» | Personaje histórico | Invocadora y forjadora de la Banda del Colmillo Blanco. | [Ver ficha](personajes/millicent-rosamund.md) |
+| Imrik Valkyren | Personaje histórico | Invocador que dirige la Banda del Colmillo Blanco. | [Ver ficha](personajes/imrik.md) |
+| Arystan Khan | Personaje histórico | Invocador y forjador de la Célula 1378. | [Ver ficha](personajes/arystan-khan.md) |
 | Oskar Rheiner | Personaje histórico | Datos familiares reservados a su ficha de canon velado. | [Ver ficha](personajes/oskar-rheiner.md) |
 | Lya Khan | Personaje histórico | Datos familiares reservados a su ficha de canon velado. | [Ver ficha](personajes/lya-khan.md) |
-| Ellis Rosamund | Personaje histórico | Portadora de la Enclaustración e integrante del Grupo 7. | [Ver ficha](personajes/ellis-rosamund.md) |
+| Ellis Rosamund | Personaje histórico | Portadora de la Enclaustración e integrante de la Célula 1378. | [Ver ficha](personajes/ellis-rosamund.md) |
 | Cerbero | Quimera | Felino alado que acompaña a Mili. | [Ver ficha](personajes/cerbero.md) |
-| Arys Therin | Personaje histórico | Hermana mayor de Cassyan y Parys; miembro del extinto Grupo 2. | [Ver ficha](personajes/arys-therin.md) |
+| Arys Therin | Personaje histórico | Hermana mayor de Cassyan y Parys; miembro de la Célula 1432. | [Ver ficha](personajes/arys-therin.md) |
 | Belarik Torzan | Personaje histórico | Explorador valastiriano que abrió el primer vínculo duradero con Dragma. | [Ver ficha](personajes/belarik-torzan.md) |
 | Stancu Radanescu | Personaje histórico | Señor de Sindgard durante el Gran Concilio del Hielo. | [Ver ficha](personajes/stancu-radanescu.md) |
 | Andrey Radanescu | Personaje histórico | Heredero de Sindgard y aprendiz de la Guardia Amarilla. | [Ver ficha](personajes/andrey-radanescu.md) |
-| Vedrik Frosthain | Personaje histórico | Último señor de la Casa Frosthain. Condenado al Grimmen. | [Ver ficha](personajes/vedrik-frosthain.md) |
+| Vedrik Frosthain | Personaje histórico | Último señor de la Casa Frosthain. Condenado a Velkhar. | [Ver ficha](personajes/vedrik-frosthain.md) |
 | Eirik Valgard | Personaje histórico | Cuarto Raik y convocante del Gran Concilio del Hielo. | [Ver ficha](personajes/eirik-valgard.md) |
 | Sigmar Valgard | Personaje histórico | Sexto Raik y autor del decreto que dejó Esteria sin señor. | [Ver ficha](personajes/sigmar-valgard.md) |
 | Katerina | Noble de Weissen | <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto el Rey Podrido, Katerina y la Grien Tábura -->Emisaria de la Ruina que opera desde las sombras en la Edad de Oro.<!-- CANON-VELADO: FIN --> | [Ver ficha](personajes/katerina.md) |
@@ -136,3 +136,19 @@ establecido, la identidad permanece pendiente.
 | Raban Frosthain | Personaje histórico | Destinatario original de la promesa de incorporar Esteria. | [Ver ficha](personajes/historicos/raban-frosthain.md) |
 | Sylas Solarys | Miembro de Tábura | Tío y tutor de Loryan Solarys; espía de la Sish Tábura. | [Ver ficha](personajes/historicos/sylas-solarys.md) |
 | Dyas Solarys | Explorador histórico | Tatarabuelo de Sandor Solarys y explorador de Erebia. | [Ver ficha](personajes/historicos/dyas-solarys.md) |
+| Akhor Nährvald | Monarca | Gobernante de Naskeria. | [Ver ficha](personajes/akhor-nahrvald.md) |
+| Arhûn Zorveth | Monarca | Gobernante de Veskarna. | [Ver ficha](personajes/arhun-zorveth.md) |
+| Vazek Malkorin | Monarca | Gobernante de Morysk. | [Ver ficha](personajes/vazek-malkorin.md) |
+| Nasyr Drazek | Monarca | Gobernante de Upyria. | [Ver ficha](personajes/nasyr-drazek.md) |
+| Vizar Morvaska | Monarca | Gobernante de Kymoria. | [Ver ficha](personajes/vizar-morvaska.md) |
+| Astor Vârdescu | Monarca | Gobernante de Strygoria. | [Ver ficha](personajes/astor-vardescu.md) |
+| Aesh Vulkresk | Monarca | Gobernante de Vilkorath. | [Ver ficha](personajes/aesh-vulkresk.md) |
+| Armand Zorana | Integrante de Tábura | Padre de Imrik y miembro de la Mort Tábura. | [Ver ficha](personajes/armand-zorana.md) |
+| Dhalma Dragomir | Noble histórica | Madre de Loras Dragomir. | [Ver ficha](personajes/dhalma-dragomir.md) |
+| Pelhia | Integrante de Tábura | Hermana de Loras y Rhuan. | [Ver ficha](personajes/pelhia.md) |
+| Rhuan | Integrante de Tábura | Hermano de Loras y Pelhia. | [Ver ficha](personajes/rhuan.md) |
+| Imrik, el Viejo Colmillo Blanco | Guerrero histórico | Protector de Loras Dragomir. | [Ver ficha](personajes/viejo-imrik.md) |
+| Verna Zorana | Sacerdote astriano | Padre de Elio, Narissa y Dante. | [Ver ficha](personajes/historicos/verna-zorana.md) |
+| Elio Zorana | Peregrino Negro | Fundador de la Mort Tábura. | [Ver ficha](personajes/historicos/elio-zorana.md) |
+| Narissa Zorana | Peregrina Negra | Fundadora de la Mort Tábura. | [Ver ficha](personajes/historicos/narissa-zorana.md) |
+| Dante Zorana | Peregrino Negro | Fundador de la Mort Tábura. | [Ver ficha](personajes/historicos/dante-zorana.md) |

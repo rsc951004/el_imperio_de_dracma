@@ -2,7 +2,7 @@
 
 ## Tipo
 
-Cordillera que separa el Gherin del Grimmen.
+Cordillera que separa el Gherin de Velkhar.
 
 ## Descripción
 
@@ -10,7 +10,7 @@ Stömur forma una barrera continua en el centro y el sur de Stigria. En el norte
 
 El desagüe del Rost atravesaba la cordillera por un conducto completamente inundado. El túnel se formó en el año -1500, durante la fractura que originó el Riegel, y nunca constituyó un paso terrestre ordinario.
 
-Al final de la Edad de la Podredumbre, los Portadores abrieron el Foso de la Calamidad dentro del Riegel y derrumbaron completamente el conducto del Rost. Desde entonces, el Grimmen permanece aislado del Gherin.
+Al final de la Edad de la Podredumbre, los Portadores abrieron el Foso de la Calamidad dentro del Riegel y derrumbaron completamente el conducto del Rost. Desde entonces, Velkhar permanece aislado del Gherin.
 
 ## Origen tradicional
 
@@ -21,7 +21,7 @@ La existencia de la cordillera es un hecho geográfico. Su origen divino pertene
 ## Referencias
 
 - `docs/mundo/stigria/gherin.md`
-- `docs/mundo/stigria/grimmen.md`
+- `docs/mundo/stigria/velkhar.md`
 - `docs/mundo/stigria/historia-antigua.md`
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
 - `docs/entidades/ghera.md`

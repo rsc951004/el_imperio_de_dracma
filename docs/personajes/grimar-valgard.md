@@ -14,7 +14,7 @@ falsa promesa de devolverla a la vida.
 
 ## Muerte
 
-Grimar murió al convertirse en piedra desde dentro hacia fuera. La
+Katerina fue responsable de la petrificación de Grimar. Murió al convertirse en piedra desde dentro hacia fuera. La
 petrificación le impidió respirar y lo asfixió. Su corona y sus ropas también
 se transformaron en piedra.
 
@@ -25,8 +25,10 @@ de la corona permanecen reservados.
 ## Descendencia
 
 <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente de esta línea -->
-Grimar engendró un hijo con Katerina. En la Edad de Oro sobrevive un
-descendiente de esa línea que desconoce su ascendencia Valgard.
+Grimar engendró gemelos con Katerina. Uno permaneció en el Gherin; en la Edad
+de Oro sobrevive un descendiente de esa línea que desconoce su ascendencia
+Valgard. Katerina llevó al otro a Oriente, donde se convirtió en el noveno
+receptáculo del Rey Podrido.
 <!-- CANON-VELADO: FIN -->
 
 ## Legado

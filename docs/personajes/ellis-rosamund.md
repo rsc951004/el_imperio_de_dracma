@@ -2,9 +2,9 @@
 
 ## Identidad e historia
 
-Portadora del don de la Enclaustración e integrante del Grupo 7 de la Banda del
-Colmillo Blanco. Allí conoció a Arystan Khan, su gran amor. Ambos fueron amigos
-de Imrik.
+Portadora del don de la Enclaustración e integrante de la Célula 1378 de la
+Stroi Tábura. Allí conoció a Arystan Khan, su gran amor. Ambos fueron amigos de
+Loras Dragomir, después conocido como Imrik Valkyren.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: Mili -->
 Ellis y Arystan murieron luchando contra Mortis, un Grimm.

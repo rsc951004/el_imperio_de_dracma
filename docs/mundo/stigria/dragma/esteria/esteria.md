@@ -42,7 +42,7 @@ Solar, que todavía no se ha producido en la Edad de Oro.
 
 En el año **-193**, diez años después de la proclamación Carmesí, Iulien partió desde Esteria con
 guardianes del norte hacia Roshdom, en Rauven. Liberó la fortaleza, confinó al
-Rey Podrido en las profundidades del Grimmen y permaneció en Rauven con los
+Rey Podrido en las profundidades de Velkhar y permaneció en Rauven con los
 supervivientes que formaron el origen de Valastir.
 
 ## Faro y apertura de Esteria

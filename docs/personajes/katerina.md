@@ -25,13 +25,22 @@ Katerina explotó el duelo de Grimar por Ragnela mediante la falsa promesa de
 devolverla a la vida.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general, incluido el descendiente de esta línea -->
-Grimar engendró un hijo con Katerina. En la Edad de Oro sobrevive un
-descendiente de esa línea que desconoce su ascendencia Valgard.
+Grimar engendró gemelos con Katerina. Uno permaneció en el Gherin; en la Edad
+de Oro sobrevive un descendiente de esa línea que desconoce su ascendencia
+Valgard. Katerina llevó al otro gemelo a Oriente, donde se convirtió en el
+noveno receptáculo del Rey Podrido. Los siete príncipes originales nacieron de
+la unión de Katerina con ese hijo.
 <!-- CANON-VELADO: FIN -->
 
-Después de la petrificación y muerte de Grimar, Katerina cinceló de su cabeza
+Katerina fue responsable de la petrificación y muerte de Grimar. Después cinceló de su cabeza
 la corona convertida en piedra negra y la llevó al Rey Podrido. El traslado y
 el destino del objeto permanecen reservados.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: los súbditos de los Siete Eternos -->
+Dos Grimm hijos de Katerina, Akhor y Arhûn, sustituyeron a dos príncipes
+originales asesinados por la Stroi. Desde la unión de Aesh con un Mobius, el
+paradero de Katerina y del Rey Podrido es desconocido incluso para los monarcas.
+<!-- CANON-VELADO: FIN -->
 
 ## Relaciones
 

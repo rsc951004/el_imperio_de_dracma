@@ -3,7 +3,7 @@
 ## Identidad
 
 Conocida como **Mili**, es la niña perdida de la Banda del Colmillo Blanco.
-Tiene quince años cuando integra el Grupo 13. Es Invocadora y forjadora.
+Tiene quince años cuando integra la Célula 1466 de la Stroi Tábura. Es Invocadora y forjadora.
 
 ## Dones
 

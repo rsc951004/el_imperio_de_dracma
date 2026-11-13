@@ -21,8 +21,8 @@ defensa del norte. Tras la Guerra de Unland, Rudgar le confirió la guarda del
 Paso del Oriente.
 
 En el año **-193** entró en Rauven con Guardianes de Esteria. Liberó Roshdom,
-confinó al Rey Podrido en las profundidades del Grimmen y liberó a los poseídos
-que lo habían seguido. No regresó al Gherin; junto con los supervivientes de la
+confinó al Rey Podrido en las profundidades de Velkhar y liberó a los poseídos
+de Rauven. No regresó al Gherin; junto con los supervivientes de la
 campaña originó Valastir. Durante mucho tiempo, en el Gherin se le dio por
 muerto bajo el nombre Lux Therin.
 

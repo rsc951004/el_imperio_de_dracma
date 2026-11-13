@@ -4,10 +4,10 @@
 Protectorado del Imperio de Dragma. Isla. Conocida como **Delfos la Solitaria**.
 
 ## Ubicación
-Isla en el mar oriental, al este del Grimmen. Alejada lo suficiente de la Costa Negra para ser segura, lo bastante próxima para que sus habitantes crucen a cazar al continente maldito.
+Isla en el mar oriental, al este de Velkhar, frente a la Costa Negra.
 
 ## Geografía y clima
-Isla tropical. Selvas densas, acantilados de roca oscura, grutas minerales, playas de arena negra. El clima cálido y húmedo contrasta con las tierras frías del norte de Stigria y con la aridez muerta del Grimmen.
+Isla tropical. Selvas densas, acantilados de roca oscura, grutas minerales y playas de arena negra. El clima cálido y húmedo contrasta con las tierras frías del norte de Stigria y con las tierras de Velkhar.
 
 ## Historia
 
@@ -46,8 +46,15 @@ Delfos es un refugio. A lo largo de los siglos, la isla ha recibido a quienes hu
 ### Minerales extraños
 Las grutas de Delfos albergan **tierras extrañas**, minerales con propiedades ofensivas contra espectros, poseídos y criaturas sometidas por el Rey Podrido. A diferencia del **Verilium** de las montañas de Stömur, los minerales de Delfos potencian armas, pociones y ungüentos. Su naturaleza exacta y su procesamiento son secretos celosamente guardados por los Artema.
 
-### Caza en el Grimmen
-Equipados con sus propios minerales, los cazadores delfitas son los únicos capaces de adentrarse en **el Grimmen** —la Costa Negra— y regresar. Cazan bestias exóticas para obtener pieles, armas de hueso y secreciones utilizadas en pociones y ungüentos. Este comercio es exclusivo de Delfos: nadie más se arriesga a pisar las tierras malditas al este de Stömur.
+### Caza en la Costa Negra
+
+Antes del alzamiento de los Siete Reinos Sombríos, los cazadores delfitas
+realizaban expediciones a la Costa Negra equipados con sus minerales. Obtenían
+pieles, armas de hueso y secreciones para pociones y ungüentos; Delfos tenía la
+exclusividad de ese comercio especializado. El alzamiento de los reinos marcó
+el declive de las incursiones: los delfitas dejaron de ser bien recibidos y,
+ante la creciente hostilidad y las dificultades, redujeron sus viajes hasta
+abandonarlos. En tiempos de Imrik las expediciones ya han cesado.
 
 ### Relación con Esteria
 La relación histórica entre Delfos y el Gran Faro de Esteria permanece

@@ -3,7 +3,7 @@
 ## Identidad
 
 Nombre póstumo de Valmira Cojocaru, hermana mayor de Cassyan y Parys. Formó
-parte del extinto Grupo 2 de la Banda del Colmillo Blanco y murió en combate.
+parte de la Célula 1432 de la Stroi Tábura y murió durante su exterminio.
 
 ## Referencias
 

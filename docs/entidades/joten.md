@@ -9,6 +9,7 @@ Clase confirmada de criaturas.
 - **Vitdrakiris:** encerrado bajo las profundidades marinas del archipiélago de
   Sturmgard.
 - **Smürr:** la Serpiente de Ghera de la tradición oral gheran.
+- **Valkyr:** conocido como la Montaña Negra.
 
 ## Alcance
 

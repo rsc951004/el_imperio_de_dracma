@@ -2,6 +2,14 @@
 
 ## Revisiones editoriales
 
+### Volcamiento de los Reinos Sombríos y la Tábura Stroi (2026-11-13)
+
+Incorporados Velkhar, los Siete Reinos Sombríos, sus casas, monarcas y religión;
+la Stroi y sus células; los orígenes y la identidad de Imrik, su familia y la
+Mort Tábura. Actualizados Delfos, las liberaciones de poseídos, los gemelos de
+Katerina y Grimar, los índices y las reservas. Se conservaron los secretos y
+las decisiones humanas del proceso de volcamiento.
+
 ### Fichas de Oskar Rheiner y Lya Khan (2026-11-13)
 
 Añadidas las fichas de los padres de Arystan Khan y sus entradas en el índice,

@@ -10,7 +10,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 |------|-----------|
 | **Edad de la Tiranía** | Desarrollar en una etapa posterior las historias individuales de los dieciséis Raiks, sus campañas, la transformación detallada del Raikim, la Rebelión del Amanecer, el Edicto del Amanecer y la fundación de Dragma. |
 | **Imrik y Cerbero** | Desarrollar en un cuento futuro <!-- CANON-VELADO: INICIO | desconocido-por: todas las personas vivas excepto Imrik -->cómo Imrik descubrió que Ose estaba sellado en Cerbero.<!-- CANON-VELADO: FIN --> |
-| **Arystan y Ellis** | Desarrollar las circunstancias de la persecución, el ingreso de Arystan al Grupo 7 y su relación con Ellis; <!-- CANON-VELADO: INICIO | desconocido-por: Mili -->desarrollar el enfrentamiento en el que murieron contra Mortis<!-- CANON-VELADO: FIN --> y precisar la naturaleza y motivaciones de Mortis. |
+| **Arystan y Ellis** | Desarrollar las circunstancias de la persecución, el ingreso de Arystan a la Célula 1378 y su relación con Ellis; <!-- CANON-VELADO: INICIO | desconocido-por: Mili -->desarrollar el enfrentamiento en el que murieron contra Mortis<!-- CANON-VELADO: FIN --> y precisar la naturaleza y motivaciones de Mortis. |
 
 ## Historia de Stigria
 
@@ -66,7 +66,12 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Príncipes Perdidos** | Resolver el destino de Eryk Albyon y Thalyssa Coralyss. |
 | **Invocadores y Segunda Dinastía** | Desarrollar posteriormente las campañas y la secuencia detallada de las Guerras Místicas y la Aniquilación; quedan sin fijar las demás fechas, el desenlace de la guerra de Leandrin y el destino individual de sus hermanos. El surgimiento de Leandrin en +1214, los dragones y el rechazo aprovechado por la Orden de la Flama Blanca están establecidos. |
 | **Sirene y Leandrin** | Resolver la identidad y el propósito de Ose, el cambio de rostro y voz de Leandrin, la leyenda que inspiró a Leandrin sobre Tamurak y los aspectos del rito y las vidas de los personajes que permanecen abiertos. |
-| **Grupo 13 y antecedentes** | Precisar las fechas y la secuencia detallada de sus antecedentes; <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Dravora e Imrik -->desarrollar las generaciones entre Leandrin y Oskar Rheiner<!-- CANON-VELADO: FIN --> y <!-- CANON-VELADO: INICIO | desconocido-por: todas las personas vivas excepto Imrik -->las circunstancias y consecuencias del sellado de Ose<!-- CANON-VELADO: FIN -->; reservar el origen y naturaleza de Cerbero y los límites de la Enclaustración. |
+| **Célula 1466 y antecedentes** | Precisar las fechas y las circunstancias detalladas de sus antecedentes; <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Dravora e Imrik -->desarrollar las generaciones entre Leandrin y Oskar Rheiner<!-- CANON-VELADO: FIN --> y <!-- CANON-VELADO: INICIO | desconocido-por: todas las personas vivas excepto Imrik -->las circunstancias y consecuencias del sellado de Ose<!-- CANON-VELADO: FIN -->; reservar el origen y naturaleza de Cerbero y los límites de la Enclaustración. |
+| **Stroi Tábura** | Reservar las causas de la extracción de Imrik, la composición del Consejo, las identidades de los demás Custodios, la coordinación y las operaciones concretas de las células. |
+| **Armand y Loras** | Reservar las circunstancias de supervivencia de Armand, su liberación o escape, los detalles de sus encuentros y sus motivos; el parentesco exacto del Viejo Imrik y Loras, y la transmisión de los dones. |
+| **Reinos Sombríos** | Reservar fronteras y relaciones políticas, ritos y sacerdocio, vigilancia, identidades de los príncipes muertos, unión de Aesh, desapariciones, corona y destino del noveno receptáculo. |
+| **Población de Grimheim** | Reservar fecha exacta y motivos de su liberación, naturaleza de la influencia del Rey Podrido y su posible transmisión. |
+| **Imrik y Valkyren** | Reservar procedimiento de la transformación de Loras, otros rasgos y repercusiones, y las circunstancias y fecha del reconocimiento de la Casa Valkyren. |
 | **Saqueos de Sturmgard** | Desarrollar lugares atacados, campañas concretas y mecanismos de distribución del botín durante una etapa narrativa autorizada. |
 | **Escuelas regionales** | Desarrollar procedimientos internos y particularidades de las escuelas de Veleskaria, Zephyrya y otros territorios. |
 | **Encanto zephyrio** | Mantener sin definir la técnica, el agente y el procedimiento exactos de la modificación astriana, además del mecanismo independiente por el que la piel zephyria no se broncea. |

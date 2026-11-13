@@ -74,8 +74,8 @@ Kantra «Ta-besh» durante la guerra de Unland.
 
 En el año **-193**, diez años después de la proclamación Carmesí, Iulien entró en
 Rauven con Guardianes procedentes de Esteria. Liberó Roshdom, confinó al Rey
-Podrido en las profundidades del Grimmen y liberó a los poseídos que lo habían
-seguido. Iulien permaneció en Rauven; los supervivientes de la campaña
+Podrido en las profundidades de Velkhar y liberó a los poseídos de Rauven.
+Iulien permaneció en Rauven; los supervivientes de la campaña
 originaron Valastir.
 
 ## Los doce Dominios

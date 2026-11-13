@@ -33,6 +33,7 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Nombre | Tipo | Descripción breve | Ficha |
 |--------|------|-------------------|-------|
 | Inits | Entidad primordial | Entidades interdimensionales. Canales vivos entre la voluntad y la realidad. | [Ver ficha](entidades/inits.md) |
+| Valkyr | Jöten | Conocido como la Montaña Negra. | [Ver ficha](entidades/valkyr.md) |
 | Mobius | Entidad interdimensional | Presencias inmateriales de Irij que pueden consumir por completo el vínculo de una persona. | [Ver ficha](entidades/mobius.md) |
 | Portadores | Condición humana | Personas que heredan un vínculo con los Inits y manifiestan normalmente un don. | [Ver ficha](entidades/portadores.md) |
 | Invocadores | Condición humana | Personas que reciben o heredan un vínculo adquirido y ampliado originalmente mediante un rito. | [Ver ficha](entidades/invocadores.md) |
