@@ -400,7 +400,7 @@ pendiente de las fases posteriores del proceso.
 #### Verdadera identidad de Imrik
 
 El personaje actualmente conocido como Imrik nació con el nombre **Loras
-Cojocaru**. Después de la muerte de su protector, el Viejo Colmillo Blanco,
+Dragomir**. Después de la muerte de su protector, el Viejo Colmillo Blanco,
 adoptó el nombre **Imrik Valkyren**.
 La Mort Tábura lo denominaba **Loras Zorana** por su ascendencia paterna, pero él
 rechazaba ese nombre.
@@ -468,8 +468,8 @@ otros integrantes de la organización, descendía de los antiguos linajes de
 Astria y, concretamente, de **Verna Zorana**.
 
 Al llegar a la adultez, Armand consiguió infiltrarse en la corte de
-**Valastir**. Allí enamoró y desposó a **Dhalma Cojocaru**, una noble
-valastiriana con quien tuvo tres hijos:
+**Valastir**. Allí enamoró y desposó a **Dhalma Dragomir**, integrante de la
+antigua casa noble valastiriana Dragomir, con quien tuvo tres hijos:
 
 - **Pelhia**, una de sus hijas mayores;
 - **Rhuan**, otro de sus hijos mayores;
@@ -492,12 +492,17 @@ conocido:
 
 - **Pelhia y Rhuan murieron**;
 - **Armand fue capturado y condenado a muerte**;
-- la **Casa Cojocaru** fue despojada de su posición;
-- **Dhalma Cojocaru se suicidó**;
-- **Loras fue el único superviviente de su familia inmediata**.
+- la **Casa Dragomir** cayó en desgracia, perdió su posición nobiliaria y fue
+  expulsada de Valastir;
+- **Dhalma Dragomir se suicidó**.
 
 Los acontecimientos son conocidos por determinadas personas dentro de la Stroi,
 incluido el propio Imrik.
+
+Armand sigue vivo durante la época de Imrik Valkyren, y su hijo conoce su
+supervivencia. Ambos se han enfrentado en varias ocasiones. Durante esos
+encuentros, Armand ha intentado persuadir a Imrik para que abandone su camino y
+se incorpore a la Mort Tábura.
 
 #### El destino de Loras Zorana
 
@@ -521,7 +526,9 @@ Permanecen sin definir:
 - su ascenso hasta el rango de Custodio;
 - la participación concreta de Pelhia y Rhuan en la conspiración;
 - el desarrollo del ataque contra el Consejo y sus consecuencias internas;
-- las circunstancias de la condena y el destino definitivo de Armand;
+- las circunstancias de la condena y las de la liberación o escape de Armand;
+- los detalles de los enfrentamientos entre Armand e Imrik y las razones por
+  las que Armand desea incorporarlo a la Mort Tábura;
 - el proceso mediante el cual la Stroi acogió y formó a Loras;
 - las circunstancias en que adoptó el nombre Imrik Valkyren;
 - la manifestación y evolución de sus dos dones.
@@ -536,12 +543,12 @@ pendiente de las fases posteriores del proceso.
 **Imrik**, conocido como **el Viejo Colmillo Blanco**, fue un guerrero de la
 Stroi Tábura y cazador de Grimm.
 
-Nació como hijo bastardo de la Casa Cojocaru, pero nunca fue reconocido por su
-padre. Era pariente de Loras Cojocaru, aproximadamente su tío abuelo, aunque el
-parentesco exacto permanece sin definir.
+Nació como hijo bastardo y nunca fue reconocido por su padre. Era pariente de
+Loras Dragomir; su parentesco exacto permanece sin definir y deberá ajustarse a
+la genealogía de la Casa Dragomir.
 
 Tras la traición de Armand Zorana, el Viejo Imrik intervino para salvar de la
-muerte a Loras y a su madre, Dhalma Cojocaru. Dhalma terminó suicidándose, por
+muerte a Loras y a su madre, Dhalma Dragomir. Dhalma terminó suicidándose, por
 lo que Loras quedó bajo la responsabilidad del Viejo Imrik, quien lo crio,
 protegió y entrenó como a un hijo.
 
@@ -550,9 +557,9 @@ célula bajo el liderazgo del Viejo Imrik.
 
 El Viejo Imrik murió posteriormente, en circunstancias todavía no definidas.
 
-#### Loras Cojocaru
+#### Loras Dragomir
 
-**Loras Cojocaru** es el nombre de nacimiento del personaje actualmente conocido
+**Loras Dragomir** es el nombre de nacimiento del personaje actualmente conocido
 como Imrik. Antes de la traición de su padre, era conocido públicamente como un
 joven noble de Valastir.
 
@@ -578,9 +585,9 @@ honrando así la memoria del hombre que lo había criado. El apellido elegido fu
 
 La acumulación distingue siempre entre:
 
-- **Imrik, el Viejo Colmillo Blanco:** guerrero veterano de la Stroi, bastardo
-  de la Casa Cojocaru y protector de Loras;
-- **Loras Cojocaru:** hijo de Armand Zorana y Dhalma Cojocaru, posteriormente
+- **Imrik, el Viejo Colmillo Blanco:** guerrero veterano de la Stroi y protector
+  de Loras;
+- **Loras Dragomir:** hijo de Armand Zorana y Dhalma Dragomir, posteriormente
   conocido como **Imrik Valkyren**.
 
 Los acontecimientos de uno no se atribuyen al otro. Las referencias anteriores
@@ -616,7 +623,7 @@ Viejo Colmillo Blanco.
 Con el tiempo, la **Casa Valkyren** sería reconocida en Valastir por su reina y
 sus miembros. Entre los integrantes reconocidos de esta casa se cuentan:
 
-- **Imrik Valkyren**, anteriormente Loras Cojocaru;
+- **Imrik Valkyren**, anteriormente Loras Dragomir;
 - **Millicent «Mili» Rosamund**.
 
 El reconocimiento de la Casa Valkyren honra también la memoria del Viejo
@@ -1061,11 +1068,10 @@ pendiente de las fases posteriores del proceso.
 
 #### Apariencia original de Loras
 
-Antes de adoptar la identidad de Imrik Valkyren, **Loras Cojocaru** tenía una
+Antes de adoptar la identidad de Imrik Valkyren, **Loras Dragomir** tenía una
 apariencia muy distinta de la del Viejo Imrik. Su aspecto recordaba en gran
 medida al de los **Hijos del Sol**. Esa apariencia procedía de su ascendencia
-astriana y de su linaje Zorana, que en él predominaba más que el origen
-sangheskio de la Casa Cojocaru.
+astriana y de su linaje Zorana.
 
 Sus rasgos eran:
 
@@ -1101,7 +1107,7 @@ Su apariencia definitiva como **Imrik Valkyren** quedó establecida así:
 
 - cabello rubio casi blanquecino, casi cano, en sustitución de su antiguo
   castaño rojizo;
-- ojos amarillo pálido, en sustitución de sus antiguos ojos verdes sangheskios;
+- ojos amarillo pálido, en sustitución de sus antiguos ojos verdes;
 - una apariencia deliberadamente modelada para recordar al Viejo Imrik.
 
 La adopción del nombre **Imrik Valkyren** no implicó solo un cambio de identidad
@@ -1225,8 +1231,10 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 - ¿Cuál fue la participación concreta de Pelhia y Rhuan en la conspiración?
 - ¿Cómo se desarrolló el ataque contra el Consejo y cuáles fueron sus
   consecuencias internas?
-- ¿Cuáles fueron las circunstancias de la condena y el destino definitivo de
-  Armand?
+- ¿Cuáles fueron las circunstancias de la condena y de la liberación o escape
+  de Armand?
+- ¿Cómo fueron sus enfrentamientos con Imrik y por qué quiere incorporarlo a la
+  Mort Tábura?
 - ¿Cómo acogió y formó la Stroi Tábura a Loras?
 - ¿Cómo se manifestaron y evolucionaron sus dos dones?
 - ¿Cuáles son las generaciones intermedias del linaje Zorana y sus relaciones
