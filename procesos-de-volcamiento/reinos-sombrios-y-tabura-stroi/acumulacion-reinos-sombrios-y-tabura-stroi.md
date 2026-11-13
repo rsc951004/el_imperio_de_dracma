@@ -1054,6 +1054,70 @@ Permanecen sin definir:
 - el proceso histórico por el cual esas poblaciones terminaron integrándose en
   los Siete Reinos Sombríos.
 
+### A-23. La transformación de Loras en Imrik Valkyren
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+#### Apariencia original de Loras
+
+Antes de adoptar la identidad de Imrik Valkyren, **Loras Cojocaru** tenía una
+apariencia muy distinta de la del Viejo Imrik. Su aspecto recordaba en gran
+medida al de los **Hijos del Sol**. Esa apariencia procedía de su ascendencia
+astriana y de su linaje Zorana, que en él predominaba más que el origen
+sangheskio de la Casa Cojocaru.
+
+Sus rasgos eran:
+
+- cabello castaño rojizo, marcadamente rojizo;
+- tez mate;
+- ojos verdes muy luminosos.
+
+#### Apariencia del Viejo Imrik
+
+El **Viejo Imrik** tenía una apariencia endurecida por la guerra y por sus
+encuentros con los Grimm. Había sido herido, envenenado e incluso poseído en
+varias ocasiones por criaturas de la noche.
+
+Sus rasgos eran:
+
+- cabello cano;
+- ojos amarillos;
+- tez muy blanca;
+- cabello liso.
+
+#### La transformación realizada por Arystan
+
+Tras la muerte del Viejo Imrik, **Loras pidió a Arystan que modificara su
+apariencia para asemejarlo a la de su padre adoptivo**.
+
+Después de esa intervención, Loras adoptó de forma permanente una nueva
+apariencia.
+
+#### Apariencia definitiva de Imrik Valkyren
+
+A partir de esa transformación, Loras ya no volvió a tener su aspecto original.
+Su apariencia definitiva como **Imrik Valkyren** quedó establecida así:
+
+- cabello rubio casi blanquecino, casi cano, en sustitución de su antiguo
+  castaño rojizo;
+- ojos amarillo pálido, en sustitución de sus antiguos ojos verdes sangheskios;
+- una apariencia deliberadamente modelada para recordar al Viejo Imrik.
+
+La adopción del nombre **Imrik Valkyren** no implicó solo un cambio de identidad
+nominal, sino también una transformación física deliberada para asumir la imagen
+de su padre adoptivo.
+
+#### Aspectos reservados
+
+Permanecen sin desarrollar:
+
+- el procedimiento exacto mediante el cual Arystan realizó esta modificación;
+- si otros rasgos físicos de Loras también fueron alterados;
+- la percepción pública del cambio;
+- las consecuencias emocionales o simbólicas de la transformación más allá de
+  su voluntad de parecerse al Viejo Imrik.
+
 ## Estado de los nombres del proceso
 
 ### N-01. Los Reinos Sombríos
@@ -1074,7 +1138,7 @@ monarcas actúen coordinadamente o reconozcan una autoridad común.
 ### N-02. Tábura Stroi
 
 **Estado:** decisión humana de alto nivel incorporada mediante A-01 y A-04 a
-A-22; no es canon.
+A-23; no es canon.
 
 Se fija que es una sociedad secreta, integrada por hombres y mujeres entre los
 que hay Portadores e Invocadores, organizada en células clandestinas aisladas,
@@ -1191,6 +1255,12 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 - ¿Cuáles son las prácticas concretas de persecución del misticismo?
 - ¿Qué mecanismos de vigilancia y control de la población existen?
 - ¿Cuáles son las particularidades religiosas y culturales de cada reino?
+- ¿Cuál fue el procedimiento exacto mediante el cual Arystan modificó la
+  apariencia de Loras?
+- ¿Fueron alterados otros rasgos físicos de Loras?
+- ¿Cómo percibió el público el cambio de apariencia?
+- ¿Qué consecuencias emocionales o simbólicas tuvo la transformación más allá
+  de la voluntad de Loras de parecerse al Viejo Imrik?
 - ¿Qué razones y mecanismos permiten a los monarcas ocultar su verdadera
   naturaleza?
 - ¿Qué relaciones políticas existen entre los siete reinos?
@@ -1201,7 +1271,7 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 
 ## Aportaciones humanas incorporadas
 
-Las decisiones humanas A-01 a A-22 quedaron registradas en la sección
+Las decisiones humanas A-01 a A-23 quedaron registradas en la sección
 «Decisiones humanas acumuladas». Las futuras aportaciones se incorporarán en
 secciones separadas y se clasificarán como decisiones, propuestas o asuntos
 pendientes.
