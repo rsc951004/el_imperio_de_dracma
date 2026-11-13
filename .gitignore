@@ -4,6 +4,7 @@
 *.docx
 *.odt
 salida/
+audios/
 
 # Backups y temporales
 *~
