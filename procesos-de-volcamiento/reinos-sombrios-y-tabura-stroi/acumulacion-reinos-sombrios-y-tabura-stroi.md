@@ -995,6 +995,65 @@ Permanecen sin definir:
 - los mecanismos de vigilancia y control de la población;
 - las particularidades religiosas y culturales de cada reino.
 
+### A-22. Origen de los habitantes de los Siete Reinos Sombríos
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+#### Origen de la población
+
+La mayor parte de los habitantes de los Siete Reinos Sombríos desciende de los
+humanos poseídos que abandonaron el Gherin cuando el Rey Podrido fue obligado a
+retirarse hacia oriente.
+
+Estos individuos habían aceptado convertirse en súbditos del Rey Podrido y
+habían perdido su voluntad bajo su dominio. Tras su retirada, el Rey Podrido los
+mantuvo cautivos durante un período todavía no determinado.
+
+#### La liberación de los poseídos
+
+Posteriormente, el propio Rey Podrido decidió liberarlos. La liberación puso fin
+a su posesión y a su tormento. **Los antiguos poseídos recuperaron plenamente su
+voluntad individual**, dejando de estar sometidos sobrenaturalmente.
+
+Sin embargo, permanecieron susceptibles a la influencia del Rey Podrido. Esta
+influencia no debe confundirse con una posesión activa ni con una pérdida de la
+libertad individual.
+
+Todavía no se ha establecido la naturaleza exacta de esa influencia ni los
+mecanismos mediante los cuales se manifiesta.
+
+#### Los descendientes
+
+Los antiguos poseídos y sus descendientes constituyeron la mayor parte de la
+población humana de los Siete Reinos Sombríos de Grimheim.
+
+En la época de Imrik, sus descendientes viven bajo el dominio de los Siete
+Eternos y siguen fervorosamente la Revelación de los Siete. Desconocen su
+verdadero origen histórico y consideran verdadera la versión del pasado
+transmitida por sus monarcas.
+
+No está establecido que la susceptibilidad a la influencia del Rey Podrido se
+transmita hereditariamente ni que los habitantes actuales permanezcan sometidos
+a alguna forma de control sobrenatural.
+
+#### Distinción respecto de Valastir
+
+Esta liberación, realizada por el propio Rey Podrido, no es la liberación de los
+poseídos de Roshdom efectuada por Iulien Therin durante su campaña en Rauven.
+Ambos acontecimientos se mantienen diferenciados.
+
+#### Aspectos pendientes
+
+Permanecen sin definir:
+
+- el momento exacto y las circunstancias de la liberación;
+- los motivos del Rey Podrido para devolverles su voluntad;
+- la naturaleza de la influencia que conservó sobre los antiguos poseídos;
+- la posible persistencia de dicha influencia entre sus descendientes;
+- el proceso histórico por el cual esas poblaciones terminaron integrándose en
+  los Siete Reinos Sombríos.
+
 ## Estado de los nombres del proceso
 
 ### N-01. Los Reinos Sombríos
@@ -1015,7 +1074,7 @@ monarcas actúen coordinadamente o reconozcan una autoridad común.
 ### N-02. Tábura Stroi
 
 **Estado:** decisión humana de alto nivel incorporada mediante A-01 y A-04 a
-A-21; no es canon.
+A-22; no es canon.
 
 Se fija que es una sociedad secreta, integrada por hombres y mujeres entre los
 que hay Portadores e Invocadores, organizada en células clandestinas aisladas,
@@ -1116,6 +1175,14 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
   Podrido?
 - ¿Cuál es la identidad y el destino del noveno receptáculo como individuo?
 - ¿Cuál de los monarcas, si alguno, posee actualmente la corona negra de Grimar?
+- ¿Cuál fue el momento exacto y cuáles fueron las circunstancias de la liberación
+  de los antiguos poseídos del Gherin?
+- ¿Por qué decidió el Rey Podrido devolverles su voluntad?
+- ¿Cuál es la naturaleza de la influencia que conservó sobre los antiguos
+  poseídos y cómo se manifiesta?
+- ¿Puede persistir esa influencia entre sus descendientes?
+- ¿Cómo terminaron integrándose históricamente esas poblaciones en los Siete
+  Reinos Sombríos?
 - ¿Cuáles son las personalidades, los poderes específicos y las historias
   individuales de los siete monarcas?
 - ¿En qué circunstancias asumieron sus respectivos tronos?
@@ -1134,7 +1201,7 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 
 ## Aportaciones humanas incorporadas
 
-Las decisiones humanas A-01 a A-21 quedaron registradas en la sección
+Las decisiones humanas A-01 a A-22 quedaron registradas en la sección
 «Decisiones humanas acumuladas». Las futuras aportaciones se incorporarán en
 secciones separadas y se clasificarán como decisiones, propuestas o asuntos
 pendientes.
