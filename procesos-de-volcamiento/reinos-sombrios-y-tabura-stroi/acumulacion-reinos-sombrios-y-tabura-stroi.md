@@ -204,15 +204,11 @@ Los **Siete Monarcas de la Sombra**, también conocidos como los **Siete
 Príncipes Podridos**, son siete seres que constituyen el principal objetivo de la
 Stroi Tábura. Sus integrantes han jurado derrocarlos.
 
-Su naturaleza no es uniforme:
-
-- algunos son seres poseídos por el Rey Podrido;
-- otros son directamente Grimm;
-- se sospecha que uno de ellos es un **Möbius**.
-
-Por ahora, no se establece cuáles pertenecen a cada categoría ni cuántos
-integran cada una. La sospecha sobre el supuesto Möbius no queda explicada en
-esta decisión.
+Su naturaleza no es uniforme. La composición actual y la sucesión de los siete
+monarcas quedan desarrolladas en A-19: cuatro son príncipes originales que
+permanecen como monarcas sin haberse unido a un Möbius; un quinto príncipe
+original superviviente se unió a un Möbius; y dos Grimm hijos de Katerina
+sustituyeron a los dos príncipes originales asesinados por la Stroi Tábura.
 
 #### Los Siete Reinos Sombríos
 
@@ -233,8 +229,8 @@ gobernantes**.
 
 Ante sus pueblos, los siete monarcas aparentan ser seres humanos normales.
 Aunque son gobernantes crueles y despiadados, sus súbditos no saben que algunos
-están poseídos por el Rey Podrido, que otros son Grimm y que uno de ellos podría
-ser un Möbius. Sus súbditos desconocen también cualquier relación de sus
+están poseídos por el Rey Podrido, que otros son Grimm y que uno de ellos se unió
+a un Möbius. Sus súbditos desconocen también cualquier relación de sus
 gobernantes con el Rey Podrido, los Grimm o los Möbius. Por tanto, la naturaleza
 sobrenatural de los monarcas permanece oculta tras una apariencia humana.
 
@@ -242,8 +238,10 @@ Quedan pendientes:
 
 - los nombres y características de los siete reinos;
 - la identidad individual de los siete monarcas;
-- la distribución de sus naturalezas;
-- la identidad del supuesto Möbius y el origen de esa sospecha;
+- la identidad del príncipe unido al Möbius y las circunstancias de esa unión;
+- la identidad de los dos Grimm que sustituyeron a los príncipes caídos;
+- la identidad y el destino del noveno receptáculo como individuo;
+- cuál de los monarcas, si alguno, posee actualmente la corona negra de Grimar;
 - las razones y mecanismos por los que mantienen oculta su verdadera naturaleza;
 - las relaciones políticas entre los siete reinos;
 - el alcance del conocimiento que posee la Stroi Tábura sobre los monarcas;
@@ -730,6 +728,126 @@ llamados **Siete Príncipes Podridos**. Permanecen sin definir las identidades d
 los monarcas, la distribución geográfica individual de los reinos, sus
 características, su historia y sus relaciones políticas.
 
+### A-17. Casas reales de los Siete Reinos Sombríos
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+Las siete casas reales que gobiernan los Reinos Sombríos de Grimheim quedan
+establecidas así:
+
+| Reino | Casa real |
+|---|---|
+| **Strygoria** | Casa Vârdescu |
+| **Upyria** | Casa Drazek |
+| **Kymoria** | Casa Morvaska |
+| **Naskeria** | Casa Nährvald |
+| **Vilkorath** | Casa Vulkresk |
+| **Veskarna** | Casa Zorveth |
+| **Morysk** | Casa Malkorin |
+
+Cada casa constituye la dinastía gobernante de su respectivo reino y está
+vinculada a uno de los **Siete Monarcas de la Sombra**, también llamados
+**Siete Príncipes Podridos**.
+
+Permanecen sin definir los nombres individuales de los monarcas, la antigüedad
+de las casas, sus fundadores, genealogías, sucesiones e historias particulares.
+
+### A-18. El Bosque Negro y la distribución geográfica de los Reinos Sombríos
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+Entre **Valastir**, situado en Rauven, y **Naskeria**, situado en Grimheim, se
+extiende el **Bosque Negro**. Es una extensa región boscosa, sombría y
+extremadamente peligrosa que actúa como barrera natural entre Rauven y Grimheim.
+
+Según la tradición, el bosque fue plantado por los antiguos valastirianos para
+protegerse de sus enemigos de Grimheim. Su origen permanece sin confirmar. El
+Bosque Negro representa un peligro tanto para los seres humanos como para los
+Grimm y dificulta el tránsito en ambas direcciones.
+
+Al sur del bosque se encuentra una región llana y agreste, tras la cual comienza
+Naskeria.
+
+Los Siete Reinos Sombríos se distribuyen geográficamente en Grimheim siguiendo
+este orden general de norte a sur:
+
+| Orden | Reino | Casa real |
+|---|---|---|
+| 1 | **Naskeria** | Casa Nährvald |
+| 2 | **Veskarna** | Casa Zorveth |
+| 3 | **Morysk** | Casa Malkorin |
+| 4 | **Upyria** | Casa Drazek |
+| 5 | **Kymoria** | Casa Morvaska |
+| 6 | **Strygoria** | Casa Vârdescu |
+| 7 | **Vilkorath** | Casa Vulkresk |
+
+La secuencia fija únicamente el orden geográfico general. Permanecen sin
+definir las fronteras exactas, superficies, distancias y relaciones
+territoriales específicas entre los reinos.
+
+### A-19. Origen y sucesión de los Siete Príncipes Podridos
+
+**Estado:** decisión humana incorporada a la acumulación; no es canon y queda
+pendiente de las fases posteriores del proceso.
+
+#### Katerina y Grimar Valgard
+
+**Katerina**, Emisaria de la Ruina al servicio del Rey Podrido, fue responsable
+de la petrificación y muerte de **Grimar Valgard**, último Raik de la dinastía
+Valgard.
+
+Tras su muerte, Katerina recuperó la corona de piedra negra de Grimar y se llevó
+al hijo que había concebido con él. Este hijo se convirtió en el **noveno
+receptáculo del Rey Podrido**.
+
+#### Origen de los Siete Príncipes Podridos
+
+Los **Siete Príncipes Podridos**, también conocidos como los **Siete Monarcas de
+la Sombra**, nacieron de la unión entre Katerina y su propio hijo, convertido en
+el noveno receptáculo del Rey Podrido. Los siete comparten, por tanto, esta
+misma ascendencia.
+
+#### Los siete monarcas originales y sus sucesores
+
+De los siete príncipes originales:
+
+- cuatro permanecen como monarcas sin haberse unido a un Möbius;
+- dos fueron derrotados y asesinados por la Stroi Tábura;
+- uno, el quinto original superviviente, se unió a un Möbius.
+
+Los dos príncipes asesinados fueron reemplazados por dos Grimm que también son
+hijos de Katerina.
+
+Los siete monarcas actuales se componen de:
+
+| Naturaleza | Cantidad |
+|---|---:|
+| Príncipes originales | 4 |
+| Príncipe original unido a un Möbius | 1 |
+| Grimm hijos de Katerina que sustituyeron a los príncipes caídos | 2 |
+| **Total** | **7** |
+
+#### Desaparición de Katerina y el Rey Podrido
+
+Desde la unión de uno de los príncipes originales con un Möbius, el paradero de
+Katerina y del Rey Podrido permanece desconocido, incluso para los propios Siete
+Monarcas de la Sombra.
+
+#### Aspectos pendientes
+
+Permanecen sin definir:
+
+- los nombres individuales de los siete monarcas;
+- qué reino gobierna cada uno;
+- cuáles fueron los dos príncipes asesinados por la Stroi Tábura;
+- la identidad de los dos Grimm que los reemplazaron;
+- la identidad del príncipe unido al Möbius y las circunstancias de esa unión;
+- las circunstancias de la desaparición de Katerina y del Rey Podrido;
+- la identidad y el destino del noveno receptáculo como individuo;
+- cuál de los monarcas, si alguno, posee actualmente la corona negra de Grimar.
+
 ## Estado de los nombres del proceso
 
 ### N-01. Los Reinos Sombríos
@@ -738,17 +856,19 @@ características, su historia y sus relaciones políticas.
 canon.
 
 Los Reinos Sombríos son los siete reinos independientes situados en Grimheim,
-región de Velkhar, y reciben los nombres fijados en A-16. Están
-gobernados, uno por uno, por los Siete Monarcas de la Sombra. Sus nombres,
-características, territorios, sistemas de gobierno, historia y relaciones
-políticas permanecen sin definir.
+región de Velkhar, y reciben los nombres fijados en A-16. Están gobernados, uno
+por uno, por los Siete Monarcas de la Sombra y sus casas reales son las fijadas
+en A-17. Su orden geográfico general de norte a sur queda fijado en A-18. Los
+nombres individuales de los monarcas, las características, las fronteras,
+superficies, distancias, sistemas de gobierno, historia y relaciones políticas
+permanecen sin definir.
 No forman por decisión acumulada una unidad política ni se presupone que sus
 monarcas actúen coordinadamente o reconozcan una autoridad común.
 
 ### N-02. Tábura Stroi
 
 **Estado:** decisión humana de alto nivel incorporada mediante A-01 y A-04 a
-A-13; no es canon.
+A-19; no es canon.
 
 Se fija que es una sociedad secreta, integrada por hombres y mujeres entre los
 que hay Portadores e Invocadores, organizada en células clandestinas aisladas,
@@ -845,9 +965,14 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
   de la Casa Valkyren en Valastir?
 - ¿Cuál es la identidad individual de cada uno de los Siete Monarcas de la
   Sombra o Siete Príncipes Podridos?
-- ¿Cómo se distribuyen entre seres poseídos por el Rey Podrido, Grimm y el
-  supuesto Möbius?
-- ¿Cuál es la identidad del supuesto Möbius y cuál es el origen de la sospecha?
+- ¿Cuáles fueron los dos príncipes asesinados por la Stroi Tábura?
+- ¿Cuál es la identidad de los dos Grimm hijos de Katerina que los reemplazaron?
+- ¿Cuál es la identidad del príncipe unido al Möbius y cuáles fueron las
+  circunstancias de esa unión?
+- ¿Cuáles fueron las circunstancias de la desaparición de Katerina y del Rey
+  Podrido?
+- ¿Cuál es la identidad y el destino del noveno receptáculo como individuo?
+- ¿Cuál de los monarcas, si alguno, posee actualmente la corona negra de Grimar?
 - ¿Qué razones y mecanismos permiten a los monarcas ocultar su verdadera
   naturaleza?
 - ¿Qué relaciones políticas existen entre los siete reinos?
@@ -858,7 +983,7 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 
 ## Aportaciones humanas incorporadas
 
-Las decisiones humanas A-01 a A-13 quedaron registradas en la sección
+Las decisiones humanas A-01 a A-19 quedaron registradas en la sección
 «Decisiones humanas acumuladas». Las futuras aportaciones se incorporarán en
 secciones separadas y se clasificarán como decisiones, propuestas o asuntos
 pendientes.
