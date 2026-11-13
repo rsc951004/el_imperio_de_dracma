@@ -8,6 +8,63 @@ para preparar un eventual volcamiento; no autorizan su ejecución.
 Cada resolución final sustituye toda formulación incompatible de las
 secciones anteriores de los documentos de trabajo de este proceso.
 
+## Decisiones humanas recuperadas de la versión anterior
+
+Estas decisiones constaban en la versión de este documento registrada en la
+revisión Git `2ba79c2`, anterior a la eliminación de los documentos de trabajo
+y a su reconstrucción. Se recuperan por su contenido y precedencia, sin
+restaurar el documento eliminado. Sus identificadores originales se indican
+como históricos para distinguirlos de R-01 a R-04 de esta versión. R-03 vigente
+sustituye el apellido Cojocaru atribuido entonces a Loras.
+
+### H-02. Peregrinos Negros (R-02 histórica)
+
+Los Peregrinos Negros viajaron muchas veces a Stigria durante la existencia de
+Astria. Elio, Narissa y Dante llegaron con una migración posterior y distinta
+de la expedición documentada durante la Edad de la Podredumbre. Su fecha no
+está fijada y no se establece si ocurrió después de la caída de Astria.
+
+### H-03. Secuencia de las células de Loras (R-03 histórica)
+
+Loras Dragomir integró la Célula 1378 con su nombre de nacimiento, bajo el
+liderazgo del Viejo Imrik, su mentor. Tras la muerte de este adoptó el nombre
+Imrik Valkyren. Ya usaba esa identidad cuando integró y después lideró la
+Célula 1432; sobrevivió a su purga y más tarde lideró la 1466. La fecha exacta
+de la muerte del Viejo queda reservada.
+
+### H-04. Gemelos de Katerina y Grimar (R-04 histórica)
+
+Katerina estaba embarazada de gemelos. El que permaneció en el Gherin es
+antepasado de la línea Valgard velada cuyo descendiente desconoce su ascendencia.
+El que Katerina llevó a Oriente es el noveno receptáculo del Rey Podrido y el
+padre de los siete príncipes originales, engendrados con Katerina. No se fija
+un vínculo adicional entre Loras y la línea velada. La identidad del
+descendiente velado y las generaciones intermedias permanecen reservadas.
+
+### H-05. Secuencia de las liberaciones (R-05 histórica)
+
+Iulien solo pudo liberar Rauven; el grupo liberado por el Rey Podrido se
+encontraba en Grimheim. La liberación de Grimheim ocurrió después de la
+liberación de Roshdom por Iulien y del confinamiento del Rey Podrido. La fecha
+exacta, los motivos y la naturaleza y posible herencia de la influencia
+residual permanecen reservados conforme a A-22.
+
+### H-07. Conocimiento histórico (R-07 histórica)
+
+Para cualquier dracmés alfabetizado con conocimientos históricos, las
+falsificaciones de la Revelación de los Siete resultan evidentes. Reconocerlas
+no implica conocer la verdadera naturaleza de los Eternos, el origen de Anuir
+ni los secretos del Rey Podrido. El conocimiento específico de la Stroi sobre
+los monarcas permanece reservado.
+
+### H-08. Conocimiento de la Célula 1466 (R-08 histórica)
+
+Imrik, Millicent, Cassyan, Dymtrik y Parys saben que forman parte de la Stroi
+Tábura. La decisión no establece qué saben las demás células ni qué información
+comparten entre sí; se conserva la compartimentación de A-01.
+
+## Resoluciones actuales
+
 ### R-01. Condición mística de Imrik (AU-01)
 
 Prevalece la decisión humana establecida en A-11. **Loras Dragomir,

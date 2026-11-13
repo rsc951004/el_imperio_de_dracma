@@ -7,9 +7,7 @@ volcamiento.
 
 ## Estado y autoridad
 
-Las fuentes de decisiones humanas registradas hasta ahora son la instrucción de
-iniciar este proceso, sus límites expresos y la decisión A-01 incorporada más
-abajo:
+La instrucción inicial y sus límites organizaron el comienzo del proceso:
 
 - trabajar con el título **«Los Reinos Sombríos y la Tábura Stroi»**;
 - comenzar por la acumulación;
@@ -21,10 +19,10 @@ abajo:
   volcamiento;
 - no modificar ningún archivo de `docs/` ni `cuentos/`.
 
-Los Reinos Sombríos siguen sin tener decisiones humanas sobre su identidad,
-historia, alcance, geografía o relaciones. La Tábura Stroi cuenta con la
-decisión A-01, que fija algunos rasgos de alto nivel y deja expresamente otros
-asuntos pendientes.
+Las decisiones posteriores A-01 a A-23 y las resoluciones humanas amplían y,
+cuando corresponda, sustituyen las formulaciones iniciales. La auditoría de
+cierre y el plan fueron autorizados posteriormente; el volcamiento y los
+cambios canónicos siguen requiriendo autorización independiente.
 
 ## Alcance de esta fase
 
@@ -263,9 +261,9 @@ su pertenencia a la Stroi Tábura y sus actividades clandestinas.
 
 ### Imrik y las células anteriores
 
-**Célula 1378:** anteriormente **Grupo 7**. Imrik fue integrante junto con
-**Arystan Khan** y **Ellis Rosamund**. La célula conserva su denominación
-definitiva.
+**Célula 1378:** anteriormente **Grupo 7**. Loras Dragomir fue integrante junto
+con **Arystan Khan** y **Ellis Rosamund**, bajo el liderazgo del Viejo Imrik.
+La célula conserva su denominación definitiva.
 
 **Célula 1432:** anteriormente **Grupo 2** y, provisionalmente, **Grupo 34**.
 Fue comandada por Imrik. Todos sus integrantes salvo Imrik murieron, incluida
@@ -273,12 +271,14 @@ Fue comandada por Imrik. Todos sus integrantes salvo Imrik murieron, incluida
 
 Quedan pendientes:
 
-- el conocimiento que tienen los integrantes de la Célula 1466 sobre su
-  pertenencia a la Stroi Tábura;
 - las actividades clandestinas específicas de la célula;
 - la relación entre la identidad pública de la banda y las demás células de la
   Stroi Tábura;
 - la historia de las células y su incorporación a la organización.
+
+Imrik, Millicent, Cassyan, Dymtrik y Parys saben que pertenecen a la Stroi
+Tábura. La información que conocen o comparten las demás células permanece sin
+definir.
 
 ### A-04. Jerarquía de la Stroi Tábura
 
@@ -305,7 +305,7 @@ los siguientes niveles:
    Cassyan, Dymtrik y Parys pertenecen a este nivel.
 
 La composición exacta y el funcionamiento interno del Consejo, así como la
-identidad de los Custodios, permanecen pendientes.
+identidad de los demás Custodios, permanecen pendientes.
 
 ### El padre de Imrik
 
@@ -338,8 +338,8 @@ pendiente de las fases posteriores del proceso.
 Las células previamente desarrolladas reciben las siguientes denominaciones
 definitivas:
 
-- **Célula 1378:** anteriormente Grupo 7. Imrik fue integrante junto con
-  Arystan Khan y Ellis Rosamund.
+- **Célula 1378:** anteriormente Grupo 7. Loras Dragomir fue integrante junto
+  con Arystan Khan y Ellis Rosamund bajo el liderazgo del Viejo Imrik.
 - **Célula 1432:** anteriormente Grupo 2 y, provisionalmente, Grupo 34. Fue
   comandada por Imrik.
 - **Célula 1466:** anteriormente Grupo 13. Actualmente está dirigida por Imrik.
@@ -728,9 +728,9 @@ esas criaturas existan en el universo de Dracma ni determinan la naturaleza de
 los monarcas.
 
 Cada reino está gobernado por uno de los **Siete Monarcas de la Sombra**, también
-llamados **Siete Príncipes Podridos**. Permanecen sin definir las identidades de
-los monarcas, la distribución geográfica individual de los reinos, sus
-características, su historia y sus relaciones políticas.
+llamados **Siete Príncipes Podridos**. A-18 y A-20 fijan respectivamente su
+orden geográfico general y las identidades de los monarcas. Las características,
+historias y relaciones políticas particulares permanecen sin desarrollar.
 
 ### A-17. Casas reales de los Siete Reinos Sombríos
 
@@ -802,8 +802,10 @@ pendiente de las fases posteriores del proceso.
 de la petrificación y muerte de **Grimar Valgard**, último Raik de la dinastía
 Valgard.
 
-Tras su muerte, Katerina recuperó la corona de piedra negra de Grimar y se llevó
-al hijo que había concebido con él. Este hijo se convirtió en el **noveno
+Katerina estaba embarazada de gemelos de Grimar. Uno permaneció en el Gherin y
+es antepasado de la línea Valgard velada cuyo descendiente desconoce su
+ascendencia. Tras la muerte de Grimar, Katerina recuperó la corona de piedra
+negra y llevó al otro gemelo a Oriente. Este hijo se convirtió en el **noveno
 receptáculo del Rey Podrido**.
 
 #### Origen de los Siete Príncipes Podridos
@@ -1019,7 +1021,9 @@ mantuvo cautivos durante un período todavía no determinado.
 
 #### La liberación de los poseídos
 
-Posteriormente, el propio Rey Podrido decidió liberarlos. La liberación puso fin
+Después de la liberación de Roshdom por Iulien y del confinamiento del Rey
+Podrido, este decidió liberar al grupo que se encontraba en Grimheim. Iulien
+solo pudo liberar Rauven. La liberación puso fin
 a su posesión y a su tormento. **Los antiguos poseídos recuperaron plenamente su
 voluntad individual**, dejando de estar sometidos sobrenaturalmente.
 
@@ -1169,9 +1173,9 @@ derrocar a cada monarca, estatus, duración, relaciones detalladas y destino
 político de los territorios liberados permanecen sin definir. Las razones por
 las que la Stroi protegió a Imrik durante la purga de la Célula 1432, la
 composición y el funcionamiento interno del Consejo y la identidad de los
-Custodios también permanecen sin definir.
-También quedan abiertos el conocimiento de los integrantes de la Célula 1466,
-sus actividades clandestinas específicas, su relación con las demás células y la
+demás Custodios también permanecen sin definir.
+También quedan abiertas sus actividades clandestinas específicas, su relación
+con las demás células y la
 historia de la Célula 1466 dentro de la Stroi Tábura.
 
 ## Propuestas metodológicas no narrativas
@@ -1189,7 +1193,9 @@ Estas propuestas organizan el trabajo y no añaden lore:
 
 ## Asuntos pendientes iniciales
 
-Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
+Este inventario inicial conserva preguntas históricas; las decisiones posteriores
+de A-01–A-23 y de las resoluciones prevalecen cuando ya las respondieron. No
+debe tratarse cada pregunta como una reserva vigente.
 
 - ¿Cuáles son las características de los siete Reinos Sombríos?
 - ¿Cuáles son sus territorios y sistemas de gobierno?
@@ -1210,8 +1216,6 @@ Las preguntas siguientes quedan abiertas. No contienen respuestas implícitas:
 - ¿Tiene alguna relación con los Reinos Sombríos o con otras Táburas?
 - ¿Qué relación mantiene con Valastir y las demás organizaciones de Rauven?
 - ¿Cuál será el destino político de los territorios después de su liberación?
-- ¿Qué saben los integrantes de la Célula 1466 sobre su pertenencia a la Stroi
-  Tábura?
 - ¿Cuáles son las actividades clandestinas específicas de la Célula 1466?
 - ¿Cómo se relaciona la identidad pública de la Banda del Colmillo Blanco con
   las demás células de la Stroi Tábura?

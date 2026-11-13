@@ -99,3 +99,85 @@ para unirse a la Mort Tábura. Se conservan la captura y la condena, y se
 sustituye la afirmación de supervivencia exclusiva. Las circunstancias de su
 liberación o escape, los detalles de los encuentros y los motivos de Armand
 permanecen reservados. Véase R-04.
+
+## Revisión de la acumulación y efectos identificados
+
+Revisión previa de A-01 a A-23 completada. Los puntos siguientes registran
+efectos y reservas para el trabajo posterior; no constituyen una auditoría de
+cierre ni un plan de volcamiento.
+
+- **A-01 a A-08 — Stroi, células y Colmillo Blanco.** La sociedad y sus
+  células son desarrollo nuevo. La identificación de la Banda del Colmillo
+  Blanco exclusivamente con la Célula 1466 y la numeración definitiva de las
+  tres células sustituyen las referencias canónicas a los Grupos 13, 7 y 2
+  como grupos de la banda. El futuro traslado deberá revisar la ficha de la
+  banda, los índices y las fichas de sus integrantes, conservando las
+  relaciones y los hechos ya establecidos. Imrik, Millicent, Cassyan, Dymtrik
+  y Parys conocen su pertenencia a la Stroi (H-08); las causas de la protección
+  de Imrik siguen reservadas.
+- **A-09, A-14 y A-15 — Geografía y nombre.** Los reinos están en Grimheim y
+  Valastir en Rauven. A-15 sustituye Drauvhen por Velkhar como nombre de la
+  macrorregión; el nombre canónico actual es Grimmen. La sustitución afectará
+  referencias, títulos, enlaces e índices en varias fichas y deberá distinguir
+  la macrorregión de sus dos regiones. AU-02 fija la revisión de Delfos.
+- **A-10 a A-13 — Loras, su familia y la Mort Tábura.** R-01, R-03 y R-04
+  prevalecen sobre cualquier formulación anterior incompatible. La identidad
+  de Loras, la historia familiar y la continuidad de la Mort son desarrollo de
+  la acumulación. Revisar las fichas de Imrik, la Mort, la Casa Zorana y los
+  índices relacionados; contemplar la futura ficha Dragomir. El parentesco
+  exacto con el Viejo Imrik, la transmisión de los dones y las circunstancias
+  de la supervivencia de Armand siguen reservados.
+- **A-16 a A-18 — Reinos, casas y geografía.** Los nombres y casas son
+  decisiones nuevas; A-18 fija su orden general. Permanecen sin definir las
+  fronteras, superficies y distancias. La tradición sobre el origen del Bosque
+  Negro no confirma que ese origen haya ocurrido.
+- **A-19 y A-20 — Katerina y los monarcas.** La ascendencia y sucesión de los
+  príncipes son desarrollo nuevo. Las fichas de Katerina, Grimar, el Rey
+  Podrido y Valgard requieren contraste con las marcas de canon velado y sus
+  alcances antes de cualquier traslado. La responsabilidad por la petrificación
+  de Grimar es una definición nueva frente al mecanismo reservado en su ficha;
+  no determina el mecanismo. La identidad y destino del noveno receptáculo,
+  el paradero de Katerina y el Rey Podrido y el destino de la corona siguen
+  reservados en los términos de la acumulación.
+- **A-21 — Religión y prohibición mística.** La Revelación de los Siete y la
+  identidad de Anuir son decisiones nuevas; sus afirmaciones religiosas deben
+  distinguirse de la historia presentada como verdadera. Las prácticas,
+  instituciones y mecanismos expresamente reservados no requieren inventarse.
+  Comprobar al preparar el traslado el alcance de las marcas de canon velado,
+  sin atribuir conocimientos concretos a grupos para los que no se hayan
+  definido.
+- **A-22 — Liberaciones y población.** La acumulación distingue expresamente
+  la liberación realizada por el Rey Podrido de la de Roshdom realizada por
+  Iulien. Las formulaciones generales de `docs/mundo/stigria/roshdom.md`,
+  `docs/personajes/iulien-therin.md` y `docs/mundo/stigria/edad-de-plata.md`
+  sobre los poseídos que lo siguieron requieren revisión para expresar esa
+  distinción ya decidida. La liberación de Grimheim siguió a la de Roshdom y al
+  confinamiento del Rey (H-05); la fecha exacta, los motivos y la naturaleza de
+  la influencia posterior siguen reservados.
+- **A-23 — Transformación de Loras.** La intervención de Arystan y la
+  apariencia son desarrollo nuevo compatible con la Forja como está descrita;
+  sus detalles reservados no necesitan completarse. Debe revisarse la ficha de
+  Arystan y preservarse el canon velado ya existente sobre él, Ellis, Mili y
+  Cerbero.
+
+La crónica canónica de Erebia y el marco de Astria fueron contrastados para
+los antecedentes de los vínculos, la Casa Zorana y los Peregrinos Negros. No
+se identificó allí un conflicto adicional que requiera decisión humana para
+estas entradas. La revisión no convierte el material de esta carpeta en canon.
+
+**Rectificación posterior:** se recuperaron de la revisión histórica Git
+`2ba79c2` decisiones humanas omitidas en la reconstrucción de las resoluciones:
+H-02 a H-05, H-07 y H-08. Deben aplicarse junto con R-01 a R-04, respetando
+las sustituciones posteriores. La auditoría anterior había tratado indebidamente
+como reservas el conocimiento de los cinco integrantes de 1466 y la secuencia
+relativa de las liberaciones.
+
+## Balance de la revisión previa
+
+- AU-01 a AU-04 tienen resolución humana registrada en R-01 a R-04.
+- No se identificaron otros conflictos que requieran una decisión humana para
+  continuar esta fase. Los puntos sin desarrollar permanecen como reservas.
+- Las consecuencias documentales señaladas deben examinarse cuando corresponda
+  preparar el plan; el presente registro no aprueba ni ejecuta cambios.
+- La auditoría de cierre, el plan y el volcamiento no se han iniciado y
+  requieren las instrucciones que correspondan según las reglas del proceso.
