@@ -19,24 +19,24 @@ velado:
 
 - Es hija de **Ellis Rosamund** y **Arystan Khan**.
 - Arystan Khan es hijo de **Oskar Rheiner** y **Lya Khan**.
-- **Oskar Khan** desciende de **Leandrin Rheiner**.
+- **Oskar Rheiner** desciende de **Leandrin Rheiner**.
 
-Queda por confirmar si Oskar Rheiner y Oskar Khan son la misma persona y cuál
-es su nombre definitivo. Queda por fijar quiénes desconocen esta ascendencia.
+Las generaciones que separan a Oskar de Leandrin quedan reservadas para un
+desarrollo futuro. Queda por fijar quiénes desconocen esta ascendencia.
 El alcance preciso del velo se definirá antes de preparar su marca editorial
 en el canon.
 
-### A-03. Arystan Khan, Ellis Rosamund y el sellado de Osse
+### A-03. Arystan Khan, Ellis Rosamund y el sellado de Ose
 
 Arystan Khan nació en el **Gherin**. Tras descubrir que posee el **don de la
-Forja**, comienza a ser perseguido por los seguidores de la **Llama Blanca**.
-Con ayuda de su familia, consigue abandonar el Gherin y viajar hacia **Valestir**.
+Forja**, comienza a ser perseguido por seguidores de la **Orden de la Flama Blanca**.
+Con ayuda de su familia, consigue abandonar el Gherin y viajar hacia **Valastir**.
 
 Allí conoce a la **Banda del Colmillo Blanco** y se incorpora al **Grupo 7**,
 donde conoce a **Ellis Rosamund**, una Portadora con el **don de la
 Enclaustración**, quien se convierte en su gran amor.
 
-Juntos consiguen **sellar a Osse en una quimera llamada Cerbero**, una criatura
+Juntos consiguen **sellar a Ose en una quimera llamada Cerbero**, una criatura
 descrita como un felino alado.
 
 Arystan Khan y Ellis Rosamund **mueren luchando contra Mortis, un grim**.
@@ -46,7 +46,7 @@ Arystan Khan y Ellis Rosamund **mueren luchando contra Mortis, un grim**.
 - Las circunstancias de la persecución de Arystan y su incorporación al Grupo 7.
 - La historia de amor entre Arystan y Ellis.
 - El origen y la naturaleza de Cerbero.
-- Las circunstancias y consecuencias del sellado de Osse.
+- Las circunstancias y consecuencias del sellado de Ose.
 - La identidad, motivaciones y naturaleza de Mortis.
 - Las circunstancias del enfrentamiento que provoca la muerte de ambos.
 - La cronología de estos acontecimientos y su relación con Millicent.
@@ -70,8 +70,7 @@ constituyen las fuentes para contrastar el desarrollo de esta acumulación.
 
 - La historia, el propósito y el funcionamiento del Grupo 13.
 - Las relaciones, trayectorias y funciones de sus integrantes.
-- La identidad de Oskar y el alcance del velo sobre la
-  ascendencia de Millicent.
+- El alcance del velo sobre la ascendencia de Millicent.
 - Los efectos del desarrollo sobre la banda y las fichas relacionadas.
 
 Estos temas quedan abiertos para las decisiones humanas; no implican hechos ya
