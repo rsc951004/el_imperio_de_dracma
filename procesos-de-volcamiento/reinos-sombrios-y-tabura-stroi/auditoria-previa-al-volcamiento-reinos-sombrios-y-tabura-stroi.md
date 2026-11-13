@@ -1,208 +1,271 @@
-# Auditoría previa al volcamiento: Los Reinos Sombríos y la Tábura Stroi
+# Auditoría previa corregida: Los Reinos Sombríos y la Tábura Stroi
 
-Documento de trabajo **no canónico**. Esta auditoría contrasta la acumulación
-`acumulacion-reinos-sombrios-y-tabura-stroi.md` con el canon vigente y no
-autoriza modificar `docs/` ni `cuentos/`.
+Documento de trabajo **no canónico**. Esta revisión sustituye las conclusiones
+metodológicas de la primera auditoría, cuyos identificadores D-01–D-12 e
+I-01–I-08 se conservan para trazabilidad. No es una auditoría de cierre ni un
+plan de volcamiento y no autoriza modificar el canon.
 
-## Alcance
+## Fuentes, alcance y criterios
 
-Se auditan las decisiones A-01 a A-23 de la acumulación, incluidos sus
-antecedentes, correcciones, reservas y consecuencias declaradas. La auditoría:
+Se contrastan A-00–A-23 y sus antecedentes, correcciones, reservas y efectos
+con `docs/` y `cuentos/` de `master` en el estado `37baa797`. La acumulación de
+resoluciones se revisa como documento posterior, no como prueba suficiente de
+que cada frase titulada «resolución humana» fue pronunciada o aprobada por el
+humano. Se examinó el historial Git del proceso y las conversaciones de Codex
+disponibles; estas no aportan el intercambio independiente de la primera ronda
+R-01–R-08. Los documentos registran A-01–A-23 como decisiones humanas; se
+utilizan como registro documental, sin afirmar que se ha comprobado la
+transcripción original de cada una. Una falta de respaldo independiente no
+prueba que la decisión no existiera.
 
-- identifica contradicciones directas con el canon;
-- identifica contradicciones internas de la acumulación;
-- distingue los datos no establecidos de las incompatibilidades;
-- registra efectos sobre geografía, cronología, personajes, casas, Táburas,
-  entidades, índices, enlaces y marcas de canon velado;
-- no inventa soluciones ni decide qué formulación debe prevalecer.
+Una **contradicción canónica** requiere afirmaciones incompatibles; una
+**ampliación** agrega información no establecida; una **contradicción interna**
+requiere dos afirmaciones acumuladas vigentes incompatibles. Las decisiones
+posteriores sustituyen formulaciones anteriores incompatibles. La reserva de un
+detalle no lo convierte en conflicto ni obliga a completarlo ahora. La decisión
+acumulada no modifica por sí misma el canon.
 
-## Fuentes canónicas principales
+## Reconstrucción y contraste de A-00–A-23
 
-- `docs/mundo/stigria/grimmen.md`
-- `docs/mundo/stigria/valastir.md`
-- `docs/mundo/stigria/roshdom.md`
-- `docs/mundo/stigria/edad-de-la-podredumbre.md`
-- `docs/mundo/stigria/edad-de-la-tirania.md`
-- `docs/cronologia.md`
-- `docs/personajes/rey-podrido.md`
-- `docs/personajes/katerina.md`
-- `docs/personajes/grimar-valgard.md`
-- `docs/casas/valgard.md`
-- `docs/casas/cojocaru.md`
-- `docs/casas/zorana.md`
-- `docs/personajes/imrik.md`
-- `docs/organizaciones/banda-del-colmillo-blanco.md`
-- `docs/personajes/arystan-khan.md`
-- `docs/personajes/ellis-rosamund.md`
-- `docs/personajes/arys-therin.md`
-- `docs/personajes/millicent-rosamund.md`
-- `docs/personajes/cassyan-therin.md`
-- `docs/personajes/dymtrik.md`
-- `docs/personajes/parys-therin.md`
-- `docs/taburas/tabura.md`
-- `docs/taburas/mort-tabura.md`
-- `docs/taburas/grien-tabura.md`
-- `docs/taburas/moes-tabura.md`
-- `docs/entidades/grimm.md`
-- `docs/entidades/mobius.md`
-- `docs/entidades/portadores.md`
-- `docs/entidades/invocadores.md`
-- `docs/entidades/ghera.md`
-- `docs/entidades/thalmos.md`
-- `docs/mundo/stigria/emisarios-de-la-ruina.md`
-- `docs/organizaciones/peregrinos-negros.md`
+Las rutas citadas son fuentes canónicas en `master`. En cada punto, la acción
+propuesta pertenece a esta revisión y no autoriza su ejecución en el canon.
 
-## Resultado general
+- **A-00:** Drauvhen era el nombre propuesto para la macrorregión del Grimmen.
+  A-15 lo sustituyó expresamente por Velkhar. `docs/mundo/stigria/grimmen.md`
+  conserva Grimmen como nombre vigente. **Cambio nominal previsto**, no dos
+  regiones sin relación ni una elección pendiente entre nombres. Acción: aplicar
+  A-15 como precedencia en el trabajo no canónico. D-02, I-01, R-01.
+- **A-01:** Stroi actúa en Rauven y los siete reinos de Grimheim, busca liberar
+  los reinos y recuperar Rauven; sus células se compartimentan. El canon de
+  `docs/mundo/stigria/grimmen.md` distingue Rauven y Grimheim y no establece la
+  Stroi. **Ampliación**, con ubicación ajustada por A-14–A-15. Actuar en ambos
+  territorios no los identifica. Acción: conservar el alcance aprobado; las
+  operaciones concretas son desarrollo reservado. D-01, I-02, R-01 y R-08.
+- **A-02:** siete reinos independientes y monarcas de naturaleza oculta. A-19
+  y A-20 fijan composición y nombres. `docs/entidades/grimm.md` y
+  `docs/personajes/katerina.md` admiten Grimm y descendencia de Katerina, sin
+  establecer estos individuos. **Ampliación**; las antiguas frases que dejan
+  nombres pendientes están superadas. Acción: aplicar A-19–A-20 y conservar las
+  reservas efectivas. D-06, I-03, I-06, R-06.
+- **A-03:** la célula 1466 es la fachada llamada Banda del Colmillo Blanco;
+  1378 corresponde al antiguo Grupo 7 y 1432 al Grupo 2. El canon de
+  `docs/organizaciones/banda-del-colmillo-blanco.md` atribuye el nombre de banda
+  a una organización que incluye también los grupos 7 y 2. **Cambio real de
+  alcance de la identidad de la banda y de su organización**, no mera ausencia.
+  Acción: conservar el cambio decidido y reconocer la revisión necesaria del
+  canon si se autoriza; el conocimiento interno de 1466 figura pendiente en A-03.
+  I-04, R-03, R-08.
+- **A-04:** Consejo, Custodios, Comandantes, Líderes y Expósitos; Armand es
+  Custodio y padre de Loras. `docs/taburas/tabura.md` no establece esta Tábura;
+  `docs/casas/cojocaru.md` no contiene a Armand. **Ampliación**. Las identidades
+  y funcionamiento explícitamente reservados no impiden aceptar la estructura.
+  Acción: preservar A-11–A-12 para las relaciones familiares. R-03, R-08.
+- **A-05:** creación y numeración consecutiva e irreutilizable de células.
+  `docs/taburas/tabura.md` no establece esa regla. **Ampliación compatible**.
+  Acción: conservar sin exigir cantidad de células activas ni cronología total.
+- **A-06:** identificaciones 1378, 1432 y 1466 y uso exclusivo del sobrenombre.
+  `docs/organizaciones/banda-del-colmillo-blanco.md` mantiene grupos 7, 2 y 13
+  dentro de la banda. **Cambio institucional real**, como A-03. Acción:
+  conservar equivalencias y cambio de alcance; no inferir otras células. I-04.
+- **A-07:** purga de 1432, extracción de Imrik y casi diez células adicionales
+  aniquiladas. `docs/personajes/arys-therin.md` registra la muerte de Arys y su
+  pertenencia al Grupo 2, sin describir esa purga. **Ampliación**, sin razón
+  fijada para la extracción. Acción: mantener esa razón como reserva. I-04.
+- **A-08:** tras la purga Imrik decide quedarse por Millicent, con la condición
+  de abandonar el sur de Rauven, y lidera 1466. `docs/personajes/imrik.md`
+  establece que está a cargo de Mili y del Grupo 13, no este itinerario.
+  **Ampliación**; abandonar una zona de Rauven no ubica allí los siete reinos.
+  Acción: conservar el episodio y distinguir la atribución de identidades de la
+  fecha exacta del cambio de nombre. D-01, I-04, R-03.
+- **A-09:** Velkhar comprende Rauven con Valastir y Grimheim con los siete
+  reinos. `docs/mundo/stigria/grimmen.md` y `valastir.md` fijan esa estructura
+  bajo el nombre Grimmen. **Cambio nominal y ampliación territorial compatible**.
+  Acción: mantener A-14–A-15; no reabrir la posición de Valastir. D-01–D-02.
+- **A-10:** Loras Cojocaru, llamado Loras Zorana por la Mort, es hijo de Armand;
+  Verna es padre de Elio, Narissa y Dante, quienes emigran como Peregrinos. El
+  canon de `docs/casas/zorana.md` admite ramas de ese linaje; `docs/personajes/imrik.md`
+  no establece la identidad anterior. **Ampliación**, salvo la cronología de
+  la Mort tratada en A-11. La genealogía intermedia queda reservada por A-10.
+  Acción: no identificar a los tres con la expedición de la Podredumbre por
+  compartir denominación. D-07, D-09, I-05, I-08, R-02–R-04.
+- **A-11:** los tres fundan Mort, esta crece en Dragma y sus supervivientes
+  llegan a Rauven; Armand infiltra la Stroi y Loras hereda dos dones. El canon
+  `docs/taburas/mort-tabura.md` la define como seguidores supervivientes de la
+  caída de Astria; `docs/cronologia.md` fecha su destrucción en +1254. A-10 solo
+  dice que la muerte de Verna coincide con esa caída, no que los hijos emigraran
+  después. `docs/organizaciones/peregrinos-negros.md` registra una expedición
+  anterior, sin afirmar que fuera la única. **Ampliación con cronología relativa
+  aún no fijada**, no contradicción demostrada entre expediciones. Si la
+  fundación se ubicara antes de +1254, habría que conciliarla con la descripción
+  canónica de Mort; el documento no fija esa fecha. Acción: no imponer una
+  migración posterior ni exigir fechar todos los hitos. D-09, R-02.
+- **A-12:** el Viejo Imrik protege, cría y entrena a Loras; Loras adopta el
+  nombre Imrik tras su muerte. A los 14 años Loras integra una célula dirigida
+  por el Viejo. `docs/personajes/imrik.md` describe al Imrik de Mili y Arystan;
+  no menciona al protector. **Ampliación de identidad y trayectoria**. A-03,
+  A-08, A-10 y A-23 vinculan al Imrik actual con Mili, Arystan y Loras: la
+  lectura continua atribuye a Loras las células 1378, 1432 y 1466; el nombre
+  anterior o posterior de cada episodio no está fechado. Acción: no trasladar
+  automáticamente la célula dirigida por el Viejo a una de las numeradas.
+  I-04–I-05, I-08, R-03.
+- **A-13:** Valkyren, apellido elegido por Loras, y futuro reconocimiento de
+  la casa con Mili, quien conserva Rosamund. `docs/personajes/millicent-rosamund.md`
+  no establece ese reconocimiento. **Ampliación futura compatible**. Acción:
+  conservar las circunstancias y fecha como reserva sin exigirlas. I-05, R-03.
+- **A-14:** corrección expresa: siete reinos en Grimheim y Valastir en Rauven.
+  `docs/mundo/stigria/valastir.md` confirma la ubicación de Valastir. **Ya
+  resuelto en la acumulación**, y compatible con el canon territorial. Acción:
+  sustituir las ubicaciones anteriores incompatibles. D-01, I-02, R-01.
+- **A-15:** Velkhar es la macrorregión que comprende Rauven y Grimheim, y
+  sustituye Grimmen y Drauvhen. `docs/mundo/stigria/grimmen.md` mantiene
+  Grimmen como nombre canónico. **Cambio nominal explícito**, no Velkhar como
+  subdivisión de Grimheim. Acción: mantener el canon actual hasta autorización.
+  D-02, I-01, R-01.
+- **A-16:** siete nombres de reinos, con inspiraciones externas que no agregan
+  criaturas. `docs/mundo/stigria/grimmen.md` no enumera tales reinos.
+  **Ampliación**; A-18 fija orden y A-20 sus monarcas. Acción: aplicar ambas
+  precedencias a los pendientes antiguos. I-03, I-06.
+- **A-17:** siete casas reales asociadas a esos reinos. `docs/casas.md` no las
+  establece. **Ampliación**; antigüedad, genealogías e historias quedan
+  reservadas. Acción: no exigirlas como condición de coherencia.
+- **A-18:** Bosque Negro entre Valastir y Naskeria; orden norte-sur de siete
+  reinos. Su origen es una tradición no confirmada. `docs/mundo/stigria/gherin.md`
+  describe el antiguo cauce y la posterior unión territorial de Rauven y
+  Grimheim, sin situar este bosque. **Ampliación compatible**: una barrera
+  boscosa no implica separación terrestre absoluta. Acción: conservar el orden
+  y la incertidumbre del origen; no exigir fronteras, distancias o mapa. R-01.
+- **A-19:** hijo de Grimar y Katerina como noveno receptáculo, progenitor de
+  siete príncipes; dos muertos y dos Grimm sustitutos; paraderos desconocidos.
+  `docs/personajes/katerina.md` y `grimar-valgard.md` confirman un hijo y una
+  línea sobreviviente velada que desconoce su ascendencia; no identifican al
+  descendiente ni prohíben ramificaciones. **Ampliación**, con una tensión
+  concreta que exige comprobar cómo se cumple la formulación canónica de las
+  dos líneas y el desconocimiento de su descendiente si los príncipes son
+  descendientes de Grimar. A-19 no identifica si la línea velada es otra rama:
+  no fijarlo por inferencia. El paradero desconocido no equivale a muerte o
+  inactividad; la actividad de Katerina en la Edad de Oro es compatible si se
+  conserva. Acción: decisión humana sobre la relación necesaria con la línea
+  velada, sin dar por probada separación. D-04–D-06, R-04.
+- **A-20:** identidades, casas y naturaleza de los siete monarcas, incluido
+  Aesh unido a un Möbius. `docs/entidades/mobius.md` reserva capacidades
+  particulares; `docs/entidades/grimm.md` impide al Rey Podrido poseer Grimm,
+  sin establecer que Aesh sea Grimm ni que la unión sea posesión por el Rey.
+  **Ampliación**. Acción: mantener literalmente la unión y su mecánica reservada;
+  no inventar una incompatibilidad. D-06, R-06.
+- **A-21:** los Siete Eternos inventan a Anuir y la Revelación; sus súbditos
+  aceptan una historia falsa, sin disidencia ni versiones alternativas. A-21
+  también afirma conocimiento de hechos históricos por habitantes instruidos
+  de Dragma. `docs/entidades/ghera.md` presenta la tradición de Ghera y Smürr,
+  no a Anuir. **Ampliación de doctrina y verdad editorial**, no contradicción
+  por ser una religión falsa. La ausencia de disidencia es decisión afirmada en
+  A-21, no vacío canónico; no demuestra conocimiento o ignorancia de la Stroi
+  ni de todo grupo externo. El control de Möbius por Imrik es capacidad nueva;
+  `docs/entidades/portadores.md` reserva las capacidades sombrías y
+  `docs/entidades/mobius.md` no confirma una regla universal de control.
+  Acción: conservar el alcance expresado y no imponer mecánicas adicionales;
+  solo precisar conocimiento si es necesario para una contradicción concreta.
+  D-03, D-11–D-12, I-07, R-07.
+- **A-22:** antiguos poseídos son liberados por el Rey y conservan voluntad;
+  su influencia residual y posible herencia quedan reservadas. La liberación es
+  distinta de la de Iulien. `docs/mundo/stigria/roshdom.md` afirma que los
+  poseídos que siguieron al Rey hasta Rauven fueron liberados de su dominio en
+  la campaña de Iulien. **Tensión textual concreta:** A-22 refiere a quienes
+  siguieron al Rey, los mantiene cautivos y les atribuye una liberación distinta;
+  la formulación canónica puede leerse como inclusiva de ese mismo conjunto.
+  No se demuestra una fecha posterior a -193 ni se justifica imponerla. Acción:
+  pedir decisión sobre cómo conciliar el alcance de ambos conjuntos y hechos;
+  no convertir la influencia reservada en control o herencia establecidos.
+  D-10, I-07, R-05.
+- **A-23:** tras morir el Viejo, Arystan transforma a Loras a pedido suyo.
+  `docs/personajes/arystan-khan.md` confirma que Arystan poseía Forja y murió
+  contra Mortis; `docs/entidades/portadores.md` permite transformar cuerpos.
+  **Ampliación compatible**: el orden implica que Arystan vivía para realizarla,
+  sin requerir fecha exacta. Acción: respetar ese orden y mantener el método
+  como reserva. D-08, I-05, I-08, R-03.
 
-El bloque no está listo para volcamiento. Hay decisiones humanas que podrían
-desarrollarse como ampliaciones compatibles, pero también existen conflictos
-geográficos, cronológicos, identitarios e institucionales que requieren
-resolución humana. La acumulación contiene además formulaciones antiguas que no
-han sido sustituidas de manera uniforme por las decisiones posteriores.
+## Rectificación de los hallazgos anteriores
 
-Ningún conflicto se resuelve en esta auditoría.
+| Hallazgo anterior | Evaluación corregida | Referencias y acción |
+|---|---|---|
+| D-01 / I-02 | **Falso conflicto pendiente:** A-14 ya corrigió la ubicación; A-01 opera en ambas regiones. | A-01, A-09, A-14–A-15, A-18; R-01 no originó la decisión. |
+| D-02 / I-01 | **Error de lectura:** A-15 define Velkhar como macrorregión y sustituye Drauvhen; cambio real respecto del nombre canónico Grimmen. | A-00, A-09, A-14–A-15. |
+| D-03 / D-12 / I-07 | **Falso positivo por ausencia:** A-21 fija la doctrina, su falsedad, ausencia de disidencia y conocimiento de instruidos de Dragma; A-22 añade desconocimiento del origen. No son incompatibles entre sí. | A-21–A-22; `docs/entidades/ghera.md`; R-07 no borra lo ya decidido. |
+| D-04 | **Falso conflicto:** paradero desconocido no implica cese de actividad. | A-19; `docs/personajes/katerina.md`. |
+| D-05 | **Tensión concreta, sin solución acreditada:** hay descendencia de Grimar entre príncipes y una línea velada; su relación y el alcance de la formulación canónica requieren decisión. | A-19–A-20; `docs/casas/valgard.md`; R-04 no acredita separación. |
+| D-06 | **Ampliación compatible:** existencia de príncipes y Grimm descendientes de Katerina no contradice la ficha. | A-19–A-20; `docs/personajes/katerina.md`. |
+| D-07 | **Mixto:** identidad y genealogía son ampliaciones; la ficha llama Portador a Imrik y A-11 Invocador, clasificación diferente según el origen del vínculo. La identidad de ambos está documentada por A-10–A-12; no es pendiente. | `docs/personajes/imrik.md`, `docs/entidades/invocadores.md`, `portadores.md`; reconocer cambio de clasificación, no inventar imposibilidad de dos dones. |
+| D-08 | **Falso impedimento cronológico:** A-23 ya ordena muerte del Viejo, transformación por Arystan y, por necesidad, muerte posterior de Arystan. | A-12, A-23; `docs/personajes/arystan-khan.md`. |
+| D-09 | **Conflicto afirmado sin prueba:** Peregrino es una función, no una expedición única. Mort es posterior a la caída en su descripción canónica; A-10–A-11 no fijan todas las fechas relativas. | `docs/organizaciones/peregrinos-negros.md`, `docs/taburas/mort-tabura.md`, `docs/cronologia.md`; R-02 carece de respaldo independiente. |
+| D-10 | **Tensión real limitada:** alcance de los poseídos de Roshdom frente a los de A-22, no necesidad de fechar la liberación exactamente. | A-22; `docs/mundo/stigria/roshdom.md`; R-05 no acredita el orden posterior. |
+| D-11 | **Falso positivo por novedad:** persecución y control individual son aportes; la mecánica universal no está decidida. | A-21; `docs/entidades/mobius.md`, `portadores.md`. |
+| I-03 / I-06 | **Ya resuelto:** A-20 fija monarcas y A-18 su orden; los pendientes anteriores son residuos. | A-02, A-16, A-19–A-20. |
+| I-04 / I-05 / I-08 | **Sobredimensionado:** A-10–A-13 y A-23 identifican Loras, Viejo Imrik y sucesión del nombre; A-03 y A-08 enlazan al Imrik actual con episodios. La célula del Viejo no tiene número asignado y las fechas exactas están reservadas. | Conservar atribución y reservas sin crear confusión artificial. |
 
-## Contradicciones directas o nudos de compatibilidad
+Además, A-03 y A-06 sí sustituyen la estructura pública de la banda en
+`docs/organizaciones/banda-del-colmillo-blanco.md`; esta incompatibilidad de
+alcance fue diluida en la primera auditoría. A-11 clasifica a Loras como
+Invocador frente al Portador canónico: es un cambio concreto, no una razón
+para cuestionar toda la identidad. Ambas son decisiones acumuladas que
+requerirían modificar el canon si se autorizara el traslado, no nuevos dilemas
+sobre si fueron tomadas.
 
-| ID | Elemento acumulado | Canon contrastado | Hallazgo | Efecto y decisión necesaria |
-|---|---|---|---|---|
-| D-01 | A-01, A-09, A-15 y A-18 sitúan la actividad de la Stroi en Rauven, mientras A-16, A-20, A-21 y A-22 sitúan los siete reinos en Grimheim. | `docs/mundo/stigria/grimmen.md`, `docs/mundo/stigria/valastir.md` | La acumulación no mantiene una ubicación única para los Reinos Sombríos. | Resolver si son reinos de Rauven, de Grimheim o si existe una relación territorial definida entre ambos. Afecta mapas, fronteras, Valastir, cronología y todas las fichas geográficas. |
-| D-02 | A-15 introduce Velkhar como región de Grimheim y A-00 conserva Drauvhen como denominación anterior. | `docs/mundo/stigria/grimmen.md`, `docs/mundo.md` | El canon vigente identifica el Grimmen como macrorregión que comprende Rauven y Grimheim; no establece Velkhar ni Drauvhen. Dentro de la acumulación hay dos denominaciones no armonizadas. | Determinar si Velkhar es una subdivisión, un nombre sustituto, un error provisional o un elemento que debe descartarse. No puede actualizarse geografía o índices antes de resolverlo. |
-| D-03 | A-21 afirma que la Revelación de los Siete presenta una historia falsa, mientras la acumulación la describe como la verdad aceptada por toda la población y sin disidencia. | `docs/entidades/ghera.md`, `docs/mundo/stigria/grimmen.md` | No es una contradicción automática: puede tratarse de una doctrina falsa dentro del mundo. Sin embargo, la afirmación absoluta sobre ausencia de disidencia y versiones alternativas no está establecida en el canon. | Definir el alcance narrativo y editorial de esa falsedad, los grupos que conocen la historia real y las marcas `CANON-VELADO` necesarias. |
-| D-04 | A-19 afirma que Katerina y el Rey Podrido desaparecen y son desconocidos incluso para los monarcas. | `docs/personajes/katerina.md`, `docs/personajes/rey-podrido.md` | El canon confirma que Katerina continúa operando desde las sombras durante la Edad de Oro y que el Rey Podrido está confinado en las profundidades del Grimmen. La acumulación no explica si «paradero desconocido» significa desconocido para los personajes, ausencia física o desaparición efectiva. | Resolver el alcance de la desaparición y ajustar las marcas de conocimiento. No se puede convertir en una muerte, fuga o cese de actividad por inferencia. |
-| D-05 | A-19 atribuye al hijo de Grimar y Katerina la conversión en noveno receptáculo y lo hace progenitor de los siete príncipes. | `docs/personajes/grimar-valgard.md`, `docs/personajes/katerina.md`, `docs/casas/valgard.md` | El canon confirma un hijo de Grimar y Katerina y una línea descendiente velada, pero no confirma su identidad como receptáculo ni la descendencia de los siete monarcas. | Resolver cómo se relaciona esta decisión con la línea Valgard velada, qué conocimiento conserva el descendiente canónico y si deben actualizarse las marcas de secreto. |
-| D-06 | A-19 y A-20 hacen que Katerina engendre Grimm y siete príncipes, incluidos dos reemplazos Grimm. | `docs/personajes/katerina.md`, `docs/personajes/rey-podrido.md` | El canon sí establece que Katerina engendra Grimm, por lo que la categoría es compatible en principio. No establece los dos Grimm, los siete príncipes ni su jerarquía. | Requiere nuevas fichas de personajes o entidades, relaciones de filiación y una decisión sobre qué parte queda como reserva narrativa. |
-| D-07 | A-10, A-11, A-12 y A-23 redefinen al Imrik canónico como Loras Cojocaru/Zorana y después Imrik Valkyren; además lo convierten en Invocador Sombrío y del Caos. | `docs/personajes/imrik.md`, `docs/entidades/portadores.md`, `docs/entidades/invocadores.md`, `docs/casas/cojocaru.md`, `docs/casas/zorana.md` | El canon vigente presenta a Imrik como Portador Sombrío de treinta y un años, sin esta identidad, genealogía, apellido, transformación o doble condición de Invocador. | Es un conflicto de identidad y clasificación, no una simple ampliación. Requiere decidir reescritura de la ficha de Imrik, efectos sobre el índice, Casa Cojocaru, Casa Zorana, dones, edad y referencias. |
-| D-08 | A-23 afirma que Arystan modifica físicamente a Loras después de la muerte del Viejo Imrik. | `docs/personajes/arystan-khan.md`, `docs/personajes/imrik.md` | El canon confirma que Arystan murió luchando contra Mortis, pero no fija el momento de la muerte del Viejo Imrik ni la relación temporal con la transformación. | Resolver la cronología de ambos acontecimientos y si Arystan podía realizar la modificación. La técnica de Forja existe en el canon, pero no prueba que este acto haya ocurrido. |
-| D-09 | A-11 sitúa la Mort Tábura como fundada por Elio, Narissa y Dante y trasladada a Rauven; A-10 los hace Peregrinos Negros tras la caída de Astria. | `docs/taburas/mort-tabura.md`, `docs/organizaciones/peregrinos-negros.md`, `docs/cronologia.md`, `docs/mundo/stigria/edad-de-la-podredumbre.md` | El canon define Mort Tábura como reunión de supervivientes del Dios Negro tras la caída de Astria y deja su extensión reservada. Los Peregrinos Negros documentados llegaron a Stigria durante la Edad de la Podredumbre, mientras la destrucción canónica de Astria ocurre en el año +1254. | Resolver si los tres Zorana son esos Peregrinos, si «caída de Astria» designa otro acontecimiento o si la cronología debe cambiar. Afecta Mort, Peregrinos, Astria, Thalmos y notas cronológicas. |
-| D-10 | A-22 afirma una liberación de poseídos realizada por el propio Rey Podrido y distingue ese hecho de Roshdom. | `docs/mundo/stigria/roshdom.md`, `docs/personajes/rey-podrido.md`, `docs/cronologia.md` | El canon solo documenta explícitamente la liberación de Roshdom por Iulien y el confinamiento posterior del Rey Podrido. No establece una liberación anterior o posterior hecha por él. | Fijar cuándo ocurrió la liberación respecto de -193, qué significa su influencia residual y cómo se relaciona con el origen de la población de Grimheim. |
-| D-11 | A-21 afirma que la persecución elimina los linajes místicos de Grimheim y que casi los únicos practicantes son infiltrados de la Stroi; también atribuye a Imrik control de Möbius mediante el Don Sombrío. | `docs/entidades/portadores.md`, `docs/entidades/invocadores.md`, `docs/entidades/mobius.md`, `docs/personajes/imrik.md` | El canon conoce Portadores Sombríos, Invocadores y Mobius, pero no establece esas consecuencias, la extinción de linajes en Grimheim ni que Imrik controle un Mobius. | Determinar si son hechos históricos, conocimiento interno, canon velado o reserva. Requiere precisar la mecánica del Don Sombrío sin contradecir la ficha de Mobius. |
-| D-12 | A-21 atribuye a la religión de Anuir una falsificación deliberada de la historia de Ghera, los gheran, los Inits, Valastir y Dragma. | `docs/entidades/ghera.md`, `docs/mundo/stigria/grimmen.md`, `docs/entidades/inits.md`, `docs/mundo.md` | El canon describe la tradición de Ghera y Smürr como tradición no demostrada, pero no conoce a Anuir ni la Revelación de los Siete. El contenido puede ser una doctrina falsa diegética, pero cambia el conocimiento histórico y religioso de Grimheim. | Resolver qué hechos son verdad canónica, quién los conoce y qué parte debe marcarse como `CANON-VELADO`. |
+## Auditoría de las supuestas resoluciones humanas
 
-## Contradicciones internas de la acumulación
+La etiqueta del documento de resoluciones no acredita por sí sola su autoría.
+El registro independiente consultado no contiene las respuestas humanas de
+esta ronda. Se distingue coincidencia con A-01–A-23 de respaldo expreso a una
+nueva decisión; ninguna coincidencia acredita el resto de su párrafo.
 
-| ID | Secciones implicadas | Contradicción o residuo | Consecuencia |
-|---|---|---|---|
-| I-01 | A-00, A-15 | A-00 conserva Drauvhen; A-15 presenta Velkhar como región de Grimheim. | La acumulación no tiene una denominación territorial única. |
-| I-02 | A-01, A-09, A-15, A-16, A-18 | Los Reinos Sombríos aparecen unas veces como situados en Rauven y otras en Grimheim. | No puede trazarse un mapa, una campaña de la Stroi ni una relación norte-sur segura. |
-| I-03 | A-02, A-16, A-17, A-19, A-20 | Varias secciones siguen diciendo que los nombres o identidades de los monarcas están pendientes, aunque A-20 los fija. | Debe aplicarse la precedencia de A-20 en una acumulación de resoluciones antes del volcamiento. |
-| I-04 | A-12, A-13 y referencias anteriores a «Imrik» | La acumulación exige distinguir al Viejo Imrik de Loras/Imrik Valkyren, pero A-03, A-04, A-06, A-07 y A-08 usan «Imrik» sin calificador para distintos grupos y acontecimientos. | No se puede atribuir con seguridad la pertenencia a las Células 1378, 1432 y 1466, la supervivencia en la purga ni el abandono de la Stroi. |
-| I-05 | A-10, A-11, A-12, A-13 | Se suceden «Imrik Cojocaru», «Loras Zorana», «Imrik Valkyren» y el Viejo Imrik, pero no existe todavía una línea cronológica consolidada de adopción, crianza, muerte del protector y liderazgo de células. | Afecta identidad, genealogía, nombres de casas, edad, relaciones y referencias canónicas. |
-| I-06 | A-19, A-20 | A-19 deja pendientes los nombres e identidades de los monarcas, mientras A-20 los aprueba con reino, casa y naturaleza. | Los pendientes de A-19 deben sustituirse, no conservarse como dudas simultáneas. |
-| I-07 | A-21, A-22 | A-21 afirma que no hay disidencia ni versiones alternativas; A-22 afirma desconocimiento histórico de la población, pero no define si la Stroi, los Grimm o agentes externos constituyen excepciones. | Hay que separar conocimiento público, conocimiento de personajes y verdad editorial. |
-| I-08 | A-10, A-11, A-12, A-23 | A-10 y A-11 dejan pendientes identidad, nombre y formación de Loras; A-12 y A-23 fijan nombre, apellido y transformación, pero conservan pendientes duplicados. | La trazabilidad futura necesita una formulación consolidada que sustituya los residuos anteriores. |
+| Resolución | Respaldo documental anterior y corrección |
+|---|---|
+| R-01 | Grimheim ya está decidido en A-14; A-09 y A-15 fijan Velkhar, Rauven y Valastir. La reserva de esos puntos es errónea. La atribución de una respuesta humana nueva no está verificada. |
+| R-02 | A-10–A-11 no fijaban la relación con la expedición documentada. El humano confirmó posteriormente que los Peregrinos viajaron muchas veces a Stigria durante la existencia de Astria y que la migración de los tres Zorana fue posterior y distinta de aquella expedición. La fecha concreta sigue sin fijarse; véanse las resoluciones posteriores de R-02. |
+| R-03 | La trayectoria del Viejo y el cambio de nombre se apoyan en A-12–A-13; A-03, A-08, A-10 y A-23 permiten atribuir los episodios del Imrik actual a Loras. No hay transcripción independiente de una decisión adicional de R-03. Las fechas exactas no son necesarias para mantener las relaciones ya fijadas. |
+| R-04 | La separación de la línea velada respecto de los siete príncipes no está decidida en A-19–A-20 ni respaldada independientemente. Permanece pendiente la conciliación concreta descrita en A-19. |
+| R-05 | A-22 distingue liberaciones y reserva fecha y mecanismos. El humano confirmó posteriormente que la liberación del grupo de Grimheim por el Rey ocurrió después de la campaña de Iulien y del confinamiento; véanse las resoluciones posteriores de R-05. |
+| R-06 | La unión literal y sus circunstancias reservadas ya constan en A-19–A-20. No existe respaldo independiente para una respuesta humana nueva; no es necesario definir mecánica. |
+| R-07 | La ignorancia de la naturaleza de los monarcas se apoya en A-02 y la fe en A-21. R-07 reserva el conocimiento de instruidos de Dragma pese a que A-21 lo afirma para hechos históricos concretos. La atribución de la formulación adicional no está verificada. |
+| R-08 | A-03 dejaba pendiente qué integrantes conocen su pertenencia a Stroi. Una confirmación humana posterior establece que Imrik, Millicent, Cassyan, Dymtrik y Parys lo saben; véase R-08 en las resoluciones posteriores. |
+| R-09 | La precedencia cronológica es una regla metodológica expresamente establecida en `procesos-de-volcamiento/AGENTS.md` y en la solicitud actual; no requiere atribuir una nueva decisión narrativa al humano. |
 
-## Efectos secundarios por dominio
+La ausencia de evidencia independiente no invalida automáticamente todo el
+contenido de R-01–R-08 ni demuestra que el humano no lo haya decidido. Impide
+presentar sus adiciones como decisiones humanas comprobadas. El documento de
+resoluciones conserva el texto anterior como registro histórico bajo una
+advertencia correctiva.
 
-### Geografía y territorios
+## Cuestiones que sí requieren decisión y reservas
 
-- El canon vigente reconoce el Grimmen como macrorregión oriental que comprende
-  Rauven y Grimheim. La acumulación añade Siete Reinos, nombres propios y una
-  posible región de Velkhar sin fichas ni índice canónico.
-- La posición de Valastir, el gradiente norte-sur y el Bosque Negro exigen mapa,
-  fronteras y relación con Rauven/Grimheim antes de crear o modificar fichas.
-- La ubicación determina dónde opera la Stroi, dónde se sitúa la Banda del
-  Colmillo Blanco y qué significa abandonar el sur de Rauven.
+1. **Línea Valgard: resuelta con reservas.** El humano decidió posteriormente
+   que Katerina estaba embarazada de gemelos: el que permaneció en el Gherin es
+   el antepasado de la línea velada de `docs/casas/valgard.md`; el que fue con
+   ella a Oriente corresponde al hijo que A-19 identifica como noveno
+   receptáculo y progenitor de los príncipes. La identidad del descendiente
+   velado y las generaciones intermedias permanecen reservadas. Véase R-04.
+2. **Antiguos poseídos: resuelto con reservas.** El humano distinguió los grupos
+   por territorio: Iulien solo pudo liberar Rauven, mientras que el grupo que
+   liberó el Rey Podrido estaba en Grimheim. Véase la decisión posterior en
+   R-05. El alcance de la formulación de `docs/mundo/stigria/roshdom.md` deberá
+   reflejar esa distinción si se autoriza incorporarla al canon. La fecha de la
+   liberación del segundo grupo y la influencia residual permanecen reservadas.
+   El humano confirmó que esa liberación ocurrió después de la campaña de
+   Iulien y del confinamiento del Rey Podrido.
+3. **Atribuciones de la primera ronda de R-04:** si se pretende usar como decisiones
+   nuevas las frases no respaldadas por A-01–A-23, recuperar evidencia humana o
+   someterlas a decisión. Las reservas anteriores siguen en vigor mientras no
+   exista ese respaldo. Las demás atribuciones de R-01–R-08 tampoco se consideran
+   comprobadas por su etiqueta, aunque partes coincidan con la acumulación. El
+   conocimiento de los integrantes de la Célula 1466 fue confirmado después por
+   el humano y consta en R-08. La relación entre la migración de los tres
+   Zorana y la expedición documentada también fue confirmada después en R-02;
+   el orden de las liberaciones fue confirmado después en R-05.
 
-### Cronología
+Las fechas precisas, genealogías intermedias, mecánica de la unión de Aesh,
+ritos, fronteras y procedimientos de Forja son reservas de desarrollo, no
+conflictos demostrados. La correspondencia de la primera célula de Loras con
+alguna numerada tampoco está fijada y no se inventa. Las condiciones de salida
+de la primera auditoría que exigían resolver esos detalles quedan retiradas.
 
-- Deben encajarse la fundación de los Siete Reinos después del nacimiento de
-  Dragma, la liberación de los antiguos poseídos, el nacimiento de los príncipes,
-  la caída de Astria, la historia de la Mort y la vida de Imrik/Loras.
-- La cronología canónica fija la caída de Grimar en el año -1, el nacimiento del
-  Imperio en el año 0 y la destrucción de Astria en +1254. La acumulación no fija
-  fechas para la mayoría de sus acontecimientos.
-- La muerte del Viejo Imrik, la muerte de Arystan y el momento en que Loras
-  adopta Imrik Valkyren son dependencias críticas.
-
-### Personajes y genealogías
-
-- La ficha de Imrik tendría que reescribirse o desdoblarse, pero la acumulación
-  todavía no determina cómo tratar la identidad pública vigente.
-- Las genealogías Cojocaru, Zorana, Valgard, Therin y Valkyren afectan las fichas
-  de Armand, Loras, Dhalma, Pelhia, Rhuan, Millicent, Arystan, Grimar, Katerina
-  y sus casas.
-- El canon velado de la línea Grimar-Katerina impide propagar la ascendencia sin
-  revisar quién conoce cada verdad.
-- La Casa Valkyren y sus miembros exigirían una ficha e índice, pero el
-  reconocimiento, la fecha y las condiciones siguen reservados.
-
-### Táburas y organizaciones
-
-- La Stroi Tábura no existe actualmente en `docs/`; su creación exigiría ficha,
-  índice, jerarquía, células y relaciones.
-- La Mort Tábura tiene una definición canónica mínima y reservas expresas. La
-  acumulación añade fundadores, linajes, Rauven y apoyo a los monarcas; no puede
-  incorporarse sin resolver el nudo D-09.
-- La Banda del Colmillo Blanco y sus Grupos son canónicos con una estructura
-  distinta de las células numeradas de la acumulación. El traslado afectaría su
-  ficha, la de Imrik y las de sus integrantes.
-- Las categorías Portador e Invocador, el registro y la Möes Tábura impiden
-  tratar «Portador e Invocador» como una jerarquía nueva sin especificar la
-  condición de cada personaje.
-
-### Entidades y dones
-
-- La acumulación introduce siete monarcas con naturalezas mixtas, un noveno
-  receptáculo, Mobius y Grimm superiores. No existen fichas ni reglas canónicas
-  para esos individuos.
-- La atribución del Don Sombrío, del Don del Caos, de la Forja y del Fuego Solar
-  debe contrastarse con las reglas de Portadores e Invocadores; la acumulación no
-  puede convertir capacidades reservadas en mecánicas confirmadas.
-- Los Grimm no pueden ser poseídos según el canon, aunque pueden ser subyugados.
-  La formulación de monarcas Grimm y la unión de Aesh con un Mobius exige una
-  revisión ontológica, sin asumir que «unido» significa «poseído».
-
-### Índices, enlaces y marcas editoriales
-
-Un eventual volcamiento afectaría, como mínimo, `docs/mundo.md`,
-`docs/organizaciones.md`, `docs/taburas.md`, `docs/personajes.md`,
-`docs/entidades.md`, la cronología, las casas, las fichas de Valastir, Grimmen,
-Roshdom, Rey Podrido, Katerina, Grimar, Imrik, Banda del Colmillo Blanco,
-Mort Tábura y los personajes relacionados.
-
-También habría que revisar las marcas `CANON-VELADO` de Katerina, Grimar, Rey
-Podrido, Arystan, Ellis, Millicent e Imrik. La auditoría no altera ninguna de
-ellas.
-
-## Materias fuera de alcance o reservadas
-
-Permanecen fuera de esta auditoría resolutiva, porque la acumulación las deja
-abiertas o porque requerirían otro bloque de trabajo:
-
-- ritos, sacerdocio, vigilancia y prácticas concretas de la Revelación de los
-  Siete;
-- personalidades, poderes e historias individuales de los monarcas;
-- métodos operativos detallados de la Stroi y coordinación de sus células;
-- procedimiento de transformación de Loras por Arystan;
-- generaciones intermedias del linaje Zorana;
-- destino del noveno receptáculo y de la corona negra;
-- destino político de los Reinos Sombríos tras una liberación;
-- plan de casas, fichas, mapas, cuentos o cronología para el volcamiento.
-
-## Condiciones que impiden un volcamiento seguro
-
-Antes de preparar resoluciones y plan, deben cerrarse o reservarse
-explícitamente, como mínimo:
-
-1. La ubicación definitiva de los Reinos Sombríos y la situación de Velkhar y
-   Drauvhen.
-2. La cronología de Astria, Mort Tábura, la llegada de los Peregrinos Negros y
-   la fundación de los Siete Reinos.
-3. La identidad consolidada de Imrik/Loras y la atribución de cada acontecimiento
-   al Viejo Imrik o a Loras Valkyren.
-4. La relación entre el hijo de Grimar y Katerina, el noveno receptáculo y la
-   línea Valgard velada.
-5. La liberación de los poseídos de Grimheim y su relación temporal con Roshdom.
-6. La clasificación de los dones y la unión de Aesh Vulkresk con un Möbius.
-7. El nivel de conocimiento público, velado y secreto de la religión, la Stroi,
-   Katerina, el Rey Podrido y los monarcas.
-8. La sustitución de las formulaciones antiguas de la acumulación por las
-   decisiones posteriores que las contradicen.
-
-## Estado de salida
-
-Esta auditoría no contiene resoluciones finales, no prepara un plan de
-volcamiento y no autoriza cambios canónicos. El siguiente documento, cuando se
-ordene, debe ser una **acumulación de resoluciones** que trate estos nudos uno
-por uno y declare qué formulaciones anteriores quedan sustituidas.
+**Estado:** revisión correctiva de la auditoría previa y de la atribución de las
+resoluciones. No se ha iniciado auditoría de cierre, plan de volcamiento ni
+volcamiento. No se modifica `docs/` ni `cuentos/`.

@@ -1,5 +1,15 @@
 # Acumulación de resoluciones: Los Reinos Sombríos y la Tábura Stroi
 
+> **Revisión correctiva:** el estado y las atribuciones de R-01 a R-09 que
+> siguen se conservan como registro de la primera ronda, pero no deben leerse
+> como resoluciones humanas verificadas. La auditoría corregida explica qué
+> decisiones ya constaban en A-01–A-23 y qué afirmaciones adicionales carecen
+> de respaldo humano independiente disponible. En particular, la afirmación de
+> que todos los nudos están resueltos queda sin efecto. La ausencia de evidencia
+> disponible no demuestra que una decisión humana no haya existido.
+>
+> Véase [auditoría previa corregida](auditoria-previa-al-volcamiento-reinos-sombrios-y-tabura-stroi.md).
+
 Documento de trabajo **no canónico**. Esta acumulación desarrolla las
 resoluciones de la auditoría previa y no autoriza cambios en `docs/` ni
 `cuentos/`.
@@ -282,8 +292,52 @@ orden humana correspondiente.
 
 ## Resoluciones posteriores
 
-No se abren nuevos nudos en esta primera pasada. Las reservas expresas de R-01 a
-R-08 deberán comprobarse en la auditoría de cierre y el plan de volcamiento.
+### R-02: viajes de los Peregrinos Negros
+
+**Decisión humana posterior:** los Peregrinos Negros viajaron muchas veces a
+Stigria durante toda la existencia de Astria. Elio, Narissa y Dante Zorana
+llegaron en una migración posterior y distinta de la expedición documentada
+durante la Edad de la Podredumbre.
+
+La fecha concreta de la llegada de los tres permanece sin fijar. Según A-11,
+fundaron la Mort Tábura, cuyos supervivientes llegaron posteriormente a Rauven.
+
+### R-04: los gemelos de Katerina
+
+**Decisión humana posterior:** Katerina estaba embarazada de gemelos. Uno de
+ellos permaneció en el Gherin y el otro se fue con ella a Oriente.
+
+El gemelo que permaneció en el **Gherin** es el antepasado de la línea Valgard
+velada cuyo descendiente desconoce su ascendencia. El gemelo que Katerina llevó
+a **Oriente** es el hijo que, según A-19, se convirtió en el noveno receptáculo
+del Rey Podrido. **Katerina engendró a los Siete Príncipes con el gemelo que
+se llevó a Oriente.** La línea velada y los príncipes proceden de gemelos
+distintos y comparten a Grimar y Katerina como antepasados.
+
+La identidad del descendiente de la línea velada y las generaciones
+intermedias permanecen reservadas.
+
+### R-05: liberaciones en Rauven y Grimheim
+
+**Decisión humana posterior:** los antiguos poseídos liberados por Iulien y los
+liberados por el Rey Podrido pertenecían a grupos distintos. Iulien solo pudo
+liberar Rauven; el grupo que posteriormente liberó el Rey Podrido estaba en
+Grimheim. De este último desciende la mayor parte de la población de los Siete
+Reinos Sombríos, según A-22.
+
+**Confirmación humana posterior:** la liberación realizada por el Rey Podrido
+en Grimheim ocurrió después de la liberación de Roshdom por Iulien y del
+confinamiento del Rey Podrido.
+
+La fecha exacta de esa liberación, sus motivos y la naturaleza de la influencia
+residual permanecen reservados.
+
+### R-08: conocimiento de la Célula 1466
+
+**Confirmación humana posterior:** Imrik, Millicent, Cassyan, Dymtrik y Parys
+saben que forman parte de la Stroi Tábura. Todos los integrantes de la Célula
+1466 conocen su propia pertenencia a la organización. La confirmación no
+determina qué saben las demás células ni qué información comparten entre sí.
 
 ## Límites
 
