@@ -2,6 +2,19 @@
 
 ## Revisiones editoriales
 
+### Fichas de Oskar Rheiner y Lya Khan (2026-11-13)
+
+Añadidas las fichas de los padres de Arystan Khan y sus entradas en el índice,
+con la genealogía aprobada y la marca de canon velado correspondiente.
+
+### Volcamiento del Grupo 13 del Colmillo Blanco (2026-11-13)
+
+Actualizados el número del grupo y sus fichas; Millicent Rosamund, Mili, es
+Invocadora y forjadora. Incorporados sus dones elementales, Arystan Khan, Ellis
+Rosamund, Cerbero y los antecedentes del Grupo 7, con las marcas de canon
+velado acordadas. Definida la denominación de forjador místico y registradas
+las reservas narrativas y genealógicas para desarrollo futuro.
+
 ### Nombre del primer relato de las Crónicas de Erebia (2026-11-08)
 
 Renombrado el archivo del primer relato a `1-la-edad-de-la-maravilla.md` y

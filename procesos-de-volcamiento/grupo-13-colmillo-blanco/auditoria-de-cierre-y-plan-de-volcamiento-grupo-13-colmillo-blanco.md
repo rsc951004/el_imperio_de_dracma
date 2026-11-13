@@ -2,6 +2,9 @@
 
 Documento de trabajo no canónico. Este plan no autoriza su ejecución.
 
+**Estado:** volcamiento ejecutado con autorización humana el 13 de noviembre
+de 2026; las reservas se registraron en `docs/pendientes.md`.
+
 ## Cierre de decisiones
 
 | Asunto | Estado |

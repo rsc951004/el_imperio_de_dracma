@@ -51,9 +51,14 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Dravora | Reina histórica | Fundadora de la Casa Dravor y de su dinastía real en Valastir. | [Ver ficha](personajes/dravora.md) |
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
 | Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
-| Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro del Grupo 3. | [Ver ficha](personajes/dymtrik.md) |
-| Milara «Mili» | Personaje histórico | Portadora Quimérica e integrante del Grupo 3 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/milara.md) |
-| Imrik | Personaje histórico | Portador Sombrío que dirige el Grupo 3 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/imrik.md) |
+| Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro del Grupo 13. | [Ver ficha](personajes/dymtrik.md) |
+| Millicent Rosamund «Mili» | Personaje histórico | Invocadora y forjadora del Grupo 13 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/millicent-rosamund.md) |
+| Imrik | Personaje histórico | Portador Sombrío que dirige el Grupo 13 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/imrik.md) |
+| Arystan Khan | Personaje histórico | Invocador y forjador del Grupo 7 de la Banda del Colmillo Blanco. | [Ver ficha](personajes/arystan-khan.md) |
+| Oskar Rheiner | Personaje histórico | Datos familiares reservados a su ficha de canon velado. | [Ver ficha](personajes/oskar-rheiner.md) |
+| Lya Khan | Personaje histórico | Datos familiares reservados a su ficha de canon velado. | [Ver ficha](personajes/lya-khan.md) |
+| Ellis Rosamund | Personaje histórico | Portadora de la Enclaustración e integrante del Grupo 7. | [Ver ficha](personajes/ellis-rosamund.md) |
+| Cerbero | Quimera | Felino alado que acompaña a Mili. | [Ver ficha](personajes/cerbero.md) |
 | Arys Therin | Personaje histórico | Hermana mayor de Cassyan y Parys; miembro del extinto Grupo 2. | [Ver ficha](personajes/arys-therin.md) |
 | Belarik Torzan | Personaje histórico | Explorador valastiriano que abrió el primer vínculo duradero con Dragma. | [Ver ficha](personajes/belarik-torzan.md) |
 | Stancu Radanescu | Personaje histórico | Señor de Sindgard durante el Gran Concilio del Hielo. | [Ver ficha](personajes/stancu-radanescu.md) |

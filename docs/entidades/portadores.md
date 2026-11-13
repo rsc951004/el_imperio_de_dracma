@@ -45,6 +45,9 @@ el cambio mental puede ser irreversible aunque recupere su cuerpo anterior.
 La Invocadora Leandrin Rheiner destacó por este don y transformó a sus
 dieciséis hermanos en dragones.
 
+Una persona Portadora o Invocadora que posee la Forja puede llamarse
+**forjador místico** o simplemente **forjador**.
+
 ## Señal ocular
 
 Durante la infancia, los ojos de Portadores e Invocadores presentan un brillo
