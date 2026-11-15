@@ -13,7 +13,7 @@ Este proceso abarca:
 
 - la identidad provisional de Iyuri Khan;
 - su edad, ascendencia y pertenencia sheijad;
-- sus padres, su relación con Lya Khan y la relación de su madre con los Hijos
+- sus padres, su relación con Lya Khan y su ascendencia paterna de los Hijos
   del Sol;
 - su descendencia directa de Rasmus Galenor;
 - la actividad de Fhilippo Galenor como mercader de las Costas del Verano;
@@ -32,7 +32,7 @@ Este proceso abarca:
 - la transmisión oral original de las enseñanzas ishbaalanistas;
 - el conocimiento sheijad del misticismo antes de la llegada al Imperio;
 - el cisma entre las corrientes secular y ortodoxa;
-- la división territorial histórica de la isla de Ishbaal;
+- la división territorial histórica de Kardan, después llamada Lemuria;
 - el templo central y la veneración compartida de los restos atribuidos al
   Errante sin Nombre;
 - la evolución posterior propuesta para el predominio secular del
@@ -123,29 +123,21 @@ descripción visual del personaje.
 
 Por decisión expresa del autor, Iyuri es miembro de la familia **Khan**. El
 desarrollo de esta familia se incorporará al estudio de la **Casa noble Khan**.
-Su posición exacta dentro de la casa, el modo en que se transmite el apellido y
-su eventual título permanecen pendientes.
+Su posición exacta dentro de la casa y su eventual título permanecen pendientes.
+En Dracma, el apellido indica pertenencia a una casa y no necesariamente
+ascendencia sanguínea: Iyuri pertenece a la Casa Khan, mientras su padre
+pertenece a la Casa Galenor.
 
-### A-02. Ascendencia materna
+### A-02. Ascendencia e identidad familiar
 
-La madre de Iyuri es **Marwha Khan**, una **Hija del Sol**, es decir, una mujer
-perteneciente a la identidad etnocultural de los Hijos del Sol. Marwha pertenece
-a la **Casa noble Khan**, una casa noble sheijad originada en el proceso de
-integración de los Sheijad en el Imperio de Dragma. Por decisión expresa del
-autor, Marwha es la madre de Iyuri y forma parte de esta casa en desarrollo.
+La madre de Iyuri, **Marwha Khan**, es sheijad, lemuriana y miembro de la
+**Casa noble Khan**. Su padre, **Fhilippo Galenor**, es vesperyano y pertenece
+a los **Hijos del Sol**. Iyuri es Hijo del Sol por ascendencia paterna y
+sheijad por ascendencia materna; su crianza e identidad cultural son lemurianas.
 
-La propuesta vincula esta ascendencia con la condición de Portador de Iyuri,
-pero todavía no establece:
-
-- su lugar de nacimiento y residencia;
-- si ella es Portadora;
-- cuál de los progenitores transmitió el vínculo;
-- si «Hija del Sol» se usa como identidad familiar, cultural o ambas;
-- cuándo y cómo se relacionaron las comunidades sheijad y de los Hijos del Sol.
-
-El canon permite que Iyuri sea sheijad y tenga ascendencia materna de los Hijos
-del Sol, pero no permite deducir que el don concreto se herede de la madre. Los
-Portadores heredan el vínculo, no el don.
+Permanecen pendientes la condición de Marwha como Portadora y cuál de los
+progenitores transmitió el vínculo de Iyuri. Los Portadores heredan el vínculo,
+no necesariamente el mismo don.
 
 ### A-03. Condición de Portador y don
 
@@ -227,9 +219,8 @@ Por decisión expresa del autor, Iyuri es hijo de **Fhilippo Galenor** y
 **Marwha Khan**. Fhilippo queda vinculado a la Casa Galenor, cuya condición
 canónica vigente es la de casa común de comerciantes. Por decisión expresa del
 autor, Fhilippo es un **mercader de las Costas del Verano**. La actividad
-mercantil queda fijada como su ocupación o ámbito de trabajo, sin establecer por
-ello su residencia, sus rutas, sus clientes, sus mercancías o sus vínculos con
-ningún reino concreto.
+mercantil queda fijada como su ocupación. Es originario de Vesperya y pertenece
+a los Hijos del Sol; sus rutas, clientes y mercancías permanecen abiertos.
 
 El alcance de su pertenencia a una rama específica de la Casa Galenor y su
 relación con Marwha quedan pendientes.
@@ -260,14 +251,14 @@ de Iyuri. La línea genealógica, los nombres intermedios, las ramas de la Casa
 Galenor y la transmisión del apellido quedan pendientes de desarrollo.
 
 La ascendencia conecta a Iyuri con un personaje canónico que fue Hijo del Sol y
-miembro itinerante de una casa común de comerciantes. Esta conexión no convierte
-automáticamente a Iyuri en Hijo del Sol, no determina la identidad de Fhilippo ni
-modifica el carácter común de la Casa Galenor.
+miembro itinerante de una casa común de comerciantes. Fhilippo pertenece a los
+Hijos del Sol e Iyuri comparte esa ascendencia por su línea paterna. La Casa
+Galenor conserva su carácter de casa común.
 
-La condición de Fhilippo como mercader de las Costas del Verano abre un vínculo
-geográfico y económico entre la familia inmediata de Iyuri y esa región. No se
-añaden por inferencia una ciudad de residencia, una ruta comercial, una nave, una
-mercancía, una relación con una corona ni un acontecimiento histórico.
+La condición de Fhilippo como mercader vesperyano abre un vínculo geográfico y
+económico entre la familia inmediata de Iyuri y las Costas del Verano. No se
+fijan por inferencia sus rutas comerciales, nave, mercancías ni vínculos con
+una corona.
 
 La ascendencia Galenor y la filiación Khan deben desarrollarse conjuntamente,
 pero todavía no se decide si el vínculo entre ambas familias es únicamente
@@ -312,8 +303,7 @@ El desarrollo deberá contemplar, sin resolverlos por inferencia:
 - su título, posición social y reconocimiento dentro del Imperio;
 - la persona que encabeza la casa en la época de Iyuri;
 - la filiación de Marwha y Lya dentro de la casa;
-- la forma en que Iyuri conserva el apellido Khan siendo hijo de Fhilippo
-  Galenor;
+- las circunstancias particulares de la pertenencia de Iyuri a la Casa Khan;
 - la forma en que la casa reconoce o integra a un descendiente de la Casa
   Galenor y a un mercader relacionado con las Costas del Verano;
 - las ramas, matrimonios, alianzas y conflictos que resulten necesarios;
@@ -337,17 +327,15 @@ objetivas sobre Ishbaal.
 
 Los Sheijad proceden de la antigua tierra de **Sarustra**.
 
-El **ishbaalanismo nació en Sarustra**, no en la isla de Ishbaal. Los Sheijad ya
-practicaban el ishbaalanismo antes de llegar al Imperio de Dragma.
+El **ishbaalanismo nació en Sarustra**. Ishbaal es su figura divina central y
+los Sheijad ya practicaban esta religión antes de llegar a Dragma.
 
-La isla que actualmente conocemos como **Ishbaal** tenía otro nombre antes de la
-llegada de los exiliados. Ese nombre todavía no ha sido establecido. La isla
-recibió su nombre actual después de la llegada sheijad; no se fija todavía si el
-nombre se adoptó por una decisión religiosa, política, comunitaria o por otro
-motivo.
-
-Esta formulación sustituye, dentro de la presente acumulación, cualquier origen
-anterior del ishbaalanismo situado en la isla.
+La isla se llamaba **Kardan** antes de la llegada de los refugiados y conservó
+ese nombre durante el asentamiento, el cisma y la guerra civil. Los recién
+llegados la llamaron informalmente **Pardis**, «paraíso». Tras la victoria
+secular, la integración definitiva al Imperio y la creación del Principado,
+recibió oficialmente el nombre de **Lemuria**, en homenaje a Lemur el Sabio,
+ya fallecido.
 
 ### B-02. Llegada de los Sheijad a Dragma
 
@@ -366,16 +354,16 @@ formada dentro de una sociedad que ya compartiera las prácticas místicas
 imperiales: tuvo que reinterpretar su experiencia al entrar en contacto con
 ellas.
 
-No se fijan todavía la fecha de la llegada, el número de exiliados, sus rutas,
-los lugares concretos de asentamiento ni las circunstancias individuales que
-los llevaron a Dragma.
+Los refugiados llegaron directamente desde Sarustra a Kardan por una ruta
+marítima septentrional. Permanecen pendientes la fecha de llegada, el número de
+exiliados y las circunstancias individuales que los llevaron a Dragma.
 
 ### B-03. Distribución de los Sheijad
 
-No debe afirmarse que la mayor parte de los Sheijad vive en Ishbaal. Los Sheijad
+No debe afirmarse que la mayor parte de los Sheijad vive en Lemuria. Los Sheijad
 se encuentran distribuidos por diferentes territorios del Imperio.
 
-Los habitantes sheijad de Ishbaal se consideran a sí mismos **sheijad puros** y
+Los habitantes sheijad de Lemuria se consideran a sí mismos **sheijad puros** y
 reconocen al mismo tiempo que forman parte del Imperio. La pureza es una
 autopercepción identitaria de la comunidad insular; no constituye
 automáticamente una afirmación objetiva sobre ascendencia ni una afirmación de
@@ -501,7 +489,7 @@ aceptar el misticismo.
 
 Esta oposición constituye el fundamento doctrinal del cisma.
 
-### B-07. División territorial de la isla de Ishbaal
+### B-07. División territorial de Kardan
 
 La fractura religiosa alcanzó una magnitud suficiente para producir una
 división territorial de la isla. Durante un período prolongado, los seculares y
@@ -512,9 +500,9 @@ La distribución establecida para esta acumulación es:
 - **Sector orientado hacia el continente:** comunidad secular.
 - **Sector opuesto:** comunidad ortodoxa.
 
-No se fijan todavía fronteras administrativas, ciudades, fortificaciones,
-gobiernos independientes ni conflictos militares derivados de la división. La
-forma exacta en que se produjo la separación permanece pendiente.
+La división precedió a la guerra civil de Kardan, desarrollada en el apartado
+7.4 de la ampliación. Permanecen pendientes los detalles de las fronteras y de
+la organización territorial durante la separación.
 
 #### B-07.1. El gran templo central
 
@@ -564,8 +552,7 @@ misticismo.
 
 Todavía no se inventan:
 
-- las creencias personales de Iyuri;
-- la educación religiosa que recibió;
+- detalles adicionales de las creencias y la educación religiosa de Iyuri;
 - la postura particular de Fhilippo Galenor y Marwha Khan;
 - la relación de los Khan con los ortodoxos de su época;
 - conflictos familiares motivados por el misticismo;
@@ -604,16 +591,15 @@ guerrero adulto de armadura pesada.
 
 ## Nudos pendientes
 
-1. **Lugar de nacimiento.** Determinar si «nació sheijad» identifica su pueblo,
-   su lugar de nacimiento o ambos. Si nació en Ishbaal, resolver cómo se
-   relaciona su infancia con la prohibición del misticismo en la isla.
+1. **Lugar de nacimiento.** Precisar el lugar de nacimiento de Iyuri dentro
+   de su crianza e identidad cultural lemurianas.
 2. **Marwha Khan.** Fijar su historia, su condición de Portadora o no Portadora,
    su posición dentro de la Casa Khan y su relación con Fhilippo Galenor.
-3. **Herencia del vínculo.** Precisar cómo se presenta la ascendencia materna sin
-   afirmar que el don concreto se hereda directamente.
+3. **Herencia del vínculo.** Determinar cuál de sus progenitores transmitió el
+   vínculo de Iyuri, sin atribuirle por ello la transmisión de un don idéntico.
 4. **Fhilippo Galenor.** Determinar su rama dentro de la Casa Galenor, su
    historia, su relación con Marwha y la forma concreta de su actividad
-   mercantil en las Costas del Verano, sin fijar todavía rutas o residencias.
+   mercantil, incluidas sus rutas y residencias.
 5. **Ascendencia Galenor.** Determinar cuántas generaciones separan a Rasmus de
    Fhilippo y de Iyuri, qué ramas intermedias existen y cómo se conserva la
    memoria de Rasmus dentro de la familia.
@@ -663,11 +649,10 @@ completarse por inferencia:
 2. **Perseguidores y misticismo.** Determinar quiénes perseguían a los Sheijad,
    por qué lo hacían y si el misticismo causaba la persecución o era una
    capacidad empleada por sus ejecutores.
-3. **Nombre antiguo de la isla.** Establecer cómo se llamaba la isla antes de
-   que los exiliados la conocieran como Ishbaal y por qué adoptó el nombre
-   actual.
+3. **Cronología insular.** Precisar las fechas de la llegada a Kardan y de la
+   creación del Principado de Lemuria.
 4. **Distribución sheijad.** Determinar en qué territorios se asentaron las
-   comunidades sheijad fuera de Ishbaal, cómo se relacionan entre sí y cómo se
+   comunidades sheijad fuera de Lemuria, cómo se relacionan entre sí y cómo se
    expresa la autopercepción de pureza de la comunidad insular.
 5. **Tradición oral y textos posteriores.** Desarrollar, sin inventar una Biblia,
    diez mandamientos ni un código original, cómo surgieron después de la llegada
@@ -680,9 +665,9 @@ completarse por inferencia:
 8. **Cisma.** Fijar cuándo surgieron las dos corrientes, qué procesos internos
    atravesaron y cómo se transmitió la división dentro de la tradición oral y
    de los textos posteriores.
-9. **División de Ishbaal.** Precisar cómo se produjo la separación territorial,
-   cuánto duró y qué límites sociales o administrativos tuvo, sin añadir aún
-   ciudades, gobiernos, fortificaciones ni guerras no decididas.
+9. **División de Kardan.** Precisar cómo se produjo la separación territorial,
+   cuánto duró y qué límites sociales o administrativos tuvo, junto con los
+   detalles aún abiertos de la guerra civil ya registrada.
 10. **Gran templo central.** Determinar la custodia, administración y acceso al
     templo y a los restos atribuidos al Errante sin Nombre durante la separación.
 11. **Predominio secular posterior.** Fijar cuándo y cómo el secularismo pasó a
@@ -700,16 +685,14 @@ auditoría formal ni resolver los conflictos.
 
 - Existe una incompatibilidad directa con el canon vigente: `ishbaal.md` y
   `culto-a-ishbaal.md` sitúan el origen del culto en la isla de Ishbaal, mientras
-  que esta decisión expresa del autor establece que el ishbaalanismo nació en
-  Sarustra y que la isla recibió el nombre de Ishbaal después de la llegada de
-  los exiliados. La contradicción queda registrada para una resolución humana;
-  no se modifica ninguno de esos archivos canónicos.
-- El canon vigente prohíbe la práctica del misticismo en la isla de Ishbaal. La
-  corriente secular aquí definida interpreta favorablemente la convivencia con
-  el misticismo, pero no se ha decidido si esa interpretación permite prácticas
-  místicas dentro de la isla. La relación entre la prohibición territorial y la
-  división secular-ortodoxa requiere resolución humana, sin constituir todavía
-  una contradicción directa de la doctrina secular.
+  que la decisión autoral sitúa su origen en Sarustra. El canon también llama
+  Ishbaal al protectorado insular; la acumulación establece para la isla la
+  secuencia Kardan y Lemuria, con Pardis como nombre informal. Ambas decisiones
+  están resueltas en este proceso y su integración al canon queda pendiente.
+- El canon vigente prohíbe la práctica del misticismo en la isla de Ishbaal. El
+  desarrollo de Lemuria, donde la corriente secular triunfa en la guerra civil
+  y el misticismo se practica en tiempos de Iyuri, requiere contraste y
+  adecuación del canon antes del volcamiento.
 - El canon documenta una corriente que considera antinatural el misticismo y
   una tolerancia común hacia esa práctica, pero no documenta el cisma histórico
   en dos corrientes, la separación territorial ni el predominio secular futuro.
@@ -722,28 +705,22 @@ auditoría formal ni resolver los conflictos.
 - La relación de Iyuri como hermano de Lya no contradice las fichas actuales:
   estas fijan a Lya como pareja de Oskar y madre de Arystan, pero no establecen
   su ascendencia ni sus hermanos.
-- El amor de juventud entre Iyuri y Oskar no contradice que Oskar sea pareja de
-  Lya en el canon vigente, porque el momento, la duración y el desenlace de la
-  relación nueva no están definidos.
-- Fhilippo Galenor no tiene ficha canónica. Su apellido sí está vinculado a una
-  casa común de comerciantes, por lo que la paternidad propuesta conecta a
-  Iyuri con una casa cuyo rango vigente no es noble.
+- El amor de juventud entre Iyuri y Oskar precede al compromiso de Oskar y Lya
+  en la cronología ampliada. Las circunstancias de esa transición permanecen
+  abiertas.
+- Fhilippo Galenor no tiene ficha canónica. Pertenece a la Casa Galenor, una
+  casa común de comerciantes; Iyuri pertenece a la Casa noble Khan.
 - La descendencia directa de Iyuri respecto de Rasmus Galenor es compatible con
   que Rasmus sea un Hijo del Sol, miembro itinerante de la Casa Galenor y
   conductor de una caravana. El canon no fija las generaciones intermedias.
-- La actividad de Fhilippo como mercader de las Costas del Verano es compatible
-  con la condición mercantil de la Casa Galenor y con la historia comercial de la
-  región. No determina residencia, rutas, mercancías ni pertenencia etnocultural.
-- Marwha Khan no tiene ficha canónica. Su identificación como madre de Iyuri,
-  Hija del Sol y miembro de la Casa noble Khan se conserva como decisión del
-  autor para este proceso.
+- Fhilippo es un mercader vesperyano y Hijo del Sol; Marwha es una noble sheijad
+  lemuriana de la Casa Khan. Sus identidades y la doble ascendencia de Iyuri
+  están resueltas en la acumulación y esperan el procedimiento de integración.
 - La Casa noble Khan no existe todavía en el canon documental. Su desarrollo
   requiere una definición independiente antes de cualquier incorporación a
   índices, casas o fichas de personajes.
-- La acumulación había dejado como ubicación posible Ishbaal y como marco
-  posible el presente del año +1680. La relación con Oskar obliga a confirmar
-  esa cronología y a resolver la tensión que surgiría si Iyuri hubiera crecido
-  en Ishbaal, donde la práctica del misticismo está prohibida.
+- La crianza de Iyuri es lemuriana. La cronología absoluta de su vida y su
+  relación con el presente canónico de +1680 permanecen pendientes de contraste.
 
 ## Precedencia de esta actualización
 
@@ -755,9 +732,13 @@ desarrollo consolidado.
 1. El nombre de la religión es **ishbaalanismo**. Esta terminología y sus
    derivados se emplean de forma normalizada, sin alterar los nombres propios
    ya establecidos.
-2. El ishbaalanismo nació en **Sarustra**, no en la isla de Ishbaal.
-3. La isla recibió su nombre actual después de la llegada sheijad.
-4. La mayor parte de los Sheijad no debe situarse automáticamente en Ishbaal.
+2. El ishbaalanismo nació en **Sarustra** y tiene a Ishbaal como figura divina
+   central.
+3. La isla fue **Kardan** durante la llegada, el cisma y la guerra civil;
+   **Pardis** fue un nombre informal. Después de la victoria secular, la
+   integración definitiva y la creación del Principado, recibió oficialmente
+   el nombre de **Lemuria** en honor de Lemur el Sabio, ya fallecido.
+4. La mayor parte de los Sheijad no debe situarse automáticamente en Lemuria.
    Las comunidades sheijad están distribuidas por distintos territorios, y la
    pureza que se atribuyen los habitantes de la isla es una autopercepción, no
    una afirmación objetiva de ascendencia o superioridad.
@@ -769,6 +750,11 @@ desarrollo consolidado.
    enseñanzas originales se transmitían oralmente.
 8. Las dos corrientes comparten la veneración del templo central y de los restos
    atribuidos al Errante sin Nombre.
+9. Fhilippo es vesperyano e Hijo del Sol; Marwha es sheijad, lemuriana y
+   miembro de la Casa Khan. Iyuri es Hijo del Sol por su padre y sheijad por su
+   madre, con crianza e identidad cultural lemurianas. Pertenece a la Casa Khan;
+   los apellidos indican pertenencia a una casa, no necesariamente ascendencia
+   sanguínea.
 
 La regla de anti-fantasmeo se aplica a las formulaciones anteriores sustituidas:
 no deben reaparecer como negaciones, contrastes narrativos ni explicaciones
@@ -796,7 +782,7 @@ indirectas en futuras ampliaciones de esta acumulación.
 ## Recomendación de alcance
 
 El material sobre Sarustra, la llegada de los exiliados, el origen del
-ishbaalanismo, sus corrientes, la división de Ishbaal y su evolución histórica
+ishbaalanismo, sus corrientes, la división de Kardan y su evolución histórica
 ya constituye un desarrollo mayor que no depende exclusivamente de la
 biografía de Iyuri. Por ello, se recomienda tratar ese bloque también dentro de
 una acumulación independiente de **Ishbaal y los Sheijad**.
@@ -843,18 +829,13 @@ escenas, reglas y reservas. Los diálogos son reconstrucciones, no citas cuya
 literalidad esté garantizada. Las interpretaciones y las cuestiones abiertas
 conservan el alcance que se indica en cada apartado.
 
-### Puntos de contraste para la próxima auditoría
+### Estado de las decisiones y puntos para la próxima auditoría
 
-- **Ascendencia de Marwha:** A-02 la identifica como Hija del Sol; el nuevo
-  desarrollo atribuye expresamente a Fhilippo esa identidad y a Marwha la
-  ascendencia sheijad, sin resolver si ella también es Hija del Sol. Su
-  identidad debe aclararse sin descartar por inferencia la decisión anterior.
-- **Isla y cronología sheijad:** el bloque B y su precedencia sitúan el templo y
-  la división religiosa en la isla de Ishbaal, mientras el nuevo desarrollo los
-  sitúa en Kardan, después llamada Lemuria. La relación entre ambas islas, sus
-  nombres y los hechos asociados requiere una decisión expresa. El canon sitúa
-  el origen del culto en Ishbaal, en conflicto con el origen sarustriano ya
-  registrado en esta acumulación.
+- **Ascendencia y pertenencia:** resueltas conforme a A-02 y a la precedencia de
+  esta acumulación. La integración al canon sigue el procedimiento ordinario.
+- **Isla e historia religiosa:** resueltas conforme a B-01 y a la precedencia.
+  El contraste con las fichas canónicas de Ishbaal sigue registrado en el
+  apartado de contraste inicial y requiere su tratamiento antes del volcamiento.
 - **Edad y Calamar Rojo:** los dieciséis años y la pertenencia a la banda de
   A-01 y A-06 corresponden a una etapa de la cronología ampliada; allí se
   identifica a Iyuri como capitán y se narra su salida. Su condición posterior
@@ -970,7 +951,7 @@ Este apartado resume el trasfondo cultural desarrollado en la conversación porq
 7.1. Origen y éxodo
 Los sheijad proceden de Sarustra, región donde nació el ishbaalanismo, religión centrada en Ishbaal. En su origen los refugiados compartían esa fe: las distinciones posteriores entre seculares y ortodoxos se formaron a raíz de la experiencia en Dracma. La primera tradición religiosa era eminentemente oral. No debe atribuírsele una escritura sagrada primordial equivalente a una Biblia ni un decálogo de prohibiciones del misticismo. Todos los textos sagrados escritos conocidos en la nueva sociedad surgieron tras la llegada a Dracma. La supuesta prohibición divina originaria de usar poderes místicos no está respaldada por un documento fundador.
 
-Huyeron de la persecución. Su experiencia anterior de los poderes sobrenaturales se vinculaba sobre todo a los perseguidores que los utilizaron contra ellos. Viajaron durante meses por ruta marítima septentrional y llegaron directamente a la isla Kardan, sin hacer escala previa en territorio continental de Dracma. Llamaron informalmente a aquella tierra Pardis, «paraíso»; no fue una denominación oficial de la isla, ni la isla llevó oficialmente el nombre de Ishbaal.
+Huyeron de la persecución. Su experiencia anterior de los poderes sobrenaturales se vinculaba sobre todo a los perseguidores que los utilizaron contra ellos. Viajaron durante meses por ruta marítima septentrional y llegaron directamente a la isla Kardan, sin hacer escala previa en territorio continental de Dracma. Llamaron informalmente a aquella tierra Pardis, «paraíso»; Kardan siguió siendo su denominación oficial durante el asentamiento, el cisma y la guerra civil.
 7.2. Primer encuentro con el Imperio
 Vigías imperiales detectaron el desembarco. Aproximadamente veinte días después llegaron emisarios imperiales para averiguar quiénes eran los recién llegados: exploradores, viajeros, refugiados o invasores. Los sheijad ya habían levantado un asentamiento permanente. El Imperio actuaba con cautela por antecedentes históricos de invasiones o amenazas, entre ellas las experiencias de Snaghesk y de los Hijos del Sol. Los sabios de Khalos contribuyeron a mediar pese a la barrera lingüística. Lemur el Sabio fue el primer sheijad que dominó la lengua común de Dracma y permitió negociaciones verdaderamente eficaces.
 
