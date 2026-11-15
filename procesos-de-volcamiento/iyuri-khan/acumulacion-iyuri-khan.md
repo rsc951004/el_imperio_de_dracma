@@ -1,9 +1,11 @@
-# Acumulación: Iyuri Khan
+# Acumulación: Iyuri Khan, Casa Khan, Sheijad e ishbaalanismo
 
-Documento de trabajo no canónico. Reúne la propuesta inicial para desarrollar a
-Iyuri Khan como personaje, su condición de Portador, su estilo de combate, su
-relación con la Grim Tábura y su pertenencia al Calamar Rojo. Nada de lo escrito
-aquí modifica el canon ni autoriza cambios en `docs/` o `cuentos/`.
+Documento de trabajo no canónico. Aunque conserva el nombre de Iyuri Khan por
+ser el punto de partida del proceso, esta acumulación no se limita a su
+biografía. Reúne también el desarrollo de la Casa noble Khan, la historia de los
+Sheijad, el origen y el cisma del ishbaalanismo y sus consecuencias históricas y
+territoriales. Nada de lo escrito aquí modifica el canon ni autoriza cambios en
+`docs/` o `cuentos/`.
 
 ## Alcance
 
@@ -25,6 +27,16 @@ Este proceso abarca:
 - las circunstancias pendientes que le impidieron cumplir ese sueño;
 - su pertenencia actual al Calamar Rojo, banda de saqueadores de Sturmgard;
 - una propuesta visual provisional para futuras referencias de trabajo.
+- la procedencia sheijad desde Sarustra y la llegada de los exiliados a Dragma;
+- el origen sarustriano del ishbaalanismo;
+- la transmisión oral original de las enseñanzas ishbaalanistas;
+- el conocimiento sheijad del misticismo antes de la llegada al Imperio;
+- el cisma entre las corrientes secular y ortodoxa;
+- la división territorial histórica de la isla de Ishbaal;
+- el templo central y la veneración compartida de los restos atribuidos al
+  Errante sin Nombre;
+- la evolución posterior propuesta para el predominio secular del
+  ishbaalanismo.
 
 No abarca todavía:
 
@@ -37,14 +49,22 @@ No abarca todavía:
 - la historia genealógica completa de las familias Khan y Galenor;
 - el número de generaciones entre Rasmus Galenor, Fhilippo Galenor e Iyuri;
 - la creación de fichas canónicas para Iyuri, sus padres o la Casa Khan;
+- la historia completa de Sarustra, de los perseguidores de los Sheijad y de la
+  llegada de los exiliados;
+- la cronología completa del ishbaalanismo, del cisma, de la separación de la
+  isla y de las Guerras Místicas;
+- la identidad objetiva de Ishbaal, Arsul y el Errante sin Nombre;
 - una cronología detallada, cuentos, escenas de combate o volcamiento al canon.
 
 ## Canon vigente que delimita el trabajo
 
-- Los Sheijad son el pueblo de Ishbaal y proceden de la antigua tierra llamada
-  Sarustra. La guía onomástica sheijad fija únicamente una sonoridad para
-  nombres y casas; no determina el fenotipo, la historia ni la ascendencia de
-  cada persona.
+- Los Sheijad proceden de la antigua tierra llamada Sarustra. La guía
+  onomástica sheijad fija únicamente una sonoridad para nombres y casas; no
+  determina el fenotipo, la historia ni la ascendencia de cada persona.
+- Ishbaal es una isla al noroeste de Stigria y un protectorado del Imperio de
+  Dragma. La acumulación desarrolla aquí la distribución sheijad en distintos
+  territorios y la historia religiosa de la isla sin convertirla en el único
+  asentamiento sheijad.
 - Un Portador hereda por sangre un vínculo permanente con los Inits. El vínculo
   permite manifestar un don, mientras que las maestrías son aplicaciones que la
   persona aprende y desarrolla a partir de él.
@@ -78,14 +98,22 @@ No abarca todavía:
   delimitada en las fichas canónicas mediante marcas de canon velado.
 - No hay una ficha canónica vigente de Iyuri Khan, Fhilippo Galenor o Marwha
   Khan. Tampoco existe todavía una ficha canónica de la Casa noble Khan.
+- El canon vigente describe el Moroloth de la isla como un templo central con
+  forma de catedral que guarda restos de identidad desconocida, atribuidos por
+  los fieles al Errante sin Nombre. La atribución religiosa no confirma la
+  identidad objetiva de los restos.
+- El canon vigente reconoce una corriente que considera antinatural el
+  misticismo y una tolerancia común hacia esa práctica, pero no fija todavía el
+  cisma secular-ortodoxo desarrollado en esta acumulación.
 - El presente narrativo del canon corresponde al año **+1680**, bajo la tercera
   dinastía imperial, la Casa Pavel.
 
 ## Material aportado para el personaje
 
-El contenido de esta sección resume datos expresados por el usuario. Su estado
-es **propuesta humana pendiente de auditoría y resolución**: se conserva para el
-proceso, pero no constituye canon por estar escrito aquí.
+El contenido de esta sección y del bloque histórico-religioso posterior resume
+datos expresados por el usuario. Las decisiones expresas quedan registradas
+como acuerdos de esta acumulación; las reservas permanecen abiertas. Nada de
+ello constituye canon por estar escrito aquí ni autoriza un volcamiento.
 
 ### A-01. Identidad y edad
 
@@ -101,9 +129,10 @@ su eventual título permanecen pendientes.
 ### A-02. Ascendencia materna
 
 La madre de Iyuri es **Marwha Khan**, una **Hija del Sol**, es decir, una mujer
-perteneciente a la identidad etnocultural de los Hijos del Sol. Por decisión
-expresa del autor, Marwha es la madre de Iyuri y forma parte de la Casa noble
-Khan en desarrollo.
+perteneciente a la identidad etnocultural de los Hijos del Sol. Marwha pertenece
+a la **Casa noble Khan**, una casa noble sheijad originada en el proceso de
+integración de los Sheijad en el Imperio de Dragma. Por decisión expresa del
+autor, Marwha es la madre de Iyuri y forma parte de esta casa en desarrollo.
 
 La propuesta vincula esta ascendencia con la condición de Portador de Iyuri,
 pero todavía no establece:
@@ -247,16 +276,39 @@ aspectos.
 
 ### A-09. Casa noble Khan
 
-El desarrollo de la **Casa noble Khan** pasa a formar parte del alcance de este
-proceso por decisión expresa del autor. La casa no tiene todavía ficha canónica
-y sus características se mantienen abiertas.
+La **Casa Khan es una casa noble sheijad**, originada en el contexto de la
+integración de este pueblo en el Imperio de Dragma. Su desarrollo pasa a formar
+parte del alcance de este proceso por decisión expresa del autor.
+
+Los Sheijad llegaron después de la formación del Imperio, procedentes de
+Sarustra, como exiliados de diversos orígenes y circunstancias. Antes de
+integrarse en la sociedad imperial no estaban organizados necesariamente según
+las estructuras de casas nobiliarias propias de Dragma. Con el tiempo,
+adoptaron las estructuras sociales y políticas imperiales, y de ese proceso
+surgieron sus casas, incluida la Casa Khan.
+
+La casa no tiene todavía ficha canónica y sus características institucionales,
+genealógicas y territoriales se mantienen abiertas.
+
+### A-09.1. Identidad religiosa de la Casa Khan
+
+La Casa Khan pertenece a la corriente **secular del ishbaalanismo**. Fue una de
+las primeras casas en adoptar esta postura.
+
+El término «secular» no significa que la Casa Khan sea atea, que haya abandonado
+la fe o que rechace a Ishbaal. Designa su interpretación religiosa favorable a
+la convivencia con el misticismo, dentro de los límites que todavía deben
+definirse.
 
 El desarrollo deberá contemplar, sin resolverlos por inferencia:
 
-- el origen y la antigüedad de la casa;
+- cómo obtuvo exactamente su reconocimiento nobiliario;
+- quiénes fueron sus fundadores;
+- cuándo se constituyó formalmente;
+- cuál fue su posición inicial dentro de la sociedad ishbaalana;
 - su territorio y su relación con Ishbaal, Sarustra u otras regiones;
-- su condición de casa sheijad, su relación con los Hijos del Sol y la posible
-  convivencia de ambas identidades en su linaje;
+- su relación con los Hijos del Sol y la posible convivencia de ambas
+  identidades en su linaje;
 - su título, posición social y reconocimiento dentro del Imperio;
 - la persona que encabeza la casa en la época de Iyuri;
 - la filiación de Marwha y Lya dentro de la casa;
@@ -272,6 +324,254 @@ El desarrollo deberá contemplar, sin resolverlos por inferencia:
 La condición noble de la Casa Khan es un dato de desarrollo autoral para esta
 acumulación, no una modificación inmediata del índice canónico ni de ninguna
 otra casa documentada.
+
+## Desarrollo amplio: Sheijad e ishbaalanismo
+
+Los apartados siguientes amplían el alcance de la acumulación más allá de
+Iyuri. Reúnen decisiones expresas del autor sobre la historia sheijad y el
+ishbaalanismo. Se conservan como contexto de trabajo para la Casa Khan y para
+el personaje, pero no convierten las interpretaciones religiosas en verdades
+objetivas sobre Ishbaal.
+
+### B-01. Sarustra y el origen del ishbaalanismo
+
+Los Sheijad proceden de la antigua tierra de **Sarustra**.
+
+El **ishbaalanismo nació en Sarustra**, no en la isla de Ishbaal. Los Sheijad ya
+practicaban el ishbaalanismo antes de llegar al Imperio de Dragma.
+
+La isla que actualmente conocemos como **Ishbaal** tenía otro nombre antes de la
+llegada de los exiliados. Ese nombre todavía no ha sido establecido. La isla
+recibió su nombre actual después de la llegada sheijad; no se fija todavía si el
+nombre se adoptó por una decisión religiosa, política, comunitaria o por otro
+motivo.
+
+Esta formulación sustituye, dentro de la presente acumulación, cualquier origen
+anterior del ishbaalanismo situado en la isla.
+
+### B-02. Llegada de los Sheijad a Dragma
+
+Los Sheijad llegaron al Imperio como **exiliados procedentes de distintos
+orígenes y circunstancias**. El Imperio los acogió cuando huían de una situación
+de persecución y de peligro de muerte.
+
+Los exiliados encontraron en Dragma un nuevo hogar, pero también se enfrentaron
+a exigencias de integración dentro de una sociedad profundamente diferente a
+la que habían dejado atrás.
+
+El encuentro con la sociedad imperial, especialmente con la presencia del
+misticismo en numerosos ámbitos sociales, desencadenó una transformación
+fundamental del ishbaalanismo. La religión no llegó a Dragma como una doctrina
+formada dentro de una sociedad que ya compartiera las prácticas místicas
+imperiales: tuvo que reinterpretar su experiencia al entrar en contacto con
+ellas.
+
+No se fijan todavía la fecha de la llegada, el número de exiliados, sus rutas,
+los lugares concretos de asentamiento ni las circunstancias individuales que
+los llevaron a Dragma.
+
+### B-03. Distribución de los Sheijad
+
+No debe afirmarse que la mayor parte de los Sheijad vive en Ishbaal. Los Sheijad
+se encuentran distribuidos por diferentes territorios del Imperio.
+
+Los habitantes sheijad de Ishbaal se consideran a sí mismos **sheijad puros** y
+reconocen al mismo tiempo que forman parte del Imperio. La pureza es una
+autopercepción identitaria de la comunidad insular; no constituye
+automáticamente una afirmación objetiva sobre ascendencia ni una afirmación de
+superioridad cultural.
+
+La extensión de las comunidades sheijad fuera de la isla, sus proporciones, sus
+formas de organización y las relaciones entre ellas quedan reservadas.
+
+### B-04. Naturaleza original del ishbaalanismo
+
+El ishbaalanismo es una religión de origen sheijad que posteriormente se
+extendió por Dragma y alcanzó también a poblaciones no sheijad.
+
+#### Tradición oral
+
+Las enseñanzas atribuidas a **Ishbaal** y a sus profetas se transmitían
+originalmente mediante **tradición oral**.
+
+En su forma original no existía una Biblia, un conjunto de diez mandamientos ni
+un código religioso escrito equivalente. Todos los textos sagrados y las
+tradiciones escritas ishbaalanistas surgieron **después de la llegada de los
+Sheijad a Dragma**.
+
+Este detalle es fundamental para comprender el posterior cisma. Ninguna
+corriente puede demostrar mediante un texto sagrado original que Ishbaal haya
+pronunciado un mandato explícito sobre el misticismo. Las interpretaciones
+religiosas posteriores surgen de la tradición recibida, de la experiencia
+histórica y de la interpretación de la voluntad divina.
+
+No se inventan en esta acumulación profetas, escrituras, mandamientos ni
+doctrinas adicionales.
+
+### B-05. Conocimiento sheijad del misticismo antes de Dragma
+
+Antes de llegar al Imperio, los Sheijad únicamente conocían el misticismo a
+través de sus perseguidores.
+
+No estaban familiarizados con una sociedad donde el misticismo tuviera
+aplicaciones cotidianas e institucionales ampliamente aceptadas. Por ello, su
+experiencia previa con los místicos estaba vinculada a la persecución y al
+peligro que habían experimentado.
+
+Todavía no se ha establecido:
+
+- quiénes eran exactamente los perseguidores;
+- por qué perseguían a los Sheijad;
+- qué papel desempeñaba el misticismo en esa persecución;
+- si el misticismo era la causa de la persecución o una capacidad utilizada por
+  quienes la ejecutaban.
+
+No se inventan respuestas para estos puntos.
+
+### B-06. Surgimiento del cisma ishbaalanista
+
+Cuando los Sheijad llegaron a Dragma encontraron una contradicción difícil de
+resolver. El Imperio que los había acogido y salvado de la muerte era una
+sociedad donde el misticismo estaba integrado en numerosos aspectos de la vida.
+Aquello entraba en conflicto con muchas de las interpretaciones religiosas que
+los exiliados traían consigo.
+
+Esta situación condujo a una profunda división dentro del ishbaalanismo.
+Surgieron dos grandes corrientes: **los seculares** y **los ortodoxos**. Ambas
+reconocen a Ishbaal, pero interpretan de manera diferente su voluntad respecto
+al misticismo.
+
+#### B-06.1. Interpretación secular
+
+Los seculares parten de una cuestión religiosa fundamental:
+
+> Si Ishbaal había permitido que los Sheijad encontraran refugio en Dragma,
+> ¿cómo podía considerar intrínsecamente impío el misticismo practicado por
+> quienes los habían salvado?
+
+Para ellos, Ishbaal no podía estar radicalmente en contra del misticismo y, al
+mismo tiempo, permitir su existencia dentro de la sociedad que había elegido
+como refugio para su pueblo.
+
+Muchos concluyeron que su llegada a Dragma no era accidental, sino que
+respondía a una voluntad divina. Si Ishbaal los había conducido hasta aquella
+tierra, debía existir una razón. Desde esta perspectiva, conocer y aceptar la
+existencia del misticismo podía formar parte de aquello que Ishbaal esperaba de
+ellos.
+
+La corriente secular no abandona necesariamente la religión ishbaalanista:
+desarrolla una interpretación favorable a la convivencia con el misticismo.
+«Secular» no equivale a irreligioso ni significa abandonar la fe o rechazar a
+Ishbaal.
+
+No se supone que los seculares aprueben sin límites todas las prácticas
+místicas. Los límites concretos de su tolerancia todavía no están definidos.
+
+#### B-06.2. Interpretación ortodoxa
+
+Los ortodoxos llegan a una conclusión opuesta. Para ellos, el misticismo sigue
+siendo una transgresión del orden divino.
+
+La llegada a Dragma no demuestra que Ishbaal apruebe aquellas prácticas. Por el
+contrario, constituye una **prueba de fe**: Ishbaal condujo a los Sheijad hasta
+una tierra donde estarían rodeados por una tentación que debían resistir. Ceder
+ante el misticismo significaría fracasar en esa prueba y exponerse al castigo
+divino.
+
+Entre los sectores más radicales surgió una interpretación todavía más severa:
+**Ishbaal había llevado a los Sheijad hasta Dragma para purificar aquella tierra
+impía**.
+
+Esta interpretación no se atribuye automáticamente a todos los ortodoxos. La
+relación histórica precisa entre la corriente ortodoxa, sus sectores radicales
+y la **Orden de la Flama Blanca** debe contrastarse con las fuentes canónicas y
+permanece abierta donde no existe una decisión expresa.
+
+#### B-06.3. Naturaleza del desacuerdo
+
+La división no consiste en creyentes contra no creyentes. Ambas corrientes
+profesan el ishbaalanismo, apelan a la voluntad de Ishbaal e interpretan el
+mismo acontecimiento histórico —la llegada y acogida de los Sheijad en Dragma—,
+pero extraen conclusiones religiosas contrarias.
+
+Los seculares consideran que la acogida imperial demuestra que el misticismo
+puede coexistir con la voluntad de Ishbaal. Los ortodoxos consideran que aquella
+acogida los sitúa ante una prueba religiosa, no ante una autorización para
+aceptar el misticismo.
+
+Esta oposición constituye el fundamento doctrinal del cisma.
+
+### B-07. División territorial de la isla de Ishbaal
+
+La fractura religiosa alcanzó una magnitud suficiente para producir una
+división territorial de la isla. Durante un período prolongado, los seculares y
+los ortodoxos vivieron prácticamente separados y apenas se mezclaron.
+
+La distribución establecida para esta acumulación es:
+
+- **Sector orientado hacia el continente:** comunidad secular.
+- **Sector opuesto:** comunidad ortodoxa.
+
+No se fijan todavía fronteras administrativas, ciudades, fortificaciones,
+gobiernos independientes ni conflictos militares derivados de la división. La
+forma exacta en que se produjo la separación permanece pendiente.
+
+#### B-07.1. El gran templo central
+
+En el centro de la isla se encuentra el **gran templo que custodia los huesos
+atribuidos al Errante sin Nombre**. El recinto tiene importancia religiosa para
+ambas corrientes.
+
+Tanto los seculares como los ortodoxos veneran el templo y los restos del
+Errante. La división religiosa no elimina esta devoción compartida.
+
+La identidad objetiva de los restos debe permanecer conforme al límite vigente:
+los creyentes los atribuyen al Errante sin Nombre, pero esa atribución no
+constituye necesariamente una verdad comprobada.
+
+No se inventa todavía el sistema de custodia, administración o acceso al templo
+durante el período de separación.
+
+### B-08. Evolución histórica posterior
+
+Se conserva como propuesta de largo alcance que el cisma ishbaalanista tiene
+consecuencias históricas profundas y que, en el futuro, prácticamente todos los
+ishbaalanos, sean sheijad o no, son seculares.
+
+También se conserva la relación propuesta entre esta evolución, las Guerras
+Místicas y la culminación del conflicto en la última gran Guerra Mística.
+
+La cronología exacta todavía no está resuelta. No se establecen por inferencia:
+
+- la fecha del surgimiento del cisma;
+- la duración exacta de la separación territorial;
+- su relación cronológica definitiva con cada Guerra Mística;
+- el momento en que el secularismo pasó a predominar;
+- la participación concreta de los Khan en esos acontecimientos.
+
+La evolución general queda registrada como material para desarrollar, mientras
+las precisiones históricas permanecen pendientes de decisión humana.
+
+### B-09. Relación con Iyuri Khan
+
+La Casa Khan debe entenderse dentro de este contexto religioso, cultural e
+histórico. Su secularismo constituye una característica importante de su
+identidad familiar.
+
+Iyuri Khan, como integrante de esta familia y como Portador, ofrece una
+conexión narrativa entre la historia del cisma ishbaalanista y la aceptación del
+misticismo.
+
+Todavía no se inventan:
+
+- las creencias personales de Iyuri;
+- la educación religiosa que recibió;
+- la postura particular de Fhilippo Galenor y Marwha Khan;
+- la relación de los Khan con los ortodoxos de su época;
+- conflictos familiares motivados por el misticismo;
+- la participación directa de Iyuri en acontecimientos religiosos o políticos.
+
+Estos aspectos quedan reservados para desarrollo posterior.
 
 ## Propuesta visual provisional
 
@@ -351,11 +651,74 @@ guerrero adulto de armadura pesada.
 17. **Aspecto visual.** Confirmar qué rasgos de la propuesta artística pasan a
       ser decisiones del personaje y cuáles permanecen abiertos.
 
+## Reservas del bloque sheijad e ishbaalanista
+
+Las siguientes materias quedan abiertas para el desarrollo amplio de los
+Sheijad, la Casa Khan y el ishbaalanismo. No son respuestas implícitas ni deben
+completarse por inferencia:
+
+1. **Sarustra y los exiliados.** Fijar la historia interna de Sarustra, sus
+   distintos orígenes sheijad, la situación que produjo el exilio y las formas
+   concretas de persecución y huida hacia Dragma.
+2. **Perseguidores y misticismo.** Determinar quiénes perseguían a los Sheijad,
+   por qué lo hacían y si el misticismo causaba la persecución o era una
+   capacidad empleada por sus ejecutores.
+3. **Nombre antiguo de la isla.** Establecer cómo se llamaba la isla antes de
+   que los exiliados la conocieran como Ishbaal y por qué adoptó el nombre
+   actual.
+4. **Distribución sheijad.** Determinar en qué territorios se asentaron las
+   comunidades sheijad fuera de Ishbaal, cómo se relacionan entre sí y cómo se
+   expresa la autopercepción de pureza de la comunidad insular.
+5. **Tradición oral y textos posteriores.** Desarrollar, sin inventar una Biblia,
+   diez mandamientos ni un código original, cómo surgieron después de la llegada
+   los textos sagrados y las tradiciones escritas.
+6. **Límites seculares.** Precisar qué prácticas místicas pueden tolerar o
+   aceptar los seculares sin convertir su postura en una aprobación ilimitada.
+7. **Ortodoxos y sectores radicales.** Determinar la relación concreta entre los
+   ortodoxos, sus sectores radicales y la Orden de la Flama Blanca, sin atribuir
+   la interpretación purificadora a todos los ortodoxos.
+8. **Cisma.** Fijar cuándo surgieron las dos corrientes, qué procesos internos
+   atravesaron y cómo se transmitió la división dentro de la tradición oral y
+   de los textos posteriores.
+9. **División de Ishbaal.** Precisar cómo se produjo la separación territorial,
+   cuánto duró y qué límites sociales o administrativos tuvo, sin añadir aún
+   ciudades, gobiernos, fortificaciones ni guerras no decididas.
+10. **Gran templo central.** Determinar la custodia, administración y acceso al
+    templo y a los restos atribuidos al Errante sin Nombre durante la separación.
+11. **Predominio secular posterior.** Fijar cuándo y cómo el secularismo pasó a
+    predominar entre los ishbaalanos sheijad y no sheijad.
+12. **Guerras Místicas.** Establecer la relación cronológica entre el cisma, la
+    división de la isla, las Guerras Místicas y la última gran Guerra Mística.
+13. **Casa Khan en la historia religiosa.** Determinar la participación concreta
+    de la casa en el cisma, en la separación territorial y en la evolución
+    posterior del ishbaalanismo.
+
 ## Contraste inicial con el canon
 
 Este apartado registra el contraste documental solicitado sin constituir una
 auditoría formal ni resolver los conflictos.
 
+- Existe una incompatibilidad directa con el canon vigente: `ishbaal.md` y
+  `culto-a-ishbaal.md` sitúan el origen del culto en la isla de Ishbaal, mientras
+  que esta decisión expresa del autor establece que el ishbaalanismo nació en
+  Sarustra y que la isla recibió el nombre de Ishbaal después de la llegada de
+  los exiliados. La contradicción queda registrada para una resolución humana;
+  no se modifica ninguno de esos archivos canónicos.
+- El canon vigente prohíbe la práctica del misticismo en la isla de Ishbaal. La
+  corriente secular aquí definida interpreta favorablemente la convivencia con
+  el misticismo, pero no se ha decidido si esa interpretación permite prácticas
+  místicas dentro de la isla. La relación entre la prohibición territorial y la
+  división secular-ortodoxa requiere resolución humana, sin constituir todavía
+  una contradicción directa de la doctrina secular.
+- El canon documenta una corriente que considera antinatural el misticismo y
+  una tolerancia común hacia esa práctica, pero no documenta el cisma histórico
+  en dos corrientes, la separación territorial ni el predominio secular futuro.
+  Estos datos amplían el desarrollo de trabajo y requerirán reconciliación antes
+  de cualquier volcamiento.
+- El canon describe el Moroloth central y los restos atribuidos al Errante sin
+  Nombre de forma compatible con la veneración compartida establecida aquí. No
+  se fija por ello la identidad objetiva de los restos ni su sistema histórico
+  de custodia.
 - La relación de Iyuri como hermano de Lya no contradice las fichas actuales:
   estas fijan a Lya como pareja de Oskar y madre de Arystan, pero no establecen
   su ascendencia ni sus hermanos.
@@ -382,6 +745,35 @@ auditoría formal ni resolver los conflictos.
   esa cronología y a resolver la tensión que surgiría si Iyuri hubiera crecido
   en Ishbaal, donde la práctica del misticismo está prohibida.
 
+## Precedencia de esta actualización
+
+Esta sección fija cómo debe leerse la acumulación después de las decisiones
+expresas del autor. Sustituye las formulaciones anteriores incompatibles dentro
+de este documento y no añade las premisas descartadas como aclaraciones del
+desarrollo consolidado.
+
+1. El nombre de la religión es **ishbaalanismo**. Esta terminología y sus
+   derivados se emplean de forma normalizada, sin alterar los nombres propios
+   ya establecidos.
+2. El ishbaalanismo nació en **Sarustra**, no en la isla de Ishbaal.
+3. La isla recibió su nombre actual después de la llegada sheijad.
+4. La mayor parte de los Sheijad no debe situarse automáticamente en Ishbaal.
+   Las comunidades sheijad están distribuidas por distintos territorios, y la
+   pureza que se atribuyen los habitantes de la isla es una autopercepción, no
+   una afirmación objetiva de ascendencia o superioridad.
+5. El secularismo ishbaalanista no equivale al abandono de la religión, al
+   ateísmo ni al rechazo de Ishbaal.
+6. El origen doctrinal del cisma se relaciona con las distintas interpretaciones
+   del misticismo después de la llegada de los exiliados a Dragma.
+7. Los textos sagrados escritos son posteriores a la llegada sheijad; las
+   enseñanzas originales se transmitían oralmente.
+8. Las dos corrientes comparten la veneración del templo central y de los restos
+   atribuidos al Errante sin Nombre.
+
+La regla de anti-fantasmeo se aplica a las formulaciones anteriores sustituidas:
+no deben reaparecer como negaciones, contrastes narrativos ni explicaciones
+indirectas en futuras ampliaciones de esta acumulación.
+
 ## Antecedentes canónicos relacionados
 
 - `docs/personajes.md`
@@ -390,6 +782,7 @@ auditoría formal ni resolver los conflictos.
 - `docs/taburas/grim-tabura.md`
 - `docs/taburas/tabura.md`
 - `docs/mundo/stigria/dragma/ishbaal/ishbaal.md`
+- `docs/mundo/stigria/dragma/ishbaal/culto-a-ishbaal.md`
 - `docs/mundo/stigria/dragma/sturmgard/sturmgard.md`
 - `docs/mundo/stigria/costa-del-verano.md`
 - `docs/mundo/stigria/cantera-de-nombres/sheijad.md`
@@ -400,16 +793,39 @@ auditoría formal ni resolver los conflictos.
 - `docs/personajes/arystan-khan.md`
 - `docs/personajes/millicent-rosamund.md`
 
+## Recomendación de alcance
+
+El material sobre Sarustra, la llegada de los exiliados, el origen del
+ishbaalanismo, sus corrientes, la división de Ishbaal y su evolución histórica
+ya constituye un desarrollo mayor que no depende exclusivamente de la
+biografía de Iyuri. Por ello, se recomienda tratar ese bloque también dentro de
+una acumulación independiente de **Ishbaal y los Sheijad**.
+
+Ya existe el proceso de trabajo
+`procesos-de-volcamiento/ishbaal-y-los-sheijad/`, cuya acumulación puede servir
+como espacio independiente para ese desarrollo. No se modifica ni se crea
+ningún archivo de ese proceso en esta actualización. La acumulación de Iyuri
+conserva aquí el bloque porque la Casa Khan y la identidad religiosa familiar
+dependen directamente de él.
+
 ## Reserva y estado editorial
 
 Esta acumulación no crea a Iyuri Khan en el canon, no crea el Calamar Rojo, no
-modifica la Grim Tábura, no crea la Casa noble Khan y no actualiza índices ni
-`docs/notas.md`. Las relaciones nuevas —Fhilippo Galenor como padre, Marwha Khan
-como madre, Lya Khan como hermana, Oskar Rheiner como amor de juventud, Iyuri
-como descendiente directo de Rasmus Galenor y Fhilippo como mercader de las
-Costas del Verano— quedan registradas como decisiones expresas del autor dentro
-de este documento de trabajo, pero todavía no se incorporan a las fichas
-canónicas.
+modifica la Grim Tábura, no crea la Casa noble Khan, no redefine el
+ishbaalanismo en `docs/` y no actualiza índices ni `docs/notas.md`. Las
+relaciones nuevas —Fhilippo Galenor como padre, Marwha Khan como madre, Lya Khan
+como hermana, Oskar Rheiner como amor de juventud, Iyuri como descendiente
+directo de Rasmus Galenor y Fhilippo como mercader de las Costas del Verano—
+quedan registradas como decisiones expresas del autor dentro de este documento
+de trabajo, pero todavía no se incorporan a las fichas canónicas.
+
+También quedan registradas como decisiones expresas del autor la condición
+noble sheijad y secular de la Casa Khan, el origen sarustriano del
+ishbaalanismo, la tradición oral original, el cisma secular-ortodoxo, la
+división territorial de la isla, la veneración compartida del templo central y
+la evolución secular posterior propuesta. Sus cronologías, mecanismos,
+instituciones, genealogías intermedias y consecuencias no decididas permanecen
+reservados.
 
 Las formulaciones de esta conversación que no aparecen como datos aportados por
 el usuario se conservan únicamente como propuestas visuales o alternativas de
