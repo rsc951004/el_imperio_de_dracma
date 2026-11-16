@@ -13,6 +13,7 @@ Leandrin Rheiner y es abuelo de Millicent Rosamund.
 
 ## Referencias
 
+- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/personajes/lya-khan.md`
 - `docs/personajes/iyuri-khan.md`
 - `docs/personajes/arystan-khan.md`

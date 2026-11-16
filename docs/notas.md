@@ -2,6 +2,13 @@
 
 ## Revisiones editoriales
 
+### El niño de la flecha (2026-11-16)
+
+Incorporado el fragmento narrativo canónico de Iyuri Khan y actualizado el
+índice de fragmentos. Su ficha conserva los datos de consulta, las reglas de su
+don y las reservas, y enlaza la narración; las fichas de Oskar y Fey también
+remiten al fragmento. Se respetan los límites de conocimiento y el canon velado.
+
 ### Infraestructura de fragmentos canónicos (2026-11-16)
 
 Creada la sección `fragmentos/` para piezas narrativas canónicas breves y su
