@@ -13,7 +13,8 @@ todos los puntos de la auditoría en orden, incluidos los previamente tratados.
 Las decisiones registradas a continuación se conservan como antecedentes
 autorales; ninguna se considera confirmada en esta nueva pasada hasta que el
 autor revise y confirme, modifique o sustituya cada punto. El proceso se
-encuentra actualmente en **AU-12, pendiente de revisión cronológica final**.
+ha concluido con **AU-12 cerrado con reservas**, conforme a la resolución final
+registrada al término de este documento.
 
 Se presentará un solo punto por turno, con su contraste documental y opciones.
 Al resolverlo se registrará su formulación final, su estado y su relación con
@@ -645,7 +646,7 @@ lo transmitió.
 El destino de Fey, el origen del espectro y la condición de los tres familiares
 fueron fijados en la resolución actual de AU-11.
 
-## AU-12. Cronología absoluta de Iyuri y acontecimientos relacionados — pendiente
+## AU-12. Antecedente de revisión cronológica
 
 Este será el **último punto de revisión**, después de todos los conflictos y
 resoluciones previamente planificados. No se fijan ahora fechas ni se adelanta
@@ -714,3 +715,142 @@ La primera propuesta sitúa la historia más atrás y supone una paternidad de
 Arystan más tardía; la segunda ofrece una distancia intermedia; la tercera
 acerca la historia a la generación de Arystan y Mili. Una cuarta opción queda
 abierta para fijar o modificar fechas. No se ha elegido ninguna propuesta.
+
+## AU-12. Resolución final: cronología integral — cerrado con reservas
+
+Esta resolución prevalece sobre las propuestas cronológicas anteriores. Es
+material no canónico de resolución: no autoriza modificar `docs/` ni `cuentos/`.
+Las fechas ilustrativas son pruebas de coherencia, no fechas aprobadas. Se
+conservan AU-01 a AU-11 y los alcances de canon velado; los datos personales no
+se atribuyen como conocimiento a quienes los desconocen.
+
+### Decisiones autorales y secuencia
+
+- La fundación imperial es el año 0; Amschel transcurre entre +400 y +1350;
+  Pavel comienza en +1350 y el presente de Sandor ronda +1680.
+- La vida completa de Leandrin, Iyuri, Oskar, Lya, Arystan, Ellis, Imrik y
+  Mili, y de los demás personajes expresamente comprendidos en esa restricción,
+  transcurre durante Amschel. Sandor pertenece a una época posterior.
+- El surgimiento de Leandrin en Dragma y el inicio de las Guerras Místicas se
+  estudian hacia +620–640; los nacimientos de Iyuri y Oskar hacia +900–950. La
+  llegada de Elio, Narissa y Dante se explora hacia +700–800. Estos rangos son
+  preferidos y exploratorios: ningún año concreto se fija por esta resolución.
+- Sirene escapa de Astria, llega a Zephyrya con unos cincuenta años, adopta la
+  identidad de Lysandra Vilen y viaja con Rasmus. Conoce a Leandrin a sus seis
+  años, se casa con Gunther y la cría. Sus edades y secuencia se conservan;
+  sus fechas absolutas deben desplazarse con Leandrin. El intervalo entre la
+  llegada a Zephyrya y Fernigard no está fijado. Rasmus es antepasado de
+  Fhilippo e Iyuri; las generaciones intermedias quedan reservadas.
+- Las campañas de Leandrin, la devastación de los dragones, el origen de
+  Phardazul y la destrucción de Askenburg conservan AU-01 y AU-02. Phardazul es
+  capital para la despedida de Iyuri. La fecha del traslado no se fija.
+- Las Guerras Místicas y la Aniquilación pertenecen a Amschel; la Orden de la
+  Flama Blanca aprovecha el rechazo al misticismo y conspira durante la
+  Aniquilación. El culto a Thalmos se prohíbe al final de las guerras. Su fecha
+  y relación exacta con las vidas individuales quedan abiertas.
+- El asentamiento sheijad en Kardan, el cisma, la separación, la guerra civil,
+  la integración y la creación del Principado de Lemuria preceden a la
+  infancia lemuriana de Iyuri. La Casa Khan existe entonces. No se fijan fechas
+  para esos procesos ni una secuencia adicional respecto de las guerras.
+
+### Verna, el último Rey Sol y la Mort
+
+Verna Zorana es hombre. Utilizó a sus hijos Elio, Narissa y Dante para
+atravesar el Velo Inmaterial; murió y renació como cultista arcano y servidor
+completo de Thalmos. Su condición comprende mutilación, corrupción profunda,
+alma fragmentada entre vida y muerte y existencia prácticamente inmortal. Los
+cultistas arcanos pueden morir. Verna envió a sus hijos como Peregrinos Negros,
+posición inferior de la jerarquía del culto; llegaron a Stigria y fundaron la
+Mort. Las circunstancias y edades de su viaje permanecen abiertas.
+
+Verna permaneció en Astria y fue uno de los principales carceleros y
+torturadores del último Rey Sol. Sus verdugos prolongaron artificialmente la
+vida del prisionero para seguir torturándolo, contra su voluntad. En sus
+últimos tiempos, Verna lo consideraba una cosa vacía con apariencia humana de
+la que ya no podía obtener nada: es la percepción de Verna, no un diagnóstico
+del estado interior del prisionero.
+
+En la noche del Sol de Medianoche, inmediatamente anterior a la destrucción de
+Astria en +1254, el último Rey Sol manifiesta su poder y desencadena la
+catástrofe desde dentro. Verna está presente; su muerte coincide con la caída.
+Casi todos los cultistas arcanos perecen aquella noche. Quedan reservados el
+momento exacto y circunstancias concretas de la muerte de Verna, la secuencia
+minuciosa de la escena, el Velo, el procedimiento arcano, la naturaleza técnica
+de la longevidad y la mecánica de destrucción de las islas.
+
+Los primeros liberados llevaron a Stigria leyendas sobre Reyes Sol y resistencia.
+La memoria del primer Rey Sol Therin está documentada en las fichas de Iulien y
+la Casa Therin. Queda abierta la identidad del protagonista de las leyendas
+transmitidas por los primeros liberados y si conocían al último Rey Sol. Si lo
+conocían en −330 y ya estaba cautivo, su cautiverio se extendería al menos unos
+1.584 años hasta +1254; la prolongación artificial está aprobada, pero ni la
+fecha de captura ni esa identificación lo están. Una tradición anterior que
+incorpore después el desenlace es otra posibilidad, no una decisión adoptada.
+
+Los tres fundadores emigran antes de la caída bajo el rango exploratorio de
++700–800; la Mort debe existir antes del episodio de Iyuri a los dieciséis.
+La expansión, la persecución imperial, el establecimiento de supervivientes
+descendientes en Rauven y el nacimiento de Armand mantienen su orden canónico.
+La expresión del índice que presenta a la Mort como superviviente de la caída
+requiere precisión al volcar: cabe explorar incorporaciones posteriores, sin
+aprobarlas ni hacer depender de ellas la fundación. La actuación clandestina
+durante siglos no se atribuye íntegramente al período anterior a Armand.
+
+### Comprobación de edades: ejemplo no vinculante
+
+| Hito | Ejemplo aproximado | Estado |
+|---|---:|---|
+| Leandrin nace; conoce a Sirene | +612; +618 | Estimación: rito a los 18; edad del rito sin fijar. |
+| Sirene llega; nace unos cincuenta años antes | Hacia +618 o antes; nacimiento unos 50 años antes | Estimación sujeta a la duración no fijada entre Zephyrya y Fernigard. |
+| Rito de Leandrin e inicio de las guerras | +630 | Ejemplo dentro del rango exploratorio. |
+| Iyuri y Oskar nacen | +930 y +931 | Ejemplo; diferencia aproximada de un año. |
+| Huida de Iyuri | +944 | Iyuri 14. |
+| Captura y conspiración de la Mort | +946 | Iyuri 16; Oskar 15. |
+| Reencuentro, escolta de Essio y mansión | +949 | Iyuri 19; Oskar 18; tres años después. |
+| Despedida y boda | +953 | Iyuri 23; Oskar 22, aproximadamente. |
+| Arystan, Imrik y Ellis nacen | +960, +965 y +962 | Ejemplos no establecidos; Oskar tendría unos 29 al nacer Arystan. |
+| Célula 1378 | +979 | Imrik 14; en este ejemplo Arystan 19 y Ellis 17. |
+| Nacimiento de Mili | +981 | En este ejemplo Arystan 21 y Ellis 19. |
+| Célula 1466 | +996 | Imrik 31 y Mili 15. |
+| Sol de Medianoche y destrucción de Astria | +1254 | Anclaje confirmado. |
+| Inicio de Pavel; presente narrativo de Sandor | +1350; alrededor de +1680 | Anclajes confirmados. |
+
+Los años de nacimiento y edades son aproximados y dependen de cumpleaños. Las
+edades del ejemplo de Arystan y Ellis no son datos canónicos. La muerte de ambos
+ocurre después del nacimiento de Mili y antes de que Imrik quede a su cargo;
+no se deduce un año ni edad exactos. El ejemplo requiere que todas las muertes
+incluidas en la restricción ocurran antes de +1350, sin fijar sus fechas.
+La edad de Lya, las generaciones hasta Oskar y Armand, la duración precisa de
+las guerras y la distancia entre Rasmus y sus descendientes permanecen abiertas.
+
+### Dependencias documentales para el futuro volcamiento
+
+- `docs/cronologia.md`, `docs/personajes/historicos/leandrin-rheiner.md`,
+  `docs/mundo/stigria/dragma/guerras-misticas.md` y `docs/pendientes.md`:
+  sustituir +1214 cuando se autorice la fecha final; preservar la precedencia
+  de Therin y el orden bélico. `docs/notas.md` requiere una entrada nueva que
+  documente el cambio, respetando su carácter de registro histórico.
+- `docs/personajes/historicos/sirene-zorana.md`, `docs/cronologia.md` y
+  `docs/mundo/astria/astria.md`: revisar +1113 y la estimación +1063 conforme
+  al traslado aprobado y las edades sin inventar una demora ni longevidad.
+- `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`: integrar la
+  prolongación del cautiverio y la secuencia de la caída respetando el canon
+  velado. «Años después» se refiere a la invasión anterior, no establece
+  necesariamente la duración de la cautividad; conviene precisar el pasaje.
+- `docs/personajes/historicos/verna-zorana.md`, las fichas de sus hijos,
+  `docs/casas/zorana.md`, `docs/organizaciones/peregrinos-negros.md`,
+  `docs/taburas/mort-tabura.md` y `docs/taburas.md`: integrar la secuencia de
+  Verna, fundadores y Mort, revisando el alcance de «supervivientes» sin
+  suponer una composición posterior no aprobada.
+- `docs/mundo/stigria/dragma/ishbaal/ishbaal.md`, culto e instituciones
+  relacionados, `docs/mundo/stigria/dragma/flemmengard/flemmengard.md` y las
+  fichas familiares: adecuar la historia de Lemuria, Phardazul, la genealogía y
+  sus alcances velados conforme a las decisiones respectivas y al plan futuro.
+
+### Dictamen
+
+No se detecta una contradicción cronológica que exija una decisión adicional
+para sostener estos rangos. El ejemplo muestra una distribución posible, no una
+cronología definitiva; los huecos señalados son reservas narrativas legítimas.
+AU-12 queda **cerrado con reservas**. La revisión y el plan de volcamiento no
+autorizan modificar el canon; requieren su procedimiento independiente.
