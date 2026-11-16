@@ -15,7 +15,7 @@ de Loras su apariencia para que recordara a su protector.
 Arystan y Ellis murieron luchando contra Mortis, un Grimm.
 <!-- CANON-VELADO: FIN -->
 
-<!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Dravora e Imrik -->
+<!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Ruxandra e Imrik -->
 Arystan y Ellis son los padres de Millicent Rosamund. Arystan es hijo de Oskar
 Rheiner y Lya Khan; Oskar desciende de Leandrin Rheiner.
 <!-- CANON-VELADO: FIN -->

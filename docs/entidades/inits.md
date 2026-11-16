@@ -41,6 +41,9 @@ construido y no necesita abrir un puente nuevo en cada manifestación.
 Los Inits no pertenecen a este plano. Regresaron a Irij antes del amanecer del
 día siguiente al Surgimiento y no han vuelto a salir por medios propios.
 
+Andromalius, Dionisia y Ose son Inits encarnados. El mecanismo de su encarnación
+y su relación concreta con Irij permanecen reservados.
+
 ## Relaciones
 
 - **Mobius:** entidades de Irij que quedaron atrás en este mundo.

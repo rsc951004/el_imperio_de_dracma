@@ -26,7 +26,7 @@ Los supervivientes se reunieron en familias y clanes para combatir a los Grimm q
 
 Con el paso de las generaciones, los clanes unificaron su lengua, costumbres y formas de vida. De esta unión nació el pueblo **Gheran**, o pueblo de Ghera.
 
-Los Gheran reconocieron nueve regiones: **Flemmen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim**. Su mayor concentración habitaba Eldenheim, donde levantaron la fortaleza de Eldengard.
+Los Gheran reconocieron nueve regiones: **Flammen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim**. Su mayor concentración habitaba Eldenheim, donde levantaron la fortaleza de Eldengard.
 
 ## Formación del Riegel
 

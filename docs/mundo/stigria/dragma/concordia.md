@@ -89,7 +89,7 @@ hombres y mujeres. Kaisrik, Reikar y Landwalt son títulos invariantes.
 Kaisrik y Reikar son obligatorios en las ceremonias imperiales. En lengua común
 se utilizan siempre Emperador y Rey, también de forma invariable. Fuera del
 ceremonial, las formas de la lengua del Hierro son cotidianas principalmente en
-Eisengard, Guldengard, Flemmengard y Eldengaria. Sturmgard constituye la
+Eisengard, Guldengard, Flammengard y Eldengaria. Sturmgard constituye la
 excepción entre los reinos del Hierro.
 
 ### VII. Sucesión imperial y real
@@ -174,7 +174,7 @@ El cónyuge de quien ejerce la jefatura es un integrante más de la casa. El
 matrimonio no le concede Herskar, un título de consorte ni autoridad interna.
 
 Fuera del ceremonial, Herskar es cotidiano principalmente en Eisengard,
-Guldengard, Flemmengard y Eldengaria. La Dex Tábura registra su equivalencia
+Guldengard, Flammengard y Eldengaria. La Dex Tábura registra su equivalencia
 común o regional junto con el método sucesorio de cada casa.
 
 Cada Casa —noble o común— debe tener registrado ante la Dex Tábura, de forma **explícita y detallada**, su método de sucesión para la jefatura. El reglamento queda archivado como parte del acta fundacional de la Casa. El método de sucesión lo define cada casa según sus propias reglas:
@@ -193,7 +193,7 @@ nobles. En las ceremonias imperiales precede siempre al nombre personal
 completo, como **Frey Sandor Solarys**, y no se aplica al apellido aislado.
 
 Fuera del ceremonial, Frey es de uso cotidiano principalmente en Eisengard,
-Guldengard, Flemmengard y Eldengaria. En Sturmgard y los demás territorios
+Guldengard, Flammengard y Eldengaria. En Sturmgard y los demás territorios
 predominan **Señor** y **Señora**. Frey es un tratamiento personal y no sustituye
 a Herskar, Cabeza de la Casa ni Jefe de clan.
 

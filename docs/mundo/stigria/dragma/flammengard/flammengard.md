@@ -1,14 +1,14 @@
-# Flemmengard
+# Flammengard
 
 ## Tipo
 Reino del Imperio de Dragma.
 
 ## Nombre valgard
-Flemmengard
+Flammengard
 
 
 ## Capital
-Askenburg
+Phardazul
 ## Casa real
 - Fundadora: **Wolfen**
 - Actual: **Gundrek**
@@ -27,12 +27,18 @@ renovación.
 
 
 ## Gobierno
-La Casa Wolfen recibió la primera corona de Flemmengard. En la Edad de Oro
+La Casa Wolfen recibió la primera corona de Flammengard. En la Edad de Oro
 gobierna la Casa Gundrek. La identidad del soberano reinante y las etapas del
 relevo permanecen pendientes.
 
 ## Historia
-Flemmengard fue uno de los cuatro reinos del Bloque de Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada al fuego, la actividad geotérmica y la piromancia.
+Flammengard fue uno de los cuatro reinos del Bloque de Hierro que permanecieron leales a la dinastía Valgard durante la rebelión del Edicto del Amanecer. Su identidad ha estado siempre ligada al fuego, la actividad geotérmica y la piromancia.
+
+Askenburg fue su primera capital. Durante las Guerras Místicas, el ejército de
+Leandrin Rheiner y sus dragones la destruyeron. Phardazul nació como un enclave
+de Leandrin durante la primera de esas guerras; con el tiempo creció hasta
+convertirse en una gran ciudad construida sobre ríos de lava y en la capital
+del reino. La fecha del traslado permanece reservada.
 
 En el noreste se encuentra Drommdurr, Víer de la Casa Rheiner, cuya residencia
 es Fernigard. El dominio vecino de Uldengyrk pertenece a la Casa Mhaister. El
@@ -50,6 +56,6 @@ Energía geotérmica y minería volcánica. Centro de estudios pirománticos.
 - `docs/casas/gundrek.md`
 
 ## Guía de nombres
-**Germánica.** Los nombres de personas y lugares de Flemmengard siguen la tradición germánica.
+**Germánica.** Los nombres de personas y lugares de Flammengard siguen la tradición germánica.
 
 Las grafías se alteran para no coincidir con nombres reales de personas del mundo real: ecos, no copias. Los nombres deben adaptarse a la fonética y el alfabeto del español, evitando letras y combinaciones de consonantes ajenas a este idioma. No se traducen nombres propios (no John → Juan, no Peter → Pedro). Ver la Guía de nombres en `docs/AGENTS.md`.

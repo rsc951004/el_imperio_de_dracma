@@ -32,4 +32,4 @@ Central.
 
 ## Referencias
 
-- `docs/mundo/stigria/dragma/ishbaal/culto-a-ishbaal.md`
+- `docs/mundo/stigria/dragma/lemuria/culto-a-ishbaal.md`

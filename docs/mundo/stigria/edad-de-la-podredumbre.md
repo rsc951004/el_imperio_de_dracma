@@ -43,7 +43,7 @@ Los liberados se asentaron en Dürr. Sus Portadores emplearon sus facultades par
 Cinco generaciones separaron a Val el Terrible de **Odalric Valgard**. Para cuando Odalric alcanzó la edad adulta, la oscuridad había terminado de cubrir Velesk, convertida en la **Puerta Negra del Reino Podrido**. Odalric fue abuelo de Rudgar; su hijo **Baldur Valgard** fue el padre del futuro Raik.
 
 En el año **-230**, cuando **Rudgar Valgard** tenía dieciséis años, la Puerta
-Negra se abrió. Las hordas de Grimm y poseídos entraron en Flemmen y Eisen.
+Negra se abrió. Las hordas de Grimm y poseídos entraron en Flammen y Eisen.
 
 En cinco años ocuparon casi todo el Gherin. Los principales refugios que
 permanecieron en Stigria fueron Khalos y Eldengard. El confinamiento inicial

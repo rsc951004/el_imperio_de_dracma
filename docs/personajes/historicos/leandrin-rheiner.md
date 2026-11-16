@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Joven noble de Flemmengard y primera Invocadora surgida en territorio de
+Joven noble de Flammengard y primera Invocadora surgida en territorio de
 Dragma, conocida como la Invocadora de Quimeras.
 
 ## Historia
@@ -20,9 +20,9 @@ apariencia para convertirla en consorte del futuro Reikar, mientras representaba
 el papel de una madre protectora.
 <!-- CANON-VELADO: FIN -->
 
-Entre los quince y diecisiete años conoció al Príncipe Coronado de Flemmengard,
+Entre los quince y diecisiete años conoció al Príncipe Coronado de Flammengard,
 quien se enamoró de ella. La celebración reunió en territorio Rheiner a nobles
-de Flemmengard y a la familia real. Leandrin y el príncipe intercambiaron
+de Flammengard y a la familia real. Leandrin y el príncipe intercambiaron
 cartas y se encontraron en secreto. El rey se opuso a la unión porque consideraba
 a los Rheiner una casa venida a menos y quiso desacreditar a Leandrin.
 
@@ -40,14 +40,14 @@ de su madrastra; Sirene le advirtió que, si elegía la venganza, dejaría de
 tratarla como hija. Leandrin eligió el poder y la venganza a pesar de perder
 la aceptación maternal que creía tener.
 
-En el año **+1214**, durante el rito que la convirtió en Invocadora, Sirene perdió su vínculo y Leandrin
+Hacia el final del primer cuarto de la dinastía Amschel, durante el rito que la convirtió en Invocadora, Sirene perdió su vínculo y Leandrin
 recibió uno ampliado, capaz de alcanzar a múltiples Inits. Además de la Forja,
 poseía otros dones. Thalmos intentó poseerla y habló a través de ella sin
 conservar el control; Leandrin mantuvo cuerpo, identidad, recuerdos y alma.
 Sirene la dejó y Ose la acompañó hacia la tundra. Su surgimiento registra el
 inicio de las Guerras Místicas en Dragma.
 
-Su don más poderoso era la Forja. Intentó tomar Flemmengard mediante una guerra
+Su don más poderoso era la Forja. Intentó tomar Flammengard mediante una guerra
 de usurpación e introdujo la creación de Invocadores como recurso bélico,
 suscitando una pugna por su control. Inspirada por la leyenda del Tamurak de la
 vieja Erebia, transformó a sus dieciséis hermanos en dragones. Partieron por
@@ -55,6 +55,11 @@ voluntad propia y conservaron inicialmente sus recuerdos e identidad. Al
 permanecer transformados, perdieron gradualmente el
 raciocinio y sembraron el caos por el Imperio. Los destinos individuales y el
 desenlace de la guerra de usurpación permanecen reservados.
+
+Durante la primera Guerra Mística levantó un enclave que con el tiempo se
+convirtió en Phardazul. Su ejército y los dragones destruyeron Askenburg, la
+antigua capital de Flammengard. Leandrin se proclamó emperatriz del mundo; el
+lugar de la proclamación y el desenlace de su guerra permanecen reservados.
 
 Therin continúa siendo el primer Invocador del que se tiene registro en
 general.

@@ -2,8 +2,7 @@
 
 Sirene fue una Portadora astriana de la rama menor de Viel, isla de Astria,
 perteneciente a la Casa Zorana. Llegó a
-Zephyrya alrededor de +1113, con unos cincuenta años; su nacimiento se estima
-cerca de +1063. En Dragma se presentó como Lysandra Vilen y más tarde fue
+Zephyrya con unos cincuenta años, durante la dinastía Amschel. En Dragma se presentó como Lysandra Vilen y más tarde fue
 conocida como Lysandra Rheiner, esposa de Gunther y madrastra de Leandrin.
 
 ## Astria
@@ -19,7 +18,7 @@ su esposo, Lysandra y otros miembros del entorno fueron condenados. Los
 Inquisidores detuvieron a Sirene y Lysandra; la ejecución se celebró ante una
 pira de fuego verde asociado a Calris Zorana. Sirene escapó y llegó a Zephyrya.
 
-## Flemmengard
+## Flammengard
 
 Para protegerse por su origen y su vínculo con el culto, inventó la identidad de
 Lysandra Vilen, una supuesta Hija del Sol escapada de la esclavitud. Con esa

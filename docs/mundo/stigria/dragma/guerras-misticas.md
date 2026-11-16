@@ -7,19 +7,25 @@ durante la Segunda Dinastía de Dragma. En ellos se enfrentan distintas
 dinastías y reinos de Dragma, junto con algunos actores externos, por el control
 y el poder de los reinos, los territorios e incluso el Imperio.
 
-El inicio de las Guerras Místicas en territorio de Dragma queda registrado en el año **+1214** por
+El inicio de las Guerras Místicas en territorio de Dragma se sitúa hacia el final
+del primer cuarto de la dinastía Amschel, con
 el surgimiento de **Leandrin Rheiner**, primera Invocadora surgida allí y joven
-noble de Flemmengard. Esto no desplaza a Therin como el primer Invocador del que
+noble de Flammengard. Esto no desplaza a Therin como el primer Invocador del que
 se tiene registro en general.
 
 Como consecuencia de los conflictos surgirá la mayoría de los linajes actuales
 de Invocadores.
 
-Leandrin intentó tomar Flemmengard en una guerra de usurpación e introdujo la
+Leandrin intentó tomar Flammengard en una guerra de usurpación e introdujo la
 creación de Invocadores como recurso bélico. Transformó a sus dieciséis
 hermanos en dragones inspirándose en la leyenda del Tamurak de la vieja Erebia.
 Ellos partieron voluntariamente y perdieron el raciocinio con el tiempo que
 permanecieron transformados. Los dragones sembraron el caos por el Imperio.
+
+Durante la primera Guerra Mística, Leandrin estableció un enclave que llegó a
+ser Phardazul. Su ejército y sus dragones destruyeron Askenburg, antigua capital
+de Flammengard. Leandrin se proclamó emperatriz del mundo; no se ha fijado el
+lugar de la proclamación ni el desenlace de su guerra.
 
 La devastación, junto con el surgimiento de Leandrin y de más Portadores,
 contribuyó a un rechazo generalizado de los dones místicos. La Orden de la
@@ -46,7 +52,7 @@ precisa de la Aniquilación dentro de la Segunda Dinastía.
 ## Referencias
 
 - `docs/mundo/stigria/dragma/dragma.md`
-- `docs/mundo/stigria/dragma/ishbaal/culto-a-ishbaal.md`
+- `docs/mundo/stigria/dragma/lemuria/culto-a-ishbaal.md`
 - `docs/personajes/historicos/leandrin-rheiner.md`
 - `docs/entidades/invocadores.md`
 - `docs/entidades/portadores.md`

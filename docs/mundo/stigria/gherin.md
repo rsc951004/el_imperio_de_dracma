@@ -6,14 +6,14 @@ Macrorregión occidental de Stigria.
 
 ## División histórica
 
-Los Gheran reconocían nueve regiones geográficas: **Flemmen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim**. No eran reinos ni fronteras políticas.
+Los Gheran reconocían nueve regiones geográficas: **Flammen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim**. No eran reinos ni fronteras políticas.
 
 Durante el segundo Stamengherin documentado, estas regiones recibieron nombres
 territoriales comunes:
 
 | Región | Nombre territorial |
 |--------|---------------------|
-| Flemmen | Tierras de la Ceniza |
+| Flammen | Tierras de la Ceniza |
 | Sturm | Tierras de la Tormenta |
 | Eldenheim | Gran Valle |
 | Eisen | Tierras del Valle de Hierro |
@@ -25,16 +25,17 @@ territoriales comunes:
 
 ## Norte
 
-- **Flemmen:** región noroccidental accidentada y volcánica.
-- **Biss:** golfo profundo al este de Flemmen.
+- **Flammen:** región noroccidental accidentada y volcánica.
+- **Biss:** golfo profundo al este de Flammen.
 - **Dresk:** Valle de Piedra y único acceso terrestre al Norte.
 - **Weissen:** Hondonada Fría de hielo y nieve situada al norte de Dresk. El
   cordón de Dorn impide su salida terrestre directa hacia el sur.
 - **Espolón de Dunkel:** formación que, junto con Dorn, delimita la planicie de
   acceso a Dresk.
-- **Puertas Rojas del Paso de Dresk:** dos puertas gigantescas apoyadas entre
+- **Puertas Carmesí del Paso de Dresk:** dos puertas gigantescas apoyadas entre
   el Espolón de Dunkel y Dorn. Bloquean físicamente el único acceso terrestre
-  al Norte.
+  al Norte y se encuentran en la triple frontera de Flammengard, Veleskaria y
+  Eisengard.
 - **Riegel:** zona septentrional donde Stömur quedó quebrada. Sus ramificaciones permitieron atravesar la cordillera entre el Gherin y Rauven hasta el final de la Edad de la Podredumbre.
 - **Foso de la Calamidad:** grieta seca abierta dentro del Riegel para cortar su conexión terrestre con Rauven.
 - **Dorn:** cordón montañoso continuo que nace junto a Biss y alcanza Stömur.
@@ -73,8 +74,8 @@ Sturm y el Valle de Hierro. Estas orientaciones no definen fronteras precisas.
 ## Orden espacial resumido
 
 ```text
-Flemmen — Biss — Espolón de Dunkel
-                    Puertas Rojas — Dresk — Weissen — Foso/Riegel — Rauven
+Flammen — Biss — Espolón de Dunkel
+                    Puertas Carmesí — Dresk — Weissen — Foso/Riegel — Rauven
                                      Dorn
 Sturm — Eisen — Gülden — Stömur
              Rost

@@ -46,7 +46,7 @@ Mili y Cerbero. Imrik supuso que Arystan había creado a la quimera como regalo
 para la niña. Bromea con que los dones elementales de Mili terminarán matando
 a la banda.
 
-<!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Dravora e Imrik -->
+<!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Ruxandra e Imrik -->
 Imrik sabe que Mili es hija de Arystan y Ellis, y que desciende de Leandrin
 Rheiner por su abuelo Oskar Rheiner.
 <!-- CANON-VELADO: FIN -->

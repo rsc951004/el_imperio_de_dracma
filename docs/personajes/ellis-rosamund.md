@@ -10,7 +10,7 @@ Loras Dragomir, después conocido como Imrik Valkyren.
 Ellis y Arystan murieron luchando contra Mortis, un Grimm.
 <!-- CANON-VELADO: FIN -->
 
-<!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Dravora e Imrik -->
+<!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Ruxandra e Imrik -->
 Ellis y Arystan son los padres de Millicent Rosamund.
 <!-- CANON-VELADO: FIN -->
 

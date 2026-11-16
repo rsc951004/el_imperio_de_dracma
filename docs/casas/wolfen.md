@@ -6,7 +6,7 @@
 |-------|-------|
 | **Nombre** | Wolfen |
 | **Tipo** | Casa real fundadora |
-| **Reino** | Flemmengard |
+| **Reino** | Flammengard |
 | **Bloque** | Hierro |
 | **Posición dinástica** | Casa fundadora |
 | **Lema** | Pendiente |
@@ -16,7 +16,7 @@
 
 ## Historia y descripción
 
-La Casa Wolfen fue la casa dominante de Flemmengard durante el Raikim y recibió
+La Casa Wolfen fue la casa dominante de Flammengard durante el Raikim y recibió
 la primera corona del reino después de su caída. En la Edad de Oro la corona
 pertenece a la Casa Gundrek. El motivo y las etapas del relevo permanecen
 reservados.
@@ -26,5 +26,5 @@ piromancia del noroeste.
 
 ## Referencias
 
-- `docs/mundo/stigria/dragma/flemmengard/flemmengard.md`
+- `docs/mundo/stigria/dragma/flammengard/flammengard.md`
 - `docs/casas/gundrek.md`

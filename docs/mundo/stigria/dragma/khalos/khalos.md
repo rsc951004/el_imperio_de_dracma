@@ -50,6 +50,7 @@ Oficialmente es un protectorado imperial. El Imperio ha jurado proteger Khalos; 
 - El emperador garantiza la autonomía de Khalos.
 
 En la práctica, Khalos se gobierna a sí misma mediante sus Táburas.
+La ciudad cuenta también con una Guardia Real para su seguridad interior.
 
 ## Estructura interna
 

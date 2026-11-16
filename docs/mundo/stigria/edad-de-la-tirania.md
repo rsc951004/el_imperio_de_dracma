@@ -29,7 +29,7 @@ permanecieran en el Gherin. El contacto con el Verano se castigaba con la
 muerte; el único abandono permitido era el regreso individual a Grimheim, una
 elección de muerte casi segura.
 
-En Weissen y Dresk, la amenaza de los Grimm mantuvo cerradas las Puertas Rojas
+En Weissen y Dresk, la amenaza de los Grimm mantuvo cerradas las Puertas Carmesí
 del Paso de Dresk. El Norte comprendía ambos territorios: Weissen carecía de
 salida terrestre directa al sur porque Dorn lo separaba del resto del Gherin, y
 el paso entre Dresk y el sur quedaba bloqueado entre el Espolón de Dunkel y el

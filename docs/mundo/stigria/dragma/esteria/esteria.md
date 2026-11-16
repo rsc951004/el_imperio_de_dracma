@@ -10,7 +10,7 @@ Esteria se encuentra en Weissen, junto al Foso de la Calamidad y dentro del
 Riegel. La ciudad, el Foso y el Riegel forman el **Paso del Oriente**.
 
 Weissen carece de salida terrestre directa hacia el sur. El acceso al Norte
-pasa por Dresk y por las Puertas Rojas situadas entre el Espolón de Dunkel y el
+pasa por Dresk y por las Puertas Carmesí situadas entre el Espolón de Dunkel y el
 cordón de Dorn.
 
 ## Fundación

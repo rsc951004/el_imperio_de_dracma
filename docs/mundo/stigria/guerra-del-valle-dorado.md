@@ -8,21 +8,21 @@ La disputa terminó en un combate entre ambos jefes. Wolfram luchó con su hacha
 
 ## Invasión de Gülden
 
-El puesto avanzado sangheskios en Flemmen era un señuelo. Los invasores habían descubierto que el desagüe del lago Rost atravesaba un conducto inundado bajo Stömur y emergía como río en Rauven. Partieron desde el este, remontaron el cauce subterráneo protegidos por sus Portadores y entraron directamente en Gülden.
+El puesto avanzado sangheskios en Flammen era un señuelo. Los invasores habían descubierto que el desagüe del lago Rost atravesaba un conducto inundado bajo Stömur y emergía como río en Rauven. Partieron desde el este, remontaron el cauce subterráneo protegidos por sus Portadores y entraron directamente en Gülden.
 
 La noticia puso fin al duelo y a la votación: los clanes reunidos aceptaron que la guerra había comenzado.
 
 ## Contraataque gheran
 
-Sanghesk ocupó Gülden. Los Gheran conservaron Eisen, fortificaron Flemmen y Sturm y establecieron puestos defensivos al norte de Eldenheim para vigilar los accesos al Rost.
+Sanghesk ocupó Gülden. Los Gheran conservaron Eisen, fortificaron Flammen y Sturm y establecieron puestos defensivos al norte de Eldenheim para vigilar los accesos al Rost.
 
 Los Sangheskios comenzaron a levantar nuevas Murallas Carmesí, pero los Gheran contraatacaron antes de que estuvieran terminadas. Sin esas defensas, los invasores fueron expulsados del Valle Dorado.
 
 ## Bloque de Hierro y Gran Bloqueo
 
-Tras casi dos años de avances, retrocesos y estancamientos, los clanes y defensas de Gülden, Eisen, Flemmen y Sturm formaron el **Bloque de Hierro**. Sus guerreros fueron llamados **Sangre de Hierro**.
+Tras casi dos años de avances, retrocesos y estancamientos, los clanes y defensas de Gülden, Eisen, Flammen y Sturm formaron el **Bloque de Hierro**. Sus guerreros fueron llamados **Sangre de Hierro**.
 
-El bloque levantó una red defensiva a través de Flemmen, Eisen, Gülden, el norte de Sturm y el norte de Eldenheim. La estructura y la fase de la guerra sostenida en torno a ella recibieron el nombre de **Gran Bloqueo**.
+El bloque levantó una red defensiva a través de Flammen, Eisen, Gülden, el norte de Sturm y el norte de Eldenheim. La estructura y la fase de la guerra sostenida en torno a ella recibieron el nombre de **Gran Bloqueo**.
 
 En el conducto del Rost, los Sangre de Hierro instalaron una barrera subacuática de enormes barrotes. El agua podía atravesarla, pero impedía el paso de personas y embarcaciones. Con el tiempo aparecieron grietas en el sello.
 

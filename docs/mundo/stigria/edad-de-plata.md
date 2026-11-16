@@ -13,7 +13,7 @@ Carmesí, celebró la unificación final del Raikim.
 ## Fundación del Raikim
 
 El segundo Stamengherin proclamó a **Rudgar Rompe Maldiciones** como primer
-Raik. El Raikim nació sobre Flemmen, Sturm y Eldenheim, con el mandato de reunir
+Raik. El Raikim nació sobre Flammen, Sturm y Eldenheim, con el mandato de reunir
 los nueve territorios históricos del Gherin bajo una autoridad común.
 
 La identidad de **Sangre de Hierro** se consolidó como la del pueblo del Raikim.
@@ -86,7 +86,7 @@ Gherin:
 
 | Capa territorial | Dominios |
 |---|---|
-| Hierro | Flemmengard, Sturmgard, Eisengard y Guldengard |
+| Hierro | Flammengard, Sturmgard, Eisengard y Guldengard |
 | Dürr | Lysgard, Zephyrgard y Vespergard |
 | Unland | Kystgard, Lyngard y Biorgard |
 | Dresk y Weissen | Veleskgard y Sindgard |

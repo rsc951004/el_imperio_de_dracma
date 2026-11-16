@@ -1,7 +1,7 @@
 # Nombres del Valle de Hierro
 
 Esta guía rige los nombres de personas y casas de Eisengard, Guldengard,
-Flemmengard, Sturmgard y otros territorios vinculados con el Hierro.
+Flammengard, Sturmgard y otros territorios vinculados con el Hierro.
 
 ## Contexto y referencia externa
 

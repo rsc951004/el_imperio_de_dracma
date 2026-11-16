@@ -49,14 +49,24 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Armin Mormund | Noble y espadachín | Miembro actual de la Casa Mormund y maestro de Sandor Solarys. | [Ver ficha](personajes/armin-mormund.md) |
 | Ostren Therin | Personaje histórico | Último señor de la Casa Therin de Dragma en Esteria. Despojado durante el Gran Concilio del Hielo. | [Ver ficha](personajes/ostren-therin.md) |
 | Dravora | Reina histórica | Fundadora de la Casa Dravor y de su dinastía real en Valastir. | [Ver ficha](personajes/dravora.md) |
+| Ruxandra Dravor | Reina histórica | Reina de Valastir durante Amschel y madre de Dymtrik. | [Ver ficha](personajes/ruxandra-dravor.md) |
+| Iyuri Khan | Personaje histórico | Portador lemuriano del Don de la Flecha. | [Ver ficha](personajes/iyuri-khan.md) |
+| Fhilippo Galenor | Mercader histórico | Mercader vesperyano y padre de Iyuri. | [Ver ficha](personajes/historicos/fhilippo-galenor.md) |
+| Marwha Khan | Noble histórica | Noble lemuriana y madre de Iyuri. | [Ver ficha](personajes/historicos/marwha-khan.md) |
+| Essio Galenor | Mercader histórico | Tío paterno de Iyuri. | [Ver ficha](personajes/historicos/essio-galenor.md) |
+| Fey Gilmora | Maeggi histórica | Cazadora retirada y cocinera de la familia Khan. | [Ver ficha](personajes/historicos/fey-gilmora.md) |
+| Greta Nerve | Noble histórica | Heredera vinculada a la Casa Nerve. | [Ver ficha](personajes/historicos/greta-nerve.md) |
+| Nimri Jhamali | Guardia histórico | Portador siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nimri-jhamali.md) |
+| Tuk Neyzeh | Guardia histórico | Invocador del caos de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/tuk-neyzeh.md) |
+| Benji Perjhan | Guardia histórico | Invocador elemental de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/benji-perjhan.md) |
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
 | Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
 | Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro de la Célula 1466. | [Ver ficha](personajes/dymtrik.md) |
 | Millicent Rosamund «Mili» | Personaje histórico | Invocadora y forjadora de la Banda del Colmillo Blanco. | [Ver ficha](personajes/millicent-rosamund.md) |
 | Imrik Valkyren | Personaje histórico | Invocador que dirige la Banda del Colmillo Blanco. | [Ver ficha](personajes/imrik.md) |
 | Arystan Khan | Personaje histórico | Invocador y forjador de la Célula 1378. | [Ver ficha](personajes/arystan-khan.md) |
-| Oskar Rheiner | Personaje histórico | Datos familiares reservados a su ficha de canon velado. | [Ver ficha](personajes/oskar-rheiner.md) |
-| Lya Khan | Personaje histórico | Datos familiares reservados a su ficha de canon velado. | [Ver ficha](personajes/lya-khan.md) |
+| Oskar Rheiner | Guardia histórico | Guardia real de Flammengard, pareja de Lya Khan. | [Ver ficha](personajes/oskar-rheiner.md) |
+| Lya Khan | Personaje histórico | Miembro de la Casa Khan, hermana de Iyuri y pareja de Oskar. | [Ver ficha](personajes/lya-khan.md) |
 | Ellis Rosamund | Personaje histórico | Portadora de la Enclaustración e integrante de la Célula 1378. | [Ver ficha](personajes/ellis-rosamund.md) |
 | Cerbero | Quimera | Felino alado que acompaña a Mili. | [Ver ficha](personajes/cerbero.md) |
 | Arys Therin | Personaje histórico | Hermana mayor de Cassyan y Parys; miembro de la Célula 1432. | [Ver ficha](personajes/arys-therin.md) |
@@ -67,7 +77,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Eirik Valgard | Personaje histórico | Cuarto Raik y convocante del Gran Concilio del Hielo. | [Ver ficha](personajes/eirik-valgard.md) |
 | Sigmar Valgard | Personaje histórico | Sexto Raik y autor del decreto que dejó Esteria sin señor. | [Ver ficha](personajes/sigmar-valgard.md) |
 | Katerina | Noble de Weissen | <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto el Rey Podrido, Katerina y la Grien Tábura -->Emisaria de la Ruina que opera desde las sombras en la Edad de Oro.<!-- CANON-VELADO: FIN --> | [Ver ficha](personajes/katerina.md) |
-| Freda Brandt | Noble de Flemmengard | Miembro de la Casa Brandt cuya posición política permanece pendiente. | [Ver ficha](personajes/monarcas/freda-brandt.md) |
+| Freda Brandt | Noble de Flammengard | Miembro de la Casa Brandt cuya posición política permanece pendiente. | [Ver ficha](personajes/monarcas/freda-brandt.md) |
 
 ## Monarcas de los 12 Reinos
 
@@ -97,7 +107,7 @@ establecido, la identidad permanece pendiente.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
-| Leandrin Rheiner | Personaje histórico | Joven noble de Flemmengard y primera Invocadora surgida en territorio de Dragma. | [Ver ficha](personajes/historicos/leandrin-rheiner.md) |
+| Leandrin Rheiner | Personaje histórico | Joven noble de Flammengard y primera Invocadora surgida en territorio de Dragma. | [Ver ficha](personajes/historicos/leandrin-rheiner.md) |
 | Sirene Zorana | Portadora histórica | Astriana, esposa de Gunther y madrastra de Leandrin. | [Ver ficha](personajes/historicos/sirene-zorana.md) |
 | Gunther Rheiner | Noble histórico | Landwalt de Drommdurr y padre de Leandrin. | [Ver ficha](personajes/historicos/gunther-rheiner.md) |
 | Alruna Mhaister | Noble histórica | Madre de Leandrin y sus dieciséis hermanos. | [Ver ficha](personajes/historicos/alruna-mhaister.md) |
@@ -107,8 +117,8 @@ establecido, la identidad permanece pendiente.
 | Zoroastro Zorana | Místico astriano | Miembro de la Casa Zorana que manifestó el don del caos. | [Ver ficha](personajes/historicos/zoroastro-zorana.md) |
 | Ose | Identidad incierta | Figura vinculada a la historia de Sirene y Leandrin. | [Ver ficha](personajes/historicos/ose.md) |
 | Esposo de Sirene | Astriano | Miembro de la rama Zorana de Garken. | [Ver ficha](personajes/historicos/esposo-de-sirene.md) |
-| Príncipe Coronado de Flemmengard | Príncipe histórico | Heredero enamorado de Leandrin. | [Ver ficha](personajes/historicos/principe-de-flemmengard.md) |
-| Rey de Flemmengard en tiempos de Leandrin | Rey histórico | Padre del Príncipe Coronado. | [Ver ficha](personajes/historicos/rey-de-flemmengard-en-tiempos-de-leandrin.md) |
+| Príncipe Coronado de Flammengard | Príncipe histórico | Heredero enamorado de Leandrin. | [Ver ficha](personajes/historicos/principe-de-flammengard.md) |
+| Rey de Flammengard en tiempos de Leandrin | Rey histórico | Padre del Príncipe Coronado. | [Ver ficha](personajes/historicos/rey-de-flammengard-en-tiempos-de-leandrin.md) |
 | Hijo del señor vecino | Noble histórico | Amigo de infancia de Leandrin. | [Ver ficha](personajes/historicos/hijo-del-senor-vecino.md) |
 | Fundadora de la Casa Zorana | Fundadora histórica | Fundadora de Astria y portadora del don del caos. | [Ver ficha](personajes/historicos/fundadora-de-zorana.md) |
 | Daryón Coralyss | Noble histórico | Noble de Alessya. Pactó la unión de la isla con Zephyrya y el matrimonio de su hija. Traicionado por ella. Su casa fue proscrita | [Ver ficha](personajes/historicos/daryon-coralyss.md) |

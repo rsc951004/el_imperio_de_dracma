@@ -24,8 +24,8 @@ mundo/
         ├── stamengherin.md
         ├── guerras-misticas.md
         └── [reinos y protectorados]/
-            └── ishbaal/
-                ├── ishbaal.md
+            └── lemuria/
+                ├── lemuria.md
                 └── culto-a-ishbaal.md
 ```
 
@@ -73,6 +73,9 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Ghild | Instrumento de intercambio | Moneda surgida del comercio entre Dürr y el Hierro. | [Ver ficha](mundo/stigria/ghild.md) |
 | Artefactos místicos | Concepto | Objetos creados con saberes de Portadores y efectos definidos. | [Ver ficha](mundo/stigria/artefactos-misticos.md) |
 | Rugido Mordaz | Artefacto místico | Conjunto entregado por Aurethyron a Rudgar durante el Pacto de Dürr. | [Ver ficha](mundo/stigria/rugido-mordaz.md) |
+| Lazeroth | Espada mística | Espada heredada por Fhilippo Galenor. | [Ver ficha](mundo/stigria/lazeroth.md) |
+| Historia sheijad | Historia | Exilio desde Sarustra, cisma y formación de Lemuria. | [Ver ficha](mundo/stigria/historia-sheijad.md) |
+| Guía práctica contra la Sombra | Guía | Prevención, alertas y asistencia contra la Sombra. | [Ver ficha](mundo/stigria/guia-practica-contra-la-sombra.md) |
 | Llave de Dürr | Insignia histórica | Diadema entregada por Rudgar a Aurethyron. | [Ver ficha](mundo/stigria/llave-de-durr.md) |
 | Acero del Alba | Material | Aleación que hiere a Grimm y poseídos. | [Ver ficha](mundo/stigria/acero-del-alba.md) |
 | Kantra | Ayuda para la maestría | Palabra o acción elegida o creada como apoyo mental para una maestría. | [Ver ficha](mundo/stigria/kantra.md) |
@@ -127,9 +130,12 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Guerras Místicas | Conflicto histórico | Sucesión de conflictos internos durante la Segunda Dinastía, culminada por la Aniquilación. | [Ver ficha](mundo/stigria/dragma/guerras-misticas.md) |
 | Casa Rheiner | Casa noble | Linaje de Drommdurr al que perteneció Leandrin. | [Ver ficha](casas/rheiner.md) |
 | Casa Galenor | Casa común | Familia comerciante numerosa y ramificada a la que perteneció Rasmus Galenor. | [Ver ficha](casas/galenor.md) |
+| Casa Khan | Casa noble | Casa sheijad secular de Lemuria. | [Ver ficha](casas/khan.md) |
+| Casa Kardaskhan | Casa regente | Casa del Principado de Lemuria. | [Ver ficha](casas/kardaskhan.md) |
+| Casa Nerve | Casa noble | Casa de Eisengard vinculada a Greta Nerve. | [Ver ficha](casas/nerve.md) |
 | Casa Mhaister | Casa noble | Linaje de Uldengyrk emparentado con los Rheiner. | [Ver ficha](casas/mhaister.md) |
 | Casa Zorana | Casa astriana | Linaje de Sirene, Zoroastro y Calris. | [Ver ficha](casas/zorana.md) |
-| Culto a Ishbaal | Tradición religiosa | Culto sheijad a la figura que veneran como dios; sus fieles creen en una promesa de salvación. | [Ver ficha](mundo/stigria/dragma/ishbaal/culto-a-ishbaal.md) |
+| Culto a Ishbaal | Tradición religiosa | Culto sheijad a la figura que veneran como dios; sus fieles creen en una promesa de salvación. | [Ver ficha](mundo/stigria/dragma/lemuria/culto-a-ishbaal.md) |
 | Cinco Víer de Eldenheim | Divisiones administrativas | Rostheim, Eldenfeld, Rissbruck, Drakenau y Vesterfeld, subordinados al Kaisrik. | [Ver ficha](mundo/stigria/dragma/vier-de-eldenheim.md) |
 | Tierras Intermedias | Territorio | Territorios sin dueño del Gherin. Páramos, costas y tierras entre reinos. Bienes comunes. | Pendiente |
 
@@ -139,7 +145,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 |---|-------|------|------|-------|-------------|-------|
 | 1 | Eisengard | Hierro | Eberwulf | Reikar del Valle de Hierro | Pendiente | [Ver ficha](mundo/stigria/dragma/eisengard/eisengard.md) |
 | 2 | Guldengard | Hierro | Reginvar | Reikar del Valle Dorado | Pendiente | [Ver ficha](mundo/stigria/dragma/guldengard/guldengard.md) |
-| 3 | Flemmengard | Hierro | Gundrek | Reikar de la Ceniza | Pendiente | [Ver ficha](mundo/stigria/dragma/flemmengard/flemmengard.md) |
+| 3 | Flammengard | Hierro | Gundrek | Reikar de la Ceniza | Pendiente | [Ver ficha](mundo/stigria/dragma/flammengard/flammengard.md) |
 | 4 | Sturmgard | Hierro | Fridvar | Reikar de la Tormenta | Pendiente | [Ver ficha](mundo/stigria/dragma/sturmgard/sturmgard.md) |
 | 5 | Lysarya | Costas del Verano | Mirandys | Reikar de la Colina del Verano | Rey Lykandros Mirandys | [Ver ficha](mundo/stigria/dragma/lysarya/lysarya.md) |
 | 6 | Veleskaria | Dresk | Korzan | Reikar de la Puerta Carmesí | Pendiente | [Ver ficha](mundo/stigria/dragma/veleskaria/veleskaria.md) |
@@ -150,7 +156,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | 11 | Sindria | Weissen | Velkar | Reikar del Foso | Pendiente | [Ver ficha](mundo/stigria/dragma/sindria/sindria.md) |
 | 12 | Biormyr | Tierra de la Bruma | Hjorven | Reikar del Bosque | Pendiente | [Ver ficha](mundo/stigria/dragma/biormyr/biormyr.md) |
 
-**Valle de Hierro** (1-4): Eisengard, Guldengard, Flemmengard y Sturmgard. Eisengard concentra el Verilium y la forja; Guldengard concentra el oro y la acuñación del Ghild.
+**Valle de Hierro** (1-4): Eisengard, Guldengard, Flammengard y Sturmgard. Eisengard concentra el Verilium y la forja; Guldengard concentra el oro y la acuñación del Ghild.
 
 **Costas del Verano** (5, 7, 10): Sus raíces históricas se encuentran en los
 Hijos del Sol, descendientes de esclavos liberados de Astria por la Kys Tábura.
@@ -189,10 +195,10 @@ Los tres reinos de la Tierra de la Bruma son **Kystvar** —puerto pesquero—, 
 |---|--------|------|-------------------|-------|
 | 1 | Khalos | Ciudadela | Fortaleza circular de piedra de Stömur, fundada por la Gente de la Bruma y refugiados astrianos. | [Ver ficha](mundo/stigria/dragma/khalos/khalos.md) |
 | 2 | Esteria | Ciudad fortaleza | Enclave fundado por Iulien Therin junto al Foso. No pertenece a ninguno de los doce reinos. | [Ver ficha](mundo/stigria/dragma/esteria/esteria.md) |
-| 3 | Ishbaal | Protectorado insular | Isla sheijad al noroeste, administrada como principado autónomo por un Príncipe Regente. | [Ver ficha](mundo/stigria/dragma/ishbaal/ishbaal.md) |
+| 3 | Lemuria | Protectorado insular | Isla sheijad al noroeste, administrada como principado autónomo por un Príncipe Regente. | [Ver ficha](mundo/stigria/dragma/lemuria/lemuria.md) |
 | 4 | Alessya | Isla | Isla al suroeste, vinculada históricamente con los Hijos del Sol. Protectorado rico gobernado por un Príncipe Guardián. Inalienable por ley de la Concordia. | [Ver ficha](mundo/stigria/dragma/alessya/alessya.md) |
 | 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por Artemis durante la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/dragma/delfos/delfos.md) |
-| 6 | Lorka | Isla | Territorio de ultramar al norte de Ishbaal. Aguas frías, costas rocosas. | [Ver ficha](mundo/stigria/dragma/lorka/lorka.md) |
+| 6 | Lorka | Isla | Territorio de ultramar al norte de Lemuria. Aguas frías, costas rocosas. | [Ver ficha](mundo/stigria/dragma/lorka/lorka.md) |
 | 7 | Paicel | Isla | Territorio de ultramar al sureste de Delfos. Aguas templadas, vegetación densa. | [Ver ficha](mundo/stigria/dragma/paicel/paicel.md) |
 
 > Los protectorados son estados semi-soberanos bajo protección directa del emperador. No tienen rey ni pertenecen a ninguno de los 12 Reinos. Se gobiernan a sí mismos dentro de los límites del pacto imperial.

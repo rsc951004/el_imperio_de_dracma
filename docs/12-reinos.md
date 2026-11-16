@@ -6,7 +6,7 @@
 |---|-------|-------|--------|--------|------------|
 | 1 | Eisengard | Eberwulf | Valle de Hierro | Reikar del Valle de Hierro | Pendiente |
 | 2 | Guldengard | Reginvar | Valle de Hierro | Reikar del Valle Dorado | Pendiente |
-| 3 | Flemmengard | Gundrek | Valle de Hierro | Reikar de la Ceniza | Pendiente |
+| 3 | Flammengard | Gundrek | Valle de Hierro | Reikar de la Ceniza | Pendiente |
 | 4 | Sturmgard | Fridvar | Valle de Hierro | Reikar de la Tormenta | Pendiente |
 | 5 | Lysarya | Mirandys | Costas del Verano | Reikar de la Colina del Verano | Lykandros Mirandys |
 | 6 | Veleskaria | Korzan | Dresk | Reikar de la Puerta Carmesí | Pendiente |
@@ -26,7 +26,7 @@ nuevas.
 
 ### Valle de Hierro
 
-Eisengard, Guldengard, Flemmengard y Sturmgard constituyen los cuatro reinos
+Eisengard, Guldengard, Flammengard y Sturmgard constituyen los cuatro reinos
 del Valle de Hierro. Eisengard concentra la minería del Verilium y la forja del
 Acero del Alba. Guldengard concentra el oro y la acuñación del Ghild.
 
@@ -69,7 +69,7 @@ Dragma.
 |-------|----------|
 | Eisengard | Verilium, forja y Acero del Alba |
 | Guldengard | Oro, tesorería y acuñación del Ghild |
-| Flemmengard | Ceniza, volcanes, actividad geotérmica y piromancia |
+| Flammengard | Ceniza, volcanes, actividad geotérmica y piromancia |
 | Sturmgard | Fiordos, saqueo, pillaje y supervivencia bajo la Tormenta |
 | Lysarya | Frutas dulces, vinos, piedad y trabajo |
 | Veleskaria | Principal centro de dones y maestrías; formación Maeggi y de cazadores de Grimm |

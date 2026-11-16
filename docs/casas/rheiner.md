@@ -1,6 +1,6 @@
 # Casa Rheiner
 
-Casa noble de Flemmengard asentada en Drommdurr, Víer pequeño del noreste del
+Casa noble de Flammengard asentada en Drommdurr, Víer pequeño del noreste del
 reino. Es un territorio rural alejado de la capital, con piedra, ceniza,
 montañas humeantes y escasa vegetación. Su residencia es Fernigard. Antigua y
 conocida como Piel Salvaje, su

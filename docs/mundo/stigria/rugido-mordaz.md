@@ -20,6 +20,10 @@ escudo recubierto. Las tres piezas contienen el mismo metal especial.
 El nombre, origen y demás propiedades del metal de Rugido Mordaz permanecen
 sin documentar. No se identifica con el **Acero del Alba**.
 
+Durante la dinastía Amschel, Essio Galenor tenía el conjunto en su poder cuando
+fue detenido. La forma en que lo obtuvo y el uso que hizo de él permanecen
+reservados.
+
 ## Referencias
 
 - `docs/mundo/stigria/artefactos-misticos.md`

@@ -56,8 +56,9 @@ números positivos:
 | **Año +80** | Mijail Mormund es exiliado y funda la rama que da origen a la Casa Artema en Delfos. |
 | **Año +120** | Vilem Mormund promulga la **Concordia**. |
 | **Año +400** | Comienza la dinastía Amschel. Termina la dinastía Mormund. |
-| **Alrededor de +1113** | Sirene Zorana llega a las costas de Zephyrya después de escapar de Astria; la fecha es aproximada. |
-| **Año +1214** | Leandrin Rheiner se convierte en Invocadora y comienza la etapa de las Guerras Místicas en Dragma. |
+| **Primera parte de la dinastía Amschel** | Sirene Zorana llega a Zephyrya después de escapar de Astria. Más tarde conoce a Leandrin Rheiner. |
+| **Hacia el final del primer cuarto de Amschel** | Leandrin Rheiner se convierte en Invocadora y comienza la etapa de las Guerras Místicas en Dragma. |
+| **Después, durante Amschel** | Iyuri Khan y Oskar Rheiner nacen cerca del inicio del tercer cuarto de la dinastía. Las vidas de la secuencia familiar hasta Arystan Khan y Millicent Rosamund, así como las de Ellis e Imrik, transcurren dentro de Amschel. |
 | **Año +1254** | Astria es destruida. |
 | **Año +1350** | Comienza la dinastía Pavel. Termina la dinastía Amschel. |
 | **Año +1680** | Presente narrativo. El Imperio de Dragma continúa en la Edad de Oro bajo la dinastía Pavel. |

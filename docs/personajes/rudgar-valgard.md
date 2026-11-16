@@ -14,7 +14,7 @@ Edad de Plata.
 
 Cuando Rudgar tenía dieciséis años, contemplaba a **Astrid** cerca del Riss. Ese
 mismo día, en el año **-230**, se abrió la Puerta Negra y las hordas del Rey
-Podrido entraron en Flemmen y Eisen.
+Podrido entraron en Flammen y Eisen.
 
 Astrid se convirtió en su esposa y quedó embarazada de un hijo suyo. Cinco años
 después desapareció durante la caída de una fortaleza de Sturm. Rudgar formó
@@ -43,7 +43,7 @@ del Oriente.
 
 ## Raikim
 
-El Raikim nació sobre Flemmen, Sturm y Eldenheim. Bajo Rudgar alcanzó doce
+El Raikim nació sobre Flammen, Sturm y Eldenheim. Bajo Rudgar alcanzó doce
 Dominios sobre los nueve territorios históricos del Gherin. El Gran Valle
 permaneció como posesión directa del Raik y Esteria quedó fuera de la cuenta de
 Dominios, bajo la guarda de la Casa Therin y de los defensores del Paso del
@@ -122,7 +122,7 @@ cada señor de Dominio.
 > por ellas. El Paso del Oriente no es heredad de ninguna casa: es la Gran
 > Barrera del Gherin. Iulien la guardará por todos nosotros.
 >
-> Cuando hayas cruzado las Puertas Rojas, limpiado el norte y sostenido el Foso
+> Cuando hayas cruzado las Puertas Carmesí, limpiado el norte y sostenido el Foso
 > ante la Ruina, vuelve a hablarme de servicio. Hasta entonces, no confundas la
 > memoria de tus antepasados con un derecho que no has defendido. Esta es mi
 > palabra de Raik.

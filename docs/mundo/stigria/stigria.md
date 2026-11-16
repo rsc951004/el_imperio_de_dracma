@@ -8,7 +8,7 @@ Continente conocido por los astrianos como la tierra del invierno.
 
 Stigria está dividida en dos grandes mitades: **el Gherin**, al oeste, y **Velkhar**, al este. Entre ambas se alza **Stömur**, continua en el centro y el sur y fracturada en el norte.
 
-La reconstrucción geográfica antigua registra regiones físicas, no reinos ni fronteras políticas. Los Gheran reconocían nueve regiones en el Gherin: Flemmen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim.
+La reconstrucción geográfica antigua registra regiones físicas, no reinos ni fronteras políticas. Los Gheran reconocían nueve regiones en el Gherin: Flammen, Weissen, Dresk, Eisen, Gülden, Sturm, Dürr, Unland y Eldenheim.
 
 Durante la antigüedad, el lago Rost desaguaba hacia el este mediante un
 conducto inundado bajo Stömur. El cauce separaba Rauven de Grimheim antes de

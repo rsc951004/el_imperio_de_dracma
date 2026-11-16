@@ -5,16 +5,16 @@
 | Campo | Valor |
 |-------|-------|
 | **Tipo** | Casa real de la Edad de Oro |
-| **Reino** | Flemmengard |
+| **Reino** | Flammengard |
 | **Posición dinástica** | Casa presente definitiva |
 | **Título** | Reikar de la Ceniza |
 
 ## Historia
 
-La continuidad dinástica aprobada de Flemmengard va de la Casa Wolfen,
+La continuidad dinástica aprobada de Flammengard va de la Casa Wolfen,
 fundadora del reino, a la Casa Gundrek, que ocupa la corona en la Edad de Oro.
 El motivo y las etapas del relevo permanecen reservados.
 
 ## Referencias
 
-- `docs/mundo/stigria/dragma/flemmengard/flemmengard.md`
+- `docs/mundo/stigria/dragma/flammengard/flammengard.md`

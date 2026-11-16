@@ -6,7 +6,7 @@ Alianza militar gheran nacida durante la Guerra del Valle Dorado.
 
 ## Integrantes
 
-Reunió los clanes, guerreros y defensas de **Gülden, Eisen, Flemmen y Sturm**. No tuvo un jefe absoluto: sus decisiones correspondían a un consejo de clanes. Wolfram el Bardo fue una de sus voces principales.
+Reunió los clanes, guerreros y defensas de **Gülden, Eisen, Flammen y Sturm**. No tuvo un jefe absoluto: sus decisiones correspondían a un consejo de clanes. Wolfram el Bardo fue una de sus voces principales.
 
 ## Fuerza militar
 
@@ -14,7 +14,7 @@ Sus combatientes recibieron el nombre de **Sangre de Hierro**. Al principio, el 
 
 ## Gran Bloqueo
 
-El bloque construyó defensas en Flemmen, Eisen, Gülden, el norte de Sturm y el norte de Eldenheim. Esa red y la fase bélica organizada alrededor de ella fueron conocidas como el **Gran Bloqueo**.
+El bloque construyó defensas en Flammen, Eisen, Gülden, el norte de Sturm y el norte de Eldenheim. Esa red y la fase bélica organizada alrededor de ella fueron conocidas como el **Gran Bloqueo**.
 
 ## Legado
 

@@ -21,7 +21,7 @@ Durante una crisis familiar de Astria, el padre de **Therin** lo convirtió en
 Invocador. Therin es el primer Invocador del que se tiene registro. El relato
 completo y las particularidades del rito permanecen reservados.
 
-El surgimiento de **Leandrin Rheiner**, joven noble de Flemmengard, registra el
+El surgimiento de **Leandrin Rheiner**, joven noble de Flammengard, registra el
 inicio de las Guerras Místicas en territorio de Dragma. Esto no altera la
 precedencia de Therin como primer Invocador registrado en general.
 
@@ -73,8 +73,10 @@ es ilegal.
 La primera licencia concede la condición general de **Maeggi**. Las
 clasificaciones profesionales son administrativas; cambiar de oficio no exige
 otra licencia, aunque requiere aprender la nueva actividad. Una persona
-registrada puede usar libremente sus dones, pero necesita licencia para vivir
-de ellos o prestar servicios profesionales relacionados.
+registrada puede usar libremente sus dones en la vida cotidiana. Necesita
+licencia para ejercer una actividad habitual o prolongada sustentada en ellos,
+especialmente un oficio o la prestación regular de servicios. Repetir usos
+cotidianos no constituye por sí solo ejercicio profesional.
 
 El mero contacto con Verilium no daña a un Invocador. El material bloquea sus
 dones cuando forma una circunferencia cerrada alrededor de una parte de su

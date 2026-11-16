@@ -21,6 +21,10 @@ Verano**.
 
 ## Hijos del Sol y habitantes del Verano
 
+Los primeros liberados llevaron a Stigria leyendas sobre los Reyes Sol y la
+resistencia a la dominación astriana. La identidad precisa de las figuras de
+esas tradiciones y su evolución permanecen reservadas.
+
 **Hijos del Sol** es la identidad etnocultural nacida entre los esclavos
 liberados de Astria y conservada por sus descendientes. **verano** y **verana**
 expresan, en cambio, la procedencia geográfica de las Costas del Verano. Una

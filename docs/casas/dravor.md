@@ -18,4 +18,12 @@ la dinastía real de Valastir.
 ## Miembros relevantes
 
 - **Dravora** — Fundadora y reina de Valastir.
+- **Ruxandra Dravor** — Reina de Valastir durante Amschel, madre de Dymtrik.
 - **Dymtrik** — Príncipe menor de Valastir.
+
+## Referencias
+
+- `docs/personajes/dravora.md`
+- `docs/personajes/ruxandra-dravor.md`
+- `docs/personajes/dymtrik.md`
+- `docs/mundo/stigria/valastir.md`

@@ -35,7 +35,7 @@ supervivientes de Sturm se reunieron fuera de Eldengard. La asamblea convirtió
 Sangre de Hierro en la identidad común de los supervivientes gheran y proclamó
 a **Rudgar Rompe Maldiciones** como primer Raik.
 
-El consejo fundó el Raikim sobre Flemmen, Sturm y el Gran Valle, definió la
+El consejo fundó el Raikim sobre Flammen, Sturm y el Gran Valle, definió la
 figura territorial del Dominio y fijó como misión reunir todo el Gherin bajo una
 sola autoridad.
 

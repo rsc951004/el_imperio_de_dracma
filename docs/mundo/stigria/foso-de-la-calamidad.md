@@ -27,7 +27,7 @@ atravesarlo permanece sin resolver.
 
 El único acceso terrestre al Norte pasa por Dresk. Weissen carece de salida
 directa hacia el sur porque el cordón de Dorn la separa del resto del Gherin.
-Las Puertas Rojas bloquean el paso entre el Espolón de Dunkel y Dorn.
+Las Puertas Carmesí bloquean el paso entre el Espolón de Dunkel y Dorn.
 
 ## Faro posterior
 

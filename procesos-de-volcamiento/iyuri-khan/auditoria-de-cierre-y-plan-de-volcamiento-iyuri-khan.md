@@ -276,3 +276,40 @@ y comprobación, no publicaciones parciales de un canon contradictorio.
 5. Registrar la operación en `docs/notas.md`; revisar índices, fichas veladas,
    nomenclatura, `docs/pendientes.md` y `git diff --check`. No crear cuento ni
    hacer commit o push sin orden independiente.
+
+## 7. Ejecución autorizada y comprobación de destinos
+
+El autor autorizó expresamente el volcamiento del proceso de Iyuri. Los bloques
+se incorporaron al canon y sus rutas concretas figuran en
+[inventario de archivos](inventario-de-archivos-volcamiento.md). Las rutas
+anteriores de Flammengard, Lemuria y dos personajes históricos fueron movidas
+y los índices canónicos actualizados. No se ejecutaron commits ni pushes.
+
+| Resolución | Destino principal incorporado | Reserva preservada |
+|---|---|---|
+| AU-01–02 | `flammengard.md`, `guerras-misticas.md`, `leandrin-rheiner.md`, `iyuri-khan.md` | Traslado de capital, lugar de proclamación y desenlace. |
+| AU-03 | `inits.md`, `ose.md`, `lazeroth.md` | Mecanismo de encarnación y trayectorias. |
+| AU-04 | Fichas de Oskar, Lya, Arystan, Ellis, Mili e Imrik; marcas de conocimiento actualizadas para Ruxandra | Genealogías intermedias y alcances no definidos; sellado de Ose reservado a Imrik. |
+| AU-05–06 | `sombra.md`, guía práctica, `artefactos-misticos.md`, `moes-tabura.md` | Mecanismos de contagio, inscripción y curación. |
+| AU-07–08 | Guardias y Cuervos, `dragma.md`, Lemuria, Khalos, Veleskaria, Gherin y fichas personales | Mandos, coordinación y permisos de la misión de Oskar. |
+| AU-09 | `artefactos-misticos.md`, `lazeroth.md`, `rugido-mordaz.md`, fichas Galenor | Fabricantes, usos particulares, posesión posterior. |
+| AU-10 | `portadores.md`, `invocadores.md`, `moes-tabura.md`, `iyuri-khan.md` | Trámites, umbrales y licencia posterior. |
+| AU-11 | `fey-gilmora.md`, `sombra.md`, `iyuri-khan.md`, fichas familiares | Relación Fey–Essio, intención del espectro y secuelas. |
+| AU-12 y reinas | `cronologia.md`, historia de Astria, Verna, Mort, `dravora.md`, `ruxandra-dravor.md`, Dymtrik y Casa Dravor | Años exactos, generaciones, mecanismos del Velo y del Sol de Medianoche. |
+| Sarustra y Lemuria | `historia-sheijad.md`, Lemuria, culto, Casas Khan y Kardaskhan, Orden | Cronología precisa, identidad objetiva de figuras religiosas, límites doctrinales. |
+
+Los diálogos y escenas detalladas permanecen como reserva para una eventual
+obra en la acumulación de trabajo; su literalidad no fue canonizada. Las
+formulaciones incompatibles se sustituyeron en las fichas vigentes; el historial
+editorial y la custodia descanonizada conservan su condición propia. La
+cronología mantiene +1254 y no convierte los ejemplos de AU-12 en fechas.
+Los índices de `docs/mundo.md`, `personajes.md`, `entidades.md`,
+`organizaciones.md` y `taburas.md` tienen destinos existentes. Las búsquedas de
+fechas y denominaciones sustituidas no arrojan coincidencias en el canon activo,
+excluidos el historial y las fichas descanonizadas. `git diff --check` y la
+revisión de espacios finales de archivos nuevos no detectaron errores.
+
+Una búsqueda amplia de referencias textuales detectó tres rutas históricas
+inexistentes en `ravn-korn.md`, `skov-borg.md` y `skaer-fjord.md`; las tres
+fichas llevan marca de descanonización y permanecieron en custodia. No son
+referencias del canon activo ni fueron creadas por este volcamiento.

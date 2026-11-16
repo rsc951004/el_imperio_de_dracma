@@ -42,9 +42,16 @@ libres, gobernada por un Rey Sol y un Rey Sombra. Thalmos fue utilizado como un
 arma durante esa liberación.
 
 La diarquía perduró por generaciones. Su caída llegó cuando el último Rey Sombra
-traicionó al último Rey Sol y Astria invadió la isla. Años después, cautivo en
-la capital astriana, el último Rey Sol manifestó su don con toda su amplitud.
-La explosión hundió la isla central de Astria y las demás islas de la Nación de
+traicionó al último Rey Sol y Astria invadió la isla. El último Rey Sol fue
+encarcelado en Astria. Sus verdugos prolongaron artificialmente su vida contra
+su voluntad para continuar torturándolo durante muchísimo tiempo. Verna Zorana,
+un cultista arcano de Thalmos, fue uno de sus principales carceleros.
+
+En la noche del Sol de Medianoche, inmediatamente anterior a la destrucción de
+Astria en +1254, el último Rey Sol manifestó su don con toda su amplitud y
+desencadenó desde dentro la catástrofe. Verna estaba presente y murió coincidiendo
+con la caída; casi todos los cultistas arcanos perecieron aquella noche. La
+explosión hundió la isla central de Astria y las demás islas de la Nación de
 la Luz. Para
 entonces, Khalos ya había evacuado a los esclavos que pudo rescatar de las islas
 vecinas.

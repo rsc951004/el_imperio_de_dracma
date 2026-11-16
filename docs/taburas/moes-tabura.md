@@ -23,6 +23,12 @@ El registro obligatorio de una persona vinculada es independiente de la
 licencia. La primera licencia certifica la formación y concede la condición
 general de **Maeggi**. Su plural es **Maeggis**.
 
+El uso cotidiano u ocasional de un don no exige licencia. La certificación se
+requiere para una actividad habitual o prolongada sustentada en el don,
+especialmente cuando constituye oficio o prestación regular de servicios.
+Un Maeggi siniestro certificado no puede negarse a auxiliar a quien solicita su
+atención; los gastos corresponden al solicitante.
+
 Las escuelas regionales forman estudiantes dentro del sistema imperial, pero
 completar sus estudios no concede por sí solo la condición de Maeggi.
 Veleskaria constituye el principal centro de formación y Zephyrya el segundo;

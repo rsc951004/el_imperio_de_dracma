@@ -6,7 +6,7 @@ Emisarios del culto de Thalmos enviados fuera de Astria en busca de adeptos.
 
 ## Creencias
 
-Adoraban a **Thalmos**, a quien llamaban el Dios Negro. Consideraban herejes a quienes rechazaban su culto.
+Adoraban a **Thalmos**, a quien llamaban el Dios Negro. Consideraban herejes a quienes rechazaban su culto. Ocupaban la posición inferior de la jerarquía del culto.
 
 ## Llegada a Stigria
 
@@ -26,7 +26,8 @@ Su destino después de partir hacia Dürr no está documentado.
 
 Los Peregrinos viajaron muchas veces a Stigria durante la existencia de Astria.
 Elio, Narissa y Dante Zorana llegaron en una migración posterior y distinta de
-la expedición de la Edad de la Podredumbre; fundaron la Mort Tábura.
+la expedición de la Edad de la Podredumbre; fundaron la Mort Tábura antes de
+los acontecimientos de la juventud de Iyuri Khan.
 
 ## Referencias
 

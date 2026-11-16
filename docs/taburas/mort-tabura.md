@@ -14,6 +14,11 @@ Durante siglos actuó clandestinamente y apoyó a los Siete Monarcas de la Sombr
 contra la Stroi Tábura. Armand Zorana nació entre sus miembros y mantuvo su
 lealtad a la Mort mientras se infiltraba en la Stroi.
 
+En tiempos de Iyuri Khan, un capitán de la Mort preparó el sacrificio del
+Calamar Rojo a Thalmos. Oskar Rheiner descubrió la conspiración y los miembros
+de la banda contribuyeron a detenerla. Años después Essio Galenor fue acusado
+de implicación con la Mort; el alcance de aquella acusación permanece reservado.
+
 ## Estado
 Su estructura, sus ritos y su extensión permanecen reservados.
 

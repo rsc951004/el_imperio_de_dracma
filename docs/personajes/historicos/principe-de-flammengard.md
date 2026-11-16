@@ -1,6 +1,6 @@
-# Príncipe Coronado de Flemmengard
+# Príncipe Coronado de Flammengard
 
-Heredero del rey de Flemmengard reconocido por la Dex Tábura en tiempos de
+Heredero del rey de Flammengard reconocido por la Dex Tábura en tiempos de
 Leandrin Rheiner. La conoció en una celebración y se enamoró de ella. Mantuvieron
 correspondencia y encuentros en secreto; él insistió ante su padre en pedir su
 mano, pero el rey se opuso a la unión. Tras una

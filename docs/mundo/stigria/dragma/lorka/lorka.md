@@ -4,7 +4,7 @@
 Protectorado del Imperio de Dragma. Territorio de ultramar.
 
 ## Ubicación
-Isla en el mar del norte, más allá de Ishbaal. Aguas frías, costas rocosas. Pendiente de ubicación exacta.
+Isla en el mar del norte, más allá de Lemuria. Aguas frías, costas rocosas. Pendiente de ubicación exacta.
 
 ## Gobierno
 Protectorado imperial. Gobernado por un **Príncipe Regente** designado por el emperador. Lorka mantiene autonomía interna bajo la protección del Imperio.

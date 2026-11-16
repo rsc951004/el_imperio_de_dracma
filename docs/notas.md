@@ -2,6 +2,18 @@
 
 ## Revisiones editoriales
 
+### Volcamiento de Iyuri Khan y desarrollos asociados (2026-11-16)
+
+Ejecutadas las resoluciones AU-01 a AU-12 y la decisión posterior sobre Dravora
+y Ruxandra Dravor. Se incorporaron Iyuri, su familia y los Cuervos Grises; las
+reglas de la Sombra, el registro y las licencias; la historia sheijad, Lemuria
+y el ishbaalanismo; y la revisión de Flammengard, las Puertas Carmesí, las
+Guerras Místicas, Astria y la Mort. Se preservó la caída de Astria en +1254 y
+las fechas ilustrativas permanecen sin fijar. Se actualizaron índices, rutas,
+marcas de canon velado y pendientes. Las escenas y diálogos reconstruidos,
+los mecanismos de los dones y del Velo Inmaterial, las genealogías intermedias
+y los misterios narrativos conservan sus reservas.
+
 ### Volcamiento de los Reinos Sombríos y la Tábura Stroi (2026-11-13)
 
 Incorporados Velkhar, los Siete Reinos Sombríos, sus casas, monarcas y religión;

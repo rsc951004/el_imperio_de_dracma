@@ -40,8 +40,11 @@ rasgos asociados son tendencias variables y no requisitos de pertenencia.
 
 Veleskaria ocupa Dresk, el único acceso terrestre al Norte. Para entrar o salir
 se cruza la planicie situada entre el Espolón de Dunkel y el cordón de Dorn.
-Las dos Puertas Rojas del Paso de Dresk se apoyan en esas formaciones y bloquean
+Las dos Puertas Carmesí del Paso de Dresk se apoyan en esas formaciones y bloquean
 físicamente el tránsito.
+
+Las puertas se encuentran en la triple frontera de Flammengard, Veleskaria y
+Eisengard.
 
 Durante el Raikim permanecían normalmente cerradas y solo se abrían con
 autorización del Raik, por el temor a un avance de los Grimm hacia el sur.

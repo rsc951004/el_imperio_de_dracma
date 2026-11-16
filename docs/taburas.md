@@ -21,5 +21,5 @@ Una Tábura es una asociación formal con estructura, jerarquía y propósito de
 | Grim Tábura | Independiente | Cazadores de Grimm desvinculados de Khalos. | [Ver ficha](taburas/grim-tabura.md) |
 | Möes Tábura | Independiente | Forma y certifica Portadores e Invocadores; estudia sus dones y maestrías. | [Ver ficha](taburas/moes-tabura.md) |
 | Grien Tábura | Clandestina | <!-- CANON-VELADO: INICIO | desconocido-por: la población de Sindria y los monarcas no iniciados -->Sociedad secreta de seguidores y servidores del Rey Podrido en Sindria.<!-- CANON-VELADO: FIN --> | [Ver ficha](taburas/grien-tabura.md) |
-| Mort Tábura | Clandestina | Seguidores del Dios Negro supervivientes de la caída de Astria. | [Ver ficha](taburas/mort-tabura.md) |
+| Mort Tábura | Clandestina | Tábura fundada en Stigria por tres Peregrinos Negros seguidores del Dios Negro. | [Ver ficha](taburas/mort-tabura.md) |
 | Stroi Tábura | Clandestina | Sociedad que busca liberar los territorios orientales. | [Ver ficha](taburas/stroi-tabura.md) |

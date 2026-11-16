@@ -66,9 +66,13 @@ obligatorios ni coste sobrenatural común a todos los Portadores.
 Toda persona vinculada que se encuentre en territorio imperial debe
 registrarse. Antes de los dieciséis años responden sus padres o su casa; desde
 esa edad, la responsabilidad recae en la propia persona. El registro no concede
-por sí mismo una licencia. Una persona registrada puede usar libremente su don,
-pero necesita licencia para vivir de él o prestar servicios profesionales
-relacionados.
+por sí mismo una licencia. Una persona registrada puede utilizar libremente su
+don en la vida cotidiana, incluso para ayudar de manera ocasional. La licencia
+es necesaria para ejercer de forma habitual o prolongada una actividad sustentada
+en el don, especialmente un oficio o prestación regular de servicios. Repetir
+usos cotidianos no constituye por sí solo ejercicio profesional. El registro o
+la licencia no autorizan delitos. Un niño no es castigado personalmente por la
+falta de registro imputable a sus responsables.
 
 La primera licencia imperial concede la condición de **Maeggi**, cuyo plural es
 **Maeggis**. Las clasificaciones asociadas a la formación

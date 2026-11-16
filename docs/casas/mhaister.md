@@ -1,6 +1,6 @@
 # Casa Mhaister
 
-Casa noble de Uldengyrk, dominio de Flemmengard vecino de Drommdurr. Conocida
+Casa noble de Uldengyrk, dominio de Flammengard vecino de Drommdurr. Conocida
 como Colmillo Gris, comparte origen sanguíneo con la Casa Rheiner: sus
 fundadores tenían la misma madre. Alruna Mhaister se casó con Gunther Rheiner.
 

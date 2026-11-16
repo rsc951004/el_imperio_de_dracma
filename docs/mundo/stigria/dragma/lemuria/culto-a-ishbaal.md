@@ -2,8 +2,10 @@
 
 ## Origen y alcance
 
-El culto a Ishbaal se origina en la isla homónima, donde los Sheijad veneran a
-Ishbaal como dios. La cultura sheijad influye en la religiosidad de Dragma. La
+El ishbaalanismo nació en Sarustra entre los sheijad, que veneran a Ishbaal
+como dios. Las enseñanzas atribuidas a Ishbaal y a sus profetas se transmitían
+originalmente por tradición oral; los textos sagrados escritos surgieron después
+de la llegada a Dragma. La cultura sheijad influye en la religiosidad imperial. La
 existencia o naturaleza objetiva de Ishbaal no está establecida.
 
 Durante la época de Sandor, el culto reúne el mayor número de adeptos dentro del
@@ -55,12 +57,18 @@ El atractivo del culto se sostiene principalmente en dos pilares:
 
 ## Misticismo
 
+La experiencia de los exiliados en Dragma originó una división entre seculares y
+ortodoxos. Ambas corrientes profesan la fe en Ishbaal. Los seculares consideran
+posible convivir con el misticismo; los ortodoxos lo consideran una transgresión
+y una prueba de fe. Algunos sectores radicales consideran que deben purificar
+la tierra. Los límites de la tolerancia secular no están definidos por completo.
+
 Entre los seguidores existe una corriente que considera antinatural el
 misticismo y lo tiene por origen del mal. Sus integrantes agrupan a Portadores e
 Invocadores bajo el nombre de **místicos**; en la mayoría de los casos no
 reconocen a cuál de las dos condiciones pertenece una persona.
 
-Los seguidores comunes consideran que el misticismo es una práctica ajena a su
+Muchos seguidores consideran que el misticismo es una práctica ajena a su
 fe, pero la toleran. Muchos reconocen y agradecen que sea uno de los recursos
 conocidos para enfrentar a los Grimm y a otras fuerzas oscuras con las que
 conviven los habitantes de Stigria. Aun así, muchos no acudirían a un sanador
@@ -78,25 +86,25 @@ Durante la época de Sandor hay Moroloth por todos los territorios del Imperio,
 con su mayor concentración en los dominios del Valle Central. Su presencia no
 determina la adhesión de las coronas ni de las poblaciones locales.
 
-Los dos Moroloth más importantes son el de la isla de Ishbaal y el de
+Los dos Moroloth más importantes son el de la isla de Lemuria y el de
 Eldengaria. El Moroloth insular se alza en el centro de la isla y tiene forma de
 catedral. Guarda los restos de un hombre de identidad desconocida, que los
 seguidores creen pertenecen al Errante sin Nombre. El Moroloth de Eldengaria es
 diez veces más grande que el de la isla.
 
 Durante la época de Sandor, muchos seguidores tienen como objetivo visitar la
-isla de Ishbaal al menos una vez en su vida. El número y la ubicación exacta de
+isla de Lemuria al menos una vez en su vida. El número y la ubicación exacta de
 los Moroloth no están definidos.
 
 ## Ungimientos
 
 Los seguidores esperan recibir tres ungimientos durante su vida: al nacer, a
 modo de bautismo; al llegar a la adultez; y al visitar el Moroloth de la isla de
-Ishbaal. No se requiere más detalle del rito para fijar esta práctica.
+Lemuria. No se requiere más detalle del rito para fijar esta práctica.
 
 ## Referencias
 
-- `docs/mundo/stigria/dragma/ishbaal/ishbaal.md`
+- `docs/mundo/stigria/dragma/lemuria/lemuria.md`
 - `docs/mundo/stigria/dragma/dragma.md`
 - `docs/mundo/stigria/dragma/guerras-misticas.md`
 - `docs/entidades/grimm.md`

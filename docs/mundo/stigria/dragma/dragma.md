@@ -15,6 +15,12 @@ Stamengherin.
 
 ## Estructura territorial
 
+Cada territorio imperial cuenta con una Guardia Real de seguridad interior,
+incluidos los reinos, protectorados y Khalos. La Guardia Imperial es un cuerpo
+distinto con jurisdicción en todo el Imperio. Sus integrantes son agentes de
+seguridad y sus cuerpos son distintos de los ejércitos. Ambos disponen de
+unidades especializadas, entre ellas los Cuervos Grises contra la Sombra.
+
 El imperio se compone de cuatro tipos de entidad territorial:
 
 | # | Tipo | Cantidad | Naturaleza |
@@ -44,7 +50,7 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 |---|-------|--------|-------------|--------|
 | 1 | Eisengard | Valle de Hierro | Eberwulf | Reikar del Valle de Hierro |
 | 2 | Guldengard | Valle de Hierro | Reginvar | Reikar del Valle Dorado |
-| 3 | Flemmengard | Valle de Hierro | Gundrek | Reikar de la Ceniza |
+| 3 | Flammengard | Valle de Hierro | Gundrek | Reikar de la Ceniza |
 | 4 | Sturmgard | Valle de Hierro | Fridvar | Reikar de la Tormenta |
 | 5 | Lysarya | Costas del Verano | Mirandys | Reikar de la Colina del Verano |
 | 6 | Veleskaria | Dresk | Korzan | Reikar de la Puerta Carmesí |
@@ -61,10 +67,10 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 |---|--------|------|------------|-------|
 | 1 | Khalos | Ciudadela libre | Gran Consejo | Fundada por la Gente de la Bruma y refugiados astrianos. |
 | 2 | Esteria | Ciudad fortaleza | Guardia Amarilla | Enclave protector al borde del Foso de la Calamidad. La carta de Rudgar lo separó de los doce Dominios. |
-| 3 | Ishbaal | Territorio de ultramar | Príncipe Regente | Isla sheijad al noroeste, administrada como principado autónomo. |
+| 3 | Lemuria | Territorio de ultramar | Príncipe Regente | Isla sheijad al noroeste, administrada como principado autónomo. |
 | 4 | Alessya | Protectorado insular | Príncipe Guardián | Isla al suroeste, vinculada históricamente con los Hijos del Sol. Principado rico e inalienable. |
 | 5 | Delfos | Territorio de ultramar | Regente (Casa Artema) | Isla tropical frente a Velkhar. Gobernada por la Casa Artema. Los Artema portan en secreto sangre Mormund desde el exilio de Mijail. |
-| 6 | Lorka | Territorio de ultramar | Príncipe Regente | Isla al norte de Ishbaal. |
+| 6 | Lorka | Territorio de ultramar | Príncipe Regente | Isla al norte de Lemuria. |
 | 7 | Paicel | Territorio de ultramar | Príncipe Regente | Isla al sureste de Delfos. |
 
 ## Libertad religiosa
@@ -154,7 +160,7 @@ El cambio de dinastía imperial o real ocurre por **quiebre de dinastía**: la i
 ## El Raikim y los Dominios
 
 Durante la fundación del Raikim, todo territorio situado fuera del Gran Valle y
-administrado por un señor recibió la categoría de **Dominio**. Flemmen y Sturm
+administrado por un señor recibió la categoría de **Dominio**. Flammen y Sturm
 fueron los primeros.
 
 Durante la Edad de la Tiranía, los Dominios fueron propiedades del Raik
@@ -178,7 +184,7 @@ Sindgard. Nunca anuló la autonomía del Paso del Oriente.
 ## Referencias
 - Concordia de Vilem Mormund.
 - Stamengherin.
-- `docs/mundo/stigria/dragma/ishbaal/ishbaal.md`
+- `docs/mundo/stigria/dragma/lemuria/lemuria.md`
 - `docs/mundo/stigria/dragma/guerras-misticas.md`
 - `docs/mundo/stigria/dragma/sindria/sindria.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`
