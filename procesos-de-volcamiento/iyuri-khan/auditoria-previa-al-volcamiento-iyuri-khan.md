@@ -85,6 +85,12 @@ respetarse durante el volcamiento autorizado.
 
 ### AU-04. Cronología genealógica y alcance del canon velado
 
+**Precedencia posterior:** el contraste de esta sección describe las marcas
+vigentes al auditar el canon. La resolución posterior a AU-12 distingue a
+Dravora de Ruxandra Dravor y atribuye a Ruxandra el conocimiento genealógico
+compartido con Imrik. El plan de cierre identifica las fichas que deberán
+adecuarse cuando se autorice el volcamiento.
+
 **Estado de la revisión actual:** cerrado con reservas mediante R-04. El
 conocimiento se delimitará por relación y época; las fechas absolutas y las
 separaciones entre generaciones se revisarán al final en AU-12.

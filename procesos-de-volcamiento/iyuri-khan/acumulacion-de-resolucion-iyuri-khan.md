@@ -118,7 +118,7 @@ por separado, atendiendo a las personas y al período correspondiente:
 - La descendencia de Oskar respecto de Leandrin y sus vínculos con las
   generaciones posteriores se examinarán como hechos independientes, según lo
   que conoce cada personaje.
-- Se preservará el conocimiento que el canon atribuye a Dravora e Imrik sobre
+- Se preservará el conocimiento que corresponde a Ruxandra Dravor e Imrik sobre
   los secretos correspondientes; también se respetarán las demás marcas vigentes.
 
 El plan identificará los fragmentos y fichas que deban ajustarse y delimitará
@@ -577,7 +577,8 @@ Las fechas, generaciones, longevidades y circunstancias genealógicas no
 establecidas permanecen reservadas.
 
 Las fichas vigentes velan la relación de Oskar y Lya y la genealogía de Arystan
-y Mili para todos salvo Dravora e Imrik. La boda del pasado no autoriza por sí
+y Mili para todos salvo Ruxandra Dravor e Imrik, conforme a la resolución
+posterior sobre ambas reinas. La boda del pasado no autoriza por sí
 sola a divulgar la ascendencia de Mili en el presente ni a alterar las marcas.
 En el plan se revisará el alcance temporal de cada dato al proponer su destino;
 si se detecta una contradicción concreta de conocimiento que no pueda
@@ -854,3 +855,44 @@ para sostener estos rangos. El ejemplo muestra una distribución posible, no una
 cronología definitiva; los huecos señalados son reservas narrativas legítimas.
 AU-12 queda **cerrado con reservas**. La revisión y el plan de volcamiento no
 autorizan modificar el canon; requieren su procedimiento independiente.
+
+## Resolución posterior a AU-12: Dravora y Ruxandra Dravor
+
+**Estado: cerrada con reserva genealógica.** Por decisión expresa del autor,
+son dos personas distintas de la historia de la Casa Dravor:
+
+- **Dravora** desciende de la Casa Enescu, funda la Casa Dravor y asciende al
+  trono de Valastir casi al final de la dinastía Mormund. Conserva el papel
+  político y dinástico establecido para la fundadora.
+- **Ruxandra Dravor** es reina de Valastir durante Amschel y madre de Dymtrik.
+  Sus investigaciones sobre la genealogía vinculada a Iulien Therin culminan
+  con el nacimiento de Cassyan Therin. Ruxandra e Imrik conservan el
+  conocimiento de la genealogía de Mili y demás hechos que el canon vigente
+  reserva expresamente a Dravora e Imrik.
+
+Quedan reservados el parentesco exacto entre ambas reinas, las generaciones
+intermedias y los años concretos del reinado de Ruxandra. La decisión sustituye
+la atribución a una única persona de la fundación, la maternidad, las
+investigaciones y el conocimiento generacional. No implica por sí misma un
+mecanismo de longevidad ni fija otras relaciones. Prevalece sobre cualquier
+formulación incompatible de esta acumulación y de los demás documentos de
+trabajo de Iyuri.
+
+En el eventual volcamiento, `docs/personajes/dravora.md` conservará la
+fundación y el ascenso; se propone crear `docs/personajes/ruxandra-dravor.md`
+para la reina posterior. Deben actualizarse `docs/personajes/dymtrik.md`,
+`docs/casas/dravor.md`, `docs/personajes.md` y las marcas de
+`docs/personajes/oskar-rheiner.md`, `lya-khan.md`, `arystan-khan.md`,
+`ellis-rosamund.md`, `millicent-rosamund.md`, `imrik.md` y
+`docs/pendientes.md`, reemplazando la conocedora por Ruxandra sin alterar los
+demás alcances velados. La historia fundacional de
+`docs/mundo/stigria/valastir.md`, la ascendencia general de
+`docs/casas/enescu.md` y las entradas onomásticas conservan sus contenidos
+compatibles; se revisarán enlaces y contexto sin reemplazo indiscriminado.
+Los registros históricos de `docs/notas.md` se conservan como historial; el
+futuro volcamiento debe añadir su propia entrada.
+
+La separación elimina la dependencia cronológica identificada en la auditoría
+de cierre. No se ha detectado otra incompatibilidad bloqueante: el proceso
+queda listo para solicitar autorización de volcamiento, sin que esta resolución
+autorice ejecutarlo ni modificar `docs/` o `cuentos/`.

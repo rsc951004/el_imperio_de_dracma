@@ -8,55 +8,27 @@ resoluciones finales y las fichas vigentes. No modifica ni autoriza modificar
 `docs/` o `cuentos/`; no es una autorización de volcamiento. Los destinos y
 nombres de fichas nuevas son propuestas de planificación.
 
-## 1. Dictamen y condición a resolver
+## 1. Dictamen de cierre
 
 Las decisiones AU-01 a AU-12 mantienen su cierre y sus reservas. Su eventual
 traslado requiere integrar como una unidad los cambios históricos, territoriales,
 institucionales y biográficos. Los conflictos con el canon antiguo que fueron
 resueltos expresamente son cambios previstos, no nuevas preguntas.
 
-**La revisión integral identifica una dependencia cronológica no examinada en
-el cierre de AU-12:** Dravora ascendió al trono casi al final de Mormund, antes
-de +400 (`docs/personajes/dravora.md`, `docs/mundo/stigria/valastir.md` y
-`docs/casas/dravor.md`), y es madre de Dymtrik, que tiene dieciséis años cuando
-integra la célula 1466 junto a Mili (`docs/personajes/dymtrik.md` y
-`docs/organizaciones/banda-del-colmillo-blanco.md`). La genealogía aprobada
-sitúa a Oskar, abuelo de Mili, nacido aproximadamente entre +900 y +950, y a
-Mili y sus contemporáneos en Amschel. La fundadora debe seguir viva muchos
-siglos después de su ascenso para ser la madre de Dymtrik y conocer la
-genealogía reservada a ella e Imrik. En el ejemplo no vinculante de AU-12,
-1466 actúa hacia +996: ya habrían pasado más de 596 años desde el ascenso.
+La dependencia detectada entre la fundación de la Casa Dravor y la generación
+de Mili quedó resuelta expresamente mediante dos reinas. **Dravora**,
+descendiente de Enescu, fundó la Casa Dravor y ascendió casi al final de
+Mormund. **Ruxandra Dravor**, reina durante Amschel, es madre de Dymtrik,
+dirigió las investigaciones vinculadas a Iulien que culminaron con el
+nacimiento de Cassyan y comparte con Imrik el conocimiento genealógico cuyo
+alcance velado está fijado en las fichas. El parentesco exacto entre las dos
+reinas y las generaciones intermedias permanecen reservados.
 
-El canon no establece una edad máxima ni una naturaleza o técnica de longevidad
-de Dravora: no se demuestra una imposibilidad biológica mediante una regla
-escrita. Sí es una consecuencia excepcional indispensable para conservar
-conjuntamente esos hechos, y no se debe convertir en hecho nuevo ni atribuirle
-una causa por inferencia. La discrepancia requiere decisión autoral antes de
-dar por listo el bloque histórico-genealógico para ejecución. El cierre previo
-de AU-12 no había auditado esta dependencia; no se reabren por ello sus otras
-decisiones ni se alteran los rangos elegidos.
-
-Alternativas para revisión humana, manteniendo las demás relaciones salvo lo
-indicado:
-
-1. **Desplazar la fundación Dravor:** Dravora asciende en Amschel, con tiempo
-   para ser madre de Dymtrik. Sustituye el ascenso al final de Mormund y exige
-   reordenar la historia de Valastir posterior a la dinastía Yuriev; no requiere
-   fijar una fecha precisa ahora.
-2. **Separar la fundadora y la madre:** una Dravora funda la dinastía al final
-   de Mormund; otra, posterior, es madre de Dymtrik y participa en los hechos de
-   Mili. Sustituye la identidad única actual y requiere decidir cómo se
-   distinguen ambas; no presupone parentesco concreto.
-3. **Conservar una sola Dravora longeva:** mantener fundación, maternidad y
-   acceso a los secretos, aceptando expresamente su vida de varios siglos.
-   La naturaleza y mecanismo de esa longevidad podrían quedar reservados si el
-   autor acepta el hecho.
-4. **Otra solución autoral:** modificar cualquier relación o marco temporal
-   pertinente, identificando sus consecuencias antes del volcamiento.
-
-Por esta condición, el plan siguiente está **preparado para revisión, no
-declarado listo para ejecutarse**. Las operaciones relacionadas con Dravora,
-Dymtrik y la cronología de Valastir quedan condicionadas a la resolución.
+La resolución posterior a AU-12 en la acumulación de resoluciones establece su
+precedencia y la trazabilidad individual de las fichas. La revisión no ha
+identificado nuevas contradicciones que requieran decisión previa: **el proceso
+está listo para solicitar autorización de volcamiento**. Este dictamen y el
+plan no autorizan ejecutarlo ni modificar `docs/` o `cuentos/`.
 
 ## 2. Estados de revisión
 
@@ -73,7 +45,8 @@ Dymtrik y la cronología de Valastir quedan condicionadas a la resolución.
 | AU-09 | Cerrado con reservas | Fabricación y condiciones variables; Rugido Mordaz y Lazeroth distintos. |
 | AU-10 | Cerrado con reservas | Registro, uso libre y actividad habitual regulada; trámites y sanciones no fijados. |
 | AU-11 | Cerrado con reservas | Muerte de Fey, espectro y condición familiar; misterios narrativos abiertos. |
-| AU-12 | Cerrado con reservas; dependencia adicional en revisión | +1254 conservado, períodos aproximados y secuencias; caso Dravora–Dymtrik pendiente. |
+| AU-12 | Cerrado con reservas | +1254 conservado, períodos aproximados y secuencias; la distinción Dravora–Ruxandra resuelve la dependencia adicional. |
+| Resolución posterior a AU-12 | Cerrada con reserva | Dravora fundadora y Ruxandra reina de Amschel; parentesco exacto y generaciones reservados. |
 
 **Conflictos ya decididos:** origen sarustriano de la religión; Kardan, Pardis
 y Lemuria; práctica mística insular; Flammen y Flammengard; Puertas Carmesí;
@@ -95,8 +68,8 @@ las edades de Imrik, aproximadamente y con margen de cumpleaños; sus números
 son identificadores. Mili tiene quince años en 1466. Sandor es de época Pavel.
 
 No hace falta una fecha absoluta adicional para redactar los intervalos
-históricos aprobados. Sí hace falta resolver la condición Dravora–Dymtrik antes
-de aplicar conjuntamente la fundación de su dinastía y la historia de Mili.
+históricos aprobados. La separación de Dravora y Ruxandra permite aplicar
+conjuntamente la fundación de la dinastía y la historia de Mili.
 Conservar el presente +1680 y no atribuir a este los personajes históricos.
 
 **Visibilidad:** las fichas de Oskar, Lya, Arystan, Ellis, Mili e Imrik
@@ -193,7 +166,7 @@ material narrativo, sin convertirlos en citas literales ni cuento autorizado.
 | Noche del Sol de Medianoche, Rey Sol libera poder y destruye Astria en +1254; Verna presente y muerto coincidiendo con caída; casi todos cultistas arcanos mueren | C: historia antigua de Astria, Verna y cronología con separación entre lo público y velado; AU-12. R: escena, mecanismo y circunstancias exactas de muerte. |
 | Descendientes de tres fundadores, uniones por generaciones con personas externas, expansión Mort, persecución, supervivientes en Rauven, Armand y Loras | C: `casas/zorana.md`, `mort-tabura.md`, `armand-zorana.md`, `imrik.md`; AU-12. R: generaciones y fechas. Corregir descripción del índice sin inventar incorporación de supervivientes de Astria. |
 | Arystan y Ellis en 1378, Imrik en 1466, Ose en Cerbero y genealogía de Mili | C: fichas existentes, Stroi y Colmillo Blanco; AU-04 y AU-12, manteniendo alcances velados. R: datos no establecidos de filiación y muertes. |
-| Dravora fundadora y madre de Dymtrik | **Pendiente de decisión:** `dravora.md`, `dymtrik.md`, `valastir.md`, `casas/dravor.md`, fichas veladas; condición de la sección 1. No canonizar explicación de longevidad por inferencia. |
+| Dravora funda la Casa Dravor al final de Mormund; Ruxandra es reina en Amschel, madre de Dymtrik, responsable de las investigaciones que culminan con Cassyan y conocedora de la genealogía junto a Imrik | C: `dravora.md`, nueva `ruxandra-dravor.md`, `dymtrik.md`, `valastir.md`, `casas/dravor.md` y marcas veladas; resolución posterior a AU-12. R: parentesco exacto, generaciones intermedias y fechas de Ruxandra. |
 
 ### Sustituciones, límites y control de anti-fantasmeo
 
@@ -217,8 +190,8 @@ carácter provisional. No modificar otros procesos ni `protoversiones/`.
 
 ## 5. Plan de volcamiento por bloques dependientes
 
-Las operaciones solo se ejecutarían tras una autorización humana independiente
-y resolver la condición de la sección 1. Una aprobación futura debe alcanzar el
+Las operaciones solo se ejecutarían tras una autorización humana independiente.
+Una aprobación futura debe alcanzar el
 conjunto histórico y biográfico coherente; los bloques son secuencias de trabajo
 y comprobación, no publicaciones parciales de un canon contradictorio.
 
@@ -233,7 +206,7 @@ y comprobación, no publicaciones parciales de un canon contradictorio.
 | `docs/organizaciones/cultistas-arcanos.md` | Crear ficha propuesta con naturaleza, posibilidad de muerte y pérdida de casi todos; reservar mecanismos. | AU-12; índice, Thalmos y canon velado. |
 | `docs/personajes/historicos/elio-zorana.md`, `narissa-zorana.md`, `dante-zorana.md` | Ampliar envío, viaje y fundación sin edades o fecha fija. | AU-12; Zorana, Mort y Peregrinos. |
 | `docs/organizaciones/peregrinos-negros.md`, `docs/taburas/mort-tabura.md`, `docs/taburas.md` | Revisar jerarquía, fundación anterior a la historia de Iyuri y descripción del índice; no inventar supervivientes añadidos. | AU-12; Essio, Iyuri y Armand. |
-| `docs/casas/zorana.md`, `docs/personajes/armand-zorana.md`, `docs/personajes/imrik.md` | Preservar líneas y uniones; contrastar nueva secuencia sin fijar generaciones. | AU-12, condición Dravora. |
+| `docs/casas/zorana.md`, `docs/personajes/armand-zorana.md`, `docs/personajes/imrik.md` | Preservar líneas y uniones; contrastar nueva secuencia sin fijar generaciones. | AU-12 y resolución Dravora–Ruxandra. |
 | `docs/entidades/thalmos.md`, `docs/mundo/stigria/costa-del-verano.md`, `docs/casas/therin.md`, `docs/personajes/iulien-therin.md` | Revisar referencias a culto y memoria del Primer Rey Sol; no asignar al último la leyenda sin decisión. | AU-12; −345/−330 y +1254. |
 
 ### Bloque B. Leandrin, Phardazul y nombres geográficos
@@ -278,17 +251,20 @@ y comprobación, no publicaciones parciales de un canon contradictorio.
 | `docs/organizaciones/guardia-amarilla.md`, `docs/mundo/stigria/dragma/esteria/esteria.md`, `docs/mundo/stigria/dragma/khalos/khalos.md` | Revisar Guardia Real territorial preservando Guardia Amarilla y autonomía de Khalos; relación orgánica específica reservada. | AU-07; no reescribir autoridad de Esteria sin decisión. |
 | `docs/personajes/iyuri-khan.md` | Crear ficha propuesta con identidad, don, cronología relativa y episodios aprobados; situar como histórico. | AU-01–12, bloques A–D. |
 | `docs/personajes/historicos/fhilippo-galenor.md`, `marwha-khan.md`, `essio-galenor.md`, `fey-gilmora.md`, `greta-nerve.md`, `nimri-jhamali.md`, `tuk-neyzeh.md`, `benji-perjhan.md` | Crear fichas propuestas por persona y vínculos, atribuciones y reservas de la matriz. | A-01–09, AU-07, AU-09–11; índice de personajes. |
-| `docs/personajes/oskar-rheiner.md`, `lya-khan.md`, `arystan-khan.md`, `ellis-rosamund.md`, `millicent-rosamund.md`, `imrik.md`, `docs/personajes/historicos/ose.md`, `docs/personajes/cerbero.md` | Ampliar relaciones por época, conservar las verdades veladas y sus conocedores; no mover automáticamente la totalidad de las marcas. | AU-04, AU-08, AU-12; condición Dravora. |
-| `docs/personajes/dravora.md`, `dymtrik.md`, `docs/casas/dravor.md`, `docs/mundo/stigria/valastir.md` | **Operación condicionada:** aplicar únicamente la alternativa autoral elegida para fundación, maternidad y duración de vida. | Bloqueo de sección 1; genealogías y canon velado. |
+| `docs/personajes/oskar-rheiner.md`, `lya-khan.md`, `arystan-khan.md`, `ellis-rosamund.md`, `millicent-rosamund.md`, `imrik.md` | Ampliar relaciones por época y sustituir a Dravora por Ruxandra en las seis marcas que la designan como conocedora junto a Imrik, conservando los demás alcances velados. | AU-04, AU-08, AU-12 y resolución posterior. |
+| `docs/personajes/historicos/ose.md`, `docs/personajes/cerbero.md` | Conservar separadamente las marcas que reservan el sellado de Ose a Imrik; no atribuirlo a Ruxandra. | AU-03–04. |
+| `docs/personajes/dravora.md`, nueva `docs/personajes/ruxandra-dravor.md`, `docs/personajes/dymtrik.md` | Conservar en Dravora la fundación y el ascenso; trasladar a Ruxandra las investigaciones y la maternidad; crear y enlazar su ficha. | Resolución posterior a AU-12. |
+| `docs/casas/dravor.md`, `docs/mundo/stigria/valastir.md`, `docs/casas/enescu.md` | Conservar la fundación y ascendencia aprobadas; añadir a Ruxandra como reina posterior sin fijar parentesco específico. Revisar referencias y no sustituir el nombre de la fundadora. | Resolución posterior a AU-12. |
+| `docs/mundo/stigria/cantera-de-nombres/carmesi.md` | Conservar las entradas onomásticas Dravora y Dravor; examinar la incorporación de Ruxandra si procede sin sustituirlas. | Resolución posterior a AU-12. |
 | `docs/personajes.md`, `docs/mundo.md`, `docs/entidades.md`, `docs/organizaciones.md`, `docs/taburas.md` | Actualizar entradas únicas, enlaces de fichas nuevas y rutas renombradas; verificar categorías históricas y no divulgar secretos. | Todos los bloques. |
-| `docs/pendientes.md` | Cerrar solo preguntas ya respondidas; registrar reservas reales, fechas no fijadas, condiciones técnicas y alcances velados. | Todos los bloques. |
+| `docs/pendientes.md` | Sustituir Dravora por Ruxandra en la marca genealógica; cerrar solo preguntas ya respondidas y registrar reservas reales, fechas y alcances velados. | Todos los bloques; resolución posterior a AU-12. |
 | `docs/notas.md` | Añadir entrada nueva con resoluciones ejecutadas, cambios y reservas; conservar naturaleza de historial editorial. | Todos los bloques; solo al volcar. |
 | `cuentos/cronicas-de-erebia/1-la-edad-de-la-maravilla.md` | Revisar dependencia narrativa; la búsqueda no encontró fechas de Sirene, Leandrin, Astria +1254 ni nombres territoriales afectados. No modificar sin necesidad. | AU-12; `cuentos/AGENTS.md`. |
 
 ## 6. Comprobaciones antes de ejecutar y al terminar
 
-1. Resolver individualmente la condición Dravora–Dymtrik y registrar sus
-   consecuencias sin alterar otras decisiones. Mantener todas las reservas.
+1. Verificar la resolución Dravora–Ruxandra y su aplicación individual a las
+   fichas y marcas inventariadas. Mantener las reservas genealógicas.
 2. Confirmar autorización expresa del alcance y de las operaciones propuestas;
    la preparación de este plan no la constituye.
 3. Repetir búsquedas de grafías, rutas, fechas antiguas, restos de hipótesis
