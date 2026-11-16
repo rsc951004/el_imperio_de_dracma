@@ -14,46 +14,75 @@ de su casa, que recibiría un título y dos yacimientos de oro, y que con ella
 le esperaba una vida que otros consideraban segura. Habían hablado mucho de su
 futuro sin preguntarle qué quería hacer con él.
 
-Essio Galenor, su tío paterno, lo ayudó a escapar. Al pensar en lo que
-dejaba atrás, Iyuri recordó a su madre entre las flores, a Lya y a Nana Fey en
-la cocina. También recordó el olor de la naria asada de Fhilippo. Por un
-instante quiso volver para llevarse algo más que esas imágenes.
+Essio Galenor, su tío paterno, lo esperaba para ayudarlo a escapar. Iyuri pasó
+la mano por la corteza del árbol. Sabía dónde encontrar la abertura, incluso a
+oscuras. De niño había escondido allí un objeto al que podía volver con su don; si
+lo necesitaba, encontraría el camino de vuelta.
 
-Pero volvió la vista hacia el camino. Si se quedaba, tendría que aceptar una
-vida que ya habían decidido para él. Siguió a su tío fuera de casa.
+Desde el jardín podía imaginar a su madre entre las flores, a Lya y a Nana Fey
+en la cocina. Recordó el olor de la naria asada de Fhilippo. La casa seguía
+allí, con todo lo que amaba dentro, y por un instante quiso regresar.
+
+Essio aguardó mientras retiraba la mano del árbol. Iyuri echó una última mirada
+hacia la casa y siguió a su tío.
 
 ## El capitán y el guardia
 
-Dos años después, Iyuri llevaba tantas dagas encima que podía alcanzar una
-desde casi cualquier postura. Había aprendido a distribuirlas entre las
-correas de su armadura ligera, en la cintura y junto a las botas. Las lanzaba
-con precisión y podía ir tras ellas antes de que un adversario tuviera tiempo de
-volverse.
+A los dieciséis, Iyuri podía alcanzar una daga desde casi cualquier postura.
+Las llevaba entre las correas de la armadura, en la cintura y junto a las
+botas. En sus manos, un cuchillo podía abrirle un camino allí donde un instante
+antes solo había una pared.
 
-El Calamar Rojo lo llamaba capitán. La banda de saqueadores de Sturmgard le
-había dado una vida muy distinta de la que Marwha había imaginado. Iyuri había
-soñado también con ingresar en la Grim Tábura y cazar Grimm; por entonces robaba
-para él y sus compañeros. Su familia lo había registrado como Vinculado cuando
-era niño, pero nunca había obtenido una licencia Maeggi.
+Los saqueadores del Calamar Rojo lo llamaban capitán. Con ellos había aprendido
+a decidir deprisa y a procurar que sus compañeros salieran de donde se habían
+metido. Durante un robo de suministros encontró a un muchacho de la Guardia Real
+de Flammengard. Se llamaba Oskar Rheiner y tenía quince años, uno menos que él.
 
-Durante un robo de suministros conoció a Oskar Rheiner. El muchacho tenía quince
-años, uno menos que él, y estaba vinculado a la Guardia Real de Flammengard.
-La diferencia parecía mayor cuando lo miraba a la cara.
+Iyuri recordaría después la cara de Oskar y lo joven que le había parecido.
+Tenía dagas y tenía su don; podía intentar matarlo. Durante un instante midió
+la distancia entre ellos.
 
-Iyuri pudo haber intentado matarlo. Tenía las dagas y el don, y Oskar estaba en
-desventaja. No lo hizo. Al final fue el guardia quien lo capturó, y la captura
-del capitán llevó a la detención del resto del Calamar Rojo.
+—Si te apartas, no tienes que hacer esto —dijo.
 
-En los calabozos, Iyuri tuvo tiempo de preguntarse qué les esperaba. No había
-previsto que un capitán de la Mort Tábura preparara su sacrificio a Thalmos.
-La intención permaneció oculta hasta que Oskar descubrió la conspiración. Los
-saqueadores ayudaron a detenerla y recibieron un indulto.
+Oskar se mantuvo donde estaba. Iyuri vio su mano junto al arma y pensó en lo
+fácil que sería adelantarse. Apartó la suya de la daga.
 
-Salir de allí cambió las cuentas de Iyuri. Había dirigido hombres, robado y
-escapado de peligros, pero el cautiverio le había mostrado lo cerca que podían
-estar todos de una muerte que ninguno había elegido. Oskar le habló de la
-formación Maeggi. Iyuri pensó en la Grim Tábura y en los Grimm que había querido
-cazar de niño. Podía aprender un oficio y tratar de vivir de él.
+Oskar lo capturó. La pérdida del capitán llevó a la detención del resto de la
+banda.
+
+En el calabozo, Iyuri ya no tenía una daga que lanzar ni un lugar al que
+saltar. Pensó en sus compañeros, presos por el mismo robo, y en que había
+salido de su casa para elegir su propia vida. No había elegido aquello para
+ninguno de ellos.
+
+Al enterarse de lo que preparaba un capitán de la Mort Tábura, Iyuri comprendió
+que la celda podía ser lo último que vieran antes de un sacrificio a Thalmos.
+Oskar había descubierto la conspiración. Los hombres del Calamar Rojo ayudaron
+a detenerla; Iyuri se aferró a esa oportunidad sin dejar de pensar en los
+suyos.
+
+Cuando todo acabó, Iyuri buscó a Oskar con la mirada. Le habría resultado más
+fácil llamarlo enemigo si el muchacho se hubiera limitado a entregarlos. Tampoco
+supo qué decirle entonces: la noticia de que habían recibido un indulto le
+devolvió de golpe la preocupación por sus compañeros.
+
+La libertad llegó también para sus compañeros. Iyuri los vio salir y sintió el
+alivio antes de atreverse a pensar en lo que haría después. Había sido su
+capitán; seguir siéndolo significaba volver al saqueo. Aquella vez podía escoger.
+
+Oskar le habló de la formación Maeggi. Iyuri recordó que Nana Fey había sido
+cazadora de Grimm; de niño había querido unirse a la Grim Tábura. No
+tenía licencia, pero podía aprender, obtenerla e intentar vivir de un oficio.
+
+—¿Dejarías que un antiguo saqueador persiguiera monstruos? —preguntó.
+
+—Tendrías que aprender primero.
+
+Iyuri lo miró. Oskar no parecía burlarse.
+
+—Eso suena peor de lo que había imaginado.
+
+Aun así, decidió intentarlo.
 
 Oskar lo acompañó hasta las Puertas Carmesí. El camino se abría allí entre
 Flammengard, Veleskaria y Eisengard; Iyuri debía continuar hacia su formación y
@@ -61,16 +90,38 @@ Oskar regresar a sus responsabilidades con la guardia.
 
 —Te escribiré cuando me instale —prometió Iyuri.
 
-Oskar lo abrazó antes de despedirse. Iyuri emprendió el camino y cumplió su
-promesa. Oskar respondió. Durante tres años las cartas fueron y vinieron entre
-ellos.
+Oskar lo abrazó antes de despedirse. Iyuri se quedó un instante con la mejilla
+contra su hombro. Luego se separó y echó a andar. Cuando miró atrás, Oskar
+seguía allí.
+
+Iyuri cumplió su promesa. En sus cartas se quejó del trabajo que exigía la
+formación y se permitió bromear sobre lo mucho que sabía ya de perseguir a un
+saqueador. Oskar respondió. Iyuri aprendió a reconocer su manera de expresar una
+preocupación antes de formularla; Oskar, a distinguir una queja de Iyuri de una
+verdadera petición de ayuda.
+
+Las cartas continuaron durante tres años. Algunas eran más fáciles de escribir
+que otras. Iyuri descubrió que había cosas que solo terminaba de entender cuando
+intentaba contárselas a Oskar, y que esperaba sus respuestas incluso cuando no
+había hecho ninguna pregunta.
 
 ## El prisionero
 
-Cuando volvieron a verse, Iyuri tenía diecinueve años y aún se formaba en
-Veleskaria. Oskar tenía dieciocho y ya servía activamente en la Guardia Real.
-Era más alto de lo que Iyuri recordaba. La sorpresa de verlo le hizo olvidar
-por un momento todo lo que había pensado escribirle en la siguiente carta.
+Iyuri seguía formándose en Veleskaria cuando volvió a ver a Oskar. Habían pasado
+tres años desde las Puertas Carmesí: él tenía diecinueve y Oskar dieciocho.
+
+Oskar era más alto de lo que Iyuri recordaba y llevaba la Guardia Real con una
+seguridad nueva. Iyuri tardó un momento en reconocer, bajo aquella apariencia,
+al muchacho que lo había abrazado antes de marcharse.
+
+—Has crecido —dijo.
+
+—Tú sigues quejándote de tus maestros.
+
+—En las cartas solo te contaba la mitad.
+
+Oskar sonrió. Iyuri había imaginado aquel reencuentro más de una vez; no había
+previsto lo fácil que sería recuperar una conversación después de tanto tiempo.
 
 Oskar cumplía una misión de escolta hacia Sindria. El prisionero era Essio.
 Especialistas de Flammengard lo habían diagnosticado como Tocado por la
@@ -88,8 +139,13 @@ zumbido le llenó los oídos y el pensamiento se le volvió espeso.
 
 —No deberíamos quedarnos más —dijo Oskar.
 
-Fuera de la celda, Iyuri lloró. Oskar lo envolvió con su capa y lo sostuvo
-mientras intentaba recuperar el aliento. Después le pidió que cerrara los ojos.
+Fuera de la celda, Iyuri intentó decir algo y no pudo. Essio lo había esperado
+en el jardín cuando huyó de casa. Dentro de aquella celda ni siquiera había
+respondido a su voz.
+
+Oskar le puso la capa sobre los hombros. Iyuri se aferró a ella y lloró. Oskar
+lo sostuvo sin apurarlo; esperó hasta que pudo respirar con algo más de calma.
+Después le pidió que cerrara los ojos.
 
 —Piensa en un lugar donde quieras estar.
 
@@ -101,7 +157,12 @@ y logró apartarlo.
 —Si no puedo hacerlo —preguntó—, ¿me llevarías a Sindria?
 
 Oskar le prometió que enfrentaría la Sombra para protegerlo. Iyuri abrió los
-ojos y lo besó. Oskar se sorprendió; luego le devolvió el beso.
+ojos. Tenía a Oskar cerca, la capa alrededor de los dos y el recuerdo de su voz
+sosteniéndolo mientras la oscuridad avanzaba por el lago.
+
+Durante tres años había esperado sus cartas. Ahora no quería que Oskar se
+apartara. Lo besó. Oskar se quedó inmóvil un instante y después le devolvió el
+beso.
 
 Iyuri debía avisar a su familia de lo ocurrido con Essio. Obtuvo permiso para
 interrumpir su formación y preparó el viaje a Lemuria. Antes de separarse,
@@ -226,13 +287,19 @@ respuesta. El hombro herido le dolía cada vez más. Cayó de rodillas.
 El espectro apareció arrastrando a Fhilippo por un hombro. Era más grande que
 antes. Iyuri se levantó como pudo.
 
-La criatura habló de su hambre y de la luz de Iyuri. Dijo que lo había esperado,
-que otro lo necesitaba y deseaba conocerlo. También dijo que estaba tentada de
-guardárselo para sí, de dejar solo un poco de luz y un poco de carne para
-aquel «él».
+—Él te necesita, Niño de la Flecha. Ansía conocerte.
 
-Iyuri miró a su padre. Recordó la espada en sus manos, las palabras que le
-había oído tantas veces y a su abuelo, que se la había entregado.
+La criatura acercó el hocico. Fhilippo seguía tendido a sus pies.
+
+—Pero tengo hambre. Tu luz me alimenta. Quizá le deje un poco: un poco de luz y
+un poco de carne.
+
+Iyuri no sabía de quién hablaba. Buscó la mano de su padre sin apartar los ojos
+de la criatura.
+
+Miró a su padre y apretó la empuñadura de Lazeroth. Fhilippo le había pedido
+respeto por aquella espada, heredada de su propio padre. Iyuri recordó sus
+palabras y trató de encontrar las suyas.
 
 —Dionisia, te lo ruego. Por mi padre, por el padre de mi padre y por quienes te
 veneran bajo el sol del Verano... ¡Muéstrame tu luz!
@@ -308,14 +375,20 @@ El joven rubio estaba sentado frente a él. Dos hombres acorazados contenían a
 la criatura. Iyuri reconoció entonces la insignia de la banda: un Maeggi
 siniestro. La alerta negra había funcionado.
 
-El rubio era Nimri Jhamali. Instó a sus compañeros a retirar la garra antes de
-que se perdiera lo que había conseguido en el Santuario. Tuk Neyzeh, un
-Invocador del caos, protestó por tener que tocar aquella cosa. Se acercó de
-todos modos y empleó su don. El espectro se retorció; Tuk salió despedido, pero
-la garra abandonó el pecho de Iyuri.
+El rubio era Nimri Jhamali.
 
-Benji Perjhan acudió a la herida con algo de su bolso. Mientras trabajaba,
-encontró aliento para anunciar entre bromas que había llegado la Brigada Benji.
+—Está despierto, Tuk. Ahora.
+
+—Ya veo. ¿Tengo que tocar esa cosa?
+
+Tuk Neyzeh se acercó de todos modos y empleó su don. El espectro se retorció;
+Tuk salió despedido, pero la garra abandonó el pecho de Iyuri.
+
+Benji Perjhan acudió a la herida con algo de su bolso.
+
+—La Brigada Benji ha venido al rescate —anunció.
+
+Iyuri intentó tomar aire mientras Benji atendía la herida.
 
 Nimri se puso delante del espectro.
 
@@ -338,10 +411,9 @@ místico siniestro.
 
 —¿Y qué esperaba que viniera cuando lanzó la alerta? —preguntó Benji.
 
-Nimri contó que su padre procedía de la Bruma y su madre era lemuriana. Había
-crecido en Kystvar, ingresado en la Guardia Real y recibido destino en Lemuria.
-Era, dijo, el primer Portador siniestro de la isla. Después preguntó el nombre
-del joven.
+Nimri explicó que su madre era lemuriana y que lo habían destinado a la Guardia
+Real de la isla. Era, dijo, su primer Portador siniestro. Después preguntó el
+nombre del joven.
 
 —Iyuri Khan.
 

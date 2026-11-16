@@ -2,6 +2,13 @@
 
 ## Revisiones editoriales
 
+### Revisión literaria de El niño de la flecha (2026-11-16)
+
+Revisados el ritmo, la focalización y los diálogos del fragmento de Iyuri.
+Ampliados el encuentro con Oskar, la decisión posterior al cautiverio y la
+correspondencia; ajustadas la escena de la Sombra y la intervención de los
+Cuervos. Se conservan las reservas y los límites de conocimiento establecidos.
+
 ### El niño de la flecha (2026-11-16)
 
 Incorporado el fragmento narrativo canónico de Iyuri Khan y actualizado el
