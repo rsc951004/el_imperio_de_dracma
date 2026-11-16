@@ -28,22 +28,27 @@ no un plan de volcamiento ni destinos definitivos aprobados.
 
 ### AU-01. Capital de Flemmengard y escena de despedida
 
-- **Acumulación:** 6.2 y 12 sitúan la escena frente a Gran Phardazul y la
+**Estado de revisión:** confirmado y cerrado por R-01 en la acumulación de
+resoluciones: Askenburg fue la capital original y quedó destruida durante las
+Guerras Místicas; Phardazul es la capital posterior y vigente. Los detalles de
+la destrucción y el traslado permanecen reservados. El contraste siguiente
+documenta el canon que deberá actualizarse durante el volcamiento autorizado.
+
+- **Acumulación:** 6.2 y 12 sitúan la escena frente a Phardazul y la
   identifican como capital de Flemmengard; la canción y la boda se vinculan a
   esa ciudad.
 - **Canon:** `docs/mundo/stigria/dragma/flemmengard/flemmengard.md` fija
   **Askenburg** como capital. `docs/casas/rheiner.md` sitúa Fernigard en
-  Drommdurr, lejos de la capital; no identifica Gran Phardazul.
-- **Decisión necesaria:** determinar la relación entre Gran Phardazul,
-  Askenburg y la capitalidad en el período de la escena, preservando lo que
-  corresponda de la canción, el paisaje y la boda. Una diferencia de época o
-  una equivalencia de nombres no están establecidas y no deben suponerse.
+  Drommdurr, lejos de la capital; no identifica Phardazul.
+- **Tratamiento:** aplicar R-01 a la ficha de Flemmengard cuando se autorice el
+  volcamiento y conservar la escena, el paisaje y la boda. La canción y la
+  proclamación de Leandrin se examinan en AU-02.
 
 ### AU-02. Leandrin y la proclamación en la canción
 
 - **Acumulación:** 6.2 y 12.2 presentan la canción como exagerada, pero su
   resumen incorpora la proclamación de Leandrin como emperatriz del mundo en
-  Gran Phardazul. No se aclara si ese hecho también pertenece a la invención de
+  Phardazul. No se aclara si ese hecho también pertenece a la invención de
   la canción o es un acontecimiento histórico del desarrollo.
 - **Canon:** `docs/personajes/historicos/leandrin-rheiner.md` y
   `docs/mundo/stigria/dragma/guerras-misticas.md` registran su intento de tomar

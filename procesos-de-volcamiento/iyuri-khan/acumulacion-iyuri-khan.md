@@ -874,7 +874,7 @@ En su madurez temprana, Iyuri conserva una personalidad irreverente, afectuosa, 
 - Iyuri Khan: hijo de Fhilippo Galenor y Marwha Khan. Usa el apellido materno Khan. De ascendencia doble: Hijo del Sol por su padre, sheijad por su madre. Lemuriano en su identificación y crianza; también portador de una herencia vesperyana real.
 - Fhilippo Galenor: padre de Iyuri; mercader originario de Vesperya, reino oriental de las Costas del Verano. Descendiente directo de Rasmus Galenor por una línea de generaciones todavía no especificada. No se ha establecido que sea Vinculado. Es dueño de Lazeroth, espada mística recibida de su propio padre, y prepara un pescado de las Costas del Verano llamado naria asada.
 - Marwha Khan: madre, noble sheijad lemuriana de la Casa Khan. Mantiene con esmero el jardín familiar. Es quien intentó asegurar el futuro de su hijo mediante el matrimonio concertado con Greta Nerve. No se ha establecido que sea Vinculada. Iyuri la llama «umi», forma tradicional sheijad de decir «mamá».
-- Lya Khan: hermana de Iyuri. Sobrevive a la incursión de la Sombra en la mansión. Cuatro años después del rescate, está a punto de casarse con Oskar Rheiner en Gran Phardazul.
+- Lya Khan: hermana de Iyuri. Sobrevive a la incursión de la Sombra en la mansión. Cuatro años después del rescate, está a punto de casarse con Oskar Rheiner en Phardazul.
 - Essio Galenor: tío paterno de Iyuri, comerciante de las Costas del Verano y hábil estafador. Ayudó al muchacho a escapar de su familia a los catorce años. Más tarde es detenido con una espada mística extraordinariamente valiosa vinculada al primer Raik y diagnosticado como Tocado por la Sombra. La historia específica de cómo llegó a ese estado continúa abierta.
 - Rasmus Galenor: antepasado directo de Fhilippo y de Iyuri. La distancia generacional exacta no ha sido establecida.
 Observación editorial: ni la condición de Hijo del Sol ni la condición sheijad deben diluirse o presentarse como alternativas excluyentes. Iyuri pertenece a ambas genealogías. Por temperamento, educación y fe, se identifica especialmente con Lemuria, pero su herencia paterna es crucial para comprender la historia de Lazeroth y ciertas armas místicas.
@@ -896,7 +896,7 @@ Iyuri es descrito como muy hermoso, delgado, ágil, atlético y más inclinado a
 
 Tras escapar de la Mort Tábura decide abandonar la piratería o bandidaje y buscar un oficio legitimado mediante certificación Maeggi, con la perspectiva de llegar a ser cazador profesional de Grimm y establecerse, si todo sale bien, en Flemmengard.
 3.2. Aspecto a los veintitrés años
-En la escena situada en una colina frente a Gran Phardazul, cuatro años después de la crisis de Lemuria, Iyuri descansa sobre una roca. Su cabello es más largo, casi le cubre los ojos y lo recoge parcialmente en una pequeña coleta. Conserva una cicatriz discreta sobre la ceja izquierda y una gran marca de garras en el pecho, secuelas del enfrentamiento con el espectro. Sigue siendo un joven esbelto y atlético. Su belleza no ha menguado con los años: se sugiere expresamente que está incluso más hermoso que a los diecinueve.
+En la escena situada en una colina frente a Phardazul, cuatro años después de la crisis de Lemuria, Iyuri descansa sobre una roca. Su cabello es más largo, casi le cubre los ojos y lo recoge parcialmente en una pequeña coleta. Conserva una cicatriz discreta sobre la ceja izquierda y una gran marca de garras en el pecho, secuelas del enfrentamiento con el espectro. Sigue siendo un joven esbelto y atlético. Su belleza no ha menguado con los años: se sugiere expresamente que está incluso más hermoso que a los diecinueve.
 
 Lleva Lazeroth, espada de su padre, sujeta al cinto, y pequeñas dagas dispuestas sobre el pecho. El hecho de portar Lazeroth cuatro años después es un dato afirmado por la escena; no debe inferirse sin más que Fhilippo se la cedió formalmente ni cuándo ocurrió tal cosa.
 3.3. Carácter estable
@@ -940,7 +940,7 @@ Flemmengard, Veleskaria y Sindria son reinos del entorno septentrional de Gherin
 
 La Guardia Real cumple funciones de autoridad y seguridad propias de cada reino; un guardia de Flemmengard no puede extender sin más su jurisdicción a Veleskaria. Por esa razón Oskar acompaña a Iyuri hasta las Puertas Rojas, pero no puede atravesarlas como si siguiera operando en su propio territorio.
 
-Gran Phardazul es la capital de Flemmengard. En la escena situada cuatro años después del rescate de Lemuria, Iyuri la contempla desde una colina. Existe una canción popular que exagera su imagen como ciudad herética sobre ríos de lava, relacionada en la canción con Leandrin Rheiner y su proclamación como emperatriz del mundo. Oskar rechaza la canción por mentirosa. No debe utilizarse la letra como descripción objetiva de la ciudad.
+Askenburg fue la capital original de Flemmengard y quedó destruida durante las Guerras Místicas. Phardazul es la capital posterior y vigente; la fecha del traslado, los responsables y las circunstancias exactas de la destrucción permanecen reservados. En la escena situada cuatro años después del rescate de Lemuria, Iyuri contempla Phardazul desde una colina. Existe una canción popular que exagera su imagen como ciudad herética sobre ríos de lava, relacionada en la canción con Leandrin Rheiner y su proclamación como emperatriz del mundo. Oskar rechaza la canción por mentirosa. No debe utilizarse la letra como descripción objetiva de la ciudad.
 6.3. Sturmgard, destino del epílogo
 Sturmgard, reino de la Tormenta, es un archipiélago de fiordos helados, acantilados e islas castigadas por ventiscas; capital Nordvik. Sus habitantes son conocidos como los Sangre de Hierro y mantienen organizaciones basadas en clanes. Pesca, ganadería de altura, una forja limitada, supervivencia, saqueo y pillaje son elementos de su economía. Veneran a Vitdrakiris, protector mítico de las tormentas. Gobierna la Casa Fridvar, y el título del soberano es Reikar de la Tormenta; su nombre individual no se ha fijado aquí.
 
@@ -1130,16 +1130,16 @@ Todos los reinos del Imperio tienen unidades llamadas popularmente «Cuervos Gri
 Los Cuervos Grises de Lemuria que intervienen en la mansión están representados por Nimri Jhamali, Tuk Neyzeh y Benji Perjhan, con Nimri como superior en rango. La existencia de la unidad en todos los reinos no significa que en cada reino haya siempre la misma dotación de especialistas ni que Nimri tenga jurisdicción por encima de todas las Guardias Reales.
 
 Su intervención muestra trabajo complementario: protección física y contención, atención inmediata de heridas, rescate o estabilización mental en el Santuario del Alma y neutralización del espectro y de la corrupción del entorno. No se ha establecido una doctrina reglamentaria exacta que obligue a asignar siempre esas mismas funciones a cada don.
-#### 12. Salto de cuatro años: la colina ante Gran Phardazul
+#### 12. Salto de cuatro años: la colina ante Phardazul
 12.1. Escenario y transformación de Iyuri
-La narración se desplaza cuatro años después del rescate. Iyuri tiene veintitrés años y Oskar aproximadamente veintidós. En una colina frente a Gran Phardazul, capital de Flemmengard, Iyuri descansa sobre una roca. Tiene el cabello largo, casi cubriéndole los ojos, recogido en parte en una pequeña coleta. Conserva la cicatriz sobre la ceja izquierda y la gran marca de garras en el pecho. Su cuerpo sigue siendo esbelto y atlético; ha ganado incluso atractivo con la edad. Lleva Lazeroth al cinto y pequeñas dagas sobre el pecho.
+La narración se desplaza cuatro años después del rescate. Iyuri tiene veintitrés años y Oskar aproximadamente veintidós. En una colina frente a Phardazul, capital de Flemmengard, Iyuri descansa sobre una roca. Tiene el cabello largo, casi cubriéndole los ojos, recogido en parte en una pequeña coleta. Conserva la cicatriz sobre la ceja izquierda y la gran marca de garras en el pecho. Su cuerpo sigue siendo esbelto y atlético; ha ganado incluso atractivo con la edad. Lleva Lazeroth al cinto y pequeñas dagas sobre el pecho.
 
 Junto a él o a su espalda aparece Oskar Rheiner, con una hermosa armadura metálica brillante. Ese día se celebrará su boda con Lya Khan, hermana de Iyuri.
 12.2. La conversación y la canción de Flemmengard
 Oskar rompe el silencio:
 —Pensé que no vendrías. Me alegro de que estés aquí.
 
-Iyuri responde que siempre quiso contemplar aquella ciudad y evoca una canción sobre Gran Phardazul, el reino de las quimeras, la ciudad donde Leandrin Rheiner se proclamó emperatriz del mundo: una supuesta ciudad herética sobre ríos de lava donde los hombres se cubren el rostro de ceniza y las mujeres tienen lenguas de serpiente. La canción es una pieza exagerada y no una fuente geográfica fiable.
+Iyuri responde que siempre quiso contemplar aquella ciudad y evoca una canción sobre Phardazul, el reino de las quimeras, la ciudad donde Leandrin Rheiner se proclamó emperatriz del mundo: una supuesta ciudad herética sobre ríos de lava donde los hombres se cubren el rostro de ceniza y las mujeres tienen lenguas de serpiente. La canción es una pieza exagerada y no una fuente geográfica fiable.
 
 Oskar exclama:
 —Odio esa puta canción. No tiene nada de verdad.
@@ -1183,7 +1183,7 @@ La escena cierra el arco presentado aquí: Iyuri, que huyó a los catorce años 
 | 16–19 | 15–18 | Tres años de correspondencia mientras Iyuri se forma para obtener certificación Maeggi. |
 | 19 | 18 | Reencuentro; escolta de Essio, Tocado por la Sombra; Santuario del Alma y primer beso; Iyuri vuelve a Lemuria. |
 | 19 | 18 | Incidente de la mansión Khan, rescate de la familia, salto con dos acompañantes, intervención de Cuervos Grises. |
-| 23 | 22 | Cuatro años después, Iyuri se despide de Oskar frente a Gran Phardazul el día de su boda con Lya; regresa a su barco y zarpa hacia Sturmgard. |
+| 23 | 22 | Cuatro años después, Iyuri se despide de Oskar frente a Phardazul el día de su boda con Lya; regresa a su barco y zarpa hacia Sturmgard. |
 
 
 Precisiones: la edad de Oskar a los catorce de Iyuri se deduce únicamente de la diferencia de un año; ese momento no forma parte de una escena propia. No se ha fijado la edad de Lya, la de Greta ni fechas absolutas de calendario imperial. La condición de aprendiz Maeggi de Iyuri a los diecinueve no demuestra automáticamente que sea ya profesional certificado a los veintitrés.
@@ -1222,7 +1222,7 @@ Rescate
 - Tuk informa que otro equipo está en la playa con Marwha y Lya.
 Despedida y epílogo
 - Oskar: «Pensé que no vendrías. Me alegro de que estés aquí».
-- Oskar sobre la canción de Gran Phardazul: «Odio esa puta canción. No tiene nada de verdad».
+- Oskar sobre la canción de Phardazul: «Odio esa puta canción. No tiene nada de verdad».
 - Iyuri: «Las tradiciones son importantes».
 - Oskar: «Si tú me lo pides, yo…».
 - Iyuri: «¿Qué, Oskar? ¿Huiríamos juntos? ¿Por el mundo?».
