@@ -13,7 +13,7 @@ todos los puntos de la auditoría en orden, incluidos los previamente tratados.
 Las decisiones registradas a continuación se conservan como antecedentes
 autorales; ninguna se considera confirmada en esta nueva pasada hasta que el
 autor revise y confirme, modifique o sustituya cada punto. El proceso se
-encuentra actualmente en **AU-07, pendiente de revisión**. AU-12 se revisará
+encuentra actualmente en **AU-09, pendiente de revisión**. AU-12 se revisará
 al final, después de todos los puntos previamente planificados.
 
 Se presentará un solo punto por turno, con su contraste documental y opciones.
@@ -206,6 +206,81 @@ Nimri sin completar su mecanismo, y reservar trámites, excepciones y métodos d
 curación no definidos. La revisión no revela otra contradicción que impida el
 cierre; el volcamiento sigue sujeto a autorización independiente.
 
+### R-05 / AU-07. Guardias y Cuervos — confirmado y cerrado con reservas
+
+Todos los territorios del Imperio cuentan con una **Guardia Real**, fuerza de
+seguridad interior de su respectiva jurisdicción. Esto incluye los doce reinos,
+los principados y protectorados, la Ciudad Libre de Khalos y los demás
+territorios imperiales correspondientes. La denominación se aplica con
+independencia de la autoridad gobernante: Khalos tiene Guardia Real.
+
+La **Guardia Imperial** es un cuerpo diferenciado cuya jurisdicción comprende
+todo el Imperio, incluidos los reinos, principados, protectorados, Khalos y
+demás territorios imperiales. La pertenencia institucional y el ámbito
+jurisdiccional distinguen a la Guardia Imperial de las Guardias Reales. Quedan
+reservadas las jerarquías de mando, subordinaciones, intervenciones conjuntas
+y demás mecanismos administrativos no definidos.
+
+Ambos tipos de guardia disponen de unidades especializadas; algunas
+especialidades existen en ambos cuerpos y otras pueden ser propias de uno de
+ellos. Sus unidades no tienen necesariamente iguales nombres, estructuras ni
+funciones. Los **Cuervos Grises**, también llamados **Cuervos**, son unidades
+especializadas en combatir amenazas relacionadas con la Sombra y existen en
+las Guardias Reales y en la Guardia Imperial.
+
+La población emplea **cuervo del rey** para un integrante de una unidad contra
+la Sombra de una Guardia Real, y **cuervo del emperador** para uno de la Guardia
+Imperial. De igual modo, llama **guardia del rey** a un integrante de una
+Guardia Real y **guardia del emperador** a uno de la Guardia Imperial. Son
+denominaciones coloquiales de pertenencia, no rangos militares ni prueba de
+una monarquía local.
+
+Las Guardias Reales y la Guardia Imperial son instituciones de seguridad,
+distintas de los ejércitos. Sus integrantes pueden combatir, incluso durante
+una guerra, sin que ello convierta automáticamente sus cuerpos en unidades del
+ejército. No se establecen reglas adicionales de movilización, mando o relación
+con las fuerzas armadas.
+
+Lemuria conserva su condición de principado y protectorado y tiene una Guardia
+Real propia. Nimri Jhamali, Tuk Neyzeh y Benji Perjhan pertenecen a sus Cuervos
+Grises y participan en el rescate de Iyuri; se conserva la respuesta del otro
+equipo en la playa. El uniforme reglamentario y el origen del apodo, así como
+las demás circunstancias del rescate documentadas en la acumulación, mantienen
+su trazabilidad. Las nuevas jurisdicciones se tendrán en cuenta en AU-08 sin
+anticipar la situación particular de Oskar.
+
+**Dependencias para el plan:** revisar el marco imperial
+`docs/mundo/stigria/dragma/dragma.md`, los índices y las fichas territoriales,
+incluidas Khalos y la futura Lemuria; determinar los destinos de las guardias y
+los Cuervos y sus referencias cruzadas. En Esteria, preservar las funciones,
+autoridad y garantías ya establecidas para la Guardia Amarilla en
+`docs/organizaciones/guardia-amarilla.md` y
+`docs/mundo/stigria/dragma/esteria/esteria.md`; la relación organizativa
+concreta con la Guardia Real queda reservada. No se identifica una
+incompatibilidad que obligue a resolverla para cerrar AU-07. La transferencia
+requiere autorización independiente.
+
+### R-06 / AU-08. Despedida en las Puertas Carmesí — cerrado con reservas
+
+Oskar acompaña a Iyuri por afecto personal hasta las **Puertas Carmesí**, en la
+triple frontera de Flammengard, Veleskaria y Eisengard. Allí se abrazan y se
+despiden: Oskar regresa para continuar sus responsabilidades con la Guardia
+Real de Flammengard, mientras Iyuri sigue su camino hacia Veleskaria para su
+formación Maeggi. El acompañamiento es personal y no una misión oficial. La
+separación responde a sus obligaciones y proyectos respectivos. Se conserva la
+correspondencia de tres años.
+
+Tres años después, Oskar participa en la escolta de Essio Galenor como parte de
+una misión oficial. Las autorizaciones y mecanismos de coordinación entre
+jurisdicciones quedan reservados. La decisión no requiere fijar una tarea
+concreta que lo obligara a regresar tras la primera despedida. Se mantiene la
+distinción entre el libre tránsito ciudadano y las jurisdicciones de la Guardia
+Real y la Guardia Imperial establecidas en AU-07.
+
+La revisión no identifica otra contradicción que impida cerrar AU-08. El plan
+identificará los destinos de la escena, de la escolta y de las correcciones de
+nombre y ubicación de las Puertas, sin anticipar autorizaciones concretas.
+
 ### R-07. Nomenclatura de Flammengard — decisión general cerrada
 
 El nombre correcto y definitivo del reino es **Flammengard**. Históricamente,
@@ -278,15 +353,47 @@ futura. La comprobación final deberá repetirse al preparar y ejecutar el plan.
   el plan sin considerarlos fuentes de canon ni modificarlos automáticamente.
   `protoversiones/` está sujeto a su barrera de solo lectura.
 
-## Revisión actual: AU-07, Guardia Real y Cuervos Grises
+## Decisiones geográficas de AU-08 y dependencias para el plan
 
-La acumulación sitúa equipos de Cuervos Grises en los reinos y a Nimri, Tuk y
-Benji en la Guardia Real de Lemuria. La isla es un principado y protectorado,
-no uno de los doce reinos, conforme a `docs/mundo/stigria/dragma/dragma.md` y
-`docs/mundo/stigria/dragma/ishbaal/ishbaal.md`. Su guardia y sus equipos no
-están definidos en el canon. La denominación, el alcance territorial de los
-equipos y su relación institucional se someten a revisión con el antecedente
-autoral R-05; no se alteran el rescate ni las funciones narradas por inferencia.
+**Decisiones autorales confirmadas:** el nombre es **Puertas Carmesí** y se
+sitúan en la **triple frontera entre Flammengard, Veleskaria y Eisengard**.
+La denominación y la ubicación se aplican retrospectivamente. Se conservan las
+correspondencias históricas entre Flammen y Flammengard, Dresk y Veleskaria,
+y Eisen y Eisengard, sin reabrirlas. Estas decisiones tienen precedencia sobre
+las formulaciones incompatibles de los documentos de trabajo.
+
+La acumulación sitúa la despedida en las Puertas Carmesí y, tres años después, a
+Oskar escoltando a Essio hacia Veleskaria y Sindria. `docs/mundo/stigria/gherin.md`
+y `docs/mundo/stigria/dragma/veleskaria/veleskaria.md` sitúan las Puertas en
+el paso de Dresk; la triple frontera fue fijada en esta revisión. El artículo V de
+`docs/mundo/stigria/dragma/concordia.md` garantiza el libre tránsito ciudadano
+entre los doce reinos. AU-07 distingue las jurisdicciones de las Guardias
+Reales y la Guardia Imperial. El motivo de la despedida y la escolta posterior
+quedaron resueltos en R-06.
+
+**Dependencias para el futuro plan:** revisar `docs/mundo/stigria/gherin.md`,
+`docs/mundo/stigria/dragma/veleskaria/veleskaria.md`,
+`docs/mundo/stigria/dragma/esteria/esteria.md`,
+`docs/mundo/stigria/foso-de-la-calamidad.md`,
+`docs/mundo/stigria/edad-de-la-tirania.md`, `docs/entidades/lamya.md` y
+`docs/personajes/rudgar-valgard.md`, además de índices y referencias pertinentes.
+La corrección de nomenclatura y la ubicación política se incorporarán al plan;
+los apuntes históricos de `docs/notas.md` se tratarán como registro editorial.
+No se modifica canon hasta la autorización de volcamiento.
+
+## Revisión actual: AU-09, armas místicas y su fabricación
+
+La acumulación atribuye muchas armas místicas a esclavos de tiempos
+preimperiales y recoge condiciones de uso diversas; conserva el caso de
+Lazeroth, su herencia y el efecto de la plegaria sin definir el mecanismo.
+`docs/mundo/stigria/artefactos-misticos.md` identifica Rugido Mordaz como el
+primer artefacto místico documentado **en la historia del Raikim**. Ese alcance
+no demuestra que fuera el primero de toda la historia.
+
+`docs/entidades/portadores.md` define las Kantras como ayudas mentales para una
+maestría. Las condiciones de un artefacto no deben confundirse con una regla
+obligatoria para activar un don. La integración de AU-09 queda pendiente de
+revisión autoral.
 
 ## Antecedentes autorales de la revisión anterior
 
@@ -320,7 +427,7 @@ En el plan se revisará el alcance temporal de cada dato al proponer su destino;
 si se detecta una contradicción concreta de conocimiento que no pueda
 reservarse, se presentará para decisión humana.
 
-### R-05 / AU-07. Guardia Real de Lemuria y Cuervos Grises — pendiente de revisión
+### Antecedente R-05 / AU-07. Guardia Real de Lemuria y Cuervos Grises — confirmado y ampliado
 
 **Guardia Real** es la denominación empleada para las fuerzas de seguridad
 interna de los territorios imperiales. El Principado de Lemuria tiene su
@@ -330,9 +437,9 @@ de Lemuria se conserva. Nimri, Tuk y Benji integran su equipo de rescate y se
 conservan la respuesta a la alerta y la intervención del otro equipo en la
 playa. Los detalles institucionales no establecidos permanecen reservados.
 
-### R-06 / AU-08. Puertas Rojas y jurisdicción — pendiente de revisión
+### Antecedente R-06 / AU-08. Puertas Carmesí y jurisdicción — confirmado y precisado
 
-Oskar acompaña a Iyuri hasta las Puertas Rojas por decisión personal, movido
+Oskar acompaña a Iyuri hasta las Puertas Carmesí por decisión personal, movido
 por el afecto que siente hacia él. Ambos eligen despedirse allí; Oskar debe
 regresar a Flemmengard para cumplir sus obligaciones con la Guardia Real y no
 puede continuar acompañándolo indefinidamente. Se conserva la correspondencia
@@ -343,13 +450,12 @@ reinos. La autoridad de un agente de la Guardia Real no se extiende
 automáticamente fuera de su territorio. Tres años después, Oskar participa en
 la escolta de Essio en cumplimiento de una misión oficial autorizada; los
 detalles administrativos de coordinación entre reinos quedan reservados. La
-posición de las Puertas como frontera política no se establece.
+ubicación política corresponde a la triple frontera fijada en la revisión actual.
 
 La decisión es compatible con `docs/mundo/stigria/dragma/concordia.md`, art. V,
 y con la ubicación de las Puertas en `docs/mundo/stigria/gherin.md` y
-`docs/mundo/stigria/dragma/veleskaria/veleskaria.md`. La acumulación deberá
-leerse conforme a esta resolución en lugar de atribuir la despedida a una
-prohibición general de tránsito. No se identifica una contradicción nueva.
+`docs/mundo/stigria/dragma/veleskaria/veleskaria.md`. La formulación final y
+las reservas de la revisión actual figuran en R-06.
 
 ## Clasificación anterior de los demás nudos
 

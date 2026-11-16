@@ -138,7 +138,7 @@ comunidad política con voluntad propia.
 Incontables Portadores del Verano son separados de sus familias y enviados al
 norte para ser entrenados como armas, igual que antes lo fueron los Maegis
 sangheskios. La campaña de limpieza de Grimmen fue declarada exitosa, pero los
-Grimmen nunca desaparecieron de Weissen y Dresk. Las Puertas Rojas quedan por
+Grimmen nunca desaparecieron de Weissen y Dresk. Las Puertas Carmesí quedan por
 ello cerradas de manera permanente: quien entra al norte desde el sur no puede
 volver a salir.
 
@@ -597,7 +597,7 @@ motivos ni sus memorias particulares.
 - **Función histórica:** transformar el legado político del Edicto del Amanecer
   en la primera ruptura armada extensa contra el Raikim.
 - **Verdad velada acordada en la acumulación:** Lamya, el primer Grimmen visto
-  al sur de las Puertas Rojas en siglos, fue llevada desde el Grimm por un
+  al sur de las Puertas Carmesí en siglos, fue llevada desde el Grimm por un
   Emisario de la Ruina. La causa de su aparición es desconocida para quienes
   padecen los ataques y no debe presentarse como conocimiento público dentro del
   mundo.
@@ -613,19 +613,19 @@ motivos ni sus memorias particulares.
   hacia Dürr y aterroriza las Costas del Verano.
 - **Orden de Grimar:** el Raik ordena contener al Grimmen en Dürr incluso si
   eso cuesta la vida de los Hijos del Sol, e impide que la población abandone el
-  territorio. Retiene al norte de las Puertas Rojas a más de veinte batallones
+  territorio. Retiene al norte de las Puertas Carmesí a más de veinte batallones
   de cazadores de Grimmen y Maegis de Veleskgard —Sangre de Hierro Carmesí y
   Portadores del Verano entrenados como armas— por miedo a que su cruce permita
   una invasión mayor.
 - **Fuerza enviada a Dürr:** en lugar de liberar a los especialistas, Grimar
   ordena a gente de la Bruma entrar en el Verano para cazar a Lamya.
 - **Desobediencia y muerte de Lamya:** los batallones del norte rompen las
-  Puertas Rojas, se unen a los brumenses y a los supervivientes de Lamya en
+  Puertas Carmesí, se unen a los brumenses y a los supervivientes de Lamya en
   Dürr, y dan muerte al Grimmen. La desobediencia demuestra que el Raikim había
   preferido conservar su frontera cerrada antes que proteger a las personas al
   sur de ella.
 - **Represalia:** las fuerzas leales toman Veleskgard, apresan a su Señor del
-  Dominio en su propio castillo y restauran las Puertas Rojas. El Señor no
+  Dominio en su propio castillo y restauran las Puertas Carmesí. El Señor no
   muere: permanece cautivo. Su identidad y las condiciones precisas de su
   cautiverio quedan pendientes.
 - **Primer alzamiento:** los cazadores del norte, los brumenses que combatieron
@@ -637,7 +637,7 @@ motivos ni sus memorias particulares.
 - **Quiebre del Bloque de Hierro:** la guerra se estabiliza en dos bloques. El
   **Bloque del Verano** reúne la totalidad de Dürr y Unland bajo control rebelde;
   el **Bloque de Hierro** conserva el norte y el Valle Central. Con Veleskgard
-  tomada, su Señor cautivo y las Puertas Rojas restauradas, el norte queda
+  tomada, su Señor cautivo y las Puertas Carmesí restauradas, el norte queda
   aislado por el momento.
 - **Punto muerto inicial:** el objetivo inicial de la rebelión no es conquistar
   todo el Gherin, sino independizar el sur y separarlo del Bloque de Hierro. El
@@ -812,7 +812,7 @@ esa preferencia no es herencia automática ni obliga a la asamblea.
 - Portadores del Verano y Maegis de la Sangre de Hierro Carmesí son personas de
   la misma condición: no están obligados a combatir, y quienes lo hagan por
   voluntad propia servirán como soldados bajo cuidado imperial, nunca esclavos.
-- Los cazadores del norte pueden viajar al sur. Las Puertas Rojas solo se
+- Los cazadores del norte pueden viajar al sur. Las Puertas Carmesí solo se
   cerrarán con venia de los reyes del norte y ante necesidad extrema.
 - El libre tránsito entre reinos queda garantizado; Khalos y Esteria conservan
   su autonomía y jurisdicción.

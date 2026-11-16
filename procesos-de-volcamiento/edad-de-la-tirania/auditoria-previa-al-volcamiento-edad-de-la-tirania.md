@@ -319,9 +319,9 @@ Lamya atraviesa el Foso o el mar y qué puede hacer un Emisario para transportar
 Esta decisión no puede quedar implícita porque cerraría un misterio metafísico
 vigente.
 
-### N-14. Puertas Rojas: ubicación, función y cronología
+### N-14. Puertas Carmesí: ubicación, función y cronología
 
-**Acumulación:** las Puertas Rojas separan norte y sur, se cierran
+**Acumulación:** las Puertas Carmesí separan norte y sur, se cierran
 permanentemente, son rotas por más de veinte batallones y luego restauradas
 ([acumulación:140-145](acumulacion-edad-de-la-tirania.md),
 [616-643](acumulacion-edad-de-la-tirania.md)).
@@ -337,7 +337,7 @@ relacionan con Veleskgard, Sindgard, Dresk y Weissen.
 ### N-15. Primer Grimmen al sur «en siglos»
 
 La acumulación presenta a Lamya como el primer Grimmen visto al sur de las
-Puertas Rojas en siglos. El canon solo afirma que los Grimmen disminuyeron y que
+Puertas Carmesí en siglos. El canon solo afirma que los Grimmen disminuyeron y que
 algunos permanecían en el Gherin; no fija una ausencia total ni una frontera de
 avistamientos (`docs/entidades/grimmen.md:13-21`;
 `docs/mundo/stigria/roshdom.md:12-17`).
@@ -791,7 +791,7 @@ decisión estructural.
 1. **Modelo político del Raikim:** N-02.
 2. **Castigos del Verano y la Bruma:** N-03.
 3. **Composición definitiva de los bloques:** N-04 y N-19.
-4. **Paso del Oriente, Puertas Rojas y Lamya:** N-11 a N-15.
+4. **Paso del Oriente, Puertas Carmesí y Lamya:** N-11 a N-15.
 5. **Cronología e identidades del frente norte:** N-16 a N-18.
 6. **Destino de Grimar y de toda la sangre Valgard:** N-20 a N-23.
 7. **Núcleo de Suntarys y estatuto del Edicto:** N-24, N-25, N-30, N-32 y N-33.
@@ -933,7 +933,7 @@ disposición geográfica vigente del Norte.
 
 **Decisión necesaria:** fijar si la capital comienza junto a Eldengard o sobre
 sus ruinas, y producir una única relación espacial entre Weissen, Dresk, Dorn,
-el Espolón de Dunkel y las Puertas Rojas.
+el Espolón de Dunkel y las Puertas Carmesí.
 
 ### S-13. Materias que deben permanecer fuera de este volcamiento
 

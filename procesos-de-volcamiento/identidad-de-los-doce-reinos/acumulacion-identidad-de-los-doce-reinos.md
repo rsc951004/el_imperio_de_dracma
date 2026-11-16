@@ -147,7 +147,7 @@ tierra.
 
 ### A-10. Contexto de Veleskaria
 
-Veleskaria es la guardiana de las Puertas Rojas. Ocupa Dresk, el único corredor
+Veleskaria es la guardiana de las Puertas Carmesí. Ocupa Dresk, el único corredor
 terrestre que permite entrar o salir del Norte. Su identidad nace de custodiar
 las dos puertas levantadas entre el Espolón de Dunkel y el cordón de Dorn.
 
@@ -160,7 +160,7 @@ Existen escuelas de maeggis en otros territorios del Imperio, especialmente en
 el Ocaso. Aun así, en la época de Sandor, Veleskaria es por excelencia el reino
 místico de Dragma.
 
-La forma breve **Carmesí** representa las Puertas Rojas, la vigilancia del paso
+La forma breve **Carmesí** representa las Puertas Carmesí, la vigilancia del paso
 y el precio histórico de proteger el acceso al Norte.
 
 ### A-11. Contexto de Zephyrya

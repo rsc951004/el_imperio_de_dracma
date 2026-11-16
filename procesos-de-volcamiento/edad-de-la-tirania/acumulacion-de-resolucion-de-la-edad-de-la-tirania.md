@@ -409,21 +409,21 @@ la entrada del Rey Podrido. El recorrido de Lamya se mantiene dentro de Stigria.
 - evitar que la descripción de Lamya resuelva por implicación otros misterios
   sobre el Foso, el mar o los poderes de los Emisarios.
 
-## N-14. Puertas Rojas del Paso de Dresk: ubicación, función y control
+## N-14. Puertas Carmesí del Paso de Dresk: ubicación, función y control
 
 **Decisión aprobada:** el Norte está formado por Dresk y Weissen. Weissen no
 ofrece acceso hacia el sur porque el cordón montañoso de Dorn lo separa del
 resto del Gherin. El único acceso terrestre al Norte es a través de Dresk: para
 entrar o salir se debe atravesar una planicie situada entre el Espolón de
 Dunkel y Dorn. En ese paso, al pie de ambas formaciones, se alzan las dos
-gigantescas Puertas Rojas del Paso de Dresk, que bloquean físicamente el
+gigantescas Puertas Carmesí del Paso de Dresk, que bloquean físicamente el
 tránsito de un lado al otro.
 
 **Control de origen:** los sangheskianos del Dominio Carmesí controlaban las
-Puertas Rojas del Paso de Dresk. Su custodia pasa posteriormente al Raikim,
+Puertas Carmesí del Paso de Dresk. Su custodia pasa posteriormente al Raikim,
 que las administra mediante el Raik y su guardia.
 
-**Régimen del Raikim:** durante el Raikim, las Puertas Rojas del Paso de Dresk
+**Régimen del Raikim:** durante el Raikim, las Puertas Carmesí del Paso de Dresk
 permanecen normalmente cerradas y solo se abren con autorización del Raik. El
 aislamiento de Dresk responde al temor de que los Grimmen avancen desde el
 norte hacia el sur.
@@ -433,7 +433,7 @@ destruidas. Durante la guerra cambia en ocasiones el bando que controla su
 custodia. En la Era Imperial permanecen abiertas.
 
 **Resolución del conflicto:** la guerra no requiere la rotura ni la posterior
-reconstrucción de las Puertas Rojas del Paso de Dresk; requiere la toma de su control y la
+reconstrucción de las Puertas Carmesí del Paso de Dresk; requiere la toma de su control y la
 capacidad de abrirlas o mantenerlas cerradas.
 
 **Consecuencias que deberán resolverse antes del volcamiento:**
@@ -450,7 +450,7 @@ capacidad de abrirlas o mantenerlas cerradas.
 ## N-15. Lamya y los Grimmen al sur del Paso de Dresk
 
 **Decisión aprobada:** Lamya no es el primer Grimmen presente al sur de las
-Puertas Rojas del Paso de Dresk. Es el primer Grimmen que, en siglos, ataca
+Puertas Carmesí del Paso de Dresk. Es el primer Grimmen que, en siglos, ataca
 abiertamente un lugar, y el primero de una proporción semejante a la suya que
 irrumpe en el territorio.
 
@@ -1334,7 +1334,7 @@ Eldengard ancestral. El Palacio Imperial queda incrustado en la roca de Dragma.
 El Norte comprende Dresk y Weissen. Weissen carece de una salida directa hacia
 el sur, pues Dorn lo separa del resto del Gherin; el único acceso terrestre al
 Norte pasa por Dresk. Para entrar o salir de Dresk se cruza la planicie formada
-entre el Espolón de Dunkel y el cordón de Dorn. Las Puertas Rojas del Paso de
+entre el Espolón de Dunkel y el cordón de Dorn. Las Puertas Carmesí del Paso de
 Dresk se apoyan en ambas formaciones y bloquean físicamente ese paso.
 
 ### S-13. Historia remota de Astria y Erebia
@@ -1440,7 +1440,7 @@ marco temporal, institucional y territorial que condiciona esos documentos.
 |---|---|---|---|
 | Reescribir | `docs/mundo/stigria/dragma/esteria/esteria.md` | N-11, N-12, N-14, N-17, S-08, S-12 y S-21 | Ajustar la promesa hecha a Raban Frosthain, la cadena que llega a Drazar, la situación del Señor del Faro y la Guardia Amarilla, sin resolver el misterio de abrir Esteria. |
 | Reescribir | `docs/mundo/stigria/dragma/sindria/sindria.md` | N-17, N-36, S-08, S-11, S-16 y S-21 | Eliminar el culto público al Dios Negro, conservar la reclamación sobre Esteria y reflejar su relación territorial con Weissen. La Grien Tábura solo figurará en su alcance clandestino. |
-| Modificar | `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`, `docs/mundo/stigria/gherin.md` y `docs/mundo/stigria/foso-de-la-calamidad.md` | N-11, N-14, N-17 y S-12 | Fijar la única relación espacial entre Dresk, Weissen, Dorn, el Espolón de Dunkel y las Puertas Rojas del Paso de Dresk, y conservar sin resolver el misterio del Foso. |
+| Modificar | `docs/mundo/stigria/dragma/veleskaria/veleskaria.md`, `docs/mundo/stigria/gherin.md` y `docs/mundo/stigria/foso-de-la-calamidad.md` | N-11, N-14, N-17 y S-12 | Fijar la única relación espacial entre Dresk, Weissen, Dorn, el Espolón de Dunkel y las Puertas Carmesí del Paso de Dresk, y conservar sin resolver el misterio del Foso. |
 | Reescribir | `docs/mundo/stigria/dragma/sturmgard/sturmgard.md` | N-04, N-09, N-19 y S-18 a S-20 | Incorporar la Tormenta como leal oficialmente al Raikim con fractura interna tardía, la Voluntad de la Sal y la Voluntad del Hierro, la tradición cultural de Vitdrakiris y la precariedad de la pesca. |
 | Modificar | `docs/mundo/stigria/dragma/lysarya/lysarya.md`, `docs/mundo/stigria/dragma/zephyrya/zephyrya.md` y `docs/mundo/stigria/dragma/vesperya/vesperya.md` | N-25, N-39, S-01, S-05 y S-15 | Integrar solo los antecedentes aprobados de Suntarys y Lamya, los señoríos del Hierro y las coronas fundadoras. La sustitución de las casas presentes y las historias particulares del Verano quedarán para el bloque de casas y personajes. |
 | Crear | `docs/taburas/grim-tabura.md` | S-15 | Ficha mínima de la Tábura independiente dedicada a la caza de Grimmen, sin desarrollar métodos ni estructura. |
@@ -1505,7 +1505,7 @@ con el nivel de síntesis propio del asentamiento.
 | Rechazo noble de la Triple Corona y responsabilidad de Loryan | Ficha de Loryan y marco de la Edad de la Tiranía. |
 | Cadena, confirmación y consecuencia de la masacre Mormund | Ficha de Giselra y marco de la Edad de la Tiranía. |
 | Extensión de Suntarys, costa y custodia de sus ruinas | Fichas de Suntarys y Alessya. |
-| Custodia histórica de las Puertas Rojas y cautiverio de Valmir | Ficha de Veleskaria. |
+| Custodia histórica de las Puertas Carmesí y cautiverio de Valmir | Ficha de Veleskaria. |
 | Clanes de Sturmgard y continuidad bajo la Concordia | Ficha de Sturmgard. |
 | Sentido de la decisión de Zorven y situación previa de Sindgard | Ficha de Esteria. |
 | Ubicación y confirmación posterior de la masacre Mormund | Ficha de Giselra. |

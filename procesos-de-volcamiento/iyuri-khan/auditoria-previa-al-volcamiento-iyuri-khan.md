@@ -150,6 +150,11 @@ por temas y sus referencias se prepararán para el volcamiento autorizado.
 
 ### AU-07. Cuervos Grises, reinos y protectorado
 
+**Estado de la revisión actual:** cerrado con reservas mediante R-05. Se
+confirman las Guardias Reales, la Guardia Imperial y los Cuervos conforme a la
+resolución; se preservan las funciones canónicas de la Guardia Amarilla. Su
+relación organizativa concreta queda reservada para el plan.
+
 - **Acumulación:** 11 atribuye un Equipo de Rescate de Emergencias Inmateriales
   a las Guardias Reales de todos los reinos y presenta a Nimri, Tuk y Benji
   como integrantes de la Guardia Real de Lemuria. Su respuesta incluye otro
@@ -164,22 +169,26 @@ por temas y sus referencias se prepararán para el volcamiento autorizado.
   reino. Conservar el rescate y las funciones de cada integrante sin asignar
   estructura ni jurisdicción no decididas.
 
-### AU-08. Puertas Rojas, tránsito y jurisdicción de Oskar
+### AU-08. Puertas Carmesí, tránsito y jurisdicción de Oskar
 
-- **Acumulación:** 6.2 y 9.4 llaman a las Puertas frontera entre Flemmengard y
-  Veleskaria y dicen que Oskar no puede avanzar por ser guardia de un reino;
-  en 9.5–9.6 lo sitúan después escoltando a Essio hacia Veleskaria y Sindria.
+**Estado de la revisión actual:** cerrado con reservas mediante R-06. La primera
+despedida responde a las responsabilidades y proyectos respectivos; las
+autorizaciones y la coordinación de la escolta posterior permanecen reservadas.
+
+- **Acumulación:** 6.2 y 9.4 sitúan la despedida en las Puertas Carmesí; en
+  9.5–9.6 Oskar escolta a Essio hacia Veleskaria y Sindria. El motivo de la
+  despedida y las reservas de la misión se fijan en R-06.
 - **Canon:** `docs/mundo/stigria/gherin.md` y
   `docs/mundo/stigria/dragma/veleskaria/veleskaria.md` ubican las puertas en el
-  acceso a Dresk, entre Dorn y el Espolón de Dunkel; no fijan esa frontera
-  política. `docs/mundo/stigria/dragma/concordia.md`, art. V, establece libre
+  acceso a Dresk, entre Dorn y el Espolón de Dunkel. La decisión autoral fija
+  la triple frontera de Flammengard, Veleskaria y Eisengard.
+  `docs/mundo/stigria/dragma/concordia.md`, art. V, establece libre
   tránsito ciudadano entre los doce reinos. El tránsito personal y el ejercicio
   de autoridad son cuestiones distintas; no se ha establecido una prohibición
   general de cruce por pertenecer a una guardia.
-- **Decisión necesaria:** precisar ubicación política y motivo concreto de la
-  despedida y el alcance de la escolta, sin privar a Oskar del libre tránsito
-  ni suponer jurisdicción extraterritorial automática. La despedida y la
-  misión posterior son hechos de la acumulación que deben preservarse.
+- **Tratamiento resuelto:** conservar el libre tránsito y las jurisdicciones
+  correspondientes; la misión posterior es oficial y sus autorizaciones y
+  mecanismos de coordinación permanecen reservados.
 
 ### AU-09. Armas místicas y cronología de su fabricación — integración
 
@@ -394,7 +403,7 @@ impone fenotipos; la propuesta visual de Iyuri sigue siendo provisional.
 | Armas y entidades: 5, 8 | `artefactos-misticos.md`, `inits.md`, `mobius.md`, `ose.md`, `thalmos.md` | AU-03, AU-05, AU-06 y AU-09 |
 | Territorios: 6–7 | Fichas de Vesperya, Flemmengard, Veleskaria, Sindria, Sturmgard, Ishbaal, `gherin.md` y Concordia | AC-01–03; AU-01, AU-02 y AU-08 |
 | Historia sheijad: B-01–B-09, 7 | Culto, protectorado, Guerras Místicas, Orden, `cronologia.md`, `pendientes.md` | Decisiones insulares cerradas; AC-01–02; cronología reservada |
-| Secuencia Iyuri–Oskar y Essio: 9 | Fichas familiares, Mort, Möes, Grim, Sindria y Puertas Rojas | AU-04, AU-08, AU-10; RN-01 y RN-04 |
+| Secuencia Iyuri–Oskar y Essio: 9 | Fichas familiares, Mort, Möes, Grim, Sindria y Puertas Carmesí | AU-04, AU-08, AU-10; RN-01 y RN-04 |
 | Mansión y rescate: 10–11, 15, 17 | Mobius, vínculos, organizaciones, entidades, régimen territorial | AU-05–07 y AU-11; RN-03; conservar atribución de diálogos |
 | Colina, boda y viaje: 12–14, 18 | Flemmengard, Leandrin, familia velada y Sturmgard | AU-01, AU-02, AU-04; RN-04 |
 | Reservas: 16 y nudos anteriores | `docs/pendientes.md` y documentación por decidir en el plan | Mantener reservas reales; actualizar preguntas ya respondidas |
