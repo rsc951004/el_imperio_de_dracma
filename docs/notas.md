@@ -2,6 +2,18 @@
 
 ## Revisiones editoriales
 
+### Rendard y Gin en Upyria (2026-11-16)
+
+Ampliada la escena del lupanar con la fantasía privada de Rendard sobre su
+futuro y su propuesta de ayudar a Gin y Beku a buscar oportunidades en
+Occidente. La evolución de su relación permanece abierta.
+
+### Gin y Rendard en Upyria (2026-11-16)
+
+Identificado como Gin el segundo joven que acompaña a Iyuri en el lupanar.
+Ampliado el intercambio con Rendard; permanecen abiertas la fecha y las
+circunstancias del recuerdo relacionado con la Sombra.
+
 ### Beku y el viaje a Vesperya (2026-11-16)
 
 Añadidos Beku y la continuación de la escena de Upyria. El Calamar Rojo tiene

@@ -595,12 +595,80 @@ debemos irnos. Tenemos asuntos que atender en Vesperya y el viaje es largo.
 Iyuri dejó de besar a Beku. Mantuvo una mano sobre su espalda mientras miraba a
 Rendard.
 
+—No estoy interesado en eso, Ren. Solo en el presente. Gin, quítale la ropa a
+Ren.
+
+—¡Señor!
+
+Iyuri lo miró con absoluta seriedad.
+
+—Ren, deja que Gin te quite la ropa o te juro que no iremos en un año de esta
+tierra maldita, hasta que cada Sombra que exista en este puerto de mierda se
+meta por tu trasero. ¿Sabes lo que pasa cuando uno de nosotros lleva una de
+esas cosas dentro? ¿Lo has visto? No es lindo.
+
+Rendard sostuvo su mirada. Sabía reconocer cuándo su capitán se estaba
+burlando, incluso cuando escogía algo así para hacerlo.
+
+—Señor, por favor.
+
+Gin se acercó a él y posó una mano sobre una correa de la armadura. Se detuvo
+un momento. Rendard miró la mano, después a Gin y, con un suspiro, le permitió
+continuar.
+
+—Solo está empeorando las cosas —dijo el marinero.
+
+Gin sonrió y empezó a soltar los cierres. Para alcanzar una de las correas se
+acomodó sobre él; Rendard giró la cabeza hacia otro lado y el rojo le subió por
+el cuello hasta las mejillas.
+
+Iyuri contempló el resultado con una satisfacción imposible de disimular.
+
+Gin había dejado la armadura a un lado. La ropa de Rendard también había
+acabado por el suelo, salvo los pantalones, cuyos cierres ocupaban ahora al
+joven. Rendard miró por encima de su hombro, hacia la ventana.
+
+¿Qué había hecho mal?
+
+Siempre había querido conocer mundo. Había imaginado viajes, aventuras y
+recuerdos que compartiría algún día con sus camaradas. En algún punto de esos
+viajes, quizá en las Costas del Verano, conocería a un joven hermoso y de buena
+familia, alguien a quien sus padres recibirían con una sonrisa.
+
+Se casarían en un campo verde, rodeados por las dos familias. Después de las
+aventuras encontrarían una casa cerca de la capital y adoptarían a una niña de
+algún orfanato del Valle. Pasarían los inviernos en las Costas Violetas y
+volverían en verano a visitar a sus padres.
+
+Nunca había imaginado que, camino de aquella vida, estaría sentado en un
+lupanar de Upyria mientras un joven desnudo intentaba quitarle los pantalones.
+
+—Señor... ¿señor? ¿Señor Ren?
+
+—¿Sí?
+
+Gin había dejado los cierres y tenía los brazos alrededor de su cuello. Lo
+miraba de cerca, con una inseguridad que Rendard no había advertido antes.
+
+—¿Alguna vez ha estado con alguien como yo? Sé que no soy fino como la gente
+de Occidente, pero le prometo que no estoy enfermo y que me baño todos los días.
+
+Rendard miró a Gin y después a Iyuri.
+
+—Señor Iyuri, quizá Gin y Beku puedan acompañarnos. En Occidente hay buenas
+oportunidades para quien quiera ganarse la vida honestamente.
+
+Los tres estallaron en carcajadas. Rendard los miró sin entender. Iyuri tuvo
+que tomar aire antes de señalar a Gin.
+
+—¡Gin, pequeño bribón! Ya enamoraste a mi pequeño Ren.
+
 La luz le reveló una silla vacía, una palangana y el desorden de la habitación.
 Sus ropas no estaban a la vista.
 
-Iyuri asintió. Ya podía oír, por encima de las voces del lupanar, el puerto que
-se había puesto en marcha. Buscó sus dagas bajo la almohada y junto al colchón;
-no encontró ninguna. Pensó también en Lazeroth.
+Ya podía oír, por encima de las voces del lupanar, el puerto que se había puesto
+en marcha. Buscó sus dagas bajo la almohada y junto al colchón; no encontró
+ninguna. Pensó también en Lazeroth.
 
 Más allá de la ventana, los tejados descendían hacia los mástiles. Una niebla
 delgada ocultaba parte del agua oscura. Estaban en Upyria, en un puerto de
@@ -616,8 +684,9 @@ a detenerse un momento y observar antes de decidir por dónde salir.
 
 —Necesito mi ropa —dijo.
 
-Rendard miró hacia la silla, como si pudiera haber algo allí que ambos
-hubieran pasado por alto. Después regresó al corredor.
+Gin dejó que Rendard se levantara. El marinero miró hacia la silla, como si
+pudiera haber algo allí que ambos hubieran pasado por alto. Después regresó al
+corredor.
 
 Una mujer apareció en la puerta con una cesta de ropa limpia. Se detuvo para
 dejar pasar al marinero y se acercó a recoger una jarra de la mesa.
