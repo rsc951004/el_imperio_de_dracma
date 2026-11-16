@@ -2,6 +2,13 @@
 
 ## Revisiones editoriales
 
+### Infraestructura de fragmentos canónicos (2026-11-16)
+
+Creada la sección `fragmentos/` para piezas narrativas canónicas breves y su
+índice. Actualizadas las reglas estructurales, de canon velado y de volcamiento
+para reconocerla junto a `docs/` y `cuentos/`. La convención rige el trabajo
+futuro; no se trasladaron escenas ni se crearon fragmentos narrativos.
+
 ### Volcamiento de Iyuri Khan y desarrollos asociados (2026-11-16)
 
 Ejecutadas las resoluciones AU-01 a AU-12 y la decisión posterior sobre Dravora

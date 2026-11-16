@@ -14,7 +14,10 @@ define las reglas universales. **Leer antes de trabajar.**
 | Carpeta | Guía para agentes | ¿Canon? |
 |---------|-------------------|----------|
 | `cuentos/` | [`cuentos/AGENTS.md`](cuentos/AGENTS.md) | ✅ |
+| `fragmentos/` | [`fragmentos/AGENTS.md`](fragmentos/AGENTS.md) | ✅ |
 | `docs/` | [`docs/AGENTS.md`](docs/AGENTS.md) | ✅ |
+| `mesa-de-trabajo/` | [`mesa-de-trabajo/README.md`](mesa-de-trabajo/README.md) | ❌ |
+| `procesos-de-volcamiento/` | [`procesos-de-volcamiento/AGENTS.md`](procesos-de-volcamiento/AGENTS.md) | ❌ |
 | `protoversiones/` | [`protoversiones/AGENTS.md`](protoversiones/AGENTS.md) ⛔ | ❌ |
 | `herramientas/` | [`herramientas/AGENTS.md`](herramientas/AGENTS.md) | N/A |
 
@@ -24,7 +27,8 @@ define las reglas universales. **Leer antes de trabajar.**
 
 | Zona | Carpeta | ¿Es canon? | ¿Se publica? |
 |------|---------|-------------|---------------|
-| **Canon** | `cuentos/` + `docs/` | ✅ Sí | ✅ Sí |
+| **Canon** | `cuentos/` + `fragmentos/` + `docs/` | ✅ Sí | ✅ Sí |
+| **Trabajo provisional** | `mesa-de-trabajo/` + `procesos-de-volcamiento/` | ❌ No | ❌ No |
 | **Cantera** | `protoversiones/` | ❌ No | ❌ Jamás |
 
 `protoversiones/` contiene borradores antiguos. Se conservan solo para rescatar ideas
@@ -37,6 +41,10 @@ puntuales durante la fase de depuración. **Nada en esa carpeta es parte del lor
 | # | Título | Estado |
 |---|--------|--------|
 | - | -      | -      |
+
+## Índice de fragmentos
+
+Consultar el [índice de fragmentos](fragmentos/indice.md).
 
 ## Sinopsis
 

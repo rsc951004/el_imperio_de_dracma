@@ -3,7 +3,7 @@
 ## Alcance de esta carpeta
 
 Esta carpeta contiene exclusivamente procesos de consolidación que preparan un
-posible traslado desde el trabajo no canónico hacia `docs/` o `cuentos/`. Nada
+posible traslado desde el trabajo no canónico hacia `docs/`, `cuentos/` o `fragmentos/`. Nada
 de su contenido es canon ni autoriza por sí mismo un volcamiento.
 
 Cada alcance se organiza en su propia carpeta e incluye, cuando corresponde,
@@ -17,7 +17,7 @@ resoluciones y un plan de volcamiento.
 Este método ordena el desarrollo de un periodo, un conjunto de cuentos o un
 bloque de lore con efectos amplios antes de modificar el canon. Su finalidad es
 separar la exploración de la decisión, detectar contradicciones y preparar una
-transferencia segura hacia `docs/` o `cuentos/`.
+transferencia segura hacia `docs/`, `cuentos/` o `fragmentos/`.
 
 Es una herramienta de trabajo no canónica: no contiene canon ni autoriza por
 sí misma cambios canónicos.
@@ -85,7 +85,7 @@ la acumulación debe recibir un destino explícito. Los únicos destinos válido
 son:
 
 - **canon:** se incorpora, con el nivel de síntesis propio de la etapa del
-  proyecto, en una ficha o marco canónico identificable;
+  proyecto, en una ficha, marco o pieza narrativa canónica identificable;
 - **reserva narrativa:** se conserva de forma expresa para un desarrollo
   posterior, indicando qué parte permanece sin desarrollar y dónde queda
   registrada esa reserva;

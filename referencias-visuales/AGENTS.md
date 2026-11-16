@@ -7,7 +7,7 @@ Esta carpeta conserva mapas, bocetos y otras imágenes de trabajo vigentes utili
 ## Reglas
 
 1. Las imágenes de esta carpeta no son protoversiones.
-2. Una imagen no establece canon por sí sola. El canon vinculante debe quedar documentado en `docs/` o narrado en `cuentos/`.
+2. Una imagen no establece canon por sí sola. El canon vinculante debe quedar documentado en `docs/` o narrado en `cuentos/` o `fragmentos/`.
 3. Los archivos se organizan por materia o región y reciben nombres descriptivos con versión cuando corresponda.
 4. No se sobrescribe una referencia anterior salvo orden explícita del humano.
 5. No se traslada material desde `protoversiones/` sin autorización explícita.

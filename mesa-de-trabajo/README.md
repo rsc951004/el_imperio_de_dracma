@@ -2,7 +2,7 @@
 
 Esta carpeta contiene apoyos temporales para la planificación y la revisión
 del proyecto. Nada de lo que se escriba aquí es canon ni autoriza por sí solo
-la modificación de `docs/` o `cuentos/`.
+la modificación de `docs/`, `cuentos/` o `fragmentos/`.
 
 Antes de utilizar una nota, hay que contrastarla con el canon vigente. Una
 instrucción concreta del humano define el trabajo activo y su destino. Los

@@ -16,7 +16,7 @@ fragmentos en fichas, respetando el canon y las decisiones pendientes de cada
 período. La escritura de cuentos completos requiere autorización humana
 explícita para el período correspondiente.
 
-Las piezas en `docs/` y `cuentos/` son canónicas cuando se incorporan conforme
+Las piezas en `docs/`, `cuentos/` y `fragmentos/` son canónicas cuando se incorporan conforme
 a estas reglas. En `mesa-de-trabajo/`, los materiales son provisionales y no
 canónicos. Los desarrollos amplios siguen el método de volcamiento y requieren
 autorización independiente para su incorporación al canon.
@@ -26,7 +26,7 @@ autorización independiente para su incorporación al canon.
 ## Reglas universales (aplican a TODOS los agentes en TODAS las carpetas)
 
 1. **Idioma:** TODO el contenido del proyecto se escribe en **español neutro**. Nada en inglés.
-2. **Canon estricto:** Solo `cuentos/` y `docs/` contienen lore canónico. Si no está ahí, no existe.
+2. **Canon estricto:** Solo `cuentos/`, `fragmentos/` y `docs/` contienen lore canónico. Si no está ahí, no existe.
 3. **No contaminar:** Ningún agente debe mezclar material de `protoversiones/` con el canon sin autorización explícita del humano.
 4. **Versionado:** Todo cambio al canon debe ir documentado en `docs/notas.md`.
 5. **Coherencia interna:** Antes de escribir o modificar cualquier cuento, el agente debe leer `docs/personajes.md` y `docs/mundo.md` para no romper el lore establecido.
@@ -34,14 +34,14 @@ autorización independiente para su incorporación al canon.
 7. **Sin herramientas externas:** No se invocan scripts, compiladores ni herramientas de build durante la escritura. `build.sh` solo se usa bajo orden explícita.
 8. **Respetar la barrera:** `protoversiones/` tiene sus propias reglas. Leer su `AGENTS.md` antes de entrar.
 9. **Anti-fantasmeo:** Cuando el humano corrija, elimine o sustituya una afirmación, la versión descartada deja de formar parte del contexto válido. El agente debe reemplazarla junto con todas sus consecuencias y trabajar únicamente desde el canon vigente, según la regla detallada más adelante.
-10. **Mesa de trabajo:** `mesa-de-trabajo/` contiene ayudas memoria, bocetos, diagnósticos y estructuras pendientes de revisión. Nada de lo escrito allí es canon, prioridad, objetivo ni autorización para modificar el proyecto. Antes de utilizar una entrada, el agente debe contrastarla con `docs/` y `cuentos/`, y solo puede actuar sobre ella por instrucción concreta del humano.
+10. **Mesa de trabajo:** `mesa-de-trabajo/` contiene ayudas memoria, bocetos, diagnósticos y estructuras pendientes de revisión. Nada de lo escrito allí es canon, prioridad, objetivo ni autorización para modificar el proyecto. Antes de utilizar una entrada, el agente debe contrastarla con `docs/`, `cuentos/` y `fragmentos/`, y solo puede actuar sobre ella por instrucción concreta del humano.
 
 ---
 
 ## Archivos descanonizados en custodia
 
-Por instrucción explícita del humano, un archivo situado en `docs/` o
-`cuentos/` puede conservarse fuera del canon vigente mientras espera una
+Por instrucción explícita del humano, un archivo situado en `docs/`,
+`cuentos/` o `fragmentos/` puede conservarse fuera del canon vigente mientras espera una
 decisión de recanonización o eliminación definitiva. Debe llevar al inicio esta
 marca editorial:
 
@@ -105,14 +105,14 @@ El valor de `desconocido-por` debe identificar el alcance real de la ignorancia.
 
 ### Reglas de uso
 
-1. Puede envolver una oración, un párrafo o una sección completa de cualquier archivo canónico de `docs/` o `cuentos/`.
+1. Puede envolver una oración, un párrafo o una sección completa de cualquier archivo canónico de `docs/`, `cuentos/` o `fragmentos/`.
 2. Nunca se usa en `protoversiones/`, incluido `protoversiones/proto_v2/`, porque ese material no es canónico.
 3. La marca es editorial: no forma parte de la voz narrativa ni existe dentro del mundo.
 4. El texto marcado sigue siendo canon vinculante. La ignorancia de los personajes no vuelve incierta la verdad descrita.
 5. Un personaje no puede actuar a partir de ese conocimiento mientras permanezca incluido en `desconocido-por`, salvo que el texto muestre cómo lo descubre.
 6. Cuando una revelación cambie quién conoce la verdad, se debe actualizar el alcance de la marca. Si deja de estar velada para el grupo definido, la marca se elimina o se restringe a quienes todavía la ignoran.
 7. Los rumores, hipótesis y versiones contradictorias no reciben esta marca, aunque una de ellas pueda resultar cierta más adelante.
-8. Para localizar todas las marcas vigentes, usar una búsqueda textual de `CANON-VELADO` limitada a `docs/` y `cuentos/`.
+8. Para localizar todas las marcas vigentes, usar una búsqueda textual de `CANON-VELADO` limitada a `docs/`, `cuentos/` y `fragmentos/`.
 
 ### Uso como herramienta de revisión
 
@@ -132,6 +132,7 @@ La revisión retroactiva no autoriza a etiquetar posibilidades como hechos. Si e
 | Carpeta | Propósito | ¿Canon? | ¿Se edita? |
 |---------|-----------|---------|-------------|
 | `cuentos/` | Cuentos terminados, uno por subcarpeta | ✅ Sí | ✅ Sí |
+| `fragmentos/` | Piezas narrativas canónicas que no constituyen un cuento completo | ✅ Sí | ✅ Sí |
 | `docs/` | Lore, personajes, mundo, notas editoriales | ✅ Sí | ✅ Sí |
 | `mesa-de-trabajo/` | Ayudas memoria, bocetos y asuntos opcionales pendientes de revisión | ❌ No | Solo bajo instrucción |
 | `procesos-de-volcamiento/` | Acumulaciones, auditorías, resoluciones y planes previos al volcamiento | ❌ No | Solo bajo instrucción |
@@ -151,7 +152,7 @@ antes de proponer un volcamiento hacia el canon. El método separa acumulación,
 auditoría, resolución, plan de transferencia y ejecución autorizada.
 
 No se exige para correcciones aisladas de alcance claro. Su consulta no
-autoriza cambios en `docs/` o `cuentos/`: cada volcamiento requiere una orden
+autoriza cambios en `docs/`, `cuentos/` o `fragmentos/`: cada volcamiento requiere una orden
 humana explícita.
 
 ---
@@ -159,8 +160,8 @@ humana explícita.
 ## Flujo de trabajo con agentes
 
 1. El humano da una instrucción.
-2. El agente lee el contexto relevante (`docs/`, `cuentos/`).
-3. El agente genera o modifica contenido canónico **solo en `cuentos/` y `docs/`**. Los mapas y bocetos visuales vigentes se guardan en `referencias-visuales/`; las imágenes heredadas de protoversiones permanecen en `protoversiones/referencias-visuales/`.
+2. El agente lee el contexto relevante (`docs/`, `cuentos/` y `fragmentos/`).
+3. El agente genera o modifica contenido canónico **solo en `cuentos/`, `fragmentos/` y `docs/`**, conforme a las reglas de incorporación y autorización aplicables. Los mapas y bocetos visuales vigentes se guardan en `referencias-visuales/`; las imágenes heredadas de protoversiones permanecen en `protoversiones/referencias-visuales/`.
 4. El agente documenta el cambio en `docs/notas.md`.
 5. El agente **nunca modifica los borradores existentes de `protoversiones/`**. Solo puede añadir imágenes referenciales a `protoversiones/referencias-visuales/`. Si quiere rescatar texto, lo copia o extrae manualmente hacia `cuentos/`.
 6. **No se hace commit sin orden explícita.** El agente solo versiona cambios cuando el humano lo pide. Nunca comitea automáticamente.
