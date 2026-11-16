@@ -105,6 +105,10 @@ separaciones entre generaciones se revisarán al final en AU-12.
 
 ### AU-05. La Sombra, el Toque y los espectros como sistema general — integración
 
+**Estado de la revisión actual:** cerrado con reservas mediante la resolución
+AU-05. Las reglas generales son hechos del mundo; los mecanismos técnicos no
+definidos permanecen reservados. Su integración requiere volcamiento autorizado.
+
 - **Acumulación:** 8.1–8.3 y 10 presentan contagio exclusivo de Vinculados,
   origen en Mobius, cadena Tocado–espectro, consumo del vínculo, grados de
   virulencia, percepción e inmunidad frecuente de místicos siniestros. La
@@ -123,6 +127,11 @@ separaciones entre generaciones se revisarán al final en AU-12.
   identidad del «él», la «luz» ni la procedencia del espectro de Nana Fey.
 
 ### AU-06. Santuario, sello y Guía práctica: regla, institución y prueba — integración
+
+**Estado de la revisión actual:** cerrado con reservas mediante AU-06 en la
+acumulación de resoluciones. La definición del sello y su funcionamiento en
+Vinculados sustituyen la formulación anterior incompatible; la distribución
+por temas y sus referencias se prepararán para el volcamiento autorizado.
 
 - **Acumulación:** 8.3–8.6 declara universalidad amplia del entrenamiento del
   Santuario, un criterio diagnóstico por voz en su interior, el sello de

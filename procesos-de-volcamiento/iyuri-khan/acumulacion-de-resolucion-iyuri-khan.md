@@ -13,7 +13,7 @@ todos los puntos de la auditoría en orden, incluidos los previamente tratados.
 Las decisiones registradas a continuación se conservan como antecedentes
 autorales; ninguna se considera confirmada en esta nueva pasada hasta que el
 autor revise y confirme, modifique o sustituya cada punto. El proceso se
-encuentra actualmente en **AU-05, pendiente de revisión**. AU-12 se revisará
+encuentra actualmente en **AU-07, pendiente de revisión**. AU-12 se revisará
 al final, después de todos los puntos previamente planificados.
 
 Se presentará un solo punto por turno, con su contraste documental y opciones.
@@ -107,6 +107,105 @@ sea indispensable precisar quedan reservados. La revisión de las fichas no
 revela otra incompatibilidad imprescindible para cerrar este punto. Las fechas
 absolutas y separaciones generacionales se revisarán en AU-12.
 
+### AU-05. Sistema de la Sombra — cerrado con reservas
+
+El autor confirma la incorporación del sistema general de la Sombra como
+hechos del mundo, con las siguientes reglas y reservas:
+
+1. La Sombra puede corromper personas, otros seres vivos, objetos, lugares y
+   otras realidades materiales o anímicas.
+2. El **Toque de la Sombra** es una infección exclusiva de los Vinculados,
+   incluidos Portadores e Invocadores. Las personas no vinculadas pueden
+   sufrir daños físicos, psicológicos y anímicos, incluso morir.
+3. Los Tocados pueden transmitir la infección a otros Vinculados; habitualmente
+   desconocen su condición y pueden deteriorarse física y mentalmente, así
+   como sufrir el deterioro de su vínculo con los Inits.
+4. Un Tocado puede convertirse en huésped de un espectro de Sombra. El proceso
+   puede culminar con la muerte del huésped y la aparición del espectro; ese
+   desenlace no es inevitable para todos los infectados.
+5. La virulencia sigue una progresión general: **Tocados → espectros de
+   Sombra → Mobius**. La capacidad de infección y su intensidad aumentan
+   generalmente en ese orden.
+6. Los místicos siniestros son mayoritariamente inmunes al Toque. Esta
+   inmunidad no es absoluta ni implica invulnerabilidad frente a otros daños.
+7. El mecanismo exacto de transmisión es desconocido. Khalos ha producido
+   numerosos tratados sin consenso definitivo sobre cómo ocurre cada contagio;
+   influyen múltiples factores y el tiempo de desarrollo puede variar mucho.
+8. Se conserva la variabilidad individual de los Mobius y de las demás
+   manifestaciones sombrías, junto con los límites canónicos existentes.
+
+Las reglas confirmadas son verdades del mundo; las explicaciones técnicas no
+resueltas pueden figurar como conocimientos, investigaciones o teorías de
+Khalos. No se fijan tiempos universales de incubación, porcentajes de inmunidad
+ni procedimientos de transmisión no aprobados. Se conserva el origen de la
+infección en el ámbito de un Mobius expresado en la acumulación, sin convertirlo
+en un mecanismo técnico definido. Se respetan las reglas ya aportadas sobre el
+Santuario del Alma y la asistencia de Maeggis siniestros, cuyo tratamiento
+documental se revisa en AU-06.
+
+La infección de Essio fue diagnosticada por especialistas; la primera certeza
+narrada de infección de Iyuri ocurre cuando escucha a la Sombra en su Santuario.
+El sello detecta presencia sombría y la alerta negra convoca el rescate. No se
+deduce el origen del espectro de la mansión ni su identidad respecto de Nana
+Fey, cuya situación corresponde a AU-11; tampoco se identifica al «él» ni se
+define la «luz» de Iyuri. La relación concreta de los Portadores Sombríos con
+los místicos siniestros permanece reservada.
+
+**Trazabilidad para el futuro plan:** revisar `docs/entidades/mobius.md`,
+`docs/entidades/portadores.md` y `docs/entidades/invocadores.md` para integrar
+las reglas y referencias pertinentes sin reemplazar los rasgos establecidos.
+Determinar en el plan el destino documental general de la Sombra, el Toque y
+los espectros y si requiere una ficha nueva; revisar índices y referencias
+afectadas. Contrastar las fichas de entidades, místicos e instituciones y los
+eventuales destinos de Essio, Iyuri y los Cuervos Grises. La revisión actual no
+identifica una incompatibilidad imprescindible para cerrar AU-05. El plan y su
+ejecución siguen las fases y autorización ordinarias.
+
+### AU-06. Santuario, sello, alertas y asistencia — cerrado con reservas
+
+Se integrarán por temas las reglas aportadas, con referencias cruzadas desde
+una guía práctica que reúna y enlace los procedimientos sin crear definiciones
+paralelas divergentes. La distribución prevista para el futuro plan es:
+
+- **Santuario del Alma:** marco de prevención y detección del Toque de la
+  Sombra. Se conservan su enseñanza amplia, sus características y límites, y
+  el criterio de infección cuando un Vinculado escucha a la Sombra dentro del
+  Santuario. La primera voz escuchada en la mansión confirma la infección de
+  Iyuri; su momento de contagio permanece abierto.
+- **Sello de Andromalius:** marco de artefactos místicos, como marca corporal
+  que detecta presencia sombría. Su activación no diagnostica por sí sola el
+  Toque. Se conservan las señales ya descritas en la acumulación.
+- **Alertas:** marco profesional o institucional correspondiente, con rojo
+  para Grimm, verde para poseídos y negro para Sombra. La alerta de Iyuri
+  moviliza el rescate ya narrado.
+- **Asistencia:** marco profesional pertinente. Ningún Maeggi certificado por
+  el Imperio con don siniestro puede negarse a auxiliar a quien solicita su
+  atención; los gastos corresponden al solicitante, según la acumulación.
+
+El sello es una **marca mística invisible inscrita en la piel**, generalmente en
+la espalda. Se aplica a los Maeggis; algunas personas no vinculadas también lo
+llevan, pero solo funciona cuando su portador es un Vinculado. Solo los místicos
+siniestros pueden verlo sobre la piel desnuda, incluido el sello propio si su
+portador posee esa capacidad. Sus diseños varían según el artesano que lo
+confeccione y aplique, sin asignar categorías o capacidades a esas variantes.
+
+El sello de Iyuri tiene un diseño estándar: un ojo rodeado por un círculo y
+tres lágrimas debajo. Su ubicación corporal exacta permanece sin determinar.
+Es invisible para Iyuri y para los observadores que no sean místicos
+siniestros; uno de estos puede distinguirlo en la piel desnuda. Se sustituye la
+formulación anterior incompatible sobre su funcionamiento en personas no
+vinculadas. No se añaden técnicas de inscripción, fabricación, activación ni
+otras capacidades o reacciones no definidas.
+
+El plan deberá identificar las fichas y referencias cruzadas: examinar
+`docs/mundo/stigria/artefactos-misticos.md` para el sello y
+`docs/taburas/moes-tabura.md` para la dimensión profesional; determinar los
+destinos del marco del Toque, las alertas y la guía, junto con los índices y
+referencias necesarios. Conservar la escena del Santuario y la intervención de
+Nimri sin completar su mecanismo, y reservar trámites, excepciones y métodos de
+curación no definidos. La revisión no revela otra contradicción que impida el
+cierre; el volcamiento sigue sujeto a autorización independiente.
+
 ### R-07. Nomenclatura de Flammengard — decisión general cerrada
 
 El nombre correcto y definitivo del reino es **Flammengard**. Históricamente,
@@ -179,15 +278,15 @@ futura. La comprobación final deberá repetirse al preparar y ejecutar el plan.
   el plan sin considerarlos fuentes de canon ni modificarlos automáticamente.
   `protoversiones/` está sujeto a su barrera de solo lectura.
 
-## Revisión actual: AU-05, la Sombra, el Toque y los espectros
+## Revisión actual: AU-07, Guardia Real y Cuervos Grises
 
-La acumulación, apartados 8.1–8.3, desarrolla el Toque de la Sombra, su
-transmisión entre Vinculados, la aparición de espectros y las capacidades de
-los místicos siniestros. `docs/entidades/mobius.md` establece corrupción pasiva,
-consumo posible del vínculo y capacidades individuales variables; el canon
-consultado no define ese conjunto de reglas. Es una ampliación que requiere
-revisión, no una contradicción demostrada. AU-05 permanece pendiente de la
-decisión autoral sobre su tratamiento.
+La acumulación sitúa equipos de Cuervos Grises en los reinos y a Nimri, Tuk y
+Benji en la Guardia Real de Lemuria. La isla es un principado y protectorado,
+no uno de los doce reinos, conforme a `docs/mundo/stigria/dragma/dragma.md` y
+`docs/mundo/stigria/dragma/ishbaal/ishbaal.md`. Su guardia y sus equipos no
+están definidos en el canon. La denominación, el alcance territorial de los
+equipos y su relación institucional se someten a revisión con el antecedente
+autoral R-05; no se alteran el rescate ni las funciones narradas por inferencia.
 
 ## Antecedentes autorales de la revisión anterior
 

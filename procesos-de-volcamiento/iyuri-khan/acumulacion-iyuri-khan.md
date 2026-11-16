@@ -994,7 +994,9 @@ Los místicos siniestros poseen una relación especializada con la Sombra y, en 
 
 Conforme a la Guía práctica de lucha contra la Sombra, ningún Maeggi certificado por el Imperio con don siniestro puede negarse a auxiliar a quien solicita su atención, pero los gastos de la intervención corresponden al solicitante. Es una obligación profesional, no la promesa de que toda curación sea gratuita o que todo caso tenga solución.
 8.4. Sello de Andromalius
-El sello de Andromalius es un detector místico de presencia sombría; puede portarlo cualquier persona, Vinculada o no. No constituye por sí mismo un diagnóstico del Toque. Cuando se activa produce señales como zumbido de oídos, breve embotamiento mental, náuseas o malestar. Estas sensaciones disminuyen o desaparecen al alejarse del foco. Los aspirantes a Maeggi aprenden a reconocerlo temprano.
+El sello de Andromalius es una marca mística invisible inscrita directamente en la piel, generalmente en la espalda. Se aplica a los Maeggis y detecta presencia sombría cuando quien lo porta es un Vinculado. Algunas personas no vinculadas también llevan la marca, pero esta carece de utilidad en ellas. Solo los místicos siniestros pueden percibir visualmente el sello sobre la piel desnuda, incluido el propio sello cuando su portador posee esa capacidad. Existen numerosas variantes de diseño según el artesano que lo confeccione y aplique. El de Iyuri tiene un diseño estándar: un ojo rodeado por un círculo y tres lágrimas debajo; su ubicación corporal exacta no está especificada.
+
+La activación del sello no constituye por sí misma un diagnóstico del Toque. Produce señales como zumbido de oídos, breve embotamiento mental, náuseas o malestar. Estas sensaciones disminuyen o desaparecen al alejarse del foco. Los aspirantes a Maeggi aprenden a reconocerlo temprano.
 
 En el encuentro con Essio, el sello que porta Iyuri se activa brevemente. Más tarde, en el jardín de la mansión, la señal es violenta. Oskar no lleva un sello de Andromalius, por lo que no debe trasladarse a él esa sensación de detección ni atribuirle diagnóstico técnico.
 8.5. Santuario del Alma
