@@ -2,6 +2,14 @@
 
 ## Revisiones editoriales
 
+### Iyuri en Upyria (2026-11-16)
+
+Añadida a «El niño de la flecha» una escena posterior en un puerto de Upyria,
+con Iyuri adulto y Goro Revolva. Ampliada la escena con dos hombres adultos y
+un marinero de la tripulación que espera a Iyuri a bordo del Calamar Rojo, su
+navío. El intervalo, las circunstancias de llegada y los acontecimientos
+intermedios permanecen abiertos. Actualizado el índice de fragmentos.
+
 ### Revisión literaria de El niño de la flecha (2026-11-16)
 
 Revisados el ritmo, la focalización y los diálogos del fragmento de Iyuri.

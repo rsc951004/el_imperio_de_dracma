@@ -489,3 +489,112 @@ un agujero maloliente lleno de Grimm. No quiero ofenderlos, pero ¿están seguro
 
 Las risas lo acompañaron mientras el barco se alejaba de la costa. Iyuri miró
 hacia delante. Sturmgard los esperaba al otro lado del mar.
+
+## La habitación sobre el puerto
+
+El frío le rozó un pie y se abrió paso bajo la sábana. Iyuri buscó a tientas
+el borde para cubrirse. Encontró una pierna tibia, luego otra. Una respiración
+tranquila le acariciaba el hombro.
+
+Abrió un ojo. Dos hombres adultos dormían desnudos junto a él, uno de espaldas
+y el otro vuelto hacia su brazo. Iyuri también estaba desnudo. Permaneció
+quieto un momento, escuchando las voces amortiguadas del corredor y el
+golpeteo de la madera en algún lugar de abajo. La habitación olía a sal, humo
+y sábanas usadas.
+
+Una punzada le cruzó la cabeza. Cerró el ojo otra vez.
+
+La puerta se abrió sin aviso.
+
+—No —murmuró Iyuri.
+
+Alguien cruzó la habitación. Los anillos de la cortina rasparon la barra y la
+luz inundó la cama. Iyuri se cubrió los ojos con el antebrazo.
+
+—Definitivamente no.
+
+El joven que había entrado era rubio, de cabello corto y corte militar. Llevaba
+armadura ligera y sus prendas mostraban el desgaste del mar. Tras abrir las
+cortinas se volvió hacia la cama con la compostura de quien tenía un informe
+que entregar.
+
+—Capitán, la tripulación del Calamar Rojo está preparada. Solo falta usted en
+cubierta para partir.
+
+Iyuri bajó el brazo lo justo para mirarlo. A su lado, uno de los hombres se
+acomodó entre las sábanas y siguió durmiendo.
+
+—Tienes una forma espantosa de dar los buenos días.
+
+—Buenos días, capitán.
+
+—Peor todavía.
+
+El marinero aguardó, sin prestar más atención a la desnudez de los ocupantes de
+la cama. Iyuri se incorporó con cuidado para no despertar a sus compañeros.
+La luz le reveló una silla vacía, una palangana y el desorden de la habitación.
+Sus ropas no estaban a la vista.
+
+—¿Todo está listo?
+
+—Sí, capitán.
+
+Iyuri asintió. Ya podía oír, por encima de las voces del lupanar, el puerto que
+se había puesto en marcha. Buscó sus dagas bajo la almohada y junto al colchón;
+no encontró ninguna. Pensó también en Lazeroth.
+
+Más allá de la ventana, los tejados descendían hacia los mástiles. Una niebla
+delgada ocultaba parte del agua oscura. Estaban en Upyria, en un puerto de
+Grimheim muy lejos de Lemuria. En los Siete Reinos Sombríos, mostrar su don en
+la calle podía atraer una atención que prefería evitar: las artes místicas
+estaban prohibidas.
+
+Al levantarse, esperó a que el suelo dejara de oscilar. La vieja marca de
+garras le cruzaba el pecho. En el reflejo de la palangana reconoció la cicatriz
+sobre la ceja y un rostro que ya no era el del muchacho que había dejado atrás
+su casa. Llevaba años viviendo entre barcos, puertos y caminos; había aprendido
+a detenerse un momento y observar antes de decidir por dónde salir.
+
+—Necesito mi ropa —dijo.
+
+—La tripulación lo espera.
+
+—Y yo espero no tener que presentarme así.
+
+El marinero miró hacia la silla, como si pudiera haber algo allí que ambos
+hubieran pasado por alto. Después regresó al corredor.
+
+Una mujer apareció en la puerta con una cesta de ropa limpia. Se detuvo para
+dejar pasar al marinero y se acercó a recoger una jarra de la mesa.
+
+—¿Ha visto mis cosas? —preguntó Iyuri.
+
+—Pregúntele a Goro.
+
+Oyó al marinero hablar con alguien fuera. El hombre que entró después llevaba
+una chaqueta oscura y esperó a que la mujer saliera con la jarra.
+
+—Goro Revolva —dijo.
+
+Iyuri conocía el nombre. En Grimheim se hablaba de él como del proxeneta más
+famoso de aquellas tierras. Miró alrededor del lupanar y luego a Goro.
+
+—Iyuri. Mi barco está listo y yo estoy buscando mis pertenencias.
+
+—Ya veo.
+
+—Me conformaría con empezar por los pantalones.
+
+Goro apoyó una mano en el respaldo de la silla.
+
+—Primero dime qué recuerdas.
+
+Iyuri sostuvo su mirada. Detrás de la puerta aguardaba el marinero; en algún
+lugar del puerto lo esperaban el Calamar Rojo y su tripulación.
+
+—Si respondo desnudo, ¿va a costarme más?
+
+Desde la cama llegó un murmullo somnoliento. Iyuri volvió la cabeza y dejó
+escapar una sonrisa antes de mirar otra vez a Goro.
+
+—Tengo que llegar a mi barco. Luego hablamos.
