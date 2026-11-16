@@ -2,6 +2,29 @@
 
 ## Revisiones editoriales
 
+### Beku y el viaje a Vesperya (2026-11-16)
+
+Añadidos Beku y la continuación de la escena de Upyria. El Calamar Rojo tiene
+asuntos pendientes en Vesperya; su naturaleza y el significado de la fecha para
+Iyuri permanecen abiertos.
+
+### Iyuri y Rendard en Upyria (2026-11-16)
+
+Ampliada la escena del lupanar con el juego entre Iyuri, Rendard y uno de los
+jóvenes que acompañan al capitán. La vida privada y el pasado de Rendard
+permanecen sin desarrollar.
+
+### Estancia de Iyuri en Upyria (2026-11-16)
+
+Ampliado el despertar de Iyuri: Rendard aclara que pagó la estancia hace dos
+días. Las circunstancias del pago y la identidad del otro joven permanecen sin
+desarrollar.
+
+### Rendard Steinert (2026-11-16)
+
+Identificado el marinero de la escena de Iyuri en Upyria como Rendard Steinert.
+Su diálogo precisa el despertar de Iyuri y la preparación de la tripulación.
+
 ### Iyuri en Upyria (2026-11-16)
 
 Añadida a «El niño de la flecha» una escena posterior en un puerto de Upyria,

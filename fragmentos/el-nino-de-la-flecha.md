@@ -496,13 +496,15 @@ El frío le rozó un pie y se abrió paso bajo la sábana. Iyuri buscó a tienta
 el borde para cubrirse. Encontró una pierna tibia, luego otra. Una respiración
 tranquila le acariciaba el hombro.
 
-Abrió un ojo. Dos hombres adultos dormían desnudos junto a él, uno de espaldas
+Abrió un ojo. Dos jóvenes adultos dormían desnudos junto a él, uno de espaldas
 y el otro vuelto hacia su brazo. Iyuri también estaba desnudo. Permaneció
 quieto un momento, escuchando las voces amortiguadas del corredor y el
 golpeteo de la madera en algún lugar de abajo. La habitación olía a sal, humo
 y sábanas usadas.
 
 Una punzada le cruzó la cabeza. Cerró el ojo otra vez.
+Intentó recordar dónde estaba, pero las voces del corredor y el olor a mar
+no acababan de llevarlo a ninguna parte. Se acomodó para seguir durmiendo.
 
 La puerta se abrió sin aviso.
 
@@ -513,31 +515,88 @@ luz inundó la cama. Iyuri se cubrió los ojos con el antebrazo.
 
 —Definitivamente no.
 
-El joven que había entrado era rubio, de cabello corto y corte militar. Llevaba
-armadura ligera y sus prendas mostraban el desgaste del mar. Tras abrir las
-cortinas se volvió hacia la cama con la compostura de quien tenía un informe
-que entregar.
+Rendard Steinert era rubio, de cabello corto y corte militar. Llevaba armadura
+ligera y sus prendas mostraban el desgaste del mar. Tras abrir las cortinas se
+volvió hacia la cama con la compostura de quien tenía un informe que entregar.
 
 —Capitán, la tripulación del Calamar Rojo está preparada. Solo falta usted en
 cubierta para partir.
 
-Iyuri bajó el brazo lo justo para mirarlo. A su lado, uno de los hombres se
+Iyuri bajó el brazo lo justo para mirarlo. A su lado, uno de los chicos se
 acomodó entre las sábanas y siguió durmiendo.
 
-—Tienes una forma espantosa de dar los buenos días.
+—Ren, ¿qué haces acá tan temprano?
 
-—Buenos días, capitán.
+—Usted me dijo que no viniera hasta que todos estuvieran listos, señor. Y ya lo
+están.
 
-—Peor todavía.
+—¿Tan temprano?
 
-El marinero aguardó, sin prestar más atención a la desnudez de los ocupantes de
-la cama. Iyuri se incorporó con cuidado para no despertar a sus compañeros.
+Rendard lo miró sin comprender.
+
+—¿Temprano? Ya pasó el mediodía, señor.
+
+El joven que dormía junto al hombro de Iyuri abrió apenas los ojos, lo abrazó
+y apoyó la cabeza contra él.
+
+—Vuelva a dormir, señor. Quédese un poco más.
+
+Se acomodó de nuevo a su lado. El otro también despertó, se inclinó hacia Iyuri
+y lo besó en los labios.
+
+—Es cierto. Su ayudante lo espera —dijo a Iyuri. Después miró a Rendard—.
+Atenderemos lo que su amo necesite. No vamos a juzgarlo, señor. Anoche pagó por
+dos días completos.
+
+—El señor Iyuri Khan no es mi amo ni yo soy su sirviente, joven —lo interrumpió
+Rendard. Frunció el ceño—. Y esos dos días ya pasaron. Yo pagué todo hace
+exactamente dos días.
+
+Iyuri se quedó mirando a Rendard. ¿Dos días? Intentó ordenar sus recuerdos, pero
+la punzada en la cabeza regresó antes de que pudiera responder.
+
+La expresión de Rendard le arrancó una sonrisa.
+
+—¿Sabes, Ren? Tu problema es que no sabes divertirte. Pero puedo enseñarte.
+Si quieres, únete. ¿Qué dicen, chicos? ¿Les gustaría ver cómo luce un señorito
+eisengardiano sin su armadura?
+
+El joven que había besado a Iyuri miró a Rendard con renovado interés. Se
+deslizó fuera de la cama, se acercó a él y se inclinó a sus pies.
+
+—Perdón, mi señor. Con esa armadura y esa cara pensé que no era usted un
+hombre como los demás. Venga conmigo; puedo hacerle olvidar sus problemas.
+
+Rendard lo contempló un instante. Tomó una manta del sofá cercano, se inclinó
+y se la acomodó con cuidado sobre los hombros.
+
+—Lo siento, joven. Pero yo soy así.
+
+Iyuri rompió a reír. Todavía entre carcajadas, acomodó al otro chico sobre sus
+piernas y le tomó el rostro entre las manos. Miró a Rendard.
+
+—Mira, Beku. Ahí tienes a un verdadero Sangre de Hierro: honorable, respetuoso
+y siempre dispuesto a ayudar a cualquiera que esté en desgracia.
+
+Beku se volvió hacia él y lo abrazó.
+
+—¿Y usted, señor Iyuri? ¿No es también así? Nunca había conocido a nadie en
+Upyria que me hiciera sentir como usted.
+
+Iyuri lo besó. Beku le rodeó el cuello con los brazos y respondió al beso.
+Rendard ayudó al otro joven a ponerse de pie, lo acompañó hasta la cama y esperó
+a que estuviera cómodo antes de sentarse junto a su capitán.
+
+Durante un momento guardó silencio. Después miró a Iyuri.
+
+—Señor, sé que esta no es una fecha especialmente agradable para usted, pero
+debemos irnos. Tenemos asuntos que atender en Vesperya y el viaje es largo.
+
+Iyuri dejó de besar a Beku. Mantuvo una mano sobre su espalda mientras miraba a
+Rendard.
+
 La luz le reveló una silla vacía, una palangana y el desorden de la habitación.
 Sus ropas no estaban a la vista.
-
-—¿Todo está listo?
-
-—Sí, capitán.
 
 Iyuri asintió. Ya podía oír, por encima de las voces del lupanar, el puerto que
 se había puesto en marcha. Buscó sus dagas bajo la almohada y junto al colchón;
@@ -557,11 +616,7 @@ a detenerse un momento y observar antes de decidir por dónde salir.
 
 —Necesito mi ropa —dijo.
 
-—La tripulación lo espera.
-
-—Y yo espero no tener que presentarme así.
-
-El marinero miró hacia la silla, como si pudiera haber algo allí que ambos
+Rendard miró hacia la silla, como si pudiera haber algo allí que ambos
 hubieran pasado por alto. Después regresó al corredor.
 
 Una mujer apareció en la puerta con una cesta de ropa limpia. Se detuvo para
@@ -571,8 +626,8 @@ dejar pasar al marinero y se acercó a recoger una jarra de la mesa.
 
 —Pregúntele a Goro.
 
-Oyó al marinero hablar con alguien fuera. El hombre que entró después llevaba
-una chaqueta oscura y esperó a que la mujer saliera con la jarra.
+El hombre que entró después llevaba una chaqueta oscura y esperó a que la mujer
+saliera con la jarra.
 
 —Goro Revolva —dijo.
 
