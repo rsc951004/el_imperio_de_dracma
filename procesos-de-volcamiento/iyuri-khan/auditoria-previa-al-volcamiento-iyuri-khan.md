@@ -123,8 +123,8 @@ definidos permanecen reservados. Su integración requiere volcamiento autorizado
 - **Tratamiento:** conservar el alcance ya expresado de las reglas y sus
   reservas al integrarlas con la variabilidad de los Mobius. La relación
   específica con los Portadores Sombríos puede reservarse: no hay evidencia
-  de incompatibilidad que obligue a redefinirlos. No se debe inferir la
-  identidad del «él», la «luz» ni la procedencia del espectro de Nana Fey.
+  de incompatibilidad que obligue a redefinirlos. AU-11 fija que el espectro
+  surgió de Fey; la identidad del «él» y el significado de la «luz» siguen abiertos.
 
 ### AU-06. Santuario, sello y Guía práctica: regla, institución y prueba — integración
 
@@ -192,10 +192,16 @@ autorizaciones y la coordinación de la escolta posterior permanecen reservadas.
 
 ### AU-09. Armas místicas y cronología de su fabricación — integración
 
+**Estado de la revisión actual:** cerrado con reservas por decisión autoral.
+Se integrarán las reglas aprobadas y los hechos de Lazeroth y Rugido Mordaz;
+los fabricantes, sus tradiciones y los mecanismos no definidos quedan fuera
+del desarrollo de este proceso.
+
 - **Acumulación:** 5 atribuye muchas armas místicas a esclavos preimperiales y
   múltiples condiciones de uso; Lazeroth perteneció al padre de Fhilippo, pasa
   por la armería y brilla tras una invocación cuyo mecanismo queda abierto.
-  Essio lleva una espada vinculada al primer Raik.
+  Essio tiene en su poder Rugido Mordaz, artefacto del primer Raik, conforme a
+  la corrección autoral registrada en la revisión actual.
 - **Canon:** `docs/mundo/stigria/artefactos-misticos.md` identifica Rugido
   Mordaz como primer artefacto místico **documentado en la historia del
   Raikim**; no afirma que fuera el primer artefacto de toda la historia.
@@ -211,33 +217,37 @@ autorizaciones y la coordinación de la escolta posterior permanecen reservadas.
 
 ### AU-10. Primera licencia y práctica profesional a los dieciséis — reserva
 
+**Estado de la revisión actual:** cerrado con reservas por decisión autoral;
+Iyuri estaba registrado desde niño y carecía de licencia a los dieciséis. El
+ejercicio habitual regulado y el uso cotidiano deben precisarse en el plan.
+
 - **Acumulación:** a los dieciséis Iyuri dirige saqueos con el don; después
-  emprende formación y a los diecinueve todavía estudia. El estado de registro
-  y licencia a los dieciséis permanece abierto; no se acredita licencia a los
-  veintitrés.
+  emprende formación y a los diecinueve todavía estudia. La resolución AU-10
+  fija su registro infantil y falta de licencia a los dieciséis; no se acredita
+  licencia a los veintitrés.
 - **Canon:** `docs/entidades/portadores.md` exige registro y licencia para vivir
   del don o prestar servicios profesionales; desde los dieciséis responde la
   persona. `docs/taburas/moes-tabura.md` atribuye la primera certificación a la
   Möes; `grim-tabura.md` distingue caza independiente y pertenencia.
-- **Tratamiento:** la ausencia de datos sobre registro y licencia no demuestra
-  una contradicción: se pueden reservar su situación y sus consecuencias.
-  La actividad ilícita no demuestra por sí misma ni registro ni licencia; no
-  inventar cargos o penas.
+- **Tratamiento:** integrar la resolución AU-10, que distingue los delitos y el
+  ejercicio habitual sin certificación; reservar sanciones y trámites no
+  establecidos y armonizar las fichas del registro, licencia y formación.
 
 ### AU-11. Coherencia interna: Vinculados y Nana Fey
 
-- **Acumulación:** 2.1 declara no establecida la condición de Vinculado de
-  Fhilippo y Marwha; 10.2 afirma que Iyuri recuerda que ellos y Lya no son
-  Vinculados, y 17.5 trata esa condición como conocida. Por otro lado 2.3 habla
-  del «mecanismo de su muerte» al describir a Nana Fey, mientras 10.20 y 16.3
-  reservan su estado y destino. Fey es presentada como Maeggi retirada.
+**Estado de la revisión actual:** cerrado con reservas mediante AU-11. Fey murió
+al nacer el espectro; Fhilippo, Marwha y Lya son no Vinculados. La precisión
+sobre infección y espectros nacidos complementa AU-05.
+
+- **Acumulación:** Fhilippo, Marwha y Lya son no Vinculados y Iyuri conoce su
+  condición; la resolución de AU-11 establece la muerte de Fey y el origen del
+  espectro en ella.
 - **Canon:** la licencia Maeggi corresponde a personas vinculadas
   (`docs/taburas/moes-tabura.md`); ello no demuestra que Fey sea la fuente del
   espectro ni determina su estado tras el hallazgo.
-- **Decisión necesaria:** determinar la condición efectiva de Fhilippo, Marwha
-  y Lya o el alcance del conocimiento de Iyuri, y si la muerte de Fey está
-  establecida o su estado permanece abierto. Evitar convertir el recuerdo de un
-  personaje en diagnóstico objetivo por inferencia.
+- **Tratamiento resuelto:** integrar las decisiones autorales y reservar los
+  misterios sobre Essio, el propósito del espectro y la línea ancestral del
+  vínculo de Iyuri.
 
 ## Consecuencias de decisiones autorales ya cerradas
 
@@ -372,7 +382,8 @@ apariencia de Oskar; Tuk retira la garra mediante caos; Benji atiende la
 herida y hace la broma; Nimri neutraliza al ente; otro equipo protege a Lya y
 Marwha. No decidir por inferencia la identidad del «él», la luz, el sueño de
 Kael, el tratamiento posterior, la suerte de Essio, la recuperación de la casa
-ni la relación causal de Fey con el espectro. AU-11 delimita su estado.
+ni la relación entre las infecciones de Fey y Essio. AU-11 fija que el espectro
+surgió de Fey y causó su muerte.
 
 ### RN-04. Etapas futuras y tripulación
 

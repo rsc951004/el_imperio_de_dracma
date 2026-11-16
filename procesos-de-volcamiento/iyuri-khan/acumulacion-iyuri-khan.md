@@ -135,9 +135,9 @@ La madre de Iyuri, **Marwha Khan**, es sheijad, lemuriana y miembro de la
 a los **Hijos del Sol**. Iyuri es Hijo del Sol por ascendencia paterna y
 sheijad por ascendencia materna; su crianza e identidad cultural son lemurianas.
 
-Permanecen pendientes la condición de Marwha como Portadora y cuál de los
-progenitores transmitió el vínculo de Iyuri. Los Portadores heredan el vínculo,
-no necesariamente el mismo don.
+Fhilippo y Marwha no son Vinculados. La línea ancestral por la que se manifestó
+el vínculo de Iyuri permanece reservada; su manifestación puede saltar
+generaciones y los Portadores no heredan necesariamente el mismo don.
 
 ### A-03. Condición de Portador y don
 
@@ -593,10 +593,10 @@ guerrero adulto de armadura pesada.
 
 1. **Lugar de nacimiento.** Precisar el lugar de nacimiento de Iyuri dentro
    de su crianza e identidad cultural lemurianas.
-2. **Marwha Khan.** Fijar su historia, su condición de Portadora o no Portadora,
-   su posición dentro de la Casa Khan y su relación con Fhilippo Galenor.
-3. **Herencia del vínculo.** Determinar cuál de sus progenitores transmitió el
-   vínculo de Iyuri, sin atribuirle por ello la transmisión de un don idéntico.
+2. **Marwha Khan.** Desarrollar su historia, posición dentro de la Casa Khan y
+   relación con Fhilippo Galenor. Es no Vinculada.
+3. **Herencia del vínculo.** Determinar, si se desarrolla, la línea ancestral
+   del vínculo de Iyuri, sin atribuir la transmisión de un don idéntico.
 4. **Fhilippo Galenor.** Determinar su rama dentro de la Casa Galenor, su
    historia, su relación con Marwha y la forma concreta de su actividad
    mercantil, incluidas sus rutas y residencias.
@@ -631,9 +631,10 @@ guerrero adulto de armadura pesada.
 15. **Calamar Rojo.** Crear, si se aprueba, una acumulación específica para la
      banda y sus integrantes, o ampliar este proceso solo si el alcance sigue
      siendo manejable.
-16. **Registro imperial.** Al tener dieciséis años, determinar si Iyuri está
-      registrado como Portador, si posee licencia y si su actividad de combate
-      está vinculada a una ocupación reconocida.
+16. **Registro imperial.** Iyuri fue registrado como Vinculado durante su
+      infancia. A los dieciséis carecía de licencia Maeggi y utilizaba sus dones
+      habitualmente en las actividades delictivas del Calamar Rojo. Su formación
+      posterior y las reglas aplicables se precisan en la resolución AU-10.
 17. **Aspecto visual.** Confirmar qué rasgos de la propuesta artística pasan a
       ser decisiones del personaje y cuáles permanecen abiertos.
 
@@ -872,10 +873,10 @@ En su madurez temprana, Iyuri conserva una personalidad irreverente, afectuosa, 
 #### 2. Identidad, familia, ascendencia y vínculos
 2.1. Familia Khan–Galenor
 - Iyuri Khan: hijo de Fhilippo Galenor y Marwha Khan. Usa el apellido materno Khan. De ascendencia doble: Hijo del Sol por su padre, sheijad por su madre. Lemuriano en su identificación y crianza; también portador de una herencia vesperyana real.
-- Fhilippo Galenor: padre de Iyuri; mercader originario de Vesperya, reino oriental de las Costas del Verano. Descendiente directo de Rasmus Galenor por una línea de generaciones todavía no especificada. No se ha establecido que sea Vinculado. Es dueño de Lazeroth, espada mística recibida de su propio padre, y prepara un pescado de las Costas del Verano llamado naria asada.
-- Marwha Khan: madre, noble sheijad lemuriana de la Casa Khan. Mantiene con esmero el jardín familiar. Es quien intentó asegurar el futuro de su hijo mediante el matrimonio concertado con Greta Nerve. No se ha establecido que sea Vinculada. Iyuri la llama «umi», forma tradicional sheijad de decir «mamá».
-- Lya Khan: hermana de Iyuri. Sobrevive a la incursión de la Sombra en la mansión. Cuatro años después del rescate, está a punto de casarse con Oskar Rheiner en Phardazul.
-- Essio Galenor: tío paterno de Iyuri, comerciante de las Costas del Verano y hábil estafador. Ayudó al muchacho a escapar de su familia a los catorce años. Más tarde es detenido con una espada mística extraordinariamente valiosa vinculada al primer Raik y diagnosticado como Tocado por la Sombra. La historia específica de cómo llegó a ese estado continúa abierta.
+- Fhilippo Galenor: padre de Iyuri; mercader originario de Vesperya, reino oriental de las Costas del Verano. Descendiente directo de Rasmus Galenor por una línea de generaciones todavía no especificada. Es no Vinculado. Es dueño de Lazeroth, espada mística recibida de su propio padre, y prepara un pescado de las Costas del Verano llamado naria asada.
+- Marwha Khan: madre, noble sheijad lemuriana de la Casa Khan. Mantiene con esmero el jardín familiar. Es quien intentó asegurar el futuro de su hijo mediante el matrimonio concertado con Greta Nerve. Es no Vinculada. Iyuri la llama «umi», forma tradicional sheijad de decir «mamá».
+- Lya Khan: hermana de Iyuri y no Vinculada. Sobrevive a la incursión de la Sombra en la mansión. Cuatro años después del rescate, está a punto de casarse con Oskar Rheiner en Phardazul.
+- Essio Galenor: tío paterno de Iyuri, comerciante de las Costas del Verano y hábil estafador. Ayudó al muchacho a escapar de su familia a los catorce años. Cuando es detenido tiene en su poder Rugido Mordaz, el artefacto místico que perteneció a Rudgar Valgard, primer Raik, y es diagnosticado como Tocado por la Sombra. El origen de su infección y las circunstancias de su posesión de Rugido Mordaz permanecen abiertos.
 - Rasmus Galenor: antepasado directo de Fhilippo y de Iyuri. La distancia generacional exacta no ha sido establecida.
 Observación editorial: ni la condición de Hijo del Sol ni la condición sheijad deben diluirse o presentarse como alternativas excluyentes. Iyuri pertenece a ambas genealogías. Por temperamento, educación y fe, se identifica especialmente con Lemuria, pero su herencia paterna es crucial para comprender la historia de Lazeroth y ciertas armas místicas.
 2.2. Matrimonio concertado con Greta Nerve
@@ -885,7 +886,7 @@ Iyuri había visto a Greta solo una vez y nunca había conversado con ella. No d
 
 Este episodio reaparece, deformado por la Sombra, durante el colapso mental posterior al salto con dos acompañantes: Iyuri experimenta una escena en la que Marwha le reprocha haber rechazado a la muchacha elegida y se lamenta de que prefiera convertirse en cazador itinerante de monstruos.
 2.3. Nana Fey
-Fey Gilmora, llamada afectuosamente Nana Fey, es la cocinera anciana de la familia Khan y una Maeggi retirada, célebre en su pasado como cazadora de Grimm. Iyuri la recuerda como una presencia cariñosa y como la autora de algunas de sus comidas favoritas durante la infancia. En el retorno a la mansión, la encuentra en la cocina, sentada, con los ojos vacíos y el pecho abierto en una cavidad de negrura anómala; la visión sugiere algo terrible ocurrido en la casa. No se ha confirmado con precisión el mecanismo de su muerte ni que la criatura encontrada después haya emergido necesariamente de su cuerpo.
+Fey Gilmora, llamada afectuosamente Nana Fey, fue la cocinera anciana de la familia Khan y una Maeggi retirada, célebre por su pasado como cazadora de Grimm. Iyuri la recuerda con cariño y por sus comidas de infancia. Fey fue Tocada por la Sombra; la infección la consumió y un espectro surgió de su pecho, provocando su muerte. Llevaba bastante tiempo muerta cuando Iyuri encontró su cadáver en la cocina. El espectro que él enfrenta es particularmente grande y poderoso, y conserva capacidad de pensamiento; estas características se relacionan con el considerable poder místico de Fey en vida. No se establece por ello una regla universal de herencia de capacidades. Al encontrarla, Iyuri no comprende necesariamente todo lo sucedido.
 2.4. Oskar Rheiner
 Oskar Rheiner es un año menor que Iyuri: tiene quince años cuando Iyuri tiene dieciséis, dieciocho cuando Iyuri tiene diecinueve y aproximadamente veintidós en la escena nupcial, cuando Iyuri tiene veintitrés. En su primer encuentro es más bajo, reservado, tímido y anhela ingresar o avanzar en la Guardia Real de Flammengard. Tres años más tarde es un joven alto, caballeroso, físicamente atractivo y ya miembro activo de esa Guardia Real.
 
@@ -982,7 +983,9 @@ La infección de Sombra se aplica a los Vinculados, categoría que abarca Portad
 8.2. Corrupción, Toque y ciclo del espectro
 La Sombra puede corromper seres vivos, objetos, lugares y otras realidades materiales o anímicas. Sin embargo, solo los Vinculados pueden infectarse con el Toque de la Sombra. Un Vinculado infectado recibe el nombre de Tocado por la Sombra. La infección comienza en el ámbito de un Mobius y puede transmitirse de Tocado a Vinculado; el funcionamiento exacto del contagio ha sido tema de incontables tratados de Khalos sin consenso definitivo. Puede producirse de modo inmediato o manifestarse más tarde.
 
-Los Tocados a menudo ignoran su condición. La infección los deteriora mental y físicamente mientras una presencia espectral consume o destruye su conexión con los Inits. Finalmente puede morir el huésped y emerger un espectro de Sombra, que buscará consumir o infectar a otros. No debe considerarse automáticamente diagnosticado todo cuerpo hallado con señales de corrupción, ni dar por demostrado que la criatura de la mansión salió de Nana Fey.
+Los Tocados a menudo ignoran su condición. La infección los deteriora mental y físicamente mientras una presencia espectral consume o destruye su conexión con los Inits. El proceso puede culminar con la muerte del huésped y la aparición de un espectro de Sombra. El espectro de la mansión emergió de Fey; la relación entre su infección y la de Essio permanece abierta.
+
+El Toque comprende la infección y la gestación de un espectro en un Vinculado. Cuando nace, el espectro actúa como entidad y busca devorar vínculos místicos y, en muchos casos, también carne. Esa conducta no define por sí sola el mecanismo de transmisión del Toque ni implica un comportamiento idéntico entre espectros. El hecho de que Fhilippo, Marwha y Lya no sean Vinculados es relevante para que Iyuri los encuentre vivos; la razón exacta por la que el espectro los mantiene con vida permanece abierta.
 
 La virulencia se incrementa en esta progresión general:
 
@@ -1023,7 +1026,7 @@ Oskar convence a Iyuri de seguir la vía formal de la certificación Maeggi. Por
 9.5. A los diecinueve y dieciocho: reencuentro y amor
 Transcurridos tres años, Iyuri tiene diecinueve años y sigue formándose en Veleskaria. Es más sereno y reservado que a los dieciséis, aunque conserva la chispa de siempre. Oskar tiene dieciocho, es más alto, distinguido, caballeroso y forma parte activa de la Guardia Real. Ambos se reencuentran cuando Oskar cumple una misión de escolta que lo lleva hacia Veleskaria y Sindria. Oskar ha amado a Iyuri desde el comienzo, pero pensaba que solo lo vería como a un joven amigo. En el reencuentro Iyuri comienza a reconocer sus propios sentimientos. La relación evoluciona de forma natural; no necesita afirmarse un cortejo previo no narrado.
 9.6. Essio como prisionero
-El detenido escoltado por Oskar resulta ser Essio Galenor, tío de Iyuri, detenido en Flammengard cuando huía hacia Lemuria. Porta una espada mística de enorme valor perteneciente al primer Raik; además, pesa sobre él una acusación de implicación con la Mort Tábura. Sus condiciones físicas y mentales son deplorables: sufre mutismo y deterioro acentuado desde la captura. Especialistas místicos de Flammengard, y no Oskar por cuenta propia, lo han diagnosticado como Tocado por la Sombra. Las autoridades han dispuesto conducirlo a Sindria, reino con funciones destacadas de lucha contra la Sombra. Oskar se limita a cumplir la orden de escolta y no decide técnicamente el destino ni el diagnóstico.
+El detenido escoltado por Oskar resulta ser Essio Galenor, tío de Iyuri, detenido en Flammengard cuando huía hacia Lemuria. En el momento de su detención tenía en su poder Rugido Mordaz, el artefacto místico de Rudgar Valgard, primer Raik; además, pesa sobre él una acusación de implicación con la Mort Tábura. Rugido Mordaz es un conjunto de martillo, botas con tacones y escudo. Permanecen sin narrar la forma en que Essio lo obtuvo, el uso que hizo de él, cómo lo transportaba y cómo fueron encontradas sus piezas. Sus condiciones físicas y mentales son deplorables: sufre mutismo y deterioro acentuado desde la captura. Especialistas místicos de Flammengard, y no Oskar por cuenta propia, lo han diagnosticado como Tocado por la Sombra. Las autoridades han dispuesto conducirlo a Sindria, reino con funciones destacadas de lucha contra la Sombra. Oskar se limita a cumplir la orden de escolta y no decide técnicamente el destino ni el diagnóstico.
 
 Iyuri revela a Oskar su historia familiar, incluida su procedencia noble y la ayuda que Essio le prestó al huir de casa. Oskar accede, no sin reservas, a que Iyuri tenga una breve entrevista con su tío. Cerca de Essio, el sello de Andromalius de Iyuri se activa con zumbido y aturdimiento. Oskar insta a no permanecer demasiado. Ambos consideran que otras fuerzas podrían conocer el cautiverio de Essio y que su degradación se está acelerando. Hay un antecedente de un viejo Kagaran, apresado tres años antes, de quien terminó emergiendo un espectro de Sombra. Iyuri llora al reconocer el peligro; Oskar recuerda que en Sindria hay especialistas capaces de evaluar alguna posibilidad de salvarlo.
 9.7. Primer Santuario guiado por Oskar y primer beso
@@ -1127,7 +1130,7 @@ Fhilippo expresa sorpresa ante la existencia de místicos siniestros en Lemuria.
 
 Fhilippo pregunta angustiado dónde están Marwha y Lya. Iyuri se sobresalta, pues no sabe qué ha pasado con ellas mientras luchaba y sufría la infección. Tuk tranquiliza a padre e hijo: otro equipo de rescate está ya en la playa con ambas, y ellas se encuentran fuera del peligro inmediato. Queda así demostrado que la alerta movilizó una respuesta organizada: no llegaron solamente Nimri, Tuk y Benji, también se desplegó personal para proteger a las personas evacuadas.
 10.20. Lo que permanece sin narrar después del rescate
-La escena no desarrolla aún el tratamiento posterior de la infección de Iyuri, su recuperación física, el estado de Nana Fey, la rehabilitación de la familia Khan, el destino de Essio o el proceso por el que Iyuri termina llevando Lazeroth cuatro años después. Estos vacíos son deliberados o pendientes: no deben completarse con conclusiones apresuradas.
+La escena no desarrolla aún el tratamiento posterior de la infección de Iyuri, su recuperación física, la rehabilitación de la familia Khan, el destino de Essio o el proceso por el que Iyuri termina llevando Lazeroth cuatro años después. Estos vacíos son deliberados o pendientes: no deben completarse con conclusiones apresuradas.
 #### 11. Los Cuervos Grises: estructura y estatuto institucional
 Los Cuervos Grises son unidades especializadas en combatir amenazas relacionadas con la Sombra. Existen tanto en las Guardias Reales territoriales como en la Guardia Imperial. El equipo de Lemuria recibe la designación Equipo de Rescate de Emergencias Inmateriales. Su uniforme reglamentario incluye una máscara de cuervo gris, pero casi nunca la llevan puesta en operaciones habituales. El sobrenombre procede de ese elemento de uniforme. Los nombres coloquiales «cuervo del rey» y «cuervo del emperador» distinguen a los integrantes de una Guardia Real y de la Guardia Imperial, respectivamente.
 
@@ -1252,13 +1255,13 @@ Despedida y epílogo
 6. Efecto del agravamiento de virulencia al exponerse a focos diferentes: se sabe que influyen múltiples factores, sin regla matemática cerrada.
 7. Tratamiento posterior de Iyuri, secuelas del Toque y riesgos para una posible recaída.
 8. Identidad del «él» que espera a Iyuri, aludido por el espectro, y significado de la «luz» que lo alimenta.
-9. Relación causal entre Nana Fey, la abertura de su pecho y el espectro: la escena sugiere, no demuestra.
+9. Relación entre la infección de Fey y el Toque de Essio; permanece sin definir su posible vínculo causal.
 10. Alcances de la orden de Nimri, «yo soy tu amo», y del «sueño de Kael».
 11. Fecha y resultado final de la formación Maeggi de Iyuri; existencia de su licencia en etapas posteriores.
 12. Estructura general de los Cuervos Grises en otros reinos y reglas precisas de movilización ante alerta negra.
 13. Biografías, dones y límites individuales de Nimri, Tuk y Benji, más allá de lo ya revelado.
 16.3. Hechos inmediatos que no fueron mostrados
-1. Estado final y destino de Nana Fey.
+1. Circunstancias de la infección de Nana Fey y su posible relación con Essio.
 2. Naturaleza y condición posterior de los daños físicos de Fhilippo, Marwha y Lya.
 3. Cómo termina la recuperación de la mansión, además de la desaparición visible de la corrupción.
 4. Trayectoria y suerte de Essio Galenor tras su traslado previsto a Sindria.
@@ -1276,7 +1279,7 @@ Despedida y epílogo
 6. Diagnóstico: Oskar no diagnostica a Essio. Especialistas de Flammengard lo hacen. El sello de Andromalius detecta peligro pero no diagnostica por sí mismo.
 7. Santuario: la voz siniestra audible dentro ya implica infección. La voz familiar exterior de la casa y la auténtica bendición de Marwha en la playa son fenómenos diferentes.
 8. Alarma: la antorcha negra pide rescate por Sombra; no es un intento de quemar la podredumbre.
-9. Familia: Fhilippo, Marwha y Lya están vivos en el comedor; Iyuri rescata primero a Lya, después a Marwha, y finalmente intenta sacar a Fhilippo. Nana Fey aparece en condiciones terribles, sin interpretación definitiva de su relación con el espectro.
+9. Familia: Fhilippo, Marwha y Lya están vivos en el comedor; Iyuri rescata primero a Lya, después a Marwha, y finalmente intenta sacar a Fhilippo. Iyuri encuentra el cadáver de Nana Fey; el espectro surgió de ella antes de su regreso, aunque él no conoce necesariamente lo ocurrido al encontrarla.
 10. Recuerdo paterno: la reprimenda sobre la espada durante el combate es memoria de Iyuri, no diálogo real del padre ni engaño sonoro del monstruo.
 11. Vuelo o salto triple: la criatura queda arrastrada al sujetarse con una garra a Iyuri; el tercer cuerpo es Fhilippo. Esta es la hazaña registrada por Khalos.
 12. Caída y juicios: son escenas vividas visualmente, con juez, verdugo Oskar, madre y padre presentes para Iyuri, no una lista de voces descontextualizadas. La frontera entre lo físico y lo inducido por la infección sigue sin fijarse.

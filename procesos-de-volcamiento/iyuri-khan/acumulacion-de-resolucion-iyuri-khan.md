@@ -13,13 +13,32 @@ todos los puntos de la auditoría en orden, incluidos los previamente tratados.
 Las decisiones registradas a continuación se conservan como antecedentes
 autorales; ninguna se considera confirmada en esta nueva pasada hasta que el
 autor revise y confirme, modifique o sustituya cada punto. El proceso se
-encuentra actualmente en **AU-09, pendiente de revisión**. AU-12 se revisará
-al final, después de todos los puntos previamente planificados.
+encuentra actualmente en **AU-12, pendiente de revisión cronológica final**.
 
 Se presentará un solo punto por turno, con su contraste documental y opciones.
 Al resolverlo se registrará su formulación final, su estado y su relación con
 el antecedente correspondiente. La auditoría de cierre y el plan esperan hasta
 que concluya esta revisión.
+
+## Criterio autoral: libertad creativa y control de coherencia
+
+Para AU-09 y las resoluciones siguientes, el canon vigente es la referencia de
+lo establecido, pero una decisión autoral puede conservarlo, ampliarlo,
+reinterpretarlo, modificarlo, sustituirlo o reestructurarlo. Las alternativas
+pueden incluir cambios deliberados del canon: deben identificar los hechos
+afectados y sus consecuencias, y considerar su valor narrativo e histórico,
+sin limitarse a minimizar el número de archivos modificados.
+
+Antes de decidir cualquiera de los puntos, el autor puede solicitar antecedentes
+o mayor contexto; el agente puede solicitar información pertinente. No se
+presupone una elección inmediata entre las alternativas propuestas. Cada punto
+continúa revisándose en el orden acordado y ninguna propuesta es una decisión.
+
+Cuando el autor apruebe una modificación se identificarán los hechos
+sustituidos, se examinarán sus consecuencias y se conservarán los elementos
+compatibles. La resolución registrará su precedencia y las reservas necesarias;
+se aplicará la regla anti-fantasmeo en los textos afectados. La decisión queda
+en este proceso no canónico hasta la autorización expresa del volcamiento.
 
 ## Precedencia de las resoluciones finales
 
@@ -134,6 +153,15 @@ hechos del mundo, con las siguientes reglas y reservas:
 8. Se conserva la variabilidad individual de los Mobius y de las demás
    manifestaciones sombrías, junto con los límites canónicos existentes.
 
+**Precisión de AU-11:** el Toque es la infección de un Vinculado, con síntomas y
+deterioro progresivo asociados a la presencia y gestación de un espectro en su
+interior. El proceso puede culminar con la muerte del huésped y el nacimiento
+del espectro. Una vez nacido, el espectro actúa como entidad y busca devorar
+vínculos místicos de Vinculados y, en muchos casos, también su carne. La
+progresión general de virulencia no identifica la conducta depredadora con un
+mecanismo concreto de transmisión. No se fijan nuevas reglas técnicas ni un
+comportamiento idéntico para todos los espectros.
+
 Las reglas confirmadas son verdades del mundo; las explicaciones técnicas no
 resueltas pueden figurar como conocimientos, investigaciones o teorías de
 Khalos. No se fijan tiempos universales de incubación, porcentajes de inmunidad
@@ -145,9 +173,9 @@ documental se revisa en AU-06.
 
 La infección de Essio fue diagnosticada por especialistas; la primera certeza
 narrada de infección de Iyuri ocurre cuando escucha a la Sombra en su Santuario.
-El sello detecta presencia sombría y la alerta negra convoca el rescate. No se
-deduce el origen del espectro de la mansión ni su identidad respecto de Nana
-Fey, cuya situación corresponde a AU-11; tampoco se identifica al «él» ni se
+El sello detecta presencia sombría y la alerta negra convoca el rescate. El
+espectro de la mansión surgió de Fey, conforme a la decisión de AU-11; no se
+identifica al «él» ni se
 define la «luz» de Iyuri. La relación concreta de los Portadores Sombríos con
 los místicos siniestros permanece reservada.
 
@@ -381,7 +409,47 @@ La corrección de nomenclatura y la ubicación política se incorporarán al pla
 los apuntes históricos de `docs/notas.md` se tratarán como registro editorial.
 No se modifica canon hasta la autorización de volcamiento.
 
-## Revisión actual: AU-09, armas místicas y su fabricación
+## AU-09. Armas místicas y su fabricación — cerrado con reservas
+
+### Decisión autoral confirmada: Essio y Rugido Mordaz
+
+Cuando Essio Galenor fue detenido tenía en su poder **Rugido Mordaz**, el
+artefacto que Aurethyron entregó a Rudgar Valgard, primer Raik, al sellar el
+Pacto de Dürr. El conjunto comprende martillo, botas con tacones y escudo, con
+el metal especial y las propiedades documentadas en
+`docs/mundo/stigria/rugido-mordaz.md`. La corrección tiene precedencia en los
+documentos de trabajo. Lazeroth es un artefacto distinto, que pertenecía a
+Fhilippo Galenor.
+
+Quedan reservados la forma en que Essio obtuvo Rugido Mordaz, el uso que hizo
+de él, las circunstancias de su posesión, su transporte, y cómo fueron halladas
+sus piezas durante la detención. El conjunto no autoriza a presumir que Essio
+utilizara sus propiedades del mismo modo que Rudgar. La revisión de la ficha
+del artefacto, del Pacto de Dürr y de la escena de detención no revela una
+incompatibilidad concreta: la trayectoria posterior de Rugido Mordaz no está
+fijada en esos textos. La cronología absoluta y las demás reglas de fabricación
+y uso permanecen sujetas a sus revisiones correspondientes.
+
+El futuro plan deberá trazar la posesión de Essio y revisar la ficha de Rugido
+Mordaz y sus referencias, además de preservar las tres piezas en cualquier
+desarrollo narrativo sin atribuirles un transporte o hallazgo no narrados.
+
+### Fabricación y condiciones de uso — decisión autoral confirmada
+
+Muchas armas místicas proceden de tiempos preimperiales y fueron fabricadas por
+esclavos. Sus condiciones de utilización varían según el artefacto: algunas
+requieren palabras, plegarias o actos de devoción, y muchas están vinculadas a
+los Hijos del Sol. Se conserva lo expresado en la acumulación sobre armas que
+solo pueden ser utilizadas plenamente por Hijos del Sol. Estas características
+no se atribuyen universalmente a todas las armas.
+
+Se conservan los hechos y reservas de Lazeroth y Rugido Mordaz, incluida la
+posesión de este último por Essio durante su detención. La identidad de los
+fabricantes, las tradiciones de fabricación y los mecanismos particulares no
+definidos quedan reservados para desarrollo posterior, fuera de este proceso de
+Iyuri. El plan deberá identificar los destinos de las reglas y los dos
+artefactos, con trazabilidad de los hechos aprobados y sin inferir que uno de
+ellos pertenezca a una tradición o categoría concreta.
 
 La acumulación atribuye muchas armas místicas a esclavos de tiempos
 preimperiales y recoge condiciones de uso diversas; conserva el caso de
@@ -392,8 +460,95 @@ no demuestra que fuera el primero de toda la historia.
 
 `docs/entidades/portadores.md` define las Kantras como ayudas mentales para una
 maestría. Las condiciones de un artefacto no deben confundirse con una regla
-obligatoria para activar un don. La integración de AU-09 queda pendiente de
-revisión autoral.
+obligatoria para activar un don. No se identifica otra incompatibilidad que
+impida cerrar AU-09 con estas reservas. El futuro volcamiento requiere
+autorización independiente.
+
+## AU-10. Registro, licencia y actividad habitual — cerrado con reservas
+
+Iyuri fue registrado oficialmente como Vinculado en su infancia, al manifestar
+sus dones por primera vez. Sus responsables de la Casa Khan cumplieron la
+obligación imperial; cuando huyó a los catorce años ya estaba registrado. A los
+dieciséis, como capitán del Calamar Rojo, estaba registrado y no poseía licencia
+Maeggi. Utilizaba habitualmente sus habilidades místicas para cometer delitos.
+Su actividad era ilegal tanto por los delitos cometidos como por ejercer
+habitualmente una actividad basada en sus dones sin la certificación profesional
+correspondiente. El registro no autorizaba tal ejercicio ni esos actos.
+
+Todo Vinculado debe figurar en el registro imperial. En la infancia, registrarlo
+corresponde a sus padres o responsables legales; desde los dieciséis años la
+responsabilidad recae en la propia persona. La falta de inscripción de un niño
+no implica encarcelarlo ni castigarlo personalmente por el incumplimiento de sus
+responsables.
+
+Una persona vinculada y registrada puede utilizar libremente su don en su vida
+cotidiana sin licencia Maeggi, incluso sin formación profesional. Entretener a
+amistades, ayudar ocasionalmente o sanar excepcionalmente a alguien no requiere
+automáticamente licencia. La repetición de usos cotidianos no equivale por sí
+sola al ejercicio regulado.
+
+La licencia Maeggi se requiere para una actividad habitual o prolongada
+sustentada en dones místicos, especialmente como oficio, ocupación o prestación
+regular de servicios. No se fija un número de usos, plazo mínimo, sanción ni
+trámite nuevo. La utilización de dones para delitos es ilegal por los propios
+actos, con independencia del registro o la licencia.
+
+Tras abandonar el Calamar Rojo, Iyuri inicia formación Maeggi en Veleskaria.
+La formación no concede por sí sola la condición de Maeggi; esta se adquiere con
+la certificación correspondiente. El momento y resultado final de su formación
+y su situación a los veintitrés permanecen reservados.
+
+La decisión complementa las reglas de `docs/entidades/portadores.md`,
+`docs/entidades/invocadores.md` y `docs/taburas/moes-tabura.md`. El futuro plan
+deberá precisar en esas fichas la diferencia entre uso cotidiano, actividad
+habitual regulada y ejercicio profesional, así como la responsabilidad por el
+registro infantil; deberá reflejar también la situación concreta de Iyuri y
+conservar las normas canónicas compatibles. No se ha encontrado contradicción
+que impida cerrar AU-10; el volcamiento requerirá autorización independiente.
+
+## AU-11. Condición de Vinculados y Nana Fey — cerrado con reservas
+
+### Nana Fey — decisión autoral confirmada
+
+Fey Gilmora fue Tocada por la Sombra antes de los acontecimientos de la
+mansión. La infección la consumió y un espectro emergió de su pecho,
+provocando su muerte. Llevaba bastante tiempo muerta cuando Iyuri encontró su
+cadáver en la cocina. El espectro que él enfrenta es esa criatura: es
+particularmente grande y poderoso, conserva capacidad de pensamiento y esas
+características guardan relación con el considerable poder místico que Fey
+poseyó en vida como reconocida cazadora de Grimm y Maeggi retirada. No se fija
+una regla universal de herencia de las capacidades de los huéspedes.
+
+Permanecen deliberadamente abiertos la relación entre las infecciones de Fey y
+Essio, la identidad del «él», la posible obediencia del espectro a otra entidad,
+su posible iniciativa propia y la relación de todo ello con Essio y la Sombra.
+El espectro manifiesta un interés particular por Iyuri; sus propósitos y el
+significado de su «luz» siguen reservados. La narración distinguirá los hechos
+establecidos del conocimiento de Iyuri: el hallazgo no implica que comprenda en
+ese momento la historia de Fey o la procedencia de la criatura.
+
+Esta decisión es compatible con AU-05: la muerte del huésped y la aparición
+del espectro son un desenlace posible, no obligatorio. Debe recibir destino y
+trazabilidad en el futuro plan y respetar las marcas de conocimiento que
+correspondan. El destino de Fey queda resuelto.
+
+### Fhilippo, Marwha y Lya — decisión autoral confirmada
+
+Fhilippo Galenor, Marwha Khan y Lya Khan son **no Vinculados**: no poseen
+vínculo místico con los Inits. Iyuri conoce correctamente esta condición. Su
+supervivencia en la mansión guarda relación con su condición y con la naturaleza
+del espectro nacido de Fey, que es particularmente poderoso. Los vínculos de
+personas Vinculadas habrían sido objetivos especialmente apetecibles para él.
+Las personas no vinculadas pueden ser heridas o morir por ataques físicos de un
+espectro. Quedan abiertos el motivo exacto por el que la criatura mantiene con
+vida a los familiares y su interés específico en Iyuri.
+
+La decisión complementa AU-05 y es compatible con la herencia del vínculo, cuya
+manifestación puede saltar generaciones; la línea concreta de Iyuri permanece
+reservada. El plan trazará las consecuencias en el marco de la Sombra, las
+fichas familiares y la escena, sin identificar de manera automática a su
+antepasado transmisor. No se identifica una incompatibilidad que impida cerrar
+AU-11. Sus resoluciones esperan el volcamiento autorizado.
 
 ## Antecedentes autorales de la revisión anterior
 
@@ -467,13 +622,13 @@ revisará en orden; no cierra ningún punto de la nueva revisión.
 - **AU-08:** cerrado mediante R-06.
 - **AU-10:** reserva sobre registro, licencia y sus consecuencias; no se
   presume una infracción ni una autorización.
-- **AU-11:** revisión de las afirmaciones de vínculo y del estado de Nana Fey;
-  pendiente de decisión sobre este último.
+- **AU-11:** la resolución actual fija la condición de los familiares y el
+  destino de Nana Fey.
 - **AC-01–AC-03:** se conservan las decisiones autorales previas sobre
   ascendencia, Casas y secuencia histórica de Kardan y Lemuria; su adaptación
   al canon corresponde al plan y al volcamiento autorizado.
 
-## Propuesta anterior para AU-11, Nana Fey y condición de Vinculados
+## Antecedente de revisión de AU-11: condición de Vinculados
 
 ### Contraste
 
@@ -487,31 +642,8 @@ Vinculados. La herencia del vínculo puede saltar generaciones conforme a
 `docs/entidades/portadores.md`; no es necesario identificar ahora el linaje que
 lo transmitió.
 
-Sobre **Nana Fey**, 2.3 habla del «mecanismo de su muerte», dando por hecho que
-murió, mientras 10.20 y 16.3 dejan abierto su estado y destino. En 10.3 Iyuri
-la encuentra inmóvil, con el pecho abierto y los ojos vacíos; no se narra una
-comprobación posterior. Es una Maeggi retirada, por lo que la licencia la sitúa
-entre las personas vinculadas según `docs/taburas/moes-tabura.md`; ello no
-prueba que contrajera el Toque ni que el espectro proceda de ella.
-
-Sin decidir qué afirmación prevalece, una futura ficha podría presentar su
-muerte como hecho y, a la vez, reservar si sobrevivió. Su relación causal con el
-espectro y el mecanismo de las heridas pueden permanecer abiertos en cualquiera
-de las opciones.
-
-### Alternativas para decisión humana
-
-1. **Fey ha muerto.** Su muerte queda establecida; la causa, el momento y su
-   relación con el espectro permanecen sin definir.
-2. **Estado sin confirmar.** La escena conserva el hallazgo y deja abierto si
-   Fey murió o sobrevivió; tampoco se fija su relación con el espectro.
-3. **Fey sobrevive.** Permanece con vida tras el incidente; las circunstancias
-   de su rescate, recuperación y relación con el espectro se reservan.
-4. **Otra resolución.** El autor puede proponer otra formulación o combinar y
-   modificar los elementos anteriores.
-
-**Estado:** AU-11 pendiente de respuesta humana sobre Fey. Ninguna alternativa
-ha sido elegida.
+El destino de Fey, el origen del espectro y la condición de los tres familiares
+fueron fijados en la resolución actual de AU-11.
 
 ## AU-12. Cronología absoluta de Iyuri y acontecimientos relacionados — pendiente
 
@@ -539,3 +671,46 @@ La revisión presentará al menos tres propuestas cronológicas viables, con
 fechas aproximadas y consecuencias, y una cuarta opción abierta. Ninguna fecha
 será definitiva sin aprobación autoral. La solución aprobada y sus relaciones
 temporales se incorporarán con trazabilidad al futuro plan de volcamiento.
+
+### Contraste y propuestas para decisión
+
+`docs/cronologia.md` sitúa la conversión de Leandrin en +1214 y el presente
+narrativo en +1680. Las fichas de Mili e Imrik les dan quince y treinta y un
+años durante la Célula 1466; Imrik se incorporó a la Célula 1378 con catorce,
+junto a Arystan y Ellis. Las cifras que identifican las células no son fechas.
+La genealogía de Mili, Arystan, Oskar y Lya debe leerse respetando los alcances
+de canon velado y la resolución AU-04.
+
+Las propuestas siguientes **suponen**, solo para construir escenarios, que las
+edades de la Célula 1466 corresponden aproximadamente a +1680. Entonces Mili
+nacería hacia +1665 e Imrik hacia +1649; la entrada de este en la Célula 1378
+sería hacia +1663. Estas son estimaciones condicionales, no fechas documentadas;
+las edades y nacimientos pueden variar según los cumpleaños y la fecha real de
+la célula. Ninguna propuesta exige que Oskar o Lya sigan vivos en +1663.
+
+| Hito aproximado | Propuesta 1 | Propuesta 2 | Propuesta 3 |
+|---|---:|---:|---:|
+| Nacimiento de Iyuri | +1580 | +1595 | +1605 |
+| Nacimiento de Oskar | +1581 | +1596 | +1606 |
+| Huida de Iyuri, 14 | +1594 | +1609 | +1619 |
+| Captura y primer encuentro, 16/15 | +1596 | +1611 | +1621 |
+| Correspondencia y formación | +1596–1599 | +1611–1614 | +1621–1624 |
+| Reencuentro, Essio y mansión, 19/18 | +1599 | +1614 | +1624 |
+| Boda y partida, 23/22 | +1603 | +1618 | +1628 |
+| Nacimiento hipotético de Arystan | +1610 | +1622 | +1633 |
+
+La captura de Essio y su diagnóstico anteceden al reencuentro; su fecha exacta
+no se determina por esta tabla. En el año aproximado de los diecinueve de
+Iyuri se sitúan la escolta, el Santuario, el regreso a Lemuria, el salto con
+dos acompañantes y el rescate. La boda se ubica cuatro años después. Los
+nacimientos de Arystan son hipótesis para examinar el encaje, no datos
+aprobados: tendría aproximadamente 53, 41 o 30 años, respectivamente, cuando
+Imrik ingresa en la Célula 1378, y 55, 43 o 32 al nacer Mili, según los mismos
+supuestos. No se establece la edad de Lya ni el momento de las muertes de
+Arystan y Ellis. El intervalo exacto desde Leandrin y las generaciones Galenor y
+Rheiner siguen sujetos a decisión.
+
+La primera propuesta sitúa la historia más atrás y supone una paternidad de
+Arystan más tardía; la segunda ofrece una distancia intermedia; la tercera
+acerca la historia a la generación de Arystan y Mili. Una cuarta opción queda
+abierta para fijar o modificar fechas. No se ha elegido ninguna propuesta.
