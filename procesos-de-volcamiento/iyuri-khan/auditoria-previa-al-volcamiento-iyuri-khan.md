@@ -30,8 +30,9 @@ no un plan de volcamiento ni destinos definitivos aprobados.
 
 **Estado de revisión:** confirmado y cerrado por R-01 en la acumulación de
 resoluciones: Askenburg fue la capital original y quedó destruida durante las
-Guerras Místicas; Phardazul es la capital posterior y vigente. Los detalles de
-la destrucción y el traslado permanecen reservados. El contraste siguiente
+Guerras Místicas por el ejército de Leandrin y sus dragones; Phardazul es la
+capital posterior y vigente. Los detalles de la destrucción y el traslado
+permanecen reservados. El contraste siguiente
 documenta el canon que deberá actualizarse durante el volcamiento autorizado.
 
 - **Acumulación:** 6.2 y 12 sitúan la escena frente a Phardazul y la
@@ -46,6 +47,12 @@ documenta el canon que deberá actualizarse durante el volcamiento autorizado.
 
 ### AU-02. Leandrin y la proclamación en la canción
 
+**Estado de revisión:** confirmado y cerrado con reservas por R-02. La
+proclamación es un hecho histórico; Phardazul nació como enclave de Leandrin
+durante la Primera Guerra Mística y se convirtió en una ciudad sobre ríos de
+lava. El lugar exacto de la proclamación y el desenlace de la guerra se
+reservan. El contraste siguiente identifica el canon que deberá actualizarse.
+
 - **Acumulación:** 6.2 y 12.2 presentan la canción como exagerada, pero su
   resumen incorpora la proclamación de Leandrin como emperatriz del mundo en
   Phardazul. No se aclara si ese hecho también pertenece a la invención de
@@ -54,12 +61,16 @@ documenta el canon que deberá actualizarse durante el volcamiento autorizado.
   `docs/mundo/stigria/dragma/guerras-misticas.md` registran su intento de tomar
   Flemmengard; el desenlace de esa guerra permanece reservado. No establecen
   una proclamación imperial ni la toma de la capital.
-- **Decisión necesaria:** delimitar el estatuto de esa proclamación y, si se
-  trata de un hecho histórico, su relación con el desenlace reservado. La
-  hipérbole geográfica de una canción no prueba ni desmiente por sí sola un
-  acontecimiento político.
+- **Tratamiento:** incorporar R-02 durante el volcamiento autorizado,
+  respetando las reservas y distinguiendo el fundamento geográfico e histórico
+  de la canción de sus otras afirmaciones.
 
 ### AU-03. Ose, Inits encarnados y alcance del conocimiento
+
+**Estado de revisión:** confirmado y cerrado con reservas por R-03. Andromalius,
+Dionisia y Ose son Inits encarnados; se reservan su mecanismo y su relación con
+Irij. El contraste siguiente identifica las fichas y las marcas que deberán
+respetarse durante el volcamiento autorizado.
 
 - **Acumulación:** 5 y 16.2 describen a Dionisia como Init encarnado y
   mencionan a Andromalius y Ose en ese ámbito, con sus trayectorias pendientes.
@@ -68,14 +79,15 @@ documenta el canon que deberá actualizarse durante el volcamiento autorizado.
   que los Inits regresaron a Irij y no volvieron a salir por medios propios.
   En `docs/personajes/arystan-khan.md`, `ose.md`, `cerbero.md` e `imrik.md` el
   sellado de Ose y su conocimiento están sujetos a canon velado.
-- **Decisión necesaria:** precisar si el desarrollo afirma objetivamente la
-  identidad de Ose, la de Andromalius y la naturaleza de la encarnación de
-  Dionisia, y cómo se relacionan esas afirmaciones con el regreso de los Inits.
-  Decidir su tratamiento frente a los conocimientos velados cuando exista una
-  verdad y un alcance de ignorancia definidos. No deducir el mecanismo de
-  Lazeroth ni revelar el sellado por mera asociación de nombres.
+- **Tratamiento:** aplicar R-03, conservar las reservas y respetar el alcance
+  de los conocimientos velados. No deducir el mecanismo de Lazeroth ni revelar
+  el sellado por mera asociación de nombres.
 
 ### AU-04. Cronología genealógica y alcance del canon velado
+
+**Estado de la revisión actual:** cerrado con reservas mediante R-04. El
+conocimiento se delimitará por relación y época; las fechas absolutas y las
+separaciones entre generaciones se revisarán al final en AU-12.
 
 - **Acumulación:** Iyuri y Oskar se conocen con 16 y 15 años, se reencuentran
   con 19 y 18, y cuatro años después Oskar está por casarse con Lya, hermana de
@@ -86,14 +98,10 @@ documenta el canon que deberá actualizarse durante el volcamiento autorizado.
   para todos salvo Dravora e Imrik. Mili tiene quince años en la Célula 1466;
   Imrik, treinta y uno. `cronologia.md` sitúa a Leandrin en +1214 y el presente
   en +1680; Rasmus conoció a Leandrin cuando ella tenía seis años.
-- **Decisión necesaria:** definir el encaje temporal suficiente de la historia
-  de Iyuri respecto de esas generaciones y del presente, y el alcance preciso
-  del conocimiento de la relación Oskar–Lya, la filiación de Arystan y su
-  descendencia. La fórmula vigente «todos excepto Dravora e Imrik» debe
-  interpretarse respecto de quiénes estaban vivos y conocían esos hechos: la
-  boda no autoriza a hacer pública la genealogía completa de Mili ni a cambiar
-  unilateralmente las marcas. No se deduce una edad exacta ni una longevidad
-  especial para Rasmus o sus descendientes.
+- **Tratamiento resuelto:** aplicar los criterios individuales de R-04 y
+  preservar los conocimientos canónicos de Dravora e Imrik. Los alcances de
+  conocimiento no indispensables quedan reservados. El ajuste de marcas será
+  parte del plan y requerirá autorización de volcamiento.
 
 ### AU-05. La Sombra, el Toque y los espectros como sistema general — integración
 

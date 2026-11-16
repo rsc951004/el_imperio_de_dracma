@@ -13,7 +13,8 @@ todos los puntos de la auditoría en orden, incluidos los previamente tratados.
 Las decisiones registradas a continuación se conservan como antecedentes
 autorales; ninguna se considera confirmada en esta nueva pasada hasta que el
 autor revise y confirme, modifique o sustituya cada punto. El proceso se
-se encuentra actualmente en **AU-02, pendiente de decisión**.
+encuentra actualmente en **AU-05, pendiente de revisión**. AU-12 se revisará
+al final, después de todos los puntos previamente planificados.
 
 Se presentará un solo punto por turno, con su contraste documental y opciones.
 Al resolverlo se registrará su formulación final, su estado y su relación con
@@ -31,61 +32,173 @@ y no constituye una contradicción por sí misma. Las formulaciones anteriores
 a este reinicio se conservan más abajo como antecedentes y están sujetas a la
 nueva revisión punto por punto.
 
-### R-01 / AU-01. Capital de Flemmengard — confirmado y cerrado
+### R-01 / AU-01. Capital de Flammengard — confirmado y cerrado
 
-**Askenburg** fue la capital original de Flemmengard y quedó destruida durante
-las Guerras Místicas. **Phardazul** es la capital posterior y vigente. El día
+**Askenburg** fue la capital original de Flammengard y quedó destruida durante
+las Guerras Místicas por el ejército de Leandrin Rheiner y sus dragones.
+**Phardazul** es la capital posterior y vigente. El día
 de la boda de Oskar y Lya, Iyuri y Oskar se despiden en una colina frente a
-Phardazul. Quedan reservados la fecha del traslado, las circunstancias exactas
-de la destrucción y sus responsables.
+Phardazul. Quedan reservados la fecha del traslado y las circunstancias
+precisas de la destrucción.
 
 Esta decisión confirma la sucesión de capitales previamente expresada y
-establece la grafía Phardazul. Prevalece sobre las formulaciones incompatibles
-de los documentos de trabajo. La ficha canónica de Flemmengard, que presenta
-Askenburg como capital, deberá adecuarse durante el volcamiento autorizado.
-La relación de la proclamación de Leandrin y la canción con la ciudad se
-revisa en AU-02; no es necesario fijarla para cerrar la sucesión de capitales.
+establece la grafía Phardazul. La responsabilidad del ejército de Leandrin y
+sus dragones complementa la reserva anterior sin definir detalles de la
+destrucción. Prevalece sobre las formulaciones incompatibles de los documentos
+de trabajo. La ficha canónica del reino deberá adecuarse cuando se autorice el
+volcamiento.
 
-## Revisión actual: AU-02, proclamación de Leandrin
+### R-02 / AU-02. Leandrin, Phardazul y la canción — confirmado y cerrado con reservas
 
-La acumulación (6.2 y 12.2) relaciona con Phardazul una canción que menciona
-la proclamación de Leandrin como emperatriz del mundo. La ficha canónica de
-Leandrin y la de las Guerras Místicas recogen su guerra por Flemmengard y
-dejan reservado el desenlace, sin fijar una proclamación ni su lugar.
+Durante la Primera Guerra Mística, Phardazul fue originalmente un enclave de
+Leandrin. Con el tiempo se desarrolló hasta convertirse en una gigantesca
+ciudad construida sobre ríos de lava y en la capital vigente de Flammengard.
+Leandrin se proclamó **emperatriz del mundo**; su proclamación no establece
+que gobernara efectivamente todo el mundo. La canción recordada por Iyuri
+mezcla hechos y exageraciones: la referencia a Leandrin y los ríos de lava
+tienen fundamento histórico o geográfico, sin confirmar automáticamente las
+demás afirmaciones de la canción.
 
-Como antecedente autoral R-02 afirma que la proclamación es histórica, sin
-concluir que Leandrin dominara el mundo. Está pendiente de confirmación en
-esta revisión. AU-01 establece que Askenburg fue destruida durante las Guerras
-Místicas y Phardazul fue capital posteriormente; no fija cuándo existió o fue
-nombrada Phardazul. Las opciones sobre el hecho y el lugar de la proclamación
-se presentan para decisión humana. Ninguna está elegida en esta pasada.
+Quedan reservados el **lugar exacto de la proclamación**, el desarrollo del
+enclave, el momento preciso del traslado de la capital y el desenlace de la
+guerra. La decisión confirma el carácter histórico previamente expresado y
+añade el origen de Phardazul y su geografía. Su incorporación requerirá
+actualizar las fichas de Leandrin, las Guerras Místicas y el reino. Ninguna
+afirmación canónica revisada establece un desenlace incompatible ni obliga a
+fijar dónde se proclamó; las reservas permiten cerrar este punto.
+
+### R-03 / AU-03. Inits encarnados — confirmado y cerrado con reservas
+
+**Andromalius, Dionisia y Ose son Inits encarnados.** Quedan reservados el
+mecanismo de encarnación, su relación con Irij, las circunstancias históricas
+y las particularidades de cada uno. Sus historias y relaciones concretas con
+los humanos se desarrollarán posteriormente.
+
+La decisión confirma el antecedente autoral R-03. La identidad de Ose deberá
+reflejarse en su ficha durante el volcamiento autorizado; las referencias a
+los otros dos Inits deberán recibir destino en el plan. Se respetarán las
+marcas de canon velado y los conocimientos de los personajes. La existencia de
+encarnaciones no demuestra por sí sola que los Inits hayan salido de Irij por
+medios propios; el mecanismo queda reservado sin afirmar cómo ocurre. No se
+identifica otra contradicción indispensable para cerrar AU-03.
+
+### R-04 / AU-04. Genealogía y canon velado — cerrado con reservas
+
+Los acontecimientos de Iyuri, Oskar y Lya transcurren siglos después de
+Leandrin Rheiner. Cada relación genealógica y su conocimiento se examinarán
+por separado, atendiendo a las personas y al período correspondiente:
+
+- Oskar, Lya, Iyuri y quienes participan en los acontecimientos de su época
+  conocen la relación y el matrimonio de Oskar y Lya.
+- La filiación de Arystan respecto de Oskar y Lya se evaluará por separado,
+  sin atribuir su conocimiento o desconocimiento a todas las personas.
+- La ascendencia de Mili y sus vínculos con generaciones anteriores conservarán
+  las condiciones de canon velado correspondientes a su época. Conocer la boda
+  histórica no implica conocer la genealogía posterior.
+- La descendencia de Oskar respecto de Leandrin y sus vínculos con las
+  generaciones posteriores se examinarán como hechos independientes, según lo
+  que conoce cada personaje.
+- Se preservará el conocimiento que el canon atribuye a Dravora e Imrik sobre
+  los secretos correspondientes; también se respetarán las demás marcas vigentes.
+
+El plan identificará los fragmentos y fichas que deban ajustarse y delimitará
+las marcas sin atribuir conocimientos no establecidos. Los alcances que no
+sea indispensable precisar quedan reservados. La revisión de las fichas no
+revela otra incompatibilidad imprescindible para cerrar este punto. Las fechas
+absolutas y separaciones generacionales se revisarán en AU-12.
+
+### R-07. Nomenclatura de Flammengard — decisión general cerrada
+
+El nombre correcto y definitivo del reino es **Flammengard**. Históricamente,
+su territorio se llamó **Flammen** y, desde que recibió denominación como reino,
+se llamó Flammengard. Es una corrección autoral retrospectiva de la nomenclatura,
+no un cambio de nombre histórico. Se aplica a habitantes, instituciones,
+Guardia Real, acontecimientos y referencias geográficas y genealógicas. Otros
+nombres propios, como **Flemmen**, deben examinarse por su definición específica
+y no modificarse automáticamente.
+
+El inventario de abajo identifica las fuentes y dependencias; el plan de
+volcamiento incorporará la trazabilidad y la ejecución global requerirá la
+autorización expresa del autor. Esta decisión general está cerrada y no altera
+la obligación de revisar cada AU en orden.
+
+## Inventario para el futuro plan: nomenclatura y rutas
+
+La búsqueda textual en `docs/` y `cuentos/` identificó las referencias
+siguientes. Las rutas reflejan el estado actual del repositorio, no la ruta
+futura. La comprobación final deberá repetirse al preparar y ejecutar el plan.
+
+- **Ficha y referencias del reino:**
+  `docs/mundo/stigria/dragma/flemmengard/flemmengard.md`,
+  `docs/mundo.md`, `docs/12-reinos.md`,
+  `docs/mundo/stigria/dragma/dragma.md`,
+  `docs/mundo/stigria/dragma/concordia.md`,
+  `docs/mundo/stigria/edad-de-plata.md` y
+  `docs/mundo/stigria/cantera-de-nombres/hierro.md`.
+- **Casas:** `docs/casas/brandt.md`, `docs/casas/gundrek.md`,
+  `docs/casas/mhaister.md`, `docs/casas/rheiner.md` y `docs/casas/wolfen.md`.
+- **Personajes e índice:** `docs/personajes.md`,
+  `docs/personajes/monarcas/freda-brandt.md`,
+  `docs/personajes/historicos/leandrin-rheiner.md`,
+  `docs/personajes/historicos/sirene-zorana.md`,
+  `docs/personajes/historicos/hijo-del-senor-vecino.md`,
+  `docs/personajes/historicos/principe-de-flemmengard.md` y
+  `docs/personajes/historicos/rey-de-flemmengard-en-tiempos-de-leandrin.md`.
+- **Sistemas e historia:** `docs/entidades/invocadores.md` y
+  `docs/mundo/stigria/dragma/guerras-misticas.md`. La búsqueda no halló la
+  grafía del reino en `cuentos/` ni en `docs/cronologia.md` al momento de esta
+  revisión; la cronología deberá contrastarse por dependencia histórica.
+- **Rutas y enlaces:** la ruta de la ficha territorial y las dos fichas
+  históricas cuyo nombre contiene la grafía anterior requieren una operación
+  de normalización y revisión de enlaces entrantes. `docs/mundo.md`,
+  `docs/personajes.md`, `docs/casas/gundrek.md`, `docs/casas/wolfen.md` y la
+  ficha del rey histórico contienen enlaces o rutas que deben comprobarse.
+  El plan determinará los destinos y todas las referencias afectadas; ahora
+  no se renombra ni mueve ningún archivo.
+- **Custodia descanonizada:** `docs/personajes/monarcas/kaspar-wolfen.md` y
+  `docs/personajes/monarcas/marlo-falken.md` contienen la grafía anterior y
+  llevan marca de descanonización. Su contenido no es canon vigente; cualquier
+  operación debe respetar su custodia y las decisiones aplicables, sin
+  recanonizarlos por corregir una grafía.
+- **Historial editorial:** `docs/notas.md` contiene referencias a la grafía
+  anterior, incluido un registro histórico de cambios. Su tratamiento se
+  trazará expresamente junto con la nueva entrada del volcamiento y el alcance
+  global solicitado; el historial no establece una denominación intramundana.
+- **Nombre histórico y otros nombres:** los usos de `Flemmen` aparecen en
+  `docs/mundo/stigria/gherin.md`, `stigria.md`, `historia-antigua.md`,
+  `edad-de-la-podredumbre.md`, `edad-de-plata.md`,
+  `guerra-del-valle-dorado.md`, `docs/organizaciones/bloque-de-hierro.md`,
+  `docs/organizaciones.md`, `docs/personajes/rudgar-valgard.md`,
+  `docs/casas/meister.md`, `docs/mundo/stigria/dragma/stamengherin.md` y
+  `docs/mundo/stigria/dragma/dragma.md`, además del historial. Debe distinguirse
+  la designación histórica **Flammen** de nombres propios con definición
+  específica; no hacer sustitución automática de `Flemmen`.
+- **Procesos no canónicos:** hay referencias en los procesos de Edad de la
+  Tiranía, Identidad de los Doce Reinos, Ishbaal y los Sheijad, Iyuri Khan,
+  Leandrin Rheiner y Títulos Nobiliarios. Revisar su tratamiento y enlaces en
+  el plan sin considerarlos fuentes de canon ni modificarlos automáticamente.
+  `protoversiones/` está sujeto a su barrera de solo lectura.
+
+## Revisión actual: AU-05, la Sombra, el Toque y los espectros
+
+La acumulación, apartados 8.1–8.3, desarrolla el Toque de la Sombra, su
+transmisión entre Vinculados, la aparición de espectros y las capacidades de
+los místicos siniestros. `docs/entidades/mobius.md` establece corrupción pasiva,
+consumo posible del vínculo y capacidades individuales variables; el canon
+consultado no define ese conjunto de reglas. Es una ampliación que requiere
+revisión, no una contradicción demostrada. AU-05 permanece pendiente de la
+decisión autoral sobre su tratamiento.
 
 ## Antecedentes autorales de la revisión anterior
 
 AU-01 fue confirmado con corrección onomástica en R-01. Los antecedentes
 siguientes esperan su revisión individual.
 
-### R-02 / AU-02. Proclamación de Leandrin — pendiente de revisión
+AU-02 fue confirmado y ampliado en R-02.
 
-Leandrin Rheiner efectivamente **se proclamó emperatriz del mundo**; se trata
-de un acontecimiento histórico que también aparece en una canción popular.
-La proclamación no establece que haya ejercido dominio efectivo sobre todo el
-mundo. Dracma y sus reinos continúan existiendo; Oskar Rheiner es uno de sus
-descendientes y miembro de la Guardia Real. El desenlace de la guerra y los
-detalles no establecidos de la proclamación quedan reservados.
+AU-03 fue confirmado con reservas en R-03.
 
-### R-03 / AU-03. Inits encarnados — pendiente de revisión
-
-**Andromalius, Dionisia y Ose son Inits encarnados.** Su historia,
-características, encarnaciones y relaciones concretas con los humanos quedan
-reservadas para desarrollo posterior. No se establece aquí el mecanismo de la
-encarnación ni el de Lazeroth. La afirmación sobre Ose sustituye, en este
-proceso, la reserva canónica sobre su identidad; deberá integrarse respetando
-las marcas de canon velado que correspondan. La relación precisa con el
-regreso de los Inits a Irij y su permanencia allí se reserva, sin inventar un
-mecanismo.
-
-### R-04 / AU-04. Marco temporal familiar — pendiente de revisión
+### Antecedente R-04 / AU-04. Marco temporal familiar — confirmado y precisado
 
 La historia de Iyuri, Oskar y Lya ocurre **siglos después de Leandrin**. Iyuri
 desciende de Rasmus Galenor por Fhilippo; Oskar desciende de Leandrin y es
@@ -194,3 +307,30 @@ de las opciones.
 
 **Estado:** AU-11 pendiente de respuesta humana sobre Fey. Ninguna alternativa
 ha sido elegida.
+
+## AU-12. Cronología absoluta de Iyuri y acontecimientos relacionados — pendiente
+
+Este será el **último punto de revisión**, después de todos los conflictos y
+resoluciones previamente planificados. No se fijan ahora fechas ni se adelanta
+su discusión.
+
+Se revisarán los años aproximados de nacimiento de Iyuri y Oskar; la huida de
+Iyuri de Lemuria a los catorce años; su capitanía del Calamar Rojo y encuentro
+con Oskar a los dieciséis y quince; los tres años de correspondencia y formación
+Maeggi; el reencuentro a los diecinueve y dieciocho; la captura de Essio y los
+acontecimientos relacionados con la Sombra; el regreso a Lemuria, el incidente
+de la mansión, el salto con dos acompañantes y el rescate de los Cuervos Grises;
+los cuatro años hasta la boda de Oskar y Lya; la despedida en Phardazul y la
+partida de Iyuri hacia Sturmgard a los veintitrés años aproximadamente.
+
+También se examinarán las relaciones temporales con Lya, Arystan y sus
+descendientes, y con los personajes y acontecimientos históricos canónicos
+que condicionen las fechas. Al llegar a este punto se consultarán la cronología,
+las genealogías y las marcas de canon velado pertinentes; se distinguirán las
+fechas documentadas de las deducciones y estimaciones, y se identificarán las
+posibles incompatibilidades entre edades, acontecimientos y generaciones.
+
+La revisión presentará al menos tres propuestas cronológicas viables, con
+fechas aproximadas y consecuencias, y una cuarta opción abierta. Ninguna fecha
+será definitiva sin aprobación autoral. La solución aprobada y sus relaciones
+temporales se incorporarán con trazabilidad al futuro plan de volcamiento.
