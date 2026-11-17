@@ -35,9 +35,13 @@ La Casa Gilden recibió la primera corona de Guldengard. En la Edad de Oro
 gobierna la Casa Reginvar. El motivo y las etapas del relevo permanecen
 reservados.
 
+Guldengard es el tercer reino donde viven principalmente grupos dispersos de
+los Gheran nómades, junto con Flammengard y Eisengard.
+
 ## Referencias
 
 - `docs/casas/gilden.md`
 - `docs/casas/reginvar.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/edad-de-plata.md`
+- [Gheran nómades](../../gheran-nomades.md)

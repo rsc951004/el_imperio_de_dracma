@@ -26,8 +26,17 @@ fornidos; facciones toscas; y poca propensión masculina a desarrollar barba.
 Su estatura superaba incluso la de los brumenses originarios. Estos rasgos no
 constituían requisitos de pertenencia.
 
+## Distinción de los Gheran nómades
+
+Los Gheran históricos son el pueblo antiguo descrito en esta ficha. Los
+Gheran nómades son un pueblo contemporáneo distinto. En tiempos de Leandrin
+Rheiner, «un gheran» se usaba comúnmente para referirse a una persona de los
+nómades de las Tierras del Hierro. No se ha establecido una explicación común
+para el nombre ni parentesco étnico, lingüístico o genealógico entre ambos.
+
 ## Referencias
 
 - `docs/mundo/stigria/historia-antigua.md`
 - `docs/mundo/stigria/guerra-del-valle-dorado.md`
 - `docs/personajes/val-el-terrible.md`
+- `docs/mundo/stigria/gheran-nomades.md`

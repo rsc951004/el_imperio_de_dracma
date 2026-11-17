@@ -1,5 +1,18 @@
 # Notas editoriales
 
+### Gheran nómades, tradición de Phardazul y dragones supervivientes (2026-11-17)
+
+Se incorporaron los Gheran nómades como pueblo contemporáneo distinto de los
+Gheran históricos, con grupos dispersos por Flammengard, Eisengard y
+Guldengard. Se documentó como creencia de ese pueblo la tradición de
+Phardazul Raik, sin confirmar que la figura exista ni que la profecía se
+cumpla. Se amplió Phardazul con sus accesos, niveles, columnas, palacio y nivel
+inferior inhabitado. De los dragones asociados a Leandrin se fijaron seis
+supervivientes: dos fugitivos —un macho y una hembra— de destino desconocido y
+cuatro convertidos en piedra junto a las entradas principales de Phardazul.
+La posibilidad de despertarlos permanece como parte de la tradición, no como
+hecho confirmado.
+
 ### Fichas terminológicas del custodio imperial y quimeras estabilizadas (2026-11-17)
 
 Se crearon fichas para Severus Rizen, Keven Steinert, Mila Hubbe, Elastor y

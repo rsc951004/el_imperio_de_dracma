@@ -87,6 +87,10 @@ estuvo con Gin y Beku. Tras la transformación que manifestó Beku, unas voces
 transmitieron un ultimátum en nombre del Señor de la Sangre y el Hueso. La
 naturaleza de la manifestación permanece abierta.
 
+Desde niño se sentía fascinado por Flammengard, Phardazul, Leandrin Rheiner y
+las quimeras. Su comentario sobre un grimyi del desierto forma parte de ese
+interés personal.
+
 ## Fragmento
 
 - [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
@@ -117,6 +121,7 @@ naturaleza de la manifestación permanece abierta.
 - `docs/mundo/stigria/artefactos-misticos.md`
 - `docs/mundo/stigria/cancion-phardazul.md`
 - `docs/mundo/stigria/historia-de-phardazul.md`
+- `docs/entidades/grimyi.md`
 - [Rendard Steinert](rendard-steinert.md)
 - [Gin](gin.md)
 - [Beku](beku.md)

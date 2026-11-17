@@ -26,6 +26,11 @@ que todas las quimeras puedan estabilizarse, cuánto tarda el proceso, qué
 condiciones requiere, si es natural o exige intervención mística posterior,
 reglas reproductivas universales ni cuántas especies existen.
 
+De los dragones asociados a Leandrin, seis sobrevivieron a las Guerras
+Místicas: dos huyeron y cuatro permanecieron petrificados junto a las cuatro
+entradas principales de Phardazul. La creencia de que pueden despertar
+pertenece a la tradición de los Gheran nómades y no está confirmada.
+
 ## Regulación
 
 Tras el final de las Guerras Místicas, la creación de nuevas quimeras quedó
@@ -42,4 +47,6 @@ desde Leandrin Rheiner, siglos atrás.
 - [Leandrin Rheiner](../personajes/historicos/leandrin-rheiner.md)
 - [Arystan Khan](../personajes/arystan-khan.md)
 - [Guerras Místicas](../mundo/stigria/dragma/guerras-misticas.md)
+- [Phardazul](../mundo/stigria/dragma/flammengard/phardazul.md)
+- [Gheran nómades](../mundo/stigria/gheran-nomades.md)
 - [El custodio imperial](../../fragmentos/el-custodio-imperial.md)

@@ -20,6 +20,8 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Valgard y Eldengard** | Precisar el momento y la causa de la vinculación inicial de Valgard con la fortaleza. |
 | **Banda de la Piedra Mohosa** | Resolver el destino de sus integrantes y su supervivencia en el conducto del Rost. |
 | **Portadores Sombríos** | Definir su naturaleza, herencia, capacidades y relación con otros Portadores. |
+| **Gheran nómades** | Definir si existe una explicación histórica común para el nombre respecto de los Gheran históricos; no se presupone parentesco ni continuidad. |
+| **Phardazul Raik** | Determinar, si se decide desarrollar la tradición, si el nombre designa una persona histórica, futura, un título o una figura profética; su existencia y la profecía no están confirmadas. |
 | **Quimeras estabilizadas** | Confirmar una denominación definitiva y dejar abiertos el tiempo y las condiciones del proceso, su origen natural o místico, las reglas reproductivas universales y el número de especies. |
 | **Nombres y voluntad** | Determinar el alcance de los efectos observados en Strigor y el Rey Podrido. |
 | **Entrega al Rey Podrido** | Resolver las consecuencias metafísicas de la posesión sobre la voluntad o el alma. |

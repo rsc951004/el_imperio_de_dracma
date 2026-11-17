@@ -47,6 +47,9 @@ Landwalt ejerce la autoridad política del Víer.
 ## Concepto
 Noroeste volcánico, piromancia. Región de actividad geotérmica y tradición ígnea.
 
+Grupos de los Gheran nómades viven dispersos por Flammengard. Son un pueblo
+contemporáneo distinto de los Gheran históricos.
+
 ## Economía
 Energía geotérmica y minería volcánica. Centro de estudios pirománticos.
 
@@ -56,6 +59,8 @@ Energía geotérmica y minería volcánica. Centro de estudios pirománticos.
 - `docs/12-reinos.md`
 - `docs/casas/wolfen.md`
 - `docs/casas/gundrek.md`
+- [Gheran nómades](../../gheran-nomades.md)
+- [Phardazul](phardazul.md)
 
 ## Guía de nombres
 **Germánica.** Los nombres de personas y lugares de Flammengard siguen la tradición germánica.

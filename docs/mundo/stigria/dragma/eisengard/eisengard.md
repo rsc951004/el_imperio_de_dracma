@@ -35,6 +35,9 @@ El reino limita con las regiones históricas de Gülden, Sturm y el Gran Valle.
 Las casas del valle que huyeron del Rey Podrido hacia el este dieron origen a
 su población posterior.
 
+También hay grupos dispersos de los Gheran nómades en Eisengard; no se ha
+establecido una continuidad entre ellos y los Gheran históricos.
+
 ## Referencias
 
 - [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
@@ -42,3 +45,4 @@ su población posterior.
 - `docs/casas/eberwulf.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/edad-de-plata.md`
+- [Gheran nómades](../../gheran-nomades.md)

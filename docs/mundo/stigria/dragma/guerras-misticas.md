@@ -22,6 +22,13 @@ hermanos en dragones inspirándose en la leyenda del Tamurak de la vieja Erebia.
 Ellos partieron voluntariamente y perdieron el raciocinio con el tiempo que
 permanecieron transformados. Los dragones sembraron el caos por el Imperio.
 
+Seis dragones asociados a Leandrin sobrevivieron a las Guerras Místicas. Dos
+huyeron con rumbo desconocido —un macho y una hembra— y cuatro permanecieron
+en Phardazul, convertidos en piedra junto a las cuatro entradas principales.
+La tradición de los Gheran nómades sostiene que esos cuatro pueden despertar;
+no está confirmado que sigan vivos dentro de la piedra ni que la petrificación
+pueda revertirse.
+
 Los dragones son además una especie estable y reproducible de origen
 quimérico. «Quimeras estabilizadas» es un término provisional pendiente de
 nombre definitivo; no están fijados el proceso ni las condiciones de esa
@@ -62,5 +69,8 @@ precisa de la Aniquilación dentro de la Segunda Dinastía.
 - `docs/entidades/invocadores.md`
 - `docs/entidades/quimeras.md`
 - `docs/entidades/dragones.md`
+- `docs/mundo/stigria/dragma/flammengard/phardazul.md`
+- `docs/mundo/stigria/gheran-nomades.md`
+- `docs/mundo/stigria/phardazul-raik.md`
 - `docs/entidades/portadores.md`
 - `docs/organizaciones/orden-de-la-flama-blanca.md`

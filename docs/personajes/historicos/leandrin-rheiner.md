@@ -53,13 +53,22 @@ suscitando una pugna por su control. Inspirada por la leyenda del Tamurak de la
 vieja Erebia, transformó a sus dieciséis hermanos en dragones. Partieron por
 voluntad propia y conservaron inicialmente sus recuerdos e identidad. Al
 permanecer transformados, perdieron gradualmente el
-raciocinio y sembraron el caos por el Imperio. Los destinos individuales y el
-desenlace de la guerra de usurpación permanecen reservados.
+raciocinio y sembraron el caos por el Imperio. Los destinos individuales de
+los demás dragones asociados a Leandrin y el desenlace de la guerra de
+usurpación permanecen reservados.
 
 Los dragones son además una especie estable y reproducible de origen
 quimérico; se clasifican provisionalmente entre las quimeras estabilizadas.
 La consolidación de los individuos transformados como especie no tiene un
 proceso o plazo establecido.
+
+Seis de los dragones asociados a Leandrin sobrevivieron a las Guerras
+Místicas. Dos huyeron con rumbo desconocido: un macho y una hembra. Los otros
+cuatro permanecieron en Phardazul, convertidos en piedra junto a sus cuatro
+entradas principales. Sus destinos se detallan en la ficha de
+[Phardazul](../../mundo/stigria/dragma/flammengard/phardazul.md). La tradición
+de los Gheran nómades afirma que los cuatro pueden despertar; no está confirmado
+que sigan vivos dentro de la piedra ni que la petrificación sea reversible.
 
 Durante la primera Guerra Mística levantó un enclave que con el tiempo se
 convirtió en Phardazul. Su ejército y los dragones destruyeron Askenburg, la
@@ -76,6 +85,8 @@ general.
 - `docs/entidades/quimeras.md`
 - `docs/entidades/dragones.md`
 - `docs/entidades/grimyi.md`
+- `docs/mundo/stigria/gheran-nomades.md`
+- `docs/mundo/stigria/phardazul-raik.md`
 - `docs/entidades/invocadores.md`
 - `docs/casas/rheiner.md`
 - `docs/personajes/historicos/sirene-zorana.md`

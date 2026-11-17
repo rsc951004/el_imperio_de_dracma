@@ -18,7 +18,9 @@ función militar y comenzó a convertirse en una identidad hereditaria.
 Durante el segundo Stamengherin documentado, todos los supervivientes gheran
 fueron reconocidos como Sangre de Hierro. La resolución convirtió el nombre en
 la identidad común del nuevo pueblo. El término gheran permaneció en los
-registros históricos, pero perdió gradualmente su uso como identidad vigente.
+registros históricos y perdió gradualmente su uso como identidad vigente para
+ese pueblo antiguo. Esto no determina el origen ni la identidad de los Gheran
+nómades contemporáneos, que son un referente distinto.
 
 Para entonces, los antiguos clanes habían perdido importancia frente a las
 grandes casas en todas las regiones salvo Sturm, donde sobrevivían cinco
@@ -76,4 +78,5 @@ tradición minoritaria.
 - `docs/personajes/iulien-therin.md`
 - `docs/mundo/stigria/sangre-carmesi.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
+- `docs/mundo/stigria/gheran-nomades.md`
 - `docs/mundo/stigria/edad-de-plata.md`

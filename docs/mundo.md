@@ -65,6 +65,8 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 |--------|------|-------------------|-------|
 | Historia antigua de Stigria | Periodo histórico | Desde los stigrios y la Gran Devoración hasta el final de la Edad del Bronce. | [Ver ficha](mundo/stigria/historia-antigua.md) |
 | Pueblo Gheran | Pueblo antiguo | Pueblo surgido de la unión de los clanes stigrios durante la Edad del Bronce. | [Ver ficha](mundo/stigria/gheran.md) |
+| Gheran nómades | Pueblo nómada contemporáneo | Grupos dispersos por Flammengard, Eisengard y Guldengard; distintos de los Gheran históricos. | [Ver ficha](mundo/stigria/gheran-nomades.md) |
+| Tradición de Phardazul Raik | Leyenda o profecía | Creencia de los Gheran nómades sobre el Rey de Phardazul; no se confirma su cumplimiento. | [Ver ficha](mundo/stigria/phardazul-raik.md) |
 | Edad del Hierro | Periodo histórico | Desde la llegada de los Sangheskios hasta la destrucción de Sanghesk. | [Ver ficha](mundo/stigria/edad-del-hierro.md) |
 | Sanghesk | Estado histórico | Primer estado centralizado de Stigria, fundado por los Sangheskios. | [Ver ficha](mundo/stigria/sanghesk.md) |
 | Pueblo Sangheskios | Pueblo histórico | Fundadores de Sanghesk y portadores de una metalurgia avanzada del hierro. | [Ver ficha](mundo/stigria/sangheskios.md) |
