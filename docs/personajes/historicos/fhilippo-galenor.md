@@ -12,6 +12,7 @@ Rasmus, sus rutas comerciales y su recuperación permanecen reservadas.
 ## Referencias
 
 - [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
+- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
 - `docs/personajes/iyuri-khan.md`
 - `docs/personajes/historicos/rasmus-galenor.md`
 - `docs/mundo/stigria/lazeroth.md`

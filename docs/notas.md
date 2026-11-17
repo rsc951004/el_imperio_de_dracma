@@ -2,6 +2,14 @@
 
 ## Revisiones editoriales
 
+### El custodio imperial (2026-11-17)
+
+Incorporado el fragmento canónico sobre el encuentro de Rendard Steinert e
+Iyuri Khan, su estancia en Lemuria y los preparativos del Calamar Rojo. Se
+actualizaron el índice de fragmentos y las referencias de los personajes
+principales; la ficha de Rendard recoge su formación y su don. El destino de la
+expedición y las cuestiones abiertas sobre la Sombra permanecen reservados.
+
 ### Strygoria y el Señor de la Sangre y el Hueso (2026-11-17)
 
 Establecido que el Reino de la Sangre y el Hueso es Strygoria y que su señor

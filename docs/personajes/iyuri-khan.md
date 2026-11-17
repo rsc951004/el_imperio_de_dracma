@@ -76,6 +76,7 @@ naturaleza de la manifestación permanece abierta.
 ## Fragmento
 
 - [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
+- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
 
 ## Referencias
 
