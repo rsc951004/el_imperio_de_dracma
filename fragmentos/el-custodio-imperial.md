@@ -4,9 +4,17 @@
 
 Rendard Steinert había pasado seis años en la Academia Imperial de Custodios. Durante año y medio de aquel tiempo también había asistido a la escuela Maeggi de Vasaggo, donde recibió la formación exigida a un Portador que deseaba ejercer como custodio.
 
-Su padre había elegido la academia. Ren habría podido estudiar en Eisengard, pero Keven Steinert prefería que su hijo sirviera a algún señor de la capital. Allí tendría un oficio y un lugar lejos de casa. Lo que no debía hacer era usar aquel don con el que había nacido y mancillar el nombre de la familia.
+Ren había nacido Portador en una familia Sangre de Hierro que veía su condición como una mancha. Durante años sus padres lo mantuvieron apartado de la mirada pública. Keven Steinert, en particular, no admitía que practicara aquel don en casa. Su autoridad decidía lo que debía hacerse, y Ren había aprendido a reconocer cuándo una conversación con su padre había terminado antes de empezar.
 
-Ren había aprendido a ocultarlo. También había aprendido a manejar la espada, a atender a quienes se le confiaban y a imaginar lugares que no conocía. Su nana le había contado historias de Erebia y de una ciudad que flotaba entre las nubes. A veces, al caminar por la capital, alzaba la vista hacia sus edificios y se preguntaba cómo habría sido aquella ciudad.
+Habría podido estudiar en la Academia Real de Custodios de Eisengard. Keven insistió en enviarlo a la Academia Imperial de Dracma: allí podría convertirse en asistente o escudero de algún señor de la capital, tener una posición aceptable y permanecer lejos de la familia. Si no usaba aquella condición que su padre llamaba una aberración, pensaba Keven, no mancillaría el nombre Steinert.
+
+Vasaggo le había dado la formación Maeggi indispensable para ejercer. En casa nadie lo había alentado a desarrollar su don; la academia había sido el lugar donde pudo practicarlo. Cuando debía combatir, Ren confiaba más en su espada, su fuerza y lo que había aprendido como custodio.
+
+Había aprendido a atender y proteger a quienes se le confiaban y a imaginar lugares que no conocía. Su nana le había contado historias de Erebia y de una ciudad que flotaba entre las nubes. A veces, al caminar por la capital, alzaba la vista hacia sus edificios y se preguntaba cómo habría sido aquella ciudad.
+
+Quería conocer el mundo, vivir aventuras y encontrar camaradas que lo apreciaran. También imaginaba una casa donde las personas se quisieran y se valoraran; una familia como la que creía que cualquiera debería poder tener. En alguna de esas fantasías había otro hombre junto a él, quizá alguien de las Costas del Verano, con quien pudiera casarse.
+
+La ley imperial permitía a hombres y mujeres elegir a quién amar y con quién casarse. En el ambiente eisengardiano donde Ren había crecido se hablaba de las relaciones entre hombres como de una costumbre extranjera, especialmente del Verano. También se miraba con recelo a los Portadores. Conocía esas ideas y conocía a su padre; imaginar aquella boda le resultaba mucho más fácil que creer que pudiera celebrarse.
 
 Meses antes de graduarse había asistido a una comitiva lemuriana. Allí escuchó a una mujer llamada Marwha Khan hablar de su hijo: había comprado un barco y pensaba zarpar hacia tierras desconocidas. Ella temía que se perdiera en el mar.
 
@@ -18,7 +26,9 @@ Una de sus acompañantes propuso contratar un custodio.
 
 Todos rieron salvo Marwha.
 
-La primera mujer insistió. Los custodios no solo protegían: podían asistir a sus señores, hablar lenguas, conocer la navegación o la diplomacia. Algunos tenían dones de curación. ¿No prefería Marwha que su hijo estuviera acompañado por alguien así en vez de una banda de sturmgardianos?
+La primera mujer insistió. Los custodios acompañaban, protegían y asistían a sus señores en la vida diaria: algunos hablaban lenguas, sabían de navegación o diplomacia, y otros tenían dones de curación. Había distintas órdenes y academias, reales e imperiales. ¿No prefería Marwha que su hijo estuviera acompañado por alguien así en vez de una banda de sturmgardianos?
+
+Ren escuchó sin interrumpir. Había aprendido a proteger y asistir, pero el mar y los lugares desconocidos de los que hablaban estaban muy lejos del puesto que su padre había imaginado para él.
 
 —Por favor, no me recuerdes a esos desaliñados —dijo Marwha—. Estuvieron en mi casa hace años y juro por Ishbaal que todavía puedo olerlos.
 
@@ -152,7 +162,7 @@ Cuando se quedaron solos, Iyuri observó a Ren.
 
 —Muchísimo. Nunca había visto edificios tan altos ni castillos tan hermosos. Cuando era pequeño, mi nana me contaba historias sobre Erebia y la Ciudad de las Nubes. A veces imagino que la capital se parece al viejo continente.
 
-Ren miró hacia los ventanales. Cuando volvió a fijarse en Iyuri, este ya no se reía.
+Ren miró hacia los ventanales. Cuando volvió a fijarse en Iyuri, este ya no se reía. La emoción del custodio al hablar de una ciudad que jamás había visto lo conmovió. Durante un instante, el dolor que llevaba consigo dejó de apretarle el pecho.
 
 —Bueno, Ren de Eisengard, ganaste. No digo eso muy seguido, así que atesóralo. Espero que seas un gran custodio y, si algún día volvemos a vernos... Bah, no va a pasar. Probablemente no regrese nunca. Un adiós definitivo será mejor.
 
@@ -196,7 +206,9 @@ Ren pensó en las historias de su nana, en el mar que nunca había cruzado y en 
 
 —Bienvenido a bordo, señor custodio.
 
-Seis días después llegaron a Lemuria. Ren llevaba la maleta de Iyuri por la recepción de la mansión Khan y aún pensaba en todo lo que había visto durante el viaje. Nunca había salido de Eisengard ni de la capital. Ahora estaba en una isla, al otro lado del mar, y todavía quedaban más lugares por conocer.
+El acuerdo de seis años de asistencia y protección quedó celebrado con Fhilippo Galenor y Marwha Khan, los padres de Iyuri. Ren lo aceptó como custodio imperial; la elección de acompañar a Iyuri había sido suya.
+
+Seis días después llegaron a Lemuria. Ren llevaba la maleta de Iyuri por la recepción de la mansión Khan y aún pensaba en todo lo que había visto durante el viaje. Nunca había salido de Eisengard ni de la capital. Ahora estaba en una isla, al otro lado del mar, y todavía quedaban más lugares por conocer: playas, comidas desconocidas y quizá muchachos de tierras lejanas. Se preguntó qué clase de belleza habría más allá del mar.
 
 —¿Ren? ¿Ren? ¡REN!
 
@@ -228,7 +240,7 @@ Fhilippo recibió al custodio con una sonrisa.
 
 —Muchacho, jamás pensé que volverían con alguien lo bastante loco para trabajar con mi hijo. Yo mismo iría en el barco, pero no quiero morir de una forma horrible.
 
-Iyuri disfrutó de la expresión de Marwha. La familia se sentó a comer y Ren intentó recordar que era un invitado a aquella mesa, aunque todavía no estaba seguro de cómo debía comportarse.
+Iyuri disfrutó de la expresión de Marwha. La familia se sentó a comer y Ren intentó recordar que era un invitado a aquella mesa, aunque todavía no estaba seguro de cómo debía comportarse. Arystan protestaba ante su tío, Fhilippo bromeaba con su hijo y Marwha los reprendía a los dos. Ren los observó mientras comían; podía reconocer el cariño incluso cuando discutían.
 
 —Cuéntanos, Ren —dijo Fhilippo—, ¿quién es tu padre? Conozco a mucha gente de tus tierras.
 
@@ -354,6 +366,8 @@ Iyuri se acercó y le tomó el mentón.
 
 —Quémala.
 
+Iyuri quería verlo desnudo. Ren seguía tratando de entender a su nuevo señor, y la seriedad con que atendía cada instrucción volvía la tentación todavía más difícil de resistir.
+
 —¿Puedo dejarme al menos los pantalones?
 
 —Si eso quieres, está bien. Quema la parte de arriba.
@@ -369,6 +383,8 @@ Ren buscó cómo encender la chimenea.
 —Déjame ayudarte. Nunca había oído hablar de Vasaggo. ¿Es buena?
 
 —No conozco otra escuela para compararla.
+
+Ren sostuvo la prenda entre las manos. Iyuri había estudiado en Veleskaria, en la escuela Maeggi más prestigiosa del Imperio; él había ido a Vasaggo durante el tiempo que le exigían para ejercer. Sabía lo poco que había podido aprender en comparación. Aun así, no quería arriesgar la casa tratando de encender el fuego.
 
 Iyuri contempló los pantalones que Ren se había dejado puestos.
 
@@ -434,6 +450,8 @@ Ren se lanzó a abrazarlo.
 
 —¡No puedo creerlo! Muchas gracias, señor. Siempre soñé con esto.
 
+La fuerza del abrazo hizo que Iyuri cayera de espaldas sobre la cama. Ren estaba sobre él, sonriendo, y por un momento olvidó la distancia con la que había procurado tratar a su señor. Iba a Erebia. Incluso si la Ciudad de las Nubes había desaparecido, conocería la tierra de los relatos de su nana.
+
 Se apartó al recordar la conversación.
 
 —Lo siento. Sus amigos... Soy un estúpido insensible. Si hay algo que pueda hacer para disculparme, lo haré.
@@ -472,11 +490,13 @@ Ren obedeció. Sintió que Iyuri le quitaba los pantalones y esperó el beso. Al
 
 ## La colina y el jardín
 
-Iyuri saltó una vez y otra, buscando el desfase que había experimentado cuando el espectro se aferró a él y a su padre. Quería dejar atrás la habitación, el calor de Ren y el recuerdo que no conseguía apartar.
+Iyuri saltó una vez y otra, buscando el desfase que había experimentado cuando el espectro se aferró a él y a su padre. Quería dejar atrás la habitación, el calor de Ren y el recuerdo que no conseguía apartar. El cuerpo del custodio, su dulzura y la expectativa de aquel beso lo habían atraído; aun así, el dolor seguía allí.
+
+Recordaba aquella sensación: lo que transcurría en un instante parecía durar minutos. Volver a ella exigía confusión, desesperación, el deseo de huir y dejarlo todo atrás. Aquella noche quiso recuperarla hasta que el mundo desapareció a su alrededor.
 
 Al fin se vio suspendido sobre Agra. El mundo se extendía bajo él; más allá estaban las estrellas, el sol y la luna. Después vino la caída. Se precipitó hacia el lugar al que había saltado, hasta que la colina apareció frente a él y Phardazul quedó a lo lejos.
 
-Había dejado tres objetos allí. Oskar no sabía que Iyuri regresaría a buscarlos ni lo que esperaba encontrar cada vez. Iyuri sabía que estar juntos era imposible y no deseaba hacer daño a Lya. Aun así, se había aferrado a la esperanza de que, si el mundo volvía a reunirlos en aquella colina, todavía quedara algo para ellos.
+Después de Oskar, Iyuri no había creído que pudiera volver a abrirle el corazón a alguien de aquella manera. Había dejado tres objetos allí, tres oportunidades que se había concedido en secreto. Oskar no sabía que Iyuri regresaría a buscarlos ni que esperaba encontrarlo cada vez. Iyuri sabía que estar juntos era imposible y no deseaba hacer daño a Lya. Aun así, se había aferrado a la esperanza de que, si el mundo volvía a reunirlos en aquella colina, todavía quedara algo para ellos. Reconocía lo absurdo de esperar que Oskar apareciera sin conocer aquella promesa que solo él había hecho.
 
 Tomó la espada de su padre. Un colgante descansaba detrás de él, sobre un montón de piedras.
 
@@ -486,7 +506,9 @@ Le dio la espalda al colgante.
 
 —Voy a contar hasta tres. Si no estás detrás de mí cuando me vuelva, te juro que no habrá una tercera vez. Me llevaré el colgante y la espada y no quedará nada que me traiga aquí.
 
-Lloró frente a las luces lejanas de la ciudad.
+—Uno... Dos... Tres...
+
+Pero no se volvió enseguida. Cayó de rodillas y lloró frente a las luces lejanas de la ciudad.
 
 —Por favor, di que estás ahí.
 
@@ -498,7 +520,7 @@ En el jardín levantó la mirada hacia las estrellas. Desde el desfase había vi
 
 —Miau.
 
-Iyuri lo acomodó en su regazo.
+Iyuri lo acomodó en su regazo. Aquella canción había acompañado su infancia: Nana Fey se la cantaba para dormir. Era una canción conocida por los niños de Lemuria y Flammengard. La isla estaba frente a las costas de aquel reino y muchos lemurianos se sentían fascinados por su cultura y su historia, especialmente por Leandrin. A Iyuri también le habían fascinado siempre el reino y Phardazul, su capital.
 
 —A veces también me pasa. Es desagradable querer algo y no poder tenerlo. ¿Estás desfasado, pequeño Ary?
 
@@ -510,7 +532,7 @@ El gato volvió a maullar. Iyuri se recostó en el pasto con él sobre el pecho.
 
 —Si te relajas podrás volver a cambiar. No te preocupes; yo voy a cuidarte.
 
-Lo acarició y comenzó a cantar la canción que Nana Fey le cantaba de niño:
+Lo acarició y comenzó a cantar:
 
 —Phardazul, Phardazul, la tierra de las quimeras, donde Leandrin, la guerrera, hizo la tierra temblar...
 
@@ -518,11 +540,11 @@ Ren oyó la canción al salir al jardín. Cuando llegó hasta ellos, los encontr
 
 En la habitación dejó a Iyuri sobre la cama, devolvió los brazos a su estado habitual y se desvistió antes de acostarse a su lado.
 
-Al despertar, Iyuri descubrió la figura desnuda de su custodio y comprendió quién lo había llevado de vuelta. Sonrió para sí.
+Al despertar, Iyuri descubrió la figura desnuda de su custodio y se quedó contemplándolo. Recordaba haberse dormido en el jardín con Ary sobre el pecho. Ren los había llevado a sus habitaciones y después se había acostado a su lado como él deseaba. La satisfacción le dibujó una sonrisa.
 
 ## Eres asombroso
 
-Durante los días siguientes, Iyuri enseñó a Ren cuanto pudo sobre la vida en el mar y lo que pudiera resultarle útil en el viejo continente. A fuerza de convivir, sus conversaciones se volvieron más fáciles. Ren todavía se sorprendía de algunas cosas que su señor le pedía, pero ya había aprendido a reconocer la sonrisa que anunciaba una idea peligrosa.
+Durante los días siguientes, Iyuri enseñó a Ren cuanto pudo sobre la vida en el mar y lo que pudiera resultarle útil en el viejo continente. Ren preguntaba y procuraba recordar cada explicación. A fuerza de convivir, sus conversaciones se volvieron más fáciles; por momentos parecía que se conocían de toda la vida. Ren todavía se sorprendía de algunas cosas que su señor le pedía, pero ya había aprendido a reconocer la sonrisa que anunciaba una idea peligrosa.
 
 Una tarde aceptó mostrarle su don.
 
@@ -580,7 +602,11 @@ Ren miró sus brazos y luego a Iyuri.
 
 —Claro. No tanto como yo, pero es un comienzo.
 
-Aquella noche, cuando faltaban dos días para zarpar, Ren seguía recordando el elogio. Iyuri era un Portador experimentado, instruido y famoso, y había dicho que él era asombroso.
+Aquella noche, cuando faltaban dos días para zarpar, Ren seguía recordando el elogio. Iyuri era un Portador experimentado, instruido y famoso, y había dicho que él era asombroso. Ren levantó una mano en la penumbra. Había practicado durante años lo que su padre no le permitía hacer en casa, y ahora alguien que conocía la dificultad de aprender lo había mirado con admiración.
+
+—No tanto como yo, pero es un comienzo —murmuró, imitando la voz de Iyuri.
+
+Sonrió. El día de su graduación había podido decirse que estaba orgulloso de sí mismo. Ahora disfrutaba también de aquel reconocimiento.
 
 El colchón cedió bajo el peso de Iyuri. Ren volvió la cabeza. Su señor parecía triste y cansado.
 
@@ -594,13 +620,13 @@ El colchón cedió bajo el peso de Iyuri. Ren volvió la cabeza. Su señor parec
 
 —Solo léeme, Ren.
 
-Ren abrió la historia de Phardazul y comenzó a leer sobre los ríos de lava y la llegada de Leandrin Rheiner. La voz fue acompañando a Iyuri hasta el sueño.
+Ren abrió la *Historia de Phardazul, el Reino de las Quimeras*, de Jabber Roudha, miembro de la Sish Tábura de Khalos, y comenzó a leer sobre los ríos de lava y la llegada de Leandrin Rheiner. La voz fue acompañando a Iyuri hasta el sueño.
 
 En la colina frente a Phardazul, Iyuri volvía a buscar a Oskar. Caía desde el desfase y al llegar no encontraba a nadie. Volvía a caer, una y otra vez, hasta que oyó una voz.
 
 —Señor.
 
-Ren estaba allí y le tendía la mano. Iyuri se acercó a él. Una bestia irrumpió sobre el custodio antes de que alcanzara sus dedos y los tres regresaron al desfase.
+Ren estaba allí y le tendía la mano. Alguien había acudido cuando lo necesitaba; alguien dispuesto a poner su bienestar primero. Iyuri alzó la mano hacia él. Una bestia irrumpió sobre el custodio antes de que alcanzara sus dedos y los tres regresaron al desfase.
 
 —¡Señor, ayúdeme!
 
@@ -616,7 +642,7 @@ Por fin dejaron de caer. Dos ojos enormes se abrieron en el firmamento y una voz
 
 —Señor, despierte. Es solo una pesadilla.
 
-Ren sujetó a Iyuri, que gritaba y se retorcía dormido. Entonces oyó otra voz.
+Ren sujetó a Iyuri, que gritaba y se retorcía dormido. Su señor no despertaba. Entonces oyó otra voz.
 
 —Él no te escucha. Pequeño Caos, no puedes salvarlo. Cayó a las aguas de Dirak. Está cubierto por nuestra esencia y jamás será libre.
 
@@ -698,11 +724,21 @@ Iyuri casi se atragantó.
 
 —No es un qué, Ren. Es un dónde. Cuando tu alma queda completamente tomada por la Sombra, todo lo que ves en tu Santuario del Alma se inunda de un mar negro y espeso. En mí llegó a gestarse su semilla. No muchos sobreviven a eso.
 
+—Cuando la infección ha arraigado tanto, no queda lugar para la esperanza, ni para el amor, ni para la vida.
+
 —Pero usted sí.
 
 —Sí. Algunos que sobreviven sufren el Toque Residual.
 
-Iyuri sostuvo la taza entre las manos. Había consultado a muchos místicos siniestros, incluso a algunos que prefería no mencionar a su madre. Todos le habían dicho que no encontraban Sombra dentro de él. Cuando Ren le había pedido que apartara la mirada del lago, Iyuri tampoco había visto ni oído nada allí. Sin embargo, algo lo acechaba.
+Iyuri sostuvo la taza entre las manos.
+
+—He consultado a muchos místicos siniestros. Del Imperio y a algunos que no eran del todo legales. No se lo digas a mamá.
+
+—No diré nada, señor.
+
+—Todos me han dicho lo mismo: no hay nada dentro de mí. Ni una pizca de Sombra, ni un fragmento de su semilla. Y cuando me dijiste que apartara la mirada del lago, que no mirara ni escuchara a la Sombra, no había nada, Ren. Nada que no debiera mirar ni escuchar. A todos los efectos, estoy limpio.
+
+—Pero entonces, ¿qué fue lo que vimos esta noche?
 
 —Algunos lo llaman la marca de la bestia.
 
@@ -718,7 +754,13 @@ Ren se levantó, cerró el pestillo y regresó a la cama. Se sentó detrás de I
 
 —A la orden, señor. Abrazo en proceso.
 
-Iyuri se dejó rodear por sus brazos. Procuraba estar de buen humor, explicó, pero no podía estar alegre todo el tiempo. Cuando se sentía mal, era como si se abriera una grieta y el mar de Dirak inundara su Santuario. Sus amigos habían ido a Erebia a buscar una cura y ahora estaban perdidos. Pensar que era por su culpa lo hacía sentirse peor.
+Iyuri se dejó rodear por sus brazos.
+
+—Me sigue a todas partes. Procuro estar de buen humor porque, cuando no lo estoy, pasa esto. Pero ¿quién puede estar alegre todo el tiempo, Ren? Es como si se abriera una grieta y el mar de Dirak inundara mi Santuario. Algo siniestro me acecha.
+
+Ren lo abrazó un poco más fuerte.
+
+—Mis amigos fueron a Erebia a buscar una cura. Ahora están perdidos por mi culpa. Eso me hace sentir peor y provoca esto, que me hace sentir todavía peor...
 
 —Quisiera poder pensar que quiero otra cosa.
 

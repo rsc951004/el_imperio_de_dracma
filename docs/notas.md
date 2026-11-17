@@ -2,6 +2,12 @@
 
 ## Revisiones editoriales
 
+### Ampliación de El custodio imperial (2026-11-17)
+
+Ampliados los antecedentes y sueños de Rendard, su formación, el contrato con
+Marwha y Fhilippo, la convivencia con Iyuri y las escenas de la colina y la
+pesadilla. Se conservan abiertas las cuestiones que el relato no resuelve.
+
 ### El custodio imperial (2026-11-17)
 
 Incorporado el fragmento canónico sobre el encuentro de Rendard Steinert e
