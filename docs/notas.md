@@ -2,6 +2,79 @@
 
 ## Revisiones editoriales
 
+### Revisión de ritmo y focalización en Upyria (2026-11-17)
+
+Reubicado el recuerdo breve de Oskar dentro del momento íntimo entre Iyuri,
+Rendard y Gin. Se integró la transición del lupanar mediante percepción y
+conducta, y se precisó que Iyuri reconoce elementos del fenómeno sobrenatural
+sin comprenderlo por completo. El cierre del mensaje y sus reservas permanecen
+sin cambios.
+
+### Revisión de la transformación de Beku (2026-11-16)
+
+Ajustado el pasaje de la transformación y la reacción de Iyuri y Rendard para
+conservar la versión indicada de la escena.
+
+### Mensaje al Niño de la Flecha (2026-11-16)
+
+Ampliado el mensaje de la criatura con su afirmación sobre el interés del Señor
+de la Sangre y el Hueso por conocer a Iyuri.
+
+### La exigencia de la criatura (2026-11-16)
+
+Ampliado el mensaje de la criatura en Upyria con sus afirmaciones sobre Arystan
+y la niña que reclama para el Señor de la Sangre y el Hueso.
+
+### El mensaje de la criatura en Upyria (2026-11-16)
+
+Añadido el ultimátum pronunciado en nombre del Señor de la Sangre y el Hueso.
+La naturaleza de la entrega y la identidad del Señor permanecen abiertas.
+
+### La transformación de Beku (2026-11-16)
+
+Añadida a la escena de Upyria la transformación de Beku ante Gin y la reacción
+de Iyuri y Rendard. Su naturaleza y el mensaje permanecen abiertos.
+
+### Zumbido en Upyria (2026-11-16)
+
+Añadida la percepción de un zumbido por Iyuri y Rendard tras las voces en la
+habitación.
+
+### Voces en la habitación de Upyria (2026-11-16)
+
+Ampliada la escena de Iyuri y Rendard con el diálogo mientras se preparan para
+partir y la irrupción de dos voces. Su origen y el mensaje permanecen abiertos.
+
+### Despedida de Gin en Upyria (2026-11-16)
+
+Ampliado el diálogo posterior a la intimidad de Iyuri, Rendard y Gin. Iyuri
+entrega a Gin una bolsa de ghild y Rendard comienza a vestirse para partir.
+
+### Rendard en el lupanar de Upyria (2026-11-16)
+
+Ampliada la escena de cercanía entre Iyuri, Rendard y Gin. La atención permanece
+en ellos.
+
+### Iyuri, Rendard y Gin en Upyria (2026-11-16)
+
+Ampliada la escena del lupanar con un momento de cercanía entre Iyuri, Rendard y
+Gin, antes del recuerdo de Oskar.
+
+### Recuerdo de Oskar en Upyria (2026-11-16)
+
+Ampliada la escena de Iyuri en el lupanar: el beso de Rendard y Gin le recuerda
+lo que compartió con Oskar, antes de pedir su ropa para partir.
+
+### El beso de Gin y Rendard (2026-11-16)
+
+Ampliada la escena de Upyria con el beso entre Gin y Rendard y la reacción de
+Iyuri. Rendard se presenta como un joven común de Eisengard.
+
+### El lupanar de Goro Revolva (2026-11-16)
+
+Revisada la escena de Upyria para conservar el establecimiento de Goro Revolva
+como escenario. Actualizado el índice de personajes del fragmento.
+
 ### Rendard y Gin en Upyria (2026-11-16)
 
 Ampliada la escena del lupanar con la fantasía privada de Rendard sobre su
@@ -39,8 +112,8 @@ Su diálogo precisa el despertar de Iyuri y la preparación de la tripulación.
 
 ### Iyuri en Upyria (2026-11-16)
 
-Añadida a «El niño de la flecha» una escena posterior en un puerto de Upyria,
-con Iyuri adulto y Goro Revolva. Ampliada la escena con dos hombres adultos y
+Añadida a «El niño de la flecha» una escena posterior en el lupanar de Goro
+Revolva, en un puerto de Upyria. Ampliada la escena con dos jóvenes adultos y
 un marinero de la tripulación que espera a Iyuri a bordo del Calamar Rojo, su
 navío. El intervalo, las circunstancias de llegada y los acontecimientos
 intermedios permanecen abiertos. Actualizado el índice de fragmentos.
