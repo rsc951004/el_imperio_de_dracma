@@ -109,3 +109,21 @@ Luego, todavía desconcertado, añadió:
 —Keven, no te exaltes. Seguro que Ren tiene una explicación... —intervino la mujer.
 
 —¡No lo llames así, mujer! ¡Tiene un nombre y es Rendard! Le di el nombre de mi padre con la esperanza de que lo ayudara a ser alguien en la vida. Pero debo lamentar que no solo mancilla el honor de nuestra casa, sino que también avergüenza la memoria de mi padre.
+
+—Rendard, querido, ¿no vas a presentarnos a tu acompañante? —preguntó la mujer.
+
+—Ah, sí, perdón, madre. Ellos son mis padres, Keven Steinert y Gerna Mheister.
+
+Ren se volvió hacia Iyuri.
+
+—Y este es...
+
+—Sí, sí, mucho gusto. Toma tus cosas, Rendard, ya nos vamos —lo interrumpió Keven, haciendo un gesto desdeñoso.
+
+Entonces se volvió hacia Iyuri.
+
+—¡Y tú! No sé quién seas, pero más te vale alejarte de mi hijo. ¡Este no pondrá su semilla en ninguna sturmgardiana inmunda! ¡Ve a coger con las cabras o lo que sea que tu gente haga en ese agujero lleno de mierda que llaman Sturmgard!
+
+Iyuri, más que enojado, estaba fascinado.
+
+Ver a Ren sufriendo de vergüenza, la evidente incomodidad de su madre y a aquel cretino de Keven tan enfurecido que parecía a punto de salir volando por los aires lo llenaba de regocijo.
