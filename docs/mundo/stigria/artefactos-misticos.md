@@ -18,6 +18,22 @@ Vinculado, pero no diagnostica por sí solo el Toque. Puede causar zumbidos,
 aturdimiento o náuseas que disminuyen al alejarse del foco. Solo los místicos
 siniestros pueden verlo sobre la piel desnuda. El diseño varía con el artesano.
 
+### Rangos protectores
+
+Los Sellos de Andromalius poseen rangos o clases de potencia protectora. Los
+nombres de los rangos más bajos proceden de árboles o plantas; los de los más
+altos, de criaturas legendarias o grandes quimeras establecidas. No se ha
+definido una escala completa ni sus clases intermedias.
+
+Rendard Steinert tiene un sello de clase cerezo. Iyuri Khan posee uno de clase
+dragón, considerablemente poderoso. Un sello muy potente puede resultar
+incómodo para quien no sepa manejarlo bien: puede reaccionar ante cantidades
+extremadamente pequeñas de Sombra, presente en el mundo incluso en niveles
+mínimos e imperceptibles, y provocar alertas frecuentes.
+
+En las personas con Toque Residual, los sellos de otros místicos no se activan;
+esta condición constituye una excepción a la detección habitual.
+
 El intercambio del Pacto de Dürr introdujo en la historia del Raikim el primer
 artefacto místico documentado: **Rugido Mordaz**.
 
@@ -28,3 +44,7 @@ su propia materia, construcción y efectos.
 
 - `docs/mundo/stigria/rugido-mordaz.md`
 - `docs/mundo/stigria/llave-de-durr.md`
+- `docs/mundo/stigria/toque-residual.md`
+- `docs/personajes/iyuri-khan.md`
+- `docs/personajes/rendard-steinert.md`
+- `../../../fragmentos/el-custodio-imperial.md`

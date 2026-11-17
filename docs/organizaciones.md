@@ -16,3 +16,7 @@ Cada organización o grupo canónico posee una ficha individual en la carpeta `o
 | Cultistas arcanos | Seguidores de Thalmos | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->Servidores arcanos del Dios Negro.<!-- CANON-VELADO: FIN --> | [Ver ficha](organizaciones/cultistas-arcanos.md) |
 | Banda del Colmillo Blanco | Grupo valastiriano | Banda dirigida por el Invocador Imrik Valkyren. | [Ver ficha](organizaciones/banda-del-colmillo-blanco.md) |
 | Orden de la Flama Blanca | Grupo extremista religioso | Grupo ishbaalano que conspiró durante la Aniquilación contra el emperador, los Portadores y los Invocadores. | [Ver ficha](organizaciones/orden-de-la-flama-blanca.md) |
+| Academia Imperial de Custodios de Dracma | Academia imperial | Forma custodios de asistencia y protección. | [Ver ficha](organizaciones/academia-imperial-de-custodios.md) |
+| Academia Real de Custodios de Eisengard | Academia real | Academia de custodios asociada a Eisengard. | [Ver ficha](organizaciones/academia-real-de-custodios-de-eisengard.md) |
+| Vasaggo | Escuela Maeggi | Escuela donde Rendard recibió su formación Maeggi profesional mínima. | [Ver ficha](organizaciones/escuela-maeggi-vasaggo.md) |
+| Cocodrilos de Mar | Orden o especialidad de custodios | Grupo muy solicitado vinculado al trabajo en el mar; su estatus formal sigue abierto. | [Ver ficha](organizaciones/cocodrilos-de-mar.md) |

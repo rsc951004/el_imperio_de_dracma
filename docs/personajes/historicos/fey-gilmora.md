@@ -21,3 +21,4 @@ cavidad negra, en una cocina donde continuaba oyéndose una voz familiar.
 - [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/personajes/iyuri-khan.md`
 - `docs/entidades/sombra.md`
+- `docs/mundo/stigria/cancion-phardazul.md`

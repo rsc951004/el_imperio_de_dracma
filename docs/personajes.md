@@ -52,6 +52,11 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Ruxandra Dravor | Reina histórica | Reina de Valastir durante Amschel y madre de Dymtrik. | [Ver ficha](personajes/ruxandra-dravor.md) |
 | Iyuri Khan | Personaje histórico | Portador lemuriano del Don de la Flecha. | [Ver ficha](personajes/iyuri-khan.md) |
 | Rendard Steinert | Custodio y marinero | Eisengardiano vinculado al Calamar Rojo. | [Ver ficha](personajes/rendard-steinert.md) |
+| Severus Rizen | Formador de custodios | Superior y profesor de Rendard en la Academia Imperial de Custodios. | [Ver ficha](personajes/severus-rizen.md) |
+| Keven Steinert | Cabeza de casa | Cabeza de la Casa Steinert y padre de Rendard. | [Ver ficha](personajes/keven-steinert.md) |
+| Mila Hubbe | Personaje histórico | Madre de Rendard, fallecida cuando él era pequeño. | [Ver ficha](personajes/mila-hubbe.md) |
+| Elastor Steinert | Personaje mencionado | Hijo de Keven y Mila, hermano mayor de Rendard. | [Ver ficha](personajes/elastor-steinert.md) |
+| Ridrick Steinert | Personaje mencionado | Hijo de Keven y Mila, hermano mayor de Rendard. | [Ver ficha](personajes/ridrick-steinert.md) |
 | Gin | Personaje de Upyria | Joven que conoció a Iyuri y Rendard. | [Ver ficha](personajes/gin.md) |
 | Beku | Personaje de Upyria | Joven que manifestó una transformación en el lupanar. | [Ver ficha](personajes/beku.md) |
 | Goro Revolva | Personaje mencionado | Su nombre identifica un lupanar de Upyria. | [Ver ficha](personajes/goro-revolva.md) |
@@ -113,6 +118,7 @@ establecido, la identidad permanece pendiente.
 
 | Nombre | Rol | Descripción breve | Ficha |
 |--------|-----|-------------------|-------|
+| Jabber Roudha | Autor y miembro de la Sish Tábura | Autor de *Historia de Phardazul, el Reino de las Quimeras*. | [Ver ficha](personajes/jabber-roudha.md) |
 | Leandrin Rheiner | Personaje histórico | Joven noble de Flammengard y primera Invocadora surgida en territorio de Dragma. | [Ver ficha](personajes/historicos/leandrin-rheiner.md) |
 | Sirene Zorana | Portadora histórica | Astriana, esposa de Gunther y madrastra de Leandrin. | [Ver ficha](personajes/historicos/sirene-zorana.md) |
 | Gunther Rheiner | Noble histórico | Landwalt de Drommdurr y padre de Leandrin. | [Ver ficha](personajes/historicos/gunther-rheiner.md) |

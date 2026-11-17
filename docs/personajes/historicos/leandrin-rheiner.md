@@ -56,6 +56,11 @@ permanecer transformados, perdieron gradualmente el
 raciocinio y sembraron el caos por el Imperio. Los destinos individuales y el
 desenlace de la guerra de usurpación permanecen reservados.
 
+Los dragones son además una especie estable y reproducible de origen
+quimérico; se clasifican provisionalmente entre las quimeras estabilizadas.
+La consolidación de los individuos transformados como especie no tiene un
+proceso o plazo establecido.
+
 Durante la primera Guerra Mística levantó un enclave que con el tiempo se
 convirtió en Phardazul. Su ejército y los dragones destruyeron Askenburg, la
 antigua capital de Flammengard. Leandrin se proclamó emperatriz del mundo; el
@@ -68,6 +73,9 @@ general.
 
 - [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/mundo/stigria/dragma/guerras-misticas.md`
+- `docs/entidades/quimeras.md`
+- `docs/entidades/dragones.md`
+- `docs/entidades/grimyi.md`
 - `docs/entidades/invocadores.md`
 - `docs/casas/rheiner.md`
 - `docs/personajes/historicos/sirene-zorana.md`

@@ -140,4 +140,6 @@ conspiración casi alcanzó sus objetivos.
 - `docs/mundo/stigria/dragma/guerras-misticas.md`
 - `docs/organizaciones/orden-de-la-flama-blanca.md`
 - `docs/mundo/stigria/kantra.md`
+- `docs/mundo/stigria/don-del-caos.md`
+- `docs/mundo/stigria/don-elemental.md`
 - `cuentos/cronicas-de-erebia/1-la-edad-de-la-maravilla.md`

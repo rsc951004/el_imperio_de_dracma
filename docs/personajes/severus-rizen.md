@@ -1,0 +1,18 @@
+# Severus Rizen
+
+## Identidad
+
+Superior de Rendard Steinert en la Academia Imperial de Custodios de Dracma y
+figura formativa suya. Su rango exacto y su adscripción institucional no están
+establecidos.
+
+## Relaciones
+
+- **Rendard Steinert:** fue su superior y profesor; reconoce su potencial.
+- **Marwha Khan y Fhilippo Galenor:** los conoce y estima.
+- **Iyuri Khan:** no aprueba especialmente que Rendard viaje con él, pero
+  respeta la decisión autónoma del custodio graduado.
+
+## Referencias
+
+- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)

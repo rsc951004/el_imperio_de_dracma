@@ -54,9 +54,19 @@ Leondras Solarys aparece siempre clasificado como **Portador Tempestuoso**.
 La jerarquía, los trámites internos de clasificación y la organización concreta
 de la Möes Tábura permanecen reservados.
 
+## Möes Maeggi
+
+Un **Möes Maeggi** es un Maeggi autorizado para enseñar formalmente a otras
+personas a convertirse en Maeggis. Puede formar alumnos y, según el sistema
+imperial, avalar o visar una licencia de alguien que haya estudiado bajo su
+tutela. Es un maestro Maeggi autorizado y de muy alto rango. Iyuri Khan posee
+este reconocimiento. La jerarquía completa permanece reservada.
+
 ## Referencias
 
 - `docs/entidades/portadores.md`
 - `docs/entidades/invocadores.md`
 - `docs/casas/solarys.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
+- `docs/mundo/stigria/moes-maeggi.md`
+- `docs/personajes/iyuri-khan.md`

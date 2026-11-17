@@ -1,5 +1,21 @@
 # Notas editoriales
 
+### Fichas terminológicas del custodio imperial y quimeras estabilizadas (2026-11-17)
+
+Se crearon fichas para Severus Rizen, Keven Steinert, Mila Hubbe, Elastor y
+Ridrick Steinert, Jabber Roudha y la Casa Steinert; las academias de custodios,
+Vasaggo, Cocodrilos de Mar y la profesión de custodio; los dones del Caos y
+Elemental, el Índice Molokai, el desfase, Möes Maeggi, Santuario del Alma, Mar
+de Dirak y Toque Residual; Agra, grimyis del desierto, quimeras y dragones; el
+Calamar Rojo, el libro de Jabber Roudha y la canción infantil de Phardazul.
+Se añadieron referencias e índices, se detallaron los rangos protectores de
+los Sellos de Andromalius y se integró en la ficha de Iyuri el Toque Residual
+descrito en el fragmento. «Quimeras estabilizadas» queda como denominación
+provisional pendiente de nombre definitivo; sus mecanismos y alcance general
+permanecen abiertos y se registran como pendientes. La forma correcta es
+«Índice Molokai»; el diálogo del
+fragmento conserva «Índice Maloko» como formulación narrativa.
+
 ## Revisiones editoriales
 
 ### Pulido de El custodio imperial (2026-11-17)

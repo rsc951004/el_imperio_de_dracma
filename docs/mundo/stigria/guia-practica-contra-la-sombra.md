@@ -15,5 +15,8 @@ quien solicita su atención; los gastos corresponden al solicitante.
 ## Referencias
 
 - `docs/entidades/sombra.md`
+- `docs/mundo/stigria/santuario-del-alma.md`
+- `docs/mundo/stigria/mar-de-dirak.md`
+- `docs/mundo/stigria/toque-residual.md`
 - `docs/mundo/stigria/artefactos-misticos.md`
 - `docs/organizaciones/cuervos-grises.md`

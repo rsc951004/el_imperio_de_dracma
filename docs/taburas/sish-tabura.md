@@ -13,3 +13,4 @@ Opera dentro de los círculos de Khalos. El acceso a sus archivos está restring
 
 ## Referencias
 - `docs/mundo/stigria/sangheskios.md`
+- [Jabber Roudha](../personajes/jabber-roudha.md)

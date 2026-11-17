@@ -59,13 +59,27 @@ Lemuria acudieron a la alerta y lo rescataron. Su sello de Andromalius tenía la
 forma de un ojo rodeado por un círculo y tres lágrimas; el sello detectaba la
 presencia de la Sombra, pero no diagnosticaba por sí mismo el Toque.
 
+Durante ese enfrentamiento en una casa fuertemente contaminada por Sombra,
+Iyuri fue Tocado y la infección avanzó hasta la incubación de una semilla de
+espectro. Su enorme poder místico está relacionado con la velocidad del
+proceso. Sobrevivió y presenta Toque Residual, también llamado Marca de la
+Bestia. La Sombra continúa acechándolo. Iyuri procura sostener estados
+emocionales positivos porque una caída emocional puede abrir una vía para que
+la Sombra vuelva a manifestarse. Su sello es de clase dragón y muy potente;
+los sellos de Andromalius de otros místicos no se activan ante él mientras
+presenta Toque Residual.
+
+El Toque Residual no es detectable por otros místicos ni visible en su
+Santuario del Alma; la conexión se hace manifiesta cuando la Sombra aparece
+realmente ante él. La posible conexión con el Mobius original que creó la
+Sombra sigue siendo una creencia, no un hecho confirmado.
+
 Cuatro años después, Iyuri se despidió de Oskar ante Phardazul el día de la
 boda de este con Lya. Llevaba Lazeroth, la espada de Fhilippo; conservaba una
 cicatriz sobre la ceja izquierda y una marca de garras en el pecho. Zarpó hacia
-Sturmgard como capitán de un barco tripulado por sturmgardianos. La evolución
-posterior de su infección, el origen de esa tripulación, sus objetivos y las
-circunstancias que llevaron a la separación de Iyuri y Oskar permanecen
-reservados.
+Sturmgard como capitán de un barco tripulado por sturmgardianos. El origen de
+esa tripulación, sus objetivos y las circunstancias que llevaron a la
+separación de Iyuri y Oskar permanecen reservados.
 
 En una estancia posterior en Upyria, Iyuri viajaba con Rendard Steinert y el
 Calamar Rojo, con asuntos pendientes en Vesperya. En el lupanar de Goro Revolva
@@ -94,6 +108,15 @@ naturaleza de la manifestación permanece abierta.
 - `docs/organizaciones/cuervos-grises.md`
 - `docs/mundo/stigria/lazeroth.md`
 - `docs/entidades/sombra.md`
+- `docs/mundo/stigria/toque-residual.md`
+- `docs/mundo/stigria/mar-de-dirak.md`
+- `docs/mundo/stigria/santuario-del-alma.md`
+- `docs/mundo/stigria/moes-maeggi.md`
+- `docs/mundo/stigria/calamar-rojo.md`
+- `docs/mundo/stigria/indice-molokai.md`
+- `docs/mundo/stigria/artefactos-misticos.md`
+- `docs/mundo/stigria/cancion-phardazul.md`
+- `docs/mundo/stigria/historia-de-phardazul.md`
 - [Rendard Steinert](rendard-steinert.md)
 - [Gin](gin.md)
 - [Beku](beku.md)

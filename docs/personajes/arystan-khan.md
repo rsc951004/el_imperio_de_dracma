@@ -11,6 +11,9 @@ Rosamund, su gran amor. Ambos fueron amigos de Loras Dragomir, después conocido
 como Imrik Valkyren. Tras la muerte del Viejo Imrik, Arystan modificó a petición
 de Loras su apariencia para que recordara a su protector.
 
+En una estancia con su tío Iyuri quedó atrapado en una transformación de gato
+por un desfase de su Don de la Forja; después recuperó su forma humana.
+
 <!-- CANON-VELADO: INICIO | desconocido-por: Mili -->
 Arystan y Ellis murieron luchando contra Mortis, un Grimm.
 <!-- CANON-VELADO: FIN -->
@@ -29,6 +32,9 @@ alado.
 
 - [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
 - [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [Quimeras](../entidades/quimeras.md)
+- [Desfase](../mundo/stigria/desfase.md)
+- [Canción «Phardazul, Phardazul»](../mundo/stigria/cancion-phardazul.md)
 - [Mortis](mortis.md)
 - `docs/personajes/ellis-rosamund.md`
 - `docs/personajes/oskar-rheiner.md`

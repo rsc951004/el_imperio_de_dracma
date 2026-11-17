@@ -20,6 +20,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Valgard y Eldengard** | Precisar el momento y la causa de la vinculación inicial de Valgard con la fortaleza. |
 | **Banda de la Piedra Mohosa** | Resolver el destino de sus integrantes y su supervivencia en el conducto del Rost. |
 | **Portadores Sombríos** | Definir su naturaleza, herencia, capacidades y relación con otros Portadores. |
+| **Quimeras estabilizadas** | Confirmar una denominación definitiva y dejar abiertos el tiempo y las condiciones del proceso, su origen natural o místico, las reglas reproductivas universales y el número de especies. |
 | **Nombres y voluntad** | Determinar el alcance de los efectos observados en Strigor y el Rey Podrido. |
 | **Entrega al Rey Podrido** | Resolver las consecuencias metafísicas de la posesión sobre la voluntad o el alma. |
 | **Límite de Stigria** | Determinar qué ocurre si el Rey Podrido, un Grimm o un poseído intenta abandonar el continente. |

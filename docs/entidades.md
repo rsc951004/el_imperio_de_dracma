@@ -46,3 +46,6 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Lamya | Grimm individual | Criatura de proporciones extraordinarias cuya irrupción desencadenó el primer alzamiento armado del Amanecer. | [Ver ficha](entidades/lamya.md) |
 | Jöten | Clase de criaturas | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->Clase confirmada a la que pertenecen Vitdrakiris y Smürr.<!-- CANON-VELADO: FIN --> | [Ver ficha](entidades/joten.md) |
 | Vitdrakiris | Protector mítico de la Tormenta | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->Jöten encerrado bajo el archipiélago de Sturmgard.<!-- CANON-VELADO: FIN --> | [Ver ficha](entidades/vitdrakiris.md) |
+| Quimeras | Criaturas transmutadas | Criaturas surgidas de la transmutación de seres vivos; incluye las quimeras estabilizadas. | [Ver ficha](entidades/quimeras.md) |
+| Dragones | Especie quimérica | Especie estable y reproducible de origen quimérico. | [Ver ficha](entidades/dragones.md) |
+| Grimyi del desierto | Especie quimérica | Pequeña especie quimérica del desierto entre Eisengard y Flammengard. | [Ver ficha](entidades/grimyi.md) |

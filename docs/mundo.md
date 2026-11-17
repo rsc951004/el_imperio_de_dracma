@@ -39,6 +39,12 @@ mundo/
 
 > Ver [Cronología del mundo](cronologia.md) para la línea temporal completa.
 
+### Escala planetaria
+
+| Nombre | Tipo | Descripción breve | Ficha |
+|--------|------|-------------------|-------|
+| Agra | Planeta | Mundo donde se encuentran Dracma, Erebia, Astria y las demás regiones conocidas. | [Ver ficha](mundo/agra.md) |
+
 ## Stigria
 
 ### Geografía anterior al Rey Podrido
@@ -72,6 +78,19 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Pacto de Dürr | Acuerdo histórico | Pacto entre Rudgar y Aurethyron que abrió el comercio entre el Hierro y el Verano. | [Ver ficha](mundo/stigria/pacto-de-durr.md) |
 | Ghild | Instrumento de intercambio | Moneda surgida del comercio entre Dürr y el Hierro. | [Ver ficha](mundo/stigria/ghild.md) |
 | Artefactos místicos | Concepto | Objetos creados con saberes de Portadores y efectos definidos. | [Ver ficha](mundo/stigria/artefactos-misticos.md) |
+| Custodios | Profesión | Guardias personales, asistentes y acompañantes profesionales imperiales o reales. | [Ver ficha](mundo/stigria/custodios.md) |
+| Don del Caos | Don de Portador | Permite manifestaciones elementales sin requerir necesariamente una fuente externa. | [Ver ficha](mundo/stigria/don-del-caos.md) |
+| Don Elemental | Don | Su uso depende de un elemento presente. | [Ver ficha](mundo/stigria/don-elemental.md) |
+| Índice Molokai | Registro estadístico | Porcentajes de ocurrencia de dones entre Vinculados registrados. | [Ver ficha](mundo/stigria/indice-molokai.md) |
+| Desfase | Fenómeno místico | Alteraciones que impiden experimentar o usar el don normalmente. | [Ver ficha](mundo/stigria/desfase.md) |
+| Santuario del Alma | Técnica mental | Sugestión y condicionamiento enseñados como defensa ante la Sombra. | [Ver ficha](mundo/stigria/santuario-del-alma.md) |
+| Mar de Dirak | Fenómeno psicológico y místico | Alteración perceptiva asociada a infección extrema por Sombra. | [Ver ficha](mundo/stigria/mar-de-dirak.md) |
+| Toque Residual | Condición mística | Conexión persistente con la Sombra tras sobrevivir a una semilla de espectro. | [Ver ficha](mundo/stigria/toque-residual.md) |
+| Möes Maeggi | Título Maeggi | Maestro autorizado para formar Maeggis y avalar licencias de sus alumnos. | [Ver ficha](mundo/stigria/moes-maeggi.md) |
+| Calamar Rojo | Banda y embarcación | Nombre de la antigua banda de Iyuri y de su barco posterior. | [Ver ficha](mundo/stigria/calamar-rojo.md) |
+| *Historia de Phardazul, el Reino de las Quimeras* | Obra escrita | Libro de Jabber Roudha sobre Phardazul, Leandrin y las quimeras. | [Ver ficha](mundo/stigria/historia-de-phardazul.md) |
+| «Phardazul, Phardazul» | Canción infantil | Canción popular de Lemuria y Flammengard sobre Phardazul y Leandrin. | [Ver ficha](mundo/stigria/cancion-phardazul.md) |
+| Casa Steinert | Casa de Sangre de Hierro | Casa encabezada por Keven Steinert. | [Ver ficha](casas/steinert.md) |
 | Rugido Mordaz | Artefacto místico | Conjunto entregado por Aurethyron a Rudgar durante el Pacto de Dürr. | [Ver ficha](mundo/stigria/rugido-mordaz.md) |
 | Lazeroth | Espada mística | Espada heredada por Fhilippo Galenor. | [Ver ficha](mundo/stigria/lazeroth.md) |
 | Historia sheijad | Historia | Exilio desde Sarustra, cisma y formación de Lemuria. | [Ver ficha](mundo/stigria/historia-sheijad.md) |

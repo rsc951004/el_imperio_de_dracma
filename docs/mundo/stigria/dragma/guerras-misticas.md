@@ -22,6 +22,11 @@ hermanos en dragones inspirándose en la leyenda del Tamurak de la vieja Erebia.
 Ellos partieron voluntariamente y perdieron el raciocinio con el tiempo que
 permanecieron transformados. Los dragones sembraron el caos por el Imperio.
 
+Los dragones son además una especie estable y reproducible de origen
+quimérico. «Quimeras estabilizadas» es un término provisional pendiente de
+nombre definitivo; no están fijados el proceso ni las condiciones de esa
+consolidación.
+
 Durante la primera Guerra Mística, Leandrin estableció un enclave que llegó a
 ser Phardazul. Su ejército y sus dragones destruyeron Askenburg, antigua capital
 de Flammengard. Leandrin se proclamó emperatriz del mundo; no se ha fijado el
@@ -55,5 +60,7 @@ precisa de la Aniquilación dentro de la Segunda Dinastía.
 - `docs/mundo/stigria/dragma/lemuria/culto-a-ishbaal.md`
 - `docs/personajes/historicos/leandrin-rheiner.md`
 - `docs/entidades/invocadores.md`
+- `docs/entidades/quimeras.md`
+- `docs/entidades/dragones.md`
 - `docs/entidades/portadores.md`
 - `docs/organizaciones/orden-de-la-flama-blanca.md`

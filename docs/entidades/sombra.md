@@ -28,20 +28,22 @@ varía: algunos ven manchas sobre lugares y objetos y otros perciben en las
 personas lesiones que no son visibles para los demás. Desempeñan un papel en
 la atención de la infección y en la neutralización de focos sombríos.
 
-## Santuario del Alma
+## Defensa mental
 
-El Santuario del Alma es una práctica de condicionamiento mental enseñada en
-guardias, escuelas, Khalos y entre cazadores profesionales. Consiste en fijar
-la atención en recuerdos, imágenes, afectos y sensaciones reconfortantes y
-rechazar la influencia de la Sombra. Requiere práctica y concentración. Puede
-ayudar a resistirla y, en algunos casos leves o recientes, favorecer la
-reversión de la infección, sin garantizar una cura.
+El [Santuario del Alma](../mundo/stigria/santuario-del-alma.md) es una técnica
+de sugestión y condicionamiento mental usada como defensa ante la Sombra. Si un
+Vinculado escucha hablar a la Sombra dentro de su Santuario, está infectado.
+Debe alejarse del foco y buscar cuanto antes a un Maeggi siniestro.
 
-Si un Vinculado escucha hablar a la Sombra dentro de su Santuario, está
-infectado. Debe alejarse del foco y buscar cuanto antes a un Maeggi siniestro.
+El [Mar de Dirak](../mundo/stigria/mar-de-dirak.md) y el
+[Toque Residual](../mundo/stigria/toque-residual.md) son fenómenos asociados a
+estados extremos de infección y supervivencia.
 
 ## Referencias
 
 - `docs/entidades/mobius.md`
 - `docs/mundo/stigria/guia-practica-contra-la-sombra.md`
 - `docs/personajes/iyuri-khan.md`
+- `docs/mundo/stigria/santuario-del-alma.md`
+- `docs/mundo/stigria/mar-de-dirak.md`
+- `docs/mundo/stigria/toque-residual.md`
