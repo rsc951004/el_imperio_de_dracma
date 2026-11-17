@@ -2,21 +2,15 @@
 
 ## La fuente
 
-Rendard Steinert había pasado seis años en la Academia Imperial de Custodios. Durante año y medio de aquel tiempo también había asistido a la escuela Maeggi de Vasaggo, donde recibió la formación exigida a un Portador que deseaba ejercer como custodio.
+El día de su graduación, Rendard Steinert recibió todos los honores disponibles para un cadete que no hubiera ingresado en una orden. Ningún miembro de su familia acudió a felicitarlo.
 
-Ren había nacido Portador en una familia Sangre de Hierro que veía su condición como una mancha. Durante años sus padres lo mantuvieron apartado de la mirada pública. Keven Steinert, en particular, no admitía que practicara aquel don en casa. Su autoridad decidía lo que debía hacerse, y Ren había aprendido a reconocer cuándo una conversación con su padre había terminado antes de empezar.
+Cuando terminó la ceremonia se sentó junto a una fuente. Se acomodó el uniforme y miró al joven rubio que le devolvía la mirada desde el agua. Habían pasado seis años desde que entró en la Academia Imperial de Custodios de Dracma. Al recordar todo lo que había aprendido, sonrió.
 
-Habría podido estudiar en la Academia Real de Custodios de Eisengard. Keven insistió en enviarlo a la Academia Imperial de Dracma: allí podría convertirse en asistente o escudero de algún señor de la capital, tener una posición aceptable y permanecer lejos de la familia. Si no usaba aquella condición que su padre llamaba una aberración, pensaba Keven, no mancillaría el nombre Steinert.
+—Felicidades, Ren. Lo lograste. Estoy orgulloso de ti.
 
-Vasaggo le había dado la formación Maeggi indispensable para ejercer. En casa nadie lo había alentado a desarrollar su don; la academia había sido el lugar donde pudo practicarlo. Cuando debía combatir, Ren confiaba más en su espada, su fuerza y lo que había aprendido como custodio.
+En el patio había otros recién graduados. Sus familias habían ido a verlos. Ren miró hacia ellos un momento; después volvió a mirar el agua.
 
-Había aprendido a atender y proteger a quienes se le confiaban y a imaginar lugares que no conocía. Su nana le había contado historias de Erebia y de una ciudad que flotaba entre las nubes. A veces, al caminar por la capital, alzaba la vista hacia sus edificios y se preguntaba cómo habría sido aquella ciudad.
-
-Quería conocer el mundo, vivir aventuras y encontrar camaradas que lo apreciaran. También imaginaba una casa donde las personas se quisieran y se valoraran; una familia como la que creía que cualquiera debería poder tener. En alguna de esas fantasías había otro hombre junto a él, quizá alguien de las Costas del Verano, con quien pudiera casarse.
-
-La ley imperial permitía a hombres y mujeres elegir a quién amar y con quién casarse. En el ambiente eisengardiano donde Ren había crecido se hablaba de las relaciones entre hombres como de una costumbre extranjera, especialmente del Verano. También se miraba con recelo a los Portadores. Conocía esas ideas y conocía a su padre; imaginar aquella boda le resultaba mucho más fácil que creer que pudiera celebrarse.
-
-Meses antes de graduarse había asistido a una comitiva lemuriana. Allí escuchó a una mujer llamada Marwha Khan hablar de su hijo: había comprado un barco y pensaba zarpar hacia tierras desconocidas. Ella temía que se perdiera en el mar.
+Meses antes había asistido a una comitiva lemuriana. Mientras la atendía, escuchó a una mujer llamada Marwha Khan hablar de su hijo: había comprado un barco y pensaba zarpar hacia tierras desconocidas. Ella temía que se perdiera en el mar.
 
 Una de sus acompañantes propuso contratar un custodio.
 
@@ -28,7 +22,7 @@ Todos rieron salvo Marwha.
 
 La primera mujer insistió. Los custodios acompañaban, protegían y asistían a sus señores en la vida diaria: algunos hablaban lenguas, sabían de navegación o diplomacia, y otros tenían dones de curación. Había distintas órdenes y academias, reales e imperiales. ¿No prefería Marwha que su hijo estuviera acompañado por alguien así en vez de una banda de sturmgardianos?
 
-Ren escuchó sin interrumpir. Había aprendido a proteger y asistir, pero el mar y los lugares desconocidos de los que hablaban estaban muy lejos del puesto que su padre había imaginado para él.
+Ren había escuchado sin interrumpir. Había aprendido a proteger y asistir, pero el mar y los lugares desconocidos de los que hablaban estaban muy lejos del puesto que su padre había imaginado para él.
 
 —Por favor, no me recuerdes a esos desaliñados —dijo Marwha—. Estuvieron en mi casa hace años y juro por Ishbaal que todavía puedo olerlos.
 
@@ -36,13 +30,7 @@ Ren escuchó sin interrumpir. Había aprendido a proteger y asistir, pero el mar
 
 —Ishbaal me perdone, pero espero que no. Están casi todos muertos. Así son los sturmgardianos, supongo.
 
-Su acompañante prometió llevarla a la academia. Ren había seguido sirviendo a la comitiva, pero no olvidó la conversación.
-
-El día de su graduación recibió todos los honores disponibles para un cadete que no hubiera ingresado en una orden. Ningún Steinert acudió a felicitarlo.
-
-Cuando terminó la ceremonia se sentó junto a una fuente y miró su reflejo. Se acomodó el uniforme y sonrió al joven rubio que lo observaba desde el agua.
-
-—Felicidades, Ren. Lo lograste. Estoy orgulloso de ti.
+Su acompañante prometió llevarla a la academia. Ren siguió atendiendo a la comitiva, pero no olvidó la conversación. Ahora, junto a la fuente, pensó en aquel barco que zarparía hacia lugares desconocidos. Él también quería conocer el mundo, vivir aventuras y encontrar camaradas que lo apreciaran.
 
 —Una vez conocí a un grimyi que hablaba solo, ¿sabes? Lo pusieron a dormir porque no paraba de felicitarse a sí mismo.
 
@@ -118,6 +106,8 @@ En el comedor de la academia, Ren seguía procurando explicar su negativa. Iyuri
 
 —¿Qué pasa con tu padre? ¿Debe darte permiso? Jefe Rizen, ¿usted qué opina?
 
+Ren calló. Conocía lo que su padre había decidido para él: un puesto aceptable como asistente o escudero de algún señor de la capital, lejos de la familia. Keven había insistido en la Academia Imperial de Dracma cuando Ren también podía haber estudiado en la Academia Real de Custodios de Eisengard.
+
 —Que preferiría que ninguno de mis alumnos se subiera a un bote contigo, Iyuri.
 
 —Líder Rizen —intervino Marwha—, ¿podría recomendarnos a alguien más apto?
@@ -162,7 +152,7 @@ Cuando se quedaron solos, Iyuri observó a Ren.
 
 —Muchísimo. Nunca había visto edificios tan altos ni castillos tan hermosos. Cuando era pequeño, mi nana me contaba historias sobre Erebia y la Ciudad de las Nubes. A veces imagino que la capital se parece al viejo continente.
 
-Ren miró hacia los ventanales. Cuando volvió a fijarse en Iyuri, este ya no se reía. La emoción del custodio al hablar de una ciudad que jamás había visto lo conmovió. Durante un instante, el dolor que llevaba consigo dejó de apretarle el pecho.
+Ren miró hacia los ventanales. Durante mucho tiempo solo había podido imaginar los lugares que describía su nana. Cuando volvió a fijarse en Iyuri, este ya no se reía. La emoción del custodio al hablar de una ciudad que jamás había visto lo conmovió. Durante un instante, el dolor que llevaba consigo dejó de apretarle el pecho.
 
 —Bueno, Ren de Eisengard, ganaste. No digo eso muy seguido, así que atesóralo. Espero que seas un gran custodio y, si algún día volvemos a vernos... Bah, no va a pasar. Probablemente no regrese nunca. Un adiós definitivo será mejor.
 
@@ -206,9 +196,11 @@ Ren pensó en las historias de su nana, en el mar que nunca había cruzado y en 
 
 —Bienvenido a bordo, señor custodio.
 
-El acuerdo de seis años de asistencia y protección quedó celebrado con Fhilippo Galenor y Marwha Khan, los padres de Iyuri. Ren lo aceptó como custodio imperial; la elección de acompañar a Iyuri había sido suya.
+Seis días después llegaron a Lemuria. Ren llevaba la maleta de Iyuri por la recepción de la mansión Khan y aún pensaba en todo lo que había visto durante el viaje. Había aceptado el contrato de asistencia y protección con Marwha Khan y Fhilippo Galenor. Durante seis años sería el custodio de su hijo; había elegido acompañarlo.
 
-Seis días después llegaron a Lemuria. Ren llevaba la maleta de Iyuri por la recepción de la mansión Khan y aún pensaba en todo lo que había visto durante el viaje. Nunca había salido de Eisengard ni de la capital. Ahora estaba en una isla, al otro lado del mar, y todavía quedaban más lugares por conocer: playas, comidas desconocidas y quizá muchachos de tierras lejanas. Se preguntó qué clase de belleza habría más allá del mar.
+Nunca había salido de Eisengard ni de la capital. Ahora estaba en una isla, al otro lado del mar, y todavía quedaban más lugares por conocer: playas, comidas desconocidas y quizá muchachos de tierras lejanas. Se preguntó qué clase de belleza habría más allá del mar.
+
+A veces había imaginado una casa donde las personas se quisieran y se valoraran, la familia afectuosa que creía que cualquiera debería poder tener. En esa casa podía haber otro hombre a su lado, quizá alguien de las Costas del Verano. La ley imperial le permitiría casarse con él; aun así, le resultaba más fácil imaginar aquella boda que creer que pudiera celebrarse. En Eisengard había oído hablar de las relaciones entre hombres como de una costumbre extranjera, especialmente del Verano. También se miraba con recelo a los Portadores. Ren conocía esas opiniones y conocía a su padre.
 
 —¿Ren? ¿Ren? ¡REN!
 
@@ -247,6 +239,8 @@ Iyuri disfrutó de la expresión de Marwha. La familia se sentó a comer y Ren i
 —Soy hijo de Keven Steinert y de Mila Hubbe, señor.
 
 Fhilippo dejó caer un trozo de comida. Marwha e Iyuri se quedaron mirándolo.
+
+Durante años los Steinert habían mantenido a Ren apartado de la mirada pública. Haber nacido Portador era una mancha para su familia, y Keven llamaba aberración a su don. No quería que lo usara públicamente y mancillara el nombre Steinert. Cuando su padre decidía algo, Ren había aprendido a reconocer que la conversación había terminado.
 
 —¿Keven Steinert? ¿Ese Keven Steinert?
 
@@ -384,7 +378,7 @@ Ren buscó cómo encender la chimenea.
 
 —No conozco otra escuela para compararla.
 
-Ren sostuvo la prenda entre las manos. Iyuri había estudiado en Veleskaria, en la escuela Maeggi más prestigiosa del Imperio; él había ido a Vasaggo durante el tiempo que le exigían para ejercer. Sabía lo poco que había podido aprender en comparación. Aun así, no quería arriesgar la casa tratando de encender el fuego.
+Ren sostuvo la prenda entre las manos. Iyuri había estudiado en Veleskaria, en la escuela Maeggi más prestigiosa del Imperio; él había pasado año y medio de sus seis años de academia en Vasaggo, el tiempo de formación Maeggi que le exigían para ejercer. Allí había podido practicar lo que en casa le prohibían y nadie lo alentaba a desarrollar. Para combatir confiaba más en su espada, su fuerza y el entrenamiento de custodio. No quería arriesgar la casa tratando de encender el fuego.
 
 Iyuri contempló los pantalones que Ren se había dejado puestos.
 

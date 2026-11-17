@@ -2,6 +2,12 @@
 
 ## Revisiones editoriales
 
+### Pulido de El custodio imperial (2026-11-17)
+
+Reordenado el comienzo desde la graduación de Rendard y distribuidos sus
+antecedentes en recuerdos y escenas posteriores. Integrado el contrato en su
+llegada a Lemuria, conservando su duración y a los contratantes.
+
 ### Ampliación de El custodio imperial (2026-11-17)
 
 Ampliados los antecedentes y sueños de Rendard, su formación, el contrato con
