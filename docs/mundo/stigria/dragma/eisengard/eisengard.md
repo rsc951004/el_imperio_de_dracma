@@ -37,6 +37,7 @@ su población posterior.
 
 ## Referencias
 
+- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/casas/hammer.md`
 - `docs/casas/eberwulf.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`

@@ -27,6 +27,8 @@ alado.
 
 ## Referencias
 
+- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
+- [Mortis](mortis.md)
 - `docs/personajes/ellis-rosamund.md`
 - `docs/personajes/oskar-rheiner.md`
 - `docs/personajes/lya-khan.md`

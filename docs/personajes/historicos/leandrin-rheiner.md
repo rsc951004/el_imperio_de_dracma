@@ -66,6 +66,7 @@ general.
 
 ## Referencias
 
+- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/mundo/stigria/dragma/guerras-misticas.md`
 - `docs/entidades/invocadores.md`
 - `docs/casas/rheiner.md`

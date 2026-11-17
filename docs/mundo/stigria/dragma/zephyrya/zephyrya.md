@@ -127,6 +127,8 @@ Turismo de todo el imperio. Agricultura de planicie y ganadería. Comercio de pi
 - **Resto del imperio:** destino turístico por excelencia. Gentes de los doce reinos y protectorados visitan sus playas.
 
 ## Referencias
+
+- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/dragma/alessya/alessya.md`
 - `docs/casas/zephiryon.md`

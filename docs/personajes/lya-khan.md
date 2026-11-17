@@ -12,6 +12,7 @@ Millicent Rosamund.
 
 ## Referencias
 
+- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/personajes/oskar-rheiner.md`
 - `docs/personajes/iyuri-khan.md`
 - `docs/personajes/arystan-khan.md`

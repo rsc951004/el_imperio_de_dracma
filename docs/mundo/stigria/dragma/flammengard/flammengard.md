@@ -8,7 +8,7 @@ Flammengard
 
 
 ## Capital
-Phardazul
+[Phardazul](phardazul.md)
 ## Casa real
 - Fundadora: **Wolfen**
 - Actual: **Gundrek**
@@ -51,6 +51,8 @@ Noroeste volcánico, piromancia. Región de actividad geotérmica y tradición �
 Energía geotérmica y minería volcánica. Centro de estudios pirománticos.
 
 ## Referencias
+
+- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/12-reinos.md`
 - `docs/casas/wolfen.md`
 - `docs/casas/gundrek.md`

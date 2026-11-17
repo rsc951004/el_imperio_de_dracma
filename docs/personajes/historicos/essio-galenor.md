@@ -11,5 +11,6 @@ su infección, la acusación y su destino posterior permanecen abiertos.
 
 ## Referencias
 
+- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/personajes/iyuri-khan.md`
 - `docs/mundo/stigria/rugido-mordaz.md`

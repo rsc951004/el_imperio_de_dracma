@@ -78,6 +78,7 @@ escritura. Esa cultura real no existe dentro del mundo.
 
 ## Referencias
 
+- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/casas/voresk.md`
 - `docs/casas/korzan.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`

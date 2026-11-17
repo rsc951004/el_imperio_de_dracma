@@ -67,6 +67,12 @@ posterior de su infección, el origen de esa tripulación, sus objetivos y las
 circunstancias que llevaron a la separación de Iyuri y Oskar permanecen
 reservados.
 
+En una estancia posterior en Upyria, Iyuri viajaba con Rendard Steinert y el
+Calamar Rojo, con asuntos pendientes en Vesperya. En el lupanar de Goro Revolva
+estuvo con Gin y Beku. Tras la transformación que manifestó Beku, unas voces
+transmitieron un ultimátum en nombre del Señor de la Sangre y el Hueso. La
+naturaleza de la manifestación permanece abierta.
+
 ## Fragmento
 
 - [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
@@ -87,3 +93,7 @@ reservados.
 - `docs/organizaciones/cuervos-grises.md`
 - `docs/mundo/stigria/lazeroth.md`
 - `docs/entidades/sombra.md`
+- [Rendard Steinert](rendard-steinert.md)
+- [Gin](gin.md)
+- [Beku](beku.md)
+- [Astor Vârdescu, Señor de la Sangre y el Hueso](astor-vardescu.md)

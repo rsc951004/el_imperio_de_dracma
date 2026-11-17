@@ -152,6 +152,8 @@ Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; *
 - **Kystvar:** al otro lado del estrecho. Vecinos silenciosos. Se observan desde orillas opuestas.
 
 ## Referencias
+
+- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/dragma/alessya/alessya.md`
 - `docs/casas/thalyros.md`

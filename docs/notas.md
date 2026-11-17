@@ -2,6 +2,25 @@
 
 ## Revisiones editoriales
 
+### Strygoria y el Señor de la Sangre y el Hueso (2026-11-17)
+
+Establecido que el Reino de la Sangre y el Hueso es Strygoria y que su señor
+es el monarca Astor Vârdescu. Integradas las referencias en sus fichas
+existentes; retiradas las fichas duplicadas y corregidos los índices y enlaces.
+
+### Fichas del episodio de Upyria (2026-11-17)
+
+Creadas fichas de Rendard, Gin, Beku, Goro Revolva, Jorgha, Mortis y el Señor
+de la Sangre y el Hueso; actualizados el índice de personajes y las fichas de
+Iyuri, Lya y Upyria. La manifestación, el mensaje y los lugares que menciona se
+registran con sus reservas; se conserva la marca sobre Mortis.
+Añadidas fichas de Phardazul y del Reino de la Sangre y el Hueso; la segunda
+recoge únicamente el mensaje y sus reservas, sin incorporarlo a los Siete Reinos.
+Añadidas referencias al fragmento en fichas existentes de la familia Khan y
+sus allegados, los rescatistas, Arystan y Ellis.
+Añadidas referencias al fragmento en las fichas geográficas relacionadas y en
+la ficha de Leandrin Rheiner.
+
 ### Revisión de ritmo y focalización en Upyria (2026-11-17)
 
 Reubicado el recuerdo breve de Oskar dentro del momento íntimo entre Iyuri,

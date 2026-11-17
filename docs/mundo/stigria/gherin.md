@@ -85,6 +85,7 @@ Dürr — Riss — Unland — Stömur — Grimheim
 
 ## Referencias
 
+- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/mundo/stigria/stigria.md`
 - `docs/mundo/stigria/stomur.md`
 - `docs/mundo/stigria/guerra-del-valle-dorado.md`

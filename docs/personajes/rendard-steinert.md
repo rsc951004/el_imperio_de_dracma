@@ -1,0 +1,23 @@
+# Rendard Steinert
+
+## Identidad y carácter
+
+Rendard Steinert, llamado Ren por Iyuri Khan, es un joven eisengardiano,
+custodio imperial con formación militar y marinero vinculado al Calamar Rojo.
+Es disciplinado y formal, tiene un fuerte sentido del deber y desea conocer el
+mundo. Es rubio y lleva el cabello corto, con corte militar.
+
+## Relaciones
+
+Mantiene un vínculo fraternal profundo con [Iyuri](iyuri-khan.md), su capitán.
+Durante una estancia en Upyria conoció a [Gin](gin.md), por quien mostró
+interés. La evolución de su relación permanece abierta.
+
+En sus pensamientos imaginó un futuro junto a un joven, con una boda, una hija
+adoptiva y una casa cerca de la capital. Son aspiraciones personales.
+
+## Referencias
+
+- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
+- [Eisengard](../mundo/stigria/dragma/eisengard/eisengard.md)
+- [Upyria](../mundo/stigria/upyria.md)

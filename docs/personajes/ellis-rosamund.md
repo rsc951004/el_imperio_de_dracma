@@ -21,6 +21,8 @@ alado.
 
 ## Referencias
 
+- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
+- [Mortis](mortis.md)
 - `docs/personajes/arystan-khan.md`
 - `docs/personajes/millicent-rosamund.md`
 - `docs/organizaciones/banda-del-colmillo-blanco.md`

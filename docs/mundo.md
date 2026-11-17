@@ -94,8 +94,9 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Veskarna | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/veskarna.md) |
 | Morysk | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/morysk.md) |
 | Upyria | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/upyria.md) |
+| Phardazul | Ciudad | Capital de Flammengard. | [Ver ficha](mundo/stigria/dragma/flammengard/phardazul.md) |
 | Kymoria | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/kymoria.md) |
-| Strygoria | Reino | Reino de Grimheim. | [Ver ficha](mundo/stigria/strygoria.md) |
+| Strygoria | Reino | Reino de Grimheim, conocido como Reino de la Sangre y el Hueso. | [Ver ficha](mundo/stigria/strygoria.md) |
 | Vilkorath | Reino | Reino meridional de Grimheim. | [Ver ficha](mundo/stigria/vilkorath.md) |
 | Casa Dragomir | Casa histórica | Antigua casa noble de Valastir. | [Ver ficha](casas/dragomir.md) |
 | Casa Valkyren | Casa de Valastir | Casa vinculada a Imrik y Millicent. | [Ver ficha](casas/valkyren.md) |

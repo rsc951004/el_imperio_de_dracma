@@ -7,5 +7,6 @@ había visto a Greta una vez y no había conversado con ella.
 
 ## Referencias
 
+- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/personajes/iyuri-khan.md`
 - `docs/casas/nerve.md`

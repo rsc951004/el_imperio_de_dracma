@@ -51,6 +51,12 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Dravora | Reina histórica | Fundadora de la Casa Dravor y de su dinastía real en Valastir. | [Ver ficha](personajes/dravora.md) |
 | Ruxandra Dravor | Reina histórica | Reina de Valastir durante Amschel y madre de Dymtrik. | [Ver ficha](personajes/ruxandra-dravor.md) |
 | Iyuri Khan | Personaje histórico | Portador lemuriano del Don de la Flecha. | [Ver ficha](personajes/iyuri-khan.md) |
+| Rendard Steinert | Custodio y marinero | Eisengardiano vinculado al Calamar Rojo. | [Ver ficha](personajes/rendard-steinert.md) |
+| Gin | Personaje de Upyria | Joven que conoció a Iyuri y Rendard. | [Ver ficha](personajes/gin.md) |
+| Beku | Personaje de Upyria | Joven que manifestó una transformación en el lupanar. | [Ver ficha](personajes/beku.md) |
+| Goro Revolva | Personaje mencionado | Su nombre identifica un lupanar de Upyria. | [Ver ficha](personajes/goro-revolva.md) |
+| Jorgha | Personaje mencionado | Mencionado por Iyuri en Upyria. | [Ver ficha](personajes/jorgha.md) |
+| Mortis | Figura mencionada | Nombrado en un mensaje dirigido a Iyuri. | [Ver ficha](personajes/mortis.md) |
 | Fhilippo Galenor | Mercader histórico | Mercader vesperyano y padre de Iyuri. | [Ver ficha](personajes/historicos/fhilippo-galenor.md) |
 | Marwha Khan | Noble histórica | Noble lemuriana y madre de Iyuri. | [Ver ficha](personajes/historicos/marwha-khan.md) |
 | Essio Galenor | Mercader histórico | Tío paterno de Iyuri. | [Ver ficha](personajes/historicos/essio-galenor.md) |
@@ -151,7 +157,7 @@ establecido, la identidad permanece pendiente.
 | Vazek Malkorin | Monarca | Gobernante de Morysk. | [Ver ficha](personajes/vazek-malkorin.md) |
 | Nasyr Drazek | Monarca | Gobernante de Upyria. | [Ver ficha](personajes/nasyr-drazek.md) |
 | Vizar Morvaska | Monarca | Gobernante de Kymoria. | [Ver ficha](personajes/vizar-morvaska.md) |
-| Astor Vârdescu | Monarca | Gobernante de Strygoria. | [Ver ficha](personajes/astor-vardescu.md) |
+| Astor Vârdescu | Monarca | Gobernante de Strygoria, Señor de la Sangre y el Hueso. | [Ver ficha](personajes/astor-vardescu.md) |
 | Aesh Vulkresk | Monarca | Gobernante de Vilkorath. | [Ver ficha](personajes/aesh-vulkresk.md) |
 | Armand Zorana | Integrante de Tábura | Padre de Imrik y miembro de la Mort Tábura. | [Ver ficha](personajes/armand-zorana.md) |
 | Dhalma Dragomir | Noble histórica | Madre de Loras Dragomir. | [Ver ficha](personajes/dhalma-dragomir.md) |

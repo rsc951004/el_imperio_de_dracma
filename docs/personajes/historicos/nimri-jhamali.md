@@ -12,5 +12,6 @@ rango que Tuk Neyzeh y Benji Perjhan en el equipo que acudió a la mansión.
 
 ## Referencias
 
+- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
 - `docs/personajes/iyuri-khan.md`
 - `docs/organizaciones/cuervos-grises.md`
