@@ -289,3 +289,253 @@ Pensó que, de ser así, ahora lo comprendía un poco mejor. Y sintió una profu
 La cena todavía no estaba lista.
 
 Iyuri permanecía tendido sobre la enorme cama, mientras Ren descansaba junto a él, jugando distraídamente con el dije que Iyuri llevaba consigo.
+
+—¿Alguna vez vamos a hacerlo, señor?
+
+—¿Hacer qué, Ren?
+
+—Ya sabe, señor.
+
+—¿Y qué acabamos de hacer?
+
+—No es lo mismo, señor.
+
+—¿En serio? Explícamelo para que entienda.
+
+Ren se acomodó sobre Iyuri y comenzó a acariciarle suavemente la espalda y la cintura.
+
+—¿De verdad tengo que explicárselo?
+
+—¿Y cómo voy a saber de qué estás hablando? —respondió Iyuri, con una sonrisa traviesa.
+
+Iyuri apartó suavemente a Ren de su regazo y lo acomodó sobre su pecho.
+
+—Es mejor así. Si después te arrepientes, al menos no habrás mancillado tu honra de Sangre de Hierro.
+
+—Soy capaz de preocuparme por mi propia honra, señor.
+
+—¡Rendard, ven con tu amigo! ¡La cena está lista! Además, tenemos un invitado especial. ¡Dos, en realidad! —se escuchó la voz de Keven desde el otro lado de la puerta.
+
+Ren se levantó de la cama y comenzó a vestirse, pero Iyuri lo detuvo. Rodeó su cuerpo desnudo con los brazos, lo atrajo hacia sí y lo besó suavemente.
+
+Luego, sin decir una palabra, comenzó a vestirlo con una paciencia y una delicadeza poco habituales en él.
+
+Ren acariciaba distraídamente sus cabellos mientras observaba cómo aquel que era su señor —a quien él debería vestir por contrato— se ocupaba de arreglarlo con todo el cuidado que se dedicaría a un jovencito de la nobleza.
+
+Iyuri le puso un traje de gala, alisó cuidadosamente la tela, acomodó cada prenda y, finalmente, ajustó su cabello dorado hasta dejarlo impecable.
+
+Después lo abrazó con fuerza y acercó los labios a su oído.
+
+—No dejes que el cretino de tu padre arruine tu primera noche libre.
+
+Ren sonrió.
+
+—No lo haré, señor. Lo prometo.
+
+Iyuri comenzó a vestirse, pero algo lo detuvo. Una extraña sensación recorrió su cuerpo, provocándole un escalofrío.
+
+Pensó que se debía al frío de aquella noche en las montañas de Eisengard, así que no le dio mayor importancia y terminó de arreglarse.
+
+Sin embargo, cuando bajó y se encontró frente a los invitados, comprendió que aquella sensación no tenía absolutamente nada que ver con el clima.
+
+Sentados junto a los Steinert se encontraban un hombre y una mujer. Iyuri habría jurado que las sonrisas falsas y siniestras que mostraban solo él podía percibirlas.
+
+A diferencia de aquella otra ocasión, no sintió ningún zumbido en los oídos ni el menor mareo. El sello de clase Dragón le permitía percibir visualmente cualquier presencia de la Sombra, no solo a las personas Tocadas o contaminadas. Detectarla, por sí mismo, no tenía nada de extraordinario.
+
+Lo inquietante era la manera en que el sello representaba aquella presencia: deformando los rostros de los invitados con sonrisas antinaturales, miradas perdidas y expresiones siniestras. Iyuri ya había presenciado ese fenómeno una sola vez, durante los acontecimientos de Erebia.
+
+Los sellos de clase Dragón eran estúpidamente gráficos. Iyuri maldijo para sus adentros que Ren todavía llevara aquel estúpido sello de clase Cereza.
+
+—Señor Khan, permítame presentarle a Lyon Kant y a su hija Fay.
+
+—Mucho gusto, señor Khan. Hace tiempo que queríamos conocerlo —respondió Lyon.
+
+—¿Hace tiempo? ¡Pero si te hablé de él recién hoy, Kant, viejo senil! —exclamó Keven, soltando una carcajada—. Por favor, señor Khan, siéntese. Haré que traigan la comida.
+
+Las dos personas sentadas a la mesa no dejaban de mirar a Iyuri de una manera escalofriante. Alertado por el peligro, este procuró comportarse con la mayor naturalidad posible.
+
+—Mucho gusto, señor Kant. Señorita Fay —saludó cortésmente antes de tomar asiento.
+
+—Pensé que no había más personas cerca de su casa, señor Keven —comentó Iyuri.
+
+—A decir verdad, no. Pero justo hoy Kant vino a nuestra morada. ¡Qué coincidencia! En fin, es bueno que los jóvenes se conozcan, especialmente si están comprometidos, si sabe a lo que me refiero.
+
+—En realidad, no. ¿Hay algún compromiso?
+
+Keven se volvió hacia su hijo con una expresión de sorpresa.
+
+—¡Muchacho! ¿No se lo has contado a tu amigo? —Luego miró nuevamente a Iyuri, sonriendo de oreja a oreja—. ¡Rendard está comprometido con Fay! Por supuesto, señor Khan, usted también está invitado a la boda.
+
+—¿Comprometido? —Iyuri, ya sentado, giró la cabeza hacia Ren, que parecía enormemente afligido—. ¡Qué sorpresa! No me habías dicho nada, Rendard, pequeño bribón.
+
+—¡Claro! Es que Rendard es muy reservado —intervino Keven—. De pequeño ni siquiera se bañaba delante de otros niños. ¿Puede creerlo?
+
+—¿En serio? —respondió Iyuri—. Pero eso es encantador. Rendard realmente enaltece el nombre de la Casa Steinert. Es un joven muy correcto, me consta.
+
+—¡Un brindis por eso! ¡Por el compromiso y la unión de las casas Kant y Steinert! —exclamó Keven, levantando su copa.
+
+—¡Sköll! ¡Sköll! —respondieron los presentes.
+
+Iyuri alzó su copa junto a los demás, procurando mantener una expresión despreocupada.
+
+Luego miró de reojo a Rendard, que seguía visiblemente afligido.
+
+Bajó discretamente una mano bajo la mesa y comenzó a mover los dedos, formando tres señas que solo su custodio podía comprender.
+
+«Invitados. Sombra. Athalion».
+
+El rostro de Ren se desencajó por completo. La tristeza que hasta entonces dominaba su expresión dio paso a una alarma inmediata.
+
+Sin levantar la mirada ni pronunciar una palabra, respondió con dos señas rápidas bajo la mesa:
+
+«Afuera. Rápido».
+
+—Señor Steinert, si me permite, quisiera hacerles un regalo a todos los presentes para celebrar esta hermosa unión.
+
+—¡Señor Khan! Pero eso es... ¡No debería molestarse! ¡No, no puedo aceptarlo!
+
+—Por favor, insisto. Uno para usted, otro para su bella esposa, uno para el señor Kant y otro para su encantadora hija.
+
+—¿Y para Ren no hay nada? —preguntó Kant—. ¿Algo de Erebia, quizás? ¿Algún tesoro robado?
+
+Iyuri miró fijamente a Kant antes de responder.
+
+—No. Ren ya ha tenido suficiente.
+
+Keven frunció el ceño, confundido. Desde que habían llegado, todos parecían empeñados en llamar a su hijo por aquel diminutivo.
+
+—¿Ren? ¿Qué es eso? ¿Acaso es algún apodo? —Se volvió hacia Rendard, visiblemente irritado—. ¡No te di el nombre de mi padre para que lo mancilles, muchacho!
+
+—Perdóneme, señor Iyuri, pero me resulta curioso que, siendo usted un señor de tan noble posición, no tenga nada más que ofrecer. Quizás algo que no le pertenezca... ¿No sería ese el regalo de bodas perfecto? —insinuó Kant.
+
+—¡Ah, sí! ¡Kant, te estás pasando! ¡Discúlpate con el señor Khan ahora mismo! ¡No toleraré semejantes faltas de respeto en mi casa! —intervino Keven.
+
+—¿Robado? —preguntó Iyuri, mirando fijamente a Kant—. Yo nunca he robado nada. Señor Keven, ¿usted le contó al señor Kant acerca de nuestro viaje a Erebia?
+
+—¿Erebia? No, no, yo no le he contado nada —respondió Keven, desconcertado. Luego se volvió hacia Kant—. ¿Cómo supiste eso? ¿Acaso lo escuchaste por ahí? ¡Si sabías algo de Rendard, debiste habérmelo dicho!
+
+—Señor Keven, sepa que lo lamento mucho y espero que pueda perdonarme.
+
+—¿Perdonarlo? ¿Por qué?
+
+Iyuri se abalanzó sobre Keven y su esposa, los sujetó a ambos por los brazos y saltó.
+
+De pronto, estaban flotando a gran altura.
+
+Keven miraba a su alrededor sin comprender absolutamente nada. ¿Dónde estaba? ¿Qué estaba ocurriendo? Su esposa no dejaba de gritar, horrorizada.
+
+Entonces el mundo comenzó a hacerse cada vez más grande.
+
+Estaban cayendo.
+
+Cayendo cada vez más rápido.
+
+Y, de repente, tocaron tierra junto a la casa.
+
+—¡¿Qué carajos fue eso?! —gritó Keven.
+
+—¡No tengo tiempo para explicárselo!
+
+Parte del ala de la casa se derrumbó con un estruendo ensordecedor.
+
+Entre los escombros emergió una figura humanoide de extremidades alargadas. No tenía boca, ojos ni orejas, pero emitía unos gritos que parecían ladridos.
+
+—¡Por favor, señor Keven, cúbrase!
+
+Por otra abertura de la casa surgió otra criatura semejante. Llevaba a Ren agarrado del cuello.
+
+—¡Maldición! ¡Necesito armas! ¿Por qué no traje ninguna? ¡Señor Keven! ¿Tiene armas en su casa?
+
+—¡Armas! Sí... ¡Una vieja espada! ¡Pero es de exhibición!
+
+—¡¿Por qué no tiene una espada de verdad en su casa?!
+
+—¡¿Y YO SOY GUARDIA REAL O UN SOLDADO?! ¡¿POR QUÉ TENDRÍA ARMAS EN MI CASA?!
+
+—¡Maldita sea!
+
+Ren recogió una pequeña piedra del suelo y la lanzó con todas sus fuerzas contra la criatura que lo sostenía del cuello.
+
+El impacto apenas consiguió distraerla un instante, pero fue suficiente para que Ren le propinara una tremenda patada que la hizo caer al suelo.
+
+La criatura lo soltó.
+
+Ren cayó de rodillas, tosiendo violentamente, pero estaba bien.
+
+Iyuri corrió hacia él, lo agarró del brazo y, sin perder un segundo, volvió a saltar hasta donde se encontraban sus padres.
+
+—¡¿QUÉ CARAJOS ESTÁ PASANDO?! ¡¿QUÉ SON ESAS COSAS?! —bramó Keven, fuera de sí—. ¡¿QUÉ TRAJISTE A MI CASA, MOCOSO IMPRUDENTE?!
+
+Por primera vez en su vida, Ren le gritó a su padre.
+
+—¡TÚ LOS DEJASTE ENTRAR! ¡NO ME INCLUYAS EN TUS ERRORES!
+
+Keven retrocedió, desconcertado. Jamás había escuchado a su hijo hablarle de aquella manera.
+
+—Señor Iyuri, creo... creo que no tenemos muchas opciones.
+
+—Lo sé, Ren.
+
+—¡SU NOMBRE ES RENDARD! —bramó Keven.
+
+—Es tu decisión —respondió Iyuri, sin prestarle atención—. Pero esas cosas están recuperando fuerzas.
+
+Ren se volvió hacia su padre.
+
+—Padre, mírame. No sé si de verdad detestas lo que dices detestar o si solo lo haces porque forma parte de mí y es a mí a quien detestas. Pero ya no me importa.
+
+—¿¡QUÉ CARAJOS ESTÁS DICIENDO, MUCHACHO!?
+
+Ren dio un paso hacia atrás y cerró los ojos.
+
+Cuando volvió a abrirlos, una luz cegadora brotó de ellos.
+
+En un instante, su cuerpo quedó completamente envuelto en llamas.
+
+Entonces se elevó hacia el cielo.
+
+—Señor Khan, ¿qué está pasando? —preguntó Keven, todavía mirando hacia el cielo.
+
+—¿Hace cuánto que no veía a su amigo, señor Keven?
+
+—¿A Kant? Meses. ¿Por qué?
+
+—Puede que esté muerto. Será necesario informar de esto. ¿Tiene señales en su casa?
+
+—¿Señales? ¿Esas cosas que lanza la gente para pedir ayuda?
+
+—Sí.
+
+—¡Jamás! ¡En Eisengard esas cosas no entran!
+
+—Bueno, acaba de ver dos.
+
+Mientras tanto, las criaturas comenzaban a ponerse lentamente de pie entre los escombros.
+
+Ren descendió frente a ellas, flotando a poca altura del suelo, completamente envuelto en llamas.
+
+Levantó ambos brazos.
+
+De ellos brotaron gigantescas lenguas de fuego que envolvieron a las criaturas. Sus cuerpos se retorcieron entre las llamas mientras emitían gritos desgarradores.
+
+Pero entre aquellos alaridos comenzó a distinguirse algo más.
+
+Palabras.
+
+—¡Devuélvemelo! ¡Devuélvemelo! ¡Es mío! ¡Nimri es mío!
+
+Ren descendió lentamente hasta tocar el suelo. Las llamas que envolvían su cuerpo se extinguieron y, una vez a salvo, volvió a cubrirse por completo con metal.
+
+Aunque parecía tener dificultades para moverse, comenzó a colocar piedra sobre piedra, intentando tapar el enorme agujero que había quedado en la casa.
+
+Sus padres e Iyuri se acercaron.
+
+—Asombroso, como siempre, Ren. De hecho, creo que esta vez sí que te luciste —comentó Iyuri.
+
+—No mienta, señor. Otras veces he estado más espectacular.
+
+—¡No hagas eso, Rendard! ¡No evadas tu responsabilidad! —intervino Keven.
+
+—Papá...
+
+—¡Mírame, muchacho!
