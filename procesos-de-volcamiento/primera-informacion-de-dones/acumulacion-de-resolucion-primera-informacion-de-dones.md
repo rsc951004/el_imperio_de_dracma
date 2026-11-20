@@ -15,8 +15,6 @@ el canon.
 
 ## Nudos por resolver
 
-- **R-04. Períodos de Astria:** definir límites, criterios y transiciones sin
-  ubicar acontecimientos hasta que se decida expresamente.
 - **R-05. Don de la Quimera:** definir el alcance del renombre de la Forja y
   sus términos derivados.
 - **R-07. Thalmos:** mantener fuera de este proceso el desarrollo detallado de
@@ -66,6 +64,127 @@ demográficas.
 
 **Estado:** cerrado por decisión humana. No modifica el canon.
 
+### R-04. Periodización histórica de Astria — resuelto
+
+La historia de Astria se divide en los seis períodos sucesivos definidos a
+continuación. Esta resolución sustituye las formulaciones provisionales
+anteriores sobre su orden y delimitaciones. Se conservan las fechas canónicas
+conocidas de aproximadamente **-1746** y **+1254**; no se establecen fechas
+intermedias ni duraciones específicas.
+
+#### Consideraciones geográficas
+
+Astria fue una civilización insular establecida en varias islas del Mar
+Oscuro. La isla central era el núcleo histórico, político y urbano. Su
+superficie era considerablemente mayor que la de las islas circundantes,
+menor que el continente de Dragma y aproximadamente un cuarto mayor que la de
+Lemuria; no se establecen dimensiones exactas.
+
+La isla central se conoció primero como **Isla Central** y después como
+**Astria Central**. La ciudad-estado de Astria se desarrolló allí, a partir de
+la Gran Plaza Central, y se expandió en todas direcciones hasta alcanzar las
+costas. **Astria** también designa el conjunto territorial y político de las
+islas de la civilización astriana; el referente depende del contexto.
+
+Entre las islas vecinas habitadas por pueblos originarios se cuentan **Roi**,
+**Viel** y **Tar**, además de otras todavía no enumeradas. No se agregan
+nombres ni dimensiones geográficas.
+
+#### I. Astria Temprana — Período fundacional
+
+Comienza con la llegada de los supervivientes erebianos a las islas del Mar
+Oscuro, aproximadamente hacia **-1746**, según la cronología canónica.
+Comprende el primer asentamiento en la Isla Central; la fundación y el
+crecimiento de la ciudad-estado desde la Gran Plaza Central; su expansión
+urbana en todas direcciones, hasta las costas; y la consolidación política e
+institucional de Astria. La expansión hasta las costas es parte del desarrollo
+del período; el hito que lo cierra es la fundación del **Ágoras Tábur**, el
+Gran Consejo de Táburas.
+
+#### II. Astria Clásica — Período de consolidación institucional
+
+Comienza con la fundación del Ágoras Tábur. Corresponde a la ciudad-estado
+astriana consolidada, antes de su expansión esclavista sobre las islas
+vecinas. Termina con el inicio de la esclavización de los pueblos originarios
+de las islas cercanas, incluidas Roi, Viel y Tar; este inicio abre la Alta
+Astria.
+
+#### III. Alta Astria — Período de esplendor y expansión esclavista
+
+Comienza con el inicio de la esclavización de los pueblos originarios de las
+islas vecinas. Es el período de máximo esplendor y desarrollo de la
+civilización astriana, incluido su extraordinario desarrollo místico. El poder
+astriano se extiende sobre las islas circundantes mediante la dominación y
+esclavización de sus habitantes.
+
+Termina con la rebelión victoriosa de los esclavizados de Roi y la derrota de
+Astria. La rebelión causa la destrucción parcial de Astria Central, la
+independencia de Roi, la fundación de un reino independiente y el
+establecimiento de un armisticio posterior al conflicto. La victoria de Roi y
+el nacimiento de su reino abren la Baja Astria.
+
+#### IV. Baja Astria — Período del armisticio
+
+Comienza con la fundación del reino independiente de Roi y el armisticio
+posterior a la derrota astriana. Está marcado por las consecuencias de esa
+derrota militar, por la destrucción parcial de Astria Central y por la
+existencia del reino independiente surgido de los antiguos territorios
+sometidos. El Ágoras Tábur continúa gobernando Astria y Roi conserva su
+independencia bajo el armisticio. Durante esta etapa surgen los cultistas de
+Thalmos, quienes luego participarán en la transformación política y religiosa
+astriana.
+
+La Baja Astria termina con el ataque de los cultistas de Thalmos contra Roi,
+la destrucción del reino y la ruptura del armisticio. Esta acción fue obra de
+los cultistas: no fue una decisión del gobierno astriano ni una orden del
+Ágoras Tábur; los cultistas todavía no gobernaban Astria. La caída del reino
+de Roi abre la Astria Tardía.
+
+#### V. Astria Tardía — Período de la guerra civil
+
+Comienza con la caída del reino independiente de Roi a manos de los cultistas
+de Thalmos. El período comprende la guerra civil y el enfrentamiento que
+conduce a la destrucción del antiguo orden político. Los cultistas consolidan
+su poder hasta derrocar al Ágoras Tábur. La caída del Consejo y el ascenso de
+los cultistas al gobierno ponen fin al período e inauguran la Astria
+Thalmocrática.
+
+#### VI. Astria Thalmocrática — Período del gobierno de Thalmos
+
+Comienza con el derrocamiento del Ágoras Tábur y la instauración del gobierno
+de los cultistas de Thalmos. El régimen recibe el nombre de **Thalmocracia**:
+el sistema de gobierno ejercido en nombre de Thalmos, el Dios Negro. Es el
+último gran período de la civilización astriana y comprende la prolongada
+etapa de gobierno cultista; no es una etapa breve ni un preludio inmediato a
+la destrucción. El desarrollo interno del régimen queda reservado para un
+proceso específico. El período termina con la destrucción definitiva de
+Astria en **+1254**, según la cronología canónica.
+
+#### La Caída de Astria y secuencia consolidada
+
+La **Caída de Astria** deja de designar un período y nombra la destrucción
+definitiva de la civilización, ocurrida en **+1254**. Se distingue de la
+destrucción parcial de Astria Central al final de la Alta Astria, de la caída
+del reino independiente de Roi al final de la Baja Astria y del derrocamiento
+del Ágoras Tábur al final de Astria Tardía.
+
+La secuencia queda establecida así:
+
+1. **Astria Temprana:** llegada de los fundadores → fundación del Ágoras
+   Tábur.
+2. **Astria Clásica:** fundación del Ágoras Tábur → inicio de la esclavización
+   de las islas vecinas.
+3. **Alta Astria:** expansión esclavista y esplendor → rebelión victoriosa e
+   independencia de Roi.
+4. **Baja Astria:** reino independiente de Roi y armisticio → destrucción del
+   reino por los cultistas de Thalmos.
+5. **Astria Tardía:** caída de Roi → guerra civil y derrocamiento del Ágoras
+   Tábur.
+6. **Astria Thalmocrática:** instauración de la Thalmocracia → destrucción
+   definitiva de Astria en **+1254**, la Caída de Astria.
+
+**Estado:** resuelto por decisión definitiva del autor. No modifica el canon.
+
 ### R-06. Denominación Maeghi — resuelto
 
 La denominación definitiva de la certificación imperial es **Maeghi**, tanto
@@ -96,8 +215,8 @@ elaboró sobre ellos.
 
 ## Próximo punto
 
-**R-04. Períodos de Astria:** ¿qué límites, criterios históricos y
-acontecimientos de transición deben definir los seis períodos?
+**R-05. Don de la Quimera:** ¿el cambio de nombre afecta solo al don o también
+a «forjador» y a otras denominaciones derivadas?
 
 ## Reservas
 

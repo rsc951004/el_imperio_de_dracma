@@ -8,35 +8,83 @@ modifica el canon ni autoriza su volcamiento.
 ## Alcance
 
 Reunir y revisar una interpretación histórica y mística de los dones y de las
-tradiciones sobre los Inits, con atención a la antigua Erebia y a la alta
-Astria, antes de la llegada del Dios Negro. El alcance podrá precisarse con
-nuevas aportaciones.
+tradiciones sobre los Inits, junto con la periodización histórica de Astria
+desde su fundación hasta su destrucción. El desarrollo interno del gobierno de
+Thalmos queda reservado para otro proceso.
 
 ## Decisiones acumuladas
 
 ### Periodización histórica de Astria
 
-La historia de la civilización astriana se organiza, en este orden, en seis
-períodos:
+#### Consideraciones geográficas
 
-1. **Astria Temprana — Período de los fundadores:** etapa fundacional,
-   protagonizada por sus fundadores.
-2. **Astria Clásica — Período de consolidación:** civilización astriana ya
-   establecida y consolidada.
-3. **Alta Astria — Período de esplendor:** apogeo de la civilización astriana y
-   etapa de su mayor desarrollo, incluido el desarrollo místico anterior a la
-   llegada del Dios Negro.
-4. **Astria Tardía — Período de descenso:** inicio y desarrollo de la pérdida
-   progresiva del nivel de desarrollo alcanzado durante la Alta Astria.
-5. **Baja Astria — Período de decadencia:** etapa de decadencia posterior al
-   período de descenso.
-6. **Caída de Astria — Período del Dios Negro:** período histórico identificado
-   con el Dios Negro.
+Astria fue una civilización insular asentada en varias islas del Mar Oscuro.
+La isla central era su núcleo histórico, político y urbano. Era mucho mayor
+que las islas circundantes, aunque menor que el continente de Dragma; como
+referencia de escala, su superficie era aproximadamente un cuarto mayor que la
+de Lemuria. No se fijan dimensiones geográficas exactas.
 
-Esta nomenclatura fija el orden y las características generales de cada etapa,
-pero no establece fechas, duraciones, causas ni acontecimientos de transición.
-Los sucesos ya acumulados no se asignan a un período salvo que se haya indicado
-expresamente; en particular, no se ubican por inferencia los episodios de Ose.
+La isla central fue conocida primero como **Isla Central** y más tarde como
+**Astria Central**. En ella se desarrolló la ciudad-estado de Astria, que
+creció desde la Gran Plaza Central en todas direcciones y alcanzó las costas.
+El nombre **Astria** también designa el conjunto territorial y político de las
+islas que integraban la civilización astriana; su referente depende del
+contexto.
+
+Entre las islas vecinas habitadas por pueblos originarios se encontraban
+**Roi**, **Viel** y **Tar**, además de otras todavía no enumeradas. No se
+añaden nombres ni dimensiones por inferencia.
+
+#### Seis períodos sucesivos
+
+1. **Astria Temprana — Período fundacional.** Comienza con la llegada de los
+   supervivientes erebianos a las islas del Mar Oscuro, aproximadamente hacia
+   **-1746**, y comprende el primer asentamiento en la Isla Central, la
+   fundación y expansión urbana de la ciudad-estado desde la Gran Plaza
+   Central, y la consolidación política e institucional. La expansión de la
+   ciudad hasta las costas forma parte de su desarrollo; el período termina
+   con la fundación del **Ágoras Tábur**, el Gran Consejo de Táburas.
+2. **Astria Clásica — Período de consolidación institucional.** Comienza con
+   la fundación del Ágoras Tábur y corresponde a la ciudad-estado consolidada,
+   antes de la expansión esclavista astriana sobre las islas vecinas. Termina
+   con el inicio de la esclavización de los pueblos originarios de esas islas,
+   incluidas Roi, Viel y Tar.
+3. **Alta Astria — Período de esplendor y expansión esclavista.** Comienza con
+   el inicio de esa esclavización. Es la etapa de máximo esplendor y desarrollo
+   astriano, incluido su desarrollo místico, y de expansión del poder astriano
+   mediante la dominación y esclavización de habitantes de las islas
+   circundantes. Termina con la rebelión victoriosa de los esclavizados de
+   Roi: Astria es derrotada, Astria Central sufre destrucción parcial, Roi
+   obtiene su independencia, se funda allí un reino independiente y se
+   establece un armisticio posterior al conflicto.
+4. **Baja Astria — Período del armisticio.** Comienza con la fundación del
+   reino independiente de Roi y el armisticio. Está marcada por las
+   consecuencias de la derrota astriana y la destrucción parcial de Astria
+   Central. Durante esta etapa, el Ágoras Tábur continúa gobernando Astria,
+   Roi conserva su independencia y surgen los cultistas de Thalmos. El período
+   termina cuando estos cultistas atacan y destruyen el reino de Roi, lo que
+   rompe el armisticio. Esta acción corresponde a los cultistas: no fue una
+   decisión del gobierno astriano ni una orden del Ágoras Tábur, y los
+   cultistas aún no gobernaban Astria.
+5. **Astria Tardía — Período de la guerra civil.** Comienza con la caída del
+   reino independiente de Roi a manos de los cultistas de Thalmos. Comprende
+   la guerra civil y la consolidación del poder de los cultistas hasta el
+   derrocamiento del Ágoras Tábur. Termina con la caída del Consejo y el
+   ascenso de los cultistas al gobierno de Astria, que pone fin al antiguo
+   sistema político.
+6. **Astria Thalmocrática — Período del gobierno de Thalmos.** Comienza con
+   el derrocamiento del Ágoras Tábur y la instauración del gobierno de los
+   cultistas de Thalmos. Este régimen recibe el nombre de **Thalmocracia**,
+   sistema de gobierno ejercido en nombre de Thalmos, el Dios Negro. Es el
+   último gran período astriano y comprende la prolongada etapa de gobierno
+   cultista. Su historia interna detallada queda reservada para otro proceso.
+   Termina con la destrucción definitiva de Astria en **+1254**.
+
+La **Caída de Astria** designa la destrucción definitiva de la civilización en
+**+1254**, no un período histórico. Debe distinguirse de la destrucción parcial
+de Astria Central al final de la Alta Astria, de la caída del reino
+independiente de Roi al final de la Baja Astria y del derrocamiento del Ágoras
+Tábur al final de Astria Tardía.
 
 ### Norma 1: tradiciones sobre los Inits y atribución de dones
 
@@ -193,8 +241,6 @@ y `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`, además de
 
 ## Asuntos pendientes
 
-- Definir los límites cronológicos y los criterios históricos de los seis
-  períodos, además de los acontecimientos que marcan sus transiciones.
 - Determinar si las atribuciones concretas entre cada Init y cada don son
   verdades objetivas del lore además de formar parte de la tradición de los
   místicos devotos.
