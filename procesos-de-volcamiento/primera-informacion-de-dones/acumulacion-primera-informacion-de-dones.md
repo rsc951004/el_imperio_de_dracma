@@ -145,9 +145,13 @@ La tradición mística ereboastriana es el fundamento del que bebe la
 institucionalidad mística dracmasia.
 
 La tradición mística sangheskia se perdió en gran medida. Persisten algunas
-reliquias, formas de entrenamiento y nombres de uso. **Maeghis** será el nombre
+reliquias, formas de entrenamiento y nombres de uso. **Maeghi** será el nombre
 invariable en singular y plural de la certificación imperial, en homenaje a esa
-tradición. Sustituye las formas **Maeggi** y **Maeggis**.
+tradición. Se admiten las pronunciaciones «maéyi» y «maélli». Esta decisión
+sustituye las formas anteriores **Maeggi**, **Maeggis** y **Maeghis**. Las
+denominaciones sangheskias **Maeyis** y **Maeyiss** son distintas y quedan fuera
+del cambio. La aplicación de **Maeghi** a las referencias canónicas queda para
+el eventual volcamiento.
 
 ### Desaparición de Ose y caída del mundo místico astriano
 
@@ -157,14 +161,15 @@ tradición. Sustituye las formas **Maeggi** y **Maeggis**.
   en general. Se registra como una lectura astriana de su desaparición y de
   que los dioses les habían dado la espalda, no como un acto objetivo de
   traición ya establecido.
-- En Astria disminuyeron paulatinamente los nacimientos de niños vinculados.
+- En Astria disminuyeron paulatinamente los nacimientos de personas
+  Vinculadas.
   Muchas personas atribuyeron esa disminución a que los dioses habían dado la
   espalda a los astrianos.
-- La percepción se agravó al aumentar los nacimientos de personas vinculadas
+- La percepción se agravó al aumentar los nacimientos de personas Vinculadas
   entre la población esclavizada.
-- Con el paso de los años, los nacimientos místicos, antes motivo de orgullo
-  para Astria, pasaron a considerarse una mancha: la marca de los traidores al
-  único y verdadero dios, Thalmos.
+- Con el paso de los años, los nacimientos de personas Vinculadas, antes motivo
+  de orgullo para Astria, pasaron a considerarse una mancha: la marca de los
+  traidores al único y verdadero dios, Thalmos.
 - El alzamiento de Thalmos y el desarrollo detallado de su culto quedan fuera
   del alcance de esta acumulación y corresponden a otro proceso.
 
@@ -209,8 +214,9 @@ y `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`, además de
   registra el canon.
 - Reconciliar la cronología de la desaparición de Ose con las apariciones y
   hechos suyos recogidos en las fuentes canónicas.
-- Auditar y actualizar, durante el eventual volcamiento, las referencias
-  canónicas a **Maeggi/Maeggis** para aplicar el cambio a **Maeghis**.
+- Aplicar **Maeghi** durante el eventual volcamiento en las referencias
+  canónicas correspondientes a la certificación imperial, preservando las
+  denominaciones sangheskias **Maeyis/Maeyiss**.
 - Auditar las consecuencias del cambio de nombre de **Don de la Forja** a
   **Don de la Quimera** en las fichas, personajes y referencias relacionadas.
 - Contrastar el resto de la norma con el canon vigente en una auditoría previa
