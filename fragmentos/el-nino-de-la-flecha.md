@@ -70,7 +70,7 @@ La libertad llegó también para sus compañeros. Iyuri los vio salir y sintió 
 alivio antes de atreverse a pensar en lo que haría después. Había sido su
 capitán; seguir siéndolo significaba volver al saqueo. Aquella vez podía escoger.
 
-Oskar le habló de la formación Maeggi. Iyuri recordó que Nana Fey había sido
+Oskar le habló de la formación Maeghi. Iyuri recordó que Nana Fey había sido
 cazadora de Grimm; de niño había querido unirse a la Grim Tábura. No
 tenía licencia, pero podía aprender, obtenerla e intentar vivir de un oficio.
 
@@ -372,7 +372,7 @@ inconsciente. Le sangraba el hombro y una garra negra le atravesaba el pecho.
 Quiso gritar, pero no le salió la voz.
 
 El joven rubio estaba sentado frente a él. Dos hombres acorazados contenían a
-la criatura. Iyuri reconoció entonces la insignia de la banda: un Maeggi
+la criatura. Iyuri reconoció entonces la insignia de la banda: un Maeghi
 siniestro. La alerta negra había funcionado.
 
 El rubio era Nimri Jhamali.
@@ -859,7 +859,7 @@ son tan despreciables que yo... Yo...
 Una voz siniestra pareció resonar por toda la habitación.
 
 Un zumbido ensordecedor y desagradable inundó las mentes de Iyuri y Rendard,
-una sensación que los Maeggi del Imperio conocían perfectamente.
+una sensación que los Maeghi del Imperio conocían perfectamente.
 
 —Ren, busca a Gin y protégelo.
 

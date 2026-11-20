@@ -2,11 +2,11 @@
 
 ## Tipo
 
-Escuela Maeggi de nivel menor dentro del sistema de formación imperial.
+Escuela Maeghi de nivel menor dentro del sistema de formación imperial.
 
 ## Formación
 
-Rendard Steinert cursó allí un año y medio de formación Maeggi, incluido en
+Rendard Steinert cursó allí un año y medio de formación Maeghi, incluido en
 sus seis años en la Academia Imperial de Custodios. Ese tramo era obligatorio
 por su condición de Portador y necesario para ejercer como custodio; recibió
 la formación mínima profesional requerida. La clasificación de nivel menor no

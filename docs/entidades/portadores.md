@@ -33,20 +33,41 @@ manifiesta el vínculo, no el alcance del vínculo cuando aparece. Las formas de
 manifestar un don dependen de la persona y de las maestrías que haya
 desarrollado.
 
-## Don de la Forja
+## Don de la Quimera
 
-La Forja permite transformar el cuerpo propio y el de otras criaturas vivas,
-reproducir formas existentes o crear otras mediante la combinación o
-imaginación de características. Los cambios persisten sin intervención
-continua y pueden revertirse. Si una criatura adopta una forma de menor
-capacidad de razonamiento, su mente se adapta gradualmente; tras mucho tiempo,
-el cambio mental puede ser irreversible aunque recupere su cuerpo anterior.
+El Don de la Quimera permite transformar el cuerpo propio y el de otras
+criaturas vivas, reproducir formas existentes o crear otras mediante la
+combinación o imaginación de características. Los cambios persisten sin
+intervención continua y pueden revertirse. Si una criatura adopta una forma de
+menor capacidad de razonamiento, su mente se adapta gradualmente; tras mucho
+tiempo, el cambio mental puede ser irreversible aunque recupere su cuerpo
+anterior.
 
 La Invocadora Leandrin Rheiner destacó por este don y transformó a sus
 dieciséis hermanos en dragones.
 
-Una persona Portadora o Invocadora que posee la Forja puede llamarse
-**forjador místico** o simplemente **forjador**.
+Una persona Portadora o Invocadora que posee el Don de la Quimera se denomina
+**Quimerista**. Puede crear quimeras mediante este don.
+
+## Denominaciones de otros dones
+
+Las denominaciones específicas de quienes poseen los dones son:
+
+- **Don del Ojo:** Vidente.
+- **Don del Fulgor** o **Don del Fulgor Solar:** Fulgurante.
+- **Don del Siseo:** Siseante.
+- **Don Siniestro:** Siniestro.
+
+Estas denominaciones identifican a Portadores de los dones correspondientes;
+no crean categorías místicas ni establecen capacidades o mecanismos.
+
+## Asociaciones históricas
+
+Ose está objetivamente asociado con el Don de la Quimera y el Don del Ojo.
+Esta asociación no permite identificar de forma fiable cuál Init alcanza a
+cada Portador ni deducir de antemano la naturaleza de su don. Otras
+correspondencias entre Inits y dones pertenecen a tradiciones devotas mientras
+no reciban confirmación individual.
 
 ## Señal ocular
 
@@ -74,11 +95,11 @@ usos cotidianos no constituye por sí solo ejercicio profesional. El registro o
 la licencia no autorizan delitos. Un niño no es castigado personalmente por la
 falta de registro imputable a sus responsables.
 
-La primera licencia imperial concede la condición de **Maeggi**, cuyo plural es
-**Maeggis**. Las clasificaciones asociadas a la formación
-son administrativas y no forman una taxonomía universal de dones. Cambiar de
-oficio no exige una licencia nueva, aunque la persona debe aprender lo necesario
-para ejercerlo.
+La primera licencia imperial concede la condición de **Maeghi**, tanto en
+singular como en plural. Se pronuncia «maéyi» o «maélli». Las clasificaciones
+asociadas a la formación son administrativas y no forman una taxonomía
+universal de dones. Cambiar de oficio no exige una licencia nueva, aunque la
+persona debe aprender lo necesario para ejercerlo.
 
 Erebia, Astria y los sabios de Khalos rechazaron históricamente una taxonomía
 universal. Los nombres de Portadores dependen del contexto, la actividad o la
@@ -87,6 +108,9 @@ maestría observada y no definen categorías absolutas.
 En la lengua de los Sangheskios, **Maeyis** es el singular y **Maeyiss** el
 plural para los Portadores esclavizados por ellos. Estas denominaciones no
 equivalen a la certificación imperial.
+
+La certificación **Maeghi**, invariable en singular y plural, honra la
+tradición mística sangheskia.
 
 ## Verilium
 

@@ -33,7 +33,7 @@ la atención de la infección y en la neutralización de focos sombríos.
 El [Santuario del Alma](../mundo/stigria/santuario-del-alma.md) es una técnica
 de sugestión y condicionamiento mental usada como defensa ante la Sombra. Si un
 Vinculado escucha hablar a la Sombra dentro de su Santuario, está infectado.
-Debe alejarse del foco y buscar cuanto antes a un Maeggi siniestro.
+Debe alejarse del foco y buscar cuanto antes a un Maeghi siniestro.
 
 El [Mar de Dirak](../mundo/stigria/mar-de-dirak.md) y el
 [Toque Residual](../mundo/stigria/toque-residual.md) son fenómenos asociados a

@@ -36,12 +36,12 @@ rescate de su familia.
 De niño soñaba con ingresar en la Grim Tábura. A los catorce años huyó de un
 matrimonio concertado con ayuda de su tío Essio Galenor. A los dieciséis era
 capitán del Calamar Rojo, una banda de saqueadores de Sturmgard. Estaba
-registrado, pero no tenía licencia Maeggi: sus saqueos eran delitos y su
+registrado, pero no tenía licencia Maeghi: sus saqueos eran delitos y su
 actividad habitual sustentada en el don carecía de certificación.
 
 Oskar Rheiner lo capturó durante un robo. Tras descubrir Oskar una conspiración
 de la Mort Tábura, el Calamar Rojo ayudó a detenerla y sus miembros fueron
-indultados. Iyuri decidió abandonar el bandidaje y formarse como Maeggi para
+indultados. Iyuri decidió abandonar el bandidaje y formarse como Maeghi para
 aspirar a cazar Grimm. Oskar lo acompañó hasta las Puertas Carmesí y después
 mantuvieron correspondencia durante tres años.
 

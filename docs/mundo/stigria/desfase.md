@@ -8,7 +8,7 @@ universal.
 
 ## Manifestaciones conocidas
 
-- **Arystan Khan, Don de la Forja:** puede quedar atrapado en una transformación
+- **Arystan Khan, Don de la Quimera:** puede quedar atrapado en una transformación
   y no volver a su forma humana a voluntad.
 - **Iyuri Khan, Don de la Flecha o del Salto:** puede experimentar un salto,
   normalmente inferior a un segundo, como si permaneciera suspendido durante

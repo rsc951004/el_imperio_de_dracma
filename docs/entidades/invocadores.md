@@ -70,7 +70,8 @@ manifestación no basta siempre para distinguirlos. Un error de buena fe al
 registrar la condición no es una falta grave, pero falsificarla deliberadamente
 es ilegal.
 
-La primera licencia concede la condición general de **Maeggi**. Las
+La primera licencia concede la condición general de **Maeghi**, invariable en
+singular y plural. Se pronuncia «maéyi» o «maélli». Las
 clasificaciones profesionales son administrativas; cambiar de oficio no exige
 otra licencia, aunque requiere aprender la nueva actividad. Una persona
 registrada puede usar libremente sus dones en la vida cotidiana. Necesita

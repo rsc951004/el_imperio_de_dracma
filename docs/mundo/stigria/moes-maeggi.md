@@ -1,11 +1,11 @@
-# Möes Maeggi
+# Möes Maeghi
 
 ## Título
 
-Maeggi autorizado para enseñar formalmente a otras personas a convertirse en
-Maeggis. Puede formar alumnos y, según el sistema imperial, avalar o visar la
+Maeghi autorizado para enseñar formalmente a otras personas a convertirse en
+Maeghi. Puede formar alumnos y, según el sistema imperial, avalar o visar la
 licencia de alguien que haya estudiado bajo su tutela. Es, en términos
-prácticos, un maestro Maeggi autorizado y de muy alto rango.
+prácticos, un maestro Maeghi autorizado y de muy alto rango.
 
 Iyuri Khan posee este reconocimiento. La jerarquía completa y sus trámites
 permanecen reservados.

@@ -88,7 +88,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Santuario del Alma | Técnica mental | Sugestión y condicionamiento enseñados como defensa ante la Sombra. | [Ver ficha](mundo/stigria/santuario-del-alma.md) |
 | Mar de Dirak | Fenómeno psicológico y místico | Alteración perceptiva asociada a infección extrema por Sombra. | [Ver ficha](mundo/stigria/mar-de-dirak.md) |
 | Toque Residual | Condición mística | Conexión persistente con la Sombra tras sobrevivir a una semilla de espectro. | [Ver ficha](mundo/stigria/toque-residual.md) |
-| Möes Maeggi | Título Maeggi | Maestro autorizado para formar Maeggis y avalar licencias de sus alumnos. | [Ver ficha](mundo/stigria/moes-maeggi.md) |
+| Möes Maeghi | Título Maeghi | Maeghi autorizado para formar a otras personas y avalar licencias de sus alumnos. | [Ver ficha](mundo/stigria/moes-maeggi.md) |
 | Calamar Rojo | Banda y embarcación | Nombre de la antigua banda de Iyuri y de su barco posterior. | [Ver ficha](mundo/stigria/calamar-rojo.md) |
 | *Historia de Phardazul, el Reino de las Quimeras* | Obra escrita | Libro de Jabber Roudha sobre Phardazul, Leandrin y las quimeras. | [Ver ficha](mundo/stigria/historia-de-phardazul.md) |
 | «Phardazul, Phardazul» | Canción infantil | Canción popular de Lemuria y Flammengard sobre Phardazul y Leandrin. | [Ver ficha](mundo/stigria/cancion-phardazul.md) |

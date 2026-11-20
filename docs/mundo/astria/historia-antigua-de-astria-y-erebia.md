@@ -2,10 +2,10 @@
 
 ## Alcance
 
-Esta ficha reúne únicamente los rasgos generales establecidos de la historia
-remota anterior a la llegada de los astrianos a Stigria. Los nombres
-de la isla de origen de Therin y Thalmos, las campañas y las vidas particulares
-quedan reservados para desarrollos posteriores.
+Esta ficha reúne hechos establecidos de la historia antigua de Erebia y Astria,
+incluida la secuencia histórica de Astria hasta su destrucción. El nombre de la
+isla de origen de Therin y Thalmos, los detalles de campañas y las vidas
+particulares que no se hayan fijado permanecen reservados.
 
 ## Erebia y el origen de Astria
 
@@ -29,17 +29,99 @@ Portadora destruyó a Tamurak, el Mobius transformado en una criatura gigantesca
 y condujo a los supervivientes hasta un conjunto de islas. Allí fundaron Astria,
 la Nación de la Luz.
 
-Astria fue durante largo tiempo una nación próspera de Portadores. Su decadencia
-comenzó con la colonización y esclavización de islas vecinas. Durante una crisis
-familiar, el padre de Therin lo convirtió en Invocador. Therin es el primer
-Invocador del que se tiene registro. El rito, sus circunstancias concretas y el
-relato completo de aquella crisis permanecen reservados.
+La civilización astriana se asentó en varias islas del Mar Oscuro. La isla
+central, antes llamada Isla Central y luego Astria Central, fue su núcleo
+histórico, político y urbano. Era mayor que las islas circundantes, menor que
+Dragma y aproximadamente un cuarto más extensa que Lemuria; sus dimensiones
+exactas no se han fijado. La ciudad-estado de Astria creció desde la Gran Plaza
+Central en todas direcciones hasta alcanzar las costas. Según el contexto,
+«Astria» nombra esa ciudad-estado o el conjunto territorial y político de las
+islas. Entre las islas vecinas habitadas por pueblos originarios estaban Roi,
+Viel y Tar, además de otras islas cuyos nombres no se han establecido.
 
-Therin llevó a Thalmos a su isla de origen, todavía sin nombre establecido. Allí
-se unió a un joven Portador Sombrío procedente de Erebia. Juntos liberaron la
-isla de la dominación astriana y fundaron la primera diarquía de esclavos
-libres, gobernada por un Rey Sol y un Rey Sombra. Thalmos fue utilizado como un
-arma durante esa liberación.
+La historia astriana se organiza en seis períodos:
+
+1. **Astria Temprana — período fundacional.** Comienza con la llegada de los
+   supervivientes erebianos hacia **-1746**. Incluye el asentamiento en la Isla
+   Central, la fundación y expansión de la ciudad desde la Gran Plaza Central
+   hasta las costas y la consolidación política e institucional. Concluye con
+   la fundación del Ágoras Tábur.
+2. **Astria Clásica — período de consolidación institucional.** Comienza con
+   la fundación del Ágoras Tábur y concluye con el inicio de la esclavización
+   de los pueblos originarios de las islas vecinas, entre ellas Roi, Viel y
+   Tar.
+3. **Alta Astria — período de esplendor y expansión esclavista.** Comienza con
+   el inicio de esa esclavización. Fue el apogeo de la civilización astriana y
+   de su desarrollo místico, junto con la expansión del poder astriano sobre
+   las islas circundantes. Termina con la rebelión victoriosa de los
+   esclavizados de Roi: Astria fue derrotada, Astria Central sufrió una
+   destrucción parcial, Roi obtuvo su independencia, se fundó allí un reino
+   independiente y se estableció un armisticio.
+4. **Baja Astria — período del armisticio.** Comienza con la fundación del
+   reino independiente de Roi y el armisticio. El Ágoras Tábur continúa
+   gobernando Astria y Roi conserva su independencia. Durante este período
+   surgen los cultistas de Thalmos. El período termina cuando los cultistas
+   atacan y destruyen el reino de Roi, rompiendo el armisticio. Esta acción
+   corresponde a los cultistas; no fue una decisión del gobierno astriano ni
+   una orden del Ágoras Tábur, y los cultistas aún no gobernaban Astria.
+5. **Astria Tardía — período de la guerra civil.** Comienza con la caída del
+   reino independiente de Roi a manos de los cultistas. Comprende la guerra
+   civil y la consolidación del poder cultista hasta el derrocamiento del
+   Ágoras Tábur. La caída del Consejo y el ascenso de los cultistas al gobierno
+   ponen fin al antiguo sistema político.
+6. **Astria Thalmocrática — período del gobierno de Thalmos.** Comienza con el
+   derrocamiento del Ágoras Tábur y la instauración de la Thalmocracia, el
+   gobierno ejercido en nombre de Thalmos, el Dios Negro. Es el último gran
+   período astriano y termina con la destrucción definitiva de Astria en
+   **+1254**.
+
+La **Caída de Astria** nombra esa destrucción definitiva de +1254, no un
+período. Se distingue de la destrucción parcial de Astria Central al final de
+la Alta Astria, de la caída del reino independiente de Roi al final de la Baja
+Astria y del derrocamiento del Ágoras Tábur al final de Astria Tardía. No se
+establecen fechas intermedias para los períodos.
+
+Astria fue durante largo tiempo una nación próspera de Portadores. Su
+decadencia comenzó con la colonización y esclavización de islas vecinas.
+Durante una crisis familiar, el padre de Therin lo convirtió en Invocador.
+Therin es el primer Invocador del que se tiene registro. El rito, sus
+circunstancias concretas y el relato completo de aquella crisis permanecen
+reservados.
+
+#### Ose y las corrientes místicas
+
+La desaparición de Ose fue uno de los catalizadores de un movimiento que
+terminaría convirtiéndose en culto e institucionalizándose en Astria. En el
+transcurso de la historia astriana disminuyeron paulatinamente los nacimientos
+de personas Vinculadas entre los astrianos y aumentaron entre la población
+esclavizada. Esos cambios agravaron una crisis social y religiosa y
+profundizaron la decadencia, pero no fueron su causa originaria ni única.
+Muchas personas interpretaron la disminución como señal de que los Inits
+habían abandonado Astria. Con el paso del tiempo, los nacimientos de personas
+Vinculadas, antes motivo de orgullo, pasaron a considerarse una mancha y una
+marca de traición al único dios, Thalmos. Esa interpretación pertenecía a la
+sociedad astriana.
+
+Los escritos, pinturas y la tradición oral conservados describen a Ose como un
+niño sabio y desnudo. Se podía solicitar su ayuda, pero su presencia dependía
+de su voluntad. Muchos místicos dejaron constancia de su contacto directo con
+Ose, quien compartía conocimientos, ayudaba en investigaciones místicas y se
+revelaba como Init. Estas interacciones fueron reales; constituyen el único
+caso confirmado de comunicación directa de un Init con humanos en el registro
+histórico. Según las fuentes conservadas de la época astriana, la presencia de
+Ose se remontaba a tiempos erebianos. Sus consejos y conocimientos iniciaron
+un proceso de cambio en la sociedad astriana y aproximaron las corrientes
+místicas; no se
+establece que sus diferencias religiosas desaparecieran. No se fija aquí la
+secuencia de sus apariciones ni el alcance de los cambios sociales.
+
+#### Therin y la diarquía de esclavos libres
+
+Therin llevó a Thalmos a su isla de origen, todavía sin nombre establecido.
+Allí se unió a un joven Portador Sombrío procedente de Erebia. Juntos
+liberaron la isla de la dominación astriana y fundaron la primera diarquía de
+esclavos libres, gobernada por un Rey Sol y un Rey Sombra. Thalmos fue utilizado
+como un arma durante esa liberación.
 
 La diarquía perduró por generaciones. Su caída llegó cuando el último Rey Sombra
 traicionó al último Rey Sol y Astria invadió la isla. El último Rey Sol fue

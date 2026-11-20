@@ -3,12 +3,14 @@
 ## Identidad
 
 Conocida como **Mili**, es la niña perdida de la Banda del Colmillo Blanco.
-Tiene quince años cuando integra la Célula 1466 de la Stroi Tábura. Es Invocadora y forjadora.
+Tiene quince años cuando integra la Célula 1466 de la Stroi Tábura. Es
+Invocadora y Quimerista.
 
 ## Dones
 
-Además de la Forja, puede manipular fuego, agua, viento y tierra, pero no
-crearlos. Tiene poca habilidad con sus dones elementales y casi nunca los usa.
+Además del Don de la Quimera, puede manipular fuego, agua, viento y tierra,
+pero no crearlos. Tiene poca habilidad con sus dones elementales y casi nunca
+los usa.
 Imrik bromea con que terminarán matando al grupo. Mili y sus compañeros saben
 que es Invocadora.
 

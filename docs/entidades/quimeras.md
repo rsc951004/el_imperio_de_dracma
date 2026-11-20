@@ -3,7 +3,7 @@
 ## Naturaleza
 
 Resultado de la transmutación de un ser vivo en otra forma. Durante las
-Guerras Místicas se crearon numerosas criaturas mediante la Forja, a partir de
+Guerras Místicas se crearon numerosas criaturas mediante el Don de la Quimera, a partir de
 seres humanos, animales y otros seres vivos. Algunas quimeras fueron
 conscientes y otras no.
 
@@ -35,7 +35,7 @@ pertenece a la tradición de los Gheran nómades y no está confirmada.
 
 Tras el final de las Guerras Místicas, la creación de nuevas quimeras quedó
 estrictamente regulada y solo se autoriza en circunstancias excepcionales. No
-es una limitación práctica frecuente, pues el Don de la Forja es
+es una limitación práctica frecuente, pues el Don de la Quimera es
 extremadamente raro. Arystan Khan es el primer místico registrado con ese don
 desde Leandrin Rheiner, siglos atrás.
 
@@ -43,7 +43,7 @@ desde Leandrin Rheiner, siglos atrás.
 
 - [Dragones](dragones.md)
 - [Grimyi del desierto](grimyi.md)
-- [Don de la Forja](portadores.md)
+- [Don de la Quimera](portadores.md)
 - [Leandrin Rheiner](../personajes/historicos/leandrin-rheiner.md)
 - [Arystan Khan](../personajes/arystan-khan.md)
 - [Guerras Místicas](../mundo/stigria/dragma/guerras-misticas.md)

@@ -65,7 +65,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Fhilippo Galenor | Mercader histórico | Mercader vesperyano y padre de Iyuri. | [Ver ficha](personajes/historicos/fhilippo-galenor.md) |
 | Marwha Khan | Noble histórica | Noble lemuriana y madre de Iyuri. | [Ver ficha](personajes/historicos/marwha-khan.md) |
 | Essio Galenor | Mercader histórico | Tío paterno de Iyuri. | [Ver ficha](personajes/historicos/essio-galenor.md) |
-| Fey Gilmora | Maeggi histórica | Cazadora retirada y cocinera de la familia Khan. | [Ver ficha](personajes/historicos/fey-gilmora.md) |
+| Fey Gilmora | Maeghi histórica | Cazadora retirada y cocinera de la familia Khan. | [Ver ficha](personajes/historicos/fey-gilmora.md) |
 | Greta Nerve | Noble histórica | Heredera vinculada a la Casa Nerve. | [Ver ficha](personajes/historicos/greta-nerve.md) |
 | Nimri Jhamali | Guardia histórico | Portador siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nimri-jhamali.md) |
 | Tuk Neyzeh | Guardia histórico | Invocador del caos de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/tuk-neyzeh.md) |
@@ -73,9 +73,9 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
 | Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
 | Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro de la Célula 1466. | [Ver ficha](personajes/dymtrik.md) |
-| Millicent Rosamund «Mili» | Personaje histórico | Invocadora y forjadora de la Banda del Colmillo Blanco. | [Ver ficha](personajes/millicent-rosamund.md) |
+| Millicent Rosamund «Mili» | Personaje histórico | Invocadora y Quimerista de la Banda del Colmillo Blanco. | [Ver ficha](personajes/millicent-rosamund.md) |
 | Imrik Valkyren | Personaje histórico | Invocador que dirige la Banda del Colmillo Blanco. | [Ver ficha](personajes/imrik.md) |
-| Arystan Khan | Personaje histórico | Invocador y forjador de la Célula 1378. | [Ver ficha](personajes/arystan-khan.md) |
+| Arystan Khan | Personaje histórico | Invocador y Quimerista de la Célula 1378. | [Ver ficha](personajes/arystan-khan.md) |
 | Oskar Rheiner | Guardia histórico | Guardia real de Flammengard, pareja de Lya Khan. | [Ver ficha](personajes/oskar-rheiner.md) |
 | Lya Khan | Personaje histórico | Miembro de la Casa Khan, hermana de Iyuri y pareja de Oskar. | [Ver ficha](personajes/lya-khan.md) |
 | Ellis Rosamund | Personaje histórico | Portadora de la Enclaustración e integrante de la Célula 1378. | [Ver ficha](personajes/ellis-rosamund.md) |

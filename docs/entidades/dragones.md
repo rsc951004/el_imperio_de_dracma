@@ -9,7 +9,7 @@ pendiente de nombre definitivo.
 ## Origen conocido
 
 Leandrin Rheiner transformó a sus dieciséis hermanos en dragones mediante el
-Don de la Forja. Los dragones conservaron inicialmente sus recuerdos e
+Don de la Quimera. Los dragones conservaron inicialmente sus recuerdos e
 identidad, pero perdieron gradualmente el raciocinio durante el tiempo que
 permanecieron transformados. De los dragones asociados a Leandrin, seis
 sobrevivieron a las Guerras Místicas: dos huyeron con rumbo desconocido —un

@@ -46,7 +46,7 @@ Se cree que las propiedades curativas de las costas zephyrias —y en general lo
 
 Zephyrya alberga el segundo gran núcleo de enseñanza mística de Dragma. Sus
 escuelas se especializan en usos curativos, contemplativos y artísticos de los
-dones y las maestrías. La formación regional no sustituye la licencia Maeggi de
+dones y las maestrías. La formación regional no sustituye la licencia Maeghi de
 la Möes Tábura.
 
 ### El encanto zephyrio

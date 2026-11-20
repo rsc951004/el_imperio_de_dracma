@@ -314,7 +314,7 @@ Su camisa voló antes de que Iyuri respondiera. Ren intentó mantenerse quieto m
 
 Iyuri quedó detrás de él y recorrió su espalda con los dedos.
 
-—Como Maeggi egresado de Vasaggo, tengo un sello de Andromalius de clase cerezo, señor. Mis maestros consideraron que no necesitaba uno más fuerte porque no tengo mucho poder místico.
+—Como Maeghi egresado de Vasaggo, tengo un sello de Andromalius de clase cerezo, señor. Mis maestros consideraron que no necesitaba uno más fuerte porque no tengo mucho poder místico.
 
 —Cuando te lo marcaron, ¿te dolió?
 
@@ -378,7 +378,7 @@ Ren buscó cómo encender la chimenea.
 
 —No conozco otra escuela para compararla.
 
-Ren sostuvo la prenda entre las manos. Iyuri había estudiado en Veleskaria, en la escuela Maeggi más prestigiosa del Imperio; él había pasado año y medio de sus seis años de academia en Vasaggo, el tiempo de formación Maeggi que le exigían para ejercer. Allí había podido practicar lo que en casa le prohibían y nadie lo alentaba a desarrollar. Para combatir confiaba más en su espada, su fuerza y el entrenamiento de custodio. No quería arriesgar la casa tratando de encender el fuego.
+Ren sostuvo la prenda entre las manos. Iyuri había estudiado en Veleskaria, en la escuela Maeghi más prestigiosa del Imperio; él había pasado año y medio de sus seis años de academia en Vasaggo, el tiempo de formación Maeghi que le exigían para ejercer. Allí había podido practicar lo que en casa le prohibían y nadie lo alentaba a desarrollar. Para combatir confiaba más en su espada, su fuerza y el entrenamiento de custodio. No quería arriesgar la casa tratando de encender el fuego.
 
 Iyuri contempló los pantalones que Ren se había dejado puestos.
 
@@ -702,7 +702,7 @@ Iyuri miró la puerta.
 
 Le contó lo ocurrido años atrás: el regreso a la mansión, Nana Fey, su familia y el espectro; el salto con Fhilippo y la criatura, la infección y la llegada de Nimri, Tuk y Benji.
 
-—Dijeron que hacía más de cien años que un místico no vencía a un espectro de Sombra. Hasta me atribuyeron haber salvado la vida de mi tío. Por eso me reconocieron como Möes Maeggi, un maestro entre maestros.
+—Dijeron que hacía más de cien años que un místico no vencía a un espectro de Sombra. Hasta me atribuyeron haber salvado la vida de mi tío. Por eso me reconocieron como Möes Maeghi, un maestro entre maestros.
 
 —Patrañas. A mí me salvaron, en todo caso. ¿Me das ese té?
 

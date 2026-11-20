@@ -1,5 +1,23 @@
 # Notas editoriales
 
+### Volcamiento de primera información de dones (2026-11-20)
+
+Incorporadas las decisiones R-01–R-06 y R-08, así como las tradiciones
+místicas y los hechos históricos aprobados en la acumulación. Se añadieron las
+corrientes devota y académica de Erebia, la transmisión a Astria, la
+comunicación y colaboración confirmadas de Ose, sus asociaciones objetivas con
+el Don de la Quimera y el Don del Ojo, y la periodización de Astria con sus
+límites geográficos, políticos y demográficos. Se sustituyó Don de la Forja
+por Don de la Quimera y se aplicaron las denominaciones Quimerista, Vidente,
+Fulgurante, Siseante y Siniestro sin alterar las capacidades de los dones. La
+certificación imperial se denomina Maeghi, invariable en singular y plural, y
+se conserva la diferencia con Maeyis/Maeyiss. Se actualizaron las fichas
+centrales de Inits, Portadores, Ose e historia antigua de Astria; las fichas
+dependientes de dones, certificación e instituciones; los índices de mundo,
+personajes y organizaciones; y los fragmentos `el-custodio-imperial.md` y
+`el-nino-de-la-flecha.md`. Se mantuvieron las reservas y las marcas
+`CANON-VELADO` vigentes.
+
 ### Gheran nómades, tradición de Phardazul y dragones supervivientes (2026-11-17)
 
 Se incorporaron los Gheran nómades como pueblo contemporáneo distinto de los

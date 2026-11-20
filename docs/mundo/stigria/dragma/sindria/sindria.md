@@ -65,10 +65,11 @@ pueblos.
 
 ## Maestrías
 
-Existen líneas Maeggis especializadas en el uso del hielo y la nieve, además de
-otras que emplean Grimm como herramientas. Hace siglos, algunos brumenses
+Existen líneas de Portadores con certificación Maeghi especializadas en el uso
+del hielo y la nieve, además de otras que emplean Grimm como herramientas.
+Hace siglos, algunos brumenses
 enseñaron a Sindria el arte de domar esas criaturas. No representan a toda la
-población ni a todos los Maeggis sindrios. Este antecedente no establece fecha,
+población ni a todas las personas de Sindria con certificación Maeghi. Este antecedente no establece fecha,
 transmisor, motivo ni desarrollo posterior, y no demuestra una relación con la
 Grien Tábura, el Rey Podrido ni un culto oficial del reino.
 

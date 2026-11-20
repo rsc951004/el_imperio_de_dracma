@@ -36,6 +36,62 @@ Los vínculos adquiridos que dieron origen a los Invocadores fueron ampliados
 mediante un rito y pueden alcanzar a muchos más Inits. El vínculo permanece
 construido y no necesita abrir un puente nuevo en cada manifestación.
 
+## Tradiciones históricas
+
+Desde los primeros tiempos del Surgimiento coexistieron en Erebia dos
+corrientes sobre los Inits. La corriente devota los consideraba dioses y les
+atribuía nombres, identidades, rostros, voluntades, personalidades, atributos
+y dones particulares. Les rendía culto con oraciones, monumentos y otras
+prácticas religiosas; sus tradiciones incluían apariciones, revelaciones y
+comunicación directa. Estas creencias formaron parte de la cultura erebiana
+durante generaciones.
+
+La corriente académica no devota reconocía la existencia de los Inits y su
+relación con los fenómenos místicos, pero los entendía como criaturas de otra
+dimensión cuya identidad y naturaleza no podían establecerse con fiabilidad.
+Consideraba las personificaciones religiosas expresiones folclóricas y
+discutía las atribuciones de nombres, voluntades divinas y apariciones. Esta
+interpretación no negaba la existencia de los Inits.
+
+Ambas corrientes y su desacuerdo llegaron a Astria como parte de la herencia
+cultural de sus poblaciones erebianas. Durante la Alta Astria, ambas
+continuaron desarrollándose y enfrentándose. Muchas personas esclavizadas
+conservaron creencias devotas heredadas de esa tradición antigua, incluso
+frente a las enseñanzas de sus amos. Los relatos erebianos y astrianos
+incluían apariciones y revelaciones; la existencia de esos testimonios no
+confirma por sí misma la realidad de cada aparición.
+
+Para los devotos, los dones eran resultado del vínculo con uno de esos dioses
+o Inits. Las tradiciones asociaron a los Inits con numerosas figuras y dones.
+Ose, Dionisia, Andromalius y Aeshma son ejemplos de esas personificaciones, no
+una lista exhaustiva ni una taxonomía objetiva. La tradición atribuye a Ose el
+Don de la Quimera y el Don del Ojo, asociaciones que también están confirmadas
+como hechos objetivos. A Dionisia le atribuye el Don del Fulgor o Don del
+Fulgor Solar; a Andromalius, el Don del Siseo; y a Aeshma, el Don Siniestro.
+Estas últimas correspondencias se incorporan como tradición devota. No
+confirman objetivamente la naturaleza de los vínculos ni permiten identificar
+de forma fiable cuál Init alcanza a cada Portador.
+
+## Ose
+
+La identidad de Ose como Init encarnado fue confirmada mediante su
+comunicación directa con humanos. Ose compartió conocimientos y colaboró
+activamente en investigaciones místicas. Fue el único caso de revelación
+directa de la identidad de un Init confirmado en el registro histórico
+recogido aquí. Este hecho no confirma todas las apariciones atribuidas a Ose ni
+las de otros Inits.
+
+Tras la aparición de Ose, los conocimientos sobre Irij, los Inits, sus
+personalidades y sus dones se difundieron por Astria. Durante siglos se buscó
+confirmarlos. Las figuras devotas persistieron en la cultura popular y
+pasaron al ámbito académico, donde formaron un panteón numeroso; su estudio no
+significó que los académicos no devotos aceptaran esas creencias como
+verdaderas. La tradición mística ereboastriana fundamenta la institucionalidad
+mística dracmasia.
+
+La tradición mística sangheskia se perdió en gran medida. Persisten algunas
+reliquias, formas de entrenamiento y nombres de uso.
+
 ## Transitoriedad
 
 Los Inits no pertenecen a este plano. Regresaron a Irij antes del amanecer del

@@ -8,7 +8,7 @@ Es disciplinado y formal, tiene un fuerte sentido del deber y desea conocer el
 mundo. Es rubio y lleva el cabello corto, con corte militar.
 
 Es Portador del Don del Caos. Se formó durante seis años en la Academia Imperial
-de Custodios, con una extensión de año y medio en la escuela Maeggi de Vasaggo.
+de Custodios, con una extensión de año y medio en la escuela Maeghi de Vasaggo.
 Puede endurecer los brazos y las piernas; la protección de las piernas reduce
 su movilidad. Su padre, Keven Steinert, rechazaba su don.
 

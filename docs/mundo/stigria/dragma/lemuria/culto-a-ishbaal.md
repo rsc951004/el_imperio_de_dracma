@@ -72,7 +72,7 @@ Muchos seguidores consideran que el misticismo es una práctica ajena a su
 fe, pero la toleran. Muchos reconocen y agradecen que sea uno de los recursos
 conocidos para enfrentar a los Grimm y a otras fuerzas oscuras con las que
 conviven los habitantes de Stigria. Aun así, muchos no acudirían a un sanador
-Maeggi.
+Maeghi.
 
 La **Orden de la Flama Blanca** representa la postura extrema y mantiene una
 doctrina y unos objetivos propios, descritos en su ficha.

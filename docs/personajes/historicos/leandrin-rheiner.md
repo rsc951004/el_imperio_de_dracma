@@ -41,13 +41,13 @@ tratarla como hija. Leandrin eligió el poder y la venganza a pesar de perder
 la aceptación maternal que creía tener.
 
 Hacia el final del primer cuarto de la dinastía Amschel, durante el rito que la convirtió en Invocadora, Sirene perdió su vínculo y Leandrin
-recibió uno ampliado, capaz de alcanzar a múltiples Inits. Además de la Forja,
-poseía otros dones. Thalmos intentó poseerla y habló a través de ella sin
+recibió uno ampliado, capaz de alcanzar a múltiples Inits. Además del Don de la
+Quimera, poseía otros dones. Thalmos intentó poseerla y habló a través de ella sin
 conservar el control; Leandrin mantuvo cuerpo, identidad, recuerdos y alma.
 Sirene la dejó y Ose la acompañó hacia la tundra. Su surgimiento registra el
 inicio de las Guerras Místicas en Dragma.
 
-Su don más poderoso era la Forja. Intentó tomar Flammengard mediante una guerra
+Su don más poderoso era el Don de la Quimera. Intentó tomar Flammengard mediante una guerra
 de usurpación e introdujo la creación de Invocadores como recurso bélico,
 suscitando una pugna por su control. Inspirada por la leyenda del Tamurak de la
 vieja Erebia, transformó a sus dieciséis hermanos en dragones. Partieron por

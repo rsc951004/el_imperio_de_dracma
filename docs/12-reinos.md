@@ -72,7 +72,7 @@ Dragma.
 | Flammengard | Ceniza, volcanes, actividad geotérmica y piromancia |
 | Sturmgard | Fiordos, saqueo, pillaje y supervivencia bajo la Tormenta |
 | Lysarya | Frutas dulces, vinos, piedad y trabajo |
-| Veleskaria | Principal centro de dones y maestrías; formación Maeggi y de cazadores de Grimm |
+| Veleskaria | Principal centro de dones y maestrías; formación Maeghi y de cazadores de Grimm |
 | Zephyrya | Belleza, serenidad, costas violetas y segundo núcleo místico |
 | Kystvar | Puerto Gris, pesca y cielos nublados |
 | Lyngven | Pastoreo, ganadería, brezales, cereales y agricultura |

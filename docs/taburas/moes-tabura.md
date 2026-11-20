@@ -21,27 +21,28 @@ compleja y peligrosa.
 
 El registro obligatorio de una persona vinculada es independiente de la
 licencia. La primera licencia certifica la formación y concede la condición
-general de **Maeggi**. Su plural es **Maeggis**.
+general de **Maeghi**, invariable en singular y plural. Se pronuncia «maéyi» o
+«maélli».
 
 El uso cotidiano u ocasional de un don no exige licencia. La certificación se
 requiere para una actividad habitual o prolongada sustentada en el don,
 especialmente cuando constituye oficio o prestación regular de servicios.
-Un Maeggi siniestro certificado no puede negarse a auxiliar a quien solicita su
+Un Maeghi siniestro certificado no puede negarse a auxiliar a quien solicita su
 atención; los gastos corresponden al solicitante.
 
 Las escuelas regionales forman estudiantes dentro del sistema imperial, pero
-completar sus estudios no concede por sí solo la condición de Maeggi.
+completar sus estudios no concede por sí solo la condición de Maeghi.
 Veleskaria constituye el principal centro de formación y Zephyrya el segundo;
 continúan existiendo escuelas en otros territorios.
 
 ## Clasificaciones y oficios
 
 La primera licencia incorpora una clasificación administrativa vinculada, por
-lo general, con la actividad y la maestría acreditadas. Nombres como **Maeggi de
+lo general, con la actividad y la maestría acreditadas. Nombres como **Maeghi de
 Sanación** o **Portador Tempestuoso** sitúan a la persona dentro de la
 institución, pero no forman una taxonomía universal ni agotan su don.
 
-Un Maeggi puede acumular clasificaciones posteriores. Cambiar de oficio no
+Una persona Maeghi puede acumular clasificaciones posteriores. Cambiar de oficio no
 exige otra licencia: basta con aprender lo necesario para la nueva actividad.
 Puede ejercer de manera independiente, integrarse en la milicia, servir en la
 Grim Tábura, enseñar en la Möes Tábura o dedicarse a otros oficios; la lista no
@@ -54,12 +55,12 @@ Leondras Solarys aparece siempre clasificado como **Portador Tempestuoso**.
 La jerarquía, los trámites internos de clasificación y la organización concreta
 de la Möes Tábura permanecen reservados.
 
-## Möes Maeggi
+## Möes Maeghi
 
-Un **Möes Maeggi** es un Maeggi autorizado para enseñar formalmente a otras
-personas a convertirse en Maeggis. Puede formar alumnos y, según el sistema
+Un **Möes Maeghi** es un Maeghi autorizado para enseñar formalmente a otras
+personas a convertirse en Maeghi. Puede formar alumnos y, según el sistema
 imperial, avalar o visar una licencia de alguien que haya estudiado bajo su
-tutela. Es un maestro Maeggi autorizado y de muy alto rango. Iyuri Khan posee
+tutela. Es un maestro Maeghi autorizado y de muy alto rango. Iyuri Khan posee
 este reconocimiento. La jerarquía completa permanece reservada.
 
 ## Referencias
