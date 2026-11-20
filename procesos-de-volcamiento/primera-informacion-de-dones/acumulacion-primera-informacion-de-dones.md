@@ -106,15 +106,39 @@ Esta norma queda incorporada a la acumulación de trabajo; no modifica el canon.
   completas: existen muchas más figuras y tipos de dones que aún no se han
   nombrado.
 - Para los místicos devotos, los dones se explicaban como resultado del vínculo
-  con alguno de esos dioses o Inits. Queda pendiente determinar si las
-  correspondencias concretas expresan verdades objetivas o interpretaciones
-  tradicionales.
-- Se propone sustituir el nombre **Don de la Forja** por **Don de la Quimera**.
+  con alguno de esos dioses o Inits. R-01 establece como objetiva la asociación
+  de Ose con los dones de la Quimera y del Ojo; las demás correspondencias
+  concretas se resolverán individualmente.
+- El cambio terminológico aprobado para este don es:
+  - **Don de la Forja → Don de la Quimera.**
+  - **Forjador → Quimerista**, cuando designa a quien posee ese don.
+  - **Forjar una quimera → Crear una quimera.**
+- Se conservan «forja» y «forjador» cuando tienen significados independientes
+  del don, así como «quimera» para designar a las criaturas. El cambio es
+  terminológico y no modifica la naturaleza, las capacidades ni el
+  funcionamiento del don.
 - Las atribuciones propuestas, entre muchas otras posibles, son:
   - **Ose:** Don de la Quimera y Don del Ojo.
   - **Dionisia:** Don del Fulgor, también llamado Don del Fulgor Solar.
   - **Andromalius:** Don del Siseo.
   - **Aeshma:** Don Siniestro.
+
+#### Denominaciones específicas de quienes poseen dones
+
+**Portador** se conserva como denominación general de quien posee un don.
+Las siguientes denominaciones identifican a quienes poseen los dones
+correspondientes; no son categorías místicas adicionales ni modifican la
+naturaleza de los vínculos:
+
+- **Don de la Quimera:** Quimerista.
+- **Don del Ojo:** Vidente.
+- **Don del Fulgor** o **Don del Fulgor Solar:** Fulgurante.
+- **Don del Siseo:** Siseante.
+- **Don Siniestro:** Siniestro.
+
+Estas denominaciones no establecen nuevas capacidades, mecanismos ni
+características de los dones ni modifican las correspondencias entre Inits y
+dones. La lista no excluye otros dones ni futuras denominaciones.
 
 ### Ampliación de la Norma 1: corrientes místicas, transmisión y aparición de Ose
 
@@ -162,9 +186,10 @@ un Init podía manifestarse conscientemente, comunicarse directamente con
 humanos y compartir conocimientos. Fue el único caso de esa revelación directa
 confirmado en esta acumulación; no quedó registro oficial de otro caso
 semejante. Esto no demostró que todos los Inits fueran dioses, que poseyeran
-las personalidades atribuidas por la tradición, que todas las apariciones
-antiguas fueran auténticas ni que cada correspondencia entre un Init y un don
-fuera objetivamente verdadera.
+las personalidades atribuidas por la tradición ni que todas las apariciones
+antiguas fueran auténticas. R-01 establece por separado la asociación objetiva
+de Ose con los dones de la Quimera y del Ojo; las demás correspondencias
+permanecen sujetas a resolución individual.
 
 Numerosos erebianos aseguraban haber visto a esos dioses o que se les aparecían
 para darles revelaciones; en Astria también se registraron testimonios del
@@ -241,9 +266,9 @@ y `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`, además de
 
 ## Asuntos pendientes
 
-- Determinar si las atribuciones concretas entre cada Init y cada don son
-  verdades objetivas del lore además de formar parte de la tradición de los
-  místicos devotos.
+- Determinar si las correspondencias concretas de Inits y dones, aparte de
+  las asociaciones Ose–Quimera/Ojo resueltas en R-01, son verdades objetivas
+  del lore además de formar parte de la tradición de los místicos devotos.
 - Determinar qué aspectos de las tradiciones devotas fueron confirmados,
   refutados o permanecieron sin verificar, sin generalizar la confirmación de
   Ose al conjunto del panteón.
@@ -263,8 +288,9 @@ y `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`, además de
 - Aplicar **Maeghi** durante el eventual volcamiento en las referencias
   canónicas correspondientes a la certificación imperial, preservando las
   denominaciones sangheskias **Maeyis/Maeyiss**.
-- Auditar las consecuencias del cambio de nombre de **Don de la Forja** a
-  **Don de la Quimera** en las fichas, personajes y referencias relacionadas.
+- Aplicar durante el eventual volcamiento los cambios terminológicos de R-05
+  en las fichas, personajes y referencias relacionadas, conservando los usos
+  independientes de «forja» y «forjador» y el nombre de las criaturas.
 - Contrastar el resto de la norma con el canon vigente en una auditoría previa
   independiente.
 

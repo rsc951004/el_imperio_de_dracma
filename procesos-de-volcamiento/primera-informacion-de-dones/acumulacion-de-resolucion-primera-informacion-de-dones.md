@@ -15,10 +15,7 @@ el canon.
 
 ## Nudos por resolver
 
-- **R-05. Don de la Quimera:** definir el alcance del renombre de la Forja y
-  sus términos derivados.
-- **R-07. Thalmos:** mantener fuera de este proceso el desarrollo detallado de
-  su alzamiento y culto, salvo nueva instrucción.
+No quedan nudos de decisión abiertos dentro del alcance de esta acumulación.
 
 ## Resoluciones finales
 
@@ -185,6 +182,40 @@ La secuencia queda establecida así:
 
 **Estado:** resuelto por decisión definitiva del autor. No modifica el canon.
 
+### R-05. Terminología del Don de la Quimera y denominaciones de sus portadores — resuelto
+
+Se establece el siguiente cambio terminológico:
+
+- **Don de la Forja → Don de la Quimera.**
+- **Forjador → Quimerista**, cuando designa a quien posee ese don.
+- **Forjar una quimera → Crear una quimera.**
+
+Se conservan «forja» y «forjador» con significados independientes del don, y
+«quimera» para las criaturas. El cambio es exclusivamente terminológico: no
+modifica la naturaleza, las capacidades ni el funcionamiento del Don de la
+Quimera.
+
+**Portador** continúa siendo la denominación general de quien posee un don.
+Las denominaciones específicas para los dones tratados en esta acumulación
+son:
+
+| Don | Denominación de quien lo posee |
+| --- | --- |
+| Don de la Quimera | **Quimerista** |
+| Don del Ojo | **Vidente** |
+| Don del Fulgor o Don del Fulgor Solar | **Fulgurante** |
+| Don del Siseo | **Siseante** |
+| Don Siniestro | **Siniestro** |
+
+Estas denominaciones no crean categorías místicas ni añaden capacidades,
+mecanismos o características a los dones. La lista no implica que sean los
+únicos dones existentes; podrán incorporarse otras denominaciones cuando se
+desarrollen otros dones. La ampliación es terminológica: no modifica las
+correspondencias entre Inits y dones, R-01, R-02 ni los demás hechos
+establecidos.
+
+**Estado:** cerrado por decisión definitiva del autor. No modifica el canon.
+
 ### R-06. Denominación Maeghi — resuelto
 
 La denominación definitiva de la certificación imperial es **Maeghi**, tanto
@@ -213,12 +244,16 @@ elaboró sobre ellos.
 
 **Estado:** cerrado por aprobación definitiva del autor. No modifica el canon.
 
-## Próximo punto
+## Siguiente fase
 
-**R-05. Don de la Quimera:** ¿el cambio de nombre afecta solo al don o también
-a «forjador» y a otras denominaciones derivadas?
+Los nudos de decisión dentro del alcance están cerrados. El proceso queda
+preparado para una auditoría de cierre y, después, para la elaboración de un
+plan de volcamiento. Esas fases no se ejecutan en esta intervención; el canon
+permanece intacto y cualquier volcamiento requerirá autorización humana
+expresa.
 
 ## Reservas
 
 Los detalles de los nudos todavía no planteados o no resueltos permanecen
-reservados. El alzamiento y el culto de Thalmos siguen fuera de alcance.
+reservados. El desarrollo detallado del alzamiento y del culto de Thalmos
+sigue fuera de alcance de este proceso.
