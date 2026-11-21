@@ -309,14 +309,14 @@ percibir la Sombra. Siempre se recomienda la atención especializada. Esta es
 la formulación aprobada para el proceso; no se añade una secuencia obligatoria
 entre esas opciones.
 
-El **Mar de Dirak** es una falla catastrófica del Santuario, señal inequívoca
-de incubación de un engendro de Sombra y significa muerte inminente. En la
-documentación del Imperio no consta supervivencia tras verlo al intentar el
-Santuario. Esta afirmación queda limitada a esa documentación y no significa
-que sobrevivir sea imposible: la historia canónica de Iyuri registra que
-sobrevivió al episodio y que algunas personas sobreviven. Se conserva también
-la descripción canónica del Mar como percepción de un mar negro y espeso
-asociada a una infección extrema y a la incubación de una semilla.
+El **Mar de Dirak** es una falla catastrófica del Santuario y una señal
+inequívoca de que la infección por la Sombra ha alcanzado la fase de
+implantación de una semilla de engendro. Su aparición indica muerte inminente,
+pero no inevitable. **Iyuri Khan contempló el Mar de Dirak y sobrevivió.** La
+documentación del Imperio no registra supervivientes, sin que ello niegue su
+caso. Se conserva también la descripción canónica del Mar como percepción de
+un mar negro y espeso asociada a una infección extrema y a la implantación de
+una semilla.
 
 ### R-06. Técnica, retirada de Kantra y Don de la Flecha
 
@@ -576,7 +576,7 @@ visibles en una futura transferencia.
 | R-02. Grados, ascensos y pruebas | **Cerrado con reservas** | Escala, atribuciones y pruebas quedan definidas. Siguen reservadas la duración de Devoción, los criterios adicionales no fijados, la consigna de Exterminio y la formación que distingue los grados. |
 | R-03. Möes Maeghis | **Cerrado con reservas** | El reconocimiento es exclusivamente extraordinario y no otorga automáticamente facultades docentes ni de visado. El procedimiento de concesión y la autoridad administrativa que avala o visa licencias siguen pendientes. |
 | R-04. Condicionamiento, Resonancia, Disonancia y desborde | **Cerrado con reservas** | Se conservan los efectos, límites, ejemplos y distinciones aprobados. Siguen pendientes la organización e información de aceptación y el refuerzo posterior a Maestro. |
-| R-05. Santuario, intrusión y Mar de Dirak | **Cerrado** | Se fija el ejercicio, sus señales y las alternativas de asistencia tal como están formuladas. Se conserva la diferencia entre riesgo de muerte inminente y supervivencia documentada de Iyuri. |
+| R-05. Santuario, intrusión y Mar de Dirak | **Cerrado** | Se fija el ejercicio, sus señales y las alternativas de asistencia tal como están formuladas. El Mar indica la implantación de una semilla y muerte inminente no inevitable; Iyuri lo contempló y sobrevivió. |
 | R-06. Técnica, Kantra, Don de la Flecha y Anclaje | **Cerrado con reservas** | La definición de técnica, la retirada de Kantra y los datos de Tarisa e Iyuri quedan fijados. Siguen pendientes los límites numéricos, la relación técnica de las capacidades de Anclaje y el nombre breve de quienes poseen el Don de la Flecha; no se define la relación entre técnica y maestría. |
 | R-07. Convergencia y Encarnación | **Cerrado** | Se fija la secuencia acordada y se mantiene la marca de canon velado sobre Ose en Cerbero. |
 | R-08. Colegios y exámenes | **Cerrado con reservas** | Se fija la red, sus orientaciones y las sedes de examen. Siguen pendientes las funciones administrativas, la relación de Vasaggo con la red, el examen de Ren y la comparación entre los rangos de Zephyrya y Sindria, que no se equiparan por inferencia. |
@@ -685,10 +685,11 @@ recibe autorización de incorporación.
 - **Alcance:** integrar la visualización, la señal visible, las formas de
   apoyo, el riesgo de contagio y las alternativas aprobadas de atención por
   Siniestro o continuación del Santuario. Mantener el criterio canónico de que
-  oír hablar a la Sombra dentro del Santuario confirma infección. Distinguir
-  la muerte inminente del Mar de Dirak de una muerte inevitable y conservar el
-  caso sobreviviente de Iyuri junto con el alcance limitado de los registros
-  imperiales. No introducir una secuencia de atención adicional.
+  oír hablar a la Sombra dentro del Santuario confirma infección. Establecer
+  que el Mar de Dirak señala la implantación de una semilla y una muerte
+  inminente no inevitable; consignar que Iyuri lo contempló y sobrevivió,
+  junto con el alcance limitado de los registros imperiales. No introducir una
+  secuencia de atención adicional.
 
 ### Bloque P-06. Técnica, Kantra, Don de la Flecha y Anclaje
 
@@ -817,7 +818,7 @@ vigentes.
 | Desborde: involuntario y necesariamente erótico, no elimina voluntad, resistirse suele considerarse posible; conocimiento institucional y social; inocuidad por sí mismo; posible retroalimentación e hipersexualización; estigma social, más frecuente entre inclinación disonante, sin generalizar. | Canon: ficha de condicionamiento propuesta en P-04 y perfiles de personajes afectados. | R-04, R-10 |
 | Visualización de Santuario: ejercicio autoguiado de menor eficacia o guiado por otra persona con mayor eficacia; escenario de paz que progresa hacia alegría o placer, con pradera de árboles frutales y seres queridos como representación habitual; recuerdos felices o de placer sexual y ayuda de la Resonancia para recrear estados afectivos vividos; lago vacío y sombra central como señal de inicio, búsqueda que puede acelerar la intrusión, no verla sin confirmar intrusión y posibilidad de sugerir otras causas de síntomas; rechazo sin mirar ni escuchar, concentración en frutas, sensaciones alegres y presente, incluida la frase acordada; apoyo con compañía, palabras, recuerdos y contacto afectivo, contacto piel con piel en algunos casos agresivos sin imponerlo; recuerdos placenteros compartidos como refuerzo principal y una historia de placer sexual como posible aumento de eficacia, sin depender de orientación sexual. | Canon: `docs/mundo/stigria/santuario-del-alma.md` y guía relacionada. | R-05 |
 | Criterio auditivo canónico, señal visual añadida, contagio entre Vinculados y menor probabilidad temprana; asistencia por Siniestro o continuación del Santuario hasta dejar de percibir la Sombra, siempre con recomendación de atención especializada. | Canon: fichas de Santuario, Sombra y guía práctica; no añadir un orden no aprobado. | R-05 |
-| Mar de Dirak: percepción de un mar negro y espeso asociada a infección extrema e incubación de una semilla; falla catastrófica y señal inequívoca de incubación, muerte inminente; ausencia de supervivencias en documentos imperiales consultados, sin afirmar imposibilidad; supervivencia de Iyuri y mención de que algunas personas sobreviven. | Canon: fichas de Mar de Dirak, Santuario, Toque Residual e Iyuri, manteniendo los alcances diferenciados. | R-05 |
+| Mar de Dirak: percepción de un mar negro y espeso asociada a una infección extrema y a la implantación de una semilla de engendro; falla catastrófica y señal inequívoca de esa fase, con muerte inminente pero no inevitable. Iyuri Khan contempló el Mar de Dirak y sobrevivió. Los registros imperiales no documentan supervivientes, sin negar este caso. | Canon: fichas de Mar de Dirak, Santuario, Toque Residual e Iyuri, con la supervivencia de Iyuri afirmada directamente y el alcance limitado de los registros imperiales. | R-05 |
 | Definición de técnica y retirada de Kantra, incluida la definición anterior de Kantra y el uso histórico de «Ta-besh» como lore vigente. | Canon: incorporar técnica; sustituir la definición de Kantra y revisar referencias de `portadores.md` y `kantra.md` para retirar Kantra del lore vigente. | R-06 |
 | Tarisa Andrónica, mística de las Guerras Místicas: montada a caballo lanzaba flechas, se desplazaba hacia sus enemigos y los derribaba con la espada; de ella toma su nombre el Don de la Flecha, que permite arrojar un objeto, seguir su trayectoria y llegar con él a destino. Iyuri admira a Tarisa y detesta el nombre y el arco y la flecha. El principio de anclaje era anterior a Iyuri y estaba presente en Tarisa; ella usaba un objeto a la vez y la flecha perdía la función al llegar. Iyuri fue el primer místico registrado que aplicó el principio a objetos dejados atrás y recibió el privilegio de nombrar esa aplicación Anclaje. | Canon: nueva ficha prevista del Don de la Flecha y perfil de Iyuri. | R-06 |
 | Capacidades de Iyuri: número indefinido de objetos anclados distribuidos por el mundo; modificar a voluntad trayectorias y dirigir objetos dentro de alcance limitado; percibir desde cada objeto el entorno en 360 grados dentro de alcance limitado; sin distancias ni límites numéricos. Se conservan los datos ya documentados: prefería llamar a su don Don del Salto, se desplazaba hacia objetos tocados e imbuidos incluso años después, usaba dagas como armas y anclas, podía guiarlas durante el vuelo y explorar sin mirar, la percepción tiene límites no precisados, grandes saltos podían perturbar el destino y dañar espacios cerrados, transportar a una persona requería dominio y llevar dos era una maniobra extrema; existían tres casos documentados previos, Iyuri era el usuario más rápido y poderoso conocido y el único expediente acreditaba saltar con dos acompañantes; saltos sucesivos, largas distancias, heridas y exposición a la Sombra podían agotarlo. | Canon: ficha del Don de la Flecha e Iyuri, conservando los límites no fijados. | R-06 |
