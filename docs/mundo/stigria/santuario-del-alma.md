@@ -2,20 +2,37 @@
 
 ## Naturaleza
 
-Técnica de sugestión, condicionamiento y programación mental enseñada en el
-Imperio como defensa ante la Sombra. No es un lugar físico ni un estado
-sobrenatural independiente.
+El Santuario del Alma es un ejercicio consciente de defensa activa frente a la
+Sombra. Resonancia y Disonancia son defensas pasivas; el Santuario permite
+actuar deliberadamente. Puede hacerse de modo autoguiado, con menor eficacia,
+o guiado por otra persona, con mayor eficacia.
 
-## Función y límites
+## Ejercicio y apoyo
 
-Ayuda a impedir o dificultar que una persona sea dominada mentalmente por la
-Sombra. Es especialmente eficaz ante contactos tempranos y exposiciones bajas
-o moderadas; su eficacia disminuye cuando la infección avanza. Si esta culmina
-en la incubación de una semilla de espectro, deja de funcionar de la manera
-habitual y aparece el fenómeno psicológico y místico llamado Mar de Dirak.
+El Maeghis imagina un escenario de paz que progresa hacia alegría o placer.
+Sirven recuerdos felices y recuerdos de placer sexual. La representación
+habitual es una pradera verde con árboles frutales y seres queridos. Desde allí
+imagina a distancia un lago vacío y busca una sombra en su centro: buscarla
+puede acelerar la intrusión; no verla no la confirma, mientras verla confirma
+que ha comenzado.
 
-En algunos casos leves o recientes puede favorecer la reversión de la
-infección, sin garantizar una cura.
+Ante una sombra visible, debe permanecer en el escenario reconfortante,
+rechazarla, no mirarla ni escucharla y concentrarse en las frutas, las
+sensaciones alegres y el presente. Puede repetir: «No la miraré, no la
+escucharé, me concentraré en el aquí y en el ahora». La compañía, las palabras
+tranquilizadoras, los recuerdos felices y el contacto afectivo refuerzan el
+ejercicio. En una intrusión especialmente agresiva puede requerirse contacto
+piel con piel, que nunca se impone. Los recuerdos placenteros compartidos son
+el refuerzo más importante; una historia de placer sexual puede hacerlo más
+eficaz, sin depender de la orientación sexual.
+
+Escuchar hablar a la Sombra dentro del Santuario confirma infección. Una vez
+confirmada, se recomienda atención especializada por un Siniestro o continuar
+el Santuario hasta dejar de percibirla, sin que estas opciones tengan un orden
+obligatorio.
+
+La contaminación puede transmitirse de un Vinculado Tocado a otro Vinculado;
+es menos probable durante las etapas tempranas, pero el riesgo permanece.
 
 ## Referencias
 

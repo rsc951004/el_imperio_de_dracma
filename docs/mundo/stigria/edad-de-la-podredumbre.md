@@ -69,8 +69,7 @@ tétrica, aunque sus facciones eran las de un joven hermoso.
 
 Rudgar bajó su espada y comenzó a aceptar la rendición. Antes de que el Rey
 podiera tocarlo, Iulien extendió las manos y proyectó contra él una descarga de
-fulgor solar. Rudgar creyó oír que gritaba **«Ta-besh»**, una Kantra que Iulien
-usaba como ayuda mental para aquella maestría.
+fulgor solar.
 
 El fulgor quemó las ropas y el cuerpo del Rey Podrido. Mientras huía entre la bruma, su grito sonó como miles de voces humanas al mismo tiempo. Iulien volvió a manifestar su poder ante Rudgar, quien reaccionó con desconfianza por su condición de Portador sangheskio. Después de numerosos desacuerdos, Rudgar terminó aceptando su ayuda. Los detalles de esa reconciliación permanecen desconocidos.
 
@@ -109,4 +108,3 @@ del Raikim.
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
 - `docs/mundo/stigria/costa-del-verano.md`
 - `docs/mundo/stigria/gente-de-la-bruma.md`
-- `docs/mundo/stigria/kantra.md`

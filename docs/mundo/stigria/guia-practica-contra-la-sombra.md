@@ -2,14 +2,14 @@
 
 El Santuario del Alma ayuda a resistir la influencia de la Sombra. Si un
 Vinculado escucha su voz dentro del Santuario, debe alejarse del foco y buscar
-cuanto antes a un Maeghi siniestro. El sello de Andromalius puede alertar de una
+cuanto antes a un Siniestro. El sello de Andromalius puede alertar de una
 presencia sombría, pero su activación por sí sola no diagnostica una infección.
 
 Las antorchas o bengalas de alerta utilizan un código reconocido: rojo para
 Grimm, verde para poseídos y negro para Sombra. Los Cuervos Grises responden a
 amenazas relacionadas con la Sombra.
 
-Un Maeghi siniestro certificado por el Imperio no puede negarse a auxiliar a
+Un Siniestro certificado por el Imperio no puede negarse a auxiliar a
 quien solicita su atención; los gastos corresponden al solicitante.
 
 ## Referencias

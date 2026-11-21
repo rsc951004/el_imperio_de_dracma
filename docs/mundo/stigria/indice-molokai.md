@@ -12,5 +12,6 @@ la institución responsable del índice.
 ## Referencias
 
 - [Iyuri Khan](../../personajes/iyuri-khan.md)
+- [Don de la Flecha](don-de-la-flecha.md)
 - [Rendard Steinert](../../personajes/rendard-steinert.md)
 - [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)

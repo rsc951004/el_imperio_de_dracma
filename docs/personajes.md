@@ -65,11 +65,11 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Fhilippo Galenor | Mercader histórico | Mercader vesperyano y padre de Iyuri. | [Ver ficha](personajes/historicos/fhilippo-galenor.md) |
 | Marwha Khan | Noble histórica | Noble lemuriana y madre de Iyuri. | [Ver ficha](personajes/historicos/marwha-khan.md) |
 | Essio Galenor | Mercader histórico | Tío paterno de Iyuri. | [Ver ficha](personajes/historicos/essio-galenor.md) |
-| Fey Gilmora | Maeghi histórica | Cazadora retirada y cocinera de la familia Khan. | [Ver ficha](personajes/historicos/fey-gilmora.md) |
+| Fey Gilmora | Maeghis histórica | Cazadora retirada y cocinera de la familia Khan. | [Ver ficha](personajes/historicos/fey-gilmora.md) |
 | Greta Nerve | Noble histórica | Heredera vinculada a la Casa Nerve. | [Ver ficha](personajes/historicos/greta-nerve.md) |
-| Nimri Jhamali | Guardia histórico | Portador siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nimri-jhamali.md) |
-| Tuk Neyzeh | Guardia histórico | Invocador del caos de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/tuk-neyzeh.md) |
-| Benji Perjhan | Guardia histórico | Invocador elemental de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/benji-perjhan.md) |
+| Nimri Jhamali | Guardia histórico | Maeghis disonante y Siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nimri-jhamali.md) |
+| Tuk Neyzeh | Guardia histórico | Invocador del caos, Maeghis Iniciado y Cuervo Gris de Lemuria. | [Ver ficha](personajes/historicos/tuk-neyzeh.md) |
+| Benji Perjhan | Guardia histórico | Invocador elemental y Cuervo Gris de Lemuria. | [Ver ficha](personajes/historicos/benji-perjhan.md) |
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
 | Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
 | Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro de la Célula 1466. | [Ver ficha](personajes/dymtrik.md) |

@@ -7,8 +7,9 @@ custodio imperial con formación militar y marinero vinculado al Calamar Rojo.
 Es disciplinado y formal, tiene un fuerte sentido del deber y desea conocer el
 mundo. Es rubio y lleva el cabello corto, con corte militar.
 
-Es Portador del Don del Caos. Se formó durante seis años en la Academia Imperial
-de Custodios, con una extensión de año y medio en la escuela Maeghi de Vasaggo.
+Es Portador del Don del Caos y Maeghis de grado Iniciado. Se formó durante seis
+años en la Academia Imperial de Custodios, con una extensión de año y medio en
+el Colegio Maeghis Vasaggo.
 Puede endurecer los brazos y las piernas; la protección de las piernas reduce
 su movilidad. Su padre, Keven Steinert, rechazaba su don.
 
@@ -18,9 +19,11 @@ comportamiento similar al metal.
 
 ## Relaciones
 
-Mantiene un vínculo fraternal profundo con [Iyuri](iyuri-khan.md), su capitán.
-Durante una estancia en Upyria conoció a [Gin](gin.md), por quien mostró
-interés. La evolución de su relación permanece abierta.
+Mantiene una relación amorosa y erótica con [Iyuri](iyuri-khan.md), su capitán.
+La cercanía sostenida con Iyuri durante una estancia en Erebia coincidió con un
+desborde de Resonancia menos intenso que el de Iyuri. Durante una estancia en
+Upyria conoció a [Gin](gin.md), por quien mostró interés; la relación temporal
+entre ambos acontecimientos permanece abierta.
 
 En sus pensamientos imaginó un futuro junto a un joven, con una boda, una hija
 adoptiva y una casa cerca de la capital. Son aspiraciones personales.
@@ -33,6 +36,7 @@ adoptiva y una casa cerca de la capital. Son aspiraciones personales.
 - [Keven Steinert](keven-steinert.md)
 - [Casa Steinert](../casas/steinert.md)
 - [Don del Caos](../mundo/stigria/don-del-caos.md)
-- [Vasaggo](../organizaciones/escuela-maeggi-vasaggo.md)
+- [Vasaggo](../organizaciones/escuela-maeghis-vasaggo.md)
+- [Condicionamiento Maeghis](../mundo/stigria/condicionamiento-maeghis.md)
 - [Sellos de Andromalius](../mundo/stigria/artefactos-misticos.md)
 - [Upyria](../mundo/stigria/upyria.md)

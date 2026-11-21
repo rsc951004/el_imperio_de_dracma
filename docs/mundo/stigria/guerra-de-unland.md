@@ -24,7 +24,7 @@ reveló que eran Emisarios de la Ruina.
 
 Rudgar sostuvo el orden de sus ejércitos. Iulien Therin apareció siete años
 después de la última vez que Rudgar lo había visto, descendió envuelto en fulgor
-solar y empleó la Kantra «Ta-besh». La batalla terminó esa misma noche: Iulien
+solar. La batalla terminó esa misma noche: Iulien
 quemó con su fulgor a casi todos los Grimm de Unland, los Emisarios huyeron y
 algunos fueron capturados.
 
@@ -56,5 +56,4 @@ permanecieran en el Gherin:
 - `docs/mundo/stigria/gente-de-la-bruma.md`
 - `docs/mundo/stigria/emisarios-de-la-ruina.md`
 - `docs/mundo/stigria/acero-del-alba.md`
-- `docs/mundo/stigria/kantra.md`
 - `docs/mundo/stigria/pacto-de-durr.md`

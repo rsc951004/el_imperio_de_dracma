@@ -52,6 +52,9 @@ con una sobriedad cercana a sus vecinos del Hierro.
 
 Muchos lisarios se sienten más afines a los reinos del norte que a sus propios hermanos del sur. Son el **puente entre el Verano y el Hierro**: entienden ambas lenguas, comercian con ambas gentes. Pero en el fondo siguen siendo Hijos del Sol. Solo que a su manera.
 
+Lysarya cuenta con colegios Maeghis orientados generalmente a usos no
+combativos, pasivos o productivos de los dones.
+
 ### Los colores del Verano
 Cada uno de los tres reinos tiene un color que lo identifica culturalmente:
 - **Lysarya:** amarillo y blanco.

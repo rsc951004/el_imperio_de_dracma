@@ -30,7 +30,7 @@ Joven. Conoció a Yanos a los dieciséis años. En la época de las cartas ya es
 - **Doryan Solarys** (padre): noble muy reconocido en Zephyrya y en todo el Imperio de Dragma.
 - **Vera Pavel** (madre, de soltera Pavel): prima del actual emperador. Al casarse con Doryan, eligió pasar a formar parte de la Casa Solarys, perdiendo con ello cualquier derecho hereditario en la casa imperial. Que una prima del emperador eligiera ser Solarys por encima de Pavel fue un golpe de prestigio para la casa.
 - **Sucesión:** El antiguo cabeza de familia decretó antes de morir que Doryan Solarys fuera el sucesor. Doryan, a su vez, ha decretado que Leondras será el próximo cabeza. Sandor queda fuera de la línea de sucesión.
-- **Leondras Solarys** (hermano mayor): Maeghi clasificado siempre como
+- **Leondras Solarys** (hermano mayor): Maeghis clasificado siempre como
   **Portador Tempestuoso**, con dominio del viento. Relación de cariño real
   entre ambos, pero desgastada por quienes usan a Leondras para señalar que
   Sandor no es portador. Sandor no resiente a su hermano; resiente a quienes

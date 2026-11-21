@@ -92,13 +92,27 @@ mística dracmasia.
 La tradición mística sangheskia se perdió en gran medida. Persisten algunas
 reliquias, formas de entrenamiento y nombres de uso.
 
+## Convergencia y encarnación
+
+La **Convergencia** permite que un Init se manifieste en la realidad a través
+del Vinculado. Es un recurso de último extremo, casi prohibido y autorizado
+solo en circunstancias excepcionales. Puede producir el **Desvanecimiento del
+Ego**, que libera energía extrema y destructiva; si el cuerpo material del
+Vinculado sobrevive, el Init se encarna en su lugar. El último Rey Sol es el
+único caso documentado: su Desvanecimiento destruyó Astria, y se desconoce qué
+ocurrió con su cuerpo.
+
+Ose, Andromalius y Dionisia son Inits encarnados. Un Init no puede encarnarse
+dos veces mientras ya lo está. Si un Vinculado a Ose alcanza la Convergencia,
+Ose puede ocupar su cuerpo momentáneamente, sin nuevo Desvanecimiento ni
+Encarnación.
+
 ## Transitoriedad
 
 Los Inits no pertenecen a este plano. Regresaron a Irij antes del amanecer del
 día siguiente al Surgimiento y no han vuelto a salir por medios propios.
 
-Andromalius, Dionisia y Ose son Inits encarnados. El mecanismo de su encarnación
-y su relación concreta con Irij permanecen reservados.
+Su relación concreta con Irij permanece reservada.
 
 ## Relaciones
 

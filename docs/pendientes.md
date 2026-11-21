@@ -39,6 +39,14 @@ Plata–Tiranía ya no se mantienen en esta lista.
 
 | Tema | Qué falta |
 |------|-----------|
+| **Formación Maeghis** | Precisar la duración de Devoción, los criterios adicionales de evaluación, si Exterminio exige destruir al engendro y la formación que distingue los grados. |
+| **Condicionamiento Maeghis** | Definir el procedimiento e información de aceptación y los refuerzos posteriores a Maestro. |
+| **Möes Maeghis y licencias** | Definir el procedimiento de concesión del reconocimiento y la autoridad administrativa que avala o visa licencias. |
+| **Colegios Maeghis** | Definir las funciones administrativas de las sedes, la relación institucional de Vasaggo con la red y el lugar del examen de Iniciado de Ren. |
+| **Don de la Flecha** | Definir límites numéricos y distancias, la relación entre Anclaje, modificación de trayectorias y percepción, el nombre breve de sus usuarios y la relación entre técnica y maestría. |
+
+| Tema | Qué falta |
+|------|-----------|
 | **Ceremonia de mayoría de edad** | Definir el nombre y el desarrollo de la ceremonia obligatoria a los dieciséis años. |
 | **Tierras Intermedias** | Completar la ficha, el gobierno, la geografía y la relación con los reinos. |
 | **Stamengherin moderno** | Fijar el número y la elección de representantes, la rotación y el lugar de reunión durante un quiebre. |

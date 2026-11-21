@@ -31,17 +31,23 @@ Iyuri fue su usuario más rápido y poderoso conocido y el único cuyo expedient
 acreditaba un salto con dos acompañantes: Fhilippo y un espectro, durante el
 rescate de su familia.
 
+Iyuri fue el primer místico registrado que aplicó el principio del anclaje a
+objetos dejados atrás y llamó **Anclaje** a esa aplicación. Puede conservar un
+número indefinido de objetos anclados, modificar sus trayectorias dentro de un
+alcance limitado y percibir desde ellos el entorno en 360 grados, también con
+alcance limitado. No se han fijado distancias ni límites numéricos.
+
 ## Trayectoria
 
 De niño soñaba con ingresar en la Grim Tábura. A los catorce años huyó de un
 matrimonio concertado con ayuda de su tío Essio Galenor. A los dieciséis era
 capitán del Calamar Rojo, una banda de saqueadores de Sturmgard. Estaba
-registrado, pero no tenía licencia Maeghi: sus saqueos eran delitos y su
+registrado, pero no tenía licencia Maeghis: sus saqueos eran delitos y su
 actividad habitual sustentada en el don carecía de certificación.
 
 Oskar Rheiner lo capturó durante un robo. Tras descubrir Oskar una conspiración
 de la Mort Tábura, el Calamar Rojo ayudó a detenerla y sus miembros fueron
-indultados. Iyuri decidió abandonar el bandidaje y formarse como Maeghi para
+indultados. Iyuri decidió abandonar el bandidaje y formarse como Maeghis para
 aspirar a cazar Grimm. Oskar lo acompañó hasta las Puertas Carmesí y después
 mantuvieron correspondencia durante tres años.
 
@@ -60,9 +66,9 @@ forma de un ojo rodeado por un círculo y tres lágrimas; el sello detectaba la
 presencia de la Sombra, pero no diagnosticaba por sí mismo el Toque.
 
 Durante ese enfrentamiento en una casa fuertemente contaminada por Sombra,
-Iyuri fue Tocado y la infección avanzó hasta la incubación de una semilla de
-espectro. Su enorme poder místico está relacionado con la velocidad del
-proceso. Sobrevivió y presenta Toque Residual, también llamado Marca de la
+Iyuri fue Tocado y la infección alcanzó la implantación de una semilla de
+engendro. Contempló el Mar de Dirak y sobrevivió. Presenta Toque Residual,
+también llamado Marca de la
 Bestia. La Sombra continúa acechándolo. Iyuri procura sostener estados
 emocionales positivos porque una caída emocional puede abrir una vía para que
 la Sombra vuelva a manifestarse. Su sello es de clase dragón y muy potente;
@@ -77,9 +83,17 @@ Sombra sigue siendo una creencia, no un hecho confirmado.
 Cuatro años después, Iyuri se despidió de Oskar ante Phardazul el día de la
 boda de este con Lya. Llevaba Lazeroth, la espada de Fhilippo; conservaba una
 cicatriz sobre la ceja izquierda y una marca de garras en el pecho. Zarpó hacia
-Sturmgard como capitán de un barco tripulado por sturmgardianos. El origen de
-esa tripulación, sus objetivos y las circunstancias que llevaron a la
-separación de Iyuri y Oskar permanecen reservados.
+Sturmgard como capitán de un barco tripulado por sturmgardianos.
+
+Después de ser Tocado, Iyuri recibió de Tuk relatos de experiencias que podían
+ayudarlo, sin que Tuk supiera que contribuirían a su desborde e
+hipersexualización. Antes de conocer a Ren tuvo encuentros sexuales frecuentes
+para sobrellevar el trauma, el temor a nuevas incursiones y el dolor por la
+ruptura con Oskar y su matrimonio con Lya. En ese periodo obtuvo el
+reconocimiento de Möes Maeghis al demostrar sus capacidades ante la Möes
+Tábura. La relación amorosa con Ren se fundamenta en
+su crecimiento mutuo, complementariedad y acciones recíprocas; Iyuri prometió
+a Tuk no revelar a Ren su intervención en el origen del desborde.
 
 En una estancia posterior en Upyria, Iyuri viajaba con Rendard Steinert y el
 Calamar Rojo, con asuntos pendientes en Vesperya. En el lupanar de Goro Revolva
@@ -115,7 +129,9 @@ interés personal.
 - `docs/mundo/stigria/toque-residual.md`
 - `docs/mundo/stigria/mar-de-dirak.md`
 - `docs/mundo/stigria/santuario-del-alma.md`
-- `docs/mundo/stigria/moes-maeggi.md`
+- `docs/mundo/stigria/moes-maeghis.md`
+- `docs/mundo/stigria/don-de-la-flecha.md`
+- `docs/mundo/stigria/condicionamiento-maeghis.md`
 - `docs/mundo/stigria/calamar-rojo.md`
 - `docs/mundo/stigria/indice-molokai.md`
 - `docs/mundo/stigria/artefactos-misticos.md`

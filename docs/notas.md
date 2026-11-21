@@ -1,5 +1,26 @@
 # Notas editoriales
 
+### Volcamiento de primeras definiciones Maeghis (2026-11-21)
+
+Ejecutadas las resoluciones R-01–R-10. La denominación vigente es Maeghis,
+con condición desde el ingreso como Aprendiz; el grado de Iniciado y la primera
+licencia profesional imperial se conceden en el mismo proceso y el registro de
+Vinculados permanece separado. Se incorporaron grados, pruebas, colegios,
+sedes, orientaciones regionales y la presentación pública voluntaria de la
+formación bajo presión imperial. Möes Maeghis quedó como reconocimiento
+extraordinario sin facultades automáticas de docencia ni visado.
+
+Se incorporaron el condicionamiento Maeghis, Resonancia, Disonancia, desborde,
+el Santuario del Alma, el Mar de Dirak, técnica, el Don de la Flecha y
+Anclaje; se retiró Kantra del lore vigente. La ficha del Mar consigna que Iyuri
+Khan lo contempló y sobrevivió, mientras los registros imperiales no documentan
+supervivientes. Se actualizaron Convergencia, Desvanecimiento del Ego y
+Encarnación, conservando las marcas CANON-VELADO relativas a Ose. También se
+integraron los antecedentes y relaciones aprobados de Iyuri, Rendard, Tuk,
+Benji y Nimri, sin resolver las reservas narrativas. Se actualizaron índices,
+referencias y pendientes; no se fijaron por inferencia los límites,
+procedimientos, cronologías ni demás reservas expresas.
+
 ### Volcamiento de primera información de dones (2026-11-20)
 
 Incorporadas las decisiones R-01–R-06 y R-08, así como las tradiciones

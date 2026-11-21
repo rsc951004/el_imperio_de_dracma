@@ -6,7 +6,8 @@ Nombre alternativo: **Marca de la Bestia**.
 
 Condición documentada en pocos sobrevivientes que llegaron a incubar una
 semilla de espectro. El sobreviviente queda conectado permanentemente a la
-Sombra. Iyuri Khan presenta Toque Residual.
+Sombra. Iyuri Khan presenta Toque Residual: contempló el Mar de Dirak y
+sobrevivió.
 
 ## Manifestación y efectos
 

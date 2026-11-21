@@ -21,16 +21,17 @@ Reino del Imperio de Dragma.
 ## Concepto
 
 Veleskaria es el principal centro místico de Dragma. Sus escuelas forman a
-personas vinculadas, futuros Maeghi y cazadores de Grimm, tanto integrantes de
+personas vinculadas, futuros Maeghis y cazadores de Grimm, tanto integrantes de
 la Grim Tábura como independientes. Sus refugios reciben a Portadores
 perseguidos y sus caravanas abastecen Esteria. La minería del Verilium pertenece
 a Eisengard; la identidad de Veleskaria se organiza alrededor del saber y la
 defensa, no de la extracción minera.
 
-Completar una formación regional no concede por sí solo la condición de
-Maeghi. Esta nace con la primera licencia certificada por la Möes Tábura. Las
-escuelas de otros territorios continúan operando dentro del mismo sistema
-imperial.
+La condición de Maeghis se adquiere al ingresar como Aprendiz. Veleskaria
+alberga la Sede Central de la Möes Tábura: los exámenes de Iniciado a Adepto y
+de Adepto a Experto se rinden allí. Sus colegios se orientan en general al
+combate sobrenatural; la formación regional forma parte de la red de colegios
+de la Möes Tábura.
 
 La población de Sangre Carmesí de Veleskaria conserva su raíz sangheskia y
 presenta una mezcla mayor con las poblaciones de las Costas del Verano. Los

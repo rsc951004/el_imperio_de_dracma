@@ -95,11 +95,19 @@ usos cotidianos no constituye por sí solo ejercicio profesional. El registro o
 la licencia no autorizan delitos. Un niño no es castigado personalmente por la
 falta de registro imputable a sus responsables.
 
-La primera licencia imperial concede la condición de **Maeghi**, tanto en
-singular como en plural. Se pronuncia «maéyi» o «maélli». Las clasificaciones
-asociadas a la formación son administrativas y no forman una taxonomía
-universal de dones. Cambiar de oficio no exige una licencia nueva, aunque la
-persona debe aprender lo necesario para ejercerlo.
+Un Vinculado adquiere la condición de **Maeghis**, invariable en singular y
+plural, al ingresar formalmente como Aprendiz en la Möes Tábura. El registro
+imperial sigue siendo independiente de los grados y de la licencia profesional.
+Al aprobar Iniciado recibe automáticamente su primera licencia profesional:
+el grado acredita la formación y la licencia constituye su reconocimiento
+administrativo imperial dentro del mismo proceso. Un Aprendiz no puede ejercer
+profesionalmente; un Iniciado puede ejercer los oficios permitidos para ese
+grado; ciertas profesiones especializadas exigen Adepto o superior; y un
+Experto puede enseñar formalmente en los colegios de la Möes Tábura.
+
+Las clasificaciones asociadas a la formación son administrativas y no forman
+una taxonomía universal de dones. Cambiar de oficio no exige una licencia
+nueva, aunque la persona debe aprender lo necesario para ejercerlo.
 
 Erebia, Astria y los sabios de Khalos rechazaron históricamente una taxonomía
 universal. Los nombres de Portadores dependen del contexto, la actividad o la
@@ -109,7 +117,7 @@ En la lengua de los Sangheskios, **Maeyis** es el singular y **Maeyiss** el
 plural para los Portadores esclavizados por ellos. Estas denominaciones no
 equivalen a la certificación imperial.
 
-La certificación **Maeghi**, invariable en singular y plural, honra la
+La denominación **Maeghis**, invariable en singular y plural, honra la
 tradición mística sangheskia.
 
 ## Verilium
@@ -139,11 +147,7 @@ maestrías para transformar Dürr y crear la Costa del Verano.
 
 **Iulien Therin**, descendiente de Sangheskios esclavizados, fue el único
 Portador del Sol vivo conocido durante la Edad de Plata. Su fulgor hirió
-físicamente al Rey Podrido. Durante la guerra de Unland usó la Kantra
-«Ta-besh».
-
-Una **Kantra** es una palabra o acción elegida o creada como ayuda mental para
-una maestría. No activa el don ni es obligatoria.
+físicamente al Rey Podrido durante la guerra de Unland.
 
 Al final de la Edad de la Podredumbre, un grupo de Portadores abrió el Foso de
 la Calamidad dentro del Riegel y derrumbó completamente el conducto subterráneo
@@ -163,7 +167,6 @@ conspiración casi alcanzó sus objetivos.
 - `docs/mundo/stigria/foso-de-la-calamidad.md`
 - `docs/mundo/stigria/dragma/guerras-misticas.md`
 - `docs/organizaciones/orden-de-la-flama-blanca.md`
-- `docs/mundo/stigria/kantra.md`
 - `docs/mundo/stigria/don-del-caos.md`
 - `docs/mundo/stigria/don-elemental.md`
 - `cuentos/cronicas-de-erebia/1-la-edad-de-la-maravilla.md`

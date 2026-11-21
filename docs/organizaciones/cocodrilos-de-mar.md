@@ -9,7 +9,7 @@ una especialidad profesional o ambas cosas.
 ## Características
 
 Sus miembros son muy solicitados en el Imperio. Rendard Steinert no pertenece
-a los Cocodrilos de Mar.
+a los Cocodrilos de Mar. La especialidad exige grado Adepto o superior.
 
 ## Referencias
 

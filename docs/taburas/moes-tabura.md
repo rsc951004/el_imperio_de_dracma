@@ -12,56 +12,105 @@ libertad. Algunos permanecieron voluntariamente como cazadores de Grimm; otros
 se quedaron en el Norte sin continuar esa labor y muchos de ellos formaron la
 Möes Tábura.
 
-## Función
+## Función, formación y grados
 
 La Möes Tábura forma a Portadores e Invocadores y estudia sus dones y
-maestrías. Durante la Edad de Oro estandarizó el aprendizaje de los
-Invocadores, cuya amplitud de manifestaciones vuelve la enseñanza especialmente
-compleja y peligrosa.
+maestrías. Es una institución compuesta por numerosos colegios de prestigio
+variable, no una academia única. La formación ordinaria progresa como
+**Aprendiz → Iniciado → Adepto → Experto → Maestro**. Los grados expresan
+formación y reconocimiento institucional, no poder místico.
 
-El registro obligatorio de una persona vinculada es independiente de la
-licencia. La primera licencia certifica la formación y concede la condición
-general de **Maeghi**, invariable en singular y plural. Se pronuncia «maéyi» o
-«maélli».
+Un Vinculado se convierte en **Maeghis** al ingresar formalmente como Aprendiz.
+La fase anterior al ejercicio profesional debe completarse; la posterior de
+perfeccionamiento es optativa. Aprobar Iniciado concede conjuntamente la
+primera licencia profesional imperial: el grado es la acreditación académica y
+la licencia su reconocimiento administrativo. El registro obligatorio como
+Vinculado sigue siendo independiente. Un Aprendiz no puede ejercer
+profesionalmente; un Iniciado puede ejercer los oficios permitidos para su
+grado; Adepto permite acceder a profesiones especializadas que lo exigen como
+mínimo; y Experto habilita para enseñar formalmente en cualquier colegio.
 
-El uso cotidiano u ocasional de un don no exige licencia. La certificación se
-requiere para una actividad habitual o prolongada sustentada en el don,
-especialmente cuando constituye oficio o prestación regular de servicios.
-Un Maeghi siniestro certificado no puede negarse a auxiliar a quien solicita su
-atención; los gastos corresponden al solicitante.
+El uso cotidiano u ocasional de un don no exige licencia. Las clasificaciones
+son administrativas y no una taxonomía universal. Cambiar de oficio no exige
+otra licencia, aunque sí aprender lo necesario para la nueva actividad.
 
-Las escuelas regionales forman estudiantes dentro del sistema imperial, pero
-completar sus estudios no concede por sí solo la condición de Maeghi.
-Veleskaria constituye el principal centro de formación y Zephyrya el segundo;
-continúan existiendo escuelas en otros territorios.
+La formación Maeghis se presenta públicamente como voluntaria. El Imperio
+desearía hacerla obligatoria y presiona socialmente a los Vinculados que no
+ingresan en la Möes Tábura mediante obstáculos a su desarrollo en la vida
+imperial; sus autoridades y muchos Maeghis conocen esa intención. Esta presión no convierte la formación en una
+obligación universal ni sustituye el registro obligatorio o los requisitos de
+oficios concretos.
 
-## Clasificaciones y oficios
+### Pruebas y reconocimiento de Maestro
 
-La primera licencia incorpora una clasificación administrativa vinculada, por
-lo general, con la actividad y la maestría acreditadas. Nombres como **Maeghi de
-Sanación** o **Portador Tempestuoso** sitúan a la persona dentro de la
-institución, pero no forman una taxonomía universal ni agotan su don.
+Los ascensos no favorecen unos dones sobre otros. Las pruebas cubren dominio
+del don o vínculo, trabajo con otras personas y relación con la Sombra.
 
-Una persona Maeghi puede acumular clasificaciones posteriores. Cambiar de oficio no
-exige otra licencia: basta con aprender lo necesario para la nueva actividad.
-Puede ejercer de manera independiente, integrarse en la milicia, servir en la
-Grim Tábura, enseñar en la Möes Tábura o dedicarse a otros oficios; la lista no
-es cerrada.
+- **Aprendiz → Iniciado:** Dominio, Amparo y Santuario. Dominio acredita una
+  técnica controlada incluso bajo estrés; Amparo exige acompañar a otro
+  Aprendiz angustiado sin depender del don; Santuario requiere rechazar una
+  intrusión real y leve de la Sombra y sobrevivir.
+- **Iniciado → Adepto:** Devoción, Redundancia y Contención. Devoción exige
+  alcanzar y sostener bajo control la comunicación personal con el Init, más
+  allá de los límites habituales de tiempo y energía del vínculo; puede
+  acompañarse de cambios de ojos, voz o personalidad y mide el dominio de un
+  estado excepcional. Redundancia consiste en una misión compleja de
+  colaboración, sin exigir un equipo de Vinculados ni que el aspirante lo
+  dirija. Contención exige detectar y mantener físicamente contenida una
+  criatura corrompida; el don es opcional y no se usan personas como sujetos
+  de prueba.
+- **Adepto → Experto:** Convergencia, Consonancia y Exterminio. Convergencia
+  controla la manifestación del Init; Consonancia sincroniza vínculos entre
+  compañeros y puede ser Resonante, cuando ambos egos forman un nuevo yo, o
+  Disonante, cuando uno infunde su ego y el otro lo cede. Ambas requieren
+  confianza, seguridad y armonía; la modalidad Disonante no es Subyugación.
+  Exterminio enfrenta al aspirante a un engendro menor de la Sombra en un
+  entorno controlado y exige sobrevivir; puede rendirse en solitario o en
+  equipos de hasta tres.
 
-Leondras Solarys aparece siempre clasificado como **Portador Tempestuoso**.
+Maestro reconoce una trayectoria profesional de años. Requiere la nominación
+de un colegiado del Alto Consejo de Maeghis, entrevistas, una o dos
+demostraciones libres, revisión de antecedentes y voto unánime del Consejo.
+La docencia y la investigación son trayectorias frecuentes, no las únicas.
 
-## Alcance reservado
+Permanecen sin definir la duración de Devoción, los criterios adicionales de
+evaluación, si Exterminio exige destruir al engendro y la formación que separa
+los grados aparte de las pruebas.
 
-La jerarquía, los trámites internos de clasificación y la organización concreta
-de la Möes Tábura permanecen reservados.
+## Colegios y exámenes
 
-## Möes Maeghi
+Solo Veleskaria, Sindria y Eldengaria tienen sede institucional de la Möes
+Tábura; la de Veleskaria es la **Sede Central**. Hay Colegios Reales en
+Lysarya, Zephyrya, Vesperya, Veleskaria, Sindria y Flammengard. Eldengaria
+tiene además numerosos colegios independientes. No los hay en los reinos de
+la Bruma ni en los demás reinos del Hierro.
 
-Un **Möes Maeghi** es un Maeghi autorizado para enseñar formalmente a otras
-personas a convertirse en Maeghi. Puede formar alumnos y, según el sistema
-imperial, avalar o visar una licencia de alguien que haya estudiado bajo su
-tutela. Es un maestro Maeghi autorizado y de muy alto rango. Iyuri Khan posee
-este reconocimiento. La jerarquía completa permanece reservada.
+Entre los Colegios Reales, los de Veleskaria y Sindria son los de mayor
+prestigio, en ese orden. Veleskaria es el principal centro místico y Zephyrya
+el segundo núcleo de enseñanza; ambas clasificaciones tienen ámbitos propios.
+Los colegios del Verano se orientan a usos generalmente no combativos, pasivos
+o productivos; Flammengard al combate militar; Veleskaria al combate
+sobrenatural; Sindria a la lucha activa contra la Sombra; y los colegios
+independientes de Eldengaria a formación general y obtención pronta de
+Iniciado, normalmente con menor prestigio.
+
+Los exámenes de Iniciado se rinden en cualquier colegio de la Möes Tábura. Los
+de Adepto y Experto se rinden exclusivamente en la Sede Central, aunque la
+preparación puede realizarse en otros colegios. Maestro sigue el procedimiento
+del Alto Consejo. Las funciones administrativas de las sedes y su relación con
+los colegios permanecen reservadas.
+
+## Möes Maeghis
+
+**Möes Maeghis** es un reconocimiento extraordinario por un logro excepcional
+con el don o por hacer algo que nadie había alcanzado antes. No es un grado
+ordinario, no se obtiene por acumular estudios y puede otorgarse a quien nunca
+ingresó como Aprendiz. No concede por sí mismo facultades de enseñanza formal
+ni de aval o visado de licencias. Un Möes Maeghis que sea Experto enseña por
+ese grado. Iyuri Khan posee este reconocimiento.
+
+El procedimiento para concederlo y la autoridad competente para avalar o visar
+licencias permanecen pendientes de definición.
 
 ## Referencias
 
@@ -69,5 +118,5 @@ este reconocimiento. La jerarquía completa permanece reservada.
 - `docs/entidades/invocadores.md`
 - `docs/casas/solarys.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
-- `docs/mundo/stigria/moes-maeggi.md`
+- `docs/mundo/stigria/moes-maeghis.md`
 - `docs/personajes/iyuri-khan.md`

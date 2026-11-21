@@ -21,6 +21,9 @@ producido en la Edad de Oro.
 
 ## Mandato
 
+El ingreso en la Guardia Amarilla exige grado Adepto o superior para las
+funciones vinculadas a dones.
+
 La Guardia mantiene la ley del Paso, administra Esteria, custodia el Gran Faro
 y sus reservas de Lumbre, y vigila el Foso de la Calamidad. No responde a
 Sindria ni reconoce su reclamación territorial sobre la ciudad. La Lumbre se

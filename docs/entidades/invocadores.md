@@ -70,10 +70,17 @@ manifestación no basta siempre para distinguirlos. Un error de buena fe al
 registrar la condición no es una falta grave, pero falsificarla deliberadamente
 es ilegal.
 
-La primera licencia concede la condición general de **Maeghi**, invariable en
-singular y plural. Se pronuncia «maéyi» o «maélli». Las
-clasificaciones profesionales son administrativas; cambiar de oficio no exige
-otra licencia, aunque requiere aprender la nueva actividad. Una persona
+Un Vinculado adquiere la condición de **Maeghis**, invariable en singular y
+plural, al ingresar formalmente como Aprendiz en la Möes Tábura. Al aprobar
+Iniciado recibe automáticamente su primera licencia profesional imperial: el
+grado es la acreditación académica y la licencia su reconocimiento
+administrativo. El registro permanece separado de ambos. Un Aprendiz no puede
+ejercer profesionalmente; un Iniciado puede ejercer los oficios permitidos
+para ese grado; Adepto abre las profesiones especializadas que lo exigen como
+mínimo; y Experto habilita para enseñar formalmente en la Möes Tábura.
+
+Las clasificaciones profesionales son administrativas; cambiar de oficio no
+exige otra licencia, aunque requiere aprender la nueva actividad. Una persona
 registrada puede usar libremente sus dones en la vida cotidiana. Necesita
 licencia para ejercer una actividad habitual o prolongada sustentada en ellos,
 especialmente un oficio o la prestación regular de servicios. Repetir usos

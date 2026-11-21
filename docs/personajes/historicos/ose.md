@@ -9,8 +9,10 @@ conocimientos, ayudaba en investigaciones místicas y revelaba su identidad
 como Init. Esas interacciones fueron acontecimientos reales. Esta fue la única
 revelación directa de la identidad de un Init confirmada en el registro
 histórico. Ose está objetivamente asociado con el Don de la Quimera y el Don
-del Ojo. La secuencia de sus apariciones y su relación con Sirene permanecen
-abiertas.
+del Ojo. Como Init ya encarnado, Ose no puede encarnarse de nuevo. Si un
+Vinculado a Ose alcanza la Convergencia, puede ocupar su cuerpo momentáneamente,
+sin que ocurra un Desvanecimiento del Ego ni una nueva Encarnación. La secuencia
+de sus apariciones y su relación con Sirene permanecen abiertas.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: todas las personas vivas excepto Imrik -->
 Arystan Khan y Ellis Rosamund sellaron a Ose en Cerbero, una quimera con forma

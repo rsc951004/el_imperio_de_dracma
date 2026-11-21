@@ -85,10 +85,12 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Don Elemental | Don | Su uso depende de un elemento presente. | [Ver ficha](mundo/stigria/don-elemental.md) |
 | Índice Molokai | Registro estadístico | Porcentajes de ocurrencia de dones entre Vinculados registrados. | [Ver ficha](mundo/stigria/indice-molokai.md) |
 | Desfase | Fenómeno místico | Alteraciones que impiden experimentar o usar el don normalmente. | [Ver ficha](mundo/stigria/desfase.md) |
-| Santuario del Alma | Técnica mental | Sugestión y condicionamiento enseñados como defensa ante la Sombra. | [Ver ficha](mundo/stigria/santuario-del-alma.md) |
-| Mar de Dirak | Fenómeno psicológico y místico | Alteración perceptiva asociada a infección extrema por Sombra. | [Ver ficha](mundo/stigria/mar-de-dirak.md) |
+| Santuario del Alma | Defensa activa | Ejercicio consciente de defensa contra la Sombra. | [Ver ficha](mundo/stigria/santuario-del-alma.md) |
+| Condicionamiento Maeghis | Formación psicoafectiva | Entrenamiento de Resonancia y Disonancia frente a la Sombra. | [Ver ficha](mundo/stigria/condicionamiento-maeghis.md) |
+| Mar de Dirak | Fenómeno psicológico y místico | Señal de implantación de una semilla de engendro y muerte inminente no inevitable. | [Ver ficha](mundo/stigria/mar-de-dirak.md) |
 | Toque Residual | Condición mística | Conexión persistente con la Sombra tras sobrevivir a una semilla de espectro. | [Ver ficha](mundo/stigria/toque-residual.md) |
-| Möes Maeghi | Título Maeghi | Maeghi autorizado para formar a otras personas y avalar licencias de sus alumnos. | [Ver ficha](mundo/stigria/moes-maeggi.md) |
+| Möes Maeghis | Reconocimiento extraordinario | Distinción por un logro excepcional con el don, independiente de los grados. | [Ver ficha](mundo/stigria/moes-maeghis.md) |
+| Don de la Flecha | Don | Don que permite seguir un objeto arrojado y llegar con él a su destino. | [Ver ficha](mundo/stigria/don-de-la-flecha.md) |
 | Calamar Rojo | Banda y embarcación | Nombre de la antigua banda de Iyuri y de su barco posterior. | [Ver ficha](mundo/stigria/calamar-rojo.md) |
 | *Historia de Phardazul, el Reino de las Quimeras* | Obra escrita | Libro de Jabber Roudha sobre Phardazul, Leandrin y las quimeras. | [Ver ficha](mundo/stigria/historia-de-phardazul.md) |
 | «Phardazul, Phardazul» | Canción infantil | Canción popular de Lemuria y Flammengard sobre Phardazul y Leandrin. | [Ver ficha](mundo/stigria/cancion-phardazul.md) |
@@ -99,7 +101,6 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Guía práctica contra la Sombra | Guía | Prevención, alertas y asistencia contra la Sombra. | [Ver ficha](mundo/stigria/guia-practica-contra-la-sombra.md) |
 | Llave de Dürr | Insignia histórica | Diadema entregada por Rudgar a Aurethyron. | [Ver ficha](mundo/stigria/llave-de-durr.md) |
 | Acero del Alba | Material | Aleación que hiere a Grimm y poseídos. | [Ver ficha](mundo/stigria/acero-del-alba.md) |
-| Kantra | Ayuda para la maestría | Palabra o acción elegida o creada como apoyo mental para una maestría. | [Ver ficha](mundo/stigria/kantra.md) |
 | Guerra de Unland | Conflicto | Campaña de Recuperación de Unland y origen de Kystgard, Lyngard y Biorgard. | [Ver ficha](mundo/stigria/guerra-de-unland.md) |
 | Emisarios de la Ruina | Servidores del Rey Podrido | Personas entregadas voluntariamente al Rey Podrido. | [Ver ficha](mundo/stigria/emisarios-de-la-ruina.md) |
 | Roshdom | Fortaleza histórica | Jaula Negra de Rauven y escenario del segundo sellado. | [Ver ficha](mundo/stigria/roshdom.md) |

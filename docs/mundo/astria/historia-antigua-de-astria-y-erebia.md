@@ -130,11 +130,11 @@ su voluntad para continuar torturándolo durante muchísimo tiempo. Verna Zorana
 un cultista arcano de Thalmos, fue uno de sus principales carceleros.
 
 En la noche del Sol de Medianoche, inmediatamente anterior a la destrucción de
-Astria en +1254, el último Rey Sol manifestó su don con toda su amplitud y
-desencadenó desde dentro la catástrofe. Verna estaba presente y murió coincidiendo
-con la caída; casi todos los cultistas arcanos perecieron aquella noche. La
-explosión hundió la isla central de Astria y las demás islas de la Nación de
-la Luz. Para
+Astria en +1254, el último Rey Sol alcanzó la Convergencia y sufrió el
+Desvanecimiento del Ego. La energía liberada destruyó Astria; se desconoce qué
+ocurrió con su cuerpo. Verna estaba presente y murió coincidiendo con la caída;
+casi todos los cultistas arcanos perecieron aquella noche. La explosión hundió
+la isla central de Astria y las demás islas de la Nación de la Luz. Para
 entonces, Khalos ya había evacuado a los esclavos que pudo rescatar de las islas
 vecinas.
 <!-- CANON-VELADO: FIN -->

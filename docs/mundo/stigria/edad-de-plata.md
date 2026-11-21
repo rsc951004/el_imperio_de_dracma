@@ -66,10 +66,6 @@ Rudgar recibió de Aurethyron el artefacto místico **Rugido Mordaz** y entregó
 este la **Llave de Dürr**. El metal de Rugido Mordaz permanece sin nombre y no
 es Acero del Alba.
 
-Una **Kantra** es una palabra o una acción elegida o creada como ayuda mental
-para una maestría. No activa el don ni es obligatoria. Iulien utilizó la
-Kantra «Ta-besh» durante la guerra de Unland.
-
 ## Roshdom y el origen de Valastir
 
 En el año **-193**, diez años después de la proclamación Carmesí, Iulien entró en
