@@ -1,6 +1,6 @@
 # Nimri Jhamali
 
-Maeghis disonante, Siniestro y miembro de los Cuervos Grises de la Guardia Real de
+Maeghi disonante, Siniestro y miembro de los Cuervos Grises de la Guardia Real de
 Lemuria. Su padre procedía de la Bruma y su madre era lemuriana; creció en
 Kystvar, ingresó en la Guardia Real y fue destinado a Lemuria. Se presentó como
 el primer Portador siniestro de la isla.
@@ -17,7 +17,7 @@ mantiene con ellos vínculos afectivos, sin aislarse emocionalmente; en general
 no mantiene relaciones sexuales. La Disonancia le ha dificultado formar
 relaciones porque otras personas confunden su modo de relacionarse con falta de
 interés o cariño. Con Tuk y Benji vivió amistades sin ese juicio por primera
-vez desde antes de entrar en la escuela Maeghis.
+vez desde antes de entrar en la escuela Maeghi.
 
 ## Referencias
 

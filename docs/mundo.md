@@ -86,10 +86,10 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Índice Molokai | Registro estadístico | Porcentajes de ocurrencia de dones entre Vinculados registrados. | [Ver ficha](mundo/stigria/indice-molokai.md) |
 | Desfase | Fenómeno místico | Alteraciones que impiden experimentar o usar el don normalmente. | [Ver ficha](mundo/stigria/desfase.md) |
 | Santuario del Alma | Defensa activa | Ejercicio consciente de defensa contra la Sombra. | [Ver ficha](mundo/stigria/santuario-del-alma.md) |
-| Condicionamiento Maeghis | Formación psicoafectiva | Entrenamiento de Resonancia y Disonancia frente a la Sombra. | [Ver ficha](mundo/stigria/condicionamiento-maeghis.md) |
+| Condicionamiento Maeghi | Formación psicoafectiva | Entrenamiento de Resonancia y Disonancia frente a la Sombra. | [Ver ficha](mundo/stigria/condicionamiento-maeghi.md) |
 | Mar de Dirak | Fenómeno psicológico y místico | Señal de implantación de una semilla de engendro y muerte inminente no inevitable. | [Ver ficha](mundo/stigria/mar-de-dirak.md) |
 | Toque Residual | Condición mística | Conexión persistente con la Sombra tras sobrevivir a una semilla de espectro. | [Ver ficha](mundo/stigria/toque-residual.md) |
-| Möes Maeghis | Reconocimiento extraordinario | Distinción por un logro excepcional con el don, independiente de los grados. | [Ver ficha](mundo/stigria/moes-maeghis.md) |
+| Möes Maeghi | Reconocimiento extraordinario | Distinción por un logro excepcional con el don, independiente de los grados. | [Ver ficha](mundo/stigria/moes-maeghi.md) |
 | Don de la Flecha | Don | Don que permite seguir un objeto arrojado y llegar con él a su destino. | [Ver ficha](mundo/stigria/don-de-la-flecha.md) |
 | Calamar Rojo | Banda y embarcación | Nombre de la antigua banda de Iyuri y de su barco posterior. | [Ver ficha](mundo/stigria/calamar-rojo.md) |
 | *Historia de Phardazul, el Reino de las Quimeras* | Obra escrita | Libro de Jabber Roudha sobre Phardazul, Leandrin y las quimeras. | [Ver ficha](mundo/stigria/historia-de-phardazul.md) |

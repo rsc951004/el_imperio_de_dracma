@@ -1,16 +1,26 @@
 # Notas editoriales
 
-### Volcamiento de primeras definiciones Maeghis (2026-11-21)
+### Corrección de denominación y tradición Maeghi (2026-11-21)
 
-Ejecutadas las resoluciones R-01–R-10. La denominación vigente es Maeghis,
+La denominación canónica se fija como **Maeghi**, invariable en singular y
+plural, incluida la forma **Möes Maeghi**. Se actualizaron fichas, índices,
+referencias y nombres de archivos asociados. El sistema Maeghi se identifica
+como un desarrollo propio de la tradición imperial dracmasí: su influencia
+predominante es la tradición astrina heredada mediante Khalos, mientras la
+influencia shangheskia es secundaria y aporta el nombre que Dragma adoptó y
+adaptó. No se modificaron grados, pruebas, dones ni reservas vigentes.
+
+### Volcamiento de primeras definiciones Maeghi (2026-11-21)
+
+Ejecutadas las resoluciones R-01–R-10. La denominación vigente es Maeghi,
 con condición desde el ingreso como Aprendiz; el grado de Iniciado y la primera
 licencia profesional imperial se conceden en el mismo proceso y el registro de
 Vinculados permanece separado. Se incorporaron grados, pruebas, colegios,
 sedes, orientaciones regionales y la presentación pública voluntaria de la
-formación bajo presión imperial. Möes Maeghis quedó como reconocimiento
+formación bajo presión imperial. Möes Maeghi quedó como reconocimiento
 extraordinario sin facultades automáticas de docencia ni visado.
 
-Se incorporaron el condicionamiento Maeghis, Resonancia, Disonancia, desborde,
+Se incorporaron el condicionamiento Maeghi, Resonancia, Disonancia, desborde,
 el Santuario del Alma, el Mar de Dirak, técnica, el Don de la Flecha y
 Anclaje; se retiró Kantra del lore vigente. La ficha del Mar consigna que Iyuri
 Khan lo contempló y sobrevivió, mientras los registros imperiales no documentan

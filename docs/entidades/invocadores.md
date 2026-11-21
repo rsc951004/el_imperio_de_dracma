@@ -70,7 +70,7 @@ manifestación no basta siempre para distinguirlos. Un error de buena fe al
 registrar la condición no es una falta grave, pero falsificarla deliberadamente
 es ilegal.
 
-Un Vinculado adquiere la condición de **Maeghis**, invariable en singular y
+Un Vinculado adquiere la condición de **Maeghi**, invariable en singular y
 plural, al ingresar formalmente como Aprendiz en la Möes Tábura. Al aprobar
 Iniciado recibe automáticamente su primera licencia profesional imperial: el
 grado es la acreditación académica y la licencia su reconocimiento

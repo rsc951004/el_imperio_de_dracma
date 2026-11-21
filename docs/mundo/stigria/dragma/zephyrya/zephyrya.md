@@ -45,7 +45,7 @@ El clima es el más benigno de los tres reinos del Verano: cálido sin ser sofoc
 Se cree que las propiedades curativas de las costas zephyrias —y en general los cambios «antinaturales» que embellecieron el litoral del Verano— fueron obra de los **Portadores** en tiempos antiguos, ya fuera por deseo deliberado o por accidente. La ciencia imperial no ha confirmado ni refutado esta teoría.
 
 Zephyrya alberga el segundo gran núcleo de enseñanza mística de Dragma. Sus
-colegios Maeghis se orientan generalmente a usos no combativos, pasivos o
+colegios Maeghi se orientan generalmente a usos no combativos, pasivos o
 productivos de los dones, incluidos los curativos, contemplativos y artísticos.
 La formación regional integra la red de la Möes Tábura; el grado de Iniciado y
 su primera licencia profesional imperial se conceden en el mismo proceso.

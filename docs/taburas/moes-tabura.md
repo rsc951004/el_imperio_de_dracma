@@ -12,6 +12,16 @@ libertad. Algunos permanecieron voluntariamente como cazadores de Grimm; otros
 se quedaron en el Norte sin continuar esa labor y muchos de ellos formaron la
 Möes Tábura.
 
+## Tradición
+
+El sistema Maeghi es un desarrollo propiamente dracmasí y forma parte de la
+tradición imperial. Su influencia histórica principal es la tradición astrina,
+heredada mediante Khalos; la tradición shangheskia constituye una influencia
+secundaria. De esta última procede el nombre que los dracmasíes adoptaron y
+adaptaron como **Maeghi**. La organización, la formación, los métodos de
+trabajo y la preparación actuales no reproducen simplemente ninguna de esas
+tradiciones, sino que responden al desarrollo propio del Imperio de Dracma.
+
 ## Función, formación y grados
 
 La Möes Tábura forma a Portadores e Invocadores y estudia sus dones y
@@ -20,7 +30,7 @@ variable, no una academia única. La formación ordinaria progresa como
 **Aprendiz → Iniciado → Adepto → Experto → Maestro**. Los grados expresan
 formación y reconocimiento institucional, no poder místico.
 
-Un Vinculado se convierte en **Maeghis** al ingresar formalmente como Aprendiz.
+Un Vinculado se convierte en **Maeghi** al ingresar formalmente como Aprendiz.
 La fase anterior al ejercicio profesional debe completarse; la posterior de
 perfeccionamiento es optativa. Aprobar Iniciado concede conjuntamente la
 primera licencia profesional imperial: el grado es la acreditación académica y
@@ -34,12 +44,12 @@ El uso cotidiano u ocasional de un don no exige licencia. Las clasificaciones
 son administrativas y no una taxonomía universal. Cambiar de oficio no exige
 otra licencia, aunque sí aprender lo necesario para la nueva actividad.
 
-La formación Maeghis se presenta públicamente como voluntaria. El Imperio
+La formación Maeghi se presenta públicamente como voluntaria. El Imperio
 desearía hacerla obligatoria y presiona socialmente a los Vinculados que no
 ingresan en la Möes Tábura mediante obstáculos a su desarrollo en la vida
-imperial; sus autoridades y muchos Maeghis conocen esa intención. Esta presión no convierte la formación en una
-obligación universal ni sustituye el registro obligatorio o los requisitos de
-oficios concretos.
+imperial; sus autoridades y muchos Maeghi conocen esa intención. Esta presión
+no convierte la formación en una obligación universal ni sustituye el registro
+obligatorio o los requisitos de oficios concretos.
 
 ### Pruebas y reconocimiento de Maestro
 
@@ -69,7 +79,7 @@ del don o vínculo, trabajo con otras personas y relación con la Sombra.
   equipos de hasta tres.
 
 Maestro reconoce una trayectoria profesional de años. Requiere la nominación
-de un colegiado del Alto Consejo de Maeghis, entrevistas, una o dos
+de un colegiado del Alto Consejo de Maeghi, entrevistas, una o dos
 demostraciones libres, revisión de antecedentes y voto unánime del Consejo.
 La docencia y la investigación son trayectorias frecuentes, no las únicas.
 
@@ -100,13 +110,13 @@ preparación puede realizarse en otros colegios. Maestro sigue el procedimiento
 del Alto Consejo. Las funciones administrativas de las sedes y su relación con
 los colegios permanecen reservadas.
 
-## Möes Maeghis
+## Möes Maeghi
 
-**Möes Maeghis** es un reconocimiento extraordinario por un logro excepcional
+**Möes Maeghi** es un reconocimiento extraordinario por un logro excepcional
 con el don o por hacer algo que nadie había alcanzado antes. No es un grado
 ordinario, no se obtiene por acumular estudios y puede otorgarse a quien nunca
 ingresó como Aprendiz. No concede por sí mismo facultades de enseñanza formal
-ni de aval o visado de licencias. Un Möes Maeghis que sea Experto enseña por
+ni de aval o visado de licencias. Un Möes Maeghi que sea Experto enseña por
 ese grado. Iyuri Khan posee este reconocimiento.
 
 El procedimiento para concederlo y la autoridad competente para avalar o visar
@@ -118,5 +128,5 @@ licencias permanecen pendientes de definición.
 - `docs/entidades/invocadores.md`
 - `docs/casas/solarys.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
-- `docs/mundo/stigria/moes-maeghis.md`
+- `docs/mundo/stigria/moes-maeghi.md`
 - `docs/personajes/iyuri-khan.md`

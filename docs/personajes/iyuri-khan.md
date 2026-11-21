@@ -42,12 +42,12 @@ alcance limitado. No se han fijado distancias ni límites numéricos.
 De niño soñaba con ingresar en la Grim Tábura. A los catorce años huyó de un
 matrimonio concertado con ayuda de su tío Essio Galenor. A los dieciséis era
 capitán del Calamar Rojo, una banda de saqueadores de Sturmgard. Estaba
-registrado, pero no tenía licencia Maeghis: sus saqueos eran delitos y su
+registrado, pero no tenía licencia Maeghi: sus saqueos eran delitos y su
 actividad habitual sustentada en el don carecía de certificación.
 
 Oskar Rheiner lo capturó durante un robo. Tras descubrir Oskar una conspiración
 de la Mort Tábura, el Calamar Rojo ayudó a detenerla y sus miembros fueron
-indultados. Iyuri decidió abandonar el bandidaje y formarse como Maeghis para
+indultados. Iyuri decidió abandonar el bandidaje y formarse como Maeghi para
 aspirar a cazar Grimm. Oskar lo acompañó hasta las Puertas Carmesí y después
 mantuvieron correspondencia durante tres años.
 
@@ -90,7 +90,7 @@ ayudarlo, sin que Tuk supiera que contribuirían a su desborde e
 hipersexualización. Antes de conocer a Ren tuvo encuentros sexuales frecuentes
 para sobrellevar el trauma, el temor a nuevas incursiones y el dolor por la
 ruptura con Oskar y su matrimonio con Lya. En ese periodo obtuvo el
-reconocimiento de Möes Maeghis al demostrar sus capacidades ante la Möes
+reconocimiento de Möes Maeghi al demostrar sus capacidades ante la Möes
 Tábura. La relación amorosa con Ren se fundamenta en
 su crecimiento mutuo, complementariedad y acciones recíprocas; Iyuri prometió
 a Tuk no revelar a Ren su intervención en el origen del desborde.
@@ -129,9 +129,9 @@ interés personal.
 - `docs/mundo/stigria/toque-residual.md`
 - `docs/mundo/stigria/mar-de-dirak.md`
 - `docs/mundo/stigria/santuario-del-alma.md`
-- `docs/mundo/stigria/moes-maeghis.md`
+- `docs/mundo/stigria/moes-maeghi.md`
 - `docs/mundo/stigria/don-de-la-flecha.md`
-- `docs/mundo/stigria/condicionamiento-maeghis.md`
+- `docs/mundo/stigria/condicionamiento-maeghi.md`
 - `docs/mundo/stigria/calamar-rojo.md`
 - `docs/mundo/stigria/indice-molokai.md`
 - `docs/mundo/stigria/artefactos-misticos.md`

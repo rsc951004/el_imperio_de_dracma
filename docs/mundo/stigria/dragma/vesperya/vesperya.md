@@ -61,7 +61,7 @@ y la disposición cartográfica exacta de los canales permanecen sin definir.
 ## Concepto
 **El reino del desafío.** Vesperya es el polo opuesto de Lysarya y el extremo de Zephyrya. Donde Lysarya reza y trabaja, Vesperya goza. Donde Zephyrya contempla y se deja admirar, Vesperya actúa, toma, se ríe. Son el corazón hedonista del Verano.
 
-Vesperya cuenta con colegios Maeghis orientados generalmente a usos no
+Vesperya cuenta con colegios Maeghi orientados generalmente a usos no
 combativos, pasivos o productivos de los dones.
 
 ### Libertad como religión

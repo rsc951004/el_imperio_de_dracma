@@ -1,14 +1,14 @@
-# Möes Maeghis
+# Möes Maeghi
 
 ## Reconocimiento
 
-**Möes Maeghis** es un reconocimiento extraordinario concedido a quien logra
+**Möes Maeghi** es un reconocimiento extraordinario concedido a quien logra
 algo excepcional con su don o hace algo que nadie había logrado antes. No es
 un grado ordinario ni se obtiene por acumular estudios; puede otorgarse incluso
 a una persona que nunca ingresó como Aprendiz.
 
 No concede automáticamente facultades de enseñanza formal ni de aval o visado
-de licencias. Una persona reconocida como Möes Maeghis solo puede enseñar en
+de licencias. Una persona reconocida como Möes Maeghi solo puede enseñar en
 los colegios por tener además el grado de Experto. Iyuri Khan posee este
 reconocimiento.
 

@@ -9,7 +9,7 @@ o guiado por otra persona, con mayor eficacia.
 
 ## Ejercicio y apoyo
 
-El Maeghis imagina un escenario de paz que progresa hacia alegría o placer.
+El Maeghi imagina un escenario de paz que progresa hacia alegría o placer.
 Sirven recuerdos felices y recuerdos de placer sexual. La representación
 habitual es una pradera verde con árboles frutales y seres queridos. Desde allí
 imagina a distancia un lago vacío y busca una sombra en su centro: buscarla

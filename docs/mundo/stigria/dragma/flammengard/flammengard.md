@@ -47,7 +47,7 @@ Landwalt ejerce la autoridad política del Víer.
 ## Concepto
 Noroeste volcánico, piromancia. Región de actividad geotérmica y tradición ígnea.
 
-Flammengard es el único reino del Hierro con colegios Maeghis; su orientación
+Flammengard es el único reino del Hierro con colegios Maeghi; su orientación
 general es el combate militar.
 
 Grupos de los Gheran nómades viven dispersos por Flammengard. Son un pueblo

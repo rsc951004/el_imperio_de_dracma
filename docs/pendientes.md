@@ -39,10 +39,10 @@ Plata–Tiranía ya no se mantienen en esta lista.
 
 | Tema | Qué falta |
 |------|-----------|
-| **Formación Maeghis** | Precisar la duración de Devoción, los criterios adicionales de evaluación, si Exterminio exige destruir al engendro y la formación que distingue los grados. |
-| **Condicionamiento Maeghis** | Definir el procedimiento e información de aceptación y los refuerzos posteriores a Maestro. |
-| **Möes Maeghis y licencias** | Definir el procedimiento de concesión del reconocimiento y la autoridad administrativa que avala o visa licencias. |
-| **Colegios Maeghis** | Definir las funciones administrativas de las sedes, la relación institucional de Vasaggo con la red y el lugar del examen de Iniciado de Ren. |
+| **Formación Maeghi** | Precisar la duración de Devoción, los criterios adicionales de evaluación, si Exterminio exige destruir al engendro y la formación que distingue los grados. |
+| **Condicionamiento Maeghi** | Definir el procedimiento e información de aceptación y los refuerzos posteriores a Maestro. |
+| **Möes Maeghi y licencias** | Definir el procedimiento de concesión del reconocimiento y la autoridad administrativa que avala o visa licencias. |
+| **Colegios Maeghi** | Definir las funciones administrativas de las sedes, la relación institucional de Vasaggo con la red y el lugar del examen de Iniciado de Ren. |
 | **Don de la Flecha** | Definir límites numéricos y distancias, la relación entre Anclaje, modificación de trayectorias y percepción, el nombre breve de sus usuarios y la relación entre técnica y maestría. |
 
 | Tema | Qué falta |

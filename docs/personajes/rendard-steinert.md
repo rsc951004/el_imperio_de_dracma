@@ -7,9 +7,9 @@ custodio imperial con formación militar y marinero vinculado al Calamar Rojo.
 Es disciplinado y formal, tiene un fuerte sentido del deber y desea conocer el
 mundo. Es rubio y lleva el cabello corto, con corte militar.
 
-Es Portador del Don del Caos y Maeghis de grado Iniciado. Se formó durante seis
+Es Portador del Don del Caos y Maeghi de grado Iniciado. Se formó durante seis
 años en la Academia Imperial de Custodios, con una extensión de año y medio en
-el Colegio Maeghis Vasaggo.
+el Colegio Maeghi Vasaggo.
 Puede endurecer los brazos y las piernas; la protección de las piernas reduce
 su movilidad. Su padre, Keven Steinert, rechazaba su don.
 
@@ -36,7 +36,7 @@ adoptiva y una casa cerca de la capital. Son aspiraciones personales.
 - [Keven Steinert](keven-steinert.md)
 - [Casa Steinert](../casas/steinert.md)
 - [Don del Caos](../mundo/stigria/don-del-caos.md)
-- [Vasaggo](../organizaciones/escuela-maeghis-vasaggo.md)
-- [Condicionamiento Maeghis](../mundo/stigria/condicionamiento-maeghis.md)
+- [Vasaggo](../organizaciones/escuela-maeghi-vasaggo.md)
+- [Condicionamiento Maeghi](../mundo/stigria/condicionamiento-maeghi.md)
 - [Sellos de Andromalius](../mundo/stigria/artefactos-misticos.md)
 - [Upyria](../mundo/stigria/upyria.md)

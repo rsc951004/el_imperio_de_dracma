@@ -95,7 +95,7 @@ usos cotidianos no constituye por sí solo ejercicio profesional. El registro o
 la licencia no autorizan delitos. Un niño no es castigado personalmente por la
 falta de registro imputable a sus responsables.
 
-Un Vinculado adquiere la condición de **Maeghis**, invariable en singular y
+Un Vinculado adquiere la condición de **Maeghi**, invariable en singular y
 plural, al ingresar formalmente como Aprendiz en la Möes Tábura. El registro
 imperial sigue siendo independiente de los grados y de la licencia profesional.
 Al aprobar Iniciado recibe automáticamente su primera licencia profesional:
@@ -117,8 +117,10 @@ En la lengua de los Sangheskios, **Maeyis** es el singular y **Maeyiss** el
 plural para los Portadores esclavizados por ellos. Estas denominaciones no
 equivalen a la certificación imperial.
 
-La denominación **Maeghis**, invariable en singular y plural, honra la
-tradición mística sangheskia.
+La denominación **Maeghi**, invariable en singular y plural, procede del nombre
+de la tradición shangheskia que los dracmasíes adoptaron y adaptaron. La
+tradición Maeghi actual es un desarrollo imperial propio, de influencia astrina
+predominante heredada mediante Khalos y de influencia shangheskia secundaria.
 
 ## Verilium
 

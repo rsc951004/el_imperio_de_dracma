@@ -2,13 +2,13 @@
 
 ## Tipo
 
-Colegio Maeghis de menor prestigio dentro de la formación imperial. Su relación
+Colegio Maeghi de menor prestigio dentro de la formación imperial. Su relación
 institucional concreta con la red de colegios de la Möes Tábura permanece sin
 definir.
 
 ## Formación
 
-Rendard Steinert cursó allí un año y medio de formación Maeghis, incluido en
+Rendard Steinert cursó allí un año y medio de formación Maeghi, incluido en
 sus seis años en la Academia Imperial de Custodios, y obtuvo el grado de
 Iniciado. Ese tramo era necesario para ejercer como custodio; recibió la
 formación mínima profesional requerida. No está fijado dónde rindió el examen

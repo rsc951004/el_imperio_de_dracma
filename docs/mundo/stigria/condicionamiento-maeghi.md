@@ -1,16 +1,16 @@
-# Condicionamiento Maeghis
+# Condicionamiento Maeghi
 
 ## Función
 
 El condicionamiento mental contra la Sombra forma parte de la preparación de
-los Aprendices Maeghis. Busca desarrollar dos defensas complementarias:
+los Aprendices Maeghi. Busca desarrollar dos defensas complementarias:
 **Resonancia psicoafectiva** y **Disonancia**. Comienza al ingresar como
 Aprendiz y se profundiza por los grados hasta Maestro; no mide poder místico.
 
 Los procedimientos varían según la etapa. Entre sus ejemplos se cuentan la
 exposición a imágenes y sonidos, periodos prolongados de aislamiento sensorial
 y, en las etapas tempranas, compartir cama con otro Aprendiz o con grupos de
-hasta aproximadamente doce Maeghis. Son ejemplos, no un catálogo completo ni
+hasta aproximadamente doce Maeghi. Son ejemplos, no un catálogo completo ni
 una secuencia obligatoria. El entrenamiento hacia la Disonancia es obligatorio,
 pero alcanzar su dominio pleno no lo es. El condicionamiento es reversible y
 requiere refuerzos continuos.

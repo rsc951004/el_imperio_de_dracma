@@ -1,6 +1,6 @@
 # Tuk Neyzeh
 
-Invocador del caos, Maeghis de grado Iniciado e integrante de los Cuervos
+Invocador del caos, Maeghi de grado Iniciado e integrante de los Cuervos
 Grises de Lemuria. Durante el rescate de Iyuri Khan utilizó su don para retirar
 la garra de un espectro del pecho del joven. Es brusco y burlón.
 
