@@ -3,9 +3,10 @@
 ## Estado editorial
 
 Documento de trabajo no canónico. Traslada a este proceso las definiciones,
-acuerdos y asuntos pendientes desarrollados en las conversaciones de la [mesa
-de trabajo anterior](../../mesa-de-trabajo/ChatGPT-Primeras definiciones maeghis-20261120-1505.md)
-y su [continuación](<../../mesa-de-trabajo/ChatGPT-Primeras definiciones maeghis-20261121-1247.md>).
+acuerdos y asuntos pendientes desarrollados en las conversaciones de la
+[mesa de trabajo anterior](<../../mesa-de-trabajo/ChatGPT-Primeras definiciones maeghis-20261120-1505.md>)
+y su
+[continuación](<../../mesa-de-trabajo/ChatGPT-Primeras definiciones maeghis-20261121-1247.md>).
 No modifica el canon ni autoriza su volcamiento.
 
 ## Denominación definitiva
@@ -44,19 +45,18 @@ adelante. Su revisión todavía no se desarrolla en esta acumulación.
 
 ### A-01. Dos fases de formación
 
-La formación de los Maeghis contempla dos grandes fases:
+El Vinculado adquiere la condición de Maeghis al ingresar formalmente como
+Aprendiz. La formación contempla dos grandes fases:
 
 1. **Una fase anterior al ejercicio profesional**, que debe completarse antes
    de ejercer.
 2. **Una fase posterior de perfeccionamiento**, que es optativa.
 
-Desde el grado de **Iniciado**, un Maeghis puede ejercer y no está obligado a
-seguir avanzando.
-
-El grado de Iniciado habilita para ejercer una amplia variedad de oficios
-relacionados con el don. Algunas profesiones u organizaciones requieren ser
-Adepto o superior; entre los ejemplos acordados están los Cocodrilos de Mar,
-los Cazadores de Grimm y la Guardia Amarilla de Esteria.
+El grado de **Iniciado** habilita para ejercer una amplia variedad de oficios
+relacionados con el don, sin obligación de seguir avanzando. Algunas
+profesiones u organizaciones requieren ser Adepto o superior; entre los
+ejemplos acordados están los Cocodrilos de Mar, los Cazadores de Grimm y la
+Guardia Amarilla de Esteria.
 
 ### A-02. Peldaños y sentido de los títulos
 
@@ -89,8 +89,8 @@ personas, y una prueba relacionada con la Sombra.
 
 #### Aprendiz → Iniciado
 
-El ascenso consta de tres pruebas: **Dominio**, **Amparo** y **Santuario del
-Alma**. Sus requisitos se detallan en A-04 y A-10.
+El ascenso consta de tres pruebas: **Dominio**, **Amparo** y **Santuario**. Sus
+requisitos se detallan en A-04 y A-10.
 
 #### Iniciado → Adepto
 
@@ -170,9 +170,10 @@ tres pruebas:
 2. **Amparo:** asistir y acompañar emocionalmente a otro Aprendiz que atraviesa
    una situación de angustia, sin depender del uso del don. Es la preparación
    básica para ayudar a otro Vinculado.
-3. **Santuario del Alma:** ser expuesto a una intrusión real y leve de la
-   Sombra y rechazarla mediante el Santuario del Alma, sobreviviendo como
-   consecuencia de ese rechazo. El ejercicio se describe en A-10.
+3. **Santuario:** ser expuesto a una intrusión real y leve de la Sombra y
+   rechazarla mediante el ejercicio defensivo del Santuario del Alma,
+   sobreviviendo como consecuencia de ese rechazo. El ejercicio se describe
+   en A-10.
 
 En general, dominar una técnica suele ser el requisito más sencillo. Muchos
 Vinculados ya dominan al menos una antes de ingresar en una escuela Maeghis.
@@ -465,8 +466,9 @@ que otro Vinculado también resulte Tocado. El contagio es menos probable en
 las etapas tempranas, cuando otro Maeghis puede intervenir mediante el mismo
 ejercicio, aunque el riesgo permanece y exige cuidado. Una vez confirmada la
 intrusión, se debe acudir a un **Vinculado Sombrío** para recibir limpieza o
-continuar el Santuario hasta dejar de percibir la sombra. Siempre se recomienda
-esa atención especializada.
+continuar el Santuario hasta dejar de percibir la Sombra. La conversación
+también recomienda siempre visitar a un **Siniestro**, sin aclarar si ambas
+denominaciones se refieren al mismo especialista o a funciones distintas.
 
 El **Mar de Dirak** es una falla catastrófica del Santuario y una señal
 inequívoca de la incubación de un engendro de Sombra; significa muerte
@@ -541,6 +543,9 @@ La preparación para los exámenes de Adepto y Experto puede realizarse en otros
 colegios, aunque la evaluación se centraliza en Veleskaria. Las funciones
 administrativas de las sedes y su relación con los colegios quedan sin definir.
 
+La conversación también afirma que **Rendard Steinert obtuvo el grado de
+Adepto en el Colegio Vasaggo**.
+
 ### A-13. Voluntariedad pública y presión imperial
 
 La formación Maeghis se presenta públicamente como voluntaria. El Imperio
@@ -552,7 +557,6 @@ viven.
 
 ## Asuntos pendientes
 
-- Precisar la relación entre Aprendiz, Iniciado y la licencia profesional.
 - Precisar la duración exigida para sostener la Devoción y los criterios
   concretos de evaluación que no quedaron fijados para las pruebas acordadas.
 - Precisar si la prueba de Exterminio exige algo más que enfrentarse a un
@@ -568,6 +572,11 @@ viven.
   Maeghis.
 - Precisar las funciones administrativas de las sedes de la Möes Tábura y su
   relación con los colegios.
+- Precisar cómo se relaciona el grado de Adepto obtenido por Rendard Steinert
+  en el Colegio Vasaggo con la centralización de los exámenes en Veleskaria.
+- Precisar si el Vinculado Sombrío que atiende intrusiones y el Siniestro
+  recomendado en la conversación son la misma figura o cumplen funciones
+  distintas.
 - Continuar la discusión de las clasificaciones profesionales.
 - Proponer un nombre corto para quienes poseen el Don de la Flecha.
 - Determinar si la modificación de trayectorias y la percepción desde los
