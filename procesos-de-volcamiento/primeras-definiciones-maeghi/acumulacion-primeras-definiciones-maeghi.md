@@ -465,10 +465,8 @@ La intrusión de la Sombra es contagiosa: un Vinculado Tocado puede provocar
 que otro Vinculado también resulte Tocado. El contagio es menos probable en
 las etapas tempranas, cuando otro Maeghis puede intervenir mediante el mismo
 ejercicio, aunque el riesgo permanece y exige cuidado. Una vez confirmada la
-intrusión, se debe acudir a un **Vinculado Sombrío** para recibir limpieza o
-continuar el Santuario hasta dejar de percibir la Sombra. La conversación
-también recomienda siempre visitar a un **Siniestro**, sin aclarar si ambas
-denominaciones se refieren al mismo especialista o a funciones distintas.
+intrusión, se debe acudir a un **Siniestro** para recibir limpieza o continuar
+el Santuario hasta dejar de percibir la Sombra.
 
 El **Mar de Dirak** es una falla catastrófica del Santuario y una señal
 inequívoca de la incubación de un engendro de Sombra; significa muerte
@@ -543,8 +541,8 @@ La preparación para los exámenes de Adepto y Experto puede realizarse en otros
 colegios, aunque la evaluación se centraliza en Veleskaria. Las funciones
 administrativas de las sedes y su relación con los colegios quedan sin definir.
 
-La conversación también afirma que **Rendard Steinert obtuvo el grado de
-Adepto en el Colegio Vasaggo**.
+**Rendard Steinert (Ren) es Maeghis de grado Iniciado y recibió su formación
+Maeghis en el Colegio Vasaggo.**
 
 ### A-13. Voluntariedad pública y presión imperial
 
@@ -572,11 +570,6 @@ viven.
   Maeghis.
 - Precisar las funciones administrativas de las sedes de la Möes Tábura y su
   relación con los colegios.
-- Precisar cómo se relaciona el grado de Adepto obtenido por Rendard Steinert
-  en el Colegio Vasaggo con la centralización de los exámenes en Veleskaria.
-- Precisar si el Vinculado Sombrío que atiende intrusiones y el Siniestro
-  recomendado en la conversación son la misma figura o cumplen funciones
-  distintas.
 - Continuar la discusión de las clasificaciones profesionales.
 - Proponer un nombre corto para quienes poseen el Don de la Flecha.
 - Determinar si la modificación de trayectorias y la percepción desde los
