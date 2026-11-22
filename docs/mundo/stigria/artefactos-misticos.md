@@ -49,4 +49,4 @@ su propia materia, construcción y efectos.
 - `docs/mundo/stigria/toque-residual.md`
 - `docs/personajes/iyuri-khan.md`
 - `docs/personajes/rendard-steinert.md`
-- `../../../fragmentos/el-custodio-imperial.md`
+- `../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md`

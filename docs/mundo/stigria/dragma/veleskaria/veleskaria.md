@@ -79,7 +79,7 @@ escritura. Esa cultura real no existe dentro del mundo.
 
 ## Referencias
 
-- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
+- [El capitán y el guardia](../../../../../fragmentos/saga-de-iyuri-khan/el-capitan-y-el-guardia.md)
 - `docs/casas/voresk.md`
 - `docs/casas/korzan.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`

@@ -40,7 +40,7 @@ establecido una continuidad entre ellos y los Gheran históricos.
 
 ## Referencias
 
-- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../../../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - `docs/casas/hammer.md`
 - `docs/casas/eberwulf.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`

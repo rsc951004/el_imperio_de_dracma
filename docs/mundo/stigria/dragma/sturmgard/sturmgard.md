@@ -82,7 +82,8 @@ reservados.
 
 ## Referencias
 
-- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
+- [El niño de la flecha](../../../../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)
+- [La despedida de Oskar](../../../../../fragmentos/saga-de-iyuri-khan/la-despedida-de-oskar.md)
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/organizaciones/bloque-de-hierro.md`

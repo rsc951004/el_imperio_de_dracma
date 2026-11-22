@@ -11772,7 +11772,7 @@ Si después de esta pasada el agente **vuelve a resumir los grandes momentos en 
 ## Prompt:
 16/11/2026, 16:07:26
 
-Revisé [El niño de la flecha](/home/rsc951004/Proyectos/el_imperio/fragmentos/el-nino-de-la-flecha.md) y registré la revisión en [notas editoriales](/home/rsc951004/Proyectos/el_imperio/docs/notas.md).
+Revisé [El niño de la flecha](/home/rsc951004/Proyectos/el_imperio/fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md) y registré la revisión en [notas editoriales](/home/rsc951004/Proyectos/el_imperio/docs/notas.md).
 
 Amplié la huida, el primer encuentro con Oskar, el cautiverio, la decisión de Iyuri de formarse y los tres años de correspondencia. Las cartas y el reencuentro dan ahora más peso a la confianza que precede al beso. Condensé parte de la exposición sobre Nimri durante el rescate y ajusté los diálogos de los Cuervos.
 

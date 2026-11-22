@@ -43,7 +43,7 @@ y convirtió a Nimri en su nuevo foco persistente.
 
 ## Referencias
 
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
+- [El niño de la flecha](../../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)
 - [Iyuri Khan](../iyuri-khan.md)
 - [Benji Perjhan](benji-perjhan.md)
 - [Nimri Jhamali](nimri-jhamali.md)

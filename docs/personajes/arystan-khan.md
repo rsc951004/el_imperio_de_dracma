@@ -30,8 +30,8 @@ alado.
 
 ## Referencias
 
-- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [En el corazón de la Sombra](../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)
 - [Quimeras](../entidades/quimeras.md)
 - [Desfase](../mundo/stigria/desfase.md)
 - [Canción «Phardazul, Phardazul»](../mundo/stigria/cancion-phardazul.md)

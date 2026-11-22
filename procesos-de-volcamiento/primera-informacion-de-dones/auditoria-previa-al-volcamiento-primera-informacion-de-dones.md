@@ -164,8 +164,8 @@ permanece pendiente.
   `docs/mundo/astria/historia-antigua-de-astria-y-erebia.md`, junto con las
   cronologías y referencias que se determinen en el plan posterior.
 - Maeghis: índices, fichas de Portadores e Invocadores, Táburas, escuelas,
-  personajes y `fragmentos/el-custodio-imperial.md` y
-  `fragmentos/el-nino-de-la-flecha.md`.
+  personajes y `fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md` y
+  `fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md`.
 - Forja/Quimera: fichas de don, quimeras, dragones, desfase y personajes; deben
   distinguirse las apariciones no relacionadas del término «Forja».
 - Conocimiento velado: revisar las marcas de Inits y Ose si se transfieren

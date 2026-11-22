@@ -80,7 +80,7 @@ general.
 
 ## Referencias
 
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
+- [La despedida de Oskar](../../../fragmentos/saga-de-iyuri-khan/la-despedida-de-oskar.md)
 - `docs/mundo/stigria/dragma/guerras-misticas.md`
 - `docs/entidades/quimeras.md`
 - `docs/entidades/dragones.md`

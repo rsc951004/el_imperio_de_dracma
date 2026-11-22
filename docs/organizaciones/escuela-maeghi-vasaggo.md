@@ -19,4 +19,4 @@ prestigio no implica que el colegio fuera deficiente.
 
 - [Möes Tábura](../taburas/moes-tabura.md)
 - [Rendard Steinert](../personajes/rendard-steinert.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

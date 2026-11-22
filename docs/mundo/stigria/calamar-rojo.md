@@ -15,5 +15,6 @@ establecido.
 - [Iyuri Khan](../../personajes/iyuri-khan.md)
 - [Rendard Steinert](../../personajes/rendard-steinert.md)
 - [Mort Tábura](../../taburas/mort-tabura.md)
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El capitán y el guardia](../../../fragmentos/saga-de-iyuri-khan/el-capitan-y-el-guardia.md)
+- [En el corazón de la Sombra](../../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

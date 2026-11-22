@@ -10,7 +10,7 @@ y la identidad y relación de las voces que hablaron mediante ella.
 
 ## Referencias
 
-- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - [Gin](gin.md)
 - [Astor Vârdescu, Señor de la Sangre y el Hueso](astor-vardescu.md)
 - [Upyria](../mundo/stigria/upyria.md)

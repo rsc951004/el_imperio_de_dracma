@@ -15,4 +15,4 @@ Nimri Jhamali sometió al Engendro de la mansión Khan y lo introdujo en su Pozo
 - [La Sombra](../../entidades/sombra.md)
 - [Portadores](../../entidades/portadores.md)
 - [Nimri Jhamali](../../personajes/historicos/nimri-jhamali.md)
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
+- [El niño de la flecha](../../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)

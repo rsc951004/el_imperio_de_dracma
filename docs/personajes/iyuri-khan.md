@@ -116,10 +116,13 @@ Desde niño se sentía fascinado por Flammengard, Phardazul, Leandrin Rheiner y
 las quimeras. Su comentario sobre un grimyi del desierto forma parte de ese
 interés personal.
 
-## Fragmento
+## Fragmentos
 
-- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [El capitán y el guardia](../../fragmentos/saga-de-iyuri-khan/el-capitan-y-el-guardia.md)
+- [El niño de la flecha](../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)
+- [La despedida de Oskar](../../fragmentos/saga-de-iyuri-khan/la-despedida-de-oskar.md)
+- [En el corazón de la Sombra](../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)
 
 ## Referencias
 

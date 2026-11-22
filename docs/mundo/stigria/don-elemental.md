@@ -11,4 +11,4 @@ una taxonomía ni capacidades generales adicionales.
 ## Referencias
 
 - [Don del Caos](don-del-caos.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

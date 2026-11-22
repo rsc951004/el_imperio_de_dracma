@@ -19,4 +19,4 @@ menciona a un grimyi que hablaba solo.
 - [Leandrin Rheiner](../personajes/historicos/leandrin-rheiner.md)
 - [Eisengard](../mundo/stigria/dragma/eisengard/eisengard.md)
 - [Flammengard](../mundo/stigria/dragma/flammengard/flammengard.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

@@ -49,4 +49,4 @@ desde Leandrin Rheiner, siglos atrás.
 - [Guerras Místicas](../mundo/stigria/dragma/guerras-misticas.md)
 - [Phardazul](../mundo/stigria/dragma/flammengard/phardazul.md)
 - [Gheran nómades](../mundo/stigria/gheran-nomades.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

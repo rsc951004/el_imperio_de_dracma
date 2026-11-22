@@ -1,6 +1,6 @@
 # El custodio imperial: acumulación de trabajo
 
-Estado: **revisión incompleta**. Este documento no es canon ni sustituye la lectura y auditoría íntegra del PDF. El destino del relato fue decidido expresamente: `fragmentos/el-custodio-imperial.md`.
+Estado: **revisión incompleta**. Este documento no es canon ni sustituye la lectura y auditoría íntegra del PDF. El destino del relato fue decidido expresamente: `fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md`.
 
 ## Fuente
 

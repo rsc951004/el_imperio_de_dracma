@@ -31,4 +31,4 @@ ordenado. No se establece una jerarquía completa.
 - [Academia Imperial de Custodios de Dracma](../../organizaciones/academia-imperial-de-custodios.md)
 - [Academia Real de Custodios de Eisengard](../../organizaciones/academia-real-de-custodios-de-eisengard.md)
 - [Cocodrilos de Mar](../../organizaciones/cocodrilos-de-mar.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

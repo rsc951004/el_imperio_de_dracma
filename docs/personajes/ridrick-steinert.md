@@ -10,4 +10,4 @@ Iyuri Khan lo conoce. No hay más datos establecidos en esta ficha.
 ## Referencias
 
 - [Casa Steinert](../casas/steinert.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

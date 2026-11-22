@@ -58,7 +58,9 @@ Energía geotérmica y minería volcánica. Centro de estudios pirománticos.
 
 ## Referencias
 
-- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
+- [El niño de la flecha](../../../../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)
+- [El capitán y el guardia](../../../../../fragmentos/saga-de-iyuri-khan/el-capitan-y-el-guardia.md)
+- [La despedida de Oskar](../../../../../fragmentos/saga-de-iyuri-khan/la-despedida-de-oskar.md)
 - `docs/12-reinos.md`
 - `docs/casas/wolfen.md`
 - `docs/casas/gundrek.md`

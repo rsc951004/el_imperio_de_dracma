@@ -19,5 +19,5 @@ Agra. Se trata de una profecía cuya verdad o cumplimiento no están confirmados
 
 ## Referencias
 
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)
 - [Phardazul Raik](stigria/phardazul-raik.md)

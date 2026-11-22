@@ -30,7 +30,7 @@ experiencia sexual y siguen insistiendo en repetirla.
 
 ## Referencias
 
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
+- [El niño de la flecha](../../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)
 - [Iyuri Khan](../iyuri-khan.md)
 - [Tuk Neyzeh](tuk-neyzeh.md)
 - [Nimri Jhamali](nimri-jhamali.md)

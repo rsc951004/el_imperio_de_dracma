@@ -28,4 +28,4 @@ Maeghi Maestro como consecuencia del incidente.
 - `docs/entidades/sombra.md`
 - `docs/personajes/iyuri-khan.md`
 - [Pozo de Sombras](../mundo/stigria/pozo-de-sombras.md)
-- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
+- [El niño de la flecha](../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)

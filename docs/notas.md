@@ -1,5 +1,47 @@
 # Notas editoriales
 
+### Corrección literaria de la saga de Iyuri Khan (2026-11-22)
+
+Se ajustaron transiciones y formulaciones en «El capitán y el guardia», «El
+niño de la flecha» y «En el corazón de la Sombra». En Upyria se reemplazó la
+etiqueta «jóvenes adultos», se describió la conducta observable de Rendard sin
+equiparar falta de resistencia y consentimiento, se ancló en la percepción de
+Iyuri la lectura de la conducta de Rendard y se condensó la pausa descriptiva
+anterior a la transformación de Beku, conservando la información canónica. Se
+preservó el alcance de la intimidad narrada, sin añadir acciones. En «El niño
+de la flecha» se nombró la extracción de la garra desde la percepción de Iyuri.
+En «El capitán y el guardia» se aclaró la secuencia entre la conspiración, su
+detención y la reacción de Iyuri. No se alteraron acontecimientos, edades,
+relaciones ni reglas del canon. «La despedida de Oskar» y «El custodio
+imperial» se conservaron sin cambios.
+
+### Organización de la saga de Iyuri Khan (2026-11-22)
+
+Se trasladaron a `fragmentos/saga-de-iyuri-khan/` los cinco fragmentos
+canónicos del arco de Iyuri: «El capitán y el guardia», «El niño de la flecha»,
+«La despedida de Oskar», «El custodio imperial» y «En el corazón de la Sombra».
+Los archivos conservaron sus nombres y contenido durante el traslado. Se
+actualizaron el índice de fragmentos y las referencias internas afectadas. La
+organización no alteró diálogos, acontecimientos, cronología ni relaciones
+entre personajes; cada fragmento conserva su autonomía literaria y condición
+canónica.
+
+### Refragmentación de «El niño de la flecha» (2026-11-22)
+
+El material se distribuyó en «El capitán y el guardia», «El niño de la
+flecha» —reducido al episodio de la Incursión y el rescate—, «La despedida de
+Oskar» y «En el corazón de la Sombra». Se conservaron los acontecimientos y
+diálogos de la fuente; los cambios narrativos se limitaron a los títulos y
+encabezados necesarios para la separación. Se actualizaron el índice y las
+referencias afectadas. «En el corazón de la Sombra» transcurre aproximadamente
+diez años después del final de las vacaciones de Ren; no se fijó fecha absoluta
+ni se añadió esta referencia a la narración.
+La reserva editorial «El Gran Otro» permanece fuera del índice y de los
+fragmentos canónicos. El único anclaje autorizado para su cierre es que, al
+terminar las vacaciones de Ren, este acompañará a Arystan de regreso a su hogar
+en Flammengard; se conserva aquí solo como referencia de continuidad, sin
+desarrollar ni narrar ese regreso.
+
 ### Volcamiento del primer intento de guía de la Sombra (2026-11-22)
 
 Ejecutados los ocho bloques aprobados de AU-01–AU-11 conforme a la

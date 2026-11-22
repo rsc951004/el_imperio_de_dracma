@@ -15,4 +15,4 @@ fecha de publicación, editorial ni contenido completo.
 - [Jabber Roudha](../../personajes/jabber-roudha.md)
 - [Phardazul](dragma/flammengard/phardazul.md)
 - [Leandrin Rheiner](../../personajes/historicos/leandrin-rheiner.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

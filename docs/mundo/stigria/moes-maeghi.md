@@ -19,4 +19,4 @@ licencias permanecen pendientes.
 
 - [Möes Tábura](../../taburas/moes-tabura.md)
 - [Iyuri Khan](../../personajes/iyuri-khan.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

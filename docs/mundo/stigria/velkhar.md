@@ -28,7 +28,7 @@ Durante la Edad de Plata, Iulien entró a Velkhar desde Esteria y liberó Roshdo
 
 ## Referencias
 
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - `docs/mundo/stigria/stomur.md`
 - `docs/mundo/stigria/edad-del-hierro.md`
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`

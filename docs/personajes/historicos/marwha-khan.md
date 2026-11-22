@@ -10,7 +10,7 @@ mansión. En la playa recobró débilmente la conciencia y bendijo a su hijo.
 
 ## Referencias
 
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El niño de la flecha](../../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)
 - `docs/personajes/iyuri-khan.md`
 - `docs/casas/khan.md`

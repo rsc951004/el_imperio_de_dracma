@@ -239,8 +239,8 @@ denominación Siniestro.
 Una transferencia futura afectaría, como mínimo, las fichas de entidades,
 instituciones, personajes y mundo ya identificadas en los hallazgos, además
 de índices y enlaces. También deberá revisar los fragmentos
-[`El niño de la flecha`](../../fragmentos/el-nino-de-la-flecha.md) y
-[`El custodio imperial`](../../fragmentos/el-custodio-imperial.md), que
+[`El niño de la flecha`](../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md) y
+[`El custodio imperial`](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md), que
 contienen las escenas de Santuario, la formación de Ren, el reconocimiento de
 Iyuri y el Mar de Dirak. Esta enumeración identifica dependencias; no es un
 plan de cambios ni autoriza su ejecución.

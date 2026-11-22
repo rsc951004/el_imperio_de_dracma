@@ -20,4 +20,4 @@ genealogía anterior, riqueza ni historia política.
 - [Keven Steinert](../personajes/keven-steinert.md)
 - [Mila Hubbe](../personajes/mila-hubbe.md)
 - [Rendard Steinert](../personajes/rendard-steinert.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

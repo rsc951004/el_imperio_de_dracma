@@ -35,7 +35,7 @@ misticismo. La ortodoxia sobrevive principalmente en círculos religiosos.
 
 ## Referencias
 
-- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
+- [El niño de la flecha](../../../../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)
 - `docs/mundo/stigria/historia-sheijad.md`
 - `docs/mundo/stigria/dragma/lemuria/culto-a-ishbaal.md`
 - `docs/casas/khan.md`

@@ -14,4 +14,4 @@ a los Cocodrilos de Mar. La especialidad exige grado Adepto o superior.
 ## Referencias
 
 - [Custodios](../mundo/stigria/custodios.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

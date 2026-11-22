@@ -10,7 +10,7 @@ motivaciones de Mortis permanecen sin desarrollar.
 
 ## Referencias
 
-- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - [Arystan Khan](arystan-khan.md)
 - [Ellis Rosamund](ellis-rosamund.md)
 - [Grimm](../entidades/grimm.md)

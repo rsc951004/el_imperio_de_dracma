@@ -42,7 +42,7 @@ rostro de ceniza en la ceremonia.
 
 ## Referencias
 
-- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
+- [La despedida de Oskar](../../../../../fragmentos/saga-de-iyuri-khan/la-despedida-de-oskar.md)
 - [Guerras Místicas](../guerras-misticas.md)
 - [Iyuri Khan](../../../../personajes/iyuri-khan.md)
 - [Dragones](../../../../entidades/dragones.md)

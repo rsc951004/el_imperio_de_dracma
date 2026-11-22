@@ -10,6 +10,6 @@ de Hueso como lugar de entrega. Sus características permanecen sin desarrollar.
 
 ## Referencias
 
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - `docs/mundo/stigria/reinos-sombrios.md`
 - `docs/personajes/astor-vardescu.md`

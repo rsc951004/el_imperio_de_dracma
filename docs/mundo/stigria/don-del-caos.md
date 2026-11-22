@@ -16,4 +16,4 @@ libros no se asumen aquí como reglas universales.
 
 - [Portadores](../../entidades/portadores.md)
 - [Rendard Steinert](../../personajes/rendard-steinert.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

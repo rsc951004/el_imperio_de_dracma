@@ -15,4 +15,4 @@ añade letra no documentada.
 - [Nana Fey](../../personajes/historicos/fey-gilmora.md)
 - [Iyuri Khan](../../personajes/iyuri-khan.md)
 - [Arystan Khan](../../personajes/arystan-khan.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

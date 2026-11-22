@@ -764,8 +764,8 @@ recibe autorización de incorporación.
   `docs/personajes/historicos/tuk-neyzeh.md`,
   `docs/personajes/historicos/benji-perjhan.md`,
   `docs/personajes/historicos/nimri-jhamali.md`, `docs/personajes.md`,
-  `fragmentos/el-nino-de-la-flecha.md`,
-  `fragmentos/el-custodio-imperial.md` y `fragmentos/indice.md` solo si se
+  `fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md`,
+  `fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md` y `fragmentos/indice.md` solo si se
   incorpora o modifica una pieza.
 - **Alcance:** llevar a las fichas los antecedentes, grados, dones, estados,
   relaciones y consecuencias aprobados para Tuk, Benji, Iyuri, Ren y Nimri.

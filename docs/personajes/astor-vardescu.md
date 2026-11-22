@@ -16,7 +16,7 @@ receptáculo del Rey Podrido. Es mayor y más poderoso que Vizar.
 
 ## Referencias
 
-- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - [Beku](beku.md)
 - `docs/mundo/stigria/strygoria.md`
 - `docs/casas/vardescu.md`

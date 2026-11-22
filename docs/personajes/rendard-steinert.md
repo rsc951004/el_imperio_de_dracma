@@ -36,8 +36,8 @@ cuando Iyuri recurrió a su Santuario del Alma.
 
 ## Referencias
 
-- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [En el corazón de la Sombra](../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)
 - [Eisengard](../mundo/stigria/dragma/eisengard/eisengard.md)
 - [Keven Steinert](keven-steinert.md)
 - [Casa Steinert](../casas/steinert.md)

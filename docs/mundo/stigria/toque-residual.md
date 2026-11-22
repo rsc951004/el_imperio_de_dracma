@@ -35,4 +35,4 @@ creó la Sombra. No está confirmado que así sea.
 - [Santuario del Alma](santuario-del-alma.md)
 - [Sellos de Andromalius](artefactos-misticos.md)
 - [Iyuri Khan](../../personajes/iyuri-khan.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

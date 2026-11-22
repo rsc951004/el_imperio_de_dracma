@@ -157,7 +157,7 @@ Flota mixta: **galeras pesadas** bloquean el estrecho con presencia imponente; *
 
 ## Referencias
 
-- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../../../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/dragma/alessya/alessya.md`
 - `docs/casas/thalyros.md`

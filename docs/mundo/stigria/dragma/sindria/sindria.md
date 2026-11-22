@@ -87,7 +87,7 @@ público, continuo ni oficial del reino.
 
 ## Referencias
 
-- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
+- [El capitán y el guardia](../../../../../fragmentos/saga-de-iyuri-khan/el-capitan-y-el-guardia.md)
 - `docs/casas/drazar.md`
 - `docs/casas/velkar.md`
 - `docs/mundo/stigria/dragma/esteria/esteria.md`

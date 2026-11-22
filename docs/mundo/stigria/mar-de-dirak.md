@@ -17,5 +17,5 @@ Iyuri Khan contempló el Mar de Dirak en el enfrentamiento de la mansión Khan. 
 - [Toque Residual](toque-residual.md)
 - [Iyuri Khan](../../personajes/iyuri-khan.md)
 - [Fey Gilmora](../../personajes/historicos/fey-gilmora.md)
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El niño de la flecha](../../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

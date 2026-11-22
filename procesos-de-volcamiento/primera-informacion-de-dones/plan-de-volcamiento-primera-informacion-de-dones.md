@@ -123,8 +123,8 @@ editorial del volcamiento; sus entradas históricas no se reescribirán.
 | `docs/personajes/sandor-solarys.md` | Cambiar la clasificación de Leondras cuando designa la licencia imperial. |
 | `docs/taburas/grim-tabura.md` | Actualizar la referencia a una licencia imperial para integrarse en la Tábura. |
 | `docs/taburas/moes-tabura.md` | Cambiar la definición de licencia, sus usos en singular/plural y las menciones de Möes Maeggi, sin alterar funciones institucionales. |
-| `fragmentos/el-custodio-imperial.md` | Revisar cada aparición, incluidas las intervenciones dialogadas, para cambiar Maeggi únicamente cuando designa la certificación imperial; conservar sintaxis, voz y sentido narrativo. |
-| `fragmentos/el-nino-de-la-flecha.md` | Revisar las menciones de Maeggi según su referente en escena; cambiar las referencias imperiales y conservar cualquier uso que corresponda a Maeyis/Maeyiss o a otro término propio. |
+| `fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md` | Revisar cada aparición, incluidas las intervenciones dialogadas, para cambiar Maeggi únicamente cuando designa la certificación imperial; conservar sintaxis, voz y sentido narrativo. |
+| `fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md` | Revisar las menciones de Maeggi según su referente en escena; cambiar las referencias imperiales y conservar cualquier uso que corresponda a Maeyis/Maeyiss o a otro término propio. |
 
 ### Registro del cambio
 

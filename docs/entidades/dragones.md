@@ -30,4 +30,4 @@ despertados; no es un hecho confirmado.
 - [Phardazul](../mundo/stigria/dragma/flammengard/phardazul.md)
 - [Phardazul Raik](../mundo/stigria/phardazul-raik.md)
 - [Gheran nómades](../mundo/stigria/gheran-nomades.md)
-- [El custodio imperial](../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

@@ -21,7 +21,7 @@ alado.
 
 ## Referencias
 
-- [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - [Mortis](mortis.md)
 - `docs/personajes/arystan-khan.md`
 - `docs/personajes/millicent-rosamund.md`

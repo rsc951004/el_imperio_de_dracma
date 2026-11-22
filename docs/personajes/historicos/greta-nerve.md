@@ -7,6 +7,6 @@ había visto a Greta una vez y no había conversado con ella.
 
 ## Referencias
 
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
+- [El capitán y el guardia](../../../fragmentos/saga-de-iyuri-khan/el-capitan-y-el-guardia.md)
 - `docs/personajes/iyuri-khan.md`
 - `docs/casas/nerve.md`

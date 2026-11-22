@@ -88,7 +88,7 @@ y el destino de los huidos en Alessya permanecen pendientes.
 
 ## Referencias
 
-- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - `docs/mundo/stigria/edad-de-la-podredumbre.md`
 - `docs/mundo/stigria/suntarys.md`
 - `docs/mundo/stigria/dragma/alessya/alessya.md`

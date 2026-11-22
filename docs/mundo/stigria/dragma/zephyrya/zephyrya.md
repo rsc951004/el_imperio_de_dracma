@@ -130,7 +130,7 @@ Turismo de todo el imperio. Agricultura de planicie y ganadería. Comercio de pi
 
 ## Referencias
 
-- [El niño de la flecha](../../../../../fragmentos/el-nino-de-la-flecha.md)
+- [En el corazón de la Sombra](../../../../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - `docs/12-reinos.md`
 - `docs/mundo/stigria/dragma/alessya/alessya.md`
 - `docs/casas/zephiryon.md`

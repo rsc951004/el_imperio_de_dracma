@@ -43,4 +43,4 @@ es menos probable durante las etapas tempranas, pero el riesgo permanece.
 - [La Sombra](../../entidades/sombra.md)
 - [Mar de Dirak](mar-de-dirak.md)
 - [Iyuri Khan](../../personajes/iyuri-khan.md)
-- [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)
+- [El custodio imperial](../../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)
