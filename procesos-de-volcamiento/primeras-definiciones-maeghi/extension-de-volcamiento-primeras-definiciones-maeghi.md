@@ -1,0 +1,223 @@
+# Extensión de volcamiento: primeras definiciones Maeghi
+
+> Documento de trabajo no canónico. Reúne preguntas para una extensión del proceso Maeghi ya finalizado. No modifica ni sustituye los documentos anteriores y no autoriza cambios en el canon. La denominación vigente es **Maeghi**, invariable en singular y plural, incluida **Möes Maeghi**.
+
+## Alcance y uso
+
+Las preguntas se recuperaron de las conversaciones originales, la acumulación inicial, la auditoría previa, la acumulación de resoluciones —que incorpora la auditoría de cierre y el plan— y las fichas canónicas resultantes. No se repiten decisiones respondidas de forma inequívoca. Una respuesta puede dejar una cuestión abierta, declararla innecesaria o rechazar su desarrollo; en esos casos se registrará esa decisión sin insistir.
+
+Las preguntas se distinguen entre **reservas existentes**, cuya resolución ampliaría o cerraría una reserva ya registrada, y **aclaraciones o desarrollos opcionales**, surgidos de una ambigüedad identificable o de una reserva narrativa. No todas son necesarias para mantener válido el canon actual.
+
+Fuentes principales: [acumulación inicial](acumulacion-primeras-definiciones-maeghi.md), [auditoría previa](auditoria-previa-al-volcamiento-primeras-definiciones-maeghi.md), [acumulación de resoluciones, auditoría de cierre y plan](acumulacion-de-resolucion-primeras-definiciones-maeghi.md), [conversación del 20 de noviembre](<../../mesa-de-trabajo/ChatGPT-Primeras definiciones maeghis-20261120-1505.md>) y [continuación del 21 de noviembre](<../../mesa-de-trabajo/ChatGPT-Primeras definiciones maeghis-20261121-1247.md>). El canon resultante incluye, entre otros, `docs/taburas/moes-tabura.md`, `docs/pendientes.md`, `docs/mundo/stigria/moes-maeghi.md`, `docs/mundo/stigria/condicionamiento-maeghi.md`, `docs/mundo/stigria/don-de-la-flecha.md`, `docs/organizaciones/escuela-maeghi-vasaggo.md` y las fichas de Iyuri Khan, Rendard Steinert, Tuk Neyzeh, Benji Perjhan y Nimri Jhamali.
+
+## A. Reservas institucionales y de formación
+
+### 1. Duración de Devoción — reserva existente
+
+¿Cuánto tiempo debe alcanzar y sostener el aspirante el estado de Devoción para cumplir la prueba de ascenso a Adepto?
+
+**Referencia:** acumulación de resoluciones, R-02 y sus reservas; `docs/pendientes.md`.
+
+**Estado:** Resuelta.
+
+**Respuesta del autor:** No existe una duración fija ni universal para la prueba de Devoción. El tiempo exigido depende del examinado y del examinador y puede variar considerablemente entre casos. La evaluación consiste en demostrar el dominio del estado de Devoción durante el tiempo requerido en cada examen.
+
+**Consecuencia indicada por el autor:** debe eliminarse la reserva sobre la duración de Devoción, pues no existe ningún tiempo pendiente de definir. Esta consecuencia queda registrada para una eventual revisión posterior; no modifica el canon en esta etapa.
+
+### 2. Criterios adicionales de evaluación — reserva existente
+
+Además de los requisitos ya descritos para cada prueba, ¿hay criterios concretos adicionales que deban evaluarse para conceder los grados? Si los hay, ¿cuáles y para qué pruebas?
+
+**Referencia:** acumulación de resoluciones, R-02; `docs/pendientes.md`.
+
+**Estado:** Resuelta.
+
+**Respuesta del autor:** Además de las pruebas de ascenso, siempre se revisan los antecedentes de conducta del aspirante y otros registros pertinentes. También existe documentación administrativa y académica, incluidos los registros de promedios.
+
+**Alcance indicado por el autor:** No es necesario especificar exhaustivamente los documentos, criterios particulares ni procedimientos de revisión. Esta cuestión queda resuelta con ese nivel de definición. No crear nuevas reservas para desarrollar detalles administrativos innecesarios.
+
+### 3. Formación que distingue los grados — reserva existente
+
+¿Qué formación, contenidos o preparación distingue a cada grado aparte de las pruebas de ascenso ya fijadas? Si no se quiere detallar esa formación, ¿se conserva la reserva?
+
+**Referencia:** acumulación inicial, A-03 y asuntos pendientes; acumulación de resoluciones, R-02; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 4. Exterminio y destrucción del engendro — reserva existente
+
+Para aprobar Exterminio, ¿basta con enfrentarse a un engendro menor de la Sombra y sobrevivir, o también es necesario destruirlo?
+
+**Referencia:** acumulación inicial, A-03; acumulación de resoluciones, R-02; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 5. Clasificaciones profesionales — reserva existente
+
+¿Quieres desarrollar ahora las clasificaciones profesionales administrativas de los Maeghi? En caso afirmativo, ¿qué clasificaciones existen y qué determinan? Si no, ¿se mantiene el tema reservado?
+
+**Referencia:** acumulación inicial, A-09 y asuntos pendientes; auditoría previa, hallazgos sobre licencias; `docs/taburas/moes-tabura.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 6. Aceptación del condicionamiento — reserva existente
+
+¿Cómo se organiza la aceptación expresa del condicionamiento y qué información recibe la persona antes de aceptarlo? La pregunta se limita al procedimiento y a la información, sin equiparar aceptación con consentimiento para actos concretos.
+
+**Referencia:** acumulación de resoluciones, R-04 y auditoría de cierre; `docs/mundo/stigria/condicionamiento-maeghi.md`; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 7. Refuerzos después del grado de Maestro — reserva existente
+
+¿Cómo continúa el refuerzo del condicionamiento después del grado de Maestro? Si no se desea fijar método, responsables o frecuencia, ¿se conserva esta cuestión abierta?
+
+**Referencia:** acumulación de resoluciones, R-04 y auditoría de cierre; `docs/mundo/stigria/condicionamiento-maeghi.md`; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 8. Concesión del reconocimiento Möes Maeghi — reserva existente
+
+¿Qué procedimiento se sigue para conceder el reconocimiento extraordinario Möes Maeghi, desde la consideración de un logro hasta la decisión final?
+
+**Referencia:** acumulación de resoluciones, R-03; `docs/mundo/stigria/moes-maeghi.md`; `docs/taburas/moes-tabura.md`; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 9. Autoridad que avala o visa licencias — reserva existente
+
+¿Qué autoridad o instancia administrativa avala o visa las licencias profesionales de los Maeghi?
+
+**Referencia:** acumulación de resoluciones, R-03; `docs/mundo/stigria/moes-maeghi.md`; `docs/taburas/moes-tabura.md`; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 10. Condicionamiento adicional por ser Möes Maeghi — aclaración opcional de las conversaciones
+
+¿El reconocimiento extraordinario Möes Maeghi implica algún condicionamiento adicional al que corresponde a la trayectoria ordinaria? Esta duda aparece en la conversación original, pero no quedó resuelta ni se incorporó a las reservas finales.
+
+**Referencia:** conversación del 20 de noviembre, intercambio sobre la progresión del condicionamiento, alrededor de las 15:45.
+
+**Respuesta/decisión:** Pendiente.
+
+### 11. Voluntad propia del Init durante la comunicación personal — aclaración opcional de las conversaciones
+
+Durante el estado de comunicación personal con el Init que la conversación original denominó primero «Expansión del Vínculo» y que la resolución final define como Devoción, ¿puede el Init expresar una voluntad distinta de la del Vinculado? La pregunta quedó abierta en la conversación; no se presupone ninguna respuesta.
+
+**Referencia:** conversación del 21 de noviembre, desarrollo de la prueba de comunicación con el Init; acumulación de resoluciones, R-02.
+
+**Respuesta/decisión:** Pendiente.
+
+## B. Don de la Flecha, Anclaje y técnicas
+
+### 12. Límites y distancias — reserva existente
+
+¿Quieres fijar distancias o límites numéricos para la modificación de trayectorias o la percepción desde los objetos anclados? Si prefieres mantener esas capacidades sin cuantificar, ¿se conserva la formulación cualitativa vigente?
+
+**Referencia:** acumulación inicial, A-08; acumulación de resoluciones, R-06; `docs/mundo/stigria/don-de-la-flecha.md`; `docs/personajes/iyuri-khan.md`; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 13. Relación entre Anclaje y las otras capacidades — reserva existente
+
+¿Modificar las trayectorias de los objetos anclados y percibir el entorno desde ellos son técnicas independientes, o forman parte de la técnica de Anclaje?
+
+**Referencia:** acumulación inicial, A-08 y asuntos pendientes; acumulación de resoluciones, R-06; `docs/mundo/stigria/don-de-la-flecha.md`; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 14. Nombre breve para quienes poseen el Don de la Flecha — reserva existente
+
+¿Qué nombre breve se usa para quienes poseen el Don de la Flecha, comparable por su función denominativa a «Siniestro»? Si no quieres fijar uno, ¿se conserva la reserva?
+
+**Referencia:** acumulación inicial, A-08; acumulación de resoluciones, R-06; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 15. Relación entre técnica y maestría — reserva existente
+
+¿Cómo se relaciona el dominio de una técnica con la maestría de un don o vínculo? ¿Se desea establecer algún criterio general o mantener abierta esa relación?
+
+**Referencia:** acumulación de resoluciones, reservas de R-06; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+## C. Organización de los colegios y exámenes
+
+### 16. Funciones de las sedes y relación con los colegios — reserva existente
+
+¿Qué funciones administrativas cumplen las sedes institucionales de Veleskaria, Sindria y Eldengaria, y cómo se relacionan con los colegios de la Möes Tábura?
+
+**Referencia:** acumulación inicial, A-12; acumulación de resoluciones, R-08; `docs/taburas/moes-tabura.md`; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 17. Relación institucional de Vasaggo — reserva existente
+
+¿Qué relación institucional tiene el Colegio Vasaggo con la Möes Tábura y con su red de colegios?
+
+**Referencia:** acumulación de resoluciones, R-08; `docs/organizaciones/escuela-maeghi-vasaggo.md`; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 18. Lugar del examen de Iniciado de Ren — reserva existente
+
+¿Dónde rindió Rendard Steinert (Ren) su examen de Iniciado? La formación en Vasaggo no determina por sí sola el lugar del examen.
+
+**Referencia:** acumulación de resoluciones, R-08; `docs/organizaciones/escuela-maeghi-vasaggo.md`; `docs/personajes/rendard-steinert.md`; `docs/pendientes.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 19. Categorías de prestigio y enseñanza de Zephyrya y Sindria — aclaración de una interpretación
+
+¿Cómo se relaciona el hecho de que Zephyrya sea el segundo núcleo de enseñanza mística con el prestigio de los Colegios Reales, donde Veleskaria y Sindria ocupan los primeros lugares? ¿Son categorías distintas con criterios propios, o existe una relación más precisa entre ellas?
+
+**Referencia:** acumulación de resoluciones, R-08 y trazabilidad de detalle aprobado; `docs/taburas/moes-tabura.md`; fichas de Zephyrya y Sindria. La resolución conserva ambas formulaciones y evita equipararlas por inferencia.
+
+**Respuesta/decisión:** Pendiente.
+
+## D. Cronología, conocimiento y reservas narrativas
+
+### 20. Relación cronológica entre Erebia y Upyria — reserva narrativa
+
+¿Quieres establecer la relación temporal entre la estancia de Iyuri y Ren en Erebia y el episodio de Iyuri, Ren, Gin y Beku en Upyria, o prefieres mantener ambas referencias sin una secuencia fijada?
+
+**Referencia:** acumulación de resoluciones, R-10; `docs/personajes/iyuri-khan.md`; `docs/personajes/rendard-steinert.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 21. Interés de Ren por Gin y su relación con Iyuri — reserva narrativa
+
+¿En qué momento se sitúa el interés de Ren por Gin respecto del inicio o desarrollo de su relación amorosa con Iyuri, o prefieres dejar ese orden abierto?
+
+**Referencia:** acumulación de resoluciones, R-10; `docs/personajes/rendard-steinert.md`; `docs/personajes/iyuri-khan.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 22. Comprensión de Ren sobre su desborde — aclaración opcional de las conversaciones
+
+Ren recibió una formación Maeghi breve y desconocía muchos conceptos; Iyuri conocía el fenómeno, pero no podía prever ni cuantificar si Ren desarrollaría un desborde. ¿Quieres fijar cuándo o cómo Ren empieza a reconocer lo que le ocurre, o mantener ese descubrimiento para un desarrollo narrativo posterior?
+
+**Referencia:** conversación del 20 de noviembre, intercambios sobre Ren, Iyuri y el desborde; acumulación de resoluciones, R-10; `docs/personajes/rendard-steinert.md`.
+
+**Respuesta/decisión:** Pendiente.
+
+### 23. Ubicación y secuencia de los episodios de Iyuri anteriores a Ren — ampliación narrativa opcional
+
+¿Quieres fijar la ubicación o el orden narrativo de los encuentros de Iyuri anteriores a Ren, o prefieres conservar esos detalles para cuando se escriban las escenas?
+
+**Referencia:** acumulación de resoluciones, R-10 y su trazabilidad; conversación del 21 de noviembre.
+
+**Respuesta/decisión:** Pendiente.
+
+### 24. Desarrollo escénico de Tuk y Benji — ampliación narrativa opcional
+
+¿Quieres fijar dónde y en qué secuencia se desarrollará la dinámica íntima de Tuk y Benji, o prefieres conservar esos detalles para cuando se escriban las escenas?
+
+**Referencia:** acumulación de resoluciones, R-10 y su trazabilidad; acumulación inicial, A-06; conversaciones del 20 y 21 de noviembre.
+
+**Respuesta/decisión:** Pendiente.
+
+## Registro de avance
+
+De las 24 preguntas, las preguntas 1 y 2 están resueltas y las preguntas 3–24 siguen pendientes. Se responderán de una en una en el orden numerado. Las respuestas se registrarán fielmente; cuando el autor declare una pregunta innecesaria, no desarrollada o abierta, se anotará esa decisión y se continuará con la siguiente.

@@ -114,7 +114,7 @@
 - Un **Engendro de Sombra** nace del pecho de un Vinculado cuando una Semilla Oscura consume por completo su vínculo; el nacimiento mata al afectado.
 - Es extremadamente fuerte, poderoso y violento. No conserva recuerdos, intenciones ni motivaciones humanas; no se deteriora ni se pudre. Es una bestia que ansía muerte y destrucción y se alimenta de Vinculados y no Vinculados por igual.
 - Su sola presencia produce Incursiones, Sombra Residual muy corruptiva y un Toque intenso y rápido en Vinculados cercanos. No busca crear otros Engendros: normalmente mata a sus víctimas antes de que puedan convertirse en uno.
-- Puede ser contenido solo por místicos con gran poder de combate. Solo los **fulgarentes** pueden eliminarlo definitivamente.
+- Puede ser contenido solo por místicos con gran poder de combate. Solo los **Fulgurantes** pueden eliminarlo definitivamente.
 - Puede existir eternamente, vagando hasta que un estímulo de vida reactive su hambre de carne fresca y su impulso destructivo. No envejece, se pudre ni muere por el paso del tiempo.
 
 ## 6. Siniestros y Pozo de Sombras
