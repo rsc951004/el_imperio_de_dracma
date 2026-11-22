@@ -21,7 +21,7 @@
 
 ### Convenciones terminológicas
 
-- El don se denomina correctamente **Fulgor** en la época de Iyuri y en el conocimiento académico. «Fulgor solar», «Portador del Sol» e «Invocador del Sol» son denominaciones históricas o populares que persisten, especialmente en la tradición veranense y en títulos asociados a Therin, aunque el don no tenga relación con el sol ordinario.
+- El nombre académico completo es **Don del Fulgor**, vigente en la época de Iyuri. «Fulgor solar», «Portador del Sol» e «Invocador del Sol» son denominaciones históricas o populares que persisten, especialmente en la tradición veranense y en títulos asociados a Therin, aunque el don no tenga relación con el sol ordinario.
 - **Veranese** es el gentilicio geográfico unisex singular de las personas de las Costas del Verano; **veranenses**, el plural. Comprende a quienes proceden de Lysarya, Vesperya y Zephyrya. No altera los gentilicios particulares lisario, vespirio y zephyrio.
 - «Veranese» sustituye por completo las denominaciones geográficas previas para ese conjunto. En un futuro volcamiento no se conservarán referencias ni explicaciones sobre las formas sustituidas.
 - El término correcto es **Siniestro**; no se usará «Sombrío» para estos Vinculados.
@@ -38,7 +38,7 @@
 
 ### Materialidad, sol y Fulgor
 
-- Los Mobius adquirieron forma física al materializarse con los Inits en Agra. En muchos lugares el Surgimiento ocurrió de noche; con la llegada de la luz solar, perdieron esa materialidad.
+- Los Mobius adquirieron forma física al materializarse con los Inits en Agra. En muchos lugares el Surgimiento ocurrió de noche. La exposición a la luz solar les hizo perder esa materialidad sin destruirlos.
 - Durante siglos se creyó que la luz solar los destruía. Esa interpretación influyó en Astria y llegó a Stigria, incluida la comprensión histórica del don de Therin.
 - El Fulgor es un elemento místico nacido de la necesidad humana de combatir a la Sombra y vinculado al Init Dionisia. No es luz solar ordinaria.
 - **Nada en nuestro mundo puede destruir a un Mobius.** El Fulgor es el único don capaz de llevarlo a un estado de inactividad tan profundo que prácticamente podría considerarse muerto, sin destruirlo.
@@ -69,7 +69,7 @@
 
 - En una persona no Vinculada, la Corrupción puede anular completamente el ego y originar un **Corrupto**. La persona que era antes de corromperse está muerta; el Imperio lo reconoce así en sus estatutos, aunque el cuerpo camine, hable y pueda conservar recuerdos.
 - El ejemplo de Benji ante su madre lo expresa: Tamir puede parecer, hablar y recordar como el hermano e hijo perdido, pero ya no es Tamir. Benji es miembro de los Cuervos Grises y amigo y amante de Tuk.
-- Un Corrupto humano actúa conforme a los aspectos oscuros previos de su personalidad: miedos, temores y pensamientos negativos. Los animales también pueden corromperse; su conducta tiende a ser más errática y violenta por la naturaleza limitada de su psique.
+- Los actos de un Corrupto humano están impulsados tanto por los aspectos oscuros de su personalidad anterior, incluidos sus miedos, temores y pensamientos negativos, como por los designios de la Sombra. Los animales también pueden corromperse; su conducta tiende a ser más errática y violenta por la naturaleza limitada de su psique.
 - La transformación completa en Corrupto es irreversible, pese a investigaciones, experimentos y carreras dedicadas a revertirla hasta la época de Iyuri. Antes de completarse, la persona afectada puede salvarse al alejarse de la fuente y recibir la limpieza de un místico Siniestro.
 - Los no Vinculados no pueden usar el Santuario del Alma; el condicionamiento mental no les produce Resonancia ni Disonancia. Por ello cuentan con menos herramientas frente a la Corrupción.
 - Los Corruptos pueden destruirse definitivamente mediante el Fulgor, fuego o cualquier acción que destruya completamente su cuerpo físico.
@@ -90,15 +90,14 @@
 ### Condicionamiento, Resonancia y Disonancia
 
 - La lucha activa y preventiva contra la Sombra fundamenta internamente la Möes Tábura, la institución Maeghi y el progreso místico. Públicamente no se presenta como la única ni necesariamente principal función de la educación Maeghi.
-- El Imperio y la Möes consideran deseable que todo Vinculado esté preparado para luchar contra la Sombra. Tras ello está el precedente de la antigua Erebia: un Mobius causó la caída completa del continente y destruyó una civilización que, incluso en tiempos de Iyuri, lleva siglos reconstruyéndose sin recuperar su esplendor previo.
-- El condicionamiento mental, el entrenamiento básico y la generación o implantación de Resonancia o Disonancia forman parte de esa preparación.
-- Las instituciones conocen las consecuencias psicológicas, emocionales, socioafectivas y sexuales del condicionamiento y las aceptan como precio por ganar terreno contra la Sombra. El condicionamiento no se cuestiona institucionalmente, y el propio proceso deja fuera ese cuestionamiento en quienes han sido condicionados: perciben sus prácticas y sus efectos como naturales.
-- Esta imposibilidad se limita a cuestionar el condicionamiento; no elimina la voluntad, el juicio, la inteligencia ni la autonomía general.
+- El Imperio y la Möes consideran deseable que todo Vinculado esté preparado para luchar contra la Sombra. Esta postura tiene como precedente la devastación de Erebia por un Mobius, que destruyó su antigua civilización. El continente tardó siglos en reconstruirse y, en tiempos de Iyuri, todavía no ha recuperado su antiguo esplendor.
+- El condicionamiento mental y el entrenamiento básico forman parte de esa preparación.
+- Las instituciones conocen las consecuencias psicológicas, emocionales, socioafectivas y sexuales del condicionamiento y las aceptan como precio por ganar terreno contra la Sombra. El condicionamiento no se cuestiona institucionalmente. Quienes han pasado por el proceso tienden a percibir el condicionamiento, sus prácticas y sus consecuencias como algo normal que no cuestionan. Conservan su voluntad, juicio, inteligencia y autonomía general.
 - Antes de convertirse en Maeghi, los aspirantes son informados exhaustivamente de las consecuencias posibles, incluidos los cambios socioafectivos, la hipersexualización, la aceptación de la sexualidad y de relaciones efímeras en Resonantes, y la percepción natural del aislamiento en Disonantes. Los efectos llevan siglos estudiados y documentados, pero no son predecibles individualmente.
 - El condicionamiento no altera la orientación sexual. Sí puede hacer naturales o deseables prácticas sexuales antes consideradas impropias, al retirar barreras culturales, morales, sociales o personales.
 - Tampoco sustituye el carácter general ni la individualidad: la persona sigue siendo ella misma, aunque se retiren limitaciones como el miedo. No obstante, al cambiar sus experiencias, relaciones y conducta, la personalidad termina cambiando inevitablemente con el tiempo.
 - En Resonantes predominantes pueden desaparecer barreras para el afecto, la cercanía, el contacto y determinadas experiencias íntimas. En Disonantes predominantes, el aislamiento extremo puede dejar de ser fuente de sufrimiento: no es bueno ni malo, simplemente es. Ninguno de los dos extremos debe describirse como superior o como pérdida de voluntad.
-- Resonancia y Disonancia no son poderes, técnicas activables ni barreras literales. Son efectos psicoafectivos del condicionamiento que modifican la experiencia de las emociones, las relaciones y determinadas circunstancias.
+- La Resonancia y la Disonancia son efectos psicoafectivos profundos del condicionamiento que modifican la experiencia de las emociones, las relaciones y determinadas circunstancias.
 - Por esa modificación, constituyen funcionalmente la primera capa pasiva y permanente de defensa de un Vinculado: dificultan la Incursión y, cuando están bien desarrolladas y asentadas, vuelven inmune a la mayoría de las exposiciones ordinarias a Sombra Residual y a Corrupción leve. No proporcionan inmunidad absoluta.
 - El **Santuario del Alma** es la segunda capa, una defensa activa que se usa cuando la protección derivada del condicionamiento no basta. No reemplaza al condicionamiento.
 
@@ -173,9 +172,10 @@
 
 ### Historia de Astria
 
-- Zorak vivió entre los astrianos desde la fundación de Astria. En algún momento fue encerrado por razones desconocidas y permaneció prisionero hasta que Zoroastro Zorana lo encontró. No se ha definido cuánto tiempo transcurrió entre estos hechos.
+- Zorak vivió entre los astrianos desde la fundación de Astria. Un acuerdo le permitió poseer voluntariamente a personas astrianas con la condición de cambiar de huésped a tiempo para evitar daños excesivos por Corrupción. A cambio, compartía conocimientos extraordinarios, imposibles de obtener mediante la investigación convencional.
+- El acuerdo se rompió y Zorak fue encerrado por razones desconocidas. Permaneció prisionero hasta que Zoroastro Zorana lo encontró. No se ha definido cuánto tiempo transcurrió entre estos hechos.
 - Antes de acabar en la cámara secreta, Zorak había sido engañado por múltiples humanos. Cuando Zoroastro lo encontró, el deterioro de su condición hizo que su primer impulso fuera mentir, engañar y corromper.
-- Zorak manipuló y engañó a **Zoroastro Zorana** para que trajera desde Irij a Agra una nueva entidad conocida históricamente como el **Dios Negro**. Esta fue la venganza que luego reconoce; Zorak no abandonó físicamente su frasco para causar ese desastre.
+- Zorak manipuló y engañó a **Zoroastro Zorana** para que trajera desde Irij a Agra una nueva entidad conocida históricamente como el **Dios Negro**. Esta fue la venganza que luego reconoce. Después de manipular a Zoroastro, Zorak volvió a su prisión. Provocó aquel desastre sin abandonar físicamente el frasco.
 - Zorak ayudó a construir la civilización astriana y disfrutó vivir y descubrir en ella. En tiempos de Alrazi lamentaba decisiones y una venganza que habían originado el deterioro de esa civilización.
 - Alrazi robó el frasco de su prisión, lo mantuvo en él y permitió que Zorak lo poseyera. Ambos recorrieron el mundo mientras Alrazi descubría una forma de contrarrestar la Corrupción de Zorak.
 - Años después, Zorak volvió a Astria sin Alrazi para poseer a **Verna Zorana**, cultista del Dios Negro, y liberar a un prisionero llamado **el Último Rey Sol**.
@@ -184,13 +184,12 @@
 
 ### Reservas expresas sobre Zorak
 
-- Permanecen sin definir la razón de su primer encierro, quién rompió el acuerdo que le permitió habitar libremente cuerpos astrianos, las condiciones completas de ese acuerdo, los motivos de Zoroastro, la contramedida de Alrazi, la identidad de quien ordenó la misión final, el resultado exacto de la misión y el mecanismo concreto de la catástrofe astriana.
+- Permanecen sin definir la razón de su primer encierro, quién rompió el acuerdo con los astrianos y por qué, los motivos de Zoroastro, la contramedida de Alrazi, la identidad de quien ordenó la misión final, el resultado exacto de la misión y el mecanismo concreto de la catástrofe astriana.
 - No se definió cuánto de las acciones de Zorak procede de su personalidad o de su deterioro fuera de un huésped.
 - Las características de Zorak no se extienden automáticamente a todos los Mobius.
 
 ## 9. Asuntos reservados o no definidos
 
-- No se define si la pérdida de materialidad de los Mobius al amanecer fue causada por la luz solar o solo coincidió con ella.
 - No se establecen síntomas, grados, mecanismos específicos ni plazos generales de la Corrupción, del deterioro de Corruptos o de la degradación de la Corrupción remanente.
 - No se define un procedimiento general de supervivencia a una Semilla Oscura ni un modo general de revertir la transformación completa en Corrupto.
 - No se desarrollan por ahora las condiciones de creación, capacidad máxima, introducción o empleo de las entidades guardadas en un Pozo de Sombras, fuera de los principios acordados.
