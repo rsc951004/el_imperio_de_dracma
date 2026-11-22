@@ -42,7 +42,11 @@ Además de los requisitos ya descritos para cada prueba, ¿hay criterios concret
 
 **Referencia:** acumulación inicial, A-03 y asuntos pendientes; acumulación de resoluciones, R-02; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** Cada colegio de la Möes Tábura tiene autonomía para determinar cómo prepara a sus alumnos para superar las pruebas correspondientes a cada grado. No existe un currículo único y obligatorio que establezca contenidos específicos para todos los colegios. Deben respetarse las pruebas, los requisitos de ascenso y las exigencias generales de formación ya establecidas en el canon, incluido el condicionamiento progresivo contra la Sombra. La diversidad de métodos y enfoques educativos entre colegios es parte del sistema.
+
+**Alcance indicado por el autor:** No es necesario desarrollar programas académicos universales ni mantener una reserva sobre ellos.
 
 ### 4. Exterminio y destrucción del engendro — reserva existente
 
@@ -50,7 +54,13 @@ Para aprobar Exterminio, ¿basta con enfrentarse a un engendro menor de la Sombr
 
 **Referencia:** acumulación inicial, A-03; acumulación de resoluciones, R-02; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** La prueba de Exterminio no exige destruir al engendro de la Sombra. El aspirante debe enfrentarse a un engendro menor y sobrevivir, pero la evaluación no se limita al resultado del enfrentamiento. Los examinadores también valoran las decisiones que tomó el aspirante durante la prueba y cómo se desenvolvió ante las circunstancias. Sobrevivir es necesario, pero no suficiente para aprobar. Tampoco basta con derrotar o destruir al engendro si el desempeño del aspirante no satisface la evaluación.
+
+La destrucción es imposible, a menos que un Fulgurante realice la prueba o forme parte del equipo que la realiza.
+
+**Consecuencia indicada por el autor:** debe eliminarse la reserva sobre la obligatoriedad de destruir al engendro.
 
 ### 5. Clasificaciones profesionales — reserva existente
 
@@ -220,4 +230,4 @@ Ren recibió una formación Maeghi breve y desconocía muchos conceptos; Iyuri c
 
 ## Registro de avance
 
-De las 24 preguntas, las preguntas 1 y 2 están resueltas y las preguntas 3–24 siguen pendientes. Se responderán de una en una en el orden numerado. Las respuestas se registrarán fielmente; cuando el autor declare una pregunta innecesaria, no desarrollada o abierta, se anotará esa decisión y se continuará con la siguiente.
+De las 24 preguntas, las preguntas 1–4 están resueltas y las preguntas 5–24 siguen pendientes. Se responderán de una en una en el orden numerado. Las respuestas se registrarán fielmente; cuando el autor declare una pregunta innecesaria, no desarrollada o abierta, se anotará esa decisión y se continuará con la siguiente.

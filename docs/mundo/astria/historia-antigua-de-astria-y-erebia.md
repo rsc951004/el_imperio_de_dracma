@@ -23,11 +23,17 @@ Erebia y regresaba ocasionalmente al monte. Molok y Zorak se refugiaron bajo
 ese monte tras el Surgimiento.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->
-Durante la Edad del Sol Devorado, uno de los Mobius tomó el continente y los Portadores fueron
-perseguidos como responsables de la catástrofe. Al final de esa edad, una
-Portadora destruyó a Tamurak, el Mobius transformado en una criatura gigantesca,
-y condujo a los supervivientes hasta un conjunto de islas. Allí fundaron Astria,
-la Nación de la Luz.
+Durante la Edad del Sol Devorado, Tamurak devastó Erebia y destruyó su antigua
+civilización. Se persiguió a los Portadores como responsables de la
+catástrofe. Entre los místicos de Erebia había gran poder, pero carecían
+del conocimiento necesario para reconocer la Incursión y combatirla.
+
+Al final de esa edad, una Portadora se enfrentó a Tamurak, que había tomado
+la forma de una criatura gigantesca. Con el Don del Fulgor lo dejó en una
+inactividad extrema, equivalente a la muerte en la práctica. Ella creyó
+sinceramente haberlo eliminado. Su victoria puso fin a la devastación y
+permitió el éxodo. La Portadora condujo a los supervivientes hasta las
+islas donde fundaron Astria, la Nación de la Luz.
 
 La civilización astriana se asentó en varias islas del Mar Oscuro. La isla
 central, antes llamada Isla Central y luego Astria Central, fue su núcleo
@@ -82,11 +88,18 @@ Astria y del derrocamiento del Ágoras Tábur al final de Astria Tardía. No se
 establecen fechas intermedias para los períodos.
 
 Astria fue durante largo tiempo una nación próspera de Portadores. Su
-decadencia comenzó con la colonización y esclavización de islas vecinas.
-Durante una crisis familiar, el padre de Therin lo convirtió en Invocador.
-Therin es el primer Invocador del que se tiene registro. El rito, sus
-circunstancias concretas y el relato completo de aquella crisis permanecen
-reservados.
+decadencia moral comenzó con la colonización y la esclavización de los
+pueblos de las islas vecinas, en pleno esplendor de su civilización.
+
+Desde la fundación, un acuerdo permitió al Mobius [Zorak](../../personajes/historicos/zorak.md)
+poseer a astrianos voluntarios. Se cambiaba de huésped a tiempo para evitar
+daños excesivos por Corrupción y a cambio compartía conocimientos que no
+podían obtenerse mediante investigación convencional. Tras la ruptura del
+acuerdo quedó preso en un frasco.
+
+Durante siglos se creyó que el sol destruía a los Mobius. La creencia pasó
+a la tradición astriana y llegó a Stigria, donde influyó en la
+interpretación del don de Therin.
 
 #### Ose y las corrientes místicas
 
@@ -115,6 +128,29 @@ místicas; no se
 establece que sus diferencias religiosas desaparecieran. No se fija aquí la
 secuencia de sus apariciones ni el alcance de los cambios sociales.
 
+#### Los procedimientos de Zoroastro
+
+A finales de la Alta Astria, [Zoroastro Zorana](../../personajes/historicos/zoroastro-zorana.md)
+investigaba cómo crear artificialmente un vínculo entre un humano y una
+entidad de Irij. Zorak, a quien había encontrado en su encierro, lo manipuló
+en el primer intento. El procedimiento trajo a Agra una entidad distinta de
+la buscada. Esta poseyó al hijo adoptivo de Zoroastro, Thalmos. Se la conoció
+como el Dios Negro y después tomó el nombre de su huésped. Zorak reconoció
+la manipulación como un acto de venganza y volvió a su prisión sin salir
+físicamente del frasco.
+
+Con el mismo propósito, Zoroastro hizo un segundo intento libre de esa
+manipulación. De él surgió [Therin](../../personajes/historicos/therin.md),
+hermano de Thalmos e hijo adoptivo de Zoroastro, primer Vinculado artificial
+y primer Invocador del que se tiene registro.
+
+Los cultistas de Thalmos aparecieron durante la Baja Astria. La influencia
+del Dios Negro transformó la sociedad en las etapas posteriores hasta
+dominarla con el fanatismo religioso y la adoración de la muerte. Zorak
+había facilitado su llegada y lamentó en tiempos de
+[Paracelso Alrazi](../../personajes/historicos/paracelso-alrazi.md) haber
+contribuido a transformar así la civilización que ayudó a construir.
+
 #### Therin y la diarquía de esclavos libres
 
 Therin llevó a Thalmos a su isla de origen, todavía sin nombre establecido.
@@ -129,15 +165,25 @@ encarcelado en Astria. Sus verdugos prolongaron artificialmente su vida contra
 su voluntad para continuar torturándolo durante muchísimo tiempo. Verna Zorana,
 un cultista arcano de Thalmos, fue uno de sus principales carceleros.
 
-En la noche del Sol de Medianoche, inmediatamente anterior a la destrucción de
-Astria en +1254, el último Rey Sol alcanzó la Convergencia y sufrió el
-Desvanecimiento del Ego. La energía liberada destruyó Astria; se desconoce qué
-ocurrió con su cuerpo. Verna estaba presente y murió coincidiendo con la caída;
+Un tercero facilitó los acontecimientos que condujeron a la destrucción.
+Por orden suya, Zorak regresó a Astria contra su voluntad, convencido de que
+era la única alternativa. Su misión era poseer a Verna Zorana y liberar al
+Último Rey Sol para contener o destruir el cuerpo físico del Dios Negro
+antes de que este destruyera Stigria.
+
+Dos días después del regreso de Zorak, en la noche del Sol de Medianoche,
+el Último Rey Sol alcanzó la Convergencia y sufrió el Desvanecimiento del
+Ego. La energía se manifestó como una gigantesca bola de luz fulgurante
+y destruyó Astria en +1254. Se desconoce qué ocurrió con el cuerpo del
+Rey Sol. Verna estaba presente y murió coincidiendo con la caída;
 casi todos los cultistas arcanos perecieron aquella noche. La explosión hundió
 la isla central de Astria y las demás islas de la Nación de la Luz. Para
 entonces, Khalos ya había evacuado a los esclavos que pudo rescatar de las islas
 vecinas.
 <!-- CANON-VELADO: FIN -->
+
+La reconstrucción de Erebia tomó siglos. En tiempos de Iyuri Khan, el
+continente aún no había recuperado su antiguo esplendor.
 
 ## Conocimiento del mundo actual
 
@@ -153,4 +199,7 @@ conocimiento público.
 - `docs/entidades/thalmos.md`
 - `docs/entidades/invocadores.md`
 - `docs/taburas/kys-tabura.md`
+- [Zorak](../../personajes/historicos/zorak.md)
+- [Paracelso Alrazi](../../personajes/historicos/paracelso-alrazi.md)
+- [Therin](../../personajes/historicos/therin.md)
 - `cuentos/cronicas-de-erebia/1-la-edad-de-la-maravilla.md`

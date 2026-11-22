@@ -15,8 +15,9 @@ considerarlos útiles en Astria.
 Permaneció en Astria y fue uno de los principales carceleros y torturadores del
 último Rey Sol, cuya vida los verdugos prolongaron artificialmente contra su
 voluntad. En sus últimos tiempos, Verna consideraba al prisionero una cosa vacía
-con apariencia humana de la que ya no podía obtener nada. Estuvo presente junto
-a él durante la noche del Sol de Medianoche y murió coincidiendo con la caída de
+con apariencia humana de la que ya no podía obtener nada. La misión que llevó a Zorak de regreso a Astria incluía poseer a Verna y
+liberar al prisionero. Verna estuvo presente junto al Último Rey Sol
+durante la noche del Sol de Medianoche y murió coincidiendo con la caída de
 Astria. La percepción de Verna no determina el estado interior del Rey Sol.
 <!-- CANON-VELADO: FIN -->
 
@@ -24,3 +25,5 @@ Astria. La percepción de Verna no determina el estado interior del Rey Sol.
 
 - `docs/casas/zorana.md`
 - `docs/taburas/mort-tabura.md`
+- [Historia antigua de Astria y Erebia](../../mundo/astria/historia-antigua-de-astria-y-erebia.md)
+- [Zorak](zorak.md)

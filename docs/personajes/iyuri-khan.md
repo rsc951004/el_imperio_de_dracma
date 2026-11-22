@@ -4,7 +4,7 @@
 
 Iyuri Khan fue un Portador de la Casa noble Khan durante la dinastía Amschel.
 Hijo de Fhilippo Galenor y Marwha Khan, era Hijo del Sol por su padre
-vesperyano y sheijad por su madre lemuriana. Creció y se identificó
+vespirio y sheijad por su madre lemuriana. Creció y se identificó
 culturalmente con Lemuria. Era hermano de Lya Khan y descendiente directo del
 itinerante Rasmus Galenor. Su familia lo registró como Vinculado en la infancia.
 
@@ -28,7 +28,7 @@ distancias, heridas y exposición a la Sombra podía agotarlo.
 
 Según los registros de Khalos, había tres casos documentados anteriores del don.
 Iyuri fue su usuario más rápido y poderoso conocido y el único cuyo expediente
-acreditaba un salto con dos acompañantes: Fhilippo y un espectro, durante el
+acreditaba un salto con dos acompañantes: Fhilippo y un Engendro de Sombra, durante el
 rescate de su familia.
 
 Iyuri fue el primer místico registrado que aplicó el principio del anclaje a
@@ -57,19 +57,30 @@ Sombra. Oskar había amado a Iyuri desde su primer encuentro; Iyuri reconoció s
 sentimientos después del reencuentro. Ambos se besaron antes de que Iyuri
 viajara a Lemuria para avisar a su familia.
 
-En la mansión Khan, Iyuri encontró a su familia debilitada y a Nana Fey muerta.
-Oyó a la Sombra dentro de su Santuario del Alma, primera confirmación narrada de
-su infección. Rescató a Lya y Marwha y, al intentar salvar a Fhilippo, saltó
-con él y un espectro que los atacaba. Los Cuervos Grises de la Guardia Real de
-Lemuria acudieron a la alerta y lo rescataron. Su sello de Andromalius tenía la
-forma de un ojo rodeado por un círculo y tres lágrimas; el sello detectaba la
-presencia de la Sombra, pero no diagnosticaba por sí mismo el Toque.
+En la mansión Khan, Iyuri encontró a su familia debilitada y a Nana Fey
+muerta. Vio una sombra en su Santuario del Alma y la oyó hablar. Así
+confirmó que ya padecía una Incursión. Sabía que podía enfrentar al
+Engendro, aunque carecía de medios para someterlo. Lanzó una alerta negra,
+rescató a Lya y Marwha y saltó con Fhilippo y la criatura para alejarlos de
+ellas. Arriesgó su vida y contuvo el peligro hasta que llegaron los Cuervos
+Grises de la Guardia Real de Lemuria. El Imperio lo reconoció como
+**Héroe del Imperio** por proteger así a su familia.
 
-Durante ese enfrentamiento en una casa fuertemente contaminada por Sombra,
-Iyuri fue Tocado y la infección alcanzó la implantación de una semilla de
-engendro. Contempló el Mar de Dirak y sobrevivió. Presenta Toque Residual,
-también llamado Marca de la
-Bestia. La Sombra continúa acechándolo. Iyuri procura sostener estados
+Iyuri contempló el Mar de Dirak, señal de una Semilla Oscura ya formada.
+Benji combatió y contuvo al Engendro y retiró la garra que atravesaba el
+pecho de Iyuri. Nimri detuvo la Incursión y extrajo la Semilla. Tuk
+reconstruyó su corazón, pulmones, demás órganos afectados y piel.
+Finalmente, Nimri sometió al Engendro y lo introdujo en su Pozo de
+Sombras. Los tres fueron indispensables. Iyuri llegó a conocer todos los
+detalles del rescate y se los contó después a Rendard Steinert.
+
+El suyo es el único caso documentado en la historia del Imperio de
+supervivencia a una Semilla Oscura. Su sello de Andromalius tenía la forma
+de un ojo rodeado por un círculo y tres lágrimas y detectaba presencia de
+Sombra sin diagnosticar por sí solo el Toque.
+
+Iyuri presenta Toque Residual, también llamado Marca de la Bestia.
+La Sombra continúa acechándolo. Iyuri procura sostener estados
 emocionales positivos porque una caída emocional puede abrir una vía para que
 la Sombra vuelva a manifestarse. Su sello es de clase dragón y muy potente;
 los sellos de Andromalius de otros místicos no se activan ante él mientras

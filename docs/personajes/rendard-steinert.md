@@ -28,6 +28,12 @@ entre ambos acontecimientos permanece abierta.
 En sus pensamientos imaginó un futuro junto a un joven, con una boda, una hija
 adoptiva y una casa cerca de la capital. Son aspiraciones personales.
 
+## La historia de la mansión Khan
+
+Iyuri le contó cómo protegió a su familia y cómo Benji, Nimri y Tuk lo
+salvaron. Ren lo asistió durante una manifestación posterior de la Sombra
+cuando Iyuri recurrió a su Santuario del Alma.
+
 ## Referencias
 
 - [El niño de la flecha](../../fragmentos/el-nino-de-la-flecha.md)

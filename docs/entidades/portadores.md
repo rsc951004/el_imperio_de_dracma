@@ -54,7 +54,7 @@ Una persona Portadora o Invocadora que posee el Don de la Quimera se denomina
 Las denominaciones específicas de quienes poseen los dones son:
 
 - **Don del Ojo:** Vidente.
-- **Don del Fulgor** o **Don del Fulgor Solar:** Fulgurante.
+- **Don del Fulgor:** Fulgurante.
 - **Don del Siseo:** Siseante.
 - **Don Siniestro:** Siniestro.
 
@@ -64,10 +64,19 @@ no crean categorías místicas ni establecen capacidades o mecanismos.
 ## Asociaciones históricas
 
 Ose está objetivamente asociado con el Don de la Quimera y el Don del Ojo.
-Esta asociación no permite identificar de forma fiable cuál Init alcanza a
-cada Portador ni deducir de antemano la naturaleza de su don. Otras
-correspondencias entre Inits y dones pertenecen a tradiciones devotas mientras
-no reciban confirmación individual.
+Dionisia está vinculada con el **Don del Fulgor**, nacido de la necesidad
+humana de combatir a la Sombra. Es un elemento místico distinto de la luz
+solar ordinaria. En tiempos de Iyuri Khan, Don del Fulgor es la denominación
+académica y **Fulgurante** designa a quien lo posee, sea Portador o Invocador.
+«Fulgor solar», «Portador del Sol» e «Invocador del Sol» perviven como usos
+históricos o populares, especialmente en la tradición veranese y en los
+títulos asociados a Therin. Las asociaciones confirmadas no sirven para
+identificar cuál Init alcanza a cada Portador ni para deducir su don.
+
+Los Siniestros son especialmente resistentes a la Incursión y pueden llegar a
+desarrollar un [Pozo de Sombras](../mundo/stigria/pozo-de-sombras.md).
+Portadores e Invocadores quedan Tocados desde el inicio de una
+[Incursión](sombra.md#incursión-y-toque), incluso sin formación Maeghi.
 
 ## Señal ocular
 

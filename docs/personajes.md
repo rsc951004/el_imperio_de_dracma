@@ -50,7 +50,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Ostren Therin | Personaje histórico | Último señor de la Casa Therin de Dragma en Esteria. Despojado durante el Gran Concilio del Hielo. | [Ver ficha](personajes/ostren-therin.md) |
 | Dravora | Reina histórica | Fundadora de la Casa Dravor y de su dinastía real en Valastir. | [Ver ficha](personajes/dravora.md) |
 | Ruxandra Dravor | Reina histórica | Reina de Valastir durante Amschel y madre de Dymtrik. | [Ver ficha](personajes/ruxandra-dravor.md) |
-| Iyuri Khan | Personaje histórico | Portador lemuriano del Don de la Flecha. | [Ver ficha](personajes/iyuri-khan.md) |
+| Iyuri Khan | Personaje histórico | Portador lemuriano del Don de la Flecha y Héroe del Imperio. | [Ver ficha](personajes/iyuri-khan.md) |
 | Rendard Steinert | Custodio y marinero | Eisengardiano vinculado al Calamar Rojo. | [Ver ficha](personajes/rendard-steinert.md) |
 | Severus Rizen | Formador de custodios | Superior y profesor de Rendard en la Academia Imperial de Custodios. | [Ver ficha](personajes/severus-rizen.md) |
 | Keven Steinert | Cabeza de casa | Cabeza de la Casa Steinert y padre de Rendard. | [Ver ficha](personajes/keven-steinert.md) |
@@ -62,14 +62,14 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Goro Revolva | Personaje mencionado | Su nombre identifica un lupanar de Upyria. | [Ver ficha](personajes/goro-revolva.md) |
 | Jorgha | Personaje mencionado | Mencionado por Iyuri en Upyria. | [Ver ficha](personajes/jorgha.md) |
 | Mortis | Figura mencionada | Nombrado en un mensaje dirigido a Iyuri. | [Ver ficha](personajes/mortis.md) |
-| Fhilippo Galenor | Mercader histórico | Mercader vesperyano y padre de Iyuri. | [Ver ficha](personajes/historicos/fhilippo-galenor.md) |
+| Fhilippo Galenor | Mercader histórico | Mercader vespirio y padre de Iyuri. | [Ver ficha](personajes/historicos/fhilippo-galenor.md) |
 | Marwha Khan | Noble histórica | Noble lemuriana y madre de Iyuri. | [Ver ficha](personajes/historicos/marwha-khan.md) |
 | Essio Galenor | Mercader histórico | Tío paterno de Iyuri. | [Ver ficha](personajes/historicos/essio-galenor.md) |
 | Fey Gilmora | Maeghi histórica | Cazadora retirada y cocinera de la familia Khan. | [Ver ficha](personajes/historicos/fey-gilmora.md) |
 | Greta Nerve | Noble histórica | Heredera vinculada a la Casa Nerve. | [Ver ficha](personajes/historicos/greta-nerve.md) |
-| Nimri Jhamali | Guardia histórico | Maeghi disonante y Siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nimri-jhamali.md) |
-| Tuk Neyzeh | Guardia histórico | Invocador del caos, Maeghi Iniciado y Cuervo Gris de Lemuria. | [Ver ficha](personajes/historicos/tuk-neyzeh.md) |
-| Benji Perjhan | Guardia histórico | Invocador elemental y Cuervo Gris de Lemuria. | [Ver ficha](personajes/historicos/benji-perjhan.md) |
+| Nimri Jhamali | Guardia histórico | Maeghi Disonante extremo y Siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nimri-jhamali.md) |
+| Tuk Neyzeh | Guardia histórico | Invocador del caos, sanador y Maeghi Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/tuk-neyzeh.md) |
+| Benji Perjhan | Guardia histórico | Invocador elemental y Maeghi Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/benji-perjhan.md) |
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
 | Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
 | Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro de la Célula 1466. | [Ver ficha](personajes/dymtrik.md) |
@@ -127,6 +127,9 @@ establecido, la identidad permanece pendiente.
 | Lysandra | Astriana | Joven esclavizada en el hogar de Sirene. | [Ver ficha](personajes/historicos/lysandra.md) |
 | Calris Zorana | Místico astriano | Erudito que desarrolló el fuego verde. | [Ver ficha](personajes/historicos/calris-zorana.md) |
 | Zoroastro Zorana | Místico astriano | Miembro de la Casa Zorana que manifestó el don del caos. | [Ver ficha](personajes/historicos/zoroastro-zorana.md) |
+| Therin | Místico de la antigua Astria | Primer Invocador documentado. | [Ver ficha](personajes/historicos/therin.md) |
+| Zorak | Mobius | Se refugió en el monte Lumari tras el Surgimiento. | [Ver ficha](personajes/historicos/zorak.md) |
+| Paracelso Alrazi | Místico astriano | Autor del hallazgo que permitió contrarrestar la Corrupción de Zorak. | [Ver ficha](personajes/historicos/paracelso-alrazi.md) |
 | Ose | Identidad incierta | Figura vinculada a la historia de Sirene y Leandrin. | [Ver ficha](personajes/historicos/ose.md) |
 | Esposo de Sirene | Astriano | Miembro de la rama Zorana de Garken. | [Ver ficha](personajes/historicos/esposo-de-sirene.md) |
 | Príncipe Coronado de Flammengard | Príncipe histórico | Heredero enamorado de Leandrin. | [Ver ficha](personajes/historicos/principe-de-flammengard.md) |

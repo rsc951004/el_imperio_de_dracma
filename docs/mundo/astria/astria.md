@@ -11,7 +11,15 @@ Astria fue el lugar de origen del culto de **Thalmos**, el Dios Negro. Los
 adeptos. La Inquisición astriana perseguía dentro de Astria a disidentes y a
 quienes consideraba indignos o malos practicantes.
 
-La naturaleza de Thalmos y el desarrollo profundo de su culto no están establecidos.
+El origen y la naturaleza del Dios Negro quedan fuera del conocimiento
+público.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->
+La colonización y esclavización de los pueblos insulares marcó el inicio de
+la decadencia moral durante el esplendor de Astria. El Dios Negro llegó a
+finales de la Alta Astria y su influencia transformó después la sociedad
+en una dominada por el fanatismo religioso y la adoración de la muerte.
+<!-- CANON-VELADO: FIN -->
 
 ## Refugiados y liberados
 
@@ -27,6 +35,11 @@ esclavos. Los liberados se asentaron en Dürr y fundaron la Costa del Verano.
 
 Astria fue destruida en el año **+1254**. Las causas y circunstancias de su
 desaparición permanecen desconocidas para el mundo actual.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->
+La causa directa fue el Desvanecimiento del Ego del Último Rey Sol durante
+el Sol de Medianoche.
+<!-- CANON-VELADO: FIN -->
 
 ## Legado
 

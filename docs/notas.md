@@ -1,5 +1,53 @@
 # Notas editoriales
 
+### Volcamiento del primer intento de guía de la Sombra (2026-11-22)
+
+Ejecutados los ocho bloques aprobados de AU-01–AU-11 conforme a la
+[auditoría de cierre y plan](../procesos-de-volcamiento/primer-intento-de-guia-de-la-sombra/auditoria-de-cierre-y-plan-de-volcamiento-primer-intento-de-guia-de-la-sombra.md).
+
+1. **La Sombra y la Corrupción.** Se incorporaron el origen común, la Sombra
+   Primordial y Residual, la retroalimentación, las vías de Corrupción, la
+   agencia y el ciclo de los Corruptos, el estatuto imperial de muerte y el
+   caso de Tamir. Se actualizaron la ficha de Agra y la guía de asistencia.
+2. **Surgimiento, Fulgor y Tamurak.** Se asentaron la materialización, el
+   parasitismo, la pérdida de materialidad de los Mobius, el vínculo del
+   Fulgor con Dionisia y la inactividad extrema de Tamurak tras la victoria
+   que puso fin a la devastación de Erebia y permitió fundar Astria.
+3. **Vocabulario.** Se fijaron Don del Fulgor, Fulgurante, Engendro de Sombra,
+   Siniestro y veranese/veranenses. Se armonizaron los gentilicios
+   particulares, las referencias históricas y las reglas de cuentos.
+4. **Incursión y defensas.** Se ajustaron el Toque, la Semilla Oscura, el
+   Mar de Dirak, el Toque Residual y el registro de Iyuri como único caso
+   documentado de supervivencia. Se incorporaron la defensa pasiva y sus
+   refuerzos, el Santuario activo, la preparación por la Möes y la
+   información previa al ingreso.
+5. **Engendros y Pozo.** Se documentaron los Engendros, su relación con
+   Exterminio, la eliminación definitiva exclusiva de Fulgurantes y la
+   contención por Siniestros. El Pozo de Sombras tiene ficha propia.
+6. **Mansión Khan.** Se armonizaron el rescate, el relato a Ren y el índice
+   de fragmentos. Benji contiene al Engendro y retira la garra, Nimri
+   extrae la Semilla, Tuk salva a Iyuri y Nimri captura al Engendro en su
+   Pozo. La limpieza se realiza después. El reconocimiento de Iyuri como
+   Héroe del Imperio se funda en que arriesgó su vida para proteger a su
+   familia hasta la llegada de los Cuervos.
+7. **Cuervos de Lemuria.** Se registraron el grado de Experto de los tres
+   rescatistas, el ascenso posterior de Nimri, el aislamiento y
+   reacondicionamiento conjuntos y la crisis temporal de Tuk sobre su
+   desborde previo. Las fichas individuales recogen sus relaciones.
+8. **Astria.** Se incorporaron fichas de Zorak, Paracelso Alrazi y Therin,
+   con el descubrimiento de Alrazi. Se integraron los dos procedimientos
+   de Zoroastro, la filiación adoptiva, la llegada del Dios Negro tras
+   la manipulación de Zorak, la decadencia y la destrucción por el
+   Desvanecimiento del Ego del Último Rey Sol. Se mantuvieron las marcas
+   de canon velado de la historia astriana y el motivo del Surgimiento.
+
+Se actualizaron los índices y referencias de entidades, mundo, personajes,
+organizaciones, Táburas y fragmentos. Se conservaron las reservas recogidas
+en el plan. La mención de «espectros» en Delfos conserva su redacción
+porque su referente no está identificado. La crónica del Surgimiento ya
+representaba la llegada adherida y la pérdida de materialidad desde la
+perspectiva de los testigos.
+
 ### Corrección de denominación y tradición Maeghi (2026-11-21)
 
 La denominación canónica se fija como **Maeghi**, invariable en singular y

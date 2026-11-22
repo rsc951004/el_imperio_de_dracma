@@ -2,21 +2,13 @@
 
 ## Naturaleza
 
-Falla catastrófica del Santuario del Alma asociada a una infección extrema por
-la Sombra. No es un océano físico ni una dimensión demostrada.
+El Mar de Dirak es una falla catastrófica del Santuario del Alma. Al intentar construir su escenario imaginado, el Vinculado se encuentra sumergido en un mar oscuro y denso. Es una experiencia del Santuario y la señal inequívoca de que ya se formó una **Semilla Oscura**.
 
-## Aparición
+La Semilla consume lo que queda del vínculo. Apenas transcurren unos instantes desde que se forma hasta el nacimiento del Engendro. Una vez consumido el vínculo, la persona ha dejado de ser Vinculada por un instante, justo antes de que el Engendro brote del pecho y la mate.
 
-Se manifiesta cuando el Toque de Sombra alcanza la fase de implantación de una
-semilla de engendro y la persona intenta construir o utilizar su Santuario del
-Alma. En lugar del Santuario habitual, lo que percibe mentalmente queda
-cubierto por un mar negro y espeso. Su aparición indica muerte inminente, pero
-no inevitable.
+## Caso documentado
 
-Iyuri Khan fue Tocado durante su enfrentamiento con un espectro en la mansión
-Khan, un lugar fuertemente contaminado por Sombra. La infección alcanzó la
-implantación de una semilla. Iyuri contempló el Mar de Dirak y sobrevivió. Los
-registros imperiales no documentan supervivientes, sin que ello niegue su caso.
+Iyuri Khan contempló el Mar de Dirak en el enfrentamiento de la mansión Khan. Nimri Jhamali detuvo la Incursión y extrajo la Semilla Oscura ya formada. La intervención conjunta de Nimri, Benji Perjhan y Tuk Neyzeh permitió que Iyuri sobreviviera. Es el único caso de supervivencia posterior a la formación de una Semilla Oscura documentado en la historia imperial. Hasta entonces se consideraba prácticamente imposible.
 
 ## Referencias
 
@@ -24,5 +16,6 @@ registros imperiales no documentan supervivientes, sin que ello niegue su caso.
 - [Santuario del Alma](santuario-del-alma.md)
 - [Toque Residual](toque-residual.md)
 - [Iyuri Khan](../../personajes/iyuri-khan.md)
-- [Nana Fey](../../personajes/historicos/fey-gilmora.md)
+- [Fey Gilmora](../../personajes/historicos/fey-gilmora.md)
+- [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
 - [El custodio imperial](../../../fragmentos/el-custodio-imperial.md)

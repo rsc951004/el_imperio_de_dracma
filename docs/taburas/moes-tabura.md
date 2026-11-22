@@ -51,6 +51,15 @@ imperial; sus autoridades y muchos Maeghi conocen esa intención. Esta presión
 no convierte la formación en una obligación universal ni sustituye el registro
 obligatorio o los requisitos de oficios concretos.
 
+La lucha activa y preventiva contra la Sombra es un fundamento interno de la
+Möes, la formación Maeghi y el progreso místico. Su presentación pública
+abarca el conjunto de sus funciones educativas. El Imperio y la Möes
+consideran deseable que todo Vinculado reciba entrenamiento básico y
+condicionamiento. La devastación de la antigua Erebia por un Mobius es el
+precedente de esa política. Antes del ingreso se informa exhaustivamente
+sobre las consecuencias del [condicionamiento Maeghi](../mundo/stigria/condicionamiento-maeghi.md),
+que la institución acepta como parte de la preparación.
+
 ### Pruebas y reconocimiento de Maestro
 
 Los ascensos no favorecen unos dones sobre otros. Las pruebas cubren dominio
@@ -59,7 +68,7 @@ del don o vínculo, trabajo con otras personas y relación con la Sombra.
 - **Aprendiz → Iniciado:** Dominio, Amparo y Santuario. Dominio acredita una
   técnica controlada incluso bajo estrés; Amparo exige acompañar a otro
   Aprendiz angustiado sin depender del don; Santuario requiere rechazar una
-  intrusión real y leve de la Sombra y sobrevivir.
+  Incursión real y leve de la Sombra y sobrevivir.
 - **Iniciado → Adepto:** Devoción, Redundancia y Contención. Devoción exige
   alcanzar y sostener bajo control la comunicación personal con el Init, más
   allá de los límites habituales de tiempo y energía del vínculo; puede
@@ -74,7 +83,7 @@ del don o vínculo, trabajo con otras personas y relación con la Sombra.
   compañeros y puede ser Resonante, cuando ambos egos forman un nuevo yo, o
   Disonante, cuando uno infunde su ego y el otro lo cede. Ambas requieren
   confianza, seguridad y armonía; la modalidad Disonante no es Subyugación.
-  Exterminio enfrenta al aspirante a un engendro menor de la Sombra en un
+  Exterminio enfrenta al aspirante a un Engendro de Sombra menor en un
   entorno controlado y exige sobrevivir; puede rendirse en solitario o en
   equipos de hasta tres.
 

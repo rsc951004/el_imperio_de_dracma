@@ -39,7 +39,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 
 | Tema | Qué falta |
 |------|-----------|
-| **Formación Maeghi** | Precisar la duración de Devoción, los criterios adicionales de evaluación, si Exterminio exige destruir al engendro y la formación que distingue los grados. |
+| **Formación Maeghi** | Precisar la duración de Devoción, los criterios adicionales de evaluación, si Exterminio exige destruir al Engendro de Sombra y la formación que distingue los grados. |
 | **Condicionamiento Maeghi** | Definir el procedimiento e información de aceptación y los refuerzos posteriores a Maestro. |
 | **Möes Maeghi y licencias** | Definir el procedimiento de concesión del reconocimiento y la autoridad administrativa que avala o visa licencias. |
 | **Colegios Maeghi** | Definir las funciones administrativas de las sedes, la relación institucional de Vasaggo con la red y el lugar del examen de Iniciado de Ren. |
@@ -80,7 +80,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Iyuri y su familia** | Precisar la filiación de Lya, la ruptura con Oskar, las generaciones Galenor, la trayectoria de Essio, la licencia final de Iyuri, su tripulación y su viaje a Sturmgard. |
 | **Escenas de Iyuri** | Desarrollar posteriormente los diálogos y escenas de su juventud, el rescate en Lemuria y la despedida; las reconstrucciones de trabajo no fijan su literalidad. |
 | **Don de la Flecha** | Reservar límites, mecanismo sensorial de exploración, condiciones de contacto y consecuencias físicas de saltos extremos. |
-| **Sombra y mansión Khan** | Reservar relación entre las infecciones de Fey y Essio, interés del espectro por Iyuri, identidad del «él», significado de la luz, tratamiento y recuperación posteriores. |
+| **Sombra y mansión Khan** | Reservar relación entre las infecciones de Fey y Essio, interés del Engendro de Sombra por Iyuri, identidad del «él», significado de la luz, tratamiento y recuperación posteriores. |
 | **Astria y el Sol de Medianoche** | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->Reservar mecanismos del Velo Inmaterial, transformación arcana, longevidad del Rey Sol y destrucción; identidad de la leyenda transmitida por los liberados.<!-- CANON-VELADO: FIN --> |
 | **Ruxandra y Dravora** | Reservar parentesco exacto, generaciones intermedias y fechas del reinado de Ruxandra. |
 | **Lazeroth y Rugido Mordaz** | Reservar origen y requisitos de la espada y circunstancias de la posesión y uso del conjunto por Essio. |

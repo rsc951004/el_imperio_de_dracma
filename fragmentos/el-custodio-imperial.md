@@ -484,7 +484,7 @@ Ren obedeció. Sintió que Iyuri le quitaba los pantalones y esperó el beso. Al
 
 ## La colina y el jardín
 
-Iyuri saltó una vez y otra, buscando el desfase que había experimentado cuando el espectro se aferró a él y a su padre. Quería dejar atrás la habitación, el calor de Ren y el recuerdo que no conseguía apartar. El cuerpo del custodio, su dulzura y la expectativa de aquel beso lo habían atraído; aun así, el dolor seguía allí.
+Iyuri saltó una vez y otra, buscando el desfase que había experimentado cuando el Engendro se aferró a él y a su padre. Quería dejar atrás la habitación, el calor de Ren y el recuerdo que no conseguía apartar. El cuerpo del custodio, su dulzura y la expectativa de aquel beso lo habían atraído; aun así, el dolor seguía allí.
 
 Recordaba aquella sensación: lo que transcurría en un instante parecía durar minutos. Volver a ella exigía confusión, desesperación, el deseo de huir y dejarlo todo atrás. Aquella noche quiso recuperarla hasta que el mundo desapareció a su alrededor.
 
@@ -700,11 +700,21 @@ Iyuri miró la puerta.
 
 —Ya sabes por qué no hay sirvientes en esta casa.
 
-Le contó lo ocurrido años atrás: el regreso a la mansión, Nana Fey, su familia y el espectro; el salto con Fhilippo y la criatura, la infección y la llegada de Nimri, Tuk y Benji.
+Le contó lo ocurrido años atrás. Al volver a la mansión había encontrado a
+Nana Fey muerta y a su familia a merced de un Engendro. Había llevado a su
+madre y a su hermana a la playa y vuelto por su padre. Cuando saltó con
+Fhilippo y la criatura, siguió saltando para alejarla de ellas.
 
-—Dijeron que hacía más de cien años que un místico no vencía a un espectro de Sombra. Hasta me atribuyeron haber salvado la vida de mi tío. Por eso me reconocieron como Möes Maeghi: por lograr algo que nadie había logrado antes.
+—Podía hacerle frente el tiempo suficiente para que llegaran los Cuervos.
+Eso fue lo que hice. Por eso me llaman Héroe del Imperio.
 
-—Patrañas. A mí me salvaron, en todo caso. ¿Me das ese té?
+Ren aguardó a que siguiera.
+
+—Benji la sujetó y me sacó la garra del pecho. Nimri detuvo la Incursión y
+extrajo la Semilla Oscura. Tuk tuvo que rehacerme el corazón, los pulmones y
+todo lo que se había destrozado por dentro, hasta cerrarme la piel. Después
+Nimri metió al Engendro en su Pozo de Sombras. Me salvaron entre los tres,
+Ren. ¿Me das ese té?
 
 Ren le entregó la taza.
 
@@ -716,13 +726,16 @@ Iyuri casi se atragantó.
 
 —¿Y lo de hoy qué fue? ¿Acaso no derrotó usted a la Sombra? ¿Qué es el mar de Dirak?
 
-—No es un qué, Ren. Es un dónde. Cuando la infección alcanza la implantación de una semilla de engendro, todo lo que ves en tu Santuario del Alma se inunda de un mar negro y espeso. Contemplé el Mar de Dirak y sobreviví.
+—Cuando fui a buscar la pradera de mi Santuario, me encontré en un mar negro
+y espeso. Para entonces la Semilla Oscura ya se había formado. Me quedaban
+apenas unos instantes cuando llegó Nimri.
 
 —Cuando la infección ha arraigado tanto, no queda lugar para la esperanza, ni para el amor, ni para la vida.
 
 —Pero usted sí.
 
-—Sí. Algunos que sobreviven sufren el Toque Residual.
+—Sí. Soy el único caso que consta en los registros del Imperio. Y lo que me
+quedó se llama Toque Residual.
 
 Iyuri sostuvo la taza entre las manos.
 

@@ -87,8 +87,9 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Desfase | Fenómeno místico | Alteraciones que impiden experimentar o usar el don normalmente. | [Ver ficha](mundo/stigria/desfase.md) |
 | Santuario del Alma | Defensa activa | Ejercicio consciente de defensa contra la Sombra. | [Ver ficha](mundo/stigria/santuario-del-alma.md) |
 | Condicionamiento Maeghi | Formación psicoafectiva | Entrenamiento de Resonancia y Disonancia frente a la Sombra. | [Ver ficha](mundo/stigria/condicionamiento-maeghi.md) |
-| Mar de Dirak | Fenómeno psicológico y místico | Señal de implantación de una semilla de engendro y muerte inminente no inevitable. | [Ver ficha](mundo/stigria/mar-de-dirak.md) |
-| Toque Residual | Condición mística | Conexión persistente con la Sombra tras sobrevivir a una semilla de espectro. | [Ver ficha](mundo/stigria/toque-residual.md) |
+| Mar de Dirak | Fenómeno psicológico y místico | Señal inequívoca de que ya se formó una Semilla Oscura. | [Ver ficha](mundo/stigria/mar-de-dirak.md) |
+| Toque Residual | Condición mística | Conexión persistente con la Sombra tras sobrevivir a una Semilla Oscura. | [Ver ficha](mundo/stigria/toque-residual.md) |
+| Pozo de Sombras | Dimensión de bolsillo | Espacio personal que un Siniestro puede desarrollar para contener Sombra. | [Ver ficha](mundo/stigria/pozo-de-sombras.md) |
 | Möes Maeghi | Reconocimiento extraordinario | Distinción por un logro excepcional con el don, independiente de los grados. | [Ver ficha](mundo/stigria/moes-maeghi.md) |
 | Don de la Flecha | Don | Don que permite seguir un objeto arrojado y llegar con él a su destino. | [Ver ficha](mundo/stigria/don-de-la-flecha.md) |
 | Calamar Rojo | Banda y embarcación | Nombre de la antigua banda de Iyuri y de su barco posterior. | [Ver ficha](mundo/stigria/calamar-rojo.md) |
@@ -183,8 +184,9 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 
 **Costas del Verano** (5, 7, 10): Sus raíces históricas se encuentran en los
 Hijos del Sol, descendientes de esclavos liberados de Astria por la Kys Tábura.
-Hijos del Sol es una identidad etnocultural; verano y verana indican procedencia
-geográfica. Sus antepasados transformaron Dürr y los tres reinos comparten una
+Hijos del Sol es una identidad etnocultural. Veranese y veranenses indican
+procedencia geográfica de Lysarya, Vesperya o Zephyrya. Los antepasados de los
+Hijos del Sol transformaron Dürr y los tres reinos comparten una
 tradición lingüística. Su evolución posterior se desarrollará fuera de la Edad
 de Plata.
 

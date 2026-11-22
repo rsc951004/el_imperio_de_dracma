@@ -10,12 +10,14 @@ desconocido e incierto.
 ## Origen
 
 Proceden de Irij, una dimensión sin forma física donde todas las cosas existen
-como una realidad indivisa y donde cohabitaban con los Mobius.
+como una realidad indivisa y donde cohabitan con los Mobius, que los
+parasitan.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: el mundo en general -->
-La llegada de los Inits a este mundo fue accidental. Intentaban desprenderse de
-los Mobius, cruzaron este plano, consiguieron dejarlos atrás y regresaron a
-Irij.
+El Surgimiento fue una medida desesperada de los Inits para hacerse
+tangibles en Agra y separarse
+físicamente de los parásitos. Ambos adquirieron forma material. Tras
+separarse, los Inits regresaron a Irij y los Mobius permanecieron en Agra.
 <!-- CANON-VELADO: FIN -->
 
 ## Forma
@@ -66,11 +68,12 @@ o Inits. Las tradiciones asociaron a los Inits con numerosas figuras y dones.
 Ose, Dionisia, Andromalius y Aeshma son ejemplos de esas personificaciones, no
 una lista exhaustiva ni una taxonomía objetiva. La tradición atribuye a Ose el
 Don de la Quimera y el Don del Ojo, asociaciones que también están confirmadas
-como hechos objetivos. A Dionisia le atribuye el Don del Fulgor o Don del
-Fulgor Solar; a Andromalius, el Don del Siseo; y a Aeshma, el Don Siniestro.
-Estas últimas correspondencias se incorporan como tradición devota. No
-confirman objetivamente la naturaleza de los vínculos ni permiten identificar
-de forma fiable cuál Init alcanza a cada Portador.
+como hechos objetivos. A Dionisia le atribuye el Don del Fulgor, al que la tradición también llama
+«fulgor solar». El vínculo de Dionisia con el Fulgor es un hecho. El don
+nació de la necesidad humana de combatir a la Sombra y es de naturaleza
+mística. Las atribuciones del Don del Siseo a Andromalius y del Don Siniestro
+a Aeshma pertenecen a la tradición devota. Estas asociaciones no permiten
+identificar de forma fiable cuál Init alcanza a cada Portador.
 
 ## Ose
 

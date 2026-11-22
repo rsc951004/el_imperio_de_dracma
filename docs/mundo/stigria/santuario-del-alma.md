@@ -13,8 +13,8 @@ El Maeghi imagina un escenario de paz que progresa hacia alegría o placer.
 Sirven recuerdos felices y recuerdos de placer sexual. La representación
 habitual es una pradera verde con árboles frutales y seres queridos. Desde allí
 imagina a distancia un lago vacío y busca una sombra en su centro: buscarla
-puede acelerar la intrusión; no verla no la confirma, mientras verla confirma
-que ha comenzado.
+puede acelerar la Incursión. Ver la sombra confirma que la Incursión ya está
+en curso, incluso sin condicionamiento previo.
 
 Ante una sombra visible, debe permanecer en el escenario reconfortante,
 rechazarla, no mirarla ni escucharla y concentrarse en las frutas, las
@@ -26,10 +26,14 @@ piel con piel, que nunca se impone. Los recuerdos placenteros compartidos son
 el refuerzo más importante; una historia de placer sexual puede hacerlo más
 eficaz, sin depender de la orientación sexual.
 
-Escuchar hablar a la Sombra dentro del Santuario confirma infección. Una vez
-confirmada, se recomienda atención especializada por un Siniestro o continuar
-el Santuario hasta dejar de percibirla, sin que estas opciones tengan un orden
-obligatorio.
+Escuchar hablar a la Sombra dentro del Santuario también confirma el Toque.
+Alejarse del foco y sostener el esfuerzo mental puede repeler la Incursión y
+salvar la vida, como ejercer presión sobre una hemorragia. El intento puede
+fallar. Se recomienda procurar la atención de un Siniestro o continuar el
+Santuario hasta dejar de percibir la Sombra. La formación Maeghi ayuda a
+reconocer la Incursión y responder a ella. Un Vinculado sin esa preparación
+puede padecerla sin entender qué sucede. Los no Vinculados carecen de esta
+defensa.
 
 La contaminación puede transmitirse de un Vinculado Tocado a otro Vinculado;
 es menos probable durante las etapas tempranas, pero el riesgo permanece.

@@ -17,7 +17,7 @@ números positivos:
 
 | Fecha | Evento |
 |-------|--------|
-| **Año -3046** | **Surgimiento.** El encuentro de humanos e Inits origina los primeros vínculos de Portadores. |
+| **Año -3046** | **Surgimiento.** Inits y Mobius se materializan en Agra. El encuentro de humanos e Inits origina los primeros vínculos de Portadores. |
 | **Año -2500** | **Gran Devoración.** Los Grimm persiguen a los seres humanos durante siglos. |
 | **Año -2000** | Según la tradición, Ghera y Smürr expulsan a la mayoría de los Grimm hacia el oriente y forman Stömur. |
 | **Año -1950** | Los supervivientes forman el pueblo Gheran. Comienza la **Edad del Bronce**. |
@@ -59,7 +59,7 @@ números positivos:
 | **Primera parte de la dinastía Amschel** | Sirene Zorana llega a Zephyrya después de escapar de Astria. Más tarde conoce a Leandrin Rheiner. |
 | **Hacia el final del primer cuarto de Amschel** | Leandrin Rheiner se convierte en Invocadora y comienza la etapa de las Guerras Místicas en Dragma. |
 | **Después, durante Amschel** | Iyuri Khan y Oskar Rheiner nacen cerca del inicio del tercer cuarto de la dinastía. Las vidas de la secuencia familiar hasta Arystan Khan y Millicent Rosamund, así como las de Ellis e Imrik, transcurren dentro de Amschel. |
-| **Año +1254** | Astria es destruida. |
+| **Año +1254** | Astria es destruida. <!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->La causa directa es el Desvanecimiento del Ego del Último Rey Sol.<!-- CANON-VELADO: FIN --> |
 | **Año +1350** | Comienza la dinastía Pavel. Termina la dinastía Amschel. |
 | **Año +1680** | Presente narrativo. El Imperio de Dragma continúa en la Edad de Oro bajo la dinastía Pavel. |
 

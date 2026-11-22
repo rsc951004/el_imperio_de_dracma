@@ -10,6 +10,16 @@ surgido en Astria.
 Su naturaleza, origen y relación con otras entidades no forman parte del
 conocimiento público.
 
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->
+Thalmos era el nombre de un hijo adoptivo de Zoroastro Zorana y hermano
+de Therin. A finales de la Alta Astria, Zorak manipuló el primer
+procedimiento de Zoroastro para crear un vínculo artificial. El
+procedimiento trajo de Irij a la entidad conocida después como el Dios
+Negro, que poseyó a Thalmos y acabó tomando el nombre de su huésped.
+Su influencia transformó Astria hasta dominarla con el fanatismo
+religioso y la adoración de la muerte.
+<!-- CANON-VELADO: FIN -->
+
 ## Historia conocida
 
 La aparición de su culto precedió por siglos a la fundación de la Kys Tábura.
@@ -29,3 +39,6 @@ No se han establecido el año exacto ni el motivo de esta prohibición.
 - `docs/mundo/stigria/dragma/dragma.md`
 - `docs/organizaciones/peregrinos-negros.md`
 - `docs/taburas/kys-tabura.md`
+- [Zoroastro Zorana](../personajes/historicos/zoroastro-zorana.md)
+- [Therin](../personajes/historicos/therin.md)
+- [Zorak](../personajes/historicos/zorak.md)

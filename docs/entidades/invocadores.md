@@ -17,9 +17,15 @@ las Guerras Místicas.
 
 ## Origen
 
-Durante una crisis familiar de Astria, el padre de **Therin** lo convirtió en
-Invocador. Therin es el primer Invocador del que se tiene registro. El relato
-completo y las particularidades del rito permanecen reservados.
+[Therin](../personajes/historicos/therin.md) es el primer Invocador del que
+se tiene registro.
+
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->
+Surgió del segundo procedimiento con el que su padre adoptivo,
+[Zoroastro Zorana](../personajes/historicos/zoroastro-zorana.md), quiso crear
+un vínculo artificial con una entidad de Irij. Therin fue el primer Vinculado
+artificial. Los detalles del procedimiento permanecen reservados.
+<!-- CANON-VELADO: FIN -->
 
 El surgimiento de **Leandrin Rheiner**, joven noble de Flammengard, registra el
 inicio de las Guerras Místicas en territorio de Dragma. Esto no altera la
@@ -33,6 +39,12 @@ Crear un nuevo Invocador exige despojar a un Portador de su vínculo. En la Edad
 de Oro la práctica está fuertemente restringida y casi prohibida. No se han
 establecido públicamente la autoridad competente, los permisos ni el
 procedimiento.
+
+## Corrupción
+
+Un Invocador queda Tocado por la Sombra al comenzar una
+[Incursión](sombra.md#incursión-y-toque), haya recibido o no condicionamiento
+Maeghi.
 
 ## Don y maestrías
 

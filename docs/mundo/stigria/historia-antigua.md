@@ -5,7 +5,8 @@
 Durante el **Surgimiento**, situado en el año **-3046**, humanos e Inits se
 encontraron de forma accidental y surgieron los primeros vínculos que después
 heredarían los Portadores. Los Inits regresaron a Irij antes del amanecer
-siguiente. La primera luz del Surgimiento quitó a los Mobius su forma material
+siguiente. Los Mobius se habían materializado al llegar adheridos a ellos.
+La primera luz del Surgimiento quitó a los Mobius su forma material
 y los dejó en este mundo como presencias inmateriales.
 
 ## Los stigrios y la Gran Devoración

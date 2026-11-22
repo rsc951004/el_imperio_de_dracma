@@ -1,26 +1,49 @@
 # Nimri Jhamali
 
-Maeghi disonante, Siniestro y miembro de los Cuervos Grises de la Guardia Real de
-Lemuria. Su padre procedía de la Bruma y su madre era lemuriana; creció en
-Kystvar, ingresó en la Guardia Real y fue destinado a Lemuria. Se presentó como
-el primer Portador siniestro de la isla.
+Maeghi Disonante extremo, Siniestro y miembro de los Cuervos Grises de la
+Guardia Real de Lemuria. Su padre procedía de la Bruma y su madre era
+lemuriana. Creció en Kystvar, ingresó en la Guardia Real y fue destinado
+a Lemuria. Se presentó como el primer Portador siniestro de la isla.
 
-Durante el rescate de Iyuri Khan intervino en su Santuario del Alma, asumió por
-un momento la apariencia de Oskar y lo ayudó a resistir la Sombra. Después
-ordenó al espectro abandonar la tierra; un rayo lo fulminó. Nimri tenía mayor
-rango que Tuk Neyzeh y Benji Perjhan en el equipo que acudió a la mansión.
+## Rescate en la mansión Khan
 
-Su formación lo prepara para asistir a otras personas mediante el Santuario del
-Alma y su don requiere preparación mental. Los Siniestros son mayoritariamente
-inmunes al Toque, pero no a su impacto psicológico. Aprecia a Tuk y Benji y
-mantiene con ellos vínculos afectivos, sin aislarse emocionalmente; en general
-no mantiene relaciones sexuales. La Disonancia le ha dificultado formar
-relaciones porque otras personas confunden su modo de relacionarse con falta de
-interés o cariño. Con Tuk y Benji vivió amistades sin ese juicio por primera
-vez desde antes de entrar en la escuela Maeghi.
+Los tres rescatistas eran Maeghi Expertos. Nimri tenía mayor rango en el
+equipo que Tuk Neyzeh y Benji Perjhan. Después de que Benji contuviera al
+Engendro y retirara la garra, Nimri detuvo la Incursión de Iyuri Khan y
+extrajo la Semilla Oscura. Lo ayudó a sostenerse en el Santuario del Alma
+y asumió por un momento la apariencia de Oskar. Tuk sanó las lesiones
+físicas y por último Nimri sometió a la criatura y la introdujo en su
+[Pozo de Sombras](../../mundo/stigria/pozo-de-sombras.md).
+
+La magnitud de la Corrupción tocó a los tres. Pasaron juntos por
+aislamiento y reacondicionamiento. Nimri ascendió a Maeghi Maestro como
+consecuencia del incidente. Su formación le permite asistir a otras
+personas en el Santuario y su don requiere preparación mental. Los
+Siniestros son extremadamente resistentes a la Incursión y su afectación
+suele ser psicológica.
+
+## Relaciones
+
+Aprecia a Tuk y Benji y mantiene vínculos afectivos con ambos. La
+Disonancia le ha dificultado relacionarse porque otras personas pueden
+confundir su forma de acercarse con falta de interés o cariño. Con ellos
+tuvo por primera vez amistades libres de ese juicio desde antes de entrar
+en la escuela Maeghi. Su afecto por los dos es muy intenso para un
+Disonante extremo. Puede entenderlo como el equivalente de estar
+enamorado y en sus propios términos la vivencia es de intensidad mínima.
+
+Puede sentir deseo sexual y desde su Disonancia cuestiona el valor del
+placer erótico. Se negó progresivamente a los intentos de Tuk y Benji
+de incluirlo en su intimidad. Durante el aislamiento se decidió
+voluntariamente a participar en un encuentro con ambos para ayudar a
+nivelar la Resonancia de Tuk. El placer fue tan intenso que no quiso
+repetirlo. Tuk y Benji siguen insistiendo. El encuentro intensificó el
+desborde de Tuk y Nimri se convirtió en su nuevo foco persistente.
 
 ## Referencias
 
 - [El niño de la flecha](../../../fragmentos/el-nino-de-la-flecha.md)
-- `docs/personajes/iyuri-khan.md`
-- `docs/organizaciones/cuervos-grises.md`
+- [Iyuri Khan](../iyuri-khan.md)
+- [Tuk Neyzeh](tuk-neyzeh.md)
+- [Benji Perjhan](benji-perjhan.md)
+- [Cuervos Grises](../../organizaciones/cuervos-grises.md)

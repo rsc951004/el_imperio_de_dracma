@@ -28,8 +28,10 @@ definido una escala completa ni sus clases intermedias.
 Rendard Steinert tiene un sello de clase cerezo. Iyuri Khan posee uno de clase
 dragón, considerablemente poderoso. Un sello muy potente puede resultar
 incómodo para quien no sepa manejarlo bien: puede reaccionar ante cantidades
-extremadamente pequeñas de Sombra, presente en el mundo incluso en niveles
-mínimos e imperceptibles, y provocar alertas frecuentes.
+extremadamente pequeñas de [Sombra Residual](../../entidades/sombra.md#sombra-residual-y-corrupción),
+presente en todo el mundo incluso en niveles imperceptibles, y provocar
+alertas frecuentes. El sello detecta presencia de Sombra. Un diagnóstico de
+Toque requiere confirmar la Incursión.
 
 En las personas con Toque Residual, los sellos de otros místicos no se activan;
 esta condición constituye una excepción a la detección habitual.

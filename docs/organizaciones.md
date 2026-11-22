@@ -12,7 +12,7 @@ Cada organización o grupo canónico posee una ficha individual en la carpeta `o
 | Guardia del Norte | Ejército temporal histórico | Fuerza creada para la Marcha Carmesí y disuelta tras la consolidación de los Dominios y Esteria. | [Ver ficha](organizaciones/guardia-del-norte.md) |
 | Guardia Amarilla | Orden defensiva | Orden que administra Esteria y custodia el Paso del Oriente. | [Ver ficha](organizaciones/guardia-amarilla.md) |
 | Guardias Reales y Guardia Imperial | Cuerpos de seguridad | Guardias territoriales y cuerpo de jurisdicción imperial. | [Ver ficha](organizaciones/guardias-imperiales-y-reales.md) |
-| Cuervos Grises | Unidades especializadas | Agentes que combaten amenazas relacionadas con la Sombra. | [Ver ficha](organizaciones/cuervos-grises.md) |
+| Cuervos Grises | Unidades especializadas | Combaten amenazas de la Sombra, asisten en rescates y neutralizan focos de Corrupción. | [Ver ficha](organizaciones/cuervos-grises.md) |
 | Cultistas arcanos | Seguidores de Thalmos | <!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->Servidores arcanos del Dios Negro.<!-- CANON-VELADO: FIN --> | [Ver ficha](organizaciones/cultistas-arcanos.md) |
 | Banda del Colmillo Blanco | Grupo valastiriano | Banda dirigida por el Invocador Imrik Valkyren. | [Ver ficha](organizaciones/banda-del-colmillo-blanco.md) |
 | Orden de la Flama Blanca | Grupo extremista religioso | Grupo ishbaalano que conspiró durante la Aniquilación contra el emperador, los Portadores y los Invocadores. | [Ver ficha](organizaciones/orden-de-la-flama-blanca.md) |

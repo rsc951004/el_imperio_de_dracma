@@ -25,6 +25,7 @@ monarcas es **Colina**.
 **Costas del Verano.** El más septentrional de los tres reinos del Verano, al norte de Zephyrya. Limita con Sturmgard (Valle de Hierro) por el norte. Nombres de sonoridad grecolatina (convención de escritura, no cultura del mundo).
 
 ## Origen
+Los lisarios forman parte de la población veranese de las Costas del Verano.
 Lysarya es uno de los tres reinos de los **Hijos del Sol**, descendientes de
 los esclavos liberados de Astria por la Kys Tábura. Sus antepasados transformaron
 el litoral de Dürr y fundaron la **Costa del Verano**. La evolución de aquellos

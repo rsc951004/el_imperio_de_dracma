@@ -54,12 +54,21 @@ Todo lo que aquí se escribe es lore oficial del universo.
 
 | Término desechado | Término canónico |
 |---|---|
-| Sombra / los Sombra | Mobius |
+| Los Sombra | Mobius, cuando se trata de la Sombra Primordial |
+| Espectro, para la criatura nacida de una Semilla Oscura | Engendro de Sombra |
+| Sombrío, para quien posee el Don Siniestro | Siniestro |
 | La luz de los Inits | Fulgor o manifestación del don, según el contexto |
 | Orilquin | Irij |
 | Portadores de la Luz | Portadores; el nombre histórico «Portadores de la Luz de los Inits» puede usarse al tratar la antigua Erebia |
 | Denominaciones especiales de la señal ocular | Describir directamente el brillo de los ojos |
 | Poder / poderes | Don, dones o maestrías, según el contexto |
+
+**La Sombra** es el conjunto de entidades de origen común. **Mobius**
+designa a una entidad de la Sombra Primordial. **Fulgurante** designa a quien
+posee el **Don del Fulgor**, su nombre académico en tiempos de Iyuri.
+«Fulgor solar», «Portador del Sol» e «Invocador del Sol» tienen usos históricos
+o populares. El gentilicio regional de las Costas del Verano es **veranese**
+en singular y **veranenses** en plural.
 
 ### Lo que NUNCA debe aparecer
 - «Los Sombra» como nombre de entidad.

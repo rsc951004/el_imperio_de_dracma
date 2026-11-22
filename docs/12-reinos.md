@@ -33,9 +33,9 @@ Acero del Alba. Guldengard concentra el oro y la acuñación del Ghild.
 ### Costas del Verano
 
 Lysarya, Zephyrya y Vesperya poseen raíces históricas en los Hijos del Sol.
-**Hijos del Sol** es una identidad etnocultural, mientras **verano** y
-**verana** expresan procedencia geográfica y no implican por sí solas esa
-pertenencia. Los reinos comparten lengua y una tradición de nombres con
+**Hijos del Sol** es una identidad etnocultural. **Veranese**, en singular
+invariable en género, y **veranenses**, en plural, expresan procedencia
+geográfica de los tres reinos. Los reinos comparten lengua y una tradición de nombres con
 sonoridad grecolatina. La evolución entre
 los Dominios impuestos en Dürr y estos reinos pertenece a la Edad de la Tiranía
 y a los primeros periodos imperiales.

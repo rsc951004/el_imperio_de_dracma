@@ -198,9 +198,10 @@ estaba otra vez en el agua. Iyuri trató de concentrarse en la brisa.
 
 —¡Hola, niño estúpido!
 
-La voz había hablado dentro de su Santuario y él la había oído. Abrió los ojos
-con el corazón acelerado. Sabía lo que aquello significaba. También sabía que
-su familia podía estar dentro.
+La sombra en el agua bastaba para saber que la Incursión ya había comenzado.
+Abrió los ojos con el corazón acelerado. Podía mantenerse lejos de la
+criatura y esperar a los Cuervos, pero su familia seguía dentro. No podía
+someterla. Sí podía distraerla hasta que llegara ayuda.
 
 Corrió hacia la mansión. Las paredes estaban cubiertas por una corrupción negra
 que recordaba al moho y a la podredumbre. En la cocina encontró a Nana Fey,
@@ -251,7 +252,7 @@ ventana. Saltó junto a ella, sobre la criatura.
 —Apestas.
 
 Alzó Lazeroth e invocó a Dionisia, pero la espada no respondió como esperaba.
-El espectro lo arrojó contra los escombros, se arrancó la lanza y se la clavó
+El Engendro lo arrojó contra los escombros, se arrancó la lanza y se la clavó
 en el hombro. Iyuri cayó maldiciendo. Recordó a Fhilippo reprendiéndolo por
 faltarle el respeto a la espada que había recibido de su padre: necesitaba
 conocer las palabras para hacerla funcionar de verdad.
@@ -284,7 +285,7 @@ respuesta. El hombro herido le dolía cada vez más. Cayó de rodillas.
 
 —¡Soy lemuriano! ¿Qué quieres de mí? ¡Solo quiero salvar a mi familia!
 
-El espectro apareció arrastrando a Fhilippo por un hombro. Era más grande que
+El Engendro apareció arrastrando a Fhilippo por un hombro. Era más grande que
 antes. Iyuri se levantó como pudo.
 
 —Él te necesita, Niño de la Flecha. Ansía conocerte.
@@ -304,11 +305,11 @@ palabras y trató de encontrar las suyas.
 —Dionisia, te lo ruego. Por mi padre, por el padre de mi padre y por quienes te
 veneran bajo el sol del Verano... ¡Muéstrame tu luz!
 
-Lazeroth resplandeció. El espectro comenzó a humear; se retorció y gritó de
+Lazeroth resplandeció. El Engendro comenzó a humear; se retorció y gritó de
 dolor. Soltó a Fhilippo. Iyuri dejó caer la espada, tomó a su padre por un pie
 y buscó el salto. Una garra se clavó en su brazo antes de que desaparecieran.
 
-El mundo giró. Iyuri, Fhilippo y el espectro parecieron caer juntos. Volvió a
+El mundo giró. Iyuri, Fhilippo y el Engendro parecieron caer juntos. Volvió a
 ver el comedor y después las nubes sobre la mansión. Abajo estaba la playa,
 donde había dejado a Marwha y a Lya. La criatura podía caer sobre ellas.
 
@@ -327,15 +328,20 @@ aquella voz lo llamaba inútil y le decía que lo estaba dejando morir.
 —Lo siento —intentó decirles—. Solo quería ser libre.
 
 La voz del juez cambió. Lo llamó Niño de la Flecha y le ordenó que lo mirara.
-Después todo quedó negro.
+Iyuri buscó la pradera. En su lugar encontró un mar oscuro, tan denso que
+apenas podía mover los brazos. Ya no caía. Sentía un cansancio tan grande que
+quiso cerrar los ojos.
 
-Iyuri flotó en un mar sin cielo ni suelo. Ya no caía. Sentía un cansancio tan
-grande que quiso cerrar los ojos.
+—Sujétalo, Benji.
+
+Oyó un golpe y un bramido. Algo tiró de su pecho y el dolor lo atravesó de
+parte a parte.
+
+—Ya saqué la garra. Tengo a la bestia.
 
 —Señor, míreme. No cierre los ojos.
 
-Otras voces discutían. Alguien llamaba a Benji; otro exigía que Tuk retirara
-algo. Iyuri quiso que lo dejaran dormir.
+Iyuri quiso que lo dejaran dormir.
 
 —¡Soy su maldito capitán! ¡Cállense, sturmgardianos malolientes! Cuando
 lleguemos a tierra ninguno beberá cerveza. ¡Solo yo!
@@ -348,7 +354,9 @@ verdad.
 
 —Lo siento —dijo Iyuri—. No eres feo.
 
-El joven le pidió que mirara la hierba. Había flores de olor dulce y árboles que
+El agua se cerró sobre él. El joven lo llamó otra vez y el tirón que lo
+arrastraba hacia el fondo cedió. Volvió a sentir suelo bajo la espalda. El
+joven le pidió que mirara la hierba. Había flores de olor dulce y árboles que
 se mecían con el viento. Iyuri reconoció la pradera de su Santuario.
 
 La Sombra gritó desde el lago que él le pertenecía. El rubio le pidió que no
@@ -368,43 +376,37 @@ pero le prometo que todo saldrá bien.
 ## Los cuervos
 
 Iyuri abrió los ojos apoyado contra un árbol. Fhilippo yacía a su lado,
-inconsciente. Le sangraba el hombro y una garra negra le atravesaba el pecho.
-Quiso gritar, pero no le salió la voz.
+inconsciente. Quiso gritar, pero apenas le quedaba aire. Benji Perjhan
+forcejeaba a unos pasos con el Engendro. La garra que había sacado del pecho
+de Iyuri se cerró a un palmo de la cara de Benji.
 
-El joven rubio estaba sentado frente a él. Dos hombres acorazados contenían a
-la criatura. Iyuri reconoció entonces la insignia de la banda: un Maeghi
-siniestro. La alerta negra había funcionado.
+—La Brigada Benji ha venido al rescate —dijo entre dientes.
 
-El rubio era Nimri Jhamali.
+El joven rubio seguía frente a Iyuri. Al reconocer la insignia de su banda,
+Iyuri comprendió que la alerta negra había funcionado.
 
-—Está despierto, Tuk. Ahora.
+—Ya saqué la Semilla —dijo Nimri Jhamali—. Tuk, ahora.
 
-—Ya veo. ¿Tengo que tocar esa cosa?
+Tuk Neyzeh se arrodilló sobre la hierba y empleó su don. A Iyuri le volvió
+el latido. Luego pudo tomar aire. La piel se cerró sobre el pecho mientras
+Tuk seguía inclinado sobre él.
 
-Tuk Neyzeh se acercó de todos modos y empleó su don. El espectro se retorció;
-Tuk salió despedido, pero la garra abandonó el pecho de Iyuri.
-
-Benji Perjhan acudió a la herida con algo de su bolso.
-
-—La Brigada Benji ha venido al rescate —anunció.
-
-Iyuri intentó tomar aire mientras Benji atendía la herida.
-
-Nimri se puso delante del espectro.
+Nimri se puso delante del Engendro.
 
 —Mírame, bestia inmunda. Yo soy tu amo.
 
-Ordenó a la criatura que abandonara la tierra de los hombres y durmiera el
-sueño de Kael. Todo alrededor pareció volverse negro; solo resplandecían Iyuri,
-Fhilippo y los tres rescatistas. Un rayo cayó sobre el espectro. Cuando la luz
-se disipó, quedaban cenizas que el viento se llevó. La podredumbre visible de
-la mansión desapareció con él.
+Le ordenó que durmiera el sueño de Kael. El Engendro dejó de forcejear. Nimri lo sometió y, ante los
+ojos de Iyuri, la criatura desapareció. Más tarde sabría que Nimri la había
+guardado en su Pozo de Sombras.
+
+El aire todavía olía a podredumbre. La mansión seguía manchada de negro y
+harían falta varios Cuervos para limpiarla.
 
 Fhilippo tosió y abrió los ojos.
 
 —¿Dónde estoy? ¿Iyuri?
 
-Su padre estaba vivo. Iyuri intentó contestar mientras Benji atendía su pecho.
+Su padre estaba vivo. Iyuri intentó contestar mientras Tuk seguía a su lado.
 Nimri inclinó la cabeza y explicó que habían visto la señal negra y acudido tan
 rápido como pudieron. Fhilippo pareció sorprendido de encontrar allí a un
 Siniestro.

@@ -4,10 +4,10 @@ Nombre alternativo: **Marca de la Bestia**.
 
 ## Naturaleza
 
-Condición documentada en pocos sobrevivientes que llegaron a incubar una
-semilla de espectro. El sobreviviente queda conectado permanentemente a la
-Sombra. Iyuri Khan presenta Toque Residual: contempló el Mar de Dirak y
-sobrevivió.
+Conexión persistente con la Sombra después de sobrevivir a la formación de una
+Semilla Oscura. Iyuri Khan presenta Toque Residual tras la extracción de su
+Semilla. Es el único caso de supervivencia a una Semilla Oscura documentado en
+la historia imperial.
 
 ## Manifestación y efectos
 

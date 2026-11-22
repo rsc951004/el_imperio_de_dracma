@@ -14,6 +14,10 @@ Zoroastro y Calris manifestaron el don. Sirene compartía un antepasado con
 Zoroastro, quien no tuvo hijos biológicos. Calris pertenecía a su rama sin
 descender de él.
 
+<!-- CANON-VELADO: INICIO | desconocido-por: el mundo actual -->
+Zoroastro fue padre adoptivo de Therin y de Thalmos.
+<!-- CANON-VELADO: FIN -->
+
 Calris desarrolló una variante verde del fuego capaz de destruir materia y
 alma; algunos de sus descendientes pueden manifestarla. Sirene pertenecía a la
 rama de Viel y su esposo a la de Garken por vía materna.

@@ -18,9 +18,12 @@ requiere refuerzos continuos.
 La formación busca propiciar amistades protectoras entre Aprendices y entre
 Aprendices y Maestros. Puede generar codependencia o relaciones con diferencias
 de poder, pero no autoriza contacto físico o intimidad impuestos: el abuso es
-un crimen. La aceptación de ingreso informa que el condicionamiento puede
-modificar las relaciones afectivas de maneras imprevisibles; no equivale a
-consentir actos concretos.
+un crimen. Antes de que el aspirante ingrese como Maeghi, recibe información exhaustiva
+sobre los cambios posibles, incluida la hipersexualización, la aceptación de
+la sexualidad y de relaciones efímeras en Resonantes y la naturalidad del
+aislamiento en Disonantes. Los efectos llevan siglos estudiándose y
+documentándose y son imprevisibles a escala individual. La aceptación de
+ingreso no equivale a consentir actos concretos.
 
 El condicionamiento puede reducir gradualmente barreras a la cercanía y afectar
 costumbres, incluidas normas de masculinidad tradicional entre Sangre de Hierro.
@@ -29,7 +32,31 @@ es enseñanza sexual ni una serie de ejercicios sexuales organizados. No
 determina orientación sexual ni preferencias afectivas, y la cercanía no exige
 romance ni sexo.
 
+Las instituciones aceptan las consecuencias psicológicas, emocionales,
+socioafectivas y sexuales como costo de la preparación contra la Sombra.
+Dentro de la institución el condicionamiento se considera necesario y quienes
+lo reciben tienden a percibir sus prácticas y efectos como normales.
+
 ## Resonancia y Disonancia
+
+Son efectos psicoafectivos profundos, complementarios y variables del
+condicionamiento Maeghi. Proporcionan defensa pasiva sin activación consciente.
+Su mantenimiento depende de los refuerzos del condicionamiento, que puede
+debilitarse y revertirse. Bien asentadas, dificultan la Incursión y protegen
+hasta hacer inmune al Vinculado a la mayoría de las exposiciones ordinarias
+a Sombra Residual y Corrupción leve. La inmunidad tiene el alcance de esas
+exposiciones. El Santuario del Alma aporta una segunda defensa, activa.
+
+La persona conserva su carácter general, individualidad, orientación sexual,
+voluntad, juicio, inteligencia y autonomía. A medida que cambian sus
+experiencias, vínculos y conductas, su personalidad también cambia. El
+condicionamiento puede reducir el miedo y barreras culturales, morales,
+sociales o personales, de modo que prácticas antes consideradas impropias
+puedan sentirse naturales o deseables. En un Resonante predominante puede
+facilitar el afecto, la cercanía, el contacto o la intimidad. En un Disonante
+predominante, incluso el aislamiento extremo puede dejar de causar
+sufrimiento. Ambos casos describen modos de vivir las relaciones y el
+aislamiento.
 
 La **Resonancia** permite encontrar fortaleza emocional en relaciones de
 amistad, confianza, apoyo mutuo, gratitud, afecto y familia elegida. No es

@@ -5,6 +5,10 @@
 Planeta donde se encuentran Dracma, Erebia, Astria y las demás regiones del
 mundo conocidas en el canon.
 
+La [Sombra Residual](../entidades/sombra.md#sombra-residual-y-corrupción)
+se extendió por todo el planeta, incluso por tierras sin presencia material
+de Inits o Mobius durante el Surgimiento.
+
 ## Alcance establecido
 
 No se fijan aquí su tamaño, lunas, sistema planetario, cosmología ni forma

@@ -26,15 +26,17 @@ resistencia a la dominación astriana. La identidad precisa de las figuras de
 esas tradiciones y su evolución permanecen reservadas.
 
 **Hijos del Sol** es la identidad etnocultural nacida entre los esclavos
-liberados de Astria y conservada por sus descendientes. **verano** y **verana**
-expresan, en cambio, la procedencia geográfica de las Costas del Verano. Una
-persona puede ser verana sin pertenecer a los Hijos del Sol, y los descendientes
-mezclados pueden continuar identificándose como Hijos del Sol.
+liberados de Astria y conservada por sus descendientes. **Veranese** es el
+gentilicio geográfico singular, invariable en género, de Lysarya, Vesperya y
+Zephyrya. Su plural es **veranenses**. Los gentilicios particulares son
+**lisario**, **vespirio** y **zephyrio**. Una persona veranese puede tener otra
+identidad etnocultural y los descendientes de familias mixtas pueden seguir
+identificándose como Hijos del Sol.
 
 Como tendencias heredadas, los Hijos del Sol presentan piel clara y lechosa,
 ojos azules intensos, cabello entre castaño claro y rubio oscuro —con ondas o
 rizos frecuentes—, facciones finas y poca barba. Estos rasgos no se atribuyen a
-toda persona verana ni determinan la identidad.
+toda persona veranese ni determinan la identidad.
 
 ## El Pacto de Dürr
 

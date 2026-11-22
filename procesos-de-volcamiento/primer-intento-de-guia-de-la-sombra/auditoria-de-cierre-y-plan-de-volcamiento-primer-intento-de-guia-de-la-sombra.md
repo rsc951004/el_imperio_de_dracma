@@ -1,6 +1,6 @@
 # Auditoría de cierre y plan de volcamiento del primer intento de guía de la Sombra
 
-> Fase 4. Documento de proceso no canónico, listo para revisión humana. La ejecución requiere una orden independiente.
+> Documento de proceso no canónico. Registra el cierre de la fase 4 y el plan aprobado para la fase 5.
 
 ## Auditoría de cierre
 
@@ -133,4 +133,4 @@ Las explicaciones del asistente sobre un mecanismo que vincularía el parasitism
 4. Actualizar las entradas afectadas en [Entidades](../../docs/entidades.md), [Mundo](../../docs/mundo.md), [Personajes](../../docs/personajes.md), [Organizaciones](../../docs/organizaciones.md), [Táburas](../../docs/taburas.md) e [Índice de fragmentos](../../fragmentos/indice.md). Para las fichas nuevas, usar una entrada propia y referencias recíprocas donde correspondan. Verificar enlaces Markdown, destinos citados como texto y anclas afectadas por encabezados. No se prevén borrados, descanonizaciones ni renombres de fichas existentes. Los documentos marcados como descanonizados quedan fuera de las fuentes vigentes.
 5. Verificar con búsquedas textuales las variantes de cada nombre o premisa sustituida y leer sus contextos para retirar también las consecuencias. Comprobar cada destino aprobado contra la acumulación y las resoluciones. Actualizar [Pendientes](../../docs/pendientes.md) donde haga falta corregir términos o reconocer cierres, preservando las reservas de otros expedientes. Registrar el alcance ejecutado en [Notas editoriales](../../docs/notas.md).
 
-La auditoría de cierre cubre AU-01 a AU-11. El plan queda listo para solicitar autorización de ejecución con el alcance expresado en esa solicitud, conforme a la [metodología del repositorio](../AGENTS.md).
+La auditoría de cierre cubre AU-01 a AU-11. La ejecución de los ocho bloques fue autorizada expresamente conforme a la [metodología del repositorio](../AGENTS.md). El resultado canónico se registra en [Notas editoriales](../../docs/notas.md#volcamiento-del-primer-intento-de-guía-de-la-sombra-2026-11-22).
