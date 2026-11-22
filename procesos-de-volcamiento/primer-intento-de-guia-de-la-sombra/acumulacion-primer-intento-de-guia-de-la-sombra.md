@@ -107,7 +107,7 @@
 - Si el Santuario del Alma no se usa o no surte efecto, la Corrupción puede formar una **Semilla Oscura**. Desde su formación hasta el nacimiento del Engendro transcurren apenas unos instantes.
 - La Semilla consume lo que queda del vínculo. Justo antes de que el Engendro brote del pecho del afectado y lo mate, el vínculo queda completamente consumido y el antiguo Vinculado es, por un instante, una persona normal.
 - La señal inequívoca de una Semilla ya formada es el **Mar de Dirak**: al intentar crear el Santuario del Alma, el usuario no logra construir su escenario imaginado y aparece inmerso en un mar oscuro y denso. Indica que el Engendro emergerá apenas el vínculo sea consumido por completo.
-- Iyuri Khan es uno de los pocos casos documentados de supervivencia tras la formación de una Semilla Oscura. Fue salvado por la intervención a tiempo del Siniestro Nimri y sus compañeros Tuk y Benji.
+- Iyuri Khan es el único caso documentado en la historia del Imperio de un Vinculado que sobrevivió después de la formación de una Semilla Oscura. Su supervivencia se consideraba hasta entonces prácticamente imposible. Nimri, Benji y Tuk fueron indispensables para salvarlo. Ser el único caso documentado no implica que nunca haya ocurrido otro; significa que no existe otro caso reconocido y registrado.
 
 ## 5. Engendros de Sombra
 
@@ -132,17 +132,24 @@
 
 ### Rescate en la mansión Khan
 
-- Iyuri estaba doblemente condenado: tenía ya formada una Semilla Oscura y un Engendro de la mansión Khan le atravesaba el pecho con sus garras.
-- **Nimri Jhamali** detuvo la Incursión, retiró la Semilla Oscura de Iyuri y, después, dominó al Engendro para añadirlo a su Pozo de Sombras.
-- **Benji Perjhan** luchó contra el Engendro y lo contuvo mientras Nimri intervenía.
-- **Tuk Neyzeh** salvó físicamente a Iyuri después de contenida la Sombra: reconstruyó sus órganos internos, incluido el corazón reventado y los pulmones colapsados, y restauró su piel mediante su extraordinario don de sanación.
-- Esta distribución sustituye cualquier atribución anterior incompatible de esas acciones. Los tres fueron indispensables.
+- Iyuri sabía que podía enfrentarse a la amenaza, aunque no podía someterla definitivamente. Decidió combatirla para proteger a su familia y contuvo el peligro durante el tiempo suficiente para que llegaran quienes podían dominar la Sombra.
+- Iyuri tenía formada una Semilla Oscura y un Engendro de Sombra de la mansión Khan le atravesaba el pecho con sus garras.
+- **Benji Perjhan** combatió y contuvo físicamente al Engendro. Durante su intervención retiró la garra que atravesaba el pecho de Iyuri.
+- **Nimri Jhamali** detuvo la Incursión y extrajo la Semilla Oscura ya formada, impidiendo el nacimiento de otro Engendro.
+- **Tuk Neyzeh** utilizó su extraordinario don de sanación para salvar físicamente a Iyuri, reconstruyendo su corazón, pulmones, órganos internos y piel.
+- Finalmente, Nimri sometió al Engendro existente y lo introdujo en su Pozo de Sombras. El Engendro no fue destruido.
+- Las intervenciones de Benji, Tuk y Nimri fueron indispensables para la supervivencia de Iyuri.
+- Iyuri llegó a conocer todos los detalles de su rescate, incluidas las intervenciones de Benji, Tuk y Nimri, la extracción de la Semilla Oscura y la captura del Engendro en el Pozo de Sombras.
+- Iyuri recibió el reconocimiento de **Héroe del Imperio** por enfrentarse conscientemente a una amenaza superior a sus capacidades, arriesgando su vida para proteger a su familia y mantenerla a salvo hasta la llegada de la ayuda. Su valentía y sacrificio fundamentan el reconocimiento.
+- La captura del Engendro no eliminó la Corrupción acumulada en la mansión Khan. Esta permaneció después de desaparecer la criatura. Varios Cuervos Grises con dominio sobre la Sombra intervinieron después y limpiaron toda la mansión.
+- La magnitud de la Corrupción tocó a los tres Cuervos participantes en el rescate, pese a su preparación y experiencia. Tras el enfrentamiento tuvieron que ser aislados y luego realizaron juntos un reacondicionamiento.
+- Durante el incidente, **Benji**, **Tuk** y **Nimri** eran Maeghi Expertos. Nimri fue ascendido a Maeghi Maestro como consecuencia del incidente; no tenía ese grado durante el rescate.
 
 ### Los tres Cuervos y su reacondicionamiento
 
-- Tuk y Benji son Maeghi de grado Experto y Resonantes; Nimri es Maeghi de grado Maestro, Siniestro y Disonante extremo. Son grandes amigos. Tuk y Benji son amantes.
-- Tras el enfrentamiento en la mansión Khan, los tres fueron Tocados y tuvieron que ser aislados para impedir la propagación de la Sombra. El aislamiento deterioró mucho la condición psicológica de Tuk.
-- Contra los protocolos de contención posteriores a un enfrentamiento directo con la Sombra, se autorizó su aislamiento conjunto. Debieron realizar juntos un proceso de reacondicionamiento, que incrementó el desborde de Resonancia de Tuk.
+- Tuk y Benji son Resonantes; Nimri es Siniestro y Disonante extremo. Durante el rescate, los tres eran Maeghi Expertos. Son grandes amigos. Tuk y Benji son amantes.
+- Tras el enfrentamiento en la mansión Khan, los tres fueron Tocados y tuvieron que ser aislados para impedir la propagación de la Sombra. El aislamiento deterioró mucho la condición psicológica de Tuk. Nimri fue ascendido a Maeghi Maestro como consecuencia de este incidente.
+- Contra los protocolos de contención posteriores a un enfrentamiento directo con la Sombra, se autorizó su aislamiento conjunto. Debieron realizar juntos un proceso de reacondicionamiento, tras el que Tuk sufrió una crisis temporal que intensificó su desborde de Resonancia. La crisis se resolvió mediante satisfacción erótica, una medida muy efectiva en situaciones de este tipo. Superada la crisis, Tuk regresó a su nivel habitual de desborde.
 - Tuk tiene tres focos eróticos persistentes: **Benji**, **Ren** y **Nimri**. Benji es el más persistente, porque es quien siempre se adapta a las necesidades afectivas de Tuk.
 - El desborde de Benji le hace experimentar una intensa sensación de ser un salvador de Tuk. La complacencia de Benji intensifica el deseo de Tuk hacia él; ambos desbordes de Resonancia se potencian en una dinámica peligrosa y no recomendada por la Möes, aunque se tolera ante el riesgo de Corrupción y el alto valor de estos Maeghi, en especial el poderoso don de sanación de Tuk.
 - Tuk y Benji habían intentado incluir a Nimri en su intimidad y él se había negado progresivamente. Nimri puede sentir deseo sexual, pero su Disonancia extrema lo lleva a cuestionar el valor del placer erótico.
@@ -151,8 +158,7 @@
 
 ### Reserva expresa
 
-- Los grados precisos de Tuk, Benji y Nimri y su aplicación cronológica requieren conciliación posterior.
-- Las causas clínicas concretas por las que el aislamiento afectó especialmente a Tuk, por las que el reacondicionamiento exacerbó su desborde y por las que el encuentro íntimo se utilizó como respuesta fueron hipótesis del asistente no confirmadas; no quedan acordadas.
+- El mecanismo clínico concreto de la crisis temporal de Tuk no está definido.
 
 ## 8. Zorak
 
@@ -175,16 +181,19 @@
 - Zorak vivió entre los astrianos desde la fundación de Astria. Un acuerdo le permitió poseer voluntariamente a personas astrianas con la condición de cambiar de huésped a tiempo para evitar daños excesivos por Corrupción. A cambio, compartía conocimientos extraordinarios, imposibles de obtener mediante la investigación convencional.
 - El acuerdo se rompió y Zorak fue encerrado por razones desconocidas. Permaneció prisionero hasta que Zoroastro Zorana lo encontró. No se ha definido cuánto tiempo transcurrió entre estos hechos.
 - Antes de acabar en la cámara secreta, Zorak había sido engañado por múltiples humanos. Cuando Zoroastro lo encontró, el deterioro de su condición hizo que su primer impulso fuera mentir, engañar y corromper.
-- Zorak manipuló y engañó a **Zoroastro Zorana** para que trajera desde Irij a Agra una nueva entidad conocida históricamente como el **Dios Negro**. Esta fue la venganza que luego reconoce. Después de manipular a Zoroastro, Zorak volvió a su prisión. Provocó aquel desastre sin abandonar físicamente el frasco.
-- Zorak ayudó a construir la civilización astriana y disfrutó vivir y descubrir en ella. En tiempos de Alrazi lamentaba decisiones y una venganza que habían originado el deterioro de esa civilización.
+- A finales de la **Alta Astria**, **Zoroastro Zorana** investigaba un procedimiento para crear artificialmente un vínculo entre un humano y una entidad de Irij. En su primer intento, **Zorak** lo manipuló y engañó, haciendo que el procedimiento trajera una entidad distinta de la que Zoroastro pretendía vincular. La entidad, conocida después como el **Dios Negro**, poseyó a **Thalmos**, uno de los hijos adoptivos de Zoroastro. Con el tiempo, el Dios Negro pasó a ser conocido simplemente como Thalmos, el nombre de su huésped humano.
+- Tras el primer intento, Zoroastro realizó un segundo con el mismo objetivo y sin la manipulación de Zorak. Tuvo éxito y creó al primer Vinculado artificial, **Therin**, hermano de Thalmos e hijo adoptivo de Zoroastro.
+- Zorak reconoce como venganza la manipulación del primer intento. Después volvió a su prisión sin haber abandonado físicamente el frasco.
+- La decadencia moral de Astria comenzó con la colonización y esclavización de los pueblos de las islas vecinas, cuando la civilización seguía siendo esplendorosa y extraordinariamente desarrollada.
+- La llegada del Dios Negro desencadenó una transformación religiosa y cultural posterior, que convirtió a Astria en una sociedad dominada por el fanatismo religioso y la adoración de la muerte. Zorak fue responsable de introducir a esa entidad mediante su manipulación de Zoroastro. Su venganza contribuyó decisivamente a transformar la civilización que había ayudado a construir y en la que disfrutaba vivir. Esa es la responsabilidad histórica que lamentaba en tiempos de Paracelso Alrazi.
 - Alrazi robó el frasco de su prisión, lo mantuvo en él y permitió que Zorak lo poseyera. Ambos recorrieron el mundo mientras Alrazi descubría una forma de contrarrestar la Corrupción de Zorak.
 - Años después, Zorak volvió a Astria sin Alrazi para poseer a **Verna Zorana**, cultista del Dios Negro, y liberar a un prisionero llamado **el Último Rey Sol**.
-- Zorak no fue el responsable directo de la destrucción de Astria, pero la facilitó por orden de un tercero no identificado. Actuó contra su voluntad porque entendía que era la única alternativa para contener o destruir el cuerpo físico de Thalmos antes de que destruyera Stigria.
-- Dos días después de su regreso, una gigantesca bola de luz fulgurante destruyó la civilización astriana.
+- Un tercero cuya identidad y forma de intervención no se desarrollan en este proceso facilitó los acontecimientos que condujeron a la destrucción de Astria. Zorak actuó bajo sus órdenes. Su misión consistía en regresar a Astria, poseer a **Verna Zorana** y liberar al **Último Rey Sol**, como parte de un plan destinado a contener o destruir el cuerpo físico del Dios Negro antes de que este destruyera Stigria. Zorak participó contra su voluntad, comprendiendo que aquella era la única alternativa. La responsabilidad de facilitar el desenlace corresponde al tercero involucrado. A Zorak no se le atribuye la planificación ni la responsabilidad principal de la destrucción.
+- La causa directa de la destrucción de Astria fue el **Desvanecimiento del Ego del Último Rey Sol**, cuya energía devastó la civilización astriana. Dos días después del regreso de Zorak, se manifestó como una gigantesca bola de luz fulgurante.
 
 ### Reservas expresas sobre Zorak
 
-- Permanecen sin definir la razón de su primer encierro, quién rompió el acuerdo con los astrianos y por qué, los motivos de Zoroastro, la contramedida de Alrazi, la identidad de quien ordenó la misión final, el resultado exacto de la misión y el mecanismo concreto de la catástrofe astriana.
+- Permanecen sin definir la razón de su primer encierro, quién rompió el acuerdo con los astrianos y por qué, y la contramedida de Alrazi. La identidad del tercero, los mecanismos concretos de su intervención y el resultado particular de las acciones de Zorak no necesitan desarrollarse para completar este proceso.
 - No se definió cuánto de las acciones de Zorak procede de su personalidad o de su deterioro fuera de un huésped.
 - Las características de Zorak no se extienden automáticamente a todos los Mobius.
 
