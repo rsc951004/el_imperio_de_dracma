@@ -141,6 +141,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Nombres de los Reinos del Verano | Guía onomástica | Reglas gráficas y ejemplos para las tierras del Verano. | [Ver ficha](mundo/stigria/cantera-de-nombres/verano.md) |
 | Nombres de la Tierra de la Bruma | Guía onomástica | Sonoridad danesa-islandesa y ejemplos para la Bruma. | [Ver ficha](mundo/stigria/cantera-de-nombres/bruma.md) |
 | Nombres de Valastir | Guía onomástica | Amalgama sangheskia, del Hierro, el Verano y la Bruma. | [Ver ficha](mundo/stigria/cantera-de-nombres/valastir.md) |
+| Nombres de Lemuria | Guía onomástica | Sonoridad y cantera de nombres para Lemuria. | [Ver ficha](mundo/stigria/cantera-de-nombres/lemuria.md) |
 
 ### Dragma (Imperio)
 

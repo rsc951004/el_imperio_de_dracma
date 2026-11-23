@@ -11,6 +11,7 @@ casas futuros.
 | Reinos del Verano | [Verano](verano.md) |
 | Tierra de la Bruma | [Bruma](bruma.md) |
 | Valastir | [Valastir](valastir.md) |
+| Lemuria | [Lemuria](lemuria.md) |
 
 La creación de una guía nueva y la revisión de las existentes se rigen por el
 [manual de construcción y revisión](construccion-y-revision.md).

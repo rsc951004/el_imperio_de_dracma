@@ -1,5 +1,18 @@
 # Notas editoriales
 
+### Cantera de nombres de Lemuria (2026-11-23)
+
+Por autorización del autor se incorporó la cantera lemuriana inicial con los
+24 nombres aprobados y orientaciones sonoras flexibles. La nueva guía sustituye
+la cantera sheijad, cuyo archivo se retiró tras rescatar sus referencias y
+recursos compatibles; su historial se conserva en Git. Se enlazó desde el
+índice de canteras, el índice de mundo y la ficha de Lemuria.
+
+El autor ratificó expresamente Ayran, Ilyar, Daryan, Yaren, Zareya, Zamira,
+Aymera y Nureya pese a sus coincidencias con nombres reales, como excepción
+editorial para estas ocho grafías. La decisión no modifica las instrucciones
+generales. Los cambios de nombres de personajes pertenecen a otra etapa.
+
 ### Incorporación de la extensión de definiciones Maeghi (2026-11-23)
 
 Por autorización del autor se incorporaron al canon las resoluciones de las
