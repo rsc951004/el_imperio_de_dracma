@@ -16,6 +16,8 @@ La selección anterior de 45 nombres fue rechazada: no forma parte de la cantera
 
 Cuando se autorice la primera etapa se eliminará `sheijad.md` tras rescatar los recursos compatibles y revisar referencias; su historial permanecerá en Git. Esta decisión sustituye la reserva anterior sobre el tratamiento material. No se modifica la historia ni la identidad sheijad.
 
+El humano ratifica íntegramente la lista y establece una **excepción editorial expresa** para conservar exactamente Ayran, Ilyar, Daryan, Yaren, Zareya, Zamira, Aymera y Nureya pese a las coincidencias reales documentadas. Esta decisión particular prevalece sobre la regla general de transformación para esos ocho ejemplos; no modifica `docs/AGENTS.md` ni establece una excepción general. Se mantienen la musicalidad, naturalidad, diversidad e inspiración centroasiática.
+
 ## Resoluciones finales
 
 ### R-01 y R-02 — Casa Khan
@@ -28,7 +30,7 @@ Se ratifican **Mehrzaya Khan** para Marwha Khan y **Leyza Khan** para Lya Khan. 
 
 ### R-04 — Nombres conservados
 
-Se conservan **Iyuri Khan**, **Arystan Khan** y **Fey Gilmora**, también llamada **Nana Fey**. El origen territorial de Fey queda sin determinar en este proceso. La referencia creativa externa de Arystan no establece su genealogía ni personalidad. Se conserva la grafía de cada uno.
+Se conservan **Iyuri Khan**, **Arystan Khan** y **Fey Gilmora**, también llamada **Nana Fey**. Por decisión humana posterior, **Fey es de origen veranense**. Este dato sustituye la antigua reserva sobre su origen y se incorporará a su ficha durante la segunda etapa, si se autoriza. No se establece reino de nacimiento, ascendencia adicional ni circunstancias de llegada a Lemuria. La referencia creativa externa de Arystan no establece su genealogía ni personalidad. Se conserva la grafía de cada uno.
 
 ### R-05 y R-09 — Nairim, Tayruk y Bendji
 
@@ -44,9 +46,9 @@ La operación prevista es eliminar el archivo antiguo al incorporar la nueva gu�
 
 Las referencias son tradiciones túrquicas centroasiáticas, persas e iranias, influencias árabes y contactos eslavos y rusos. Son herramientas externas de creación y no pueblos de Agra. Raíces, grupos y terminaciones serán orientaciones flexibles, sin imponer cambios a nombres existentes. La lectura debe resultar clara en español; Bendji suena próximo a Benji. No se incorporan como normas las categorías sociales del proceso identitario ni se asignan nombres por ascendencia, apariencia o personalidad.
 
-### R-08 — Selección pendiente
+### R-08 — Selección aprobada
 
-Los 48 ejemplos iniciales no se aprueban automáticamente. La posterior selección de 45 fue rechazada y sustituida por los 24 nombres aprobados de la versión 1.0. Las coincidencias detectadas y su tratamiento pendiente constan en la auditoría de cierre. Los nombres ya asignados no se incorporan como disponibles.
+Los 48 ejemplos iniciales no se aprueban automáticamente. La posterior selección de 45 fue rechazada y sustituida por los 24 nombres aprobados de la versión 1.0. Las coincidencias detectadas y la excepción humana para las ocho grafías constan en la auditoría de cierre. Los nombres ya asignados no se incorporan como disponibles.
 
 ### R-10 y R-11 — Rutas y registro
 
@@ -63,10 +65,10 @@ El cambio es onomástico. Permanecen los dones, personalidades, relaciones, hist
 | AU-01 | Cerrado: Mehrzaya y Leyza ratificadas. |
 | AU-02 | Cerrado en criterio: nombres aprobados, Tuk contextual y Brigada Bendji; la revisión de cada aparición corresponde a la ejecución posterior. |
 | AU-03 | Cerrado: sustitución y eliminación futura del archivo antiguo. |
-| AU-04 | Cerrado en criterios y selección humana; con reserva por las coincidencias reales identificadas en la auditoría de cierre. |
+| AU-04 | Cerrado: criterios y 24 nombres ratificados; excepción expresa para las ocho coincidencias señaladas. |
 | AU-05 | Cerrado en criterio de renombrado y actualización; comprobación de rutas pendiente de ejecución. |
 | AU-06 | Cerrado en criterio de conservación; aplicación y comprobación pendientes del volcamiento. |
-| AU-07 | Cerrado: nombres conservados; origen de Fey reservado. |
+| AU-07 | Cerrado: nombres conservados; Fey es veranense por decisión humana, con destino previsto en su ficha. |
 
 ## Propuesta anterior de cantera — rechazada y conservada como historial
 
