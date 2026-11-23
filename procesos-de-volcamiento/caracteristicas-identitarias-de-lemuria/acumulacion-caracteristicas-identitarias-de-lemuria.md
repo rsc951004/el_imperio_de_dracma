@@ -20,6 +20,24 @@ Los [sheijad](../../docs/mundo/stigria/historia-sheijad.md) llegaron a Kardan de
 
 Quedan sin definir el significado que conserva Sarustra para los lemurianos contemporáneos, cómo se usan las denominaciones de los tres grupos en la vida cotidiana y qué importancia tienen en la convivencia.
 
+## Clima, entorno y afinidades culturales
+
+### Definiciones humanas
+
+- Lemuria se encuentra frente a las costas de Flammengard. Por su ubicación cabría esperar un clima considerablemente más agreste; sin embargo, la isla tiene un clima predominantemente mediterráneo, de temperaturas templadas y relativamente cálidas, con abundante vegetación y condiciones favorables para la agricultura.
+- El clima actual es consecuencia de una intervención mística de antiguos Portadores veranenses, quienes modificaron las condiciones climáticas de la isla mediante procedimientos semejantes a los empleados históricamente para transformar las Costas del Verano. Por esta razón, Lemuria recibe con frecuencia el sobrenombre de **«el Regalo del Verano»**.
+- La transformación permitió desarrollar condiciones especialmente favorables para los cultivos y una vegetación abundante. El clima, la fertilidad agrícola y la abundancia vegetal contribuyen a las condiciones materiales de vida de los habitantes, sin que se hayan definido por ello niveles de riqueza, prosperidad, esperanza de vida u otros indicadores sociales.
+- A pesar de su cercanía geográfica a Flammengard, Lemuria mantiene una afinidad cultural considerablemente mayor con los pueblos veranenses que con los de la Sangre de Hierro. La intervención veranese en el clima constituye una contribución decisiva a las condiciones naturales de la isla y forma parte de los vínculos históricos entre ambas culturas.
+- En términos generales, los pueblos de la Sangre de Hierro manifiestan una mayor resistencia al intercambio cultural con otros pueblos; es una tendencia más amplia que su relación con Lemuria, no un rasgo universal de cada habitante. Junto con la influencia histórica veranese, contribuye a explicar la mayor cercanía cultural lemuriana con los pueblos del Verano.
+- La identidad lemuriana reúne una ascendencia principalmente sheijad de Sarustra, pertenencia política imperial, clima y paisaje transformados por antiguos Portadores veranenses, afinidades culturales orientadas especialmente al Verano y proximidad geográfica a Flammengard. La afinidad cultural con el Verano no implica dependencia política.
+- No se han definido los nombres de los Portadores responsables, fechas, rituales ni mecanismos específicos de la intervención. No se establece que el clima de Lemuria sea idéntico al de las Costas del Verano.
+
+### Contraste con el canon vigente
+
+- La [ficha de Lemuria](../../docs/mundo/stigria/dragma/lemuria/lemuria.md) la sitúa al noroeste de Stigria como principado y protectorado imperial; la [ficha de Flammengard](../../docs/mundo/stigria/dragma/flammengard/flammengard.md) ubica ese reino en el noroeste del Gherin. La posición precisa frente a sus costas y la transformación climática son definiciones nuevas de esta acumulación.
+- La [Costa del Verano](../../docs/mundo/stigria/costa-del-verano.md) y la [Edad de la Podredumbre](../../docs/mundo/stigria/edad-de-la-podredumbre.md) establecen que Portadores entre los liberados emplearon sus facultades para transformar Dürr en una costa fértil y habitable. La [ficha de Zephyrya](../../docs/mundo/stigria/dragma/zephyrya/zephyrya.md) presenta como teoría no confirmada ni refutada la atribución a Portadores de las propiedades curativas de sus costas y de cambios que embellecieron el litoral. La relación precisa entre esa reserva canónica y los procedimientos semejantes propuestos para Lemuria queda para revisión posterior.
+- La [historia sheijad](../../docs/mundo/stigria/historia-sheijad.md) recoge intercambios de agricultura y conocimientos durante la integración, sin describir esta intervención climática. No se ha identificado una contradicción directa en las fuentes consultadas; el momento y las circunstancias de la transformación permanecen sin definir.
+
 ## Identidad religiosa de Lemuria
 
 ### Definiciones humanas
