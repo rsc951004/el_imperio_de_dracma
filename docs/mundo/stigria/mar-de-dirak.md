@@ -8,7 +8,7 @@ La Semilla consume lo que queda del vínculo. Apenas transcurren unos instantes 
 
 ## Caso documentado
 
-Iyuri Khan contempló el Mar de Dirak en el enfrentamiento de la mansión Khan. Nimri Jhamali detuvo la Incursión y extrajo la Semilla Oscura ya formada. La intervención conjunta de Nimri, Benji Perjhan y Tuk Neyzeh permitió que Iyuri sobreviviera. Es el único caso de supervivencia posterior a la formación de una Semilla Oscura documentado en la historia imperial. Hasta entonces se consideraba prácticamente imposible.
+Iyuri Khan contempló el Mar de Dirak en el enfrentamiento de la mansión Khan. Nairim Vezhari detuvo la Incursión y extrajo la Semilla Oscura ya formada. La intervención conjunta de Nairim, Bendji Zharan y Tayruk Azharen permitió que Iyuri sobreviviera. Es el único caso de supervivencia posterior a la formación de una Semilla Oscura documentado en la historia imperial. Hasta entonces se consideraba prácticamente imposible.
 
 ## Referencias
 

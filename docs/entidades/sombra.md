@@ -12,7 +12,7 @@ La **Corrupción de la Sombra** puede resultar del exceso de Sombra Residual, de
 
 ## Corruptos
 
-Si la Corrupción anula por completo el ego de una persona no Vinculada, surge un **Corrupto**. La persona ha muerto y los estatutos imperiales la reconocen como fallecida, aunque su cuerpo camine, hable y conserve recuerdos. La apariencia y la memoria pueden persistir, como ilustra el caso de [Tamir](../personajes/historicos/benji-perjhan.md).
+Si la Corrupción anula por completo el ego de una persona no Vinculada, surge un **Corrupto**. La persona ha muerto y los estatutos imperiales la reconocen como fallecida, aunque su cuerpo camine, hable y conserve recuerdos. La apariencia y la memoria pueden persistir, como ilustra el caso de [Tamyr Zharan](../personajes/historicos/bendji-zharan.md).
 
 Los Corruptos tienen impulsos inherentes a la Corrupción que los llevan a propagarla. En los humanos influyen los aspectos oscuros de la personalidad anterior, incluidos sus miedos y pensamientos negativos. Entidades concretas de la Sombra también pueden dirigirlos conforme a su propia voluntad. Los animales corrompidos tienden a una conducta más errática y violenta por las limitaciones de su psique.
 
@@ -40,7 +40,7 @@ Su conducta es depredadora. No busca producir otros Engendros y suele matar a su
 
 Los Siniestros perciben la Sombra de distintas formas. Algunos ven manchas en lugares u objetos y otros perciben lesiones que los demás no ven. Atienden a las personas afectadas y neutralizan focos. Su propia afectación es principalmente psicológica. La Incursión es extremadamente difícil en ellos porque la Sombra obedece a su voluntad. Para que la Corrupción arraigue deben estar gravemente afectados tanto su psique como su condicionamiento.
 
-Un Siniestro puede llegar a desarrollar un [Pozo de Sombras](../mundo/stigria/pozo-de-sombras.md). La captura de un Engendro en el Pozo de Nimri Jhamali está documentada en el rescate de Iyuri Khan.
+Un Siniestro puede llegar a desarrollar un [Pozo de Sombras](../mundo/stigria/pozo-de-sombras.md). La captura de un Engendro en el Pozo de Nairim Vezhari está documentada en el rescate de Iyuri Khan.
 
 ## Referencias
 

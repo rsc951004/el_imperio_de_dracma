@@ -63,21 +63,21 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Jorgha | Personaje mencionado | Mencionado por Iyuri en Upyria. | [Ver ficha](personajes/jorgha.md) |
 | Mortis | Figura mencionada | Nombrado en un mensaje dirigido a Iyuri. | [Ver ficha](personajes/mortis.md) |
 | Fhilippo Galenor | Mercader histórico | Mercader vespirio y padre de Iyuri. | [Ver ficha](personajes/historicos/fhilippo-galenor.md) |
-| Marwha Khan | Noble histórica | Noble lemuriana y madre de Iyuri. | [Ver ficha](personajes/historicos/marwha-khan.md) |
+| Mehrzaya Khan | Noble histórica | Noble lemuriana y madre de Iyuri. | [Ver ficha](personajes/historicos/mehrzaya-khan.md) |
 | Essio Galenor | Mercader histórico | Tío paterno de Iyuri. | [Ver ficha](personajes/historicos/essio-galenor.md) |
 | Fey Gilmora | Maeghi histórica | Cazadora retirada y cocinera de la familia Khan. | [Ver ficha](personajes/historicos/fey-gilmora.md) |
 | Greta Nerve | Noble histórica | Heredera vinculada a la Casa Nerve. | [Ver ficha](personajes/historicos/greta-nerve.md) |
-| Nimri Jhamali | Guardia histórico | Maeghi de grado Maestro, Disonante extremo y Siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nimri-jhamali.md) |
-| Tuk Neyzeh | Guardia histórico | Invocador con dones conocidos de sanación y Subyugación, sanador extraordinario y Maeghi de grado Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/tuk-neyzeh.md) |
-| Benji Perjhan | Guardia histórico | Invocador elemental y Maeghi de grado Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/benji-perjhan.md) |
+| Nairim Vezhari | Guardia histórico | Maeghi de grado Maestro, Disonante extremo y Siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nairim-vezhari.md) |
+| Tayruk Azharen | Guardia histórico | Invocador con dones conocidos de sanación y Subyugación, sanador extraordinario y Maeghi de grado Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/tayruk-azharen.md) |
+| Bendji Zharan | Guardia histórico | Invocador elemental y Maeghi de grado Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/bendji-zharan.md) |
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
 | Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
 | Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro de la Célula 1466. | [Ver ficha](personajes/dymtrik.md) |
 | Millicent Rosamund «Mili» | Personaje histórico | Invocadora y Quimerista de la Banda del Colmillo Blanco. | [Ver ficha](personajes/millicent-rosamund.md) |
 | Imrik Valkyren | Personaje histórico | Invocador que dirige la Banda del Colmillo Blanco. | [Ver ficha](personajes/imrik.md) |
 | Arystan Khan | Personaje histórico | Invocador y Quimerista de la Célula 1378. | [Ver ficha](personajes/arystan-khan.md) |
-| Oskar Rheiner | Guardia histórico | Guardia real de Flammengard, pareja de Lya Khan. | [Ver ficha](personajes/oskar-rheiner.md) |
-| Lya Khan | Personaje histórico | Miembro de la Casa Khan, hermana de Iyuri y pareja de Oskar. | [Ver ficha](personajes/lya-khan.md) |
+| Oskar Rheiner | Guardia histórico | Guardia real de Flammengard, pareja de Leyza Khan. | [Ver ficha](personajes/oskar-rheiner.md) |
+| Leyza Khan | Personaje histórico | Miembro de la Casa Khan, hermana de Iyuri y pareja de Oskar. | [Ver ficha](personajes/leyza-khan.md) |
 | Ellis Rosamund | Personaje histórico | Portadora de la Enclaustración e integrante de la Célula 1378. | [Ver ficha](personajes/ellis-rosamund.md) |
 | Cerbero | Quimera | Felino alado que acompaña a Mili. | [Ver ficha](personajes/cerbero.md) |
 | Arys Therin | Personaje histórico | Hermana mayor de Cassyan y Parys; miembro de la Célula 1432. | [Ver ficha](personajes/arys-therin.md) |

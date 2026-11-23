@@ -22,7 +22,7 @@ limpiaron el lugar después de la captura. Los tres rescatistas Tocados fueron
 aislados individualmente para contener la posible Corrupción, impedir su
 propagación y facilitar la descontaminación. Ante el deterioro de Tuk, se
 autorizó excepcionalmente que continuaran el aislamiento juntos, con el apoyo
-de Nimri como Siniestro. Los tres se sometieron juntos al Recondicionamiento.
+de Nairim como Siniestro. Los tres se sometieron juntos al Recondicionamiento.
 El cambio abrupto de separación a cercanía produjo una crisis de
 Reverberación en Tuk, que terminó en el momento culminante del encuentro
 sexual de los tres en las piscinas termales del domo de aislamiento.

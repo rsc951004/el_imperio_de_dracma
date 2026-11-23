@@ -4,9 +4,9 @@
 
 Iyuri Khan fue un Portador de la Casa noble Khan durante la dinastía Amschel y
 es un Möes Maeghi.
-Hijo de Fhilippo Galenor y Marwha Khan, era Hijo del Sol por su padre
+Hijo de Fhilippo Galenor y Mehrzaya Khan, era Hijo del Sol por su padre
 vespirio y sheijad por su madre lemuriana. Creció y se identificó
-culturalmente con Lemuria. Era hermano de Lya Khan y descendiente directo del
+culturalmente con Lemuria. Era hermano de Leyza Khan y descendiente directo del
 itinerante Rasmus Galenor. Su familia lo registró como Vinculado en la infancia.
 
 De adolescente era delgado, atlético, hermoso y sin barba. Su velocidad,
@@ -64,16 +64,16 @@ En la mansión Khan, Iyuri encontró a su familia debilitada y a Nana Fey
 muerta. Vio una sombra en su Santuario del Alma y la oyó hablar. Así
 confirmó que ya padecía una Incursión. Sabía que podía enfrentar al
 Engendro, aunque carecía de medios para someterlo. Lanzó una alerta negra,
-rescató a Lya y Marwha y saltó con Fhilippo y la criatura para alejarlos de
+rescató a Leyza y Mehrzaya y saltó con Fhilippo y la criatura para alejarlos de
 ellas. Arriesgó su vida y contuvo el peligro hasta que llegaron los Cuervos
 Grises de la Guardia Real de Lemuria. El Imperio lo reconoció como
 **Héroe del Imperio** por proteger así a su familia.
 
 Iyuri contempló el Mar de Dirak, señal de una Semilla Oscura ya formada.
-Benji combatió y contuvo al Engendro y retiró la garra que atravesaba el
-pecho de Iyuri. Nimri detuvo la Incursión y extrajo la Semilla. Tuk
+Bendji combatió y contuvo al Engendro y retiró la garra que atravesaba el
+pecho de Iyuri. Nairim detuvo la Incursión y extrajo la Semilla. Tuk
 reconstruyó su corazón, pulmones, demás órganos afectados y piel.
-Finalmente, Nimri sometió al Engendro y lo introdujo en su Pozo de
+Finalmente, Nairim sometió al Engendro y lo introdujo en su Pozo de
 Sombras. Los tres fueron indispensables. Iyuri llegó a conocer todos los
 detalles del rescate y se los contó después a Rendard Steinert.
 
@@ -95,7 +95,7 @@ realmente ante él. La posible conexión con el Mobius original que creó la
 Sombra sigue siendo una creencia, no un hecho confirmado.
 
 Cuatro años después, Iyuri se despidió de Oskar ante Phardazul el día de la
-boda de este con Lya. Llevaba Lazeroth, la espada de Fhilippo; conservaba una
+boda de este con Leyza. Llevaba Lazeroth, la espada de Fhilippo; conservaba una
 cicatriz sobre la ceja izquierda y una marca de garras en el pecho. Zarpó hacia
 Sturmgard como capitán de un barco tripulado por sturmgardianos.
 
@@ -103,7 +103,7 @@ Después de ser Tocado, Iyuri recibió de Tuk relatos de experiencias que podía
 ayudarlo, sin que Tuk supiera que contribuirían a su desborde e
 hipersexualización. Antes de conocer a Ren tuvo encuentros sexuales frecuentes
 para sobrellevar el trauma, el temor a nuevas incursiones y el dolor por la
-ruptura con Oskar y su matrimonio con Lya. En ese periodo se convirtió en un
+ruptura con Oskar y su matrimonio con Leyza. En ese periodo se convirtió en un
 Möes Maeghi tras demostrar ante la Möes Tábura una hazaña extraordinaria e
 inédita con su don. La relación amorosa con Ren se fundamenta en su
 crecimiento mutuo, complementariedad y acciones recíprocas; Iyuri prometió
@@ -130,15 +130,15 @@ interés personal.
 ## Referencias
 
 - `docs/personajes/oskar-rheiner.md`
-- `docs/personajes/lya-khan.md`
+- `docs/personajes/leyza-khan.md`
 - `docs/personajes/historicos/fhilippo-galenor.md`
-- `docs/personajes/historicos/marwha-khan.md`
+- `docs/personajes/historicos/mehrzaya-khan.md`
 - `docs/personajes/historicos/essio-galenor.md`
 - `docs/personajes/historicos/fey-gilmora.md`
 - `docs/personajes/historicos/greta-nerve.md`
-- `docs/personajes/historicos/nimri-jhamali.md`
-- `docs/personajes/historicos/tuk-neyzeh.md`
-- `docs/personajes/historicos/benji-perjhan.md`
+- `docs/personajes/historicos/nairim-vezhari.md`
+- `docs/personajes/historicos/tayruk-azharen.md`
+- `docs/personajes/historicos/bendji-zharan.md`
 - `docs/casas/khan.md`
 - `docs/organizaciones/cuervos-grises.md`
 - `docs/mundo/stigria/lazeroth.md`

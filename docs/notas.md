@@ -1,5 +1,16 @@
 # Notas editoriales
 
+### Nombres de personajes lemurianos (2026-11-23)
+
+Por autorización del autor se actualizaron los nombres de Mehrzaya Khan,
+Leyza Khan, Nairim Vezhari, Tayruk Azharen y Bendji Zharan en sus fichas,
+índices, referencias y fragmentos. Tayruk conserva el sobrenombre Tuk y la
+autodenominación de Bendji es «Brigada Bendji». Tamyr Zharan conserva su
+identidad y su vínculo como hermano de Bendji. Se incorporó el origen
+veranense de Fey Gilmora, sin precisar su reino de nacimiento. Las fichas
+afectadas fueron renombradas y se actualizaron sus enlaces y rutas activas.
+Se conservaron los acontecimientos, parentescos y marcas de canon velado.
+
 ### Cantera de nombres de Lemuria (2026-11-23)
 
 Por autorización del autor se incorporó la cantera lemuriana inicial con los

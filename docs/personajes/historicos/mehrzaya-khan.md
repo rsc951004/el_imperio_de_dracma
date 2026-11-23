@@ -1,11 +1,11 @@
-# Marwha Khan
+# Mehrzaya Khan
 
-Noble sheijad lemuriana de la Casa Khan, madre de Iyuri Khan. Marwha cuidaba
+Noble sheijad lemuriana de la Casa Khan, madre de Iyuri Khan. Mehrzaya cuidaba
 con esmero el jardín familiar y procuró concertar el matrimonio de Iyuri con
 Greta Nerve. Su hijo huyó a los catorce años. La llamaba «umi», palabra
 tradicional sheijad para «mamá».
 
-Marwha no era Vinculada. Iyuri la rescató durante el ataque de un Engendro de Sombra a la
+Mehrzaya no era Vinculada. Iyuri la rescató durante el ataque de un Engendro de Sombra a la
 mansión. En la playa recobró débilmente la conciencia y bendijo a su hijo.
 
 ## Referencias

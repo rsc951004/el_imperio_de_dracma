@@ -7,7 +7,7 @@ Phardazul. El cabello largo casi le cubría los ojos; una parte estaba recogida
 en una pequeña coleta. Conservaba una cicatriz sobre la ceja izquierda y una
 gran marca de garras en el pecho. Llevaba dagas pequeñas y Lazeroth al cinto.
 
-Oskar apareció con su armadura metálica. Aquel día se casaría con Lya.
+Oskar apareció con su armadura metálica. Aquel día se casaría con Leyza.
 
 —Pensé que no vendrías —dijo—. Me alegro de que estés aquí.
 

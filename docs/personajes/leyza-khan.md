@@ -1,12 +1,12 @@
-# Lya Khan
+# Leyza Khan
 
 ## Relaciones
 
-Lya Khan es hermana de Iyuri Khan y pareja de Oskar Rheiner. No era Vinculada.
+Leyza Khan es hermana de Iyuri Khan y pareja de Oskar Rheiner. No era Vinculada.
 Iyuri la rescató durante la crisis de la mansión Khan.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Ruxandra e Imrik -->
-Lya Khan es madre de Arystan Khan y abuela de
+Leyza Khan es madre de Arystan Khan y abuela de
 Millicent Rosamund.
 <!-- CANON-VELADO: FIN -->
 

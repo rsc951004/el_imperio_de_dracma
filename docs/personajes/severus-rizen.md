@@ -9,7 +9,7 @@ establecidos.
 ## Relaciones
 
 - **Rendard Steinert:** fue su superior y profesor; reconoce su potencial.
-- **Marwha Khan y Fhilippo Galenor:** los conoce y estima.
+- **Mehrzaya Khan y Fhilippo Galenor:** los conoce y estima.
 - **Iyuri Khan:** no aprueba especialmente que Rendard viaje con él, pero
   respeta la decisión autónoma del custodio graduado.
 

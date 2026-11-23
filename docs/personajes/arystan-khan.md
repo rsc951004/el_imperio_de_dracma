@@ -20,7 +20,7 @@ Arystan y Ellis murieron luchando contra Mortis, un Grimm.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Ruxandra e Imrik -->
 Arystan y Ellis son los padres de Millicent Rosamund. Arystan es hijo de Oskar
-Rheiner y Lya Khan; Oskar desciende de Leandrin Rheiner.
+Rheiner y Leyza Khan; Oskar desciende de Leandrin Rheiner.
 <!-- CANON-VELADO: FIN -->
 
 <!-- CANON-VELADO: INICIO | desconocido-por: todas las personas vivas excepto Imrik -->
@@ -38,6 +38,6 @@ alado.
 - [Mortis](mortis.md)
 - `docs/personajes/ellis-rosamund.md`
 - `docs/personajes/oskar-rheiner.md`
-- `docs/personajes/lya-khan.md`
+- `docs/personajes/leyza-khan.md`
 - `docs/personajes/millicent-rosamund.md`
 - `docs/organizaciones/banda-del-colmillo-blanco.md`

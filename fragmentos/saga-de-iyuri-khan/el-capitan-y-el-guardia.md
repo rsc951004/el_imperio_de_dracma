@@ -3,7 +3,7 @@
 ## El jardín
 
 Iyuri tenía catorce años cuando dejó la casa de sus padres. En el jardín, las
-plantas que Marwha cuidaba con tanto esmero crecían donde ella había decidido.
+plantas que Mehrzaya cuidaba con tanto esmero crecían donde ella había decidido.
 Él conocía los senderos y los rincones donde podía esconderse, y también el
 árbol hueco en el que había dejado un objeto años atrás. Aquella noche pasó
 junto a él sin detenerse.
@@ -19,7 +19,7 @@ la mano por la corteza del árbol. Sabía dónde encontrar la abertura, incluso 
 oscuras. De niño había escondido allí un objeto al que podía volver con su don; si
 lo necesitaba, encontraría el camino de vuelta.
 
-Desde el jardín podía imaginar a su madre entre las flores, a Lya y a Nana Fey
+Desde el jardín podía imaginar a su madre entre las flores, a Leyza y a Nana Fey
 en la cocina. Recordó el olor de la naria asada de Fhilippo. La casa seguía
 allí, con todo lo que amaba dentro, y por un instante quiso regresar.
 

@@ -1,7 +1,7 @@
 # Fey Gilmora
 
-Fey Gilmora, llamada Nana Fey, fue una Maeghi retirada que había sido una
-reconocida cazadora de Grimm. Trabajó como cocinera de la familia Khan e Iyuri
+Fey Gilmora, llamada Nana Fey, fue una Maeghi veranense retirada que había sido
+una reconocida cazadora de Grimm. Trabajó como cocinera de la familia Khan e Iyuri
 la recordaba con cariño desde la infancia.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: Iyuri al encontrar el cuerpo -->

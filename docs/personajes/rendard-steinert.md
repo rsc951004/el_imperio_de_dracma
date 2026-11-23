@@ -29,7 +29,7 @@ adoptiva y una casa cerca de la capital. Son aspiraciones personales.
 
 ## La historia de la mansión Khan
 
-Iyuri le contó cómo protegió a su familia y cómo Benji, Nimri y Tuk lo
+Iyuri le contó cómo protegió a su familia y cómo Bendji, Nairim y Tuk lo
 salvaron. Ren lo asistió durante una manifestación posterior de la Sombra
 cuando Iyuri recurrió a su Santuario del Alma.
 

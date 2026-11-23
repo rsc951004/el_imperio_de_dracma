@@ -37,7 +37,7 @@ piedra ni si la petrificación puede revertirse.
 La fecha del traslado de la capital permanece reservada.
 
 Iyuri Khan se despidió de Oskar Rheiner frente a la ciudad el día de la boda
-de Oskar con Lya Khan. El intercambio menciona una tradición de cubrirse el
+de Oskar con Leyza Khan. El intercambio menciona una tradición de cubrirse el
 rostro de ceniza en la ceremonia.
 
 ## Referencias

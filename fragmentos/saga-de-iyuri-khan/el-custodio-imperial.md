@@ -10,7 +10,7 @@ Cuando terminó la ceremonia se sentó junto a una fuente. Se acomodó el unifor
 
 En el patio había otros recién graduados. Sus familias habían ido a verlos. Ren miró hacia ellos un momento; después volvió a mirar el agua.
 
-Meses antes había asistido a una comitiva lemuriana. Mientras la atendía, escuchó a una mujer llamada Marwha Khan hablar de su hijo: había comprado un barco y pensaba zarpar hacia tierras desconocidas. Ella temía que se perdiera en el mar.
+Meses antes había asistido a una comitiva lemuriana. Mientras la atendía, escuchó a una mujer llamada Mehrzaya Khan hablar de su hijo: había comprado un barco y pensaba zarpar hacia tierras desconocidas. Ella temía que se perdiera en el mar.
 
 Una de sus acompañantes propuso contratar un custodio.
 
@@ -18,13 +18,13 @@ Una de sus acompañantes propuso contratar un custodio.
 
 —Un infame héroe —añadió alguien más.
 
-Todos rieron salvo Marwha.
+Todos rieron salvo Mehrzaya.
 
-La primera mujer insistió. Los custodios acompañaban, protegían y asistían a sus señores en la vida diaria: algunos hablaban lenguas, sabían de navegación o diplomacia, y otros tenían dones de curación. Había distintas órdenes y academias, reales e imperiales. ¿No prefería Marwha que su hijo estuviera acompañado por alguien así en vez de una banda de sturmgardianos?
+La primera mujer insistió. Los custodios acompañaban, protegían y asistían a sus señores en la vida diaria: algunos hablaban lenguas, sabían de navegación o diplomacia, y otros tenían dones de curación. Había distintas órdenes y academias, reales e imperiales. ¿No prefería Mehrzaya que su hijo estuviera acompañado por alguien así en vez de una banda de sturmgardianos?
 
 Ren había escuchado sin interrumpir. Había aprendido a proteger y asistir, pero el mar y los lugares desconocidos de los que hablaban estaban muy lejos del puesto que su padre había imaginado para él.
 
-—Por favor, no me recuerdes a esos desaliñados —dijo Marwha—. Estuvieron en mi casa hace años y juro por Ishbaal que todavía puedo olerlos.
+—Por favor, no me recuerdes a esos desaliñados —dijo Mehrzaya—. Estuvieron en mi casa hace años y juro por Ishbaal que todavía puedo olerlos.
 
 —Ahora son su tripulación. Supongo que volverás a verlos.
 
@@ -42,13 +42,13 @@ Ren se volvió hacia el hombre que acababa de compararlo con una rata del desier
 
 —Iyuri, no te entretengas. Tenemos cosas que hacer.
 
-Marwha Khan se acercaba por el patio. Ren reconoció su voz antes que su rostro.
+Mehrzaya Khan se acercaba por el patio. Ren reconoció su voz antes que su rostro.
 
 —Ya voy, umi. Solo estaba haciendo amigos.
 
 —¿Amigos? Tú solo tienes secuaces.
 
-Marwha miró a Ren.
+Mehrzaya miró a Ren.
 
 —Joven, disculpe a mi hijo. Es un buen chico, pero no sabe cuándo cerrar su impertinente boca.
 
@@ -70,7 +70,7 @@ Iyuri miró a Ren de reojo.
 
 —¡Iyuri Khan! No hables de las personas como si fueran objetos.
 
-Marwha suspiró y volvió hacia Ren.
+Mehrzaya suspiró y volvió hacia Ren.
 
 —Mi hijo es impertinente, pero es un buen chico. Un héroe del Imperio, de hecho.
 
@@ -80,7 +80,7 @@ Iyuri soltó una carcajada.
 
 —¡Ahora sí que quiero este! Si no es este, no quiero ninguno más.
 
-Marwha observó a su hijo y después a Ren. Al final sonrió.
+Mehrzaya observó a su hijo y después a Ren. Al final sonrió.
 
 —Sí, ese es mi hijo. El infame Iyuri Khan. Él salvó mi vida.
 
@@ -92,13 +92,13 @@ Le tendió la mano. Iyuri la tomó.
 
 —Ren. Me gusta. Bienvenido a bordo.
 
-Ren recordó el barco y las tierras desconocidas de las que Marwha había hablado meses atrás.
+Ren recordó el barco y las tierras desconocidas de las que Mehrzaya había hablado meses atrás.
 
 —No puedo, señor.
 
 ## La oferta
 
-En el comedor de la academia, Ren seguía procurando explicar su negativa. Iyuri no parecía dispuesto a aceptarla; Marwha se hundía cada vez más en la silla y el líder Rizen los escuchaba.
+En el comedor de la academia, Ren seguía procurando explicar su negativa. Iyuri no parecía dispuesto a aceptarla; Mehrzaya se hundía cada vez más en la silla y el líder Rizen los escuchaba.
 
 —¿Cómo que no? Eres custodio y te estoy contratando.
 
@@ -110,9 +110,9 @@ Ren calló. Conocía lo que su padre había decidido para él: un puesto aceptab
 
 —Que preferiría que ninguno de mis alumnos se subiera a un bote contigo, Iyuri.
 
-—Líder Rizen —intervino Marwha—, ¿podría recomendarnos a alguien más apto?
+—Líder Rizen —intervino Mehrzaya—, ¿podría recomendarnos a alguien más apto?
 
-—Marwha, sabes cuánto os estimo a ti y a tu esposo, pero no es fácil. Los Cocodrilos de Mar son muy solicitados. Y no creo que Iyuri necesite un custodio en alta mar. Hay navegantes que buscan aventuras en Vesperya o incluso en...
+—Mehrzaya, sabes cuánto os estimo a ti y a tu esposo, pero no es fácil. Los Cocodrilos de Mar son muy solicitados. Y no creo que Iyuri necesite un custodio en alta mar. Hay navegantes que buscan aventuras en Vesperya o incluso en...
 
 —Severus, por Ishbaal bendito, no lo digas.
 
@@ -130,9 +130,9 @@ Rizen apoyó las manos en la mesa.
 
 —Ren, esta decisión solo puedes tomarla tú. Ya no eres mi alumno, aunque siempre te consideraré bajo mi protección: he visto tu potencial. Ahora eres custodio imperial y puedes ejercer donde elijas, en tierra o en el mar. Espero que decidas a conciencia, independientemente de lo que yo opine de Iyuri Khan.
 
-Se levantó y pidió a Marwha que lo acompañara a su oficina. Su esposa le había encargado unas hierbas para ella.
+Se levantó y pidió a Mehrzaya que lo acompañara a su oficina. Su esposa le había encargado unas hierbas para ella.
 
-—Iyuri, ya vuelvo —dijo Marwha—. Por favor, aprende a aceptar un no por respuesta.
+—Iyuri, ya vuelvo —dijo Mehrzaya—. Por favor, aprende a aceptar un no por respuesta.
 
 Cuando se quedaron solos, Iyuri observó a Ren.
 
@@ -196,7 +196,7 @@ Ren pensó en las historias de su nana, en el mar que nunca había cruzado y en 
 
 —Bienvenido a bordo, señor custodio.
 
-Seis días después llegaron a Lemuria. Ren llevaba la maleta de Iyuri por la recepción de la mansión Khan y aún pensaba en todo lo que había visto durante el viaje. Había aceptado el contrato de asistencia y protección con Marwha Khan y Fhilippo Galenor. Durante seis años sería el custodio de su hijo; había elegido acompañarlo.
+Seis días después llegaron a Lemuria. Ren llevaba la maleta de Iyuri por la recepción de la mansión Khan y aún pensaba en todo lo que había visto durante el viaje. Había aceptado el contrato de asistencia y protección con Mehrzaya Khan y Fhilippo Galenor. Durante seis años sería el custodio de su hijo; había elegido acompañarlo.
 
 Nunca había salido de Eisengard ni de la capital. Ahora estaba en una isla, al otro lado del mar, y todavía quedaban más lugares por conocer: playas, comidas desconocidas y quizá muchachos de tierras lejanas. Se preguntó qué clase de belleza habría más allá del mar.
 
@@ -232,13 +232,13 @@ Fhilippo recibió al custodio con una sonrisa.
 
 —Muchacho, jamás pensé que volverían con alguien lo bastante loco para trabajar con mi hijo. Yo mismo iría en el barco, pero no quiero morir de una forma horrible.
 
-Iyuri disfrutó de la expresión de Marwha. La familia se sentó a comer y Ren intentó recordar que era un invitado a aquella mesa, aunque todavía no estaba seguro de cómo debía comportarse. Arystan protestaba ante su tío, Fhilippo bromeaba con su hijo y Marwha los reprendía a los dos. Ren los observó mientras comían; podía reconocer el cariño incluso cuando discutían.
+Iyuri disfrutó de la expresión de Mehrzaya. La familia se sentó a comer y Ren intentó recordar que era un invitado a aquella mesa, aunque todavía no estaba seguro de cómo debía comportarse. Arystan protestaba ante su tío, Fhilippo bromeaba con su hijo y Mehrzaya los reprendía a los dos. Ren los observó mientras comían; podía reconocer el cariño incluso cuando discutían.
 
 —Cuéntanos, Ren —dijo Fhilippo—, ¿quién es tu padre? Conozco a mucha gente de tus tierras.
 
 —Soy hijo de Keven Steinert y de Mila Hubbe, señor.
 
-Fhilippo dejó caer un trozo de comida. Marwha e Iyuri se quedaron mirándolo.
+Fhilippo dejó caer un trozo de comida. Mehrzaya e Iyuri se quedaron mirándolo.
 
 Durante años los Steinert habían mantenido a Ren apartado de la mirada pública. Haber nacido Portador era una mancha para su familia, y Keven llamaba aberración a su don. No quería que lo usara públicamente y mancillara el nombre Steinert. Cuando su padre decidía algo, Ren había aprendido a reconocer que la conversación había terminado.
 
@@ -258,7 +258,7 @@ Durante años los Steinert habían mantenido a Ren apartado de la mirada públic
 
 —Por desgracia.
 
-—¡Iyuri! —Marwha volvió hacia Ren—. Querido, ¿por qué no dijiste nada antes?
+—¡Iyuri! —Mehrzaya volvió hacia Ren—. Querido, ¿por qué no dijiste nada antes?
 
 —¿Hay algún problema? Me presenté con mi nombre.
 
@@ -268,7 +268,7 @@ Durante años los Steinert habían mantenido a Ren apartado de la mirada públic
 
 —Al tío Iyuri le gusta dormir afuera, ge-umi —dijo Arystan.
 
-Marwha cerró los ojos un instante.
+Mehrzaya cerró los ojos un instante.
 
 —Discúlpanos, Ren. No sabíamos que Keven tuviera tres hijos. Es un hombre de gran honor y un gran...
 
@@ -276,7 +276,7 @@ Marwha cerró los ojos un instante.
 
 —¡Suficiente! Voy a pedir a la Dex Tábura que borre tu nombre de los libros de la familia.
 
-Ren imaginó a su padre sentado allí, escuchando cómo alguien lo llamaba cretino. Trató de contenerse. Se llevó una mano a la boca, pero la risa escapó de todos modos. Nunca se había reído tan fuerte. Fhilippo terminó riendo también; incluso Marwha cedió cuando Arystan empezó a repetir la palabra.
+Ren imaginó a su padre sentado allí, escuchando cómo alguien lo llamaba cretino. Trató de contenerse. Se llevó una mano a la boca, pero la risa escapó de todos modos. Nunca se había reído tan fuerte. Fhilippo terminó riendo también; incluso Mehrzaya cedió cuando Arystan empezó a repetir la palabra.
 
 —¡Cretino! ¡Cretino!
 
@@ -402,7 +402,7 @@ Antes de que Iyuri respondiera, Ren vio un cuadro frente a la chimenea. Cuatro j
 
 Iyuri se acercó a él.
 
-—Eran mis amigos: Nimri, Tuk y Benji. Salvaron mi vida y la de mi familia.
+—Eran mis amigos: Nairim, Tuk y Bendji. Salvaron mi vida y la de mi familia.
 
 —No quise preguntar antes, pero ¿ocurrió algo? ¿Por eso lo llaman héroe?
 
@@ -490,7 +490,7 @@ Recordaba aquella sensación: lo que transcurría en un instante parecía durar 
 
 Al fin se vio suspendido sobre Agra. El mundo se extendía bajo él; más allá estaban las estrellas, el sol y la luna. Después vino la caída. Se precipitó hacia el lugar al que había saltado, hasta que la colina apareció frente a él y Phardazul quedó a lo lejos.
 
-Después de Oskar, Iyuri no había creído que pudiera volver a abrirle el corazón a alguien de aquella manera. Había dejado tres objetos allí, tres oportunidades que se había concedido en secreto. Oskar no sabía que Iyuri regresaría a buscarlos ni que esperaba encontrarlo cada vez. Iyuri sabía que estar juntos era imposible y no deseaba hacer daño a Lya. Aun así, se había aferrado a la esperanza de que, si el mundo volvía a reunirlos en aquella colina, todavía quedara algo para ellos. Reconocía lo absurdo de esperar que Oskar apareciera sin conocer aquella promesa que solo él había hecho.
+Después de Oskar, Iyuri no había creído que pudiera volver a abrirle el corazón a alguien de aquella manera. Había dejado tres objetos allí, tres oportunidades que se había concedido en secreto. Oskar no sabía que Iyuri regresaría a buscarlos ni que esperaba encontrarlo cada vez. Iyuri sabía que estar juntos era imposible y no deseaba hacer daño a Leyza. Aun así, se había aferrado a la esperanza de que, si el mundo volvía a reunirlos en aquella colina, todavía quedara algo para ellos. Reconocía lo absurdo de esperar que Oskar apareciera sin conocer aquella promesa que solo él había hecho.
 
 Tomó la espada de su padre. Un colgante descansaba detrás de él, sobre un montón de piedras.
 
@@ -652,11 +652,11 @@ Ren apretó los dientes. Las voces se rieron y repitieron las palabras que habí
 
 —¡Basta!
 
-La puerta se abrió. Fhilippo entró con una antorcha apagada; detrás venía Marwha. El mercader alzó la voz.
+La puerta se abrió. Fhilippo entró con una antorcha apagada; detrás venía Mehrzaya. El mercader alzó la voz.
 
 —Ni habrá noche oscura ni penumbra que detenga mi camino, Dionisia.
 
-Marwha juntó las manos.
+Mehrzaya juntó las manos.
 
 —Bendito Ishbaal, tú que otorgas la vida eterna, protege mi casa y a quienes la habitan.
 
@@ -664,7 +664,7 @@ Marwha juntó las manos.
 
 Fhilippo levantó la antorcha. Se encendió y una luz cegadora llenó la habitación. Pequeñas sombras se desprendieron de las paredes como alimañas; unas huyeron y otras se deshicieron entre gemidos. Las risas se volvieron chillidos. Poco a poco la habitación dejó de girar.
 
-Iyuri seguía dormido, pálido y tembloroso. Marwha se acercó a él.
+Iyuri seguía dormido, pálido y tembloroso. Mehrzaya se acercó a él.
 
 —Hay una colina verde, Iyuri. Junto a ti hay un árbol lleno de frutas rojas y deliciosas.
 
@@ -682,11 +682,11 @@ Fhilippo contempló la antorcha.
 
 —Esta vez salió bastante bien, ¿no crees, cariño? Y esta cosa se apagó sola.
 
-Marwha lo miró.
+Mehrzaya lo miró.
 
 —Por una noche te lo ganaste. Tienes toda la razón.
 
-—¿Escuchaste, Ren? Sé mi testigo. Esta mujer dijo que tengo razón. Cuida de Iyuri, por favor. Hay una infusión en la mesa; lo ayudará a dormir, aunque sabe a los calcetines de madre Marwha.
+—¿Escuchaste, Ren? Sé mi testigo. Esta mujer dijo que tengo razón. Cuida de Iyuri, por favor. Hay una infusión en la mesa; lo ayudará a dormir, aunque sabe a los calcetines de madre Mehrzaya.
 
 —No abuses, querido. Vamos.
 
@@ -710,10 +710,10 @@ Eso fue lo que hice. Por eso me llaman Héroe del Imperio.
 
 Ren aguardó a que siguiera.
 
-—Benji la sujetó y me sacó la garra del pecho. Nimri detuvo la Incursión y
+—Bendji la sujetó y me sacó la garra del pecho. Nairim detuvo la Incursión y
 extrajo la Semilla Oscura. Tuk tuvo que rehacerme el corazón, los pulmones y
 todo lo que se había destrozado por dentro, hasta cerrarme la piel. Después
-Nimri metió al Engendro en su Pozo de Sombras. Me salvaron entre los tres,
+Nairim metió al Engendro en su Pozo de Sombras. Me salvaron entre los tres,
 Ren. ¿Me das ese té?
 
 Ren le entregó la taza.
@@ -728,7 +728,7 @@ Iyuri casi se atragantó.
 
 —Cuando fui a buscar la pradera de mi Santuario, me encontré en un mar negro
 y espeso. Para entonces la Semilla Oscura ya se había formado. Me quedaban
-apenas unos instantes cuando llegó Nimri.
+apenas unos instantes cuando llegó Nairim.
 
 —Cuando la infección ha arraigado tanto, no queda lugar para la esperanza, ni para el amor, ni para la vida.
 

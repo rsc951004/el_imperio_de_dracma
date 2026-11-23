@@ -8,11 +8,11 @@ Cada Pozo tiene un límite no físico que restringe la cantidad de Sombra almace
 
 ## Caso documentado
 
-Nimri Jhamali sometió al Engendro de la mansión Khan y lo introdujo en su Pozo. La Corrupción que ya se había acumulado en la mansión requirió una limpieza posterior por parte de los Cuervos Grises.
+Nairim Vezhari sometió al Engendro de la mansión Khan y lo introdujo en su Pozo. La Corrupción que ya se había acumulado en la mansión requirió una limpieza posterior por parte de los Cuervos Grises.
 
 ## Referencias
 
 - [La Sombra](../../entidades/sombra.md)
 - [Portadores](../../entidades/portadores.md)
-- [Nimri Jhamali](../../personajes/historicos/nimri-jhamali.md)
+- [Nairim Vezhari](../../personajes/historicos/nairim-vezhari.md)
 - [El niño de la flecha](../../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md)

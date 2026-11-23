@@ -30,7 +30,8 @@ Como recursos orientativos pueden emplearse:
 
 Los grupos `sh` y `zh` pueden leerse como sonidos semejantes al pedido de
 silencio «sh», el segundo con vibración de las cuerdas vocales. `Kh` puede
-aproximarse a la jota española y `dj` al sonido con que se pronuncia Benji.
+aproximarse a la jota española y `dj` a una consonante semejante a la «y» de
+«yo» en algunas pronunciaciones del español.
 Estas orientaciones no obligan a usar tales grupos ni a alterar nombres ya
 establecidos. Conviene evitar acumulaciones difíciles de pronunciar y la unión
 mecánica de nombres completos. Ninguna terminación determina por sí sola la

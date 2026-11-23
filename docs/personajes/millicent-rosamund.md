@@ -22,7 +22,7 @@ cargo de Mili y Cerbero tras la muerte de Arystan y Ellis.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Ruxandra e Imrik -->
 Mili es hija de Arystan Khan y Ellis Rosamund. Arystan es hijo de Oskar
-Rheiner y Lya Khan; Oskar desciende de Leandrin Rheiner.
+Rheiner y Leyza Khan; Oskar desciende de Leandrin Rheiner.
 <!-- CANON-VELADO: FIN -->
 
 <!-- CANON-VELADO: INICIO | desconocido-por: Mili -->

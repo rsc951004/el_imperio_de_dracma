@@ -72,7 +72,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Príncipes Perdidos** | Resolver el destino de Eryk Albyon y Thalyssa Coralyss. |
 | **Invocadores y Segunda Dinastía** | Desarrollar campañas, secuencia y fechas de las Guerras Místicas y la Aniquilación, el desenlace de la guerra de Leandrin y el destino de sus hermanos. |
 | **Sirene y Leandrin** | Desarrollar el propósito de Ose, su encarnación, el cambio de rostro y voz de Leandrin, la leyenda de Tamurak y los aspectos del rito y sus vidas que permanecen abiertos. |
-| **Iyuri y su familia** | Precisar la filiación de Lya, la ruptura con Oskar, las generaciones Galenor, la trayectoria de Essio, la licencia final de Iyuri, su tripulación y su viaje a Sturmgard. |
+| **Iyuri y su familia** | Precisar la filiación de Leyza, la ruptura con Oskar, las generaciones Galenor, la trayectoria de Essio, la licencia final de Iyuri, su tripulación y su viaje a Sturmgard. |
 | **Escenas de Iyuri** | Desarrollar posteriormente los diálogos y escenas de su juventud, el rescate en Lemuria y la despedida; las reconstrucciones de trabajo no fijan su literalidad. |
 | **Don de la Flecha** | Reservar límites, mecanismo sensorial de exploración, condiciones de contacto y consecuencias físicas de saltos extremos. |
 | **Sombra y mansión Khan** | Reservar relación entre las infecciones de Fey y Essio, interés del Engendro de Sombra por Iyuri, identidad del «él», significado de la luz, tratamiento y recuperación posteriores. |
