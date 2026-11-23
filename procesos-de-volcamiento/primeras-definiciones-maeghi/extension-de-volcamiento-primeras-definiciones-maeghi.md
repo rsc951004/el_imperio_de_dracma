@@ -329,8 +329,545 @@ La importancia de Zephyrya como segundo núcleo de enseñanza mística no debe j
 
 **Referencia:** acumulación de resoluciones, R-10 y su trazabilidad; acumulación inicial, A-06; conversaciones del 20 y 21 de noviembre.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta con desarrollo ampliado.
+
+La respuesta definitiva del autor se incorpora íntegramente a continuación, con sus precisiones, límites, material narrativo aprobado y consecuencias para la revisión final. No autoriza todavía la incorporación al canon.
+
+#### Resolución ampliada del autor: Tuk, Benji, Nimri y la Reverberación
+
+##### Instrucción de registro
+
+Incorporar esta resolución ampliada a `procesos-de-volcamiento/primeras-definiciones-maeghi/extension-de-volcamiento-primeras-definiciones-maeghi.md`, como respuesta definitiva a la pregunta 24.
+
+La conversación con el autor produjo definiciones que exceden la pregunta original sobre la ubicación y secuencia de los encuentros íntimos de Tuk y Benji. Deben conservarse porque afectan al condicionamiento Maeghi, la Reverberación, la Disonancia extrema y la caracterización de los tres personajes.
+
+**No reducir los elementos sexuales a alusiones genéricas al afecto o la cercanía.** El erotismo tiene funciones psicológicas, narrativas y causales concretas. Registrarlo con precisión, sin inventar escenas, participantes o actos adicionales.
+
+No modificar todavía archivos canónicos ni realizar commits o push.
+
+---
+
+##### 1. Tuk Neyzeh: identidad y capacidades
+
+Tuk es un Maeghi Experto extraordinariamente competente y un prodigio de la sanación.
+
+Su habilidad resulta excepcional incluso en un mundo donde el don de sanación es uno de los dones más comunes.
+
+Es un profesional altamente especializado, capaz de afrontar lesiones gravísimas mediante su don. Su papel en la reconstrucción física de Iyuri Khan constituye una demostración de sus capacidades.
+
+Su personalidad es brusca, burlona e irreverente.
+
+Su hipersexualización no debe emplearse para reducirlo a un personaje permanentemente excitado, incapaz de trabajar o que busca sexo indiscriminadamente.
+
+El Tuk actual consiguió alcanzar un estado de control que le costó enormemente recuperar.
+
+##### 2. Naturaleza de la hipersexualización de Tuk
+
+Tuk conserva una hipersexualización persistente derivada de su desborde de Resonancia.
+
+Sin embargo, **la persistencia de la condición no significa activación erótica continua**.
+
+Su respuesta erótica condicionada se manifiesta bajo circunstancias particulares:
+
+- Ocurre exclusivamente en relación con otros Maeghi.
+- La condición Maeghi es necesaria, pero no suficiente.
+- Son relevantes los contextos de camaradería, descanso, liberación del estrés y acercamiento afectivo.
+- No se activa automáticamente ante cualquier Maeghi.
+- No implica que Tuk deba actuar sexualmente cada vez que experimenta deseo.
+- No impide su profesionalismo, juicio ni funcionamiento cotidiano.
+
+Tuk conoce a numerosos Maeghi, pero hasta el momento únicamente tres personas han despertado esa respuesta particular en él: **Benji, Ren y Nimri**.
+
+Esto describe su estado actual, alcanzado mediante un proceso muy difícil de recuperación y control.
+
+No establecer una explicación definitiva de por qué precisamente esas tres personas se convirtieron en sus focos: el propio Tuk lo desconoce.
+
+##### 3. El comienzo del desborde y la aparición de la Reverberación
+
+Conservar el antecedente ya establecido: la muerte del mejor amigo de Tuk, que dio origen a un Engendro de Sombra, desencadenó su desborde de Resonancia. Tuk no presenció aquel acontecimiento ni fue Tocado entonces.
+
+Durante las primeras etapas, su desborde fue extraordinariamente difícil de controlar.
+
+Su respuesta erótica podía desencadenarse ante estímulos mínimos.
+
+Algunos Maeghi aprovecharon la situación de Tuk, creyendo que exponerse a aquel fenómeno podía aumentar su resistencia o inmunidad frente a la Sombra.
+
+Tuk llegó a experimentar un fenómeno excepcional llamado **Reverberación**.
+
+###### Definición de Reverberación
+
+Un **Reverberante** es un Maeghi que, debido a un desborde de Resonancia, puede provocar desbordes extraordinariamente intensos en otros Maeghi afectados por su influencia.
+
+La Reverberación es poco común, escasamente documentada y potencialmente peligrosa.
+
+Puede producir respuestas eróticas de intensidad extrema que lleven a los afectados a descuidar sus responsabilidades, empleos, bienestar y seguridad personal. En casos graves, pueden poner en riesgo su propia vida por satisfacer el impulso.
+
+No confundir Reverberación con el desborde ordinario de Resonancia.
+
+La Reverberación también puede manifestarse como una crisis grave en quien la padece. Cuando la respuesta erótica no encuentra alivio, puede producir dolor corporal generalizado, ansiedad creciente, desesperación y sufrimiento intenso, semejante a una enfermedad que se extiende por el cuerpo.
+
+No establecer como regla universal mecanismos que el autor únicamente ha descrito mediante el caso de Tuk.
+
+##### 4. Consecuencias personales para Tuk
+
+Su condición llegó a costarle el empleo.
+
+También deterioró profundamente sus relaciones familiares. Sus familiares se avergonzaban de él debido a las consecuencias visibles de su desborde.
+
+Su situación se agravó por el aprovechamiento que otros Maeghi hicieron de su vulnerabilidad.
+
+Los **Cuervos Grises** terminaron incorporándolo porque reconocieron el enorme potencial de Tuk, particularmente sus extraordinarias capacidades de sanación.
+
+Tuk consiguió progresivamente controlar su desborde y contener la Reverberación.
+
+La Reverberación puede reaparecer bajo circunstancias adversas, especialmente cuando Tuk desatiende sus necesidades afectivas y eróticas en momentos críticos.
+
+No afirmar que el fenómeno haya desaparecido definitivamente.
+
+##### 5. Relación entre Tuk y Benji
+
+Tuk y Benji son Resonantes, amigos y amantes.
+
+Mantienen una **codependencia afectiva real, intensa, conocida y consentida**.
+
+Tuk no consigue imaginar su vida lejos de Benji.
+
+Benji tampoco consigue imaginarse separado de Tuk.
+
+Benji está siempre dispuesto a acompañarlo, aceptar sus necesidades y compartir intimidad con él. No lo juzga por su condición.
+
+También está dispuesto a aceptar la participación de otras personas cuando todos están de acuerdo. Hasta el momento solamente ocurrió una vez, con Nimri.
+
+Benji necesita sentirse indispensable para Tuk.
+
+En particular, necesita saber que él es una razón fundamental por la cual Tuk se encuentra mejor y consigue mantener su estabilidad.
+
+La relación posee beneficios importantes y riesgos reales.
+
+Ambos desbordes pueden retroalimentarse. La Möes Tábura considera peligrosa su dinámica de codependencia.
+
+El hecho de que Benji ayude a estabilizar a Tuk no elimina esa codependencia ni sus riesgos.
+
+No reinterpretar la relación como un vínculo exclusivamente terapéutico ni como una dependencia sin beneficios.
+
+##### 6. El rescate de Iyuri y el aislamiento inicial
+
+Tras salvar a Iyuri Khan en la mansión Khan, Tuk, Benji y Nimri resultaron Tocados por la Sombra.
+
+El aislamiento preventivo tenía una finalidad específica:
+
+- Controlar la posible Corrupción.
+- Impedir su propagación.
+- Favorecer la descontaminación de los tres Maeghi.
+
+**Inicialmente fueron aislados de manera individual.**
+
+La respuesta psicológica fue distinta en cada caso.
+
+###### Nimri
+
+Como Disonante extremo, soportó relativamente bien la separación y el aislamiento.
+
+###### Benji
+
+El aislamiento resultó más difícil porque es Resonante, experimenta un desborde y sus vínculos personales constituyen una parte importante de su estabilidad.
+
+###### Tuk
+
+Fue quien más sufrió.
+
+Necesita la cercanía de otros Maeghi para mantener su equilibrio. La separación prolongada favoreció pensamientos negativos y un deterioro psicológico que dificultaba su descontaminación.
+
+Su recuperación avanzaba peligrosamente despacio.
+
+Existía preocupación por una posible progresión de la Corrupción.
+
+##### 7. La decisión de reunirlos
+
+Ante el deterioro de Tuk se autorizó excepcionalmente que los tres continuaran el aislamiento juntos.
+
+La medida buscaba facilitar su recuperación psicológica y mejorar las condiciones para contener el Toque de Sombra.
+
+La presencia de Nimri resultaba especialmente importante por su condición de **Siniestro**, que ofrecía una capacidad adicional de intervención ante amenazas relacionadas con la Sombra.
+
+Sin embargo, la reunión produjo una consecuencia inesperada.
+
+##### 8. La nueva crisis de Reverberación
+
+Tuk pasó bruscamente de la privación afectiva del aislamiento individual a la comunión y cercanía intensa con sus compañeros.
+
+El cambio fue demasiado abrupto.
+
+Comenzó a experimentar una nueva crisis de Reverberación.
+
+Según los recuerdos de Benji, inicialmente la situación parecía normal. Los tres habían vuelto a estar juntos y Tuk compartía intimidad con Benji.
+
+Sin embargo, pese a la actividad sexual, Tuk no encontraba satisfacción ni alivio suficiente.
+
+La crisis se intensificó.
+
+###### Intento de Subyugación
+
+En uno de los momentos más graves, Tuk intentó utilizar su **Don de la Subyugación contra la voluntad de Benji** para poder continuar.
+
+**Nimri intervino y lo impidió.**
+
+Este hecho debe conservarse expresamente.
+
+La gravedad de la crisis explica el estado de Tuk, pero no convierte aquel intento en un acto consentido ni lo vuelve irrelevante.
+
+No alterar la secuencia ni omitir la intervención de Nimri.
+
+###### Empeoramiento físico y psicológico
+
+La falta de alivio hizo que Tuk experimentara un sufrimiento creciente, con dolor generalizado, ansiedad y desesperación.
+
+Nimri intentó ayudarlo mediante su cercanía física y afectiva.
+
+El contacto pareció favorecer cierto alivio, y la situación terminó conduciendo a un encuentro sexual entre los tres.
+
+##### 9. El encuentro en las piscinas termales
+
+El encuentro ocurrió en una de las **piscinas termales situadas dentro del domo de aislamiento**.
+
+Nimri decidió voluntariamente participar para ayudar a Tuk.
+
+Fue una experiencia sexual compartida por Tuk, Benji y Nimri, de extraordinaria intensidad.
+
+El relato del autor establece que Benji y Nimri estuvieron simultáneamente dentro de Tuk durante el momento culminante del encuentro, con Nimri estrechamente unido al cuerpo y pecho de Tuk.
+
+Los tres alcanzaron el orgasmo al mismo tiempo, según el recuerdo de Benji.
+
+Este detalle anatómico y la simultaneidad forman parte de lo narrado y no deben sustituirse por una formulación vaga que oculte lo ocurrido.
+
+###### Fin de la crisis
+
+**La crisis de Reverberación terminó en aquel momento culminante del encuentro.**
+
+No fue simplemente un alivio parcial a la espera de que otras medidas resolvieran la crisis: la manifestación aguda cesó allí.
+
+Esto no significa que el Toque de Sombra hubiera sido eliminado automáticamente. La descontaminación y el control de la Reverberación son procesos diferentes.
+
+Después, Benji llevó a Tuk y Nimri a la cama.
+
+##### 10. La mañana siguiente
+
+A la mañana siguiente los tres despertaron sintiéndose renovados.
+
+Tuk había recuperado su estado habitual.
+
+Sin embargo, sus recuerdos del encuentro eran prácticamente inexistentes.
+
+Nimri también conservaba recuerdos fragmentarios y confusos. La intensidad de la experiencia lo había sobrepasado.
+
+**Benji es el único de los tres que recuerda claramente lo sucedido.**
+
+Tuk descubrió una marca de mordida en su cuello y, molesto, reclamó a Benji.
+
+Benji respondió:
+
+—Ese no fui yo.
+
+La respuesta sugiere la participación de Nimri, sin que deba inventarse un testimonio suyo que confirme conscientemente haber dejado la marca.
+
+###### La memoria de Benji
+
+En otra ocasión Benji ofreció contarle a Nimri cómo había sido aquella noche.
+
+Nimri lo amenazó con una daga.
+
+Benji, sonriendo, respondió:
+
+—Fue el mejor día de mi vida. Así de bueno fue.
+
+Conservar el humor de la escena y el contraste entre los tres personajes.
+
+###### Incertidumbre sobre la Reverberación inducida
+
+No es posible determinar si durante aquel encuentro la Reverberación de Tuk provocó un desborde adicional en Benji o Nimri.
+
+La intensidad de la experiencia y los recuerdos incompletos no permiten establecerlo.
+
+**No afirmar ni descartar que Nimri haya sufrido un desborde de Resonancia.**
+
+Su condición de Disonante extremo sigue siendo válida.
+
+##### 11. Naturaleza de la Disonancia y la Resonancia
+
+La Resonancia y la Disonancia son consecuencias adquiridas mediante el condicionamiento Maeghi.
+
+Su predominio depende de condiciones psicológicas y fisiológicas anteriores al condicionamiento, cuyo resultado no puede predecirse.
+
+No son logros que se obtienen por esfuerzo o elección personal.
+
+Un **Disonante extremo** es un Maeghi cuya Resonancia es prácticamente inexistente y cuya Disonancia predomina de forma extraordinaria.
+
+La Disonancia extrema no es la contraparte simétrica de un desborde de Resonancia.
+
+###### Percepción emocional
+
+La Disonancia afecta la manera en que se experimentan las emociones.
+
+El autor propone la metáfora de una taza de té a la que se ha añadido tanta agua que resulta difícil reconocer su sabor.
+
+La emoción sigue presente, pero su intensidad puede ser tan tenue que la persona no está segura de estar sintiéndola.
+
+Un Disonante extremo puede experimentar afecto, alegría, preocupación, deseo o tristeza, pero tener dificultades para identificar y valorar esas sensaciones.
+
+###### Placer físico y placer sexual
+
+La respuesta fisiológica al contacto sexual, la estimulación y el orgasmo no se atenúa necesariamente del mismo modo que las emociones.
+
+El placer sexual conserva su intensidad corporal.
+
+Para alguien acostumbrado a experiencias afectivas muy atenuadas, esa intensidad puede resultar extraordinariamente difícil de procesar.
+
+La metáfora del autor es pasar de beber té muy diluido a beber inesperadamente una taza de té extremadamente concentrado.
+
+No afirmar que la intensidad del placer implica debilitamiento de la Disonancia.
+
+##### 12. La Disonancia extrema en el mundo Maeghi
+
+La Disonancia extrema es muy apreciada por su gran eficacia protectora frente a la Sombra.
+
+Muchos Disonantes extremos eligen voluntariamente el celibato y reducen al mínimo los estímulos que podrían perturbar su estabilidad psicológica.
+
+Entre sus prácticas pueden encontrarse:
+
+- Aislarse deliberadamente de otras personas.
+- Dormir en cámaras de aislamiento sensorial.
+- Evitar el contacto físico.
+- Consumir alimentos insípidos.
+- Abstenerse del alcohol.
+- Limitar otras experiencias capaces de despertar deseos o inquietudes intensas.
+
+Estas conductas son decisiones personales, no requisitos universales de la Disonancia extrema.
+
+El riesgo que intentan evitar no consiste en perder automáticamente su condición, sino en desarrollar cuestionamientos intensos sobre experiencias que no tienen o que han decidido evitar.
+
+Esos pensamientos pueden alimentar espirales psicológicas negativas.
+
+##### 13. Nimri antes del condicionamiento
+
+Antes de convertirse en Maeghi, Nimri era un joven extremadamente emocional, sensible, temeroso y asustadizo.
+
+Como Siniestro, podía percibir desde niño la Sombra Residual y advertir a personas que estaban en peligro de Corrupción.
+
+Esa percepción contribuyó a una infancia marcada por el miedo.
+
+Después del condicionamiento desarrolló una Disonancia extrema.
+
+No establecer una causalidad necesaria entre el miedo infantil y la aparición de la Disonancia extrema.
+
+###### Sus recuerdos infantiles
+
+Nimri recuerda los acontecimientos de su infancia y sabe que experimentaba un miedo muy intenso.
+
+Sin embargo, al intentar reconstruir aquella emoción, le resulta extraña y borrosa.
+
+Recuerda que estaba asustado, pero le cuesta comprender de dónde procedía aquel miedo y cómo se sentía realmente.
+
+No se trata necesariamente de pérdida de memoria autobiográfica, sino de dificultad para reconstruir la experiencia emocional anterior.
+
+##### 14. La particular relación de Nimri con su Disonancia
+
+Nimri no considera su Disonancia extrema un logro personal.
+
+No obstante, **valora profundamente su condición actual** por sus beneficios y por la tranquilidad psicológica que le permite experimentar.
+
+Cuida su estado mental y puede preocuparse ante pensamientos o deseos que interpreta como señales de que necesita más Recondicionamiento.
+
+En ocasiones contempla adelantar su visita a Veleskaria por esa inquietud.
+
+No establecer que haya realizado efectivamente una visita anticipada si no existe una decisión expresa.
+
+##### 15. Nimri y la cercanía con sus amigos
+
+Nimri no sigue el estilo de vida aislado que eligen muchos otros Disonantes extremos.
+
+Por el contrario:
+
+- Viaja habitualmente con Tuk y Benji.
+- Suele dormir con ambos en la misma cama.
+- Comparte baños y espacios íntimos con ellos.
+- Permite el contacto físico.
+- Tolera las bromas y, durante una etapa, los intentos de Tuk de excitarlo.
+- Mantiene vínculos afectivos profundos con ambos.
+
+Su afecto puede ser muy importante aunque lo experimente con una intensidad emocional mínima.
+
+No convertir su cercanía con Tuk y Benji en prueba de que está perdiendo Disonancia.
+
+##### 16. Las fantasías secretas de Nimri
+
+Después del encuentro en el domo de aislamiento, Nimri continuó su vida habitual.
+
+Sin embargo, guarda un secreto:
+
+**En ocasiones fantasea sexualmente con Tuk y Benji.**
+
+Sus sueños y fantasías recrean la intimidad compartida por los tres, incluida la participación simultánea de Benji y Nimri con Tuk.
+
+Nimri no ha confesado esas fantasías a sus compañeros.
+
+A veces se pregunta qué significan, si debería desear repetir la experiencia o si su interés revela algún cambio en su condicionamiento.
+
+Esas dudas pueden llevarlo a considerar la posibilidad de necesitar Recondicionamiento adicional.
+
+No interpretar las fantasías como prueba objetiva de debilitamiento de su Disonancia.
+
+##### 17. La convivencia cotidiana y las reglas de Nimri
+
+En una casa de baños, después del episodio del aislamiento, Nimri aceptó volver a compartir el baño con Tuk y Benji.
+
+En cierta ocasión, Tuk y Benji comenzaron a mantener relaciones sexuales junto a él.
+
+Nimri permaneció observándolos, preguntándose cómo sería participar nuevamente.
+
+Sabía que el placer físico sería intenso, porque ya lo había experimentado. Lo que no comprendía era qué emociones podría despertar en él.
+
+No decidió participar aquella vez.
+
+En cambio, estableció tres reglas para continuar compartiendo la convivencia con sus amigos.
+
+###### Las tres reglas
+
+**Primera:** Tuk y Benji deben dejar de iniciar sus encuentros sexuales delante de Nimri. Deben buscar privacidad, esperar a que esté dormido o utilizar una habitación contigua, sin involucrarlo involuntariamente.
+
+**Segunda:** deben dejar de intentar excitarlo o provocarlo para conseguir que participe.
+
+**Tercera:** Nimri admite que quizá algún día quiera volver a participar, pero, si eso ocurre, no deben hacer «un maldito alboroto» al respecto.
+
+Esto significa que no desea que conviertan su decisión en un gran acontecimiento, con bromas, celebraciones, insistencias o comentarios antes y después.
+
+No implica exigir solemnidad o secreto absoluto.
+
+La tercera regla tampoco autoriza a Tuk y Benji a continuar presionándolo.
+
+Registrar estas reglas como decisiones expresas de Nimri sobre su propia intimidad.
+
+##### 18. Conversación de los tres durante una misión
+
+Conservar el siguiente intercambio como material narrativo aprobado por el autor, normalizando solamente su redacción:
+
+—Nimri, ¿te gustan los chicos o las chicas? —preguntó Tuk.
+
+—Los chicos —respondió Nimri.
+
+—Vaya, qué directo. ¿Estuviste enamorado antes del condicionamiento?
+
+—No lo recuerdo.
+
+—Entonces, ¿cuándo fue tu primera vez?
+
+—Contigo y con Benji.
+
+—Oh, qué lindo. Siempre pensarás en nosotros, incluso cuando estemos contigo.
+
+—Ustedes siempre están conmigo.
+
+—Ojalá pudiera recordar aquella noche —dijo Tuk.
+
+—Yo puedo contártela, bebé —intervino Benji, evocando sin pudor lo que hicieron los tres y lo intensamente que Tuk disfrutó.
+
+—¿Tomaron turnos? —preguntó Tuk.
+
+—No, bebé. Estábamos los dos al mismo tiempo.
+
+—¿Quieren callarse? Estamos en una misión —interrumpió Nimri.
+
+La conversación debe conservar su tono irreverente, su contenido sexual directo y la naturalidad con que los tres hablan de su experiencia.
+
+No atribuir a Nimri vergüenza por su orientación sexual ni reducir su incomodidad al pudor: le molesta que sus amigos conviertan el asunto en un espectáculo.
+
+La frase **«Ustedes siempre están conmigo»** expresa la cercanía de Nimri con ambos sin obligarlo a formular declaraciones emocionales convencionales.
+
+##### 19. Diferencias psicológicas entre los tres
+
+###### Tuk
+
+Su bienestar está profundamente vinculado a la compañía de otros Maeghi.
+
+El desborde y la Reverberación marcaron su historia personal.
+
+Ha desarrollado un control que le permite ejercer como sanador extraordinario y mantener una vida cotidiana funcional.
+
+Benji ocupa un lugar central en su estabilidad.
+
+###### Benji
+
+Es Resonante y también experimenta un desborde, menos intenso que el de Tuk.
+
+Su relación con Tuk es afectiva, sexual y codependiente.
+
+Necesita sentirse importante e indispensable para él.
+
+Recuerda con claridad el encuentro de los tres en las piscinas termales y lo considera una experiencia extraordinaria.
+
+###### Nimri
+
+Es un Disonante extremo.
+
+Su experiencia emocional es profundamente atenuada, aunque conserva la capacidad de experimentar placer físico intenso.
+
+Aprecia a sus amigos y comparte su vida con ellos.
+
+Le interesan experiencias que, simultáneamente, pueden suscitar dudas sobre su estabilidad.
+
+No desea abandonar su Disonancia ni convertirse en Resonante.
+
+Su cercanía con Tuk y Benji no anula su individualidad, su autonomía ni su derecho a establecer límites.
+
+##### 20. Consecuencias para la auditoría final del canon
+
+Al preparar la futura revisión canónica, comprobar especialmente:
+
+- `docs/mundo/stigria/condicionamiento-maeghi.md`: incorporar la definición y peligros de la Reverberación, así como las precisiones sobre Disonancia extrema y placer físico.
+- `docs/personajes/historicos/tuk-neyzeh.md`: añadir antecedentes personales, excepcionalidad de su sanación, evolución del desborde, Reverberación, control actual y hechos precisos del aislamiento.
+- `docs/personajes/historicos/benji-perjhan.md`: conservar y desarrollar la codependencia, su necesidad de sentirse indispensable y su testimonio sobre el encuentro.
+- `docs/personajes/historicos/nimri-jhamali.md`: incorporar sus antecedentes emocionales, experiencias subjetivas de Disonancia, convivencia con sus amigos, límites personales, fantasías privadas y recuerdos de lo ocurrido.
+- `docs/organizaciones/cuervos-grises.md`: revisar la secuencia de aislamiento individual, autorización de reunión y recuperación.
+- `docs/pendientes.md`: retirar las reservas artificiales que hayan quedado resueltas.
+- Aplicar universalmente **Recondicionamiento**, nunca «Reacondicionamiento», según la corrección terminológica expresa del autor.
+
+La formulación canónica anterior que indica que el encuentro simplemente «intensificó el desborde de Tuk» debe revisarse a la luz de la secuencia aquí establecida: la reunión provocó la crisis, la intimidad no consiguió aliviarla inicialmente y el momento culminante del encuentro finalmente puso fin a la Reverberación aguda.
+
+No inventar nuevos acontecimientos para conciliar formulaciones incompatibles.
+
+##### 21. Límites de lo establecido
+
+No se han definido fechas exactas para estos episodios.
+
+No se ha explicado por qué Tuk desarrolló precisamente esos tres focos eróticos.
+
+No se ha confirmado si la Reverberación afectó directamente a la Resonancia de Benji o a la Disonancia de Nimri durante el encuentro.
+
+No se ha determinado que Nimri haya vuelto a participar sexualmente con ambos después del episodio del aislamiento.
+
+Las fantasías privadas de Nimri no equivalen a nuevos encuentros reales.
+
+No afirmar que su Disonancia se ha debilitado.
+
+No afirmar que la Reverberación ha desaparecido definitivamente de Tuk.
+
+La incertidumbre de estos puntos forma parte del alcance aprobado y no obliga a abrir nuevas preguntas durante este volcamiento.
+
+---
+
+##### Estado y alcance final
+
+**Pregunta 24: RESUELTA CON DESARROLLO AMPLIADO.**
+
+Se han fijado acontecimientos concretos, localizaciones, relaciones, mecanismos psicológicos, consecuencias sexuales y varios diálogos.
+
+Se conserva la posibilidad de desarrollar narrativamente escenas adicionales, sin que ello impida cerrar la pregunta.
+
+El contenido de esta resolución constituye material aprobado por el autor para preparar una futura incorporación al canon, pero **todavía no autoriza el volcamiento**.
+
+Registrar íntegramente la resolución en el cuarto documento y conservar su trazabilidad de detalle.
+
+No modificar todavía archivos de `docs/`, `cuentos/` o `fragmentos/`. No realizar commits ni push.
 
 ## Registro de avance
 
-De las 24 preguntas, las preguntas 1–4, 6–12, 14–20 y 22–23 están resueltas. La pregunta 5 tiene una resolución acotada a los requisitos de contratación; la cuestión sobre clasificaciones administrativas imperiales queda sin resolver. En la pregunta 13, la separación de técnicas está resuelta y los nombres Viraje y Faro esperan confirmación. La pregunta 21 fue retirada del alcance; la pregunta 24 sigue pendiente. Se responderán de una en una en el orden numerado. Las respuestas se registrarán fielmente; cuando el autor declare una pregunta innecesaria, no desarrollada o abierta, se anotará esa decisión y se continuará con la siguiente.
+El cuestionario llegó a la pregunta 24. Las preguntas 1–4, 6–12, 14–20 y 22–24 están resueltas; la pregunta 21 fue retirada del alcance. La pregunta 5 resolvió los requisitos de contratación, pero no la existencia o el contenido de clasificaciones administrativas imperiales. En la pregunta 13, la separación de técnicas está resuelta; los nombres propuestos Viraje y Faro siguen pendientes de confirmación del autor. Estas cuestiones se consignarán en el informe de contraste. No se ha modificado el canon.
