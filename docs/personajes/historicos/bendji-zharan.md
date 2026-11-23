@@ -5,6 +5,16 @@ Grises de Lemuria. Hablador y socarrón, se llama a sí mismo la Brigada Bendji.
 En el rescate de la mansión Khan combatió y contuvo al Engendro de Sombra y
 retiró la garra que atravesaba el pecho de Iyuri.
 
+Es un lemuriano pardisiano, de crianza, nombre y costumbres lemurianos. Tiene
+piel clara, facciones marcadas y varoniles, cejas oscuras, expresión jovial y a
+menudo desafiante, ojos verdes y cabello castaño rojizo con corte militar. Posee
+ascendencia sangheskia; su genealogía concreta permanece reservada. Muchas
+costumbres de otros territorios de Dragma le resultan extrañas.
+
+Durante parte de su formación Maeghi vivió fuera de Lemuria y convivió con
+personas de diversos territorios imperiales. Sus experiencias contribuyeron a
+su manera desenvuelta de relacionarse.
+
 ## Relaciones con Tuk y Nairim
 
 Bendji es Resonante, amigo y amante de Tayruk Azharen. Su propio desborde de

@@ -1,9 +1,15 @@
 # Nairim Vezhari
 
 Maeghi de grado Maestro, Disonante extremo, Siniestro y miembro de los Cuervos
-Grises de la Guardia Real de Lemuria. Su padre procedía de la Bruma y su madre era
-lemuriana. Creció en Kystvar, ingresó en la Guardia Real y fue destinado a
+Grises de la Guardia Real de Lemuria. Su padre era lemuriano y su madre procedía
+de la Bruma. Creció en Kystvar, ingresó en la Guardia Real y fue destinado a
 Lemuria. Se presentó como el primer Portador siniestro de la isla.
+
+Es lemuriano de Sangre Nueva. Tiene piel blanca y pálida, rostro alargado,
+facciones definidas, cejas oscuras, ojos castaño oscuro de forma distinta a la
+asociada a los sheijad y cabello abundante, negro, largo y ondulado. Su familia
+le transmitió una educación lemuriana que valoraba la modestia, el respeto, la
+reserva y los buenos modales.
 
 ## Rescate en la mansión Khan
 
@@ -33,8 +39,8 @@ Antes del condicionamiento Maeghi, Nairim era muy emocional, sensible,
 temeroso y asustadizo. Desde niño percibía Sombra Residual y advertía a
 personas en peligro de Corrupción; aquella percepción contribuyó al miedo que
 marcó su infancia. Después del condicionamiento desarrolló una Disonancia
-extrema. No se establece una relación causal necesaria entre su miedo infantil
-y esa condición.
+extrema, que acentuó su reserva y contención. No se establece una relación
+causal necesaria entre su miedo infantil y esa condición.
 
 Nairim recuerda los acontecimientos de su infancia y sabe que sintió mucho
 miedo, pero aquella emoción le resulta extraña y borrosa al reconstruirla. Le

@@ -32,6 +32,15 @@ El imperio se compone de cuatro tipos de entidad territorial:
 
 El Stamengherin es la única institución con autoridad para modificar esta estructura, incorporar territorios, unir o partir reinos y reformar la organización de las coronas. Pese a esta facultad, nunca ha alterado los doce reinos ni el sistema de un emperador y doce reyes. Después de la fundación del imperio, solo la ha ejercido para incorporar oficialmente los territorios de ultramar como protectorados y aprobar sus formas de gobierno y autonomía.
 
+## Amor espejo
+
+El **amor espejo** designa las relaciones amorosas y sexuales entre personas del
+mismo sexo. Son legales y generalmente aceptadas en el Imperio; los matrimonios
+entre personas del mismo sexo tienen plena validez en todos sus territorios.
+Persisten prejuicios en ciertos ambientes, especialmente entre nobles
+preocupados por la descendencia sanguínea y en algunas tierras de Sangre de
+Hierro. Las actitudes varían entre personas y familias.
+
 ## Gobernantes por tipo de entidad
 
 | Entidad | Gobernante | Notas |
@@ -67,7 +76,7 @@ El Stamengherin es la única institución con autoridad para modificar esta estr
 |---|--------|------|------------|-------|
 | 1 | Khalos | Ciudadela libre | Gran Consejo | Fundada por la Gente de la Bruma y refugiados astrianos. |
 | 2 | Esteria | Ciudad fortaleza | Guardia Amarilla | Enclave protector al borde del Foso de la Calamidad. La carta de Rudgar lo separó de los doce Dominios. |
-| 3 | Lemuria | Territorio de ultramar | Príncipe Regente | Isla sheijad al noroeste, administrada como principado autónomo. |
+| 3 | Lemuria | Territorio de ultramar | Príncipe Regente | Isla al noroeste de herencia sheijad, administrada como principado autónomo. |
 | 4 | Alessya | Protectorado insular | Príncipe Guardián | Isla al suroeste, vinculada históricamente con los Hijos del Sol. Principado rico e inalienable. |
 | 5 | Delfos | Territorio de ultramar | Regente (Casa Artema) | Isla tropical frente a Velkhar. Gobernada por la Casa Artema. Los Artema portan en secreto sangre Mormund desde el exilio de Mijail. |
 | 6 | Lorka | Territorio de ultramar | Príncipe Regente | Isla al norte de Lemuria. |

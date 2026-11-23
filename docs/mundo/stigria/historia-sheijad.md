@@ -21,6 +21,13 @@ a sus perseguidores. Con el tiempo hubo intercambios de alimentos, agricultura,
 escritura, metalurgia y conocimientos; Khalos explicó el lugar de los místicos
 en el Imperio.
 
+Los veranenses reconocieron en los exiliados una experiencia de persecución,
+desarraigo y búsqueda de refugio que les resultaba familiar. Su ayuda y sus
+intercambios contribuyeron a la formación de la cultura lemuriana. Antiguos
+Portadores veranenses transformaron el clima de la isla, que llegó a conocerse
+como el Regalo del Verano; la fecha y los detalles de esa intervención
+permanecen reservados.
+
 ## Cisma
 
 La convivencia llevó a interpretaciones opuestas de la voluntad de Ishbaal.

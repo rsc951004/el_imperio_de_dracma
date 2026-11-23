@@ -7,6 +7,10 @@ custodio imperial con formación militar y marinero vinculado al Calamar Rojo.
 Es disciplinado y formal, tiene un fuerte sentido del deber y desea conocer el
 mundo. Es rubio y lleva el cabello corto, con corte militar.
 
+Su cabello es de un rubio más oscuro que el de Tayruk; tiene piel y ojos
+claros, rostro alargado, mandíbula cuadrada y nariz algo grande. Es considerado
+guapo y varonil. Bajo su formalidad es afectuoso, inseguro y algo inocentón.
+
 Es Portador del Don del Caos y Maeghi de grado Iniciado. Se formó durante seis
 años en la Academia Imperial de Custodios, con una extensión de año y medio en
 el Colegio Maeghi Vasaggo.

@@ -77,6 +77,14 @@ Maeghi.
 La **Orden de la Flama Blanca** representa la postura extrema y mantiene una
 doctrina y unos objetivos propios, descritos en su ficha.
 
+## Amor espejo
+
+En Lemuria, los ishbaalanos seculares aceptan el amor espejo y lo consideran
+compatible con su fe. Los ortodoxos consideran antinaturales las relaciones
+entre personas del mismo sexo. Algunos creyentes de otros territorios las
+interpretan como un pecado de la carne; esta postura causa extrañeza a muchos
+lemurianos seculares y no se atribuye a todos los seguidores del culto.
+
 ## Clérigos y Moroloth
 
 Los clérigos del culto son hombres y mujeres que difunden la fe en Ishbaal por
@@ -96,11 +104,20 @@ Durante la época de Sandor, muchos seguidores tienen como objetivo visitar la
 isla de Lemuria al menos una vez en su vida. El número y la ubicación exacta de
 los Moroloth no están definidos.
 
+Para los lemurianos, el Moroloth insular es un lugar sagrado y un vínculo con
+Ishbaal, sus antepasados y su familia. Los padres suelen llevar allí a sus
+hijos pocos días o meses después de nacer; estos acostumbran regresar de
+adultos y, cuando tienen hijos, llevarlos a su vez. Pueden acudir también en
+otros momentos para rezar o reflexionar, incluso cuando su práctica cotidiana
+de la fe no es rigurosa.
+
 ## Ungimientos
 
 Los seguidores esperan recibir tres ungimientos durante su vida: al nacer, a
 modo de bautismo; al llegar a la adultez; y al visitar el Moroloth de la isla de
 Lemuria. No se requiere más detalle del rito para fijar esta práctica.
+La relación ceremonial exacta de estos ungimientos con las visitas familiares
+habituales al Moroloth permanece reservada.
 
 ## Referencias
 

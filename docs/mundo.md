@@ -155,7 +155,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Guerras Místicas | Conflicto histórico | Sucesión de conflictos internos durante la Segunda Dinastía, culminada por la Aniquilación. | [Ver ficha](mundo/stigria/dragma/guerras-misticas.md) |
 | Casa Rheiner | Casa noble | Linaje de Drommdurr al que perteneció Leandrin. | [Ver ficha](casas/rheiner.md) |
 | Casa Galenor | Casa común | Familia comerciante numerosa y ramificada a la que perteneció Rasmus Galenor. | [Ver ficha](casas/galenor.md) |
-| Casa Khan | Casa noble | Casa sheijad secular de Lemuria. | [Ver ficha](casas/khan.md) |
+| Casa Khan | Casa noble | Casa lemuriana secular de ascendencia sheijad. | [Ver ficha](casas/khan.md) |
 | Casa Kardaskhan | Casa regente | Casa del Principado de Lemuria. | [Ver ficha](casas/kardaskhan.md) |
 | Casa Nerve | Casa noble | Casa de Eisengard vinculada a Greta Nerve. | [Ver ficha](casas/nerve.md) |
 | Casa Mhaister | Casa noble | Linaje de Uldengyrk emparentado con los Rheiner. | [Ver ficha](casas/mhaister.md) |
@@ -221,7 +221,7 @@ Los tres reinos de la Tierra de la Bruma son **Kystvar** —puerto pesquero—, 
 |---|--------|------|-------------------|-------|
 | 1 | Khalos | Ciudadela | Fortaleza circular de piedra de Stömur, fundada por la Gente de la Bruma y refugiados astrianos. | [Ver ficha](mundo/stigria/dragma/khalos/khalos.md) |
 | 2 | Esteria | Ciudad fortaleza | Enclave fundado por Iulien Therin junto al Foso. No pertenece a ninguno de los doce reinos. | [Ver ficha](mundo/stigria/dragma/esteria/esteria.md) |
-| 3 | Lemuria | Protectorado insular | Isla sheijad al noroeste, administrada como principado autónomo por un Príncipe Regente. | [Ver ficha](mundo/stigria/dragma/lemuria/lemuria.md) |
+| 3 | Lemuria | Protectorado insular | Isla al noroeste de herencia sheijad, administrada como principado autónomo por un Príncipe Regente. | [Ver ficha](mundo/stigria/dragma/lemuria/lemuria.md) |
 | 4 | Alessya | Isla | Isla al suroeste, vinculada históricamente con los Hijos del Sol. Protectorado rico gobernado por un Príncipe Guardián. Inalienable por ley de la Concordia. | [Ver ficha](mundo/stigria/dragma/alessya/alessya.md) |
 | 5 | Delfos | Isla | Isla tropical en el mar oriental. Descubierta por Artemis durante la Edad de la Podredumbre. | [Ver ficha](mundo/stigria/dragma/delfos/delfos.md) |
 | 6 | Lorka | Isla | Territorio de ultramar al norte de Lemuria. Aguas frías, costas rocosas. | [Ver ficha](mundo/stigria/dragma/lorka/lorka.md) |

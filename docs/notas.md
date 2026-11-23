@@ -1,5 +1,23 @@
 # Notas editoriales
 
+### Características identitarias de Lemuria (2026-11-23)
+
+Por autorización del autor se incorporaron las resoluciones R-01 a R-11 del
+proceso de identidad lemuriana. Se actualizaron el origen y la identidad de sus
+grupos, el clima transformado por Portadores veranenses, la relación con el
+Verano, la vida religiosa, el amor espejo, las costumbres y la memoria histórica.
+Se precisó la legalidad imperial del matrimonio entre personas del mismo sexo y
+se ajustó el alcance del recelo descrito en Vesperya.
+
+Las fichas de Nairim, Tayruk, Bendji, Mehrzaya, Iyuri y Rendard incorporaron
+las descripciones y antecedentes aprobados. Se corrigieron la filiación y el
+cabello de Nairim en «El niño de la flecha» y el color de ojos de Iyuri en
+«El custodio imperial», conservando la transformación en Oskar y la cicatriz
+canónica de Iyuri. Permanecen reservados los detalles genealógicos, la formación
+Maeghi concreta, la articulación ceremonial de visitas y ungimientos y los
+detalles de la transformación climática. La acogida de nuevos refugiados sigue
+siendo hipotética; sus competencias y procedimientos permanecen reservados.
+
 ### Nombres de personajes lemurianos (2026-11-23)
 
 Por autorización del autor se actualizaron los nombres de Mehrzaya Khan,

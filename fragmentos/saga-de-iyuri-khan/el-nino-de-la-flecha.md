@@ -175,9 +175,9 @@ lleguemos a tierra ninguno beberá cerveza. ¡Solo yo!
 
 —¿Sturmgardiano? No me ofenda, señor. Abra los ojos y dígame si parezco uno.
 
-Ante él había un joven rubio, de cabello largo recogido y una banda con un
-medallón sobre la frente. Iyuri lo miró. El muchacho no parecía ofendido de
-verdad.
+Ante él había un joven de cabello negro, largo y ondulado, recogido, y una banda
+con un medallón sobre la frente. Iyuri lo miró. El muchacho no parecía ofendido
+de verdad.
 
 —Lo siento —dijo Iyuri—. No eres feo.
 
@@ -186,7 +186,7 @@ arrastraba hacia el fondo cedió. Volvió a sentir suelo bajo la espalda. El
 joven le pidió que mirara la hierba. Había flores de olor dulce y árboles que
 se mecían con el viento. Iyuri reconoció la pradera de su Santuario.
 
-La Sombra gritó desde el lago que él le pertenecía. El rubio le pidió que no
+La Sombra gritó desde el lago que él le pertenecía. El joven le pidió que no
 escuchara y que atendiera a su voz. Podía parecerse a quien Iyuri quisiera,
 añadió. Entonces Oskar estuvo frente a él, sonriendo.
 
@@ -209,7 +209,7 @@ de Iyuri se cerró a un palmo de la cara de Bendji.
 
 —La Brigada Bendji ha venido al rescate —dijo entre dientes.
 
-El joven rubio seguía frente a Iyuri. Al reconocer la insignia de su banda,
+El joven seguía frente a Iyuri. Al reconocer la insignia de su banda,
 Iyuri comprendió que la alerta negra había funcionado.
 
 —Ya saqué la Semilla —dijo Nairim Vezhari—. Tuk, ahora.
@@ -240,7 +240,7 @@ Siniestro.
 
 —¿Y qué esperaba que viniera cuando lanzó la alerta? —preguntó Bendji.
 
-Nairim explicó que su madre era lemuriana y que lo habían destinado a la Guardia
+Nairim explicó que su padre era lemuriano y que lo habían destinado a la Guardia
 Real de la isla. Era, dijo, su primer Portador siniestro. Después preguntó el
 nombre del joven.
 

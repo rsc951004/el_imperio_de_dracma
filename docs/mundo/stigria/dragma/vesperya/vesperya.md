@@ -66,7 +66,7 @@ Vesperya cuenta con colegios Maeghi orientados generalmente a usos no
 combativos, pasivos o productivos de los dones.
 
 ### Libertad como religión
-Los vespirios no creen en la monogamia. No les importa el deber del linaje. En un imperio donde la homosexualidad se tolera pero se mira con recelo —porque pone en riesgo la continuidad de los apellidos, incluso los comunes—, Vesperya responde con un encogimiento de hombros. Mientras haya **cerveza fría y una cama caliente**, un vespirio es feliz. Con hombre, con mujer, con ambos.
+Los vespirios no creen en la monogamia. No les importa el deber del linaje. El amor espejo es legal y generalmente aceptado en el Imperio, aunque algunos ambientes conservan prejuicios ligados a la descendencia. En Vesperya, mientras haya **cerveza fría y una cama caliente**, un vespirio es feliz. Con hombre, con mujer, con ambos.
 
 ### Tres hermanos, tres juicios
 - **A Lysarya la ven como aburrida y estirada.** Gente piadosa de huertos y

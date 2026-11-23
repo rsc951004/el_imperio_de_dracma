@@ -6,6 +6,17 @@ Cuervos Grises de Lemuria. Es brusco y burlón. Aspiraba a ser sanador, como su
 padre; ambos y su hermano mayor son Invocadores. Tuk es un prodigio de la
 sanación.
 
+Es un lemuriano pardisiano. Tiene piel clara, rostro algo redondeado y facciones
+suaves, ojos castaño claro y cabello rubio, corto, liso y algo despeinado, de
+hebra menos fina que la asociada a los sheijad; suele caerle sobre los ojos y
+las orejas. Es más bien bajo y tiene una apariencia algo despistada. Su nombre,
+crianza y costumbres son lemurianos; muchas costumbres de otros territorios de
+Dragma le resultan extrañas.
+
+Pasó parte de su formación Maeghi fuera de Lemuria, donde convivió con personas
+de distintos territorios imperiales. Su familia era especialmente estricta,
+poco demostrativa y preocupada por la conducta y la reputación.
+
 ## Desborde y Reverberación
 
 Su mejor amigo murió al dar origen a un Engendro de Sombra. Tuk no presenció
@@ -26,7 +37,8 @@ especial si Tuk desatiende necesidades afectivas y eróticas en momentos
 críticos.
 
 Su condición llegó a costarle el empleo y deterioró sus relaciones familiares;
-su familia se avergonzaba de las consecuencias visibles. Los Cuervos Grises lo
+su familia se avergonzaba de las consecuencias visibles; las exigencias de su
+hogar contribuyeron a su rechazo. Los Cuervos Grises lo
 incorporaron por su gran potencial, en especial por sus capacidades de
 sanación. Con esfuerzo consiguió recuperar el control de su respuesta y de su
 vida cotidiana.

@@ -5,6 +5,10 @@ con esmero el jardín familiar y procuró concertar el matrimonio de Iyuri con
 Greta Nerve. Su hijo huyó a los catorce años. La llamaba «umi», palabra
 tradicional sheijad para «mamá».
 
+Mehrzaya es lemuriana de Sangre Vieja y tiene ojos rasgados y bien abiertos.
+Su crianza y sus expectativas familiares se acercan a los ideales lemurianos
+de modestia, prudencia y buena educación.
+
 Mehrzaya no era Vinculada. Iyuri la rescató durante el ataque de un Engendro de Sombra a la
 mansión. En la playa recobró débilmente la conciencia y bendijo a su hijo.
 

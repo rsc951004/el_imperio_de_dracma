@@ -9,10 +9,21 @@ vespirio y sheijad por su madre lemuriana. Creció y se identificó
 culturalmente con Lemuria. Era hermano de Leyza Khan y descendiente directo del
 itinerante Rasmus Galenor. Su familia lo registró como Vinculado en la infancia.
 
+Era lemuriano de Sangre Nueva. Durante su infancia acompañó a Fhilippo en
+numerosos viajes marítimos y conoció las Costas del Verano y a su familia
+paterna. La influencia vespiria se sumó a su crianza lemuriana y contribuyó a
+su carácter atrevido y desinhibido.
+
 De adolescente era delgado, atlético, hermoso y sin barba. Su velocidad,
 equilibrio y acrobacia compensaban su menor fuerza bruta. Llevaba numerosas
 dagas ocultas en su armadura ligera y una espada corta. Su humor irreverente y
 su audacia convivían con una profunda ternura hacia quienes amaba.
+
+Tenía piel clara de matiz rosáceo, rostro alargado, facciones definidas, cejas
+oscuras y nariz recta. Sus ojos eran celestes intensos y algo más rasgados que
+los de Mehrzaya; su cabello, abundante y castaño claro, enmarcaba su rostro en
+rizos amplios y delicados. Su estatura se acercaba al promedio lemuriano;
+llevaba una pequeña cicatriz sobre la ceja.
 
 ## Don de la Flecha
 

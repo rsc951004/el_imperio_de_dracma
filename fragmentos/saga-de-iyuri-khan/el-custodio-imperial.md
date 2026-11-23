@@ -34,7 +34,7 @@ Su acompañante prometió llevarla a la academia. Ren siguió atendiendo a la co
 
 —Una vez conocí a un grimyi que hablaba solo, ¿sabes? Lo pusieron a dormir porque no paraba de felicitarse a sí mismo.
 
-Ren se volvió hacia el hombre que acababa de compararlo con una rata del desierto. Era el hombre más hermoso que había visto. Tenía el cabello rizado, recogido en un moño, y una pequeña cicatriz sobre la ceja. Sus ojos eran celestes y ámbar. Llevaba armadura ligera, dagas sobre el pecho y una espada corta al cinto.
+Ren se volvió hacia el hombre que acababa de compararlo con una rata del desierto. Era el hombre más hermoso que había visto. Tenía el cabello rizado, recogido en un moño, y una pequeña cicatriz sobre la ceja. Sus ojos eran de un celeste intenso. Llevaba armadura ligera, dagas sobre el pecho y una espada corta al cinto.
 
 —Yo... yo solo estaba jugando.
 
