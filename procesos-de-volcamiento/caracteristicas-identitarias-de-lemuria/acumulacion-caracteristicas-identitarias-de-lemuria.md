@@ -4,7 +4,7 @@
 
 ## Fuente y criterio
 
-La fuente principal es la [conversación de identidad lemuriana y corrección](../../mesa-de-trabajo/ChatGPT-Identidad%20lemuriana%20y%20corrección-20261123-1032.md), complementada por los retratos de personajes aportados por el humano. Los rasgos físicos visibles en esos retratos sirven para completar las descripciones individuales. Se respetan las correcciones posteriores y se distinguen las propuestas del asistente sin confirmación. Los puntos de contraste con el canon quedan pendientes de revisión.
+La fuente principal es la [conversación de identidad lemuriana y corrección](../../mesa-de-trabajo/ChatGPT-Identidad%20lemuriana%20y%20corrección-20261123-1032.md), complementada por los retratos y las definiciones posteriores aportados por el humano, incluidas las relativas a la identidad religiosa. Los rasgos físicos visibles en esos retratos sirven para completar las descripciones individuales. Se respetan las correcciones posteriores y se distinguen las propuestas del asistente sin confirmación. Los puntos de contraste con el canon quedan pendientes de revisión.
 
 ## Identidad lemuriana y ascendencia sheijad
 
@@ -19,6 +19,43 @@ La fuente principal es la [conversación de identidad lemuriana y corrección](.
 Los [sheijad](../../docs/mundo/stigria/historia-sheijad.md) llegaron a Kardan desde Sarustra como refugiados. La [ficha de Lemuria](../../docs/mundo/stigria/dragma/lemuria/lemuria.md) sitúa su integración definitiva al Imperio y la creación del Principado después del cisma y la guerra civil. Estos antecedentes son canon vigente; las decisiones de la conversación permanecen en acumulación.
 
 Quedan sin definir el significado que conserva Sarustra para los lemurianos contemporáneos, cómo se usan las denominaciones de los tres grupos en la vida cotidiana y qué importancia tienen en la convivencia.
+
+## Identidad religiosa de Lemuria
+
+### Definiciones humanas
+
+- Los antepasados sheijad trajeron desde Sarustra el ishbaalanismo, que llegó a convertirse en la religión más popular del Imperio de Dracma. Muchos lemurianos contemplan esta herencia con una mezcla de orgullo y extrañeza.
+- En la época moderna, la sociedad lemuriana es casi completamente secular: la inmensa mayoría pertenece a esta corriente y los ortodoxos son una pequeña minoría.
+- Los pocos lemurianos ortodoxos suelen dedicarse a la vida religiosa. La sociedad los respeta, pero también los observa con cierto recelo y distancia; existe una separación cultural y una dificultad para identificarse con su manera de vivir la fe. Eso no implica necesariamente hostilidad.
+- Para la mayoría de los lemurianos, el ishbaalanismo es fundamentalmente una herencia cultural e identitaria. Creen en Ishbaal porque han crecido en una cultura que lo reconoce, lo venera y transmite sus tradiciones de generación en generación.
+- La relación con la religión está profundamente integrada en la vida cotidiana, aunque no necesariamente responde a la convicción espiritual intensa que caracterizaba a los antiguos sheijad. El significado social de la religión se ha transformado profundamente.
+- El secularismo lemuriano no equivale a ausencia de religión ni a ateísmo generalizado: los lemurianos modernos no han abandonado el ishbaalanismo ni carecen por ello de creencias sinceras. El ishbaalanismo contemporáneo forma parte de lo que significa ser lemuriano, incluso para quienes no viven su fe con especial fervor.
+
+### Contraste con el canon vigente
+
+- La [ficha de Lemuria](../../docs/mundo/stigria/dragma/lemuria/lemuria.md) establece que la corriente secular es ampliamente mayoritaria, permite la convivencia con el misticismo y que la ortodoxia sobrevive principalmente en círculos religiosos. Las nuevas definiciones amplían la descripción de su vivencia social y religiosa; no se identificó una contradicción directa en ese punto.
+- La [historia sheijad](../../docs/mundo/stigria/historia-sheijad.md) sitúa el origen de la división en interpretaciones distintas del misticismo y señala que ambas corrientes conservaron su fe. El [culto a Ishbaal](../../docs/mundo/stigria/dragma/lemuria/culto-a-ishbaal.md) confirma que ambas profesan esa fe; esto es compatible con distinguir secularismo y ausencia de religión.
+- La ficha del culto establece que el ishbaalanismo reúne el mayor número de adeptos en el Imperio **durante la época de Sandor**. La definición humana lo presenta como la religión más popular del Imperio; el alcance temporal de esa afirmación queda para revisión posterior, sin asumir una contradicción.
+
+## Amor espejo y sociedad lemuriana
+
+### Definiciones humanas
+
+- En el Imperio de Dracma, las relaciones amorosas y sexuales entre personas del mismo sexo están plenamente permitidas y son generalmente aceptadas. El término habitual para designarlas es **amor espejo**.
+- El matrimonio entre personas del mismo sexo tiene plena validez legal en todos los territorios imperiales. La legalidad y la aceptación general no eliminan todos los prejuicios sociales.
+- Pueden persistir prejuicios particularmente entre la nobleza, por la importancia de la descendencia sanguínea, la continuidad de los linajes y los herederos biológicos, y en las tierras de la Sangre de Hierro. No se atribuyen a todos los nobles ni a todos los habitantes de esas tierras, ni implican una prohibición general o persecución institucional.
+- La actitud lemuriana hacia el amor espejo está profundamente influida por las prácticas culturales de los pueblos del Verano.
+- Entre los ishbaalanos seculares de Lemuria, las relaciones entre personas del mismo sexo son aceptadas y forman parte de la vida social. Esa aceptación es compatible con su fe en Ishbaal; pueden identificarse sinceramente como ishbaalanos sin considerar que el amor espejo contradiga necesariamente su religión.
+- Los ishbaalanos ortodoxos consideran antinatural el amor espejo. La diferencia con los seculares refleja la transformación del ishbaalanismo en Lemuria desde la llegada de los primeros sheijad.
+- Numerosos creyentes ishbaalanos de otros territorios imperiales, especialmente quienes procuran seguir lo que interpretan como las verdaderas enseñanzas de Ishbaal, pueden considerar el amor espejo un pecado de la carne. Esta interpretación no se atribuye a todos los ishbaalanos de fuera de Lemuria ni establece objetivamente la voluntad de Ishbaal.
+- Esa condena causa considerable extrañeza entre los lemurianos seculares: les sorprende que otros creyentes interpreten tan estrictamente una religión originada entre sus antepasados. Lemuria es la patria histórica del ishbaalanismo dentro del Imperio, pero sus habitantes modernos pueden encontrarse entre quienes lo interpretan de manera más secular y flexible.
+- Compartir una religión no implica interpretar uniformemente sus enseñanzas. La identidad ishbaalana lemuriana contemporánea está profundamente vinculada con la cultura, la historia y la pertenencia imperial; la ortodoxia conserva una interpretación moral más estricta.
+
+### Contraste con el canon vigente
+
+- La [ficha de Vesperya](../../docs/mundo/stigria/dragma/vesperya/vesperya.md) describe una actitud permisiva de los vespirios, pero caracteriza la homosexualidad en el Imperio como tolerada y mirada con recelo por la continuidad de los apellidos, incluso comunes. Esa formulación general presenta una posible discrepancia con la aceptación general establecida aquí y con la localización de ciertos prejuicios; queda pendiente de auditoría.
+- La [ficha de Lemuria](../../docs/mundo/stigria/dragma/lemuria/lemuria.md) y la del [culto a Ishbaal](../../docs/mundo/stigria/dragma/lemuria/culto-a-ishbaal.md) describen la fe de las corrientes seculares y ortodoxas y su diferencia ante el misticismo. No precisan las posturas sobre el amor espejo aquí registradas.
+- La búsqueda en las superficies canónicas no identificó una disposición general sobre la validez del matrimonio entre personas del mismo sexo ni la denominación «amor espejo». Esas definiciones quedan registradas para revisión, sin inferir una prohibición o contradicción por ausencia de mención.
 
 ## Sangre Vieja y apariencia sheijad
 
