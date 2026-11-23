@@ -178,7 +178,16 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación inicial, A-08 y asuntos pendientes; acumulación de resoluciones, R-06; `docs/mundo/stigria/don-de-la-flecha.md`; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Separación de técnicas resuelta; denominaciones propuestas pendientes de confirmación del autor.
+
+**Respuesta del autor:** **Anclaje** designa exclusivamente la técnica de fijar un ancla mística a un objeto. La modificación de trayectorias y la percepción desde objetos anclados son técnicas independientes de Anclaje.
+
+**Propuestas de denominación autorizadas para consideración:**
+
+- **Viraje:** técnica que permite modificar y dirigir la trayectoria de un objeto anclado.
+- **Faro:** técnica que permite percibir en 360 grados el entorno de un objeto anclado.
+
+Los nombres son propuestas sujetas a confirmación del autor. Se conservan los alcances y limitaciones previamente establecidos para cada capacidad.
 
 ### 14. Nombre breve para quienes poseen el Don de la Flecha — reserva existente
 
@@ -186,7 +195,11 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación inicial, A-08; acumulación de resoluciones, R-06; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** La denominación definitiva es **Trazante**, en singular, y **Trazantes**, en plural. Un Trazante es una persona vinculada al Don de la Flecha. El término hace referencia a la capacidad de seguir la trayectoria de un objeto y desplazarse hasta su destino. Esta denominación identifica a los usuarios del don, no una técnica particular. El nombre histórico **Don de la Flecha** permanece vigente.
+
+**Consecuencia indicada por el autor:** eliminar la reserva sobre el nombre breve de los usuarios del don.
 
 ### 15. Relación entre técnica y maestría — reserva existente
 
@@ -194,7 +207,11 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación de resoluciones, reservas de R-06; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta. Se confirma una decisión original que fue incorrectamente registrada como pendiente durante el volcamiento.
+
+**Respuesta del autor:** El concepto místico de **maestría** queda sustituido definitivamente por **técnica**. Una técnica es una forma identificable de utilizar un don que puede descubrirse, aprenderse, desarrollarse, perfeccionarse y transmitirse. La sustitución se realiza para evitar confusiones con el grado institucional de Maestro Maeghi. No se trata de dos conceptos diferentes que deban coexistir ni corresponde mantener abierta una reserva sobre su relación.
+
+**Consecuencia para la revisión final indicada por el autor:** identificar las referencias canónicas a «maestría» como concepto de aplicación de un don y sustituirlas por «técnica», respetando el contexto gramatical. No modificar el grado de Maestro ni otros usos de la palabra que no correspondan a ese concepto. Esta revisión queda pendiente; no se modifica el canon durante el cuestionario.
 
 ## C. Organización de los colegios y exámenes
 
@@ -204,7 +221,13 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación inicial, A-12; acumulación de resoluciones, R-08; `docs/taburas/moes-tabura.md`; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** Las sedes de Veleskaria, Sindria y Eldengaria cumplen funciones administrativas, organizativas, académicas y de supervisión de la Möes Tábura. Entre sus responsabilidades se encuentran la coordinación de colegios, la supervisión institucional, la administración de licencias, los registros, la gestión académica y otras funciones necesarias para el funcionamiento de la organización. Esta enumeración es ilustrativa, no exhaustiva. Las sedes tienen competencias más amplias que no necesitan detallarse individualmente. **Veleskaria continúa siendo la Sede Central.**
+
+No inventar nuevos organismos, jerarquías ni distribuciones exclusivas de competencias entre las tres sedes.
+
+**Consecuencia indicada por el autor:** no mantener una reserva artificial por falta de un catálogo exhaustivo de funciones.
 
 ### 17. Relación institucional de Vasaggo — reserva existente
 
@@ -212,7 +235,11 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación de resoluciones, R-08; `docs/organizaciones/escuela-maeghi-vasaggo.md`; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta en cuanto a su condición institucional.
+
+**Respuesta del autor:** El Colegio Vasaggo es una pequeña institución educativa situada en la capital. Está **adscrito a la Möes Tábura y cuenta con reconocimiento oficial**, aunque es una escuela poco conocida. Ren Steinert conoce esta institución.
+
+El Colegio Vasaggo posee un trasfondo narrativo propio que el autor desarrollará posteriormente. No corresponde inventar ni anticipar esa historia durante este proceso. El desarrollo narrativo futuro no constituye un impedimento para cerrar esta pregunta.
 
 ### 18. Lugar del examen de Iniciado de Ren — reserva existente
 
@@ -220,7 +247,11 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación de resoluciones, R-08; `docs/organizaciones/escuela-maeghi-vasaggo.md`; `docs/personajes/rendard-steinert.md`; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** Ren Steinert rindió y aprobó el examen para obtener el grado de Iniciado Maeghi en el **Colegio Vasaggo**, pequeña institución de la capital, adscrita a la Möes Tábura y oficialmente reconocida. Este hecho no implica que debamos desarrollar todavía el trasfondo narrativo del colegio.
+
+**Consecuencia indicada por el autor:** eliminar la reserva sobre el lugar del examen de Ren.
 
 ### 19. Categorías de prestigio y enseñanza de Zephyrya y Sindria — aclaración de una interpretación
 
@@ -228,7 +259,17 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación de resoluciones, R-08 y trazabilidad de detalle aprobado; `docs/taburas/moes-tabura.md`; fichas de Zephyrya y Sindria. La resolución conserva ambas formulaciones y evita equipararlas por inferencia.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** Las distintas instituciones destacan por sus especialidades:
+
+- **Veleskaria:** formación mística orientada al combate.
+- **Sindria:** formación especializada en la lucha contra la Sombra.
+- **Zephyrya:** enseñanza vinculada a las humanidades, la sanación, la salud, la belleza, la longevidad, la alimentación y otras disciplinas orientadas a preservar, potenciar y embellecer la vida.
+
+La importancia de Zephyrya como segundo núcleo de enseñanza mística no debe justificarse artificialmente mediante una supuesta mayor cantidad de colegios o estudiantes. Se conserva la distinción ya establecida entre importancia como núcleo de enseñanza y prestigio de los Colegios Reales, cuyos primeros puestos corresponden a Veleskaria y Sindria.
+
+**Estado indicado por el autor:** no existe contradicción que requiera una reserva adicional.
 
 ## D. Cronología, conocimiento y reservas narrativas
 
@@ -238,7 +279,11 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación de resoluciones, R-10; `docs/personajes/iyuri-khan.md`; `docs/personajes/rendard-steinert.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** La estancia de Iyuri Khan y Rendard Steinert en Erebia ocurrió **mucho antes del episodio de Upyria**, poco después de que ambos se conocieran. Por tanto, la estancia en Erebia corresponde a una etapa temprana de su relación, mientras que los acontecimientos de Upyria son considerablemente posteriores. No se establecen fechas ni intervalos exactos que el autor no haya definido.
+
+**Consecuencia indicada por el autor:** eliminar la reserva sobre el orden cronológico de ambos acontecimientos.
 
 ### 21. Interés de Ren por Gin y su relación con Iyuri — reserva narrativa
 
@@ -246,15 +291,25 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación de resoluciones, R-10; `docs/personajes/rendard-steinert.md`; `docs/personajes/iyuri-khan.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Retirada del alcance de este volcamiento.
 
-### 22. Comprensión de Ren sobre su desborde — aclaración opcional de las conversaciones
+**Decisión del autor:** Esta pregunta es innecesaria para el presente proceso. Los fragmentos relacionados con Gin y Ren podrían reescribirse, pues fueron concebidos antes de que la relación amorosa entre Ren e Iyuri adquiriera su importancia actual. No se establece una cronología definitiva del interés de Ren por Gin ni se deducen nuevas circunstancias sentimentales. La eventual revisión corresponde al desarrollo narrativo posterior.
 
-Ren recibió una formación Maeghi breve y desconocía muchos conceptos; Iyuri conocía el fenómeno, pero no podía prever ni cuantificar si Ren desarrollaría un desborde. ¿Quieres fijar cuándo o cómo Ren empieza a reconocer lo que le ocurre, o mantener ese descubrimiento para un desarrollo narrativo posterior?
+### 22. Rectificación sobre la condición de Ren Steinert
 
-**Referencia:** conversación del 20 de noviembre, intercambios sobre Ren, Iyuri y el desborde; acumulación de resoluciones, R-10; `docs/personajes/rendard-steinert.md`.
+**Referencia:** acumulación de resoluciones, R-10; `docs/personajes/rendard-steinert.md`; conversación del 20 de noviembre sobre Ren, Iyuri y la Resonancia.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta mediante rectificación expresa del autor.
+
+**Decisión del autor:** Se revoca expresamente la afirmación anterior de que Ren Steinert experimentó un desborde de Resonancia durante su estancia en Erebia.
+
+1. Ren Steinert no ha experimentado ningún desborde de Resonancia.
+2. Su condición como Resonante o Disonante todavía no ha sido revelada en la historia.
+3. No debe atribuírsele ninguna de las dos condiciones hasta que el autor la establezca.
+4. La estancia de Ren e Iyuri en Erebia sigue siendo válida; se elimina la afirmación relativa al supuesto desborde de Ren.
+5. Esta rectificación no altera el desborde documentado de Iyuri Khan.
+
+**Consecuencia para la revisión final indicada por el autor:** eliminar la afirmación en `docs/personajes/rendard-steinert.md` de que su cercanía con Iyuri durante la estancia en Erebia coincidió con un desborde de Resonancia menos intenso que el de Iyuri. Revisar otros archivos canónicos en busca de repeticiones de la misma afirmación, sin inventar explicaciones. Esta corrección queda pendiente; no se modifica el canon durante el cuestionario.
 
 ### 23. Ubicación y secuencia de los episodios de Iyuri anteriores a Ren — ampliación narrativa opcional
 
@@ -262,7 +317,11 @@ Ren recibió una formación Maeghi breve y desconocía muchos conceptos; Iyuri c
 
 **Referencia:** acumulación de resoluciones, R-10 y su trazabilidad; conversación del 21 de noviembre.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Decisión del autor:** No se desea desarrollar un registro de las personas con las que Iyuri Khan mantuvo encuentros sexuales antes de conocer a Ren Steinert. Se conserva el hecho general establecido en el canon: Iyuri atravesó una etapa de encuentros sexuales frecuentes, vinculada a sus circunstancias personales y emocionales. No es necesario identificar a cada persona, establecer lugares ni construir una cronología exhaustiva de esos encuentros. Esto no impide desarrollar algún encuentro concreto en el futuro si adquiere relevancia narrativa.
+
+**Consecuencia indicada por el autor:** eliminar la reserva sobre la ubicación y secuencia de estos encuentros.
 
 ### 24. Desarrollo escénico de Tuk y Benji — ampliación narrativa opcional
 
@@ -274,4 +333,4 @@ Ren recibió una formación Maeghi breve y desconocía muchos conceptos; Iyuri c
 
 ## Registro de avance
 
-De las 24 preguntas, las preguntas 1–4, 6–12 están resueltas. La pregunta 5 tiene una resolución acotada a los requisitos de contratación; la cuestión sobre clasificaciones administrativas imperiales queda sin resolver. Las preguntas 13–24 siguen pendientes. Se responderán de una en una en el orden numerado. Las respuestas se registrarán fielmente; cuando el autor declare una pregunta innecesaria, no desarrollada o abierta, se anotará esa decisión y se continuará con la siguiente.
+De las 24 preguntas, las preguntas 1–4, 6–12, 14–20 y 22–23 están resueltas. La pregunta 5 tiene una resolución acotada a los requisitos de contratación; la cuestión sobre clasificaciones administrativas imperiales queda sin resolver. En la pregunta 13, la separación de técnicas está resuelta y los nombres Viraje y Faro esperan confirmación. La pregunta 21 fue retirada del alcance; la pregunta 24 sigue pendiente. Se responderán de una en una en el orden numerado. Las respuestas se registrarán fielmente; cuando el autor declare una pregunta innecesaria, no desarrollada o abierta, se anotará esa decisión y se continuará con la siguiente.
