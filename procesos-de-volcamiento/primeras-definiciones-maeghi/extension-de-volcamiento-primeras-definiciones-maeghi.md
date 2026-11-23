@@ -68,7 +68,11 @@ La destrucción es imposible, a menos que un Fulgurante realice la prueba o form
 
 **Referencia:** acumulación inicial, A-09 y asuntos pendientes; auditoría previa, hallazgos sobre licencias; `docs/taburas/moes-tabura.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta respecto de los requisitos de contratación; la cuestión de las clasificaciones administrativas imperiales no queda resuelta por esta respuesta.
+
+**Respuesta del autor:** Cada institución o empleador tiene libertad para determinar los requisitos que exige para desempeñar los puestos de trabajo que ofrece. Puede establecer grados Maeghi mínimos, preparación, experiencia u otras condiciones según sus necesidades. Esta autonomía no elimina los requisitos legales generales, como la licencia profesional imperial correspondiente.
+
+**Límite indicado por el autor:** No inferir de esta respuesta la eliminación de las clasificaciones administrativas imperiales ni inventar un sistema de categorías profesionales.
 
 ### 6. Aceptación del condicionamiento — reserva existente
 
@@ -76,15 +80,27 @@ La destrucción es imposible, a menos que un Fulgurante realice la prueba o form
 
 **Referencia:** acumulación de resoluciones, R-04 y auditoría de cierre; `docs/mundo/stigria/condicionamiento-maeghi.md`; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
 
-### 7. Refuerzos después del grado de Maestro — reserva existente
+**Respuesta del autor:** La aceptación se realiza en la oficina de reclutamiento. El oficial entrega al aspirante un documento para que lo lea y le pregunta si está conforme y acepta las posibles consecuencias irreversibles del condicionamiento Maeghi. Si acepta, el aspirante coloca su sello personal en los dos lugares indicados del documento. Completado el trámite y formalizado su ingreso, recibe la condición de **Maeghi Aprendiz**.
+
+No es necesario desarrollar procedimientos adicionales ni inventar el contenido íntegro del documento.
+
+**Precisión del autor:** El condicionamiento puede revertirse según el canon vigente, pero eso no implica necesariamente que todas sus consecuencias personales sean reversibles.
+
+### 7. Recondicionamiento Maeghi después del grado de Maestro
 
 ¿Cómo continúa el refuerzo del condicionamiento después del grado de Maestro? Si no se desea fijar método, responsables o frecuencia, ¿se conserva esta cuestión abierta?
 
 **Referencia:** acumulación de resoluciones, R-04 y auditoría de cierre; `docs/mundo/stigria/condicionamiento-maeghi.md`; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** Los Maeghi deben acudir periódicamente a la **Sede Central de la Möes Tábura, en Veleskaria**, al menos una vez al año, para someterse al Recondicionamiento. El proceso de Recondicionamiento dura generalmente **dos semanas**. Esta obligación permite mantener y reforzar el condicionamiento contra la Sombra incluso después de concluir la formación académica y alcanzar el grado de Maestro. Las visitas también constituyen oportunidades para reencontrarse con antiguos compañeros de estudios, fortalecer vínculos afectivos e intercambiar conocimientos y experiencias profesionales.
+
+**Consecuencia indicada por el autor:** eliminar la reserva relativa al mantenimiento del condicionamiento después de Maestro.
+
+**Precisión terminológica del autor:** la denominación universal correcta de este proceso Maeghi es **Recondicionamiento**; las grafías incorrectas deben sustituirse cuando se refieran a este proceso. Esta respuesta no autoriza otros cambios canónicos hasta que termine el cuestionario y se reciba autorización independiente.
 
 ### 8. Concesión del reconocimiento Möes Maeghi — reserva existente
 
@@ -92,7 +108,17 @@ La destrucción es imposible, a menos que un Fulgurante realice la prueba o form
 
 **Referencia:** acumulación de resoluciones, R-03; `docs/mundo/stigria/moes-maeghi.md`; `docs/taburas/moes-tabura.md`; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** La concesión del reconocimiento extraordinario Möes Maeghi corresponde exclusivamente al **Alto Consejo de Maeghi**.
+
+1. Cualquier miembro del Alto Consejo puede proponer a un candidato.
+2. El Alto Consejo revisa la candidatura y comprueba que el candidato cumple los requisitos del reconocimiento.
+3. Si cumple los requisitos, se le otorga la distinción Möes Maeghi.
+
+No se establecen votaciones, mayorías ni procedimientos administrativos adicionales. Tampoco debe trasladarse automáticamente a este reconocimiento la exigencia de unanimidad establecida para obtener el grado de Maestro.
+
+**Consecuencia indicada por el autor:** eliminar la reserva sobre el procedimiento de concesión de Möes Maeghi.
 
 ### 9. Autoridad que avala o visa licencias — reserva existente
 
@@ -100,7 +126,13 @@ La destrucción es imposible, a menos que un Fulgurante realice la prueba o form
 
 **Referencia:** acumulación de resoluciones, R-03; `docs/mundo/stigria/moes-maeghi.md`; `docs/taburas/moes-tabura.md`; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** La **Möes Tábura** es la institución encargada de emitir, avalar y validar las licencias profesionales imperiales de los Maeghi. La primera licencia se obtiene automáticamente al aprobar el grado de Iniciado, conforme a las reglas ya establecidas. Esta competencia corresponde a la institución y no constituye una facultad individual otorgada por el reconocimiento extraordinario Möes Maeghi.
+
+No inventar organismos intermediarios ni procedimientos administrativos adicionales.
+
+**Consecuencia indicada por el autor:** eliminar la reserva sobre la autoridad competente para las licencias.
 
 ### 10. Condicionamiento adicional por ser Möes Maeghi — aclaración opcional de las conversaciones
 
@@ -108,7 +140,11 @@ La destrucción es imposible, a menos que un Fulgurante realice la prueba o form
 
 **Referencia:** conversación del 20 de noviembre, intercambio sobre la progresión del condicionamiento, alrededor de las 15:45.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** El reconocimiento **Möes Maeghi** se concede a quien ha demostrado ser capaz de realizar algo extraordinario y nunca antes visto con su don. No requiere condicionamiento adicional, estudios específicos ni haber completado los grados ordinarios de formación Maeghi. El reconocimiento se fundamenta en la hazaña demostrada, no en la preparación académica del candidato.
+
+**Consecuencia indicada por el autor:** no corresponde crear una reserva sobre condicionamiento adicional para Möes Maeghi.
 
 ### 11. Voluntad propia del Init durante la comunicación personal — aclaración opcional de las conversaciones
 
@@ -116,7 +152,11 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** conversación del 21 de noviembre, desarrollo de la prueba de comunicación con el Init; acumulación de resoluciones, R-02.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** La Devoción es un estado de comunión de una sola vía entre el Vinculado y su Init. No consiste en mantener una conversación con el Init ni en recibir de él opiniones, deseos o intenciones. Cuando se afirma que el Init responde a la Devoción, significa que concede al Vinculado un grado de poder o control sobre su don superior al que normalmente podría alcanzar. Puede entenderse como suplicar al Init que conceda mayor poder y obtenerlo efectivamente. Por tanto, la respuesta del Init se manifiesta mediante la ampliación extraordinaria de las capacidades del vínculo, no mediante una comunicación verbal o un intercambio de voluntades.
+
+**Consecuencia para la revisión final indicada por el autor:** examinar las definiciones canónicas de Devoción que describen una «comunicación personal e individual» con el Init y corregirlas para que no sugieran una conversación recíproca. Esta revisión queda pendiente; no se modifica el canon durante el cuestionario.
 
 ## B. Don de la Flecha, Anclaje y técnicas
 
@@ -126,7 +166,11 @@ Durante el estado de comunicación personal con el Init que la conversación ori
 
 **Referencia:** acumulación inicial, A-08; acumulación de resoluciones, R-06; `docs/mundo/stigria/don-de-la-flecha.md`; `docs/personajes/iyuri-khan.md`; `docs/pendientes.md`.
 
-**Respuesta/decisión:** Pendiente.
+**Estado:** Resuelta.
+
+**Respuesta del autor:** No se establecerán distancias máximas ni límites numéricos para las capacidades de Iyuri de modificar trayectorias y percibir el entorno desde objetos anclados. Ambas capacidades tienen un alcance limitado, pero no es necesario cuantificarlo. Esta ausencia de cifras es deliberada y no constituye una cuestión pendiente que deba resolverse.
+
+**Consecuencia indicada por el autor:** retirar la reserva relativa a la definición de límites numéricos. La modificación del canon queda pendiente hasta que termine el cuestionario y se reciba autorización independiente.
 
 ### 13. Relación entre Anclaje y las otras capacidades — reserva existente
 
@@ -230,4 +274,4 @@ Ren recibió una formación Maeghi breve y desconocía muchos conceptos; Iyuri c
 
 ## Registro de avance
 
-De las 24 preguntas, las preguntas 1–4 están resueltas y las preguntas 5–24 siguen pendientes. Se responderán de una en una en el orden numerado. Las respuestas se registrarán fielmente; cuando el autor declare una pregunta innecesaria, no desarrollada o abierta, se anotará esa decisión y se continuará con la siguiente.
+De las 24 preguntas, las preguntas 1–4, 6–12 están resueltas. La pregunta 5 tiene una resolución acotada a los requisitos de contratación; la cuestión sobre clasificaciones administrativas imperiales queda sin resolver. Las preguntas 13–24 siguen pendientes. Se responderán de una en una en el orden numerado. Las respuestas se registrarán fielmente; cuando el autor declare una pregunta innecesaria, no desarrollada o abierta, se anotará esa decisión y se continuará con la siguiente.

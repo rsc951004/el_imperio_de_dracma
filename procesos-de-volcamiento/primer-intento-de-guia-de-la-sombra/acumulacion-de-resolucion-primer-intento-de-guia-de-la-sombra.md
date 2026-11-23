@@ -131,7 +131,7 @@ Los Siniestros son afectados por la Sombra y la Corrupción de manera distinta, 
 3. **Tuk Neyzeh** salva físicamente a Iyuri mediante su extraordinario don de sanación, reconstruyendo su corazón destrozado, sus pulmones colapsados, los demás órganos afectados y la piel.
 4. Finalmente, **Nimri** somete al Engendro existente y lo introduce en su Pozo de Sombras.
 
-El Engendro no es destruido. Capturarlo no elimina la Corrupción acumulada en la mansión Khan. Esta permanece después de desaparecer la criatura; posteriormente, varios Cuervos Grises con dominio sobre la Sombra deben limpiar toda la mansión. La magnitud de esa Corrupción toca a Benji, Tuk y Nimri pese a su preparación y experiencia. Los tres son aislados y sometidos a reacondicionamiento. Las tres intervenciones son indispensables para la supervivencia de Iyuri.
+El Engendro no es destruido. Capturarlo no elimina la Corrupción acumulada en la mansión Khan. Esta permanece después de desaparecer la criatura; posteriormente, varios Cuervos Grises con dominio sobre la Sombra deben limpiar toda la mansión. La magnitud de esa Corrupción toca a Benji, Tuk y Nimri pese a su preparación y experiencia. Los tres son aislados y sometidos a Recondicionamiento. Las tres intervenciones son indispensables para la supervivencia de Iyuri.
 
 Durante el rescate Benji, Tuk y Nimri son Maeghi Expertos. Nimri no es Maestro entonces; asciende a Maeghi Maestro como consecuencia del incidente.
 
@@ -139,7 +139,7 @@ Durante el rescate Benji, Tuk y Nimri son Maeghi Expertos. Nimri no es Maestro e
 
 El reconocimiento de Iyuri como **Héroe del Imperio** se fundamenta en su actuación. Sabiendo que podía enfrentarse a la amenaza, aunque no podía someterla definitivamente, decidió combatir para proteger a su familia. Contuvo el peligro hasta que llegó ayuda capaz de dominar la Sombra. Su heroísmo reside en enfrentarse conscientemente a una amenaza superior a sus capacidades, arriesgando la vida para salvar a su familia. Los tres Cuervos fueron indispensables para salvarlo; Iyuri fue indispensable para mantener a salvo a su familia hasta la llegada de la ayuda. Su supervivencia tras la Semilla sigue siendo extraordinaria y el único caso documentado en la historia imperial, pero no sustituye ni constituye por sí sola el fundamento del reconocimiento. AU-09 queda cerrado.
 
-**Consecuencias para el volcamiento:** reescribir las acciones y el desenlace del rescate en *El niño de la flecha*; sustituir la eliminación mediante rayo y cenizas por la captura en el Pozo; mantener la Corrupción hasta la limpieza posterior; actualizar los grados y el ascenso posterior de Nimri; conservar el Toque, aislamiento y reacondicionamiento de los tres; corregir las formulaciones sobre lo que sabe Iyuri y el fundamento de su reconocimiento, incluidas sus conversaciones posteriores con Ren.
+**Consecuencias para el volcamiento:** reescribir las acciones y el desenlace del rescate en *El niño de la flecha*; sustituir la eliminación mediante rayo y cenizas por la captura en el Pozo; mantener la Corrupción hasta la limpieza posterior; actualizar los grados y el ascenso posterior de Nimri; conservar el Toque, aislamiento y Recondicionamiento de los tres; corregir las formulaciones sobre lo que sabe Iyuri y el fundamento de su reconocimiento, incluidas sus conversaciones posteriores con Ren.
 
 ### AU-10 — Cronología y desborde de Resonancia de Tuk Neyzeh
 
@@ -150,12 +150,12 @@ La secuencia definitiva es:
 1. Tuk pierde a un amigo cercano; este acontecimiento desencadena su desborde de Resonancia.
 2. Posteriormente alcanza el grado de Maeghi Experto.
 3. Participa en el rescate de Iyuri en la mansión Khan, ya como Experto.
-4. Los tres Cuervos Grises resultan Tocados por la Sombra y pasan por aislamiento y reacondicionamiento.
-5. El reacondicionamiento provoca una crisis temporal que intensifica el desborde de Resonancia de Tuk.
+4. Los tres Cuervos Grises resultan Tocados por la Sombra y pasan por aislamiento y Recondicionamiento.
+5. El Recondicionamiento provoca una crisis temporal que intensifica el desborde de Resonancia de Tuk.
 6. La crisis se resuelve mediante satisfacción erótica, una medida muy efectiva en situaciones de este tipo.
 7. Superada la crisis, Tuk vuelve a su nivel habitual de desborde de Resonancia.
 
-Tuk ya presentaba desborde antes del incidente de la mansión. El reacondicionamiento no agrava permanentemente su condición. La satisfacción erótica resuelve la crisis aguda, pero no elimina el desborde habitual. Se mantienen los antecedentes acordados sobre su relación con Benji, su encuentro con Nimri y sus focos eróticos persistentes: Benji, Ren y Nimri, con Benji como el más persistente porque se adapta a las necesidades afectivas de Tuk.
+Tuk ya presentaba desborde antes del incidente de la mansión. El Recondicionamiento no agrava permanentemente su condición. La satisfacción erótica resuelve la crisis aguda, pero no elimina el desborde habitual. Se mantienen los antecedentes acordados sobre su relación con Benji, su encuentro con Nimri y sus focos eróticos persistentes: Benji, Ren y Nimri, con Benji como el más persistente porque se adapta a las necesidades afectivas de Tuk.
 
 El desborde de Benji le hace experimentar intensamente que es el salvador de Tuk. Su complacencia intensifica el deseo de Tuk; ambos desbordes se potencian en una dinámica peligrosa y no recomendada por la Möes, aunque tolerada ante el riesgo de Corrupción y el valor de estos Maeghi, en especial el don de sanación de Tuk. Tuk y Benji intentaron incluir a Nimri en su intimidad; él se negó progresivamente. Nimri puede sentir deseo sexual, aunque su Disonancia extrema lo lleva a cuestionar el valor del placer erótico. Durante el aislamiento, Nimri se obligó voluntariamente a participar en un encuentro íntimo con Tuk y Benji para ayudar a nivelar la Resonancia de Tuk. Experimentó un placer tan intenso que no volvió a realizar el acto; para Tuk y Benji fue el mejor sexo de sus vidas y siguen insistiendo. El encuentro intensificó el desborde de Tuk y convirtió a Nimri en su nuevo foco erótico persistente. El afecto de Nimri hacia ambos es muy intenso para un Disonante extremo; puede entenderlo como el equivalente disonante de estar enamorado, aunque en sus propios términos la vivencia tenga intensidad mínima.
 

@@ -4,7 +4,7 @@ Invocador elemental, Maeghi Experto e integrante de los Cuervos Grises de
 Lemuria. Hablador y socarrón, se llama a sí mismo la Brigada Benji. En el
 rescate de la mansión Khan combatió y contuvo al Engendro de Sombra y
 retiró la garra que atravesaba el pecho de Iyuri. La Corrupción tocó a los
-tres rescatistas, que pasaron juntos por aislamiento y reacondicionamiento.
+tres rescatistas, que pasaron juntos por aislamiento y Recondicionamiento.
 
 ## Tamir
 

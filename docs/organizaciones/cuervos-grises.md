@@ -19,7 +19,7 @@ Otro equipo asistió en la playa a Marwha y Lya.
 La Corrupción persistió en la mansión y varios Cuervos con dominio sobre la
 Sombra limpiaron toda la casa. Los tres rescatistas resultaron Tocados pese
 a su preparación. Se autorizó su aislamiento conjunto por excepción a los
-protocolos de contención y se reacondicionaron juntos. Nimri ascendió a
+protocolos de contención y se sometieron juntos al Recondicionamiento. Nimri ascendió a
 Maeghi Maestro como consecuencia del incidente.
 
 ## Referencias

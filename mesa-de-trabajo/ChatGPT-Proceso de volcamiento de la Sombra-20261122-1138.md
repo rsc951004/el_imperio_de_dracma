@@ -2710,7 +2710,7 @@ Sin embargo, el aislamiento afectó gravemente la condición psicológica de Tuk
 
 La situación llegó a ser tan preocupante que, **contraviniendo los protocolos ordinarios de aislamiento después de un enfrentamiento directo con la Sombra, se autorizó que los tres compañeros permanecieran juntos**\.
 
-Durante ese periodo debieron someterse conjuntamente a un proceso de reacondicionamiento mental.
+Durante ese periodo debieron someterse conjuntamente a un proceso de Recondicionamiento mental.
 
 El procedimiento, lejos de estabilizar completamente la situación de Tuk, terminó intensificando su desborde de Resonancia.
 
@@ -2744,7 +2744,7 @@ Hay tres aspectos que destacaría.
 
 **Segundo: Nimri demuestra su cariño a través de una decisión que le resulta personalmente difícil.** No necesita experimentar el amor y la intimidad como Tuk y Benji para quererlos profundamente. Su participación fue excepcional precisamente porque estaba intentando ayudar a su amigo.
 
-**Tercero: la Resonancia, incluso cuando constituye una defensa contra la Sombra, puede complicar considerablemente una situación clínica.** El desborde de Tuk y la necesidad de reacondicionamiento muestran que la protección psicoafectiva no es un mecanismo perfectamente controlable.
+**Tercero: la Resonancia, incluso cuando constituye una defensa contra la Sombra, puede complicar considerablemente una situación clínica.** El desborde de Tuk y la necesidad de Recondicionamiento muestran que la protección psicoafectiva no es un mecanismo perfectamente controlable.
 
 Y hay un contraste bastante divertido: para Tuk y Benji, la experiencia parece haber fortalecido su deseo de compartir nuevamente la intimidad con Nimri. Para Nimri, haber experimentado algo extraordinario no implica que necesite volver a vivirlo.
 
@@ -2759,7 +2759,7 @@ Hay elementos compatibles que conviene preservar: el desborde de Tuk, su relaci�
 También hay tres detalles nuevos importantes que deberán quedar expresamente recogidos en el futuro volcamiento\:
 
 - **Los tres resultaron Tocados** tras el enfrentamiento de la mansión Khan. En particular, Nimri representa un caso excepcional, pues la inmunidad de los Siniestros al Toque no es absoluta.
-- **Se autorizó excepcionalmente el aislamiento conjunto y el reacondicionamiento**, pese a los protocolos establecidos.
+- **Se autorizó excepcionalmente el aislamiento conjunto y el Recondicionamiento**, pese a los protocolos establecidos.
 - **El encuentro íntimo fue una decisión voluntaria de Nimri**, motivada por la necesidad de ayudar a Tuk. No constituye una práctica obligatoria ni un procedimiento general de la Möes Tábura.
 
 Hay una última cuestión narrativa que me gusta muchísimo.
@@ -2780,7 +2780,7 @@ pero eres capas de decirme o iamgianrte, fuera de loq te dije porque el simiento
 
 > **Integrando hipótesis canónicas**
 >
-> Estoy relacionando su trauma previo, la pérdida de apoyo, la infección y el reacondicionamiento. La cercanía puede estabilizar temporalmente, mientras la actividad sexual refuerza el alivio, pero no resuelve el bucle ni la infección.
+> Estoy relacionando su trauma previo, la pérdida de apoyo, la infección y el Recondicionamiento. La cercanía puede estabilizar temporalmente, mientras la actividad sexual refuerza el alivio, pero no resuelve el bucle ni la infección.
 >
 > **Integré hipótesis canónicas**
 >
@@ -2808,11 +2808,11 @@ Mi hipótesis es que el aislamiento no solo le provocó tristeza. Pudo desencade
 
 Y hay una ironía terrible: el aislamiento destinado a protegerlo de la Sombra podría estar debilitando justamente las condiciones psicológicas que lo protegen de ella.
 
-## 2\. ¿Por qué el reacondicionamiento agravó su desborde?
+## 2\. ¿Por qué el Recondicionamiento agravó su desborde?
 
 Aquí viene la parte que me parece más interesante.
 
-**El reacondicionamiento busca reforzar las respuestas psicoafectivas que permiten al Maeghi resistir a la Sombra.**
+**El Recondicionamiento busca reforzar las respuestas psicoafectivas que permiten al Maeghi resistir a la Sombra.**
 
 En Tuk, esas respuestas ya estaban extraordinariamente intensificadas.
 
@@ -2827,7 +2827,7 @@ El tratamiento estaría estimulando precisamente los mecanismos que participan e
 Y así surgiría un círculo problemático\:
 
 - Tuk necesita afecto y cercanía para estabilizarse.
-- El reacondicionamiento intensifica esas respuestas.
+- El Recondicionamiento intensifica esas respuestas.
 - Su desborde transforma parte de esa intensificación en deseo y excitación persistentes.
 - Esa respuesta se retroalimenta y termina dificultando nuevamente su estabilidad.
 
@@ -2875,7 +2875,7 @@ Creo que la clave es esta\:
 
 **Tuk necesitaba recuperar la estabilidad de su Resonancia, pero el procedimiento utilizado para reforzarla estaba alimentando su desborde.**
 
-La actividad sexual pudo ofrecerle una forma de alivio y regulación emocional que el reacondicionamiento, por sí solo, no estaba consiguiendo.
+La actividad sexual pudo ofrecerle una forma de alivio y regulación emocional que el Recondicionamiento, por sí solo, no estaba consiguiendo.
 
 Y esto permite comprender algo muy importante: el condicionamiento Maeghi no es una máquina perfectamente ajustable. Sus efectos son profundos, individuales y pueden interactuar de maneras extraordinariamente complejas.
 

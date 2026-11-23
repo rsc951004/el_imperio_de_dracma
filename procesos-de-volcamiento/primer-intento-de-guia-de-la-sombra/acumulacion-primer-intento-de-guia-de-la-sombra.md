@@ -142,14 +142,14 @@
 - Iyuri llegó a conocer todos los detalles de su rescate, incluidas las intervenciones de Benji, Tuk y Nimri, la extracción de la Semilla Oscura y la captura del Engendro en el Pozo de Sombras.
 - Iyuri recibió el reconocimiento de **Héroe del Imperio** por enfrentarse conscientemente a una amenaza superior a sus capacidades, arriesgando su vida para proteger a su familia y mantenerla a salvo hasta la llegada de la ayuda. Su valentía y sacrificio fundamentan el reconocimiento.
 - La captura del Engendro no eliminó la Corrupción acumulada en la mansión Khan. Esta permaneció después de desaparecer la criatura. Varios Cuervos Grises con dominio sobre la Sombra intervinieron después y limpiaron toda la mansión.
-- La magnitud de la Corrupción tocó a los tres Cuervos participantes en el rescate, pese a su preparación y experiencia. Tras el enfrentamiento tuvieron que ser aislados y luego realizaron juntos un reacondicionamiento.
+- La magnitud de la Corrupción tocó a los tres Cuervos participantes en el rescate, pese a su preparación y experiencia. Tras el enfrentamiento tuvieron que ser aislados y luego realizaron juntos un Recondicionamiento.
 - Durante el incidente, **Benji**, **Tuk** y **Nimri** eran Maeghi Expertos. Nimri fue ascendido a Maeghi Maestro como consecuencia del incidente; no tenía ese grado durante el rescate.
 
-### Los tres Cuervos y su reacondicionamiento
+### Los tres Cuervos y su Recondicionamiento
 
 - Tuk y Benji son Resonantes; Nimri es Siniestro y Disonante extremo. Durante el rescate, los tres eran Maeghi Expertos. Son grandes amigos. Tuk y Benji son amantes.
 - Tras el enfrentamiento en la mansión Khan, los tres fueron Tocados y tuvieron que ser aislados para impedir la propagación de la Sombra. El aislamiento deterioró mucho la condición psicológica de Tuk. Nimri fue ascendido a Maeghi Maestro como consecuencia de este incidente.
-- Contra los protocolos de contención posteriores a un enfrentamiento directo con la Sombra, se autorizó su aislamiento conjunto. Debieron realizar juntos un proceso de reacondicionamiento, tras el que Tuk sufrió una crisis temporal que intensificó su desborde de Resonancia. La crisis se resolvió mediante satisfacción erótica, una medida muy efectiva en situaciones de este tipo. Superada la crisis, Tuk regresó a su nivel habitual de desborde.
+- Contra los protocolos de contención posteriores a un enfrentamiento directo con la Sombra, se autorizó su aislamiento conjunto. Debieron realizar juntos un proceso de Recondicionamiento, tras el que Tuk sufrió una crisis temporal que intensificó su desborde de Resonancia. La crisis se resolvió mediante satisfacción erótica, una medida muy efectiva en situaciones de este tipo. Superada la crisis, Tuk regresó a su nivel habitual de desborde.
 - Tuk tiene tres focos eróticos persistentes: **Benji**, **Ren** y **Nimri**. Benji es el más persistente, porque es quien siempre se adapta a las necesidades afectivas de Tuk.
 - El desborde de Benji le hace experimentar una intensa sensación de ser un salvador de Tuk. La complacencia de Benji intensifica el deseo de Tuk hacia él; ambos desbordes de Resonancia se potencian en una dinámica peligrosa y no recomendada por la Möes, aunque se tolera ante el riesgo de Corrupción y el alto valor de estos Maeghi, en especial el poderoso don de sanación de Tuk.
 - Tuk y Benji habían intentado incluir a Nimri en su intimidad y él se había negado progresivamente. Nimri puede sentir deseo sexual, pero su Disonancia extrema lo lleva a cuestionar el valor del placer erótico.

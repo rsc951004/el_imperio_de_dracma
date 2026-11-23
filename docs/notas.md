@@ -1,5 +1,14 @@
 # Notas editoriales
 
+### Corrección terminológica de Recondicionamiento Maeghi (2026-11-22)
+
+Por decisión expresa del autor, se corrigió a **Recondicionamiento** la
+denominación del proceso Maeghi en las referencias canónicas y de trabajo que
+empleaban la forma incorrecta. El ajuste es terminológico: no incorpora al
+canon la periodicidad anual, la sede ni la duración establecidas en la
+extensión de volcamiento, que quedan pendientes de una autorización
+independiente posterior al cuestionario.
+
 ### Corrección literaria de la saga de Iyuri Khan (2026-11-22)
 
 Se ajustaron transiciones y formulaciones en «El capitán y el guardia», «El
@@ -73,8 +82,8 @@ Ejecutados los ocho bloques aprobados de AU-01–AU-11 conforme a la
    Héroe del Imperio se funda en que arriesgó su vida para proteger a su
    familia hasta la llegada de los Cuervos.
 7. **Cuervos de Lemuria.** Se registraron el grado de Experto de los tres
-   rescatistas, el ascenso posterior de Nimri, el aislamiento y
-   reacondicionamiento conjuntos y la crisis temporal de Tuk sobre su
+   rescatistas, el ascenso posterior de Nimri, el aislamiento conjunto, el
+   Recondicionamiento y la crisis temporal de Tuk sobre su
    desborde previo. Las fichas individuales recogen sus relaciones.
 8. **Astria.** Se incorporaron fichas de Zorak, Paracelso Alrazi y Therin,
    con el descubrimiento de Alrazi. Se integraron los dos procedimientos

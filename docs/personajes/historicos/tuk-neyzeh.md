@@ -21,9 +21,9 @@ de Iyuri.
 
 Los tres fueron Tocados y aislados para impedir que propagaran la Sombra.
 El aislamiento deterioró mucho el estado psicológico de Tuk. Se autorizó
-el aislamiento conjunto como excepción a los protocolos y se reacondicionaron
-juntos. El reacondicionamiento provocó una crisis temporal que intensificó
-su desborde. La satisfacción erótica, muy efectiva en situaciones de este
+el aislamiento conjunto como excepción a los protocolos y se sometieron
+juntos al Recondicionamiento. El Recondicionamiento provocó una crisis
+temporal que intensificó su desborde. La satisfacción erótica, muy efectiva en situaciones de este
 tipo, resolvió la crisis. Tuk volvió a su nivel habitual de desborde.
 
 ## Relaciones

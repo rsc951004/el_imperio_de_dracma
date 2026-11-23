@@ -19,7 +19,7 @@ Fulgurantes pueden eliminarlo definitivamente. La captura en un Pozo de
 Sombras contiene a la criatura. La Corrupción que ya había dejado en el
 entorno requiere atención propia. En la mansión Khan, los Cuervos Grises
 limpiaron el lugar después de la captura y los tres rescatistas Tocados
-fueron aislados y reacondicionados.
+fueron aislados y sometidos al Recondicionamiento.
 
 Las antorchas o bengalas de alerta utilizan un código reconocido: rojo para
 Grimm, verde para poseídos y negro para Sombra. Los Cuervos Grises responden a

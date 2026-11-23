@@ -16,7 +16,7 @@ físicas y por último Nimri sometió a la criatura y la introdujo en su
 [Pozo de Sombras](../../mundo/stigria/pozo-de-sombras.md).
 
 La magnitud de la Corrupción tocó a los tres. Pasaron juntos por
-aislamiento y reacondicionamiento. Nimri ascendió a Maeghi Maestro como
+aislamiento y Recondicionamiento. Nimri ascendió a Maeghi Maestro como
 consecuencia del incidente. Su formación le permite asistir a otras
 personas en el Santuario y su don requiere preparación mental. Los
 Siniestros son extremadamente resistentes a la Incursión y su afectación
