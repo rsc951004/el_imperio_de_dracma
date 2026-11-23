@@ -4,7 +4,9 @@
 
 ## Fuente y criterio
 
-La fuente principal es la [conversación de identidad lemuriana y corrección](../../mesa-de-trabajo/ChatGPT-Identidad%20lemuriana%20y%20corrección-20261123-1032.md), complementada por los retratos y las definiciones posteriores aportados por el humano, incluidas las relativas a la identidad religiosa. Los rasgos físicos visibles en esos retratos sirven para completar las descripciones individuales. Se respetan las correcciones posteriores y se distinguen las propuestas del asistente sin confirmación. Los puntos de contraste con el canon quedan pendientes de revisión.
+La fuente principal es la [conversación de identidad lemuriana y corrección](../../mesa-de-trabajo/ChatGPT-Identidad%20lemuriana%20y%20corrección-20261123-1032.md), complementada por los retratos y las definiciones posteriores aportados por el humano, incluida su consolidación integral de la identidad cultural. Los rasgos físicos visibles en esos retratos sirven para completar las descripciones individuales. Se respetan las correcciones posteriores y se distinguen las propuestas del asistente sin confirmación. Los puntos de contraste con el canon quedan pendientes de revisión.
+
+**Alcance de las fuentes canónicas:** las instrucciones actuales del [proyecto](../../AGENTS.md) incluyen `docs/`, `cuentos/` y `fragmentos/`. El encargo menciona `docs/` y `cuentos/` y solicita registrar la discrepancia si las instrucciones incluyen también `fragmentos/`. Se deja constancia de esa diferencia de formulación; no se altera la regla del proyecto ni se decide una exclusión.
 
 ## Identidad lemuriana y ascendencia sheijad
 
@@ -13,6 +15,7 @@ La fuente principal es la [conversación de identidad lemuriana y corrección](.
 - La integración de los sheijad en el Imperio fue tan exitosa que un lemuriano contemporáneo se identifica como lemuriano del Imperio de Dracma, no como sheijad.
 - El humano distingue tres grupos entre los lemurianos modernos: **Sangre Vieja**, **Sangre Nueva** y **pardisianos**. La pertenencia lemuriana también comprende personas que no presentan los rasgos físicos característicos de los sheijad originales.
 - Tuk y Benji tienen nombres, crianza y cultura plenamente lemurianos; muchas costumbres de los habitantes de otros territorios de Dracma les parecen extrañas.
+- La identidad lemuriana contemporánea es cultural, histórica, territorial e imperial. Surgió como una cultura propia dentro del Imperio; la ascendencia sheijad forma parte de su historia y genealogía. Los tres grupos describen la composición de la sociedad, sin establecer por sí mismos castas legales, jerarquías o derechos diferentes. Ninguno determina una personalidad obligatoria.
 
 ### Antecedentes canónicos y pendientes
 
@@ -29,6 +32,8 @@ Quedan sin definir el significado que conserva Sarustra para los lemurianos cont
 - La transformación permitió desarrollar condiciones especialmente favorables para los cultivos y una vegetación abundante. El clima, la fertilidad agrícola y la abundancia vegetal contribuyen a las condiciones materiales de vida de los habitantes, sin que se hayan definido por ello niveles de riqueza, prosperidad, esperanza de vida u otros indicadores sociales.
 - A pesar de su cercanía geográfica a Flammengard, Lemuria mantiene una afinidad cultural considerablemente mayor con los pueblos veranenses que con los de la Sangre de Hierro. La intervención veranese en el clima constituye una contribución decisiva a las condiciones naturales de la isla y forma parte de los vínculos históricos entre ambas culturas.
 - En términos generales, los pueblos de la Sangre de Hierro manifiestan una mayor resistencia al intercambio cultural con otros pueblos; es una tendencia más amplia que su relación con Lemuria, no un rasgo universal de cada habitante. Junto con la influencia histórica veranese, contribuye a explicar la mayor cercanía cultural lemuriana con los pueblos del Verano.
+- Los veranenses reconocieron en los sheijad la experiencia de persecución, desarraigo y búsqueda de un hogar seguro, y se mostraron dispuestos a ayudarlos. Fueron aliados y benefactores en las etapas tempranas de la formación de Lemuria; su apoyo, intercambios y cooperación aportaron a los cimientos de la cultura lemuriana contemporánea. Esta ayuda no sustituye el papel de Khalos ni de los representantes imperiales.
+- La cercanía y gratitud hacia el Verano no exigen una convivencia cotidiana: Lemuria está al norte y las Costas del Verano considerablemente más al sur. Tampoco suponen compartir todas las costumbres. Frente a la desinhibición, el lenguaje atrevido y el hedonismo de determinados ambientes de Vesperya y Zephyrya, un lemuriano tradicional puede sentir extrañeza o incomodidad por su valoración del decoro y la mesura, sin que ello implique hostilidad ni condena religiosa.
 - La identidad lemuriana reúne una ascendencia principalmente sheijad de Sarustra, pertenencia política imperial, clima y paisaje transformados por antiguos Portadores veranenses, afinidades culturales orientadas especialmente al Verano y proximidad geográfica a Flammengard. La afinidad cultural con el Verano no implica dependencia política.
 - No se han definido los nombres de los Portadores responsables, fechas, rituales ni mecanismos específicos de la intervención. No se establece que el clima de Lemuria sea idéntico al de las Costas del Verano.
 
@@ -37,6 +42,7 @@ Quedan sin definir el significado que conserva Sarustra para los lemurianos cont
 - La [ficha de Lemuria](../../docs/mundo/stigria/dragma/lemuria/lemuria.md) la sitúa al noroeste de Stigria como principado y protectorado imperial; la [ficha de Flammengard](../../docs/mundo/stigria/dragma/flammengard/flammengard.md) ubica ese reino en el noroeste del Gherin. La posición precisa frente a sus costas y la transformación climática son definiciones nuevas de esta acumulación.
 - La [Costa del Verano](../../docs/mundo/stigria/costa-del-verano.md) y la [Edad de la Podredumbre](../../docs/mundo/stigria/edad-de-la-podredumbre.md) establecen que Portadores entre los liberados emplearon sus facultades para transformar Dürr en una costa fértil y habitable. La [ficha de Zephyrya](../../docs/mundo/stigria/dragma/zephyrya/zephyrya.md) presenta como teoría no confirmada ni refutada la atribución a Portadores de las propiedades curativas de sus costas y de cambios que embellecieron el litoral. La relación precisa entre esa reserva canónica y los procedimientos semejantes propuestos para Lemuria queda para revisión posterior.
 - La [historia sheijad](../../docs/mundo/stigria/historia-sheijad.md) recoge intercambios de agricultura y conocimientos durante la integración, sin describir esta intervención climática. No se ha identificado una contradicción directa en las fuentes consultadas; el momento y las circunstancias de la transformación permanecen sin definir.
+- La [ficha de Vesperya](../../docs/mundo/stigria/dragma/vesperya/vesperya.md) enfatiza su carácter hedonista, mientras que la [de Zephyrya](../../docs/mundo/stigria/dragma/zephyrya/zephyrya.md) destaca belleza y serenidad. La definición humana atribuye conductas desinhibidas también a determinados ambientes zephyrios: debe contrastarse su alcance sin convertirlos en la norma de todo el reino.
 
 ## Identidad religiosa de Lemuria
 
@@ -48,12 +54,21 @@ Quedan sin definir el significado que conserva Sarustra para los lemurianos cont
 - Para la mayoría de los lemurianos, el ishbaalanismo es fundamentalmente una herencia cultural e identitaria. Creen en Ishbaal porque han crecido en una cultura que lo reconoce, lo venera y transmite sus tradiciones de generación en generación.
 - La relación con la religión está profundamente integrada en la vida cotidiana, aunque no necesariamente responde a la convicción espiritual intensa que caracterizaba a los antiguos sheijad. El significado social de la religión se ha transformado profundamente.
 - El secularismo lemuriano no equivale a ausencia de religión ni a ateísmo generalizado: los lemurianos modernos no han abandonado el ishbaalanismo ni carecen por ello de creencias sinceras. El ishbaalanismo contemporáneo forma parte de lo que significa ser lemuriano, incluso para quienes no viven su fe con especial fervor.
+- Muchas familias conservan una fe sincera sin observar rigurosamente todos los preceptos, acudir con frecuencia a ceremonias ni organizar toda su vida alrededor de la observancia religiosa. La fe personal, la herencia familiar y la expresión cultural pueden coexistir.
+
+### El Moroloth y la continuidad familiar
+
+- El Moroloth de Lemuria es un lugar genuinamente sagrado y un vínculo con Ishbaal, además de símbolo histórico, herencia de los antepasados y elemento de identidad familiar y colectiva. Su importancia cultural no elimina su significado espiritual.
+- Muchos seculares pueden acudir allí para rezar, fortalecer su vínculo con Ishbaal, recordar sus orígenes y reflexionar. Para las generaciones mayores puede ser especialmente importante mantener viva esa relación y transmitirla a sus descendientes, aun sin asistir regularmente a ceremonias.
+- Existe una expectativa familiar muy arraigada de visitar el Moroloth al menos una vez en la vida. Habitualmente se visita en dos momentos fundamentales: los padres llevan al niño pocos días o meses después de nacer y la persona regresa como adulta. Cuando tiene hijos, suele llevarlos a su vez durante sus primeros meses, transmitiendo la tradición entre generaciones. Ambas visitas son expectativas prácticamente ineludibles; no constituyen un máximo.
+- Los regresos en etapas importantes pueden renovar el vínculo espiritual, recordar la procedencia familiar y transmitir continuidad histórica. La fe puede mantenerse viva sin una práctica cotidiana rigurosa.
 
 ### Contraste con el canon vigente
 
 - La [ficha de Lemuria](../../docs/mundo/stigria/dragma/lemuria/lemuria.md) establece que la corriente secular es ampliamente mayoritaria, permite la convivencia con el misticismo y que la ortodoxia sobrevive principalmente en círculos religiosos. Las nuevas definiciones amplían la descripción de su vivencia social y religiosa; no se identificó una contradicción directa en ese punto.
 - La [historia sheijad](../../docs/mundo/stigria/historia-sheijad.md) sitúa el origen de la división en interpretaciones distintas del misticismo y señala que ambas corrientes conservaron su fe. El [culto a Ishbaal](../../docs/mundo/stigria/dragma/lemuria/culto-a-ishbaal.md) confirma que ambas profesan esa fe; esto es compatible con distinguir secularismo y ausencia de religión.
 - La ficha del culto establece que el ishbaalanismo reúne el mayor número de adeptos en el Imperio **durante la época de Sandor**. La definición humana lo presenta como la religión más popular del Imperio; el alcance temporal de esa afirmación queda para revisión posterior, sin asumir una contradicción.
+- El [culto a Ishbaal](../../docs/mundo/stigria/dragma/lemuria/culto-a-ishbaal.md) recoge tres ungimientos esperados —nacimiento, adultez y visita al Moroloth insular—. Su relación con las dos visitas familiares habituales no está definida: no se fusionan automáticamente ni se inventan ceremonias.
 
 ## Amor espejo y sociedad lemuriana
 
@@ -73,7 +88,52 @@ Quedan sin definir el significado que conserva Sarustra para los lemurianos cont
 
 - La [ficha de Vesperya](../../docs/mundo/stigria/dragma/vesperya/vesperya.md) describe una actitud permisiva de los vespirios, pero caracteriza la homosexualidad en el Imperio como tolerada y mirada con recelo por la continuidad de los apellidos, incluso comunes. Esa formulación general presenta una posible discrepancia con la aceptación general establecida aquí y con la localización de ciertos prejuicios; queda pendiente de auditoría.
 - La [ficha de Lemuria](../../docs/mundo/stigria/dragma/lemuria/lemuria.md) y la del [culto a Ishbaal](../../docs/mundo/stigria/dragma/lemuria/culto-a-ishbaal.md) describen la fe de las corrientes seculares y ortodoxas y su diferencia ante el misticismo. No precisan las posturas sobre el amor espejo aquí registradas.
-- La búsqueda en las superficies canónicas no identificó una disposición general sobre la validez del matrimonio entre personas del mismo sexo ni la denominación «amor espejo». Esas definiciones quedan registradas para revisión, sin inferir una prohibición o contradicción por ausencia de mención.
+- [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md) presenta la posibilidad legal de que Ren se case con otro hombre. Las fuentes consultadas no detallan el alcance territorial completo de esa validez ni registran la denominación «amor espejo»; esas precisiones quedan para revisión, sin inferir una prohibición por ausencia de mención.
+
+## Valores, hospitalidad e identidad imperial
+
+### Decoro, mesura y modestia
+
+La buena educación tradicional lemuriana aprecia el **decoro, la mesura y la modestia**. Incluye hablar con respeto, evitar palabrotas, no hablar mal de otras personas ni mentir, mostrar humildad, actuar con discreción, evitar la ostentación innecesaria y comportarse con mesura en las relaciones sociales. La modestia es un valor amplio, no solo pudor sexual. Estos ideales no pertenecen exclusivamente a la ortodoxia: también pueden ser fundamentales para un secular que no observe rigurosamente la religión.
+
+Tienen especial importancia entre los Sangre Vieja; dentro de ese grupo las familias nobles suelen observarlos con mayor rigor que las comunes. Su influencia puede ser menor entre Sangre Nueva y pardisianos. Son tendencias sociales, no cualidades inherentes, obligaciones uniformes ni predicciones sobre la personalidad, la educación o las decisiones de cada individuo.
+
+### Hospitalidad y visitas
+
+- Los lemurianos son conocidos en el Imperio por su extraordinaria hospitalidad, que también tiene raíces en la tradición religiosa ishbaalana. Recibir lo mejor posible a un invitado expresa buena educación, orgullo familiar y respeto.
+- La costumbre principal al visitar una casa es avisar cuándo se acudirá. No exige gran anticipación ni un protocolo complicado. Los anfitriones suelen recibir la noticia con entusiasmo y pensar qué alimentos preparar, cómo disponer la casa y cómo agasajar o sorprender al visitante.
+- Llegar sin aviso, especialmente en un momento inoportuno, se considera una falta de educación. Aun así, los anfitriones generalmente reciben a la persona con cortesía; pueden formarse una impresión desfavorable o pensar que desconoce las normas, sin que ello implique expulsión o ruptura automática.
+- Se suele tener mayor tolerancia con visitantes de otros territorios imperiales, que pueden desconocer la costumbre. De alguien criado en la isla se espera que la haya aprendido, por lo que puede recibir un juicio más severo.
+- Recibir extranjeros puede despertar curiosidad, especialmente entre quienes no han salido de la isla. Algunos pueden idealizarlos o verlos como representantes de su pueblo. Para algunos lemurianos es un motivo especial de orgullo tener un amigo Sangre de Hierro, por haber entablado un vínculo con alguien de una cultura que perciben como especialmente reservada hacia los extranjeros. No es una actitud universal ni hostil.
+
+### Pertenencia local e imperial
+
+El orgullo de Lemuria y la pertenencia al Imperio de Dracma se complementan. En términos generales, también otros habitantes conservan identidades de ciudad, reino, principado o territorio mientras se reconocen integrantes de una comunidad política imperial más amplia. Las guerras civiles, disputas territoriales, religiosas y de poder no han eliminado ese sentimiento compartido. Esto no presupone unanimidad política; su alcance general excede Lemuria y queda registrado sin modificar otros procesos.
+
+## Familia, crianza y personajes
+
+Las familias lemurianas admiten formas diversas: algunas son cálidas y expresivas; otras, estrictas y poco demostrativas, según tradiciones, experiencias e interpretaciones de sus valores. Las muestras de cariño entre padres e hijos son aceptables y generalmente esperables. Como tendencia, los lemurianos son más afectuosos con sus hijos que los Sangre de Hierro, cuya crianza suele describirse como más fría; hay excepciones en ambos casos. La modestia, la discreción y los buenos modales pueden convivir con el afecto familiar y la hospitalidad, incluso en hogares seculares con normas rigurosas.
+
+- **Nimri:** aunque es Sangre Nueva, su familia le inculcó modestia, respeto, buena educación, mesura y prudencia al hablar. Su reserva existía desde la infancia, antes del condicionamiento; este y su Disonancia extrema acentuaron una contención previa. Su educación no determina por sí sola esos procesos. Puede aceptar a sus amigos y sus diferencias sin expresarse como ellos; su modestia no equivale a vergüenza sexual, falta de afecto o ausencia de deseo.
+- **Iyuri y Marwha:** Iyuri recibió crianza lemuriana y una influencia familiar vespiria importante. Su padre Fhilippo era mercader y realizaba viajes marítimos; Iyuri lo acompañó en numerosos viajes infantiles y conoció las Costas del Verano y a su familia paterna. Esa experiencia ayuda a explicar su carácter atrevido, afectuoso, irreverente y desinhibido sin restarle identidad lemuriana. Marwha representa una crianza más cercana a la prudencia, modestia, reserva y buena educación tradicionales; ello no la define como ortodoxa o intolerante, ni implica que Iyuri rechace a su madre, su pueblo o sus tradiciones.
+- **Tuk y Benji:** ambos pasaron años fuera de Lemuria y durante su formación Maeghi convivieron con personas de diversos territorios. Esas experiencias los expusieron a distintas costumbres y contribuyen, junto con sus historias individuales, a sus comportamientos más atrevidos y desvergonzados frente al ideal tradicional. Tuk es irreverente y afectuoso; Benji, desenvuelto, hablador y desafiante. El lugar mencionado como «Beleskair» requiere identificación: [Veleskaria](../../docs/mundo/stigria/dragma/veleskaria/veleskaria.md) es un centro de formación Maeghi, pero las fichas consultadas no confirman que ambos estudiaran allí ni identifican su institución concreta.
+- **Familia de Tuk:** representa un hogar particularmente estricto, menos demostrativo y con expectativas severas sobre la conducta y la reputación. Las consecuencias visibles del desborde de Resonancia y la posterior Reverberación provocaron vergüenza familiar y contribuyeron a su rechazo. La [ficha de Tuk](../../docs/personajes/historicos/tuk-neyzeh.md) confirma vergüenza y deterioro de las relaciones; la caracterización más precisa de su crianza y rechazo procede de esta definición humana. No se atribuye a una doctrina ortodoxa ni a todas las familias lemurianas.
+
+Nimri, Iyuri, Tuk y Benji son expresiones legítimas de una misma cultura. Ascendencia, familia, educación, viajes y relaciones influyen de maneras diferentes sin determinar íntegramente a cada persona.
+
+## Memoria histórica y Flama Blanca
+
+La guerra civil entre seculares y ortodoxos se enseña en las escuelas lemurianas. La sociedad conoce la victoria secular y el posterior nacimiento del Principado; generalmente recuerda la guerra como un hecho importante pero lejano, sin que sea necesariamente una herida abierta o una fuente cotidiana de resentimiento.
+
+Los ortodoxos irreductibles fueron exiliados al continente. Algunos de esos sectores acabaron formando la Orden de la Flama Blanca siglos después, como recogen la [historia sheijad](../../docs/mundo/stigria/historia-sheijad.md) y la [ficha de la Orden](../../docs/organizaciones/orden-de-la-flama-blanca.md). No todos los ortodoxos integraron la organización, ni esta surgió inmediatamente después de la guerra.
+
+Los lemurianos contemporáneos conocen esa relación y pueden reconocer raíces históricas compartidas, pero consideran que la Orden siguió una trayectoria distinta de la sociedad lemuriana secular. Rechazan que se identifique a los habitantes de la isla con ella o se les atribuya colectivamente la responsabilidad de sus actos. Las acusaciones externas pueden generar susceptibilidad: se rechaza la culpabilidad colectiva, no el conocimiento de la historia.
+
+## Acogida hipotética de nuevos refugiados
+
+Se consideró como **escenario hipotético**, no como hecho histórico, la llegada de otro pueblo perseguido a Lemuria. El humano acepta como plausible una recepción inicial hospitalaria, con alimentos, abrigo o alojamiento temporal, y curiosidad por las personas, su cultura y circunstancias, en consonancia con la hospitalidad lemuriana y la memoria del exilio sheijad.
+
+La ayuda inicial se distingue de la decisión formal sobre admisión y establecimiento permanente: según la definición humana, interviene la autoridad central del Imperio, pues Lemuria es semiautónoma. La [ficha de Lemuria](../../docs/mundo/stigria/dragma/lemuria/lemuria.md) confirma su autonomía interna y condición de protectorado, pero no precisa esa distribución de competencias. Quedan abiertos los mecanismos políticos concretos y cualquier debate posterior sobre integración o identidad; no se presuponen conflictos ni una aceptación permanente e incondicional.
 
 ## Sangre Vieja y apariencia sheijad
 
@@ -147,7 +207,7 @@ El asistente propuso definir Sangre Nueva como ascendencia mixta sheijad y de ot
 
 - Pardisiano; rostro varonil y jovial, expresión generalmente desafiante, cabello castaño rojizo con corte militar y ojos verdes.
 - En los retratos tiene piel clara, facciones marcadas, cejas oscuras y cabello corto de tono rojizo. La cicatriz visible es un detalle de las imágenes y no se ha definido como rasgo del personaje.
-- El humano relacionó sus rasgos con que hay «algo de sangheskio» en él. Quedan sin precisar la genealogía, la proporción y si la referencia se limita a la apariencia; no se identificó ningún antepasado concreto.
+- El humano precisó que Benji tiene alguna ascendencia sangheskia. Quedan sin determinar la genealogía concreta, la proporción y la identidad de sus antepasados.
 
 ### Rendard Steinert
 
@@ -176,8 +236,13 @@ Los detalles accesorios, vestuario, escenarios y demás elementos generados en l
 - **Filiación de Nimri:** su [ficha](../../docs/personajes/historicos/nimri-jhamali.md) establece padre de la Bruma y madre lemuriana; en [El niño de la flecha](../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md) Nimri dice que su madre era lemuriana. La decisión final del hilo invierte esas filiaciones.
 - **Cabello de Nimri:** [El niño de la flecha](../../fragmentos/saga-de-iyuri-khan/el-nino-de-la-flecha.md) presenta al joven que interviene en el Santuario y después se identifica como Nimri con cabello rubio y largo recogido. El hilo define cabello negro, largo y ondulado. La escena incluye un cambio de apariencia a Oskar; el alcance de esa capacidad respecto de la descripción rubia no se resuelve aquí.
 - **Identidad y crianza de Nimri:** su [ficha](../../docs/personajes/historicos/nimri-jhamali.md) lo sitúa creciendo en Kystvar antes de su destino a Lemuria. El alcance de la clasificación lemuriana del hilo respecto de su crianza e identidad requiere precisión; no se presupone una contradicción.
+- **Matrimonio imperial:** en [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md), Ren piensa que la ley imperial le permitiría casarse con otro hombre y recuerda el recelo existente en Eisengard. El fragmento aporta un antecedente canónico, pero no formula expresamente todo el alcance territorial y social de la definición humana; esa precisión queda para auditoría.
+- **Crianza de Nimri:** su [ficha](../../docs/personajes/historicos/nimri-jhamali.md) lo describe antes del condicionamiento como emocional, sensible, temeroso y asustadizo. La definición de una reserva y educación tradicionales anteriores al condicionamiento añade dimensiones de conducta y crianza; su relación con esa descripción debe examinarse sin presumir incompatibilidad ni reducir su infancia a una sola característica.
 
 ## Reservas generales
 
 - No se fijaron proporciones de ascendencia, fronteras rígidas entre grupos ni rasgos físicos obligatorios para cada categoría.
 - Las hipótesis y preguntas del asistente que no recibieron confirmación no son decisiones humanas. La acumulación no resuelve los puntos de contraste ni adelanta una auditoría, resolución o plan de transferencia.
+- Permanecen abiertos la definición genealógica exacta de los tres grupos, el origen de la diversidad física sheijad, la relación entre autopercepción sheijad e identidad lemuriana, la filiación de Nimri, los contrastes físicos con el canon y la genealogía concreta de Benji.
+- También quedan reservados el lugar e institución exactos de formación de Tuk y Benji, los detalles históricos y místicos de la intervención climática, las competencias concretas del Imperio y Lemuria ante nuevos asentamientos, la relación entre visitas al Moroloth y ungimientos, y los posibles debates posteriores a una acogida de refugiados.
+- La diferencia de formulación sobre las rutas canónicas señalada en «Fuente y criterio» queda registrada para revisión; este proceso no modifica las instrucciones del proyecto.
