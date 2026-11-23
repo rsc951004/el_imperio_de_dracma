@@ -2,7 +2,8 @@
 
 ## Identidad y familia
 
-Iyuri Khan fue un Portador de la Casa noble Khan durante la dinastía Amschel.
+Iyuri Khan fue un Portador de la Casa noble Khan durante la dinastía Amschel y
+es un Möes Maeghi.
 Hijo de Fhilippo Galenor y Marwha Khan, era Hijo del Sol por su padre
 vespirio y sheijad por su madre lemuriana. Creció y se identificó
 culturalmente con Lemuria. Era hermano de Lya Khan y descendiente directo del
@@ -15,11 +16,12 @@ su audacia convivían con una profunda ternura hacia quienes amaba.
 
 ## Don de la Flecha
 
-Su don recibe el nombre de **Don de la Flecha**, aunque Iyuri prefería llamarlo
+Iyuri es un **Trazante**, vinculado al **Don de la Flecha**, aunque prefería llamarlo
 **Don del Salto**. Tras tocar e imbuir un objeto podía desplazarse
 instantáneamente hasta él, incluso años después. Sus dagas servían de armas y
-anclas; podía dirigirlas durante el vuelo y explorar con ellas sin mirar
-directamente. Los límites de esa percepción permanecen reservados.
+anclas; podía dirigir sus trayectorias y percibir desde ellas el entorno en
+360 grados. Ambas capacidades tienen un alcance limitado, sin distancia
+máxima ni límites numéricos establecidos.
 
 Los grandes saltos producen una perturbación en torno al destino y pueden
 dañar espacios cerrados. Transportar a otra persona exige gran dominio; llevar
@@ -31,11 +33,12 @@ Iyuri fue su usuario más rápido y poderoso conocido y el único cuyo expedient
 acreditaba un salto con dos acompañantes: Fhilippo y un Engendro de Sombra, durante el
 rescate de su familia.
 
-Iyuri fue el primer místico registrado que aplicó el principio del anclaje a
-objetos dejados atrás y llamó **Anclaje** a esa aplicación. Puede conservar un
-número indefinido de objetos anclados, modificar sus trayectorias dentro de un
-alcance limitado y percibir desde ellos el entorno en 360 grados, también con
-alcance limitado. No se han fijado distancias ni límites numéricos.
+Iyuri fue el primer místico registrado que fijó anclas místicas en objetos
+dejados atrás. **Anclaje** designa la técnica de fijar un ancla mística a un
+objeto. Puede conservar un número indefinido de objetos anclados. Modificar
+sus trayectorias y percibir desde ellos el entorno en 360 grados son técnicas
+independientes de Anclaje, ambas de alcance limitado y sin distancias máximas
+ni límites numéricos establecidos.
 
 ## Trayectoria
 
@@ -100,10 +103,10 @@ Después de ser Tocado, Iyuri recibió de Tuk relatos de experiencias que podía
 ayudarlo, sin que Tuk supiera que contribuirían a su desborde e
 hipersexualización. Antes de conocer a Ren tuvo encuentros sexuales frecuentes
 para sobrellevar el trauma, el temor a nuevas incursiones y el dolor por la
-ruptura con Oskar y su matrimonio con Lya. En ese periodo obtuvo el
-reconocimiento de Möes Maeghi al demostrar sus capacidades ante la Möes
-Tábura. La relación amorosa con Ren se fundamenta en
-su crecimiento mutuo, complementariedad y acciones recíprocas; Iyuri prometió
+ruptura con Oskar y su matrimonio con Lya. En ese periodo se convirtió en un
+Möes Maeghi tras demostrar ante la Möes Tábura una hazaña extraordinaria e
+inédita con su don. La relación amorosa con Ren se fundamenta en su
+crecimiento mutuo, complementariedad y acciones recíprocas; Iyuri prometió
 a Tuk no revelar a Ren su intervención en el origen del desborde.
 
 En una estancia posterior en Upyria, Iyuri viajaba con Rendard Steinert y el

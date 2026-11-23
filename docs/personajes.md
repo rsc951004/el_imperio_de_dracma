@@ -50,7 +50,7 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Ostren Therin | Personaje histórico | Último señor de la Casa Therin de Dragma en Esteria. Despojado durante el Gran Concilio del Hielo. | [Ver ficha](personajes/ostren-therin.md) |
 | Dravora | Reina histórica | Fundadora de la Casa Dravor y de su dinastía real en Valastir. | [Ver ficha](personajes/dravora.md) |
 | Ruxandra Dravor | Reina histórica | Reina de Valastir durante Amschel y madre de Dymtrik. | [Ver ficha](personajes/ruxandra-dravor.md) |
-| Iyuri Khan | Personaje histórico | Portador lemuriano del Don de la Flecha y Héroe del Imperio. | [Ver ficha](personajes/iyuri-khan.md) |
+| Iyuri Khan | Personaje histórico | Portador lemuriano del Don de la Flecha, Möes Maeghi y Héroe del Imperio. | [Ver ficha](personajes/iyuri-khan.md) |
 | Rendard Steinert | Custodio y marinero | Eisengardiano vinculado al Calamar Rojo. | [Ver ficha](personajes/rendard-steinert.md) |
 | Severus Rizen | Formador de custodios | Superior y profesor de Rendard en la Academia Imperial de Custodios. | [Ver ficha](personajes/severus-rizen.md) |
 | Keven Steinert | Cabeza de casa | Cabeza de la Casa Steinert y padre de Rendard. | [Ver ficha](personajes/keven-steinert.md) |
@@ -67,9 +67,9 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Essio Galenor | Mercader histórico | Tío paterno de Iyuri. | [Ver ficha](personajes/historicos/essio-galenor.md) |
 | Fey Gilmora | Maeghi histórica | Cazadora retirada y cocinera de la familia Khan. | [Ver ficha](personajes/historicos/fey-gilmora.md) |
 | Greta Nerve | Noble histórica | Heredera vinculada a la Casa Nerve. | [Ver ficha](personajes/historicos/greta-nerve.md) |
-| Nimri Jhamali | Guardia histórico | Maeghi Disonante extremo y Siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nimri-jhamali.md) |
-| Tuk Neyzeh | Guardia histórico | Invocador del caos, sanador y Maeghi Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/tuk-neyzeh.md) |
-| Benji Perjhan | Guardia histórico | Invocador elemental y Maeghi Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/benji-perjhan.md) |
+| Nimri Jhamali | Guardia histórico | Maeghi de grado Maestro, Disonante extremo y Siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nimri-jhamali.md) |
+| Tuk Neyzeh | Guardia histórico | Invocador con dones conocidos de sanación y Subyugación, sanador extraordinario y Maeghi de grado Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/tuk-neyzeh.md) |
+| Benji Perjhan | Guardia histórico | Invocador elemental y Maeghi de grado Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/benji-perjhan.md) |
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
 | Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |
 | Dymtrik | Príncipe histórico | Príncipe menor de Valastir y miembro de la Célula 1466. | [Ver ficha](personajes/dymtrik.md) |

@@ -5,9 +5,9 @@ Nombre común: **Portadores**.
 ## Naturaleza
 
 Un Portador es una persona que hereda por sangre un vínculo permanente con los
-Inits. Ese vínculo le permite manifestar un **don**, mientras que las
-**maestrías** son las aplicaciones que aprende y desarrolla a partir de ese
-don.
+Inits. Ese vínculo le permite manifestar un **don**. Las **técnicas** son
+formas identificables de utilizarlo que pueden descubrirse, aprenderse,
+desarrollarse, perfeccionarse y transmitirse.
 
 Un Portador posee normalmente un solo don y alcanza normalmente a un Init. Esto
 no constituye una imposibilidad absoluta, pero las excepciones concretas
@@ -30,7 +30,7 @@ manifestación puede saltar generaciones y no depende de la voluntad de nadie.
 
 La mezcla de linajes reduce la cantidad de descendientes en quienes se
 manifiesta el vínculo, no el alcance del vínculo cuando aparece. Las formas de
-manifestar un don dependen de la persona y de las maestrías que haya
+manifestar un don dependen de la persona y de las técnicas que haya
 desarrollado.
 
 ## Don de la Quimera
@@ -105,8 +105,9 @@ la licencia no autorizan delitos. Un niño no es castigado personalmente por la
 falta de registro imputable a sus responsables.
 
 Un Vinculado adquiere la condición de **Maeghi**, invariable en singular y
-plural, al ingresar formalmente como Aprendiz en la Möes Tábura. El registro
-imperial sigue siendo independiente de los grados y de la licencia profesional.
+plural, al ingresar formalmente en la Möes Tábura como Maeghi de grado
+Aprendiz. El registro imperial sigue siendo independiente de los grados y de
+la licencia profesional.
 Al aprobar Iniciado recibe automáticamente su primera licencia profesional:
 el grado acredita la formación y la licencia constituye su reconocimiento
 administrativo imperial dentro del mismo proceso. Un Aprendiz no puede ejercer
@@ -120,7 +121,7 @@ nueva, aunque la persona debe aprender lo necesario para ejercerlo.
 
 Erebia, Astria y los sabios de Khalos rechazaron históricamente una taxonomía
 universal. Los nombres de Portadores dependen del contexto, la actividad o la
-maestría observada y no definen categorías absolutas.
+técnica observada y no definen categorías absolutas.
 
 En la lengua de los Sangheskios, **Maeyis** es el singular y **Maeyiss** el
 plural para los Portadores esclavizados por ellos. Estas denominaciones no
@@ -154,7 +155,7 @@ capacidades permanecen reservadas.
 ## Edad de la Podredumbre y Edad de Plata
 
 Numerosos esclavos liberados de Astria eran Portadores. Utilizaron sus dones y
-maestrías para transformar Dürr y crear la Costa del Verano.
+técnicas para transformar Dürr y crear la Costa del Verano.
 
 **Iulien Therin**, descendiente de Sangheskios esclavizados, fue el único
 Portador del Sol vivo conocido durante la Edad de Plata. Su fulgor hirió

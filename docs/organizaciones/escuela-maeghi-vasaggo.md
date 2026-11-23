@@ -2,18 +2,17 @@
 
 ## Tipo
 
-Colegio Maeghi de menor prestigio dentro de la formación imperial. Su relación
-institucional concreta con la red de colegios de la Möes Tábura permanece sin
-definir.
+Pequeña institución educativa situada en la capital, adscrita a la Möes Tábura
+y reconocida oficialmente. Es poco conocida. Su trasfondo narrativo propio se
+desarrollará más adelante.
 
 ## Formación
 
 Rendard Steinert cursó allí un año y medio de formación Maeghi, incluido en
 sus seis años en la Academia Imperial de Custodios, y obtuvo el grado de
-Iniciado. Ese tramo era necesario para ejercer como custodio; recibió la
-formación mínima profesional requerida. No está fijado dónde rindió el examen
-de Iniciado ni si Vasaggo es sede de examen. La clasificación de menor
-prestigio no implica que el colegio fuera deficiente.
+Iniciado. Rindió y aprobó el examen de Iniciado en Vasaggo. Ese tramo era
+necesario para ejercer como custodio; recibió la formación mínima profesional
+requerida.
 
 ## Referencias
 

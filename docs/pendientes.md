@@ -39,22 +39,17 @@ Plata–Tiranía ya no se mantienen en esta lista.
 
 | Tema | Qué falta |
 |------|-----------|
-| **Formación Maeghi** | Precisar la duración de Devoción, los criterios adicionales de evaluación, si Exterminio exige destruir al Engendro de Sombra y la formación que distingue los grados. |
-| **Condicionamiento Maeghi** | Definir el procedimiento e información de aceptación y los refuerzos posteriores a Maestro. |
-| **Möes Maeghi y licencias** | Definir el procedimiento de concesión del reconocimiento y la autoridad administrativa que avala o visa licencias. |
-| **Colegios Maeghi** | Definir las funciones administrativas de las sedes, la relación institucional de Vasaggo con la red y el lugar del examen de Iniciado de Ren. |
-| **Don de la Flecha** | Definir límites numéricos y distancias, la relación entre Anclaje, modificación de trayectorias y percepción, el nombre breve de sus usuarios y la relación entre técnica y maestría. |
-
-| Tema | Qué falta |
-|------|-----------|
+| **Don de la Flecha** | Confirmar si se adoptan los nombres propuestos Viraje y Faro para las técnicas independientes de modificación de trayectoria y percepción desde objetos anclados. |
 | **Ceremonia de mayoría de edad** | Definir el nombre y el desarrollo de la ceremonia obligatoria a los dieciséis años. |
 | **Tierras Intermedias** | Completar la ficha, el gobierno, la geografía y la relación con los reinos. |
 | **Stamengherin moderno** | Fijar el número y la elección de representantes, la rotación y el lugar de reunión durante un quiebre. |
 | **Eldengaria** | Completar la ficha de la capital imperial. |
+| **Vasaggo** | Desarrollar en una etapa narrativa futura el trasfondo propio del colegio. |
 | **Edicto del Amanecer** | Fijar su forma, texto y circunstancias detalladas. |
 | **Casas fundadoras** | Completar la historia de las casas fundadoras de los doce reinos. |
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
 | **Möes Tábura** | Desarrollar su jerarquía, organización y trámites internos de clasificación. |
+| **Clasificaciones profesionales imperiales** | Precisar en el futuro sus categorías y procedimientos administrativos. Su existencia no se elimina por la autonomía de contratación de cada empleador. |
 | **Orden de la Flama Blanca** | Precisar las circunstancias de su formación por sectores exiliados, su estatus legal, estructura, integrantes, métodos, presencia territorial y relación con los clérigos. |
 | **Prohibición del culto a Thalmos en Dragma** | Mantener sin fijar el año exacto y las causas de la prohibición, establecida al final de las Guerras Místicas. |
 | **Creación de Invocadores** | Definir la autoridad, los permisos, el procedimiento, los materiales y los riesgos concretos del rito, actualmente casi prohibido. |
@@ -94,7 +89,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Saqueos de Sturmgard** | Desarrollar lugares atacados, campañas concretas y mecanismos de distribución del botín durante una etapa narrativa autorizada. |
 | **Escuelas regionales** | Desarrollar procedimientos internos y particularidades de las escuelas de Veleskaria, Zephyrya y otros territorios. |
 | **Encanto zephyrio** | Mantener sin definir la técnica, el agente y el procedimiento exactos de la modificación astriana, además del mecanismo independiente por el que la piel zephyria no se broncea. |
-| **Maestrías sindrias** | Desarrollar procedimientos, tipos de Grimm utilizados, técnicas concretas y campañas asociadas. |
+| **Especializaciones Maeghi de Sindria** | Desarrollar procedimientos, tipos de Grimm utilizados, técnicas concretas y campañas asociadas. |
 | **Dravos Amschel y los dravosi** | Fijar la identidad del Kaisrik hermano de Dravos, las fechas de su vida y tratados y la formación histórica detallada del pueblo. |
 | **Mezclas de los pueblos** | Desarrollar fechas, familias y movimientos concretos de las mezclas posteriores, salvo las migraciones ya asentadas para Sindria. |
 | **Cartografía del Tridente** | Definir el trazado, anchura, profundidad y disposición exacta del río y sus tres canales mediante un soporte geográfico autorizado. |

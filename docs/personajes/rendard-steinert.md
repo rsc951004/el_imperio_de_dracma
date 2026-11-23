@@ -20,10 +20,9 @@ comportamiento similar al metal.
 ## Relaciones
 
 Mantiene una relación amorosa y erótica con [Iyuri](iyuri-khan.md), su capitán.
-La cercanía sostenida con Iyuri durante una estancia en Erebia coincidió con un
-desborde de Resonancia menos intenso que el de Iyuri. Durante una estancia en
-Upyria conoció a [Gin](gin.md), por quien mostró interés; la relación temporal
-entre ambos acontecimientos permanece abierta.
+Poco después de conocerse, ambos pasaron una temporada en Erebia. Fue una etapa
+temprana de su relación, mucho antes de los acontecimientos posteriores en
+Upyria. En Upyria Ren conoció a [Gin](gin.md), por quien mostró interés.
 
 En sus pensamientos imaginó un futuro junto a un joven, con una boda, una hija
 adoptiva y una casa cerca de la capital. Son aspiraciones personales.

@@ -13,7 +13,7 @@ Con la caída del régimen recuperaron su libertad. Quienes decidieron continuar
 como cazadores permanecieron en la Grim Tábura de forma voluntaria.
 
 En la Edad de Oro, un Maeghi de grado Adepto o superior puede integrarse en
-la Grim Tábura si aprende a aplicar su don y sus maestrías al combate o la
+la Grim Tábura si aprende a aplicar su don y sus técnicas al combate o la
 defensa. Cambiar a este oficio no exige una licencia adicional.
 
 Las escuelas de Veleskaria forman cazadores destinados a la Tábura y también

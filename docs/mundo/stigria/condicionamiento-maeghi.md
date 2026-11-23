@@ -7,13 +7,24 @@ los Aprendices Maeghi. Busca desarrollar dos defensas complementarias:
 **Resonancia psicoafectiva** y **Disonancia**. Comienza al ingresar como
 Aprendiz y se profundiza por los grados hasta Maestro; no mide poder místico.
 
-Los procedimientos varían según la etapa. Entre sus ejemplos se cuentan la
+Los procedimientos varían según la etapa y cada colegio decide cómo preparar
+a sus alumnos para las pruebas de ascenso, dentro de los requisitos y las
+exigencias generales de formación Maeghi. Entre los procedimientos se cuentan la
 exposición a imágenes y sonidos, periodos prolongados de aislamiento sensorial
 y, en las etapas tempranas, compartir cama con otro Aprendiz o con grupos de
 hasta aproximadamente doce Maeghi. Son ejemplos, no un catálogo completo ni
 una secuencia obligatoria. El entrenamiento hacia la Disonancia es obligatorio,
 pero alcanzar su dominio pleno no lo es. El condicionamiento es reversible y
 requiere refuerzos continuos.
+
+La aceptación del ingreso se formaliza en la oficina de reclutamiento. El
+oficial entrega al aspirante un documento para leer y le pregunta si acepta las
+posibles consecuencias irreversibles del condicionamiento. Si acepta, coloca
+su sello personal en los dos espacios indicados. Al completarse el trámite y
+formalizarse el ingreso, se convierte en Maeghi de grado Aprendiz. El documento
+no implica que todas las consecuencias personales sean reversibles: el
+condicionamiento puede revertirse, pero no se presume que cada efecto vivido
+por una persona también lo sea.
 
 La formación busca propiciar amistades protectoras entre Aprendices y entre
 Aprendices y Maestros. Puede generar codependencia o relaciones con diferencias
@@ -31,6 +42,13 @@ Algunos padres se quejan de que sus hijos regresan excesivamente cariñosos. No
 es enseñanza sexual ni una serie de ejercicios sexuales organizados. No
 determina orientación sexual ni preferencias afectivas, y la cercanía no exige
 romance ni sexo.
+
+Los Maeghi acuden al menos una vez al año a la Sede Central de la Möes Tábura,
+en Veleskaria, para someterse al **Recondicionamiento**, que suele durar dos
+semanas. La obligación continúa después de completar la formación académica y
+alcanzar el grado de Maestro. Las visitas también permiten reencontrarse con
+antiguos compañeros, fortalecer vínculos e intercambiar experiencias y
+conocimientos profesionales.
 
 Las instituciones aceptan las consecuencias psicológicas, emocionales,
 socioafectivas y sexuales como costo de la preparación contra la Sombra.
@@ -74,7 +92,7 @@ apoyarse en sus compañeros y también resistir al aislarse.
 Las expresiones cotidianas de cercanía refuerzan el condicionamiento, la
 resistencia pasiva a la Sombra y la eficacia posible del Santuario del Alma.
 
-## Desborde de resonancia
+## Desborde de Resonancia
 
 El **desborde de resonancia** es un efecto secundario involuntario y
 necesariamente erótico. No elimina la voluntad ni obliga a actuar; puede
@@ -86,6 +104,35 @@ a la Disonancia, no una propiedad del fenómeno.
 
 Quienes experimentan desborde suelen ser algo más resistentes a la Sombra, sin
 ser inmunes.
+
+## Reverberación
+
+La **Reverberación** es un fenómeno raro y poco documentado asociado a ciertos
+desbordes de Resonancia. Una persona Reverberante puede desencadenar desbordes
+extremos en otras personas afectadas por su influencia. No se conocen reglas
+universales que permitan predecir sus condiciones ni sus efectos en cada caso.
+Puede poner en riesgo el bienestar, la vida y el desempeño laboral de quienes
+la experimentan, que pueden descuidar sus responsabilidades y seguridad o
+arriesgar la vida para satisfacer el impulso. Una crisis puede producir dolor
+físico, ansiedad y desesperación cuando no encuentra alivio. La Reverberación
+no equivale a un desborde ordinario.
+
+La predominancia de Resonancia o Disonancia depende de condiciones psicológicas
+y físicas previas cuya influencia individual no puede predecirse. No es una
+elección ni un resultado que se obtenga por esfuerzo. En casos extremos, la
+Resonancia puede estar casi ausente mientras la Disonancia alcanza una
+intensidad extraordinaria. La experiencia emocional puede atenuarse sin
+desaparecer; el placer físico y sexual puede conservar plena intensidad y
+resultar difícil de procesar. Esa intensidad no demuestra que la Disonancia se
+haya debilitado. La Disonancia extrema no es la contraparte simétrica de un
+desborde de Resonancia.
+
+Algunas personas con Disonancia extrema eligen el celibato o reducir los
+estímulos: aislamiento, dormir en cámaras de aislamiento sensorial, evitar el
+contacto físico, consumir alimentos insípidos o abstenerse del alcohol. Son
+decisiones personales, no requisitos universales del condicionamiento. Buscan
+reducir espirales de cuestionamientos sobre experiencias que no tienen o han
+decidido evitar.
 
 ## Referencias
 

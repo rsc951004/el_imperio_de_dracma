@@ -18,8 +18,14 @@ La contención de un Engendro exige gran poder de combate. Solo los
 Fulgurantes pueden eliminarlo definitivamente. La captura en un Pozo de
 Sombras contiene a la criatura. La Corrupción que ya había dejado en el
 entorno requiere atención propia. En la mansión Khan, los Cuervos Grises
-limpiaron el lugar después de la captura y los tres rescatistas Tocados
-fueron aislados y sometidos al Recondicionamiento.
+limpiaron el lugar después de la captura. Los tres rescatistas Tocados fueron
+aislados individualmente para contener la posible Corrupción, impedir su
+propagación y facilitar la descontaminación. Ante el deterioro de Tuk, se
+autorizó excepcionalmente que continuaran el aislamiento juntos, con el apoyo
+de Nimri como Siniestro. Los tres se sometieron juntos al Recondicionamiento.
+El cambio abrupto de separación a cercanía produjo una crisis de
+Reverberación en Tuk, que terminó en el momento culminante del encuentro
+sexual de los tres en las piscinas termales del domo de aislamiento.
 
 Las antorchas o bengalas de alerta utilizan un código reconocido: rojo para
 Grimm, verde para poseídos y negro para Sombra. Los Cuervos Grises responden a

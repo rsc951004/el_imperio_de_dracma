@@ -37,9 +37,9 @@ Todo lo que aquí se escribe es lore oficial del universo.
 
 ### Worldbuilding
 - **No se explica. Se muestra.** Nada de párrafos que funcionen como manual del
-  vínculo, el don o las maestrías. El lector los entiende mediante las acciones.
+  vínculo, el don o las técnicas. El lector los entiende mediante las acciones.
 - **No hay manuales de magia dentro de la narración.** Si un personaje no entiende algo, el lector tampoco. Si lo entiende, lo vemos a través de sus acciones y consecuencias.
-- Los términos canónicos (vínculo, don, maestría, Mobius, Irij e Inits) se
+- Los términos canónicos (vínculo, don, técnica, Mobius, Irij e Inits) se
   introducen con naturalidad, no con definiciones de diccionario.
 
 ### Ritmo
@@ -61,7 +61,7 @@ Todo lo que aquí se escribe es lore oficial del universo.
 | Orilquin | Irij |
 | Portadores de la Luz | Portadores; el nombre histórico «Portadores de la Luz de los Inits» puede usarse al tratar la antigua Erebia |
 | Denominaciones especiales de la señal ocular | Describir directamente el brillo de los ojos |
-| Poder / poderes | Don, dones o maestrías, según el contexto |
+| Poder / poderes | Don, dones o técnicas, según el contexto |
 
 **La Sombra** es el conjunto de entidades de origen común. **Mobius**
 designa a una entidad de la Sombra Primordial. **Fulgurante** designa a quien
@@ -73,7 +73,7 @@ en singular y **veranenses** en plural.
 ### Lo que NUNCA debe aparecer
 - «Los Sombra» como nombre de entidad.
 - «Portadores de la Luz» como denominación general; se admite el nombre histórico completo «Portadores de la Luz de los Inits» en su contexto.
-- Un término único que confunda vínculo, don y maestría.
+- Un término único que confunda vínculo, don y técnica.
 - Un nombre especial para la señal ocular. **Lumbre** designa únicamente el
   material fabricado que arde en el Gran Faro de Esteria.
 - Explicaciones didácticas de mecánicas de magia.

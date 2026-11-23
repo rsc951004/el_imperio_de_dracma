@@ -1,5 +1,59 @@
 # Notas editoriales
 
+### Incorporación de la extensión de definiciones Maeghi (2026-11-23)
+
+Por autorización del autor se incorporaron al canon las resoluciones de las
+preguntas 1–20 y 22–24 de la extensión de volcamiento. Se actualizaron la
+formación, las pruebas, la Devoción, la concesión de Möes Maeghi, las licencias,
+el ingreso y el Recondicionamiento, las funciones de las sedes, Vasaggo y las
+especializaciones educativas. Se precisaron Anclaje, las técnicas
+independientes del Don de la Flecha y la denominación Trazante; los nombres
+propuestos Viraje y Faro siguen pendientes de confirmación. Se sustituyó el
+uso místico de «maestría» por «técnica», conservando el grado de Maestro y los
+usos editoriales históricos. Se fijó que la estancia de Ren e Iyuri en Erebia
+pertenece a una etapa temprana, mucho antes de Upyria, sin fechas exactas.
+
+Las fichas de Tuk, Benji y Nimri y las referencias institucionales incorporan
+la Reverberación, sus consecuencias, la secuencia de aislamiento y reunión, el
+encuentro de las piscinas termales, los recuerdos y límites personales de
+Nimri. No se atribuye un desborde adicional a Benji o Nimri ni se afirma que
+la Reverberación haya desaparecido definitivamente. Se retiraron de
+`docs/pendientes.md` las reservas cerradas; siguen abiertas las clasificaciones
+administrativas profesionales y la confirmación de los nombres Viraje y Faro.
+
+Archivos modificados: `docs/12-reinos.md`, `docs/entidades/invocadores.md`,
+`docs/entidades/portadores.md`, `docs/mundo/stigria/condicionamiento-maeghi.md`,
+`docs/mundo/stigria/don-de-la-flecha.md`,
+`docs/mundo/stigria/dragma/sindria/sindria.md`,
+`docs/mundo/stigria/dragma/zephyrya/zephyrya.md`,
+`docs/mundo/stigria/guia-practica-contra-la-sombra.md`,
+`docs/mundo/stigria/moes-maeghi.md`, `docs/organizaciones.md`,
+`docs/organizaciones/cuervos-grises.md`,
+`docs/organizaciones/escuela-maeghi-vasaggo.md`, `docs/pendientes.md`,
+`docs/personajes/historicos/benji-perjhan.md`,
+`docs/personajes/historicos/loryan-solarys.md`,
+`docs/personajes/historicos/nimri-jhamali.md`,
+`docs/personajes/historicos/tuk-neyzeh.md`, `docs/personajes/iyuri-khan.md`,
+`docs/personajes/rendard-steinert.md`, `docs/taburas.md`,
+`docs/taburas/grim-tabura.md` y `docs/taburas/moes-tabura.md`.
+
+### Armonización de dones y rangos Maeghi (2026-11-23)
+
+Se corrigió la ficha de Tuk Neyzeh y el índice de personajes para identificarlo
+como Invocador con dos dones conocidos: sanación y Subyugación. Las fichas e
+índices correspondientes expresan los rangos como «Maeghi de grado Aprendiz,
+Iniciado, Adepto, Experto o Maestro». Se armonizó la denominación personal:
+quien obtiene la distinción es «un Möes Maeghi»; la distinción por sí sola no
+confiere el grado de Experto ni sus facultades docentes.
+
+Archivos actualizados: `docs/entidades/portadores.md`,
+`docs/mundo/stigria/condicionamiento-maeghi.md`,
+`docs/mundo/stigria/moes-maeghi.md`, `docs/organizaciones/cuervos-grises.md`,
+`docs/personajes.md`, `docs/personajes/historicos/benji-perjhan.md`,
+`docs/personajes/historicos/nimri-jhamali.md`,
+`docs/personajes/historicos/tuk-neyzeh.md`, `docs/personajes/iyuri-khan.md` y
+`docs/taburas/moes-tabura.md`.
+
 ### Corrección terminológica de Recondicionamiento Maeghi (2026-11-22)
 
 Por decisión expresa del autor, se corrigió a **Recondicionamiento** la

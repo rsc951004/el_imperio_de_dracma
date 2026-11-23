@@ -46,11 +46,11 @@ Un Invocador queda Tocado por la Sombra al comenzar una
 [Incursión](sombra.md#incursión-y-toque), haya recibido o no condicionamiento
 Maeghi.
 
-## Don y maestrías
+## Don y técnicas
 
 El vínculo ampliado permite alcanzar a muchos Inits y producir manifestaciones
 intrincadas e individuales. Su repertorio potencial no equivale a una lista
-fija. Cada Invocador desarrolla maestrías propias y puede especializarse en una
+fija. Cada Invocador desarrolla técnicas propias y puede especializarse en una
 parte de lo que su vínculo le permite hacer. Con habilidad y entrenamiento
 puede combinar manifestaciones o alcanzar efectos abstractos. Existen casos
 excepcionales capaces de ordenar una gama extraordinariamente amplia, pero no
@@ -116,7 +116,7 @@ persona revele ese origen cuando puede presentarse simplemente como Portador.
 - **Portador:** origen del vínculo transferido por el rito inicial.
 - **Init:** entidad alcanzada por el vínculo ampliado.
 - **Möes Tábura:** institución que forma Portadores e Invocadores y estudia sus
-  dones y maestrías.
+  dones y técnicas.
 - **Mobius:** puede consumir por completo el vínculo y destruir a la persona en
   el proceso.
 

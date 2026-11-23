@@ -63,7 +63,7 @@ separada. En el habla popular circulan las bromas «la Tormenta reformada», «l
 civiliza». Son expresiones sociales, no afirmaciones objetivas sobre ambos
 pueblos.
 
-## Maestrías
+## Especializaciones Maeghi
 
 Sindria alberga una sede institucional de la Möes Tábura y su Colegio Real es
 el segundo de mayor prestigio entre los Colegios Reales, después del de

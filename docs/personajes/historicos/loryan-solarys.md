@@ -25,7 +25,7 @@ responsabilidad política.
 
 Como gran Portador, Loryan había recibido formación en Khalos desde los diez
 años. En una demostración posterior hizo volar un autómata, una manifestación
-extraordinaria de su maestría.
+extraordinaria del uso de su don.
 
 El Edicto del Amanecer dispuso que la muerte de cualquiera de los tres reyes
 pondría fin a la monarquía y devolvería al pueblo la elección de sus
