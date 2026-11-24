@@ -1,7 +1,7 @@
 # Grimar Valgard
 
 ## Identidad
-Decimoséptimo y último Raik de Valgard. Conocido como **Grimar de Piedra**.
+Decimoséptimo y último Raik de la [Casa Valgard](../casas/valgard.md). Conocido como **Grimar de Piedra**.
 Nació en el año **-90**, heredó el Raikim en el año **-20** y murió en el año
 **-1**, durante la caída del Raikim.
 

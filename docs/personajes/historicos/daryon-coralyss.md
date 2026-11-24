@@ -4,7 +4,7 @@
 Noble de la isla de **Alessya**. Casa Coralyss. Inició el reclamo de **derecho de dominio** sobre la isla y pactó el matrimonio de su hija Thalyssa con el príncipe de Zephyrya. Fue traicionado por su propia hija. Su casa fue proscrita del Dex Códice tras la Guerra de los Hermanos.
 
 - **Origen:** Alessya (isla sagrada de los Hijos del Sol).
-- **Casa:** Coralyss (proscrita, borrada de la historia).
+- **Casa:** [Coralyss](../../casas/coralyss.md) (proscrita, borrada de la historia).
 - **Época:** Reinado del emperador Edrik Mormund.
 
 ## Personalidad

@@ -1,7 +1,7 @@
 # Godric Mormund
 
 ## Identidad
-Tercer Emperador de Dragma. Nieto de Harald Mormund, hijo de Roderic Mormund. Casa Mormund.
+Tercer Emperador de Dragma. Nieto de Harald Mormund, hijo de Roderic Mormund. [Casa Mormund](../../casas/mormund.md).
 
 ## Personalidad
 Aborreció la severidad de su padre Roderic y de su abuelo Harald. Quiso que sus hijos fueran queridos y se sintieran queridos, pero como él mismo nunca supo lo que eso significaba, se pasó al extremo: los mimó sin medida.

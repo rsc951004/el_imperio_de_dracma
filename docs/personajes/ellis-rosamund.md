@@ -2,7 +2,7 @@
 
 ## Identidad e historia
 
-Portadora del don de la Enclaustración e integrante de la Célula 1378 de la
+Miembro de la [Casa Rosamund](../casas/rosamund.md), Portadora del don de la Enclaustración e integrante de la Célula 1378 de la
 Stroi Tábura. Allí conoció a Arystan Khan, su gran amor. Ambos fueron amigos de
 Loras Dragomir, después conocido como Imrik Valkyren.
 
@@ -23,6 +23,7 @@ alado.
 
 - [En el corazón de la Sombra](../../fragmentos/saga-de-iyuri-khan/en-el-corazon-de-la-sombra.md)
 - [Mortis](mortis.md)
+- [Casa Rosamund](../casas/rosamund.md)
 - `docs/personajes/arystan-khan.md`
 - `docs/personajes/millicent-rosamund.md`
 - `docs/organizaciones/banda-del-colmillo-blanco.md`

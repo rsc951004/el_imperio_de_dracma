@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Superior de Rendard Steinert en la Academia Imperial de Custodios de Dracma y
+Miembro de la [Casa Rizen](../casas/rizen.md), superior de Rendard Steinert en la Academia Imperial de Custodios de Dracma y
 figura formativa suya. Su rango exacto y su adscripción institucional no están
 establecidos.
 

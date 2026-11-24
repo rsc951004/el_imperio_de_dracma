@@ -4,7 +4,7 @@
 
 Portador del Sol sangheskio, fundador de Esteria y primer Guardián del Paso del
 Oriente. Su nombre era Iulien. Los Hijos del Sol lo llamaban repetidamente
-**Lux Therin** y él fundó su casa como Iulien Therin.
+**Lux Therin** y él fundó la [Casa Therin de Dragma](../casas/therin.md) como Iulien Therin.
 
 ## Origen
 

@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Miembro histórico de la Casa Valgard. Hijo de **Odalric Valgard** y padre de **Rudgar Valgard**.
+Miembro histórico de la [Casa Valgard](../casas/valgard.md). Hijo de **Odalric Valgard** y padre de **Rudgar Valgard**.
 
 ## Historia
 

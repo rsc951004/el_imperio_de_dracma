@@ -1,6 +1,6 @@
 # Essio Galenor
 
-Comerciante de las Costas del Verano, hábil estafador y tío paterno de Iyuri
+Miembro de la [Casa Galenor](../../casas/galenor.md), comerciante de las Costas del Verano, hábil estafador y tío paterno de Iyuri
 Khan. Ayudó a su sobrino a escapar de Lemuria cuando este tenía catorce años.
 
 Tres años después del encuentro de Iyuri con Oskar Rheiner, Essio era un preso

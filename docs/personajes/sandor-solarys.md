@@ -7,7 +7,7 @@ Cronista y erudito de la Ciudadela de Khalos. Miembro de la Sish Tábura (rama d
 investigación y la palabra.
 
 ## Casa
-**Casa Solarys.** Casa noble de Zephyrya. Su relación histórica con Suntarys
+**[Casa Solarys](../casas/solarys.md).** Casa noble de Zephyrya. Su relación histórica con Suntarys
 permanece pendiente.
 
 - **Lema:** *Hijos del Amanecer, Herederos del Sol.*

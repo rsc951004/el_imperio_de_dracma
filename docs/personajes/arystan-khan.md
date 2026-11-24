@@ -2,7 +2,7 @@
 
 ## Identidad e historia
 
-Invocador nacido en el Gherin, poseedor del Don de la Quimera y, por ello,
+Miembro de la [Casa Khan](../casas/khan.md), Invocador nacido en el Gherin, poseedor del Don de la Quimera y, por ello,
 Quimerista. Tras descubrir su don fue perseguido por seguidores de la Orden de
 la Flama Blanca. Su familia lo ayudó a abandonar el Gherin y llegar a Valastir.
 

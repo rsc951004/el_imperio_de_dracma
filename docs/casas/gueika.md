@@ -15,7 +15,7 @@
 
 Casa común originaria de Biormyr, en la Tierra de la Bruma. Sin estatus nobiliario. Residencia humilde comparada con las casas nobles, pero descrita como cálida y llena de vida. Sandor Solarys encontró allí un calor de hogar que nunca había sentido en su propia casa.
 
-La casa tiene la particularidad de contar con un matrimonio mixto Bruma-Hierro —Kenvan Gueika (brumense de Biormyr) y Freya Fenec (sturmgardiana)—, una unión extremadamente rara en Dragma.
+La casa tiene la particularidad de contar con un matrimonio mixto Bruma-Hierro —Kenvan Gueika (brumense de Biormyr) y Freya Fenec (sturmgardiana, vinculada al apellido de la [Casa Fenec](fenec.md))—, una unión extremadamente rara en Dragma.
 
 ## Miembros relevantes
 

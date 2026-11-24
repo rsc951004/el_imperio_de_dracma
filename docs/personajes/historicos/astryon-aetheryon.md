@@ -4,7 +4,7 @@
 Príncipe coronado de **Zephyrya**. Hijo del rey **Kleóndras Aetheryon**. Prometido de **Thalyssa Coralyss** como parte del pacto para unir Alessya a Zephyrya. Fue abandonado la noche anterior al compromiso cuando Thalyssa huyó con Eryk Albyon. Su destino tras la Guerra de los Hermanos es incierto: la casa Aetheryon fue proscrita del Dex Códice.
 
 - **Origen:** Zephyrya (Costas del Verano).
-- **Casa:** Aetheryon (proscrita del Dex Códice tras la guerra).
+- **Casa:** [Aetheryon](../../casas/aetheryon.md) (proscrita del Dex Códice tras la guerra).
 - **Época:** Reinado del emperador Edrik Mormund.
 
 ## Personalidad

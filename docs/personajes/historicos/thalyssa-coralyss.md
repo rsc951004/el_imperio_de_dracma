@@ -4,7 +4,7 @@
 Hija de **Daryón Coralyss**, noble de Alessya. Prometida al príncipe **Astryón Aetheryon** de Zephyrya como parte del pacto para unir la isla a ese reino. Amante secreta de **Eryk Albyon**, príncipe de Lysarya. Estaba embarazada de él. Huyó la noche anterior a su compromiso. Desaparecida. Su destino es un misterio: una de los **Príncipes Perdidos**.
 
 - **Origen:** Alessya (isla sagrada de los Hijos del Sol).
-- **Casa:** Coralyss (proscrita del Dex Códice tras la guerra).
+- **Casa:** [Coralyss](../../casas/coralyss.md) (proscrita del Dex Códice tras la guerra).
 - **Época:** Reinado del emperador Edrik Mormund.
 - **Destino:** Desaparecida. Nunca llegó a Khalos.
 

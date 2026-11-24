@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Miembro histórico de la Casa Valgard. Abuelo de **Rudgar Valgard** y padre de **Baldur Valgard**.
+Miembro histórico de la [Casa Valgard](../casas/valgard.md). Abuelo de **Rudgar Valgard** y padre de **Baldur Valgard**.
 
 ## Historia
 

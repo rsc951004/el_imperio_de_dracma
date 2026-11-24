@@ -1,7 +1,7 @@
 # Vilem Mormund
 
 ## Identidad
-Príncipe Heredero de Dragma tras la caída de Mijail. Tercer hijo de Godric Mormund. Hermano de Ilena y Mijail. Casa Mormund. Conocido como **el Padre del Imperio**.
+Príncipe Heredero de Dragma tras la caída de Mijail. Tercer hijo de Godric Mormund. Hermano de Ilena y Mijail. [Casa Mormund](../../casas/mormund.md). Conocido como **el Padre del Imperio**.
 
 ## Aspecto
 Tuerto desde los diez años. Mijail le reventó el ojo izquierdo la noche del fratricidio.

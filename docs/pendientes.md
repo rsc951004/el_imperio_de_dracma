@@ -47,6 +47,7 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Vasaggo** | Desarrollar en una etapa narrativa futura el trasfondo propio del colegio. |
 | **Edicto del Amanecer** | Fijar su forma, texto y circunstancias detalladas. |
 | **Casas fundadoras** | Completar la historia de las casas fundadoras de los doce reinos. |
+| **Pertenencia a Casas** | Precisar la adscripción de Mila Hubbe y Freya Fenec antes de sus matrimonios y la de Oskar Rheiner tras su matrimonio con Leyza Khan; también la de los familiares sin nombre de Nairim, Tayruk y Bendji, el Cuervo Maestro en tiempos de Iyuri, el rey y el príncipe de Flammengard en tiempos de Leandrin y el hijo del señor vecino. Conservar la pertenencia de Mila a Steinert y la de Freya a Gueika, así como los cambios de Casa documentados. |
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
 | **Möes Tábura** | Desarrollar su jerarquía, organización y trámites internos de clasificación. |
 | **Gran Reforma Maeghi** | Reservar la catástrofe relacionada con la Sombra, los acontecimientos concretos que desencadenaron la reforma y su cronología detallada. |

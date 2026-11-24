@@ -11,7 +11,7 @@ de la Stroi Tábura, conocida públicamente como la Banda del Colmillo Blanco.
 Es hijo de Armand Zorana y Dhalma Dragomir. Sus hermanos mayores fueron Pelhia
 y Rhuan. Armand se infiltró en la Stroi y participó con ellos en un ataque al
 Consejo. Pelhia y Rhuan murieron; Armand fue capturado y condenado a muerte.
-La Casa Dragomir perdió su posición y fue expulsada de Valastir. Dhalma se
+La [Casa Dragomir](../casas/dragomir.md) perdió su posición y fue expulsada de Valastir. Dhalma se
 suicidó después de que el Viejo Imrik interviniera para salvarla junto a Loras.
 
 El Viejo Imrik, pariente de Loras, lo crio, protegió y entrenó como a un hijo.
@@ -21,7 +21,7 @@ el apellido Valkyren que su protector había imaginado para fundar una casa,
 en honor a Valkyr, la Montaña Negra.
 
 La Stroi reconoció en Loras un potencial místico extraordinario. El Don Sombrío
-le permite controlar Mobius. La Casa Valkyren sería reconocida en Valastir y
+le permite controlar Mobius. La [Casa Valkyren](../casas/valkyren.md) sería reconocida en Valastir y
 comprendería a Imrik y Millicent Rosamund, quien conserva su apellido.
 
 Antes de ese cambio, Loras tenía cabello castaño rojizo, tez mate y ojos verdes

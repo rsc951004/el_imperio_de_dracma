@@ -1,7 +1,7 @@
 # Ilena Mormund
 
 ## Identidad
-Princesa de Dragma. Segunda hija de Godric Mormund. Hermana de Mijail y Vilem. Casa Mormund.
+Princesa de Dragma. Segunda hija de Godric Mormund. Hermana de Mijail y Vilem. [Casa Mormund](../../casas/mormund.md).
 
 ## Personalidad
 Era muy cercana a su hermano menor, Vilem. De carácter reservado en lo que respecta a los registros históricos conocidos.

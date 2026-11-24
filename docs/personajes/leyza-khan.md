@@ -2,7 +2,7 @@
 
 ## Relaciones
 
-Leyza Khan es hermana de Iyuri Khan y pareja de Oskar Rheiner. No era Vinculada.
+Leyza Khan pertenece a la [Casa Khan](../casas/khan.md), es hermana de Iyuri Khan y pareja de Oskar Rheiner. No era Vinculada.
 Iyuri la rescató durante la crisis de la mansión Khan.
 
 <!-- CANON-VELADO: INICIO | desconocido-por: todos excepto Ruxandra e Imrik -->

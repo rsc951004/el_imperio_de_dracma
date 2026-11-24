@@ -12,5 +12,6 @@ las circunstancias de su fallecimiento.
 ## Referencias
 
 - [Casa Steinert](../casas/steinert.md)
+- [Casa Hubbe](../casas/hubbe.md)
 - [Rendard Steinert](rendard-steinert.md)
 - [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

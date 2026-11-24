@@ -1,7 +1,7 @@
 # Roderic Mormund
 
 ## Identidad
-Segundo Emperador de Dragma. Hijo de Harald Mormund. Casa Mormund.
+Segundo Emperador de Dragma. Hijo de Harald Mormund. [Casa Mormund](../../casas/mormund.md).
 
 ## Personalidad
 Más severo que su padre. De genio aún más corto. No heredó solo el valor de Harald: heredó su dureza y la llevó más lejos. Fue más severo con su hijo Godric de lo que Harald lo fue con él.

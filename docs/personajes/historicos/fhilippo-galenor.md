@@ -1,6 +1,6 @@
 # Fhilippo Galenor
 
-Mercader vespirio de los Hijos del Sol y miembro de la Casa común Galenor.
+Mercader vespirio de los Hijos del Sol y miembro de la [Casa común Galenor](../../casas/galenor.md).
 Descendía directamente del itinerante Rasmus Galenor. Fue padre de Iyuri Khan
 y poseía Lazeroth, una espada mística que recibió de su propio padre. Preparaba
 naria asada, pescado de las Costas del Verano.

@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Guerrero de la Casa Valgard, vencedor del Rey Podrido y primer Raik. El segundo
+Guerrero de la [Casa Valgard](../casas/valgard.md), vencedor del Rey Podrido y primer Raik. El segundo
 Stamengherin lo proclamó **Rudgar Rompe Maldiciones** en el año **-214**. También
 fue conocido como **el Martillo Sangriento**.
 

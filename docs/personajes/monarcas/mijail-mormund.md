@@ -1,7 +1,7 @@
 # Mijail Mormund
 
 ## Identidad
-Príncipe Heredero de Dragma. Hijo mayor de Godric Mormund y hermano de Ilena y Vilem. Su sangre se fusionó en secreto con la Casa Artema de Delfos. Casa Mormund.
+Príncipe Heredero de Dragma. Hijo mayor de Godric Mormund y hermano de Ilena y Vilem. Su sangre se fusionó en secreto con la Casa Artema de Delfos. [Casa Mormund](../../casas/mormund.md).
 
 ## Personalidad
 En público: impecable. Sabía exactamente cómo comportarse en la corte. Jamás soltó una palabra fuera de lugar.

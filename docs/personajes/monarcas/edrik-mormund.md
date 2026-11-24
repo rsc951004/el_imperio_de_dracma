@@ -3,7 +3,7 @@
 ## Identidad
 Emperador de Dragma. Quinto de la dinastía Mormund. Bajo su reinado estalló la **Guerra de los Hermanos**. Contuvo la escalada del conflicto, ejecutó a los reyes de Zephyrya y Lysarya, y proscribió a las casas Aetheryon, Albyon y Coralyss del Dex Códice.
 
-- **Dinastía:** Mormund (primera).
+- **Dinastía:** [Mormund](../../casas/mormund.md) (primera).
 - **Orden:** 5.º emperador Mormund.
 - **Época:** Tercer cuarto de la dinastía.
 

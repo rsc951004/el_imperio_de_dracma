@@ -3,7 +3,7 @@
 ## Naturaleza
 
 El **Don de la Flecha** permite arrojar un objeto, seguir su trayectoria y
-llegar con él a su destino. Recibe su nombre de Tarisa Andrónica, mística de
+llegar con él a su destino. Recibe su nombre de Tarisa Andrónica, de la [Casa Andrónica](../../casas/andronica.md), mística de
 las Guerras Místicas que, montada a caballo, lanzaba flechas, se desplazaba
 hacia sus enemigos y los derribaba con la espada.
 

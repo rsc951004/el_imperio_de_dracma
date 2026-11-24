@@ -4,7 +4,7 @@
 Rey de **Zephyrya** durante el reinado del emperador Edrik Mormund (5.º de la dinastía Mormund). Pactó el matrimonio de su hijo con la hija de Daryón Coralyss para unir Alessya a Zephyrya. Fue traicionado por Thalyssa Coralyss. Ejecutado tras la Guerra de los Hermanos. Su casa, Aetheryon, fue proscrita del Dex Códice.
 
 - **Origen:** Zephyrya (Costas del Verano).
-- **Casa:** Aetheryon (proscrita, borrada de la historia).
+- **Casa:** [Aetheryon](../../casas/aetheryon.md) (proscrita, borrada de la historia).
 - **Época:** Reinado del emperador Edrik Mormund.
 - **Destino:** Ejecutado por orden imperial.
 

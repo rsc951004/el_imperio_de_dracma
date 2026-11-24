@@ -163,6 +163,20 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Casa Nerve | Casa noble | Casa de Eisengard vinculada a Greta Nerve. | [Ver ficha](casas/nerve.md) |
 | Casa Mhaister | Casa noble | Linaje de Uldengyrk emparentado con los Rheiner. | [Ver ficha](casas/mhaister.md) |
 | Casa Zorana | Casa astriana | Linaje de Sirene, Zoroastro y Calris. | [Ver ficha](casas/zorana.md) |
+| Casa Aetheryon | Casa real histórica | Casa de Zephyrya proscrita tras la Guerra de los Hermanos. | [Ver ficha](casas/aetheryon.md) |
+| Casa Albyon | Casa real histórica | Casa de Lysarya proscrita tras la Guerra de los Hermanos. | [Ver ficha](casas/albyon.md) |
+| Casa Coralyss | Casa noble histórica | Casa vinculada a Alessya y proscrita tras la Guerra de los Hermanos. | [Ver ficha](casas/coralyss.md) |
+| Casa Gilmora | Casa | Casa de Fey Gilmora. | [Ver ficha](casas/gilmora.md) |
+| Casa Vezhari | Casa lemuriana | Casa de Nairim Vezhari; estamento no determinado. | [Ver ficha](casas/vezhari.md) |
+| Casa Azharen | Casa lemuriana | Casa de Tayruk Azharen; estamento no determinado. | [Ver ficha](casas/azharen.md) |
+| Casa Zharan | Casa lemuriana | Casa de Bendji y Tamyr Zharan; estamento no determinado. | [Ver ficha](casas/zharan.md) |
+| Casa Rizen | Casa | Casa de Severus Rizen. | [Ver ficha](casas/rizen.md) |
+| Casa Hubbe | Casa | Casa vinculada al apellido de Mila Hubbe. | [Ver ficha](casas/hubbe.md) |
+| Casa Roudha | Casa | Casa de Jabber Roudha. | [Ver ficha](casas/roudha.md) |
+| Casa Rosamund | Casa | Casa de Ellis y Millicent Rosamund. | [Ver ficha](casas/rosamund.md) |
+| Casa Andrónica | Casa | Casa de Tarisa Andrónica. | [Ver ficha](casas/andronica.md) |
+| Casa Fenec | Casa | Casa vinculada al apellido de Freya Fenec. | [Ver ficha](casas/fenec.md) |
+| Casa Kamus | Casa | Casa de Lander Kamus. | [Ver ficha](casas/kamus.md) |
 | Culto a Ishbaal | Tradición religiosa | Culto sheijad a la figura que veneran como dios; sus fieles creen en una promesa de salvación. | [Ver ficha](mundo/stigria/dragma/lemuria/culto-a-ishbaal.md) |
 | Cinco Víer de Eldenheim | Divisiones administrativas | Rostheim, Eldenfeld, Rissbruck, Drakenau y Vesterfeld, subordinados al Kaisrik. | [Ver ficha](mundo/stigria/dragma/vier-de-eldenheim.md) |
 | Tierras Intermedias | Territorio | Territorios sin dueño del Gherin. Páramos, costas y tierras entre reinos. Bienes comunes. | Pendiente |

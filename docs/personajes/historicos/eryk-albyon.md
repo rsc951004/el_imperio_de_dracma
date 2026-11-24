@@ -4,7 +4,7 @@
 Príncipe de **Lysarya**. Hijo del rey Kyros Albyon. Amante secreto de **Thalyssa Coralyss**. Huyó con ella la noche anterior a su compromiso con el príncipe de Zephyrya. Desaparecido. Su destino es un misterio: uno de los **Príncipes Perdidos**.
 
 - **Origen:** Lysarya (Costas del Verano).
-- **Casa:** Albyon (proscrita del Dex Códice tras la guerra).
+- **Casa:** [Albyon](../../casas/albyon.md) (proscrita del Dex Códice tras la guerra).
 - **Época:** Reinado del emperador Edrik Mormund.
 - **Destino:** Desaparecido. Nunca llegó a Khalos.
 

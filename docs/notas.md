@@ -1,5 +1,38 @@
 # Notas editoriales
 
+### Casas de los Cuervos de Lemuria (2026-11-24)
+
+Por indicación humana, las Casas Vezhari, Azharen y Zharan se documentan como
+lemurianas. Su estamento permanece sin determinar.
+
+### Formato de fichas preliminares de Casas (2026-11-24)
+
+Se reorganizaron las fichas preliminares de Gilmora, Vezhari, Azharen, Zharan,
+Rizen, Hubbe, Roudha, Rosamund, Andrónica, Fenec y Kamus para describir cada
+Casa y señalar por separado a sus integrantes conocidos. Se conservaron sin
+determinar los estamentos, orígenes y adscripciones que aún no están definidos.
+
+### Casas de personajes imperiales (2026-11-24)
+
+Por instrucción humana se revisaron los apellidos establecidos como base para
+documentar Casas de personajes imperiales. Se crearon las fichas de Gilmora,
+Vezhari, Azharen, Zharan, Rizen, Hubbe, Roudha, Rosamund, Andrónica, Fenec y Kamus; se
+actualizaron sus referencias y el índice del mundo. Fey se conserva como
+veranense, sin asignarle un reino de origen.
+
+La pertenencia de Mila Hubbe a Steinert se conserva. Permanecen pendientes su
+adscripción anterior al matrimonio, la de Freya Fenec antes de su matrimonio,
+la de Oskar después de casarse con Leyza y
+la de familiares sin nombre cuyas Casas no se han fijado. Los cambios de Casa
+y las marcas de canon velado vigentes mantienen su alcance.
+
+### Casas de personajes: fichas preliminares (2026-11-24)
+
+Se incorporaron fichas para las Casas históricas Aetheryon, Albyon y Coralyss,
+con sus integrantes y antecedentes establecidos, incluida su proscripción. Se
+enlazaron personajes con sus Casas y se registró como pendiente la pertenencia
+que no consta en el canon. Las entradas descanonizadas permanecen en custodia.
+
 ### Fichas complementarias de los Cuervos Grises (2026-11-24)
 
 Por autorización humana se crearon fichas para los elementos establecidos en

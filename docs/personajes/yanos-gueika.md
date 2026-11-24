@@ -17,7 +17,7 @@ Joven, contemporáneo de Sandor. De presencia sobria y práctica, sin la belleza
 
 ## Familia
 - **Kenvan Gueika** (padre): natural de Biormyr, Tierra de la Bruma. Fallecido. Era guardia, igual que Yanos. Murió por enfermedad repentina un año antes de que Yanos entrara como cadete. Despreciaba profundamente a su propio padre, Hugo Gueika.
-- **Freya Fenec** (madre): sturmgardiana del Valle de Hierro. Viuda, mujer común, madre de ocho hijos. Su matrimonio con un brumense fue inusual —las uniones entre el Hierro y la Bruma son rarísimas—, pero Freya nunca se arrepintió. Quedó impresionada por Sandor desde la primera visita. Se ilusiona en secreto con que Sandor y su hijo formalicen algo. Sandor le dijo que no planea casarse; ella no ha dejado de preguntar por él.
+- **Freya Fenec** (madre): sturmgardiana del Valle de Hierro, vinculada al apellido de la [Casa Fenec](../casas/fenec.md). Viuda, mujer común, madre de ocho hijos. Su matrimonio con un brumense fue inusual —las uniones entre el Hierro y la Bruma son rarísimas—, pero Freya nunca se arrepintió. Quedó impresionada por Sandor desde la primera visita. Se ilusiona en secreto con que Sandor y su hijo formalicen algo. Sandor le dijo que no planea casarse; ella no ha dejado de preguntar por él.
 - **Siete hermanos.** Familia numerosa, cálida, ruidosa, humilde y unida.
 - **Hugo Gueika** (abuelo paterno): Yanos nunca lo conoció. Su padre lo despreciaba profundamente. El motivo no está documentado.
 - **Familia paterna:** una tía y dos tíos por parte de padre a los que tampoco conoce. Yanos está alejado de la casa de su padre, pese a haber elegido pertenecer a ella.
@@ -39,7 +39,7 @@ Yanos desconoce que Sandor se declaró años antes a Armin Mormund y fue rechaza
 
 ## Relaciones
 - **Sandor Solarys:** Amistad cercana, ambigua, con una atracción mutua no declarada.
-- **Lander Kamus:** Amigo de infancia. Piromante. Representa la vida común y la espontaneidad que Sandor no posee.
+- **Lander Kamus:** Amigo de infancia de la [Casa Kamus](../casas/kamus.md). Piromante. Representa la vida común y la espontaneidad que Sandor no posee.
 - **Freya Fenec:** Su madre. Pregunta constantemente por Sandor.
 
 ## Referencias

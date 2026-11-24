@@ -1,6 +1,6 @@
 # Nairim Vezhari
 
-Maeghi de grado Maestro, Disonante extremo, Siniestro y miembro de los Cuervos
+Miembro de la [Casa Vezhari](../../casas/vezhari.md), Maeghi de grado Maestro, Disonante extremo, Siniestro y miembro de los Cuervos
 Grises de la Guardia Real de Lemuria. Su padre era lemuriano y su madre procedía
 de la Bruma. Creció en Kystvar, ingresó en la Guardia Real y fue destinado a
 Lemuria. Se presentó como el primer Portador siniestro de la isla.

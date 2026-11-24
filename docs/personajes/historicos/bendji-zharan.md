@@ -1,6 +1,6 @@
 # Bendji Zharan
 
-Invocador, Maeghi de grado Experto e integrante de los Cuervos
+Miembro de la [Casa Zharan](../../casas/zharan.md), Invocador, Maeghi de grado Experto e integrante de los Cuervos
 Grises de Lemuria. Hablador y socarrón, se llama a sí mismo la Brigada Bendji.
 En el rescate de la mansión Khan combatió y contuvo al Engendro de Sombra y
 retiró la garra que atravesaba el pecho de Iyuri.

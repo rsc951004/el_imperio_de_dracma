@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Segundo Raik de la Casa Valgard e hijo de Rudgar Valgard.
+Segundo Raik de la [Casa Valgard](../casas/valgard.md) e hijo de Rudgar Valgard.
 
 ## Historia
 

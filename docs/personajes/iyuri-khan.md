@@ -2,7 +2,7 @@
 
 ## Identidad y familia
 
-Iyuri Khan fue un Portador de la Casa noble Khan durante la dinastía Amschel y
+Iyuri Khan fue un Portador de la [Casa noble Khan](../casas/khan.md) durante la dinastía Amschel y
 es un Möes Maeghi.
 Hijo de Fhilippo Galenor y Mehrzaya Khan, era Hijo del Sol por su padre
 vespirio y sheijad por su madre lemuriana. Creció y se identificó

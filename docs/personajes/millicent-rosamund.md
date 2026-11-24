@@ -3,6 +3,7 @@
 ## Identidad
 
 Conocida como **Mili**, es la niña perdida de la Banda del Colmillo Blanco.
+Pertenece a la [Casa Rosamund](../casas/rosamund.md).
 Tiene quince años cuando integra la Célula 1466 de la Stroi Tábura. Es
 Invocadora y Quimerista.
 
@@ -34,3 +35,5 @@ Arystan y Ellis murieron luchando contra Mortis, un Grimm.
 - `docs/organizaciones/banda-del-colmillo-blanco.md`
 - `docs/personajes/imrik.md`
 - `docs/personajes/cerbero.md`
+- [Casa Valkyren](../casas/valkyren.md)
+- [Casa Rosamund](../casas/rosamund.md)

@@ -4,7 +4,7 @@
 Rey de **Lysarya** durante el reinado del emperador Edrik Mormund. Casa Albyon. Su hijo Eryk era amante secreto de Thalyssa Coralyss. Acusó a Zephyrya de asesinato cuando los jóvenes desaparecieron. Lideró a Lysarya en la invasión de Zephyrya. Ejecutado por el emperador tras la guerra. Su casa fue proscrita del Dex Códice.
 
 - **Origen:** Lysarya (Costas del Verano).
-- **Casa:** Albyon (proscrita, borrada de la historia).
+- **Casa:** [Albyon](../../casas/albyon.md) (proscrita, borrada de la historia).
 - **Época:** Reinado del emperador Edrik Mormund.
 - **Destino:** Ejecutado por orden imperial.
 

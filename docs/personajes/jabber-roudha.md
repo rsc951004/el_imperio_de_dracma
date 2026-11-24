@@ -2,7 +2,7 @@
 
 ## Identidad
 
-Miembro de la Sish Tábura de Khalos y autor de *Historia de Phardazul, el
+Miembro de la [Casa Roudha](../casas/roudha.md) y de la Sish Tábura de Khalos, autor de *Historia de Phardazul, el
 Reino de las Quimeras*.
 
 ## Referencias

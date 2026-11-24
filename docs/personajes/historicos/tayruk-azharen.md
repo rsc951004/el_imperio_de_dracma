@@ -1,6 +1,6 @@
 # Tayruk Azharen
 
-Tayruk Azharen, llamado Tuk, es un Invocador con dos dones conocidos: uno de
+Tayruk Azharen, llamado Tuk, pertenece a la [Casa Azharen](../../casas/azharen.md). Es un Invocador con dos dones conocidos: uno de
 sanación extraordinario y el Don de la Subyugación. Es Maeghi de grado Experto e integrante de los
 Cuervos Grises de Lemuria. Es brusco y burlón. Aspiraba a ser sanador, como su
 [padre](padre-de-tayruk-azharen.md); ambos y su hermano mayor son Invocadores. Tuk es un prodigio de la

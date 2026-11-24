@@ -1,6 +1,6 @@
 # Fey Gilmora
 
-Fey Gilmora, llamada Nana Fey, fue una Maeghi veranense retirada que había sido
+Fey Gilmora, llamada Nana Fey, perteneció a la [Casa Gilmora](../../casas/gilmora.md). Fue una Maeghi veranense retirada que había sido
 una reconocida cazadora de Grimm. Trabajó como cocinera de la familia Khan e Iyuri
 la recordaba con cariño desde la infancia.
 

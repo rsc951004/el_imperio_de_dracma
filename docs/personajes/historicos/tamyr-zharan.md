@@ -1,6 +1,6 @@
 # Tamyr Zharan
 
-Tamyr Zharan fue hermano de Bendji Zharan. Murió cuando la Corrupción anuló por
+Tamyr Zharan perteneció a la [Casa Zharan](../../casas/zharan.md) y fue hermano de Bendji Zharan. Murió cuando la Corrupción anuló por
 completo su ego. El Corrupto conservaba su aspecto, podía hablar como él y
 recordar su vida.
 
