@@ -49,6 +49,12 @@ Plata–Tiranía ya no se mantienen en esta lista.
 | **Casas fundadoras** | Completar la historia de las casas fundadoras de los doce reinos. |
 | **Casa Ormur y Alastor** | Precisar la ubicación histórica de la casa y los hechos de Alastor Ormur. |
 | **Möes Tábura** | Desarrollar su jerarquía, organización y trámites internos de clasificación. |
+| **Gran Reforma Maeghi** | Reservar la catástrofe relacionada con la Sombra, los acontecimientos concretos que desencadenaron la reforma y su cronología detallada. |
+| **Orden Amarilla** | Reservar su organización propia y desarrollo institucional. |
+| **Sinosoidín y Curia** | Desarrollar organización y procedimientos; precisar el alcance de su fiscalización sobre los Cuervos Grises. |
+| **Cortes Imperiales** | Desarrollar organización y procedimientos. |
+| **Santuaristas** | Desarrollar funciones, historia, integrantes y organización. |
+| **Cocodrilos de Mar** | Desarrollar la organización e historia de la orden. |
 | **Clasificaciones profesionales imperiales** | Precisar en el futuro sus categorías y procedimientos administrativos. Su existencia no se elimina por la autonomía de contratación de cada empleador. |
 | **Orden de la Flama Blanca** | Precisar las circunstancias de su formación por sectores exiliados, su estatus legal, estructura, integrantes, métodos, presencia territorial y relación con los clérigos. |
 | **Prohibición del culto a Thalmos en Dragma** | Mantener sin fijar el año exacto y las causas de la prohibición, establecida al final de las Guerras Místicas. |

@@ -1,5 +1,34 @@
 # Notas editoriales
 
+### Fichas complementarias de los Cuervos Grises (2026-11-24)
+
+Por autorización humana se crearon fichas para los elementos establecidos en
+la acumulación que aún no tenían entrada propia: el Sinosoidín, la Curia, las
+Cortes Imperiales, los Santuaristas, la Orden Amarilla, el Pequeño Consejo y sus
+cargos, la Gran Reforma Maeghi, las órdenes de Dragma y el Don de la Reducción.
+Se añadieron fichas de Tamyr, el hermano mayor de Tayruk y otros familiares y
+cargos identificados sin nombre. Los Cocodrilos de Mar conservaron su ficha y
+su condición de orden quedó precisada. Se actualizaron los índices y las
+referencias; los aspectos no definidos permanecen reservados.
+
+### Cuervos Grises y Gran Reforma Maeghi (2026-11-24)
+
+Por autorización humana se incorporaron las resoluciones y los detalles
+aprobados del proceso de Cuervos Grises. La orden, su origen en la Gran Reforma,
+su organización, cultura y relación con las guardias quedaron documentados;
+se conservaron el condicionamiento inicial en la Möes y la obligación anual de
+Recondicionamiento en Veleskaria. Se desarrollaron los antecedentes del equipo
+de Lemuria y la invitación a Iyuri, y el Don de la Reducción sustituyó el don
+elemental de Bendji.
+
+Se precisó la destrucción de Engendros mediante Fulgor, incluidas las armas
+místicas y la prueba de Exterminio, y la capacidad y activación parcial de
+Lazeroth. Se documentaron las funciones gremiales de la Grim Tábura y la
+distinción entre la Guardia y la Orden Amarilla. Quedan reservados la catástrofe
+y cronología detallada de la reforma, las condiciones exactas de Lazeroth, los
+detalles históricos y las instituciones fuera del alcance. Se conserva el canon
+velado de Astria y Erebia.
+
 ### Características identitarias de Lemuria (2026-11-23)
 
 Por autorización del autor se incorporaron las resoluciones R-01 a R-11 del

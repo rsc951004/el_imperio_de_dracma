@@ -2,7 +2,11 @@
 
 ## Tipo
 
-Orden defensiva y autoridad provisional de Esteria.
+Fuerza defensiva y autoridad provisional de Esteria.
+
+La Guardia Amarilla y la [Orden Amarilla](orden-amarilla.md) son organizaciones distintas. Todos los
+integrantes de la Guardia pertenecen a la Orden; esta también tiene miembros que
+no integran la Guardia.
 
 ## Historia
 

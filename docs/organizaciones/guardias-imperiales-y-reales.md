@@ -9,6 +9,11 @@ La Guardia Imperial es un cuerpo distinto con jurisdicción en todo el Imperio.
 Ambos tipos de guardia disponen de unidades especializadas, que pueden compartir
 una función sin tener necesariamente el mismo nombre u organización.
 
+Los Cuervos Grises son una orden autónoma cuyos integrantes pueden servir en
+unidades de las guardias o trabajar de forma independiente. Ante exigencias
+contrapuestas, la orden y la guardia buscan dialogar; en último término, la
+orden decide sobre sus miembros, dentro del marco de la Concordia.
+
 La población llama «guardia del rey» a un integrante de una Guardia Real y
 «guardia del emperador» a uno de la Guardia Imperial. Son denominaciones
 coloquiales de pertenencia, no rangos. Las guardias son instituciones de

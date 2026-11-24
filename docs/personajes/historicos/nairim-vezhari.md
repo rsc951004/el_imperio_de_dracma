@@ -38,8 +38,12 @@ afectación suele ser psicológica.
 Antes del condicionamiento Maeghi, Nairim era muy emocional, sensible,
 temeroso y asustadizo. Desde niño percibía Sombra Residual y advertía a
 personas en peligro de Corrupción; aquella percepción contribuyó al miedo que
-marcó su infancia. Después del condicionamiento desarrolló una Disonancia
-extrema, que acentuó su reserva y contención. No se establece una relación
+marcó su infancia. Gracias a su don la percibía como pequeñas figuras humanas
+sin rostro agrupadas en las paredes, que le susurraban cosas desagradables o
+amenazantes. Procuraba ignorarlas para evitar una conexión que pudiera llevar
+a una Incursión. Quiso ingresar en los Cuervos desde niño para
+vencer su miedo a la Sombra, a la que odiaba. Después del condicionamiento
+desarrolló una Disonancia extrema, que acentuó su reserva y contención. No se establece una relación
 causal necesaria entre su miedo infantil y esa condición.
 
 Nairim recuerda los acontecimientos de su infancia y sabe que sintió mucho
@@ -64,6 +68,13 @@ afecto, y su cercanía no demuestra que la Disonancia se debilite. Puede
 experimentar placer físico y sexual de gran intensidad, difícil de procesar.
 
 ## Tuk y Bendji
+
+Después de su condicionamiento, su familia lo veía como extraño. Una comparación
+hecha por [su padre](padre-de-nairim-vezhari.md) lo hirió. Nairim evita los cuarteles de la Guardia, entre
+otras razones por la privacidad de Tuk y Bendji. Los tres suelen dormir en el
+bosque o en la calle. Tras el rescate de Iyuri, Mehrzaya y Fhilippo les
+compraron una casa; la visitan regularmente y la reservan para descansar, pero
+no acostumbran pernoctar allí.
 
 Nairim aprecia profundamente a Tuk y Bendji. Con ellos encontró amistades libres
 del juicio que había dificultado sus relaciones desde antes de ingresar en la

@@ -1,6 +1,6 @@
 # Bendji Zharan
 
-Invocador elemental, Maeghi de grado Experto e integrante de los Cuervos
+Invocador, Maeghi de grado Experto e integrante de los Cuervos
 Grises de Lemuria. Hablador y socarrón, se llama a sí mismo la Brigada Bendji.
 En el rescate de la mansión Khan combatió y contuvo al Engendro de Sombra y
 retiró la garra que atravesaba el pecho de Iyuri.
@@ -14,6 +14,14 @@ costumbres de otros territorios de Dragma le resultan extrañas.
 Durante parte de su formación Maeghi vivió fuera de Lemuria y convivió con
 personas de diversos territorios imperiales. Sus experiencias contribuyeron a
 su manera desenvuelta de relacionarse.
+
+## Don de la Reducción
+
+Con el [Don de la Reducción](../../mundo/stigria/don-de-la-reduccion.md), Bendji puede reducir el tamaño de armas y otros objetos inanimados, junto con
+su peso, que no desaparece por completo. Los lleva físicamente consigo y puede
+devolverlos a su tamaño original mediante un gesto o una palabra corta. El don
+le permite transportar un gran arsenal; su destreza determina cómo utiliza cada
+arma.
 
 ## Relaciones con Tuk y Nairim
 
@@ -60,10 +68,30 @@ Bendji o en Nairim durante el encuentro.
 
 ## Tamyr Zharan
 
-Ante su madre, Bendji afrontó lo que quedaba de su hermano Tamyr Zharan. El Corrupto
+Ante su madre, Bendji afrontó lo que quedaba de su hermano [Tamyr Zharan](tamyr-zharan.md). El Corrupto
 podía tener el aspecto de Tamyr, hablar como él y conservar sus recuerdos.
 Tamyr, el hermano de Bendji y el hijo que su madre había perdido, había muerto
 cuando la Corrupción anuló por completo su ego.
+
+Bendji recomendó eliminar al Corrupto sin mayor intento de salvarlo. [Su madre](madre-de-bendji-zharan.md) le
+recrimina lo sucedido y ambos se distanciaron profundamente; él evita mantener
+mucho contacto con ella porque sus conversaciones terminan en esa recriminación.
+
+## La invitación a Iyuri
+
+Después del rescate en la mansión Khan, el Pequeño Consejo ofreció a Iyuri
+ingresar en los Cuervos Grises y él declinó amablemente. El Cuervo Consultor,
+hermano mayor de Tuk, ordenó a Bendji seducirlo para atraerlo a la orden y
+perjudicar la relación entre Bendji y Tuk. Desconocía que la relación de los
+amantes era en cierta medida libre. Tuk le dijo a Bendji que, si era una orden,
+debía obedecer; Bendji se negó porque la seducción pertenecía a su vida íntima.
+Estaba dispuesto a desobedecer o dejar la orden. El Cuervo Maestro intervino y
+rechazó la maniobra.
+
+El equipo suele dormir en el bosque o en la calle. Tras el rescate, Mehrzaya y
+Fhilippo les compraron una casa a los tres. La visitan regularmente y la reservan
+para descansar, pero están acostumbrados a dormir fuera y no pernoctan allí
+habitualmente.
 
 ## Referencias
 

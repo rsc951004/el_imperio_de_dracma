@@ -61,6 +61,11 @@ recibidos ni admirados.
 No se fijan años, campañas, participantes individuales ni una ubicación más
 precisa de la Aniquilación dentro de la Segunda Dinastía.
 
+Como consecuencia de las Guerras Místicas tuvo lugar la [Gran Reforma Maeghi](../gran-reforma-maeghi.md).
+Durante ella surgieron los Cuervos Grises por una escisión de la Möes Tábura.
+Los acontecimientos concretos que desencadenaron la reforma y su cronología
+detallada permanecen reservados.
+
 ## Referencias
 
 - `docs/mundo/stigria/dragma/dragma.md`
@@ -74,3 +79,5 @@ precisa de la Aniquilación dentro de la Segunda Dinastía.
 - `docs/mundo/stigria/phardazul-raik.md`
 - `docs/entidades/portadores.md`
 - `docs/organizaciones/orden-de-la-flama-blanca.md`
+- [Möes Tábura](../../../taburas/moes-tabura.md)
+- [Cuervos Grises](../../../organizaciones/cuervos-grises.md)

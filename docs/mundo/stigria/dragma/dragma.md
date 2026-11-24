@@ -19,7 +19,12 @@ Cada territorio imperial cuenta con una Guardia Real de seguridad interior,
 incluidos los reinos, protectorados y Khalos. La Guardia Imperial es un cuerpo
 distinto con jurisdicción en todo el Imperio. Sus integrantes son agentes de
 seguridad y sus cuerpos son distintos de los ejércitos. Ambos disponen de
-unidades especializadas, entre ellas los Cuervos Grises contra la Sombra.
+unidades especializadas en las que sirven miembros de los Cuervos Grises,
+orden autónoma dedicada a combatir la Sombra. Los ejércitos, las guardias y
+los custodios cumplen funciones distintas: soldados, agentes de seguridad y
+protectores personales, respectivamente. Entre algunos Sangre de Hierro se
+orienta a los hijos hacia estos oficios, que ejercen personas de todas las
+subetnias de Dragma.
 
 El imperio se compone de cuatro tipos de entidad territorial:
 

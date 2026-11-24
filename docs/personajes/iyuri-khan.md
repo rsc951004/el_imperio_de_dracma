@@ -8,6 +8,7 @@ Hijo de Fhilippo Galenor y Mehrzaya Khan, era Hijo del Sol por su padre
 vespirio y sheijad por su madre lemuriana. Creció y se identificó
 culturalmente con Lemuria. Era hermano de Leyza Khan y descendiente directo del
 itinerante Rasmus Galenor. Su familia lo registró como Vinculado en la infancia.
+Era profundamente ishbaalano.
 
 Era lemuriano de Sangre Nueva. Durante su infancia acompañó a Fhilippo en
 numerosos viajes marítimos y conoció las Costas del Verano y a su familia
@@ -87,6 +88,14 @@ reconstruyó su corazón, pulmones, demás órganos afectados y piel.
 Finalmente, Nairim sometió al Engendro y lo introdujo en su Pozo de
 Sombras. Los tres fueron indispensables. Iyuri llegó a conocer todos los
 detalles del rescate y se los contó después a Rendard Steinert.
+
+En la mansión había recurrido a Lazeroth, la espada mística de Fhilippo. Sus
+súplicas activaron parcialmente el arma: el Fulgor hirió al Engendro y permitió
+salvar a su padre. Lazeroth tenía potencia suficiente para destruirlo, pero
+Iyuri no consiguió activar plenamente su mecanismo.
+
+Después del rescate, el Pequeño Consejo de los Cuervos le ofreció ingresar en
+la orden. Iyuri rechazó la invitación amablemente.
 
 El suyo es el único caso documentado en la historia del Imperio de
 supervivencia a una Semilla Oscura. Su sello de Andromalius tenía la forma

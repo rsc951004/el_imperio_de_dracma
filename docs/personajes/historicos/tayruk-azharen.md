@@ -3,7 +3,7 @@
 Tayruk Azharen, llamado Tuk, es un Invocador con dos dones conocidos: uno de
 sanación extraordinario y el Don de la Subyugación. Es Maeghi de grado Experto e integrante de los
 Cuervos Grises de Lemuria. Es brusco y burlón. Aspiraba a ser sanador, como su
-padre; ambos y su hermano mayor son Invocadores. Tuk es un prodigio de la
+[padre](padre-de-tayruk-azharen.md); ambos y su hermano mayor son Invocadores. Tuk es un prodigio de la
 sanación.
 
 Es un lemuriano pardisiano. Tiene piel clara, rostro algo redondeado y facciones
@@ -42,6 +42,14 @@ hogar contribuyeron a su rechazo. Los Cuervos Grises lo
 incorporaron por su gran potencial, en especial por sus capacidades de
 sanación. Con esfuerzo consiguió recuperar el control de su respuesta y de su
 vida cotidiana.
+
+Su [hermano mayor](hermano-mayor-de-tayruk-azharen.md) había sentido celos de su prodigioso don de sanación, que
+también poseía su padre, y resentimiento porque Tuk era el hijo favorito pese
+a ser menor. Casi celebró el rechazo familiar posterior a los problemas de
+Tuk. Ya pertenecía a los Cuervos y se opuso al ingreso de su hermano, al que
+consideraba una decepción; sintió que Tuk invadía su terreno y desde entonces
+ha intentado herirlo o perjudicarlo cuando ha podido. También desprecia
+profundamente a Bendji.
 
 En el presente, su respuesta erótica condicionada puede activarse en contextos
 de camaradería, descanso, desahogo del estrés o afecto con otros Maeghi. Que la
@@ -111,6 +119,20 @@ desee no implica que actúe sexualmente cada vez que siente deseo.
 Tuk, Bendji y Nairim conservan vínculos afectivos profundos. La cercanía de
 Nairim con ambos no demuestra que su Disonancia se haya debilitado; sus
 decisiones y límites sobre la intimidad se registran en su ficha.
+
+El hermano mayor de Tuk era el Cuervo Consultor cuando el Pequeño Consejo
+ofreció a Iyuri ingresar en la orden tras el rescate. Iyuri rechazó la
+invitación. El Consultor ordenó a Bendji seducirlo para reclutarlo y dañar la
+relación de los amantes, sin saber que esta era en cierta medida libre. Tuk
+aconsejó a Bendji obedecer si era una orden, pero Bendji se negó y estaba
+dispuesto a dejar los Cuervos: consideraba la seducción parte de su intimidad.
+El Maestro rechazó la maniobra. El Consultor sufrió pocas consecuencias y
+conservó su puesto; su extraordinario poder y habilidad como Invocador lo
+hacían valioso para la orden.
+
+Tuk, Bendji y Nairim suelen dormir en el bosque o en la calle. Después del
+rescate, Mehrzaya y Fhilippo les compraron una casa que visitan y reservan para
+descansar; acostumbrados a dormir fuera, no pernoctan allí habitualmente.
 
 ## Referencias
 

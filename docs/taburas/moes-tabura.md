@@ -12,6 +12,15 @@ libertad. Algunos permanecieron voluntariamente como cazadores de Grimm; otros
 se quedaron en el Norte sin continuar esa labor y muchos de ellos formaron la
 Möes Tábura.
 
+## Gran Reforma Maeghi
+
+La [Gran Reforma Maeghi](../mundo/stigria/gran-reforma-maeghi.md), consecuencia
+de las Guerras Místicas, transformó la Möes. Durante ella se experimentó con
+vinculados para someterlos; hubo personas que murieron o quedaron dañadas. El
+período dio lugar a la escisión que fundó los Cuervos Grises. Su cronología
+detallada y los acontecimientos concretos que la desencadenaron permanecen
+reservados.
+
 ## Tradición
 
 El sistema Maeghi es un desarrollo propiamente dracmasí y forma parte de la
@@ -102,8 +111,9 @@ académica como los promedios.
   entorno controlado y exige sobrevivir. La evaluación también considera las
   decisiones del aspirante y su desempeño ante las circunstancias; sobrevivir
   es necesario, pero no suficiente. Destruir al engendro tampoco basta por sí
-  solo para aprobar y no es un requisito. La destrucción solo es posible si
-  un Fulgurante realiza la prueba o integra el equipo que la lleva a cabo.
+  solo para aprobar y no es un requisito. El Fulgor puede destruirlo, ya
+  proceda de un Fulgurante o de un arma mística con potencia suficiente que
+  su usuario consiga activar correctamente.
   Puede rendirse en solitario o en equipos de hasta tres.
 
 Maestro reconoce una trayectoria profesional de años. Requiere la nominación
@@ -169,3 +179,5 @@ reconocimiento la unanimidad exigida para el grado de Maestro.
 - `docs/mundo/stigria/edad-de-la-tirania.md`
 - `docs/mundo/stigria/moes-maeghi.md`
 - `docs/personajes/iyuri-khan.md`
+- [Cuervos Grises](../organizaciones/cuervos-grises.md)
+- [Guerras Místicas](../mundo/stigria/dragma/guerras-misticas.md)

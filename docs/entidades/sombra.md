@@ -34,7 +34,7 @@ El Santuario puede repeler la Incursión, especialmente si el afectado se aleja 
 
 Un **Engendro de Sombra** es una criatura de fuerza y poder extraordinarios. Ansía muerte y destrucción y se alimenta por igual de Vinculados y no Vinculados. Tiene conducta propia y carece de recuerdos, intenciones y motivos humanos heredados. Su presencia produce Sombra Residual muy corruptiva y provoca Incursiones y Toques rápidos e intensos entre los Vinculados cercanos.
 
-Su conducta es depredadora. No busca producir otros Engendros y suele matar a sus víctimas antes de que eso pueda suceder. Solo los místicos con gran poder de combate pueden contenerlo. **Solo los Fulgurantes pueden eliminarlo definitivamente.** Puede vagar indefinidamente hasta que la presencia de vida reactive el hambre de carne fresca y el impulso destructivo. El paso del tiempo no lo envejece, pudre ni mata. Por regla general, la virulencia aumenta de Tocados a Engendros y de estos a Mobius.
+Su conducta es depredadora. No busca producir otros Engendros y suele matar a sus víctimas antes de que eso pueda suceder. Solo los místicos con gran poder de combate pueden contenerlo. El Fulgor puede eliminarlo definitivamente, ya proceda de un Fulgurante o de un arma mística con potencia suficiente que su usuario consiga activar correctamente. Cualquier persona, incluso sin vínculo, puede utilizar un arma capaz de ello. Puede vagar indefinidamente hasta que la presencia de vida reactive el hambre de carne fresca y el impulso destructivo. El paso del tiempo no lo envejece, pudre ni mata. Por regla general, la virulencia aumenta de Tocados a Engendros y de estos a Mobius.
 
 ## Siniestros
 

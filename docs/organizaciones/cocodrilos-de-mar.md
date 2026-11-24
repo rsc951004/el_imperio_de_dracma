@@ -2,9 +2,7 @@
 
 ## Tipo
 
-Orden o especialidad de custodios vinculada al trabajo en el mar. El canon
-disponible no permite precisar si la denominación describe una orden formal,
-una especialidad profesional o ambas cosas.
+Orden vinculada a la especialidad de custodios y al trabajo en el mar.
 
 ## Características
 
@@ -14,4 +12,5 @@ a los Cocodrilos de Mar. La especialidad exige grado Adepto o superior.
 ## Referencias
 
 - [Custodios](../mundo/stigria/custodios.md)
+- [Órdenes de Dragma](../mundo/stigria/ordenes-de-dragma.md)
 - [El custodio imperial](../../fragmentos/saga-de-iyuri-khan/el-custodio-imperial.md)

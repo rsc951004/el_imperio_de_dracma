@@ -12,6 +12,10 @@ esclavos. Sus condiciones de uso dependen del artefacto: algunas requieren
 palabras, plegarias o devoción y muchas están vinculadas a los Hijos del Sol;
 algunas solo pueden ser utilizadas plenamente por ellos.
 
+Un arma imbuida con Fulgor suficiente puede destruir definitivamente un
+Engendro de Sombra si su usuario consigue activarla correctamente, incluso si
+no es Vinculado. La potencia y las condiciones de uso dependen del artefacto.
+
 El sello de Andromalius es una marca mística invisible inscrita en la piel,
 generalmente en la espalda. Detecta presencia sombría cuando su portador es un
 Vinculado, pero no diagnostica por sí solo el Toque. Puede causar zumbidos,

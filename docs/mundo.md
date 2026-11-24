@@ -83,6 +83,8 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Custodios | Profesión | Guardias personales, asistentes y acompañantes profesionales imperiales o reales. | [Ver ficha](mundo/stigria/custodios.md) |
 | Don del Caos | Don de Portador | Permite manifestaciones elementales sin requerir necesariamente una fuente externa. | [Ver ficha](mundo/stigria/don-del-caos.md) |
 | Don Elemental | Don | Su uso depende de un elemento presente. | [Ver ficha](mundo/stigria/don-elemental.md) |
+| Don de la Reducción | Don | Reduce el tamaño y peso de objetos inanimados. | [Ver ficha](mundo/stigria/don-de-la-reduccion.md) |
+| Órdenes de Dragma | Instituciones | Órdenes especializadas con dirección centralizada. | [Ver ficha](mundo/stigria/ordenes-de-dragma.md) |
 | Índice Molokai | Registro estadístico | Porcentajes de ocurrencia de dones entre Vinculados registrados. | [Ver ficha](mundo/stigria/indice-molokai.md) |
 | Desfase | Fenómeno místico | Alteraciones que impiden experimentar o usar el don normalmente. | [Ver ficha](mundo/stigria/desfase.md) |
 | Santuario del Alma | Defensa activa | Ejercicio consciente de defensa contra la Sombra. | [Ver ficha](mundo/stigria/santuario-del-alma.md) |
@@ -153,6 +155,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | La Concordia | Reformas | Cuerpo de reformas de Vilem Mormund que refundaron el pacto social del imperio. | [Ver ficha](mundo/stigria/dragma/concordia.md) |
 | Stamengherin | Institución | Asamblea extraordinaria que resuelve cambios dinásticos y puede reformar la estructura territorial o política del imperio. | [Ver ficha](mundo/stigria/dragma/stamengherin.md) |
 | Guerras Místicas | Conflicto histórico | Sucesión de conflictos internos durante la Segunda Dinastía, culminada por la Aniquilación. | [Ver ficha](mundo/stigria/dragma/guerras-misticas.md) |
+| Gran Reforma Maeghi | Reforma histórica | Transformación de la Möes tras las Guerras Místicas, durante la cual surgieron los Cuervos Grises. | [Ver ficha](mundo/stigria/gran-reforma-maeghi.md) |
 | Casa Rheiner | Casa noble | Linaje de Drommdurr al que perteneció Leandrin. | [Ver ficha](casas/rheiner.md) |
 | Casa Galenor | Casa común | Familia comerciante numerosa y ramificada a la que perteneció Rasmus Galenor. | [Ver ficha](casas/galenor.md) |
 | Casa Khan | Casa noble | Casa lemuriana secular de ascendencia sheijad. | [Ver ficha](casas/khan.md) |

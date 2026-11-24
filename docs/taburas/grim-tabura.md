@@ -2,7 +2,7 @@
 
 ## Tipo
 
-Tábura independiente de Khalos.
+Tábura independiente de Khalos y gran gremio voluntario de cazadores de Grimm.
 
 ## Función
 
@@ -19,6 +19,11 @@ defensa. Cambiar a este oficio no exige una licencia adicional.
 Las escuelas de Veleskaria forman cazadores destinados a la Tábura y también
 cazadores independientes. La formación regional no implica pertenencia
 automática a la institución.
+
+El gremio reúne y entrena a sus integrantes, perfecciona sus técnicas y recopila,
+preserva y comparte los conocimientos de los cazadores. Documenta sus encuentros
+con los Grimm y estudia a estas criaturas. Existen cazadores independientes que
+ejercen sin pertenecer al gremio.
 
 ## Alcance
 

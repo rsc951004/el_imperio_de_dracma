@@ -14,9 +14,10 @@ recomienda alejarse del foco y buscar cuanto antes a un Siniestro. El sello
 de Andromalius alerta de presencia sombría, pero por sí solo no diagnostica
 el Toque. El Mar de Dirak indica una Semilla Oscura ya formada.
 
-La contención de un Engendro exige gran poder de combate. Solo los
-Fulgurantes pueden eliminarlo definitivamente. La captura en un Pozo de
-Sombras contiene a la criatura. La Corrupción que ya había dejado en el
+La contención de un Engendro exige gran poder de combate. El Fulgor puede
+eliminarlo definitivamente, mediante un Fulgurante o un arma mística con
+potencia suficiente que cualquier persona consiga activar correctamente. La
+captura en un Pozo de Sombras contiene a la criatura. La Corrupción que ya había dejado en el
 entorno requiere atención propia. En la mansión Khan, los Cuervos Grises
 limpiaron el lugar después de la captura. Los tres rescatistas Tocados fueron
 aislados individualmente para contener la posible Corrupción, impedir su

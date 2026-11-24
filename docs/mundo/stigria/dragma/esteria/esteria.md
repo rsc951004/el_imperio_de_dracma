@@ -38,6 +38,9 @@ Guardia Amarilla ejerce provisionalmente las funciones de ambos cargos y
 administra la ciudad. La institución espera la llegada de un nuevo Portador
 Solar, que todavía no se ha producido en la Edad de Oro.
 
+Todos los integrantes de la Guardia Amarilla pertenecen a la Orden Amarilla,
+una organización distinta que también admite miembros fuera de la Guardia.
+
 ## Roshdom
 
 En el año **-193**, diez años después de la proclamación Carmesí, Iulien partió desde Esteria con

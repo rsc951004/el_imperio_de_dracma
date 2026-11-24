@@ -63,6 +63,10 @@ números positivos:
 | **Año +1350** | Comienza la dinastía Pavel. Termina la dinastía Amschel. |
 | **Año +1680** | Presente narrativo. El Imperio de Dragma continúa en la Edad de Oro bajo la dinastía Pavel. |
 
+Como consecuencia de las Guerras Místicas tuvo lugar la Gran Reforma Maeghi;
+durante ella se fundaron los Cuervos Grises. Su cronología detallada permanece
+reservada.
+
 ## Eras de Stigria
 
 | Era | Inicio | Fin |
