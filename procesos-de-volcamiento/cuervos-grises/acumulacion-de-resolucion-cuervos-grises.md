@@ -87,3 +87,18 @@ La obligación legal de prestar auxilio frente a la Sombra corresponde a los Sin
 La aceptación o negativa de una asignación de los Cuervos Grises pertenece al ámbito disciplinario interno de la orden y no modifica las obligaciones legales de sus integrantes.
 
 Ambas disposiciones coexisten. Se conserva el canon vigente.
+
+### R-09 — Grim Tábura y cazadores independientes (AU-09)
+
+**Estado: cerrado con reserva.**
+
+La Grim Tábura es un gran gremio de cazadores de Grimm, de pertenencia voluntaria. Sus funciones comprenden:
+
+- Reunir a los cazadores de Grimm.
+- Entrenar a sus integrantes y perfeccionar sus técnicas.
+- Recopilar, preservar y compartir los conocimientos adquiridos por los cazadores.
+- Documentar sus encuentros con los Grimm y estudiar estas criaturas.
+
+La Grim Tábura no cumple una función de acreditación académica y profesional equivalente a la Möes Tábura. Existen cazadores independientes que ejercen el oficio sin pertenecer al gremio.
+
+Su jerarquía, métodos específicos y organización interna permanecen reservados para un desarrollo posterior.
