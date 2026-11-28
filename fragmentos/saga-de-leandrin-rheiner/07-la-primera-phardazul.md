@@ -1,5 +1,5 @@
 <!-- Borrador para revisión -->
-# 01. La primera Phardazul
+# 07. La primera Phardazul
 
 Los gheran conocían los caminos de la Llanura de los Salvajes. La cruzaban con sus familias mientras, lejos de allí, los barcos atracaban en la costa occidental y los señores de Ceniza acudían a la corte de Askenburg. Fue en aquella llanura del interior de Flammen donde Leandrin decidió quedarse. La gente que oyó hablar de su asentamiento empezó a llamarla Phardazul Raik. Algunos sabían que se llamaba Leandrin.
 

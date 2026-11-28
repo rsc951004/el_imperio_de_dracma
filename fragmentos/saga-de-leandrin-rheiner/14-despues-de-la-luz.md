@@ -1,5 +1,5 @@
 <!-- Borrador para revisión -->
-# 08. Después de la luz
+# 14. Después de la luz
 
 Letho cayó de rodillas, respirando con dificultad.
 

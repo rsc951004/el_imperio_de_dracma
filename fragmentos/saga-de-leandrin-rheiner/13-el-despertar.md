@@ -1,5 +1,5 @@
 <!-- Borrador para revisión -->
-# 07. El despertar
+# 13. El despertar
 
 Y entonces, Leandrin salió despedida de Agra.
 

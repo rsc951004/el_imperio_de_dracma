@@ -1,5 +1,5 @@
 <!-- Borrador para revisión -->
-# 03. El cerco
+# 09. El cerco
 
 Veinte mil combatientes se reunieron en Drommdurr. Mientras los abanderados de Gunther movilizaban sus tropas, Leandrin pidió en secreto la ayuda de los gheran. Cuando las casas emprendieron la marcha, los nómades ya conocían su cometido. Uno tras otro cortaron los caminos que abastecían a la guarnición. Letho, que había creído poder conservar Phardazul sin pedir refuerzos, vio aparecer los estandartes ante los muros.
 

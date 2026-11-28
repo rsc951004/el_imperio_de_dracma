@@ -1,5 +1,5 @@
 <!-- Borrador para revisión -->
-# 10. Dos reinos
+# 16. Dos reinos
 
 Pero había algo en los relatos de los doscientos cinco supervivientes que perturbaba profundamente a los habitantes de Ceniza.
 

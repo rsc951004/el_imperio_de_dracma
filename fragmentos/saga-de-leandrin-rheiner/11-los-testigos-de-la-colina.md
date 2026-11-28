@@ -1,5 +1,5 @@
 <!-- Borrador para revisión -->
-# 05. Los testigos de la colina
+# 11. Los testigos de la colina
 
 La gran pantera negra observaba en silencio el espectáculo de horror que se desplegaba sobre la Llanura Salvaje. Desde allí se veía la inmensa bóveda oscura alzarse sobre Phardazul, y dentro de ella el parpadeo febril de las antorchas, los destellos del acero y el movimiento caótico de una matanza que ya no pertenecía al reino de los hombres.
 

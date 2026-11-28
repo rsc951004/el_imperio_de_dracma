@@ -1,5 +1,5 @@
 <!-- Borrador para revisión -->
-# 06. El corazón de la oscuridad
+# 12. El corazón de la oscuridad
 
 Leandrin se abrió paso hasta la fortaleza. Gunther fue detrás de ella.
 

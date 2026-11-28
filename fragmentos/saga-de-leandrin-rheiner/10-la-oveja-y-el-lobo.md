@@ -1,5 +1,5 @@
 <!-- Borrador para revisión -->
-# 04. La oveja y el lobo
+# 10. La oveja y el lobo
 
 —Niña estúpida. Nos has traído a la boca del lobo.
 

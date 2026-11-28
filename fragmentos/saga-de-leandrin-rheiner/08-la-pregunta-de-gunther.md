@@ -1,5 +1,5 @@
 <!-- Borrador para revisión -->
-# 02. La pregunta de Gunther
+# 08. La pregunta de Gunther
 
 Cinco años antes del regreso de Leandrin a Drommdurr, la joven desapareció en circunstancias que su padre jamás consiguió esclarecer.
 
