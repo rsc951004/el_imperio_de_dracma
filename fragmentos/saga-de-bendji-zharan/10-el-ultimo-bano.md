@@ -18,7 +18,7 @@ Se dio media vuelta, dándole la espalda. Tuk lo tomó del brazo y lo hizo girar
 
 Bendji escuchó aquel «por favor» y, aunque Tuk no había utilizado su Don, subió al ascensor como si una fuerza mística se lo hubiese ordenado.
 
-El descenso fue incómodo y transcurrió en absoluto silencio. Bendji observaba a Tuk por el rabillo del ojo. El joven lemuriano tenía el cabello considerablemente más largo que la última vez que lo había visto, aunque no tanto como el de Nairim. A diferencia del de su nuevo mejor amigo, el cabello de Tuk lucía descuidado, opaco y quebradizo.
+El descenso fue incómodo y transcurrió en absoluto silencio. Bendji observaba a Tuk por el rabillo del ojo. El joven lemuriano tenía el cabello considerablemente más largo que en aquellos días en que Tuk iba a visitarlo a la academia, aunque no tanto como el de Nairim. A diferencia del de su nuevo mejor amigo, el cabello de Tuk lucía descuidado, opaco y quebradizo.
 
 Y aquello era apenas una pequeña parte de su deteriorado aspecto. Lucía demacrado y ojeroso. Cualquiera que lo viera habría pensado que estaba enfermo.
 
@@ -76,7 +76,7 @@ Vertió un poco del líquido de un frasco en sus manos y comenzó a esparcirlo p
 
 —También se supone que te tocaba visitarme a ti después de la última vez que nos vimos, señor Tayruk Azharen —respondió Bendji, apretándole juguetonamente la nariz.
 
-Bendji sentía entre sus brazos la fragilidad del cuerpo de Tuk. Era la primera vez que siquiera lo abrazaba, mucho menos que sentía su piel contra la suya. Después de todo, jamás habían sido algo más que amigos.
+Bendji sentía entre sus brazos la fragilidad del cuerpo de Tuk. Hasta aquel día nunca había tenido a Tuk desnudo entre sus brazos. Después de todo, jamás habían sido algo más que amigos.
 
 Resultaba curioso que hubiese compartido muchas más muestras de afecto físico con Nairim que con Tuk, de quien llevaba años enamorado.
 

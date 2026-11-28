@@ -54,7 +54,7 @@ Bendji se acercó al anciano.
 
 —¿Cómo se llama? Quizás haya oído hablar de él.
 
-—Nairim… algo. Por lo poco que logré sacarle, es lemuriano como tú, pero ha vivido toda su vida en la Bruma. Es Disonante, ¿sabes? Sus profesores dicen que habla muy poco, pero que es muy hábil.
+—Nairim… algo. Por lo poco que logré sacarle, su padre es lemuriano, como tú. Su madre es de la Bruma y él se crio allí. Es Disonante, ¿sabes? Sus profesores dicen que habla muy poco, pero que es muy hábil.
 
 —Bueno, ya está. Es lo que es. Dame un abrazo, muchacho. Estoy orgulloso de ti y espero que sigas tu camino hacia el éxito que te mereces. Ahora me volveré a Sindria. Cuídate mucho.
 
@@ -74,7 +74,7 @@ Bendji la abrió y contempló el pase. Estaba viejo y deteriorado, y el emblema 
 
 ¿Y por qué lo había guardado si no quería ceder ante sus impulsos? ¿Por qué lo había atesorado como si fuera un regalo preciado?
 
-Porque lo había recibido aquel día. El día en que había quedado perdidamente enamorado de Tuk.
+Porque cada vez que lo miraba volvía a aquel viaje a Lemuria. Todavía sentía la mano de Tuk en la mejilla. Para cuando Emmerik les dio los pases, Bendji ya estaba perdidamente enamorado de él.
 
 *Disciplina y un carajo. Soy un hipócrita. Solo lo guardé porque pensé que vendrías a mí, que, si esperaba lo suficiente, volverías. Que, si te daba tu espacio, algún día verías que soy digno de ti. Pero ¿sabes qué? ¡Al carajo! ¡Al carajo contigo!*
 

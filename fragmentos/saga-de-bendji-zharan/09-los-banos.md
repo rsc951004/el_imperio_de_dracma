@@ -202,14 +202,6 @@ Bendji salió como de un trance, sin comprender qué había sucedido.
 
 —¿Un qué?
 
-Nairim se agachó frente a Bendji y aplaudió con fuerza en su cara.
-
-Bendji salió como de un trance, sin comprender qué había sucedido.
-
-—Nunca había conocido a un Subyugante antes. ¿Lo conoces?
-
-—¿Un qué?
-
 —¿Por qué no quiso hablar conmigo?
 
 Bendji yacía triste en su cama, con una almohada cubriéndole el rostro, mientras Nairim meditaba sobre la suya con las piernas cruzadas.

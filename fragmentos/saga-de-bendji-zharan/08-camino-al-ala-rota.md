@@ -52,6 +52,10 @@ Bendji miró sorprendido a su nuevo compañero y luego a Emmerik. Ambos se parti
 
 Frente a ellos, en medio de aquella vasta llanura blanca, un punto gris comenzaba a hacerse cada vez más grande, mientras el carromato, como por encanto, adquiría mayor velocidad.
 
+—Antes de que lleguemos, Bendji, te debo una disculpa.
+
+—¿Por qué, maestro?
+
 Emmerik se puso su máscara de Cuervo Gris.
 
 —Será mejor que hagas esa manta más grande, Bendji, si quieres conservar tus orejas.
@@ -70,7 +74,7 @@ Bendji hizo desaparecer la manta y, en su lugar, materializó un gigantesco edre
 
 —¿Así cómo?
 
-—Prejuicioso. No asumas cosas de mí solo porque no soy de Lemuria. Solo quería decir que me cuesta entender a las personas, es todo.
+—Prejuicioso. No asumas cosas de mí solo porque crecí en la Bruma. Solo quería decir que me cuesta entender a las personas, es todo.
 
 Nairim se acercó un poco más a Bendji.
 

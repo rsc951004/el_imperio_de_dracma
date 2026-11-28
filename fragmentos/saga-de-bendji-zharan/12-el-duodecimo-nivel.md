@@ -4,7 +4,7 @@
 
 La aflicción de Nairim había alcanzado tal magnitud que estuvo a punto de provocar una Incursión. De no haber sido por los sistemas de alerta del Ala Rota y la oportuna intervención del maestro Emmerik, su vida podría haberse visto seriamente comprometida.
 
-El joven había sido recluido en el duodécimo nivel subterráneo de la fortaleza, donde se le había colocado un velo negro cubierto de inscripciones doradas, conocido como el Velo del Ostracismo. Aquel artefacto impedía a los Siniestros percibir la Sombra, pero, a su vez, anulaba por completo sus sentimientos y emociones.
+El joven había sido recluido en el duodécimo nivel subterráneo de la fortaleza, donde se le había colocado un velo negro cubierto de inscripciones doradas, conocido como el Velo del Ostracismo. El velo protegía a Nairim de la influencia de la Sombra que escapaba a su dominio. Las sombras que ya había sometido seguían obedeciéndole por entero.
 
 Entretanto, Bendji recordó repentinamente que debía ir en busca de su amigo.
 
@@ -58,8 +58,8 @@ Finalmente, cuando estaba a punto de abandonar el Ala Rota, Bendji consiguió ll
 
 Allí, en una inmensa cámara vacía, encontraron a Nairim suspendido en posición fetal dentro de una enorme esfera de líquido negro. Había construido su propio Mar de Dirak, sirviéndose de las innumerables sombras sometidas a su voluntad.
 
-Al despertar y descubrir a Bendji y Tuk juntos frente a él, Nairim terminó por perder el control.
+Nairim despertó y los vio juntos. Volvió a sentir el dolor que lo había llevado a encerrarse allí. Como Disonante, le costaba manejar una emoción tan intensa. Esta vez lo desbordó y arremetió contra los dos.
 
-Sin embargo, esta vez, con la ayuda de Tuk, Bendji consiguió llegar hasta su amigo y devolverlo finalmente a la normalidad.
+Con la ayuda de Tuk, Bendji consiguió que su amigo volviera en sí.
 
 Y fue así como comenzó aquella singular amistad entre Bendji Zharan, Tayruk Azharen y Nairim Vezhari.
