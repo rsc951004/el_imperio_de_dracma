@@ -1,7 +1,7 @@
 <!-- Borrador para revisión -->
 # 05. El precio de Ose
 
-Sirene se llevó a Leandrin a una cueva. Tenía los ojos hinchados, la cara deformada por los golpes y quemaduras en el cuerpo. Podría curarla allí y presentarse en Fernigard con la misma hija que habían visto por última vez en la fiesta. Había dedicado años a hacer de Leandrin la mujer que quería llevar ante la corte. Ni siquiera Gunther tenía por qué verla así.
+Sirene se llevó a Leandrin a una cueva. Tenía los ojos hinchados, la cara deformada por los golpes y quemaduras en el cuerpo. Quería llevarla de vuelta a Fernigard con las heridas curadas, tal como su familia la recordaba antes de que se la llevaran. Había dedicado años a hacer de Leandrin la mujer que quería llevar ante la corte. Ni siquiera Gunther tenía por qué verla así.
 
 Mientras la atendía, Leandrin le contó lo que había pasado. También le dijo qué quería.
 
@@ -21,9 +21,9 @@ Ose le recordó qué poco éxito había tenido cuando puso todo su empeño en of
 
 Sirene siguió negándose. Leandrin tomó una navaja y se la llevó al cuello. Antes de que pudiera cumplir su amenaza, Sirene alzó la mano. Leandrin vio la hoja hundirse en su propia piel y fundirse con su mano hasta desaparecer.
 
-—¿Eso quieres? —le preguntó Sirene—. Llegará el día en que te mires al espejo y ni tú misma te reconozcas.
+—¿Eso quieres? —le preguntó Sirene.
 
-Podía devolverle su rostro, guardar lo sucedido entre las dos y volver juntas a casa. Si escogía el poder para vengarse, dejaría de ser su hija. Leandrin aún creía que la mujer que había venido a buscarla la amaba. Entendió lo que iba a perder.
+Podía curarle las heridas, guardar lo sucedido entre las dos y volver juntas a casa. Si escogía el poder para vengarse, dejaría de ser su hija. Leandrin aún creía que la mujer que había venido a buscarla la amaba. Entendió lo que iba a perder.
 
 —Prefiero ser como tú a que me ames.
 

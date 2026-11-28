@@ -101,7 +101,7 @@ La conversación que para ella había parecido interminable apenas había ocupad
 
 Y Ose ya no estaba.
 
-Entre los gritos de los soldados y el estruendo de la batalla, Gunther Rheiner apareció junto a su hija. Llevaba la espada desenvainada y su rostro reflejaba una preocupación que Leandrin rara vez le había visto.
+Entre los gritos de los soldados y el estruendo de la batalla, Gunther Rheiner apareció junto a su hija. Empuñaba el hacha y su rostro reflejaba una preocupación que Leandrin rara vez le había visto.
 
 —¡Leandrin! ¡Hija! —exclamó, acercándose a ella—. ¡Jamás había visto Grimm semejantes! ¡Debemos replegarnos!
 

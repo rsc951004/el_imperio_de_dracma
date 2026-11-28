@@ -1,9 +1,7 @@
 <!-- Borrador para revisión -->
 # 06. El rostro en el agua
 
-Leandrin despertó con sed. Estaba sola. Se acercó al charco de la cueva y se inclinó para beber. La hinchazón había desaparecido. Se tocó la cara y la muchacha en el agua la imitó. Tuvo que pasar los dedos por sus facciones para convencerse de que eran suyas. Cuando llamó a su madre, hasta la voz que le devolvió la cueva le resultó extraña.
-
-Sirene la había curado antes de entregar su vínculo. Cualquiera que saliera en busca de la hija de Gunther pasaría de largo junto a ella.
+Leandrin despertó con sed. En el agua del charco alcanzó a verse la cara antes de inclinarse a beber. La hinchazón había desaparecido. Sirene le había curado las heridas antes de entregar su vínculo. Leandrin llamó a su madre. Solo le respondió el eco de la cueva.
 
 En la tundra de Flammengard, Leandrin tuvo que buscar algo que comer y un lugar donde pasar la noche. Ose caminaba a su lado en forma de leopardo. A cada pregunta de la muchacha respondía con otra, y a veces tenía que recorrer un buen trecho antes de entender qué había querido decirle.
 

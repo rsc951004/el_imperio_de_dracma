@@ -175,7 +175,7 @@ Una tras otra, aquellas monstruosidades se fueron desvaneciendo lentamente.
 
 Ose contemplaba el espectáculo, incapaz de apartar la mirada.
 
-Dionisia había vuelto a aparecer junto a él.
+A su lado, Dionisia seguía mirando hacia Phardazul.
 
 —¿Es obra tuya, mujer? —preguntó la pantera.
 

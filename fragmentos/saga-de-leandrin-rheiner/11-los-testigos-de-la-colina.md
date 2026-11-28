@@ -23,11 +23,6 @@ Luego, con una suavidad familiar, acarició su cabeza.
 
 Ose se regocijó al instante con su presencia. La fiereza de la gran bestia no desapareció, pero sí se transformó en algo más contenido, casi complacido.
 
-Entonces la mujer habló.
-
-—¿Disfrutas del espectáculo?
-
-La mujer continuó acariciando la cabeza de la enorme pantera mientras ambos contemplaban la oscuridad que se extendía sobre Phardazul.
 
 —¿Disfrutas del espectáculo? —preguntó Dionisia.
 

@@ -223,7 +223,7 @@ Letho ladeó la cabeza, intrigado.
 
 —¿Ah, no?
 
-—Veamos cuántas sombras puedes convocar mientras te asfixias en esta fortaleza sin ventanas.
+—Veamos cuántas sombras puedes convocar con los pulmones llenos de humo.
 
 Sin darle tiempo a responder, Gunther se volvió hacia una de las lámparas de aceite encendidas que iluminaban la estancia. La arrancó de su soporte y la estrelló violentamente contra el suelo.
 
@@ -250,22 +250,6 @@ En medio de las llamas, Letho Arsaladin permanecía arrodillado.
 La barrera invisible continuaba rodeándolo.
 
 Gunther levantó nuevamente su hacha y contempló al gobernador a través del humo.
-
-—Puedes detener el hierro, maldito. Veamos si también puedes detener el aire que necesitas para respirar.
-
-Leandrin observó cómo el incendio se extendía por la sala.
-
-Habían encontrado una manera de atacarlo.
-
-Ahora quedaba por descubrir si funcionaría.
-
-Las llamas trepaban por los tapices y devoraban los muebles. El humo se acumulaba bajo el techo, formando una espesa nube negra que descendía lentamente sobre la estancia.
-
-Gunther Rheiner permanecía frente a Letho, con el hacha firmemente sujeta entre las manos.
-
-—¡Veamos si tus sombras también te sirven para respirar, maldito cobarde! —rugió—. ¡Abominación!
-
-Su voz resonó por encima del crepitar de las llamas.
 
 A su lado, Leandrin tosió y se cubrió la boca con una manga. El calor era cada vez más intenso.
 

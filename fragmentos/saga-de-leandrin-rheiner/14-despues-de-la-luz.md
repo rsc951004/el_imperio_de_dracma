@@ -1,7 +1,7 @@
 <!-- Borrador para revisión -->
 # 14. Después de la luz
 
-Letho cayó de rodillas, respirando con dificultad.
+Letho seguía de rodillas, respirando con dificultad.
 
 A sus pies, el pequeño gusano negro había quedado reducido a un cuerpo seco e inmóvil.
 
@@ -33,7 +33,7 @@ No se detuvo.
 
 No volvió la cabeza.
 
-Y mientras Leandrin descendía lentamente hacia el patio, sostenida por Ose y Dionisia, Letho Arsaladin desapareció entre las extensiones de la Llanura Salvaje.
+Letho Arsaladin se perdió en la Llanura Salvaje.
 
 La criatura que la luz había consumido la había creado la entidad que comandaba a Letho para ampliar los poderes del Portador y controlarlo.
 

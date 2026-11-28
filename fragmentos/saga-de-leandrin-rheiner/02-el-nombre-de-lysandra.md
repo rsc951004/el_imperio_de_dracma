@@ -13,4 +13,4 @@ Ose le tocó el pecho. A la vista de toda la plaza las dos figuras se fundieron.
 
 Llegó casi sin fuerzas a las costas de Zephyrya. Allí encontró a Rasmus. Le contó la historia de una esclava que había logrado huir de Astria. Conocía lo bastante a los Hijos del Sol para saber qué acogida podían darle a una mujer del culto y qué escucharía Rasmus en la historia de una esclava fugitiva. Para el rostro que habría de acompañar a ese nombre, Sirene eligió los rasgos que más admiraba en la gente del Verano.
 
-Fue con ese rostro con el que entró en Fernigard. Gunther la tomó por esposa y Leandrin creció llamándola madre. Sirene educó a la niña con paciencia. Incluso sus facciones fueron cambiando poco a poco bajo su mano. Quería para sí la vida más cómoda que pudiera procurarse en Ceniza, y veía muy lejos el porvenir de aquella hija.
+Fue con ese rostro con el que entró en Fernigard. Gunther la tomó por esposa y Leandrin creció llamándola madre. Sirene educó a la niña con paciencia. Quería para sí la vida más cómoda que pudiera procurarse en Ceniza, y veía muy lejos el porvenir de aquella hija.
