@@ -212,9 +212,7 @@ El fin del desierto ya se divisaba en el horizonte, y con él, las primeras luce
 
 Alguien había entregado su destino a Jezebel. Solo podía haber sido él. ¿Quién más? Aquel insolente bravucón, aquel lemuriano de mierda…
 
-—Bendji…
-
-El eco de su nombre resonó por todo lo que quedaba del desierto.
+El nombre de Bendji resonó en su mente y pareció extenderse por todo lo que quedaba del desierto.
 
 Alrik se cubrió los oídos con ambas manos y gritó con todas sus fuerzas:
 

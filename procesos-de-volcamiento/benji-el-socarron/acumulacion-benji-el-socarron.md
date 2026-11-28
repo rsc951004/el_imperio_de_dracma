@@ -2,7 +2,7 @@
 
 **Estado:** acumulación abierta, pendiente de auditoría y resoluciones.
 
-**Fuentes:** los doce fragmentos provisionales de [la saga de Bendji Zharan](../../fragmentos/saga-de-bendji-zharan/). Esta acumulación recoge lo que presentan esas piezas y las aclaraciones aportadas durante su revisión. Las afirmaciones de los personajes se atribuyen a ellos cuando su veracidad no está establecida por la narración.
+**Fuentes:** los doce fragmentos provisionales de [la saga de Bendji Zharan](../../fragmentos/saga-de-bendji-zharan/), el [hilo de la mesa de trabajo](../../mesa-de-trabajo/ChatGPT-Hablar%20sobre%20Ren%20Bendji-20261127-2200.md) y las aclaraciones aportadas durante su revisión. Las afirmaciones de los personajes se atribuyen a ellos cuando su veracidad no está establecida por la narración.
 
 ## Bendji y su familia
 
@@ -22,7 +22,7 @@ Tras regresar al Hierro, Alrik perdió familia, amistades y medios de vida. Vend
 
 La conversación y los recuerdos muestran el rechazo del padre de Alrik al descubrirlo con un amigo de infancia, su matrimonio y su paternidad. Durante su formación conoció a Gauden y fue alumno de Emmerik Eberlin, quien enseñó acerca de Jezebel y su cadena. Alrik recordaba también el futuro que Bendji había imaginado para ambos.
 
-Jezebel quiso que Alrik pronunciara el nombre de Bendji. Él lo pronunció durante su huida, pero rehusó entregárselo a Jezebel y terminó sometido a sus acompañantes. Según Jezebel, se negó hasta el final a condenar a Bendji.
+Jezebel quiso que Alrik pronunciara el nombre de Bendji para condenarlo. Él se negó durante su huida y terminó sometido a sus acompañantes. Al final de sus días se arrepintió de sus acciones.
 
 ## Regreso a Ascaret
 
@@ -36,7 +36,7 @@ El Cuervo combatió al cadáver con fuego y Bendji sacó a Meyzara. Apareció Je
 
 Bendji pidió que reviviera a Tamyr. Jezebel respondió que no tenía ese poder y ofreció hacer que Meyzara olvidara lo ocurrido con Alrik y con su hijo. También le dijo que quedaba algo de Alrik aferrado al cadáver y que podía ayudarlo.
 
-Bendji entró en una casa en penumbra y encontró al pequeño Alrik escondido. Lo ayudó a salir hacia una colina verde y prometió escucharlo cuando quisiera hablar. Al volver en sí, sostenía la mano del cadáver, que dijo su nombre y se deshizo. Jezebel y sus tres acompañantes se marcharon.
+Bendji entró en una casa en penumbra y encontró al pequeño Alrik escondido. Lo ayudó a salir hacia una colina verde y prometió escucharlo cuando quisiera hablar. Al volver en sí, sostenía la mano del cadáver. El último rastro de Alrik reconoció a Bendji y dijo su nombre antes de desaparecer. Bendji sabía que Alrik se había arrepentido. Jezebel y sus tres acompañantes se marcharon.
 
 Meyzara despertó sin recordar el encuentro con Alrik ni lo que había dicho y hecho a Bendji. Recordaba la enfermedad de Tamyr y que un objeto corrupto lo había afectado. Compartió con Bendji el funeral y se despidió de él con afecto.
 

@@ -56,10 +56,12 @@ Ante la imposibilidad de continuar el entrenamiento en aquellas condiciones, Emm
 
 Finalmente, cuando estaba a punto de abandonar el Ala Rota, Bendji consiguió llegar, con ayuda de Tuk, al duodécimo nivel subterráneo de la fortaleza. Para ello tuvieron que atravesar niveles en los que toda clase de horrores los aguardaban.
 
-Allí, en una inmensa cámara vacía, encontraron a Nairim suspendido en posición fetal dentro de una enorme esfera de líquido negro. Había construido su propio Mar de Dirak, sirviéndose de las innumerables sombras sometidas a su voluntad.
+Allí, en una inmensa cámara vacía, encontraron a Nairim suspendido en posición fetal dentro de una enorme esfera de líquido negro. Era como si hubiese creado su propio Mar de Dirak y su propia Sombra lo hubiera consumido. Pero aquellas sombras estaban sometidas a su voluntad y lo aislaban por completo del mundo exterior.
 
 Nairim despertó y los vio juntos. Volvió a sentir el dolor que lo había llevado a encerrarse allí. Como Disonante, le costaba manejar una emoción tan intensa. Esta vez lo desbordó y arremetió contra los dos.
 
 Con la ayuda de Tuk, Bendji consiguió que su amigo volviera en sí.
+
+Después del rescate, los Cuervos aprehendieron a los tres. Sus infracciones habían sido graves, pero el Pequeño Consejo consideró que sus habilidades eran demasiado buenas para dejarlas pasar. Los tres debían convertirse en Cuervos Grises.
 
 Y fue así como comenzó aquella singular amistad entre Bendji Zharan, Tayruk Azharen y Nairim Vezhari.
