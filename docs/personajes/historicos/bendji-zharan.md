@@ -1,6 +1,6 @@
 # Bendji Zharan
 
-Miembro de la [Casa Zharan](../../casas/zharan.md), Invocador, Maeghi de grado Experto e integrante de los Cuervos
+Miembro de la [Casa Zharan](../../casas/zharan.md), Portador, Maeghi de grado Experto e integrante de los Cuervos
 Grises de Lemuria. Hablador y socarrón, se llama a sí mismo la Brigada Bendji.
 En el rescate de la mansión Khan combatió y contuvo al Engendro de Sombra y
 retiró la garra que atravesaba el pecho de Iyuri.
@@ -15,13 +15,23 @@ Durante parte de su formación Maeghi vivió fuera de Lemuria y convivió con
 personas de diversos territorios imperiales. Sus experiencias contribuyeron a
 su manera desenvuelta de relacionarse.
 
-## Don de la Reducción
+## Don de la Réplica
 
-Con el [Don de la Reducción](../../mundo/stigria/don-de-la-reduccion.md), Bendji puede reducir el tamaño de armas y otros objetos inanimados, junto con
-su peso, que no desaparece por completo. Los lleva físicamente consigo y puede
-devolverlos a su tamaño original mediante un gesto o una palabra corta. El don
-le permite transportar un gran arsenal; su destreza determina cómo utiliza cada
-arma.
+Bendji es Replicante y utiliza el [Don de la Réplica](../../mundo/stigria/don-de-la-replica.md), con el que manifiesta temporalmente objetos que conoce y comprende. Replica principalmente armas para luchar. Estudia sus cualidades y guarda detalles en una libreta para recordarlas. Su dominio del Don, fuerza e ingenio lo hicieron destacar en la academia.
+
+## Infancia y formación
+
+Creció en Ascaret, en una familia muy pobre que vivía entre comunidades ishbaalitas ortodoxas sin pertenecer a ellas. Su madre, Meyzara Zharan, limpiaba casas y recibía caridad. Bendji nunca conoció a su padre. Su hermano mayor, Tamyr, creció desplazado por el cariño que Meyzara sentía por Bendji.
+
+A los quince años replicó diez ghilds para comprar comida. Fue detenido junto a su madre; ella pudo elegir entre prisión para ambos o enviarlo a la Möes Tábura. Bendji recibió información sobre el condicionamiento y formalizó su ingreso. Meyzara dejó de hablarle durante los meses previos y Tamyr la convenció después de rechazar sus visitas.
+
+En Veleskaria descubrió la posibilidad de progresar con su Don. Se enamoró de su maestro Alrik Veyner, quien lo manipuló y mantenía relaciones con otros aprendices. Alrik fue denunciado y expulsado. Después de que le propusiera abandonar la academia para trabajar en una casa de placer, Bendji lo sepultó bajo monedas replicadas. Se sintió traicionado y humillado, sin perder por ello su seguridad como Maeghi.
+
+Dos años y medio después de su llegada recibió noticia de la muerte de Tamyr y regresó a Lemuria. En el camino conoció a Tayruk Azharen y se enamoró de él. En Ascaret, Meyzara lo atacó bajo la influencia de los acompañantes de Jezebel. El Cuervo Emmerik Eberlin lo salvó y Tuk sanó su herida.
+
+Bendji había soñado con ser cazador de Grimms, oficio que desde Lemuria imaginaba como una aventura. Durante su viaje, Emmerik compartió sus experiencias y se disculpó por llamar modestos sus sueños. Tuk y Bendji se visitaron como amigos hasta que las cartas y visitas cesaron. Bendji tomó aquel silencio como una indirecta y pasó años sin acostarse con nadie. Guardaba un pase de baños como señal de disciplina y esperanza de que Tuk volviera.
+
+Emmerik reclutó a Nairim para un programa de expósitos. Bendji se unió a ellos y conoció a Nairim en el viaje al Ala Rota. Allí reencontró a Tuk y, después de un encuentro difícil, ambos se acercaron y Tuk le contó lo ocurrido en la capital. Nairim sufrió una aflicción intensa; tras un duelo y la cancelación del programa, Bendji y Tuk descendieron para rescatarlo. Los Cuervos aprehendieron a los tres, pero el Pequeño Consejo consideró que sus habilidades eran tan buenas que debían incorporarse a la orden.
 
 ## Relaciones con Tuk y Nairim
 
@@ -68,14 +78,7 @@ Bendji o en Nairim durante el encuentro.
 
 ## Tamyr Zharan
 
-Ante su madre, Bendji afrontó lo que quedaba de su hermano [Tamyr Zharan](tamyr-zharan.md). El Corrupto
-podía tener el aspecto de Tamyr, hablar como él y conservar sus recuerdos.
-Tamyr, el hermano de Bendji y el hijo que su madre había perdido, había muerto
-cuando la Corrupción anuló por completo su ego.
-
-Bendji recomendó eliminar al Corrupto sin mayor intento de salvarlo. [Su madre](madre-de-bendji-zharan.md) le
-recrimina lo sucedido y ambos se distanciaron profundamente; él evita mantener
-mucho contacto con ella porque sus conversaciones terminan en esa recriminación.
+Su hermano [Tamyr Zharan](tamyr-zharan.md) murió tras ser corrompido. Un Cuervo eliminó al Corrupto antes del regreso de Bendji. Después del encuentro con Jezebel, Meyzara olvidó lo sucedido con Alrik y lo que le había hecho a su hijo. La despedida afectuosa puso fin al distanciamiento más fuerte entre ambos, aunque su relación posterior siguió siendo más bien distante.
 
 ## La invitación a Iyuri
 

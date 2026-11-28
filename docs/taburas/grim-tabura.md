@@ -25,6 +25,8 @@ preserva y comparte los conocimientos de los cazadores. Documenta sus encuentros
 con los Grimm y estudia a estas criaturas. Existen cazadores independientes que
 ejercen sin pertenecer al gremio.
 
+La abundancia de cazadores y la disminución de los Grimm hacen que los encargos bien remunerados sean cada vez más escasos. Para Bendji Zharan, criado en Lemuria, donde no llegan los Grimm, cazarlos tenía el atractivo de una aventura.
+
 ## Alcance
 
 Sus métodos, jerarquía y organización interna quedan reservados para etapas

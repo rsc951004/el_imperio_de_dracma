@@ -6,6 +6,8 @@ Principado y protectorado insular del Imperio de Dragma, al noroeste de
 Stigria, frente a las costas de Flammengard. Conserva autonomía interna bajo la
 protección imperial y es gobernado por un Príncipe Regente de la Casa Kardaskhan.
 Posee Guardia Real propia.
+
+Ascaret se encuentra en el noroeste de la isla. Allí viven comunidades ishbaalitas ortodoxas; entre sus habitantes también hay familias que no pertenecen a la ortodoxia, como la de Bendji Zharan.
 Los Grimm no pueden abandonar Stigria y no alcanzan la isla.
 
 ## El Regalo del Verano

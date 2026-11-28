@@ -36,6 +36,7 @@ Cada entidad o raza canónica posee una ficha individual en la carpeta `entidade
 | Valkyr | Jöten | Conocido como la Montaña Negra. | [Ver ficha](entidades/valkyr.md) |
 | Mobius | Entidad interdimensional | Presencias inmateriales de Irij que pueden consumir por completo el vínculo de una persona. | [Ver ficha](entidades/mobius.md) |
 | Sombra | Conjunto de entidades | Manifestaciones de origen común en los Mobius, entre ellas los Corruptos y los Engendros de Sombra. | [Ver ficha](entidades/sombra.md) |
+| Jezebel | Entidad de naturaleza desconocida | Figura asociada a una cadena de odio y venganza. | [Ver ficha](entidades/jezebel.md) |
 | Portadores | Condición humana | Personas que heredan un vínculo con los Inits y manifiestan normalmente un don. | [Ver ficha](entidades/portadores.md) |
 | Invocadores | Condición humana | Personas que reciben o heredan un vínculo adquirido y ampliado originalmente mediante un rito. | [Ver ficha](entidades/invocadores.md) |
 | Rey Podrido | Entidad soberana | Gobernante del Reino Podrido, confinado en Rauven. | [Ver ficha](personajes/rey-podrido.md) |

@@ -1,4 +1,3 @@
-<!-- Provisional: pendiente de volcamiento. -->
 
 # El duodécimo nivel
 

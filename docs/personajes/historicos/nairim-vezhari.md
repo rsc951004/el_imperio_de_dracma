@@ -1,9 +1,11 @@
 # Nairim Vezhari
 
 Miembro de la [Casa Vezhari](../../casas/vezhari.md), Maeghi de grado Maestro, Disonante extremo, Siniestro y miembro de los Cuervos
-Grises de la Guardia Real de Lemuria. Su padre era lemuriano y su madre procedía
-de la Bruma. Creció en Kystvar, ingresó en la Guardia Real y fue destinado a
-Lemuria. Se presentó como el primer Portador siniestro de la isla.
+Grises de Lemuria. Su padre era lemuriano y su madre procedía de la Bruma. Creció en Kystvar. Fue expósito y después ingresó en los Cuervos Grises. Se presentó como el primer Portador siniestro de la isla.
+
+En Veleskaria se ofreció para el programa de expósitos dirigido por Emmerik Eberlin y conoció a Bendji en el viaje al Ala Rota. Allí trabaron una amistad y conoció a Tuk. Una intensa aflicción estuvo cerca de provocarle una Incursión. Recibió el Velo del Ostracismo, que lo protegía de la influencia de la Sombra fuera de su dominio sin quitarle el control de la Sombra que había sometido.
+
+Durante un duelo con Bendji desplegó criaturas de su Pozo de Sombras. Emmerik intervino y Shei consiguió contenerlo. El programa se canceló. Nairim se aisló en el nivel −12, rodeado por su propia Sombra sometida. Al encontrar juntos a Bendji y Tuk sufrió un desborde emocional y arremetió contra ambos. Con ayuda de Tuk, Bendji consiguió que volviera en sí. Los tres fueron aprehendidos y el Pequeño Consejo decidió incorporarlos a la orden pese a sus graves infracciones. La historia del programa y el momento en que Nairim dejó de llevar el velo permanecen reservados.
 
 Es lemuriano de Sangre Nueva. Tiene piel blanca y pálida, rostro alargado,
 facciones definidas, cejas oscuras, ojos castaño oscuro de forma distinta a la

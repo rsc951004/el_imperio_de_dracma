@@ -30,18 +30,15 @@ Tuk llegó a experimentar la **Reverberación**, un fenómeno raro, poco
 documentado y potencialmente peligroso asociado a ciertos desbordes de
 Resonancia. Una persona Reverberante puede desencadenar desbordes extremos en
 otros Maeghi afectados por su influencia. En el caso de Tuk, la crisis podía
-poner en riesgo responsabilidades, empleo, bienestar y seguridad, y causar
+poner en riesgo sus responsabilidades, bienestar y seguridad, y causar
 dolor corporal generalizado, ansiedad y desesperación cuando no encontraba
 alivio. La Reverberación puede reaparecer bajo circunstancias adversas, en
 especial si Tuk desatiende necesidades afectivas y eróticas en momentos
 críticos.
 
-Su condición llegó a costarle el empleo y deterioró sus relaciones familiares;
-su familia se avergonzaba de las consecuencias visibles; las exigencias de su
-hogar contribuyeron a su rechazo. Los Cuervos Grises lo
-incorporaron por su gran potencial, en especial por sus capacidades de
-sanación. Con esfuerzo consiguió recuperar el control de su respuesta y de su
-vida cotidiana.
+Tuk aspiraba a convertirse en sanador imperial. En Eldengaria se hizo amigo de otro aspirante, cuya muerte desencadenó su sufrimiento. Acudió a los placeres de la Resonancia y después experimentó Desborde y Reverberación. El Príncipe Coronado lo buscó; cuando el emperador se enteró, lo acusó de usar la Subyugación y ordenó encarcelarlo. Tuk aseguró que no había usado ese Don contra él. Perdió la oportunidad de ocupar el puesto imperial.
+
+Emmerik Eberlin consiguió sacarlo de prisión y lo acompañó a Lemuria, pero su padre se negó a recibirlo. Emmerik lo llevó al Ala Rota, donde Tuk trató de contener sus impulsos y sufrió un fuerte deterioro físico. Allí reencontró a Bendji, a quien había conocido en un viaje a Lemuria. Después de reencontrarse y compartir intimidad, Tuk le explicó lo sucedido y le declaró su amor. Juntos acudieron en ayuda de Nairim. Los Cuervos aprehendieron a los tres y el Pequeño Consejo decidió incorporarlos por sus habilidades. Con esfuerzo Tuk consiguió recuperar el control de su respuesta y de su vida cotidiana.
 
 Su [hermano mayor](hermano-mayor-de-tayruk-azharen.md) había sentido celos de su prodigioso don de sanación, que
 también poseía su padre, y resentimiento porque Tuk era el hijo favorito pese

@@ -1,4 +1,3 @@
-<!-- Provisional: pendiente de volcamiento. -->
 
 # Los baños
 

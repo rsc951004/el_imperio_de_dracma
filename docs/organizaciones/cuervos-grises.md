@@ -71,6 +71,12 @@ La población suele respetarlos y a veces los teme por su cercanía a la Sombra.
 Mantienen respeto mutuo con las guardias, aunque tienden a relacionarse entre
 ellos. Sus relaciones personales varían de una persona a otra.
 
+## El programa de expósitos
+
+Emmerik Eberlin dirigió un programa experimental de expósitos, aspirantes a Cuervos que aún no podían portar la máscara. Reclutó a Nairim Vezhari y Bendji Zharan en Veleskaria y los llevó al Ala Rota. Después de un duelo entre ellos, Emmerik canceló el programa. Tras el rescate de Nairim en el nivel −12, los Cuervos aprehendieron a Nairim, Bendji y Tayruk Azharen. Pese a la gravedad de sus infracciones, el Pequeño Consejo consideró que sus habilidades eran tan buenas que debían incorporarse a la orden. La historia del programa permanece reservada.
+
+En el Ala Rota, los Cuervos llevan máscara una vez cruzado el umbral, salvo en lugares como baños y dormitorios. La orden reúne Resonantes con diversos grados de desborde, cuyas capacidades pueden ser útiles contra la Sombra.
+
 ## El equipo de Lemuria
 
 El uniforme incluye una máscara de cuervo gris, origen del sobrenombre; rara vez

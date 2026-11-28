@@ -67,14 +67,16 @@ Cada personaje canónico posee una ficha individual en la carpeta `personajes/`.
 | Essio Galenor | Mercader histórico | Tío paterno de Iyuri. | [Ver ficha](personajes/historicos/essio-galenor.md) |
 | Fey Gilmora | Maeghi histórica | Cazadora retirada y cocinera de la familia Khan. | [Ver ficha](personajes/historicos/fey-gilmora.md) |
 | Greta Nerve | Noble histórica | Heredera vinculada a la Casa Nerve. | [Ver ficha](personajes/historicos/greta-nerve.md) |
-| Nairim Vezhari | Guardia histórico | Maeghi de grado Maestro, Disonante extremo y Siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nairim-vezhari.md) |
+| Nairim Vezhari | Cuervo Gris histórico | Maeghi de grado Maestro, Disonante extremo y Siniestro de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/nairim-vezhari.md) |
 | Tayruk Azharen | Guardia histórico | Invocador con dones conocidos de sanación y Subyugación, sanador extraordinario y Maeghi de grado Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/tayruk-azharen.md) |
-| Bendji Zharan | Guardia histórico | Invocador del Don de la Reducción y Maeghi de grado Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/bendji-zharan.md) |
+| Bendji Zharan | Cuervo Gris histórico | Portador Replicante y Maeghi de grado Experto de los Cuervos Grises de Lemuria. | [Ver ficha](personajes/historicos/bendji-zharan.md) |
 | Tamyr Zharan | Personaje histórico | Hermano de Bendji, víctima de la Corrupción. | [Ver ficha](personajes/historicos/tamyr-zharan.md) |
 | Hermano mayor de Tayruk Azharen | Invocador histórico | Cuervo Consultor en tiempos de Iyuri Khan. | [Ver ficha](personajes/historicos/hermano-mayor-de-tayruk-azharen.md) |
 | Padre de Tayruk Azharen | Invocador | Sanador y padre de Tayruk y su hermano mayor. | [Ver ficha](personajes/historicos/padre-de-tayruk-azharen.md) |
 | Padre de Nairim Vezhari | Personaje histórico | Padre lemuriano de Nairim. | [Ver ficha](personajes/historicos/padre-de-nairim-vezhari.md) |
-| Madre de Bendji Zharan | Personaje histórico | Madre de Bendji y Tamyr Zharan. | [Ver ficha](personajes/historicos/madre-de-bendji-zharan.md) |
+| Meyzara Zharan | Personaje histórico | Madre de Bendji y Tamyr Zharan. | [Ver ficha](personajes/historicos/meyzara-zharan.md) |
+| Emmerik Eberlin | Cuervo Gris histórico | Portador del Don Ígneo y maestro de Tuk y Alrik. | [Ver ficha](personajes/historicos/emmerik-eberlin.md) |
+| Alrik Veyner | Maeghi histórico | Portador y Replicante, antiguo maestro de Bendji. | [Ver ficha](personajes/historicos/alrik-veyner.md) |
 | Cuervo Maestro en tiempos de Iyuri Khan | Cuervo Gris | Presidente del Pequeño Consejo. | [Ver ficha](personajes/historicos/cuervo-maestro-en-tiempos-de-iyuri.md) |
 | Cassyan Therin | Personaje histórico | Primer Portador del Sol desde Iulien y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/cassyan-therin.md) |
 | Parys Therin | Personaje histórico | Portador Ígneo y cofundador de la Casa Therin de Valastir. | [Ver ficha](personajes/parys-therin.md) |

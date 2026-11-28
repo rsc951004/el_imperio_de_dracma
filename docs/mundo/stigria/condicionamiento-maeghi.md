@@ -36,6 +36,8 @@ aislamiento en Disonantes. Los efectos llevan siglos estudiándose y
 documentándose y son imprevisibles a escala individual. La aceptación de
 ingreso no equivale a consentir actos concretos.
 
+La Möes prohíbe las relaciones amorosas entre maestros y aprendices, incluso cuando ambos son mayores de edad. Durante las primeras etapas, el condicionamiento puede producir fluctuaciones de ánimo y de libido que no necesariamente coinciden. La cercanía afectiva entre pares contribuye a la estabilidad emocional; esa etapa también puede dejar a los aprendices vulnerables ante abusos de figuras de confianza.
+
 El condicionamiento puede reducir gradualmente barreras a la cercanía y afectar
 costumbres, incluidas normas de masculinidad tradicional entre Sangre de Hierro.
 Algunos padres se quejan de que sus hijos regresan excesivamente cariñosos. No
@@ -94,16 +96,9 @@ resistencia pasiva a la Sombra y la eficacia posible del Santuario del Alma.
 
 ## Desborde de Resonancia
 
-El **desborde de resonancia** es un efecto secundario involuntario y
-necesariamente erótico. No elimina la voluntad ni obliga a actuar; puede
-resistirse o seguirse, y se considera esencialmente inocuo por sí mismo. Puede
-retroalimentarse y causar hipersexualización persistente. Algunas personas la
-integran en su vida y otras sufren dificultades. El juicio de que revela falta
-de autocontrol es una percepción social, más frecuente entre personas inclinadas
-a la Disonancia, no una propiedad del fenómeno.
+El **desborde de resonancia** es un efecto secundario involuntario y necesariamente erótico. No elimina la voluntad ni obliga a actuar; puede resistirse o seguirse, retroalimentarse y causar hipersexualización persistente. El juicio de que revela falta de autocontrol es una percepción social, no una propiedad del fenómeno.
 
-Quienes experimentan desborde suelen ser algo más resistentes a la Sombra, sin
-ser inmunes.
+Cuando los impulsos eróticos persistentes de un Resonante desbordado no son atendidos, puede sufrir gran malestar físico y emocional y quedar vulnerable a la Sombra. En casos raros, la respuesta física puede llegar a causar la muerte. Cuando sus impulsos están bien atendidos, su protección contra la Sombra es extremadamente fuerte. No todo impulso erótico de un Resonante implica un desborde.
 
 ## Reverberación
 

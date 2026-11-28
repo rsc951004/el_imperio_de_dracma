@@ -1,4 +1,3 @@
-<!-- Provisional: pendiente de volcamiento. -->
 
 # Las cartas que dejaron de llegar
 

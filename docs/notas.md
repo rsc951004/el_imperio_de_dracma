@@ -1,5 +1,21 @@
 # Notas editoriales
 
+### Fichas de Jezebel y la saga de Bendji (2026-11-28)
+
+Se amplió la ficha de Jezebel con sus manifestaciones, personalidad, formas de actuar, cadena y acompañantes, distinguiendo los hechos de sus afirmaciones y de las enseñanzas de Emmerik. Su origen, naturaleza y las reglas exactas de la cadena permanecen sin definir. Se completaron las fichas de Alrik y Emmerik y las referencias narrativas de Meyzara y Tamyr; se incorporó Jezebel al índice de entidades.
+
+### Casa Zharan y Meyzara (2026-11-28)
+
+Por corrección humana, Meyzara y sus hijos Tamyr y Bendji pertenecen a la Casa Zharan. Se retiró la Casa Tamyr y se armonizaron fichas e índices.
+
+### Ficha de Meyzara y Casas de la saga de Bendji (2026-11-28)
+
+Se renombró la ficha de Meyzara Tamyr y se actualizaron sus enlaces. Se añadieron las fichas preliminares de las Casas Tamyr, Eberlin y Veyner, junto con sus entradas en el índice. Sus estamentos, orígenes y demás antecedentes permanecen sin determinar.
+
+### Benji, el socarrón (2026-11-27)
+
+Se incorporaron los doce fragmentos de la saga de Bendji y los antecedentes aprobados de su familia, Alrik, Jezebel, Emmerik y el equipo de Cuervos. El Don de la Réplica sustituye a la Reducción; se armonizaron las historias de Tamyr, Meyzara, Nairim y Tuk y el marco de Desborde. Permanecen reservadas la cronología, la historia del programa de expósitos, la naturaleza de Jezebel, la cadena y los demás aspectos indicados en el proceso de volcamiento.
+
 ### Casas de los Cuervos de Lemuria (2026-11-24)
 
 Por indicación humana, las Casas Vezhari, Azharen y Zharan se documentan como

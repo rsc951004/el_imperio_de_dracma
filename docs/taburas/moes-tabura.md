@@ -171,6 +171,8 @@ excepcional y nunca antes vista. Si cumple ese criterio, se le concede la
 distinción. No se establece un procedimiento de votación ni se traslada a este
 reconocimiento la unanimidad exigida para el grado de Maestro.
 
+La Möes fomenta amistades entre aprendices y maestros, pero prohíbe las relaciones amorosas entre ellos, incluso cuando ambos han alcanzado la mayoría de edad.
+
 ## Referencias
 
 - `docs/entidades/portadores.md`

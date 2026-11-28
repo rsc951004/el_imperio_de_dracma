@@ -83,7 +83,7 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Custodios | Profesión | Guardias personales, asistentes y acompañantes profesionales imperiales o reales. | [Ver ficha](mundo/stigria/custodios.md) |
 | Don del Caos | Don de Portador | Permite manifestaciones elementales sin requerir necesariamente una fuente externa. | [Ver ficha](mundo/stigria/don-del-caos.md) |
 | Don Elemental | Don | Su uso depende de un elemento presente. | [Ver ficha](mundo/stigria/don-elemental.md) |
-| Don de la Reducción | Don | Reduce el tamaño y peso de objetos inanimados. | [Ver ficha](mundo/stigria/don-de-la-reduccion.md) |
+| Don de la Réplica | Don | Manifiesta temporalmente objetos conocidos y comprendidos en detalle. | [Ver ficha](mundo/stigria/don-de-la-replica.md) |
 | Órdenes de Dragma | Instituciones | Órdenes especializadas con dirección centralizada. | [Ver ficha](mundo/stigria/ordenes-de-dragma.md) |
 | Índice Molokai | Registro estadístico | Porcentajes de ocurrencia de dones entre Vinculados registrados. | [Ver ficha](mundo/stigria/indice-molokai.md) |
 | Desfase | Fenómeno místico | Alteraciones que impiden experimentar o usar el don normalmente. | [Ver ficha](mundo/stigria/desfase.md) |
@@ -170,6 +170,8 @@ Las entidades políticas documentadas desde esta sección pertenecen a periodos 
 | Casa Vezhari | Casa lemuriana | Casa de Nairim Vezhari; estamento no determinado. | [Ver ficha](casas/vezhari.md) |
 | Casa Azharen | Casa lemuriana | Casa de Tayruk Azharen; estamento no determinado. | [Ver ficha](casas/azharen.md) |
 | Casa Zharan | Casa lemuriana | Casa de Bendji y Tamyr Zharan; estamento no determinado. | [Ver ficha](casas/zharan.md) |
+| Casa Eberlin | Casa | Casa de Emmerik Eberlin; estamento y origen no determinados. | [Ver ficha](casas/eberlin.md) |
+| Casa Veyner | Casa | Casa de Alrik Veyner; estamento y origen no determinados. | [Ver ficha](casas/veyner.md) |
 | Casa Rizen | Casa | Casa de Severus Rizen. | [Ver ficha](casas/rizen.md) |
 | Casa Hubbe | Casa | Casa vinculada al apellido de Mila Hubbe. | [Ver ficha](casas/hubbe.md) |
 | Casa Roudha | Casa | Casa de Jabber Roudha. | [Ver ficha](casas/roudha.md) |

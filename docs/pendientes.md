@@ -41,6 +41,9 @@ Plata–Tiranía ya no se mantienen en esta lista.
 |------|-----------|
 | **Don de la Flecha** | Confirmar si se adoptan los nombres propuestos Viraje y Faro para las técnicas independientes de modificación de trayectoria y percepción desde objetos anclados. |
 | **Ceremonia de mayoría de edad** | Definir el nombre y el desarrollo de la ceremonia obligatoria a los dieciséis años. |
+| **Jezebel** | Reservar su naturaleza y el funcionamiento exacto de la cadena. |
+| **Expósitos y Nairim** | Reservar la historia del programa de expósitos, el desarrollo propio de Nairim y el momento en que deja el Velo del Ostracismo. |
+| **Bendji y Ren** | Reservar la rivalidad y amistad posterior para la saga de Erebia de los Cuervos Grises. |
 | **Tierras Intermedias** | Completar la ficha, el gobierno, la geografía y la relación con los reinos. |
 | **Stamengherin moderno** | Fijar el número y la elección de representantes, la rotación y el lugar de reunión durante un quiebre. |
 | **Eldengaria** | Completar la ficha de la capital imperial. |

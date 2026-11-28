@@ -1,4 +1,3 @@
-<!-- Provisional: pendiente de volcamiento. -->
 
 # Tres golpes en la puerta
 
