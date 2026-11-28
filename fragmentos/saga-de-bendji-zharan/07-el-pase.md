@@ -2,7 +2,11 @@
 
 # El pase
 
-Tuk volvió a visitarlo. Bendji entendió pronto que, por mucho que le gustara, su amigo había decidido hasta dónde iba a llegar aquello. Respetó la distancia. Después dejaron de llegar las cartas y se acabaron también las visitas. Durante años hubo en la academia quien habría dado cualquier cosa por estar con Bendji una noche. Hasta cuando le apretaba el deseo, seguía durmiendo solo.
+Tuk volvió a visitarlo. Era unos meses menor que Bendji, pero ya era Adepto y destacaba como sanador, mientras Bendji estudiaba para ser iniciado. Aunque se gustaban, Tuk había dejado de coquetear con él y Bendji respetó la distancia. Se visitaron como amigos hasta que dejaron de llegar las cartas y se acabaron también las visitas. Bendji tomó el silencio como una indirecta y no hizo mucho por averiguar qué había sucedido.
+
+En la academia se propuso ser el mejor Maeghi de su generación y demostrar que un Replicante podía ser mucho más que un armero. Estudiaba sus armas hasta poder imaginarlas con todas sus cualidades y guardaba los detalles en una pequeña libreta. Una que dejara de usar durante demasiado tiempo podía olvidarse; entonces corría el riesgo de no poder replicarla bien. Sus habilidades físicas, su ingenio y el dominio de su Don lo hicieron destacar.
+
+Durante años hubo en la academia quien habría dado cualquier cosa por estar con Bendji una noche. Hasta cuando le apretaba el deseo, seguía durmiendo solo. Por cada día que el pase de los baños permanecía en su caja, Bendji celebraba una victoria de su disciplina.
 
 Así pasó el tiempo, hasta que un día el viejo Emmerik regresó a su tan querida academia, vestido con sus ropas de Cuervo Gris y acompañando al pequeño consejo.
 

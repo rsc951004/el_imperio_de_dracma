@@ -64,6 +64,8 @@ Bendji levantó el brazo y tocó el cabello de Nairim.
 
 —Es una mezcla de hierbas de la Bruma. Traje más, si quieres.
 
+La forma abierta en que Bendji se había acercado a él había impresionado a Nairim. Hasta entonces no había llegado a comprender lo que era tener un amigo. Su reserva y su manera literal de entender a los demás venían de antes de su condicionamiento, aunque este las había reforzado.
+
 —¿Sí? Podrías darme un poco cuando estemos en el cuarto. Tú puedes aplicármelo y yo a ti. ¿Qué dices?
 
 —¿Por qué no puedes hacerlo tú solo? ¿No sabes cómo?

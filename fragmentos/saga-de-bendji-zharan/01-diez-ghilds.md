@@ -2,11 +2,19 @@
 
 # Diez ghilds
 
-El mercader apartó las diez monedas que Bendji le había dado por la comida. Cuando volvió a buscarlas, habían desaparecido. A sus quince años, Bendji había conseguido que nadie en Ascaret supiera que era Replicante. Diez ghilds bastaron para que fueran a buscarlo a su casa y se llevaran también a su madre.
+Bendji creció en Ascaret, entre comunidades ishbaalitas ortodoxas. Su familia no pertenecía a ellas y vivía en una pobreza extrema. Meyzara limpiaba casas y aceptaba la caridad cuando no había suficiente para comer. Antes había trabajado en las casas de placer de las Costas del Verano, hasta el nacimiento de Tamyr.
+
+Bendji nunca conoció a su padre. Su madre le había hablado de aquel hombre que decía venir de Sindria, del que se enamoró y que la abandonó cuando esperaba a Bendji. Aún soñaba con que volviera por ellos. Tamyr, en cambio, creció viendo cómo su hermano menor recibía el cariño que él anhelaba. Meyzara desconocía la identidad del padre de su primer hijo; quizá había sido uno de sus clientes.
+
+El mercader apartó las diez monedas que Bendji le había dado por la comida. Cuando volvió a buscarlas, habían desaparecido. A sus quince años, Bendji había conseguido que nadie en Ascaret supiera que era Replicante. Vender réplicas era un delito, pero replicar moneda era más grave. Diez ghilds bastaron para que fueran a buscarlo a su casa y se llevaran también a su madre.
 
 Meyzara limpiaba casas de familias ortodoxas. Algunos de sus clientes intercedieron por ella. Podía enviar al chico a la Möes Tábura o ir a prisión con él. Eligió Veleskaria. Faltaban meses para la partida y Bendji pasó cada uno de ellos esperando que su madre le dirigiera la palabra. Él, precisamente él, el hijo al que siempre había querido más. Del padre de Tamyr ni siquiera conocía el nombre. Del de Bendji seguía esperando que volviera a buscarlos.
 
-En la academia, cada vez que Bendji intentaba arreglar una visita, Tamyr convencía a su madre de que lo rechazara. Allí aprendió lo que podía hacerle la Resonancia. Había días en que deseaba a alguien con una intensidad que lo sorprendía y, al mismo tiempo, se sentía hundido. Se enamoró de Alrik Veyner, su maestro. Cuando los padres de otro aprendiz denunciaron lo que Alrik le hacía a su hijo, Bendji fue a pedirle explicaciones. Lo encontró haciendo el equipaje.
+En la academia, cada vez que Bendji intentaba arreglar una visita, Tamyr convencía a su madre de que lo rechazara. Allí aprendió lo que podía hacerle la Resonancia. Había días en que deseaba a alguien con una intensidad que lo sorprendía y, al mismo tiempo, se sentía hundido. Se enamoró de Alrik Veyner, su maestro, diez años mayor que él. El amor era suyo, aunque el condicionamiento lo hiciera sentirlo con una intensidad que apenas podía manejar.
+
+Luego descubrió que Alrik estaba casado y mantenía relaciones con otros aprendices. Cuando lo enfrentó, el maestro se rio de sus sentimientos, de su pobreza y de sus capacidades. Bendji había llegado a la Möes obligado, pero allí había conocido gente de todo el Imperio y descubierto que podía labrarse una vida con su Don. Ahora el hombre que amaba quería apartarlo de todo aquello.
+
+Cuando los padres de otro aprendiz denunciaron lo que Alrik le hacía a su hijo, Bendji volvió a buscarlo. Lo encontró haciendo el equipaje.
 
 —Deja que pase el escándalo. En las Puertas Rojas te estarán esperando para llevarte a Zephyrya. Conozco a gente en una casa de placer. Con esa cara, ¿para qué te quedas aquí? Mejor un cortesano bien pagado que un místico mediocre.
 

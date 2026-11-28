@@ -74,6 +74,8 @@ Bendji dejó correr una lágrima y presionó con su propia mano la de Tuk contra
 
 Bendji lo miró con sorpresa y un poco de desilusión. No era la reacción que esperaba de Tuk.
 
+En Lemuria, donde no había Grimms, cazarlos le parecía una aventura sacada de una fábula. Imaginaba recorrer el continente, aceptar encargos y ganarse la vida combatiendo monstruos. Emmerik le habló después de lo difícil que era encontrar buenos contratos entre tantos cazadores y cada vez menos criaturas. Durante el viaje le contó sus propias experiencias, se disculpó por llamar modestos sus sueños y le dijo que podía hacer mucho más con su vida.
+
 —Pequeño Tuk, no te rías de tu compañero. Como Maeghi, debemos celebrar los sueños de nuestros camaradas, aunque sean… Bueno, modestos.
 
 —¿Y tú en qué vas a trabajar?

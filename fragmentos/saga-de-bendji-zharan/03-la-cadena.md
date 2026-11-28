@@ -2,7 +2,9 @@
 
 # La cadena
 
-En el Hierro, Alrik había perdido a su familia, sus amigos y los clientes que alguna vez necesitaron sus servicios. Vendió su casa. Cuando se le acabó el dinero, pagó con monedas que desaparecían. En un lugar tan pequeño, ¿a quién iban a buscar sino al único Replicante? Huyó al páramo. El suelo cedió bajo sus pies y, al quitarse la tierra de los ojos, se encontró en un pasillo iluminado por antorchas.
+Alrik fue expulsado de la Möes tras múltiples acusaciones de abuso de poder y una denuncia de violación. Sus contactos le permitieron conservar su condición de Maeghi. Regresó a Eisengard, pero su esposa e hijos lo abandonaron. Su familia, sus amigos y colegas le dieron la espalda. En el Hierro el amor espejo era tabú; los abusos de esa índole se juzgaban con mayor dureza aún.
+
+Alrik había perdido también a los clientes que alguna vez necesitaron sus servicios. Vendió su casa. Cuando se le acabó el dinero, pagó con monedas que desaparecían. En un lugar tan pequeño, ¿a quién iban a buscar sino al único Replicante? Huyó al páramo. El suelo cedió bajo sus pies y, al quitarse la tierra de los ojos, se encontró en un pasillo iluminado por antorchas.
 
 Al final del pasillo había una estancia circular.
 

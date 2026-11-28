@@ -76,4 +76,34 @@ Emmerik canceló el programa de expósitos. Bendji y Tuk descendieron al nivel �
 
 ## Alcance pendiente
 
+### Antecedentes familiares y formación
+
+- En Ascaret, la familia vivía en extrema pobreza entre comunidades ishbaalitas ortodoxas, sin pertenecer a ellas. Meyzara recurría también a la caridad. Bendji nunca conoció a su padre.
+- Meyzara es lemuriana y no Vinculada. El padre de Bendji decía ser de Sindria y la abandonó durante el embarazo. Ella desconocía la identidad del padre de Tamyr, posiblemente un cliente. Sus experiencias alimentaron cierto resentimiento hacia la vida; Tamyr creció desplazado por su hermano menor.
+- Vender réplicas era un delito grave y replicar moneda, más grave aún. Bendji partió a la Möes poco antes de cumplir dieciséis años.
+- El condicionamiento produjo fluctuaciones de ánimo y libido que no siempre coincidían. Fomenta la cercanía afectiva entre pares y la asociación entre esa cercanía y la estabilidad emocional. Las primeras etapas suponen vulnerabilidad ante abusos de figuras de confianza.
+- La Möes prohíbe las relaciones entre maestros y aprendices, incluso cuando ambos son mayores de edad. Bendji tenía dieciséis años, mayoría de edad imperial según el desarrollo del hilo. Esas relaciones eran controvertidas, aunque ocurrían.
+- Alrik era diez años mayor que Bendji, estaba casado y mantenía relaciones con otros aprendices. Para él la relación fue manipulación; Bendji estaba verdaderamente enamorado y el condicionamiento intensificaba sus sentimientos. Al enfrentarlo, Alrik se burló de sus sentimientos, su origen y sus capacidades.
+- Aunque ingresó en la Möes por condena, Bendji descubrió allí la posibilidad de progresar gracias a su Don. La propuesta de Alrik amenazaba ese futuro y lo dirigía a la vida que su madre había dejado. Bendji se sintió traicionado y humillado, sin que esto dañara su seguridad como Maeghi.
+
+### Réplica, formación y oficio
+
+- La Réplica manifiesta temporalmente objetos que el Replicante conoce y comprende en detalle, con sus propiedades físicas y místicas. El Don exige estudio, memoria y energía.
+- Bendji lo utiliza principalmente para armas que emplea él mismo. Necesita visualizarlas con claridad y recordar sus cualidades; lleva una libreta para conservar detalles y puede olvidar un arma que deja de utilizar. Los Replicantes suelen cumplir funciones de apoyo, mientras Bendji destaca como combatiente.
+- En la academia quiso ser el mejor Maeghi de su generación y demostrar que un Replicante podía ser más que un armero. Destacó por su dominio del Don, su fuerza, ingenio y habilidades físicas. Consideraba cada día sin usar el pase una victoria de su disciplina.
+- Para Bendji, criado en una Lemuria libre de Grimms, cazarlos tenía el atractivo de una aventura. Había numerosos cazadores y cada vez menos Grimms, por lo que los buenos encargos escaseaban. Emmerik compartió sus experiencias con él y se disculpó por llamar modestos sus sueños.
+- Los expósitos eran aspirantes a Cuervos en un programa experimental y aún no podían portar la máscara.
+
+### Otros antecedentes y relaciones
+
+- Alrik era eisengardiano. Fue expulsado de la Möes tras alegaciones de abuso de poder y una denuncia de violación, aunque conservó su condición de Maeghi por sus contactos. Su esposa e hijos lo abandonaron. En el Hierro el amor espejo era tabú y los abusos de esa índole se consideraban aún peores.
+- Los tres acompañantes de Jezebel actuaron por iniciativa propia, influidos por ella. Tamyr quedó atrapado en un conflicto en el que no había participado.
+- Tuk era unos meses menor que Bendji y ya era Adepto cuando este estudiaba para ser iniciado. Tras la despedida en Lemuria dejaron de coquetear y se visitaron como amigos. Cuando Tuk desapareció, Bendji interpretó su silencio como una indirecta.
+- La Möes reunía Resonantes diversos; los Cuervos concentraban a quienes presentaban rasgos útiles contra la Sombra, incluidos fuertes impulsos eróticos. No todo impulso erótico supone un Desborde. En un Resonante desbordado, la falta de satisfacción puede producir gran malestar y vulnerabilidad a la Sombra; con sus impulsos atendidos, su protección puede ser extremadamente fuerte. Bendji aún no estaba desbordado en esta etapa.
+- La reserva y la forma literal de Nairim precedían a su condicionamiento, que reforzó esos rasgos. La aceptación de Bendji lo impresionó y fue la primera vez que llegó a dimensionar lo que era tener un amigo. Su pasado queda para su propia historia.
+
+### Reserva posterior
+
+Durante la saga de Erebia, Bendji y Ren, ambos guerreros altos y fuertes, desarrollan una rivalidad ligada a la atracción que Tuk siente por Ren y a la sensación de Bendji de quedar desplazado en el grupo y como guerrero. Al regresar a Stigria son grandes amigos y Bendji lo llama hermano. Su desarrollo pertenece a la saga de Erebia de los Cuervos Grises.
+
 La historia y el desarrollo posterior de Nairim quedan para su propia saga. Esta acumulación está pendiente de contraste con el canon y de las decisiones humanas que correspondan.
